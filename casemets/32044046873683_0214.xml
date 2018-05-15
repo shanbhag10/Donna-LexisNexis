@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0214" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="The Eledona">The ELEDONA</name>
+          <docketnumber>Case No. 4,341</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 442</citation>
+          <citation category="parallel" type="bluebook">10 Blatchf. 511</citation>
+          <decisiondate>1873-03-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00222_1" MIMETYPE="image/tiff" CHECKSUM="9e37298136f1a95c3c5c1af64726ab3d" CHECKSUMTYPE="MD5" SIZE="101008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00222_1.tif"/>
+      </file>
+      <file ID="tiff_00223_0" MIMETYPE="image/tiff" CHECKSUM="dbf3718121be04951f6ae563faf5d77c" CHECKSUMTYPE="MD5" SIZE="78228">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00223_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00222_1" MIMETYPE="image/jp2" CHECKSUM="6870887084b1b6d2890491949d649712" CHECKSUMTYPE="MD5" SIZE="3534893">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00222_1.jp2"/>
+      </file>
+      <file ID="jp2_00223_0" MIMETYPE="image/jp2" CHECKSUM="9f59fa4a7a4a305a435e43b9586c5604" CHECKSUMTYPE="MD5" SIZE="3063908">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00223_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00222_1" MIMETYPE="text/xml" CHECKSUM="ab3873257428382125db58f17727b9b2" CHECKSUMTYPE="MD5" SIZE="217316">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00222_1.xml"/>
+      </file>
+      <file ID="alto_00223_0" MIMETYPE="text/xml" CHECKSUM="859b2445b5b0f2ea8d13dfb03248d33d" CHECKSUMTYPE="MD5" SIZE="173123">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00223_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0214" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="443" firstpage="442">
+              <court id="b444-10" pgmap="444">Circuit Court, S. D. New York.</court>
+              <docketnumber id="b444-7" pgmap="444">Case No. 4,341.</docketnumber>
+              <citation id="b444-9" pgmap="444">[10 Blatchf. 511.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b444-8" pgmap="444">The ELEDONA.</parties>
+              <decisiondate id="AB7" pgmap="444">March 3, 1873.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys id="b444-14" pgmap="444">Augustus P. Smith, for libellant</attorneys>
+              <attorneys id="b444-15" pgmap="444">Charles Donohue, for claimant</attorneys>
+              <footnote label="1">
+                <p id="b444-18" pgmap="444">1 [Reported by Hon. Samuel Blatchford, Dis­trict Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="b444-19" pgmap="444">2 [Affirming The Eledona, Case No. 4,340.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b444-16" pgmap="444">WOODRUFF, Circuit Judge.</author>
+                <p id="AR8" pgmap="444">The decree herein [Case No. 4,340] should be affirmed. The master of the brig made a contract for the mast in question, with third parties. He made no contract, express or implied, with the libellant. He did not procure, nor attempt to procure, the mast upon credit; certainly not from the libellant. With money in his possession, he bargained with third persons for the mast, to be made and put in upon his individual personal responsibil­ity. The contract bound him to pay on per­formance of the contract. There was no idea of credit to any one, save that necessa­rily involved in beginning the making of the-­mast, and placing it in the vessel, in con­fidence that the purchaser will thereupon make payment That payment the master made with funds in hand.</p>
+                <p id="b444-17" pgmap="444(205) 445(259)">Had the contractors gone to a ship yard, and purchased a mast, without mentioning the ship into which it was to be placed, there could be no pretence that the seller-­could, on ascertaining what, in performance of their own agreement, they had done with it, proceed against the vessel therefor, and recover, notwithstanding the master had paid therefor to the parties with whom he con­tracted. The master, by entering into the agreement which he made, did not consti­tute the contractors his agents to purchase a mast on the credit of either himself or the vessel. Nor did the master, by going to the yard at which the mast was made, or by anything which, I think, the proofs establish, create a liability to the libellant, either on his own part or that of the vessel. All that he did was in entire harmony with his rela­tion to the contractors. They took him to the yard where the mast was to be made. It had, in fact, been already ordered. Of course, he had an interest in the subject He would, of course, state, if enquired of, the dimensions of ¿he spar, though I greatly doubt that he did that. Those dimensions had already been given, and been furnished by the contractors to the libellant, and, from the memorandum furnished by the contrac­tors, they were entered in his book, with the price at which, on the application of the contractors, the libellant had agreed to make it The libellant was informed that the master of the brig would come up to see the stick; and he testifies that he went up, with Fowler, to see the stick. He knew nothing of the relations between the contrac­tors and the libellant. There was nothing to suggest to him that the contractors were not simply performing their contract. That contract described them as shipwrights and spar makers, and nothing appears to have indicated to the master that the spar was not in progress at a yard which was under their own direction or control. Certainly, there was nothing to suggest that the person he saw at the yard was acting independently of those contractors and looked to him in any wise for payment. Even the libellant, in his own testimony, does not show that the master had any negotiations with him, or that the price of the mast was at any time mentioned to the master. Had that been mentioned by the libellant, it would, obviously, have led to explanation, and the master would have been apprised, if, in fact, it was true, that the libellant proposed to look to him, or to the vessel, for the payment of $150 for a mast for which he had agreed to pay other parties.</p>
+                <p id="b445-3" pgmap="445">The libellant was, possibly, misled; but, if so, it was his own fault. Very slight diligence, indeed, very natural and obvious inquiry, would have informed him that the master had funds; that he had agreed with other parties for the mast; and that the purjtose of his call at the yard was precisely what the libellant had been informed he would come for, namely, not to buy a mast, not to negotiate for a mast, but to see the stick, and so judge of -its fitness for the purpose, and nothing else. Again, the libellant was directed by the person who ordered the mast to send the bill to Pierce &amp; Co., No. 0 South street; and this was assented to. They are not shown to have had any connection with the vessel or the master. In short, the libel-­lant did not furnish the mast to the vessel, nor to the master, but to those who had agreed with the master to furnish it, who ordered it from the libellant, and who re­ceived it at the yard and placed it in the vessel.</p>
+                <p id="b445-4" pgmap="445">If the libellant acted under any mistake, it was due to his own carelessness. He did not put the mast in the vessel. He learned that those who ordered it had taken it away. He could not have supposed that the master of the vessel was about to put in the mast himself. Nor does it appear that he intend­ed to give credit to any one. He did not deliver it. He was not bound to deliver it until paid for. The mast appears to have been taken without his actual knowledge at the time. If he had then followed the mast, and made known to the master that the mast had not been paid for, or if, without that, he had notified those on board that he had not delivered the mast, and had de­manded it, he might have protected himself.</p>
+                <p id="b445-7" pgmap="445">The case is not at all within the cases of The Grape Shot, 9 Wall. [76 U. S.] 129, and The Lulu, 10 Wall. [77 U. S.] 192. In each of those cases, the master had no funds in fact, and, in each, the master did order the supplies on credit.</p>
+                <p id="b445-8" pgmap="445">The conclusions I have thus stated, from the evidence of the actual transaction, ren­der it unnecessary to consider the other grounds urged for the dismissal of the libel, or those fully stated in the opinion of the court below.</p>
+                <p id="b445-9" pgmap="445">A decree dismissing the libel, with costs, must be entered, in affirmance of the deci­sion of the district court</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="444" ORDERLABEL="442" TYPE="page">
+        <fptr FILEID="tiff_00222_1"/>
+        <fptr FILEID="jp2_00222_1"/>
+        <fptr FILEID="alto_00222_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_444.5" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="445" ORDERLABEL="443" TYPE="page">
+        <fptr FILEID="tiff_00223_0"/>
+        <fptr FILEID="jp2_00223_0"/>
+        <fptr FILEID="alto_00223_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_445.3" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-9" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.10" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-8" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.9" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-7" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.8" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AR8" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.19" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            <area BEGIN="BL_444.20" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-3" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.5" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-4" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.6" BETYPE="IDREF" FILEID="alto_00223_0"/>
+            <area BEGIN="BL_445.7" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b445-7" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_445.8" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-8" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.9" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-9" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.10" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-18" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.22" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-19" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.23" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-16" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.18" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-17" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.21" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            <area BEGIN="BL_445.1" BETYPE="IDREF" FILEID="alto_00223_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AB7" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.12" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-15" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.17" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-14" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.16" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-10" BETYPE="IDREF" FILEID="casebody_0214"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.11" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0108" publicationstatus="published">
+          <court abbreviation="E.D. La." jurisdiction="United States">United States District Court for the Eastern District of Louisiana</court>
+          <name abbreviation="Eames v. Cavaroc">EAMES v. CAVAROC et al.</name>
+          <docketnumber>Case No. 4,238</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 237</citation>
+          <decisiondate>1856-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00120_0" MIMETYPE="image/tiff" CHECKSUM="dcad8aba39ff762ceda65eee57f0b83e" CHECKSUMTYPE="MD5" SIZE="82136">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00120_0.tif"/>
+      </file>
+      <file ID="tiff_00120_1" MIMETYPE="image/tiff" CHECKSUM="91e4f8e8d1e795b50aa44939af8fa69a" CHECKSUMTYPE="MD5" SIZE="97032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00120_1.tif"/>
+      </file>
+      <file ID="tiff_00121_0" MIMETYPE="image/tiff" CHECKSUM="865c2dc9d0068f758960fd4c94154995" CHECKSUMTYPE="MD5" SIZE="105888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00121_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00120_0" MIMETYPE="image/jp2" CHECKSUM="a6456f0631a85ddd0386bfc8818c383c" CHECKSUMTYPE="MD5" SIZE="3143632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00120_0.jp2"/>
+      </file>
+      <file ID="jp2_00120_1" MIMETYPE="image/jp2" CHECKSUM="181619a259fd88438da5f47fa906376d" CHECKSUMTYPE="MD5" SIZE="3374172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00120_1.jp2"/>
+      </file>
+      <file ID="jp2_00121_0" MIMETYPE="image/jp2" CHECKSUM="b8e5ce29a2ea8f9681b17b6ff19e2239" CHECKSUMTYPE="MD5" SIZE="4089229">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00121_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00120_0" MIMETYPE="text/xml" CHECKSUM="d28b8465a9a11407f16830c8871a42bf" CHECKSUMTYPE="MD5" SIZE="177892">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00120_0.xml"/>
+      </file>
+      <file ID="alto_00120_1" MIMETYPE="text/xml" CHECKSUM="284265c5a5a0fd25c307740838024772" CHECKSUMTYPE="MD5" SIZE="216948">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00120_1.xml"/>
+      </file>
+      <file ID="alto_00121_0" MIMETYPE="text/xml" CHECKSUM="fc5f075930268a19380843f680c1512d" CHECKSUMTYPE="MD5" SIZE="227999">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00121_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0108" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="239" firstpage="237">
+              <court id="b239-14" pgmap="239">District Court, E. D. Louisiana.</court>
+              <docketnumber id="b239-11" pgmap="239">Case No. 4,238.</docketnumber>
+              <parties id="b239-12" pgmap="239">EAMES v. CAVAROC et al.</parties>
+              <decisiondate id="AST" pgmap="239">March, 1856.</decisiondate>
+              <attorneys id="b240-7" pgmap="240">Durant &amp; Hornor, for libellant.</attorneys>
+              <attorneys id="b240-8" pgmap="240">H. D. Ogden, for respondents.</attorneys>
+              <p id="b239-13" pgmap="239">[Newb. 528.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p id="b239-19" pgmap="239">1 [Reported by John S. Newberry, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b240-9" pgmap="240">MeCALEB, District Judge.</author>
+                <p id="AMcq" pgmap="240">The libelant sues upon a contract of affreightment by charter party to recover the amount of freight which is stipulated to be paid in the instru­ment. The charter party is signed by the master of the ship Horatio, of the one part, and M. Depas and L. Meric, merchants of Bordeaux, of the other part, and is dated at Nantz on the 7th of March, 1853. The libel-­ant binds himself to put his vessel of 509 75-95 tons measurement at the disposal of the char­terers, to go round to Bordeaux as soon as possible, and there receive on board within a specified time, a full and complete cargo of lawful goods, not exceeding what the ves­sel could stow and carry with safety, and also passengers to be transported to New Orleans. He further binds himself, whenever his vessel is laden and he has signed the bills of lading and obtained his clearance, to make sail with the first fair wind and proceed direct to the port of destination, where, after a faithful de­livery of the cargo to the bearer of the bills of lading, he is to receive for freight in ready ■cash, without any discount, the sum of $2,000. In consideration of this sum he lets the whole capacity of the hold of his vessel and the be­tween decks to the charterers. He reserves only room enough between decks' for five water casks and ten barrels of provisions. A commission of two and a half per cent, is stipulated to be paid by the master to the charterers on the amount of the freight, and also a like commission to the correspondents of the charterers at New Orleans. Upon these correspondents is expressly imposed the du­ty of collecting the freight. For the per­formance of the clauses and conditions of the charter party, the contracting parties mutual­ly pledge the ship and cargo. This action is instituted against the consignees or corre­spondents of the charterers, who have duly accepted the charter party, and thus bound themselves to collect tbe freight according to llie stipulations of the contract They, how-­cjrer, resist the demand of the libelant for the sum of $016.04, being the balance due on the sum of $2,000, upon the ground that the goods of various holders of bills of lading, have in the aggregate been damaged to that amount on the voyage from Bordeaux to this port. There are two kinds of contracts pass­ing under the general name of the charter party, differing from each other very widely in their nature, their provisions, and in their legal effects. In one the owner lets the use of the ship to freight, he himself retaining the legal possession, and being liable to all the responsibilities of owner. The master is his agent, and the mariners are in hiá em­ployment, and he is answerable for their con­duct. The charterer obtains no right of con­trol over the vessel, but the owner is in fact, in contemplation of law, the carrier of what­ever goods are conveyed in the ship. The charter party is a mere covenant for the con­veyance of the merchandise, or the perform­ance of the service, which is stipulated in it. In the other kind of contract by charter party, the vessel is herself let to hire, and the char­terer takes her into his own possession. It is a contract for the lease of the vessel. The owner parts with possession and the right of possession, and the hirer has not only the use but the entire control of the vessel herself. He becomes the owner during the term of the contract. He appoints the master and mariners, and is responsible for their acts. If goods are taken on freight, the freight is due to him; and if by barratry or other mis­conduct of the master or crew, the shippers suffer a loss, he must answer for it. Drink­water v. The Sparta [Case No. 4,085]; The Volunteer [Case No. 16,991].</p>
+                <p id="b240-13" pgmap="240(225) 241(96)">From these general principles regulating the two kinds of contracts of affreightment by charter party, it follows that a person may be owner for the voyage, who, by contract with the general owner, hires the ship for the voyage, and has the exclusive possession, command and navigation of the ship. But where the general owner retains the posses­sion, command and navigation of the ship, and contracts to carry the cargo on freight for the voyage, the charter party is considered as a mere affreightment sounding in cove­nant; and the freighter is'not clothed with the character or legal responsibility of owner­ship. The distinction here drawn, is in strict accordance with the decisions of the Ameri­can courts, as will be seen by reference to the case of Hooc v. Goverman, 1 Cranch [5 U. S.] 214, and to that of Manscardier v. Chesapeake Ins. Co., 8 Cranch [12 U. S.] 39. The lan­guage of Lord Tenterden in moving for the affirmance of the judgment of the exchequer chamber in the case of Colvin v. Newberry, C Bligh [N. S] 189, would lead to the con­clusion, that the principles of law applicable to this subject, are differently understood in England from what they are in this country. But the decisions of the supreme eourt of the United States must necessarily control my •own judgment. And looking to those deci­sions, I have no hesitation in saying that by the terms of the charter party now under consideration the general owner was the own­er for the voyage. Through his agent, the master, he retained the possession, command and navigation of the ship, and contracted to carry the cargo on freight for the voyage. The charter party is therefore to be consid­ered’ as a mere affreightment sounding in covenant; and the freighter is in no just or legal sense clothed with the character or re­sponsibility of ownership.</p>
+                <p id="b241-3" pgmap="241">Having then ascertained the true position occupied by the parties under the stipula­tions of the charter party, we will now pro­ceed to determine their rights in the present suit, and it is evident that this can only be •done by a consideration of all the terms off the instrument taken together. The libelant has sought his remedy for the enforcement of his rights in the only mode which has been fairly reserved for him under the con­tract. By his compliance with the obliga­tion imposed upon him to deliver the cargo to the holders of the bills of lading, as a con­dition precedent to his receiving the freight, he has lost his lien on the cargo; and his recourse for compensation is clearly against the consignees as the representatives of the charterers. The mutual pledge of the ship and cargo for the faithful performance of the contract, contained in one of the clauses of the instrument, does not alter the case. -Such a pledge is but the affirmation of the general principle of the maritime law that the ship is pledged to the merchandise, and the merchandise to the ship, for the contract of shipping; and would undoubtedly have the effect of preserving the lien on the cargo in the absence of any inconsistent stipula­tion, which may be fairly construed into waiver of the lien. Lord Tenterden, in his treatise on Shipping, has deduced from the ■cases this general result; the right of lien for freight does not absolutely depend on any ■covenant to pay freight on delivery of the cargo, but it may exist if it appears that the payment is to be made in cash or bills be­fore or at the delivery of the cargo; or even if it does not appear that the delivery of the cargo is to precede such payment. The cor­rectness of this principle is also recognized by Mr. Justice Story, in the case of The Volunteer and Cargo Tsupra]. In the present •case we have seen that it is expressly stipu­lated in the charter party that the freight is to be paid after the delivery of the cargo to the holders of the bills of lading. It was in accordance with the stipulation that the delivery took place, and a part payment of the freight, to the amount of $1,383.90, was made by the consignees. They refuse to pay the balance claimed in the libel, for the rea­■son already stated; and the question is, are ' they justiiied, under all the circumstances ■of the case, in longer withholding it?</p>
+                <p id="b241-4" pgmap="241">Independently of the charter party, the ship was bound lor the merchandise, and the master was bound to transport and de­liver the cargo according to the terms of the bills of lading. He is responsible for any damage the cargo may have sustained. But the stipulation in the charter party which imposed upon the respondents, as consignees of the charterers, the duty of collecting the freight, made it their duty, necessarily, to ¡iscertain the reasons why payment was withheld by the holders of the bills of lad­ing. It became their duty to ascertain, with­in a reasonable time, in some satisfactory mode, the nature and extent of the damage alleged to have been sustained by the cargo. It was for them to cause examinations to be made by disinterested persons capable of estimating the amount of the damage; and thus furnish the court the requisite evidence to guide its judgment Except in reference to the damage sustained by that portion of the cargo consigned to W. F. Vredenburgh &amp; Co., no legal or satisfactory evidence has been introduced. The general declarations of the owners of the damaged goods, un­accompanied by any specific statements of disinterested persons, showing the nature and extent of the damage, are entirely in­sufficient, and must be rejected by the court The libelant has placed himself in a posi­tion to entitle him to the equitable considera­tion of a court of admiralty. It is in evi­dence that while urging upon the respond­ents his right to be paid the amount of freight stipulated by the charter party, he at the same time tendered them a bond, with sufficient security, to hold them harmless against the claims of the holders of the bills of lading, for the alleged amount of dam­ages sustained on the different consignments. This offer of security was refused by the respondents, and the libelant has been com­pelled to resort to these proceedings for the assertion of his legal rights. 1 shall order that a decree be entered in his favor for whatever balance may be due him, after deducting the amount of damage sustained by that portion of the cargo consigned to Vredenburgh &amp; (Jo., and also the commis­sions stipulated in the charter party, to be paid by him to the respondents, as con­signees of the charterers. I shall further de­cree that the costs of this suit be paid by the respondents.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="239" ORDERLABEL="237" TYPE="page">
+        <fptr FILEID="tiff_00120_0"/>
+        <fptr FILEID="jp2_00120_0"/>
+        <fptr FILEID="alto_00120_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_239.3" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="240" ORDERLABEL="238" TYPE="page">
+        <fptr FILEID="tiff_00120_1"/>
+        <fptr FILEID="jp2_00120_1"/>
+        <fptr FILEID="alto_00120_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_240.4" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="241" ORDERLABEL="239" TYPE="page">
+        <fptr FILEID="tiff_00121_0"/>
+        <fptr FILEID="jp2_00121_0"/>
+        <fptr FILEID="alto_00121_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_241.3" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-4" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.6" BETYPE="IDREF" FILEID="alto_00121_0"/>
+            <area BEGIN="BL_241.7" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-19" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.24" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMcq" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.12" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            <area BEGIN="BL_240.13" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            <area BEGIN="BL_240.14" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b241-3" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_241.5" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AST" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.19" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-11" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.15" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-9" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.11" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-13" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.15" BETYPE="IDREF" FILEID="alto_00120_1"/>
+            <area BEGIN="BL_241.1" BETYPE="IDREF" FILEID="alto_00121_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-7" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.9" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-14" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.18" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b240-8" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_240.10" BETYPE="IDREF" FILEID="alto_00120_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-12" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.16" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-13" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.17" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

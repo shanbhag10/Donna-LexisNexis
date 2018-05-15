@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0041" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Innocenta">The INNOCENTA</name>
+          <docketnumber>Case No. 7,050</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 64</citation>
+          <citation category="parallel" type="bluebook">10 Ben. 410</citation>
+          <decisiondate>1879-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00033_1" MIMETYPE="image/tiff" CHECKSUM="ca0ab107d22c6d4931d111fee2f391ac" CHECKSUMTYPE="MD5" SIZE="78038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00033_1.tif"/>
+      </file>
+      <file ID="tiff_00034_0" MIMETYPE="image/tiff" CHECKSUM="636d9a65243e849b05b3e2e57b056fb6" CHECKSUMTYPE="MD5" SIZE="84446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00034_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00033_1" MIMETYPE="image/jp2" CHECKSUM="6716d243164724c073bf2bf179ed93c5" CHECKSUMTYPE="MD5" SIZE="3023388">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00033_1.jp2"/>
+      </file>
+      <file ID="jp2_00034_0" MIMETYPE="image/jp2" CHECKSUM="1f73084c3657fb2d59ebef93782b0eee" CHECKSUMTYPE="MD5" SIZE="3248443">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00034_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00033_1" MIMETYPE="text/xml" CHECKSUM="28f325124bb025787f9dc52bf48b0730" CHECKSUMTYPE="MD5" SIZE="164078">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00033_1.xml"/>
+      </file>
+      <file ID="alto_00034_0" MIMETYPE="text/xml" CHECKSUM="fb2efc6594cd5f0a7029bfb15cb178e0" CHECKSUMTYPE="MD5" SIZE="191729">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00034_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0041" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="65" firstpage="64">
+              <court pgmap="66" id="b66-8">District Court S. D. New York.</court>
+              <docketnumber pgmap="66" id="b66-5">Case No. 7,050.</docketnumber>
+              <citation pgmap="66" id="b66-7">[10 Ben. 410.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="66" id="b66-6">The INNOCENTA.</parties>
+              <decisiondate pgmap="66" id="A-I">April, 1879.</decisiondate>
+              <attorneys pgmap="66" id="b66-15">Davies, Work, McNamee &amp; Hilton, for libel-­lant.</attorneys>
+              <attorneys pgmap="66" id="b66-16">W. R. Beebe, for claimant</attorneys>
+              <footnote label="1">
+                <p pgmap="66" id="b66-18">1 [Reported by Robert D. Benedict, Esq., and Benj. Lincoln Benedict, Esq., and here reprint­ed by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="66" id="b66-17">CHOATE, District Judge.</author>
+                <p pgmap="66" id="A2C">This is a libel brought by the shipper of cargo against the vessel for the sum of one hundred and twen­ty dollars, which is described in the libel as “demurrage of lighters.” The cargo was heavjr oak and black walnut timber. The libel alleges that on the 1st day of March, 1S77, the agents of the vessel contracted and engaged with the libellant that the vessel should take and receive on board at New York to be carried to London, about 200 tons measurement of timber; that, by the terms of the contract, the timber was to be delivered and loaded on board of the vessel from lighters to be furnished by libellant, and that such delivery should be completed within the usual and customary time, after the lighters should be moored alongside the-­vessel and be in readiness for such delivery and loading; that the usual and customary time required in similar cases is two days, by the custom of the port of New York; that the lighters were delayed beyond that time by the slow, tedious and irregular way in which the vessel received the timber, and for this delay the libellant demands damages at the rate of $20 per day, for each lighter, while so delayed beyond the customary pe­riod of two days. There was evidence tend­ing to show that the owner of the lighters had made a claim against the libellant for this demurrage, and that the libellant had acknowledged the claim to be just as be­tween himself and the owner of the lighters; but up to the time of the trial, he had paid nothing. It is insisted by the claimants that on this account the libellant had not at the commencement of the suit sustained any damage, and therefore could not maintain the action; that it was not sufficient that he may have incurred a liability, merely. It is, however, unnecessary to decide this ques­tion.</p>
+                <p pgmap="66" id="b66-20">The contract between the vessel and the libellant was in writing, as follows: “Freight for London, per Italian Bark Tnnocenta,’ at pier 17, E. river, Benham &amp; Boyeson, agents, New York, 1st March, 1877, engaged for ac­count of Andrew Brown, about 100 tons measurement oak logs, 50 to 75 tons walnut, 25 tons white wood, at 25s. and 5p. sterling per 40 cubic feet; Churchill &amp; Sims caliper measurement; Sami. De Bow &amp; Haughton, brokers.”</p>
+                <p pgmap="66(182) 67(540)" id="b66-21">It is very evident that under this contract the vessel never undertook to receive the wood from lighters; nor is any evidence of­fered that delivery of such cargo is by the usage or custom of the port made in such way. On the day after the contract was made, the libellant notified the agents of the vessel that the wood was heavy timber, and that the vessel should be ready with corre­sponding tackle to take it “off the lighters,” as soon as they arrived alongside. But the contract being already complete and reduced to writing, it is hardly necessary to observe that the libellant could not, by such a notice, impose on the vessel a new obligation uuc already imposed on her by the contract it­self. It was the right of the libellant to bring the wood to the ship in what way he pleased, and when alongside, whether on the pier or otherwise, it was the duty of the ship to take it into her charge and keeping; but the shipper had no right to prescribe the time and manner in which the ship should ac­tually take it on hoard. The shipper had a right to leave it on the pier, notifying tne proper officer of the ship that it was there under the contract. He could not, by bring­ing up, as it were, another pier on the other side of the ship in the shape of a lightér, make the duty of the vessel in respect to it any different from whát' it would have been, if he had placed it on the pier already there for the purpose. If it had been agreed that it should come by lighter, there might be an obligation implied on the ship’s part, to take it off the lighter in a reasonable time. I am of opinion, therefore, that the libellant has failed to make out the contract alleged in the libel, and that he has only himself to blame for any loss he has suffered from vol­untarily converting the lighters he hired into piers, and that under this contract no action will lie against this vessel for loss sustain­ed by the libellant, in consequence of the de­lay of the lighters while so used. But the libellant has also wholly failed to prove the alleged custom of the port of New York, limiting the time within which a vessel in this port must receive cargo from a lighter to two days. Whether such a custom, if es­tablished by the evidence, would bind a for­eign ship, need not be considered, for the evidence of the alleged custom is wiioiu- in­sufficient. There is evidence that the “Prod­uce Exchange,” an organization of mer­chants, has adopted a rule somewhat to this effect; but no such association can, by a rule, make a custom of the port, however the members of it may, as between themselves, bind thmselves to observe the rule. This is matter of contract. But to make a custom of the port, the rule must be so generally known and acknowledged and acted upon, as vir­tually to be applied by the whole of that part of the business community which it would affect. As it is said in the books, it must be “universal.” In this case, of the four witnesses called on this question,- who were familiar with the trade in question, two were shown to have no knowledge of any existing custom of the port outside of the rule of the “Produce Exchange,” and the strongest witness to its existence doubted its actual application as a usage to a case where, from the nature of the cargo to be received, it could not be taken on board with all possible diligence and despatch on the part of the ship, within the period of two days. Yet to be worth anything as a custom, it should have been proved that it is actually applied and enforced where, but for the cus­tom, the time allowed would be unreasonably short. Otherwise the custom adds nothing to the general rule of law which would allow a reasonable time for taking the cargo on board, having regard to all the circumstan­ces, if the vessel had contracted to receive it from the lighter.</p>
+                <p pgmap="67" id="b67-3">The libellant has also failed to prove any unnecessary delay or negligence on the part of the vessel. It appeared that as soon as the lighters came alongside, the stevedore went to work with a suitable number of men, and the usual appliances for taking the timber on board; that the hatch by which it must be taken in was small, and the space between decks where it was to be stowed, very contracted; that there was great and unusual difficulty in taking the timber on board. I am satisfied that the ves­sel used all due and proper diligence to take it on board. On the third day, at noon, the work was stopped in consequence of an or­der given by the owner of the lighters to their masters, which prevented the stevedore from continuing the work, and this stoppage con­tinued about twenty-four hours. It is claim­ed by the libellant that the occasion for this order was, that the stevedore had positively refused to take on board at all what remain­ed of the heavy oak logs. The libellant's agent appears to have believed that the steve­dore had done so upon reports to him from the lightermen and the owner of the lighters. This led to some misunderstanding, but I am not satisfied that there had been such a re­fusal, and therefore I cannot charge this de­lay to any fault on the part of the vessel. Bib el dismissed with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="66" ORDERLABEL="64" TYPE="page">
+        <fptr FILEID="tiff_00033_1"/>
+        <fptr FILEID="jp2_00033_1"/>
+        <fptr FILEID="alto_00033_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_66.4" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="67" ORDERLABEL="65" TYPE="page">
+        <fptr FILEID="tiff_00034_0"/>
+        <fptr FILEID="jp2_00034_0"/>
+        <fptr FILEID="alto_00034_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_67.6" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2C" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.23" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            <area BEGIN="BL_66.24" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            <area BEGIN="BL_66.25" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-21" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.28" BETYPE="IDREF" FILEID="alto_00033_1"/>
+            <area BEGIN="BL_67.4" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-20" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.27" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-16" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.21" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-17" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.22" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-18" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.26" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-I" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.13" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-3" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.8" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            <area BEGIN="BL_67.9" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-5" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.9" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-6" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.10" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-7" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.11" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-8" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.12" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b66-15" BETYPE="IDREF" FILEID="casebody_0041"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_66.20" BETYPE="IDREF" FILEID="alto_00033_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

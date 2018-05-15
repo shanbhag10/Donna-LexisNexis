@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0094" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="Iselin v. Barney">ISELIN et al. v. BARNEY</name>
+          <docketnumber>Case No. 7,103</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 166</citation>
+          <citation category="parallel" type="bluebook">5 Blatchf. 185</citation>
+          <decisiondate>1863-11-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00084_1" MIMETYPE="image/tiff" CHECKSUM="ea1a5f2d1cfc2f7613ac49f9f555315b" CHECKSUMTYPE="MD5" SIZE="98842">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00084_1.tif"/>
+      </file>
+      <file ID="tiff_00085_0" MIMETYPE="image/tiff" CHECKSUM="4b9b8580f758af722c8dcb00bc131279" CHECKSUMTYPE="MD5" SIZE="75256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00085_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00084_1" MIMETYPE="image/jp2" CHECKSUM="8c6dd86b36aa42ff12d2418560b51fc6" CHECKSUMTYPE="MD5" SIZE="3450462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00084_1.jp2"/>
+      </file>
+      <file ID="jp2_00085_0" MIMETYPE="image/jp2" CHECKSUM="b7c0b404b430b69db7ed8a50d6f9fe98" CHECKSUMTYPE="MD5" SIZE="3033863">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00085_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00084_1" MIMETYPE="text/xml" CHECKSUM="a85aa38a3dbb798d44bc384a991549fb" CHECKSUMTYPE="MD5" SIZE="214609">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00084_1.xml"/>
+      </file>
+      <file ID="alto_00085_0" MIMETYPE="text/xml" CHECKSUM="d444f678f2bc8bfe7e459b79eccf4109" CHECKSUMTYPE="MD5" SIZE="167643">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00085_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0094" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="167" firstpage="166">
+              <court pgmap="168" id="b168-5">Circuit Court, S. D. New York.</court>
+              <docketnumber pgmap="168" id="b168-3">Case No. 7,103.</docketnumber>
+              <citation pgmap="168" id="ADP">[5 Blatchf. 185.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="168" id="b168-4">ISELIN et al. v. BARNEY.</parties>
+              <decisiondate pgmap="168" id="AWk">Nov. 9, 1863.</decisiondate>
+              <attorneys pgmap="168" id="b168-10">Martin V. B. Wilcoxson, for plaintiffs.</attorneys>
+              <attorneys pgmap="168" id="b168-11">E. Delafield Smith, Dist Atty., for defend­ant</attorneys>
+              <footnote label="1">
+                <p pgmap="168" id="b168-15">1 [Reported by Hon, Samuel Blatehford. Dis­trict Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="168" id="b168-12">NELSON, Circuit Justice.</author>
+                <p pgmap="168" id="AIJ">It is admitted' that the duties upon the goods imported by the plaintiffs were charged at too high a rate, but the 5th section of the act of March 3, 1857 (11 Stat. 195), provides, that, on the entry of goods imported after the 1st of July, 1857, the decision of the collector, as to their liability to duty or exemption there­from, shall be final and conclusive against the importer or agent, unless, within ten days after such entry, he shall give notice to the collector, in writing, of his dissatis­faction with such decision, &amp;c., and shall, within thirty days after the date of such de cisión, appeal to the secretary of the treas­ury, whose decision shall be final, unless suit shall be brought within thirty days aft­er such decision, for any duties that may have been paid, or may thereafter be paid.</p>
+                <p pgmap="168" id="b168-13">The goods in this case were entered for warehousing by the plaintiffs, July 18th, 1861, and an estimate of the duties was made at the rate of thirty per cent., amount­ing to the sum of 8788.10. A warehouse bond was given on the same day in the penalty of double the amount, conditioned for the payment of the $788.10, or of the amount of duties to be ascertained as due. The withdrawal entry was made on the 19th of September, 1861, and the duties were paid on that day, under protest. An ap­peal was taken to the secretary of the treas­ury on the 1st of October, 1SC1, and his de­cision was made and communicated to the collector on the 13th of May, 1862. This suit was commenced on the 13th of June fol­lowing.</p>
+                <p pgmap="168" id="b168-14">The ground taken by the government is, that the entry of the goods mentioned in the 5th section of the act of 1857, means the warehouse entry, which, in this case, was made on the 18th of July, 1861; and that, as the notice of dissatisfaction was not given till the 19th of September, and the appeal was not taken till the 1st of October follow­ing, the ten days had elapsed, and the plain­tiff is concluded. On the part of the plain­tiff it is insisted, that the entry referred to as the period from which the time is to be estimated, is the entry for withdrawal, when, by the statute, payment of the duties is required.</p>
+                <p pgmap="168" id="b168-17">The 4th section of the act of March 28, 1S54 (10 Stat. 271), provides, that all goods, &amp;c., which may be thereafter ■ duly entered for warehousing, &amp;c., may continue in the warehouse, without payment of the duties, for the period of three years (now changed to one year by a recent act) from the date of the original, importation, and may be with­drawn for consumption on due entry and payment of the duties. If this entry is the one to which the 5th section of the act of 1857 refers, and I am strongly inclined to think it is, then all difficulties and embar­rassments attending these appeals are at once removed. The estimate of the duties, for the purpose of warehousing the goods,, is a rough general estimate, in practice at the customs, as appears, usually adopting the highest rate of duty applicable to any of the articles entered, with a view to the taking of the warehouse bond. The bond for the goods in question illustrates this. The penalty, is in double the estimated duty, and the condition is to pay that estimated amount, or the amount of duties to be as­certained as due upon the goods; and, in this very case, the duties were not in fact finallyliquidated and fixed till morethan the ten days had expired from the first entry, so that no notice of dissatisfaction could possi­bly have been given, or any appeal taken, within the time prescribed, if this entry is the one contemplated by the statute.</p>
+                <p pgmap="168(189) 169(391)" id="b168-18">A very intelligent witness from the cus­toms, who was a liquidating clerk in the warehouse department, has been examined. He states, that after the warehouse entry is made, the goods, or the portion of them re­quired by law, are sent to the examiners, who examine them and report to the col­lector, by making notes on the back of the invoice; that upon this report the collector fixes the rate of duty; that, after it is fixed, the papers are sent to the naval officer, to-­receive his check, and then to the book­keeper of the warehouse, to be entered; that no notice of the duty, as fixed by the col­lector, is given to the merchant; and that such time is taken up in the various steps of examining the goods, reporting to the col­lector, and fixing the rate of duties by him, &amp;e., as the exigency of the business may re­quire in the departments. It is quite appar­ent, that the time when the collector deter­mines the rate of duty, that is, makes his decision, within the meaning of the statute, and from which the merchant must appeal, if he is dissatisfied, cannot be the period when it is arrived at at the customs and en­tered upon the boohs of the department, in the ordinary- course of the business; for, as no notice is given of it, and there is no cer­tainty as to the time it may be made, unless the merchant or his agent were in constant attendance, the time for notice of dissatis­faction and appeal might pass by. But the act of congress itself does not place the rights of the merchant on this ground. The notice of dissatisfaction is to be given with­in ten days after the entry of the goods. The act contemplates that the decision of the collector shall be made at or before the entry, so that the notice of dissatisfaction may be given within the ten days after it. This surely cannot be the warehouse entry, for the reason that no decision fixing the rate, as we have seen, is then made at all. No notice of dissatisfaction can be given or any appeal taken, as the merchant cannot tell what the rate of duty may be till the goods go to the examiners, and, on their re­port, the duty is fixed. It appears from the papers, and was affirmed by a witness from the customs in this case, that the duty was not liquidated or fixed till the 1st or 2d of August, and was then reduced $130.10, the duty on nearly a moiety of the goods having been reduced from 30 per cent, to 20 per cent.; and, it may be added, in confirmation, that the condition of the bond given at the time is, the payment of duties “to be ascer­tained as due.” I am satisfied, that, upon a true construction of this 5th section of the act of 1857, the entry referred to, and from which the ten days is to date, is the with­drawal entry, at the time of making which, according to the 4th section of the act of 1854, the duties are to be paid. The ap­peal and the suit were, therefore, in time, and, as this is the only point made against the recovery, the plaintiff is entitled to judgment for the $151.03, the excess of duty paid.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="168" ORDERLABEL="166" TYPE="page">
+        <fptr FILEID="tiff_00084_1"/>
+        <fptr FILEID="jp2_00084_1"/>
+        <fptr FILEID="alto_00084_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_168.3" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="169" ORDERLABEL="167" TYPE="page">
+        <fptr FILEID="tiff_00085_0"/>
+        <fptr FILEID="jp2_00085_0"/>
+        <fptr FILEID="alto_00085_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_169.4" BETYPE="IDREF" FILEID="alto_00085_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-17" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.22" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-14" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.19" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            <area BEGIN="BL_168.20" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIJ" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.16" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            <area BEGIN="BL_168.17" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-12" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.15" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-13" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.18" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-10" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.13" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-11" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.14" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-15" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.21" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-18" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.23" BETYPE="IDREF" FILEID="alto_00084_1"/>
+            <area BEGIN="BL_169.2" BETYPE="IDREF" FILEID="alto_00085_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-4" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.5" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-5" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.7" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWk" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.8" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b168-3" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.4" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADP" BETYPE="IDREF" FILEID="casebody_0094"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_168.6" BETYPE="IDREF" FILEID="alto_00084_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0141" publicationstatus="published">
+          <court abbreviation="C.C.D. La." jurisdiction="United States">United States Circuit Court for the District of Louisiana</court>
+          <name abbreviation="Jackson v. Vicksburg, S. &amp; T. R.">JACKSON v. VICKSBURG, S. &amp; T. R. CO. et al.</name>
+          <docketnumber>Case No. 7,150</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 257</citation>
+          <citation category="parallel" type="bluebook">2 Woods, 141; 2 N. Y. Wkly. Dig. 262; 13 Alb. Law J. 353; 1 La. Law J. 118; 22 Int. Rev. Rec. 160; 23 Pittsb. Leg. J. 159</citation>
+          <decisiondate>1876-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00130_0" MIMETYPE="image/tiff" CHECKSUM="e2ecc91f15758bbee5d44a89203e8951" CHECKSUMTYPE="MD5" SIZE="65566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00130_0.tif"/>
+      </file>
+      <file ID="tiff_00130_1" MIMETYPE="image/tiff" CHECKSUM="372405483231d70dcf752049fe3e15e9" CHECKSUMTYPE="MD5" SIZE="104694">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00130_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00130_0" MIMETYPE="image/jp2" CHECKSUM="8b3304a06dca518f826f55080a1413bd" CHECKSUMTYPE="MD5" SIZE="2702671">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00130_0.jp2"/>
+      </file>
+      <file ID="jp2_00130_1" MIMETYPE="image/jp2" CHECKSUM="33712ec300d8e44bb49ab2917cb03eae" CHECKSUMTYPE="MD5" SIZE="3603852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00130_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00130_0" MIMETYPE="text/xml" CHECKSUM="0f9080f7a7dd221b6dbfc8790f9cc0d8" CHECKSUMTYPE="MD5" SIZE="135869">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00130_0.xml"/>
+      </file>
+      <file ID="alto_00130_1" MIMETYPE="text/xml" CHECKSUM="541d576a9f985be0d7b605213f428f5d" CHECKSUMTYPE="MD5" SIZE="218545">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00130_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0141" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="258" firstpage="257">
+              <court pgmap="259" id="b259-9">Circuit Court, D. Louisiana.</court>
+              <docketnumber pgmap="259" id="b259-6">Case No. 7,150.</docketnumber>
+              <citation pgmap="259" id="b259-8">[2 Woods, 141; <footnotemark>1</footnotemark> 2 N. Y. Wkly. Dig. 262; 13 Alb. Law J. 353; 1 La. Law J. 118; 22 Int. Rev. Rec. 160; 23 Pittsb. Leg. J. 159.]</citation>
+              <parties pgmap="259" id="b259-7">JACKSON v. VICKSBURG, S. &amp; T. R. CO. et al.</parties>
+              <decisiondate pgmap="259" id="ABc">March, 1876.</decisiondate>
+              <attorneys pgmap="259" id="b259-19">Thos. Allen Clarke, Thomas L. Bayne, and Joseph P: Hornor, for the exceptions.</attorneys>
+              <attorneys pgmap="259" id="b259-20">John A Campbell, contra.</attorneys>
+              <footnote label="1">
+                <p pgmap="259" id="b259-12">1 [Reported by Hon. William B. Woods, Cir­cuit Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="259" id="b259-21">WOODS, Circuit Judge.</author>
+                <p pgmap="259(199) 260(140)" id="A9e">The facts upon which the master relied for the basis of so much of his report as is excepted to are as follows: In April, 1864, during the late war carried on by the United States against the seceding states, the bonds in question were in the office of the railroad company at Mon­roe, Louisiana. During the month just named, a raid was made upon Monroe by the naval forces of the United States, and at that time the office of the company was broken open and these bonds carried off by persons connected with the expedition, with­out the consent or knowledge of any of the officers of the company. In short, the bonds were stolen from the office of the company. They were afterwards put in circulation, and bought by the holders at from fifteen to twenty cents on the dollar. The face of the bonds certified that “the Vicksburg, Shreve­port &amp; Texas Railroad Company is indebted to John Ray or bearer, for value received, in the sum of either two hundred and twenty-five pounds sterling, or one thousand dollars law­ful money of the United States of America, to-wit: two hundred and twenty-five pounds sterling, if the principal and interest are pay­able in London, and one thousand dollars lawful money of the United States of Amer­ica, if the principal and interest are payable in New York or New Orleans, which sum said company promises to pay to John Bay or bearer, on the first day of September, A. D. 1877, and also to pay interest thereon, at the rate of eight per cent, per annum, on the first day of March and the first day of Sep­tember of each and every year. * * * And the president of said company is authorized to fix, by his indorsement, the place of pay­ment of principal and interest in conformity with the tenor of this obligation.” The bonds were signed by the president and treasurer, and bore the seal of the company.</p>
+                <p pgmap="260" id="b260-3">Upon the back of each of the bonds in question was an indorsement as follows: “I hereby agree that the within bond and the interest coupons thereto attached shall be payable in-. C. G. Young, President.” The coupons attached to said bonds declared that “the Vicksburg, Shreveport &amp; Texas Railroad Company will pay the bearer hereof (on a specified date) nine pounds sterling, if payable in London, or forty dollars, if pay­able in New York or New Orleans.”</p>
+                <p pgmap="260" id="b260-6">Upon this state of facts, the question for solution is, whether the bonds are good in the hands of bona fide holders for value. If the bonds are negotiable, this inquiry must be answered in the affirmative. Generally, bonds issued by a corporation, and payable to bear­er, have the qualities of negotiable instru­ments. Knox Co. Com’rs v. Aspinwall, 21 How. [62 U. S.] 539; Woods v. Lawrence Co., 1 Black [66 U. S.] 386; Mercer Co., v. Hackett, 1 Wall. [68 U. S.] 83. But it is claimed that there are peculiarities about these stolen bonds which deprive them of their character as negotiable instruments. These are, that the amount for the payment of which the bond is given is uncertain. It is clear that the sum of £225 payable in Lon­don, with £9 interest payable every sixmonths, at the same place, is entirely different from $1,000 payable in New York or New Orleans, 'with $40 interest payable semi-annually at the same places. This uncertainty, unless cured, robs the bonds of their character as ne­gotiable instruments. Story, Prom. Notes, §§ 20, 21; Story, Bills, § 42; Bayley, Bills, 11; Pars. Notes &amp; B. 37. But it is claimed that the uncertainty is cured by the genuine sig­nature of the president of the railroad com­pany, appended to the indorsement upon the bonds, and above set forth. It is true .that the indorsement leaves the place of payment blank, and so leaves the amount and interest of the bonds uncertain. But the argument is, that the president having signed the in-­dorsement and left the place of payment blank, the holder is authorized to fill the blank, and thus render the amount of the bond definite and certain, and that that is certain which can be made certain. If the holder of the bond were authorized to fill this blank, doubtless the results claimed to flow from this fact would follow. But is the holder of these stolen bonds authorized to fill this blank in the indorsement? He is not expressly authorized; for the bonds say that the place of payment should be designated by the president. Can it be said that when the president signed the indorsement and left the place of payment blank, he authorized any one who might steal the bonds, or to whom the thief might sell them, to fill the blank? If any one was authorized by im­plied contract to fill the blank, it was some person to whom they had been issued by the company, or who had acquired them after such bona fide issue. There can be no im­plied authority to any one to fill the blank, unless the bonds were bona fide issued and delivered by the railroad company. To hold that a thief of the bonds, or any one holding under him, had implied authority to perfect the bond, appears to me to be entirely un­tenable. The uncertainty in the bond as to amount of both principal and interest and place of payment remains, notwithstanding the signature of the president to the indorse­ment, and this uncertainty deprives the bonds of the quality of negotiable instruments. The holders, though bona fide for value, are not protected by the rules which govern the transfer of commercial paper, and must hold the bonds subject to all the infirmities which attach to the . title to them.</p>
+                <p pgmap="260" id="b260-9">These views are sustained by the court of appeals of the state of New York, in a case arising upon some of these same stolen bonds, in which it was decided that a bona fide holder of the bonds was not authorized to fill the blank left by the president in the indorse­ment, and that he acquired and could convey no title to the bonds. Ledwick v. McKim, 53 N. Y. 307. The exceptions to the master’s report must be overruled, and the report con­firmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="259" ORDERLABEL="257" TYPE="page">
+        <fptr FILEID="tiff_00130_0"/>
+        <fptr FILEID="jp2_00130_0"/>
+        <fptr FILEID="alto_00130_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_259.5" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="260" ORDERLABEL="258" TYPE="page">
+        <fptr FILEID="tiff_00130_1"/>
+        <fptr FILEID="jp2_00130_1"/>
+        <fptr FILEID="alto_00130_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_260.4" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-19" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.22" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-6" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.6" BETYPE="IDREF" FILEID="alto_00130_1"/>
+            <area BEGIN="BL_260.7" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-9" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.8" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-12" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.17" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-20" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.23" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-21" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.24" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-7" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.10" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-6" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.9" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-9" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.12" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b259-8" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.11" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b260-3" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_260.5" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9e" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.25" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            <area BEGIN="BL_259.26" BETYPE="IDREF" FILEID="alto_00130_0"/>
+            <area BEGIN="BL_260.1" BETYPE="IDREF" FILEID="alto_00130_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABc" BETYPE="IDREF" FILEID="casebody_0141"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_259.13" BETYPE="IDREF" FILEID="alto_00130_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

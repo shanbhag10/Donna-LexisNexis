@@ -1,0 +1,375 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0548" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Joshua Barker">The JOSHUA BARKER</name>
+          <docketnumber>Case No. 7,547</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1153</citation>
+          <decisiondate>1848-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00578_0" MIMETYPE="image/tiff" CHECKSUM="c442658f522e850890a85b18e76d14fe" CHECKSUMTYPE="MD5" SIZE="37220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00578_0.tif"/>
+      </file>
+      <file ID="tiff_00578_1" MIMETYPE="image/tiff" CHECKSUM="7fb92b624f2fc1f877f562a84ead65ff" CHECKSUMTYPE="MD5" SIZE="49414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00578_1.tif"/>
+      </file>
+      <file ID="tiff_00579_0" MIMETYPE="image/tiff" CHECKSUM="d376c6ca5e1a12bf44258a674f6ca57b" CHECKSUMTYPE="MD5" SIZE="98544">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00579_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00578_0" MIMETYPE="image/jp2" CHECKSUM="7ec533423b5616c6e45033430269ffd9" CHECKSUMTYPE="MD5" SIZE="1977839">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00578_0.jp2"/>
+      </file>
+      <file ID="jp2_00578_1" MIMETYPE="image/jp2" CHECKSUM="1a7a9e674ad008baef24d530347e4cfd" CHECKSUMTYPE="MD5" SIZE="2186058">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00578_1.jp2"/>
+      </file>
+      <file ID="jp2_00579_0" MIMETYPE="image/jp2" CHECKSUM="74e88d0dfb399e0f6937c1dd214cf095" CHECKSUMTYPE="MD5" SIZE="3597428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00579_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00578_0" MIMETYPE="text/xml" CHECKSUM="4cc79f45e938606fadf269681cafdb39" CHECKSUMTYPE="MD5" SIZE="76298">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00578_0.xml"/>
+      </file>
+      <file ID="alto_00578_1" MIMETYPE="text/xml" CHECKSUM="88c0263657b1a48d62393a1ec13cb5b1" CHECKSUMTYPE="MD5" SIZE="96102">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00578_1.xml"/>
+      </file>
+      <file ID="alto_00579_0" MIMETYPE="text/xml" CHECKSUM="69e9edccbbf04f453539ed0594b04b79" CHECKSUMTYPE="MD5" SIZE="221558">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00579_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0548" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1155" firstpage="1153">
+              <court pgmap="1155" id="b1155-12">District Court, S. D. New York.</court>
+              <docketnumber pgmap="1155" id="b1155-9">Case No. 7,547.</docketnumber>
+              <parties pgmap="1155" id="b1155-10">The JOSHUA BARKER.</parties>
+              <decisiondate pgmap="1155" id="A2z_">April, 1848.</decisiondate>
+              <attorneys pgmap="1156" id="b1156-10">B. Ellingwood, in support of the excep­tions.</attorneys>
+              <attorneys pgmap="1156" id="b1156-11">C. Van Santvoordt and Henry E. Dodge, opposed.</attorneys>
+              <p pgmap="1155" id="b1155-11">[Abb. Adm. 215.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="1155" id="b1155-16">1 [Reported by Abbott Brothers.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1156" id="b1156-12">BETTS, District Judge.</author>
+                <p pgmap="1156" id="AKzp">The answer ad­mits that the flour was taken out of the bark at Albany, after her disaster, and immediate­ly sold, and that the sale was made without authority from the libellants. It is matter of notoriety that communication could have been had with the owners of the flour at New York in a few minutes, by telegraph, and their instructions thus taken on the subject; and also, that the regular mail conveyance by steam from Albany to New York and back, is made within forty-eight hours, while by the ordinary running of the steamboats, a special messenger could have obtained or­ders in New York, and returned with them to Albany within twenty-four hours. Under these circumstances, the acts of the claim­ants, in making peremptory sale of the flour at their own discretion, immediately on the bark being raised was, in respect to the rights of the libellants, unnecessary and wrongful. The libellants were accordingly entitled to charge the claimants with the full value of the flour laden on the vessel and not delivered at the port of destination, as tortiously dis­posed of by them.</p>
+                <p pgmap="1156(185) 1157(82)" id="b1156-13">No case of necessity for the sale being shown by the claimants, the fact in proof that subsequently to the sale they demanded of the libellants the allowance of an account against them, amounting to $1,175.15, aris­ing upon prior distinct transactions, before they would pay over the proceeds of the flour, indicates that the claimants assumed the pow­er to dispose of the flour at their own dis­cretion, and having its avails in hand, to force the libellants to a settlement of antecedent dealings between them, as a condition to their accounting for the conversion of the property. Common carriers cannot coerce payment of debts in that manner out of prop­erty committed to them for conveyance. This would be an abuse of the bailment, amounting to a trespass. They havé not power, in any emergency, to sell the entire bailment, so as to give a purchaser title to it against the bailor or shipper. Arnold v. Halenbake, 5 Wend. 33. Upon the general principles of mercantile law the libellants are entitled to the full value of the property at the port of delivery. Watkin v. Laughton, 8 Johns. 213; Amory v. McGregor, 15 Johns. 24; Brackett v. McNair, 14 Johns. 170; Gillingham v. Dempsey, 12 Serg. &amp; R. 188; 12 Barn. &amp; A. 932. And the wrongful disposal of it also justifies imposing interest on carriers. See same cases. Interest is the appropriate rec­ompense in case of loss of property by the fault or misconduct of another. 17 Pick. 1; 21 Pick. 559; 1 Metc. (Mass.) 172; Stevens v. Low, 2 Hill, 132.</p>
+                <p pgmap="1157" id="b1157-3">The exceptions raise the question whether the libellants can demand more than the value of the flour at the time it might have been reasonably delivered at New York if it had not been sold. This point becomes material, be­cause between the 9th of October, when the bark, in her ordinary course of navigation, might have reached New York, and the 15th, the time of her actual arrival after being rais­ed, the price of flour was materially enhanced. The commissioner reports the difference upon this shipment to amount to $200.50.</p>
+                <p pgmap="1157" id="b1157-4">The delay of the vessel in this case was merely temporary. The accident did not dis­able her from completing her voyage, and it was well known, when the flour was taken out and sold, that the bark was uninjured, and that she could be immediately despatch-­ed to her port of destination. The interrup­tion was no more than a circumstance which prolonged her voyage. The delivery of the flour at New York on the 15th could incon­testably have been made within the under­taking of the claimants, and the libellants must then have accepted it, subject to com­pensation for the injury it had received. Car­riers by water are liable for the actual value of goods withheld or lost, without legal ex­cuse, computed at the time when the goods might have been delivered at the place of ■destination. Arthur v. The Cassius [Case No. 564]; Howe v. The Lexington [Id. 6,767a]. The arrival of the vessel herself (she not hav­ing made intentional deviation) on which the goods were laden, would ordinarily be receiv­ed as satisfactory evidence of the time at which the delivery might reasonably have been made. Casualties which should retard the arrival beyond the usual period wouid not vary the rule so as to enable the consignee to charge the carrier upon the footing of a wilful or unreasonable delay. Accordingly, when the goods are sold, or applied to the ne­cessities of the ship during the voyage, the measure of compensation to the owner is the clear net value at the port of destination, as the market stands on the failure of the ship to deliver the goods; with the privilege, how-­over, to the owner, to take the sum for which the goods actually sold. Abb. Shipp. 455. And the inquiry as to value does not seem, from the authorities, to turn at all upon the consideration, whether without the accidental •delay, the goods would have come into a bet­ter market. In a case of tort, the owner, doubtless, might have taken either period for fixing his damages; that at which the wrong was done and his property destroyed or con­verted, or that at which he might have had possession of it but for the wrongful act; and where he has notice he might be compelled to declare at once his election. But I do not pursue that question, because the laches of the claimants prevented the libel-­lants insisting upon having the property delivered to them in its then condition, which could have been easily and safely done in a few hours; and also, because the arrival of the vessel, notwithstanding her misadventure, was in a reasonable time after the flour was laden on board; and the libellants are, accordingly, entitled to take the time of her arrival as that at which the value of her cargo, put on board, shall be determined.</p>
+                <p pgmap="1157" id="b1157-7">I think that the finding of the commission­er, that the flour was worth in New York, on the 15th of October, $4,S41, is justified by the proofs. In addition to the deduction of $350, admitted by the libel and answer to be prop­erly allowable, the freight from Albany to New York, amounting to $70, is also to be de­ducted as composing in part the value of the flour at New York. The libellants will therefore take a decree for the balance, of $4,421, with interest thereon from October 15. 1847, to the date of the final decree, to­gether with their costs to be taxed.</p>
+                <p pgmap="1157" id="b1157-8">Costs will not be allowed to either party upon the exceptions. They are not allowed against the claimants, because the report is in the alternative, and does not fix definitely the sum with which they are chargeable, and because they are not allowed by it the freight to which they are entitled. And costs are not allowed against the libel-­lants, because the claimants are defeated upon the merits of the exceptions to the report, and because the refusal of the commissioner to allow the freight, was the consequence of tin; inadvertent admissions of the claimants in their own answer. Decree accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1155" ORDERLABEL="1153" TYPE="page">
+        <fptr FILEID="tiff_00578_0"/>
+        <fptr FILEID="jp2_00578_0"/>
+        <fptr FILEID="alto_00578_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1155.8" BETYPE="IDREF" FILEID="alto_00578_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1156" ORDERLABEL="1154" TYPE="page">
+        <fptr FILEID="tiff_00578_1"/>
+        <fptr FILEID="jp2_00578_1"/>
+        <fptr FILEID="alto_00578_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1156.4" BETYPE="IDREF" FILEID="alto_00578_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1157" ORDERLABEL="1155" TYPE="page">
+        <fptr FILEID="tiff_00579_0"/>
+        <fptr FILEID="jp2_00579_0"/>
+        <fptr FILEID="alto_00579_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1157.3" BETYPE="IDREF" FILEID="alto_00579_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1157-8" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1157.9" BETYPE="IDREF" FILEID="alto_00579_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1155-9" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1155.11" BETYPE="IDREF" FILEID="alto_00578_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1157-3" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1157.4" BETYPE="IDREF" FILEID="alto_00579_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1157-4" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1157.5" BETYPE="IDREF" FILEID="alto_00579_0"/>
+            <area BEGIN="BL_1157.6" BETYPE="IDREF" FILEID="alto_00579_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1157-7" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1157.8" BETYPE="IDREF" FILEID="alto_00579_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1155-12" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1155.14" BETYPE="IDREF" FILEID="alto_00578_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1155-10" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1155.12" BETYPE="IDREF" FILEID="alto_00578_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1155-11" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1155.13" BETYPE="IDREF" FILEID="alto_00578_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1155-16" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1155.19" BETYPE="IDREF" FILEID="alto_00578_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1156-13" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1156.16" BETYPE="IDREF" FILEID="alto_00578_1"/>
+            <area BEGIN="BL_1157.1" BETYPE="IDREF" FILEID="alto_00579_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1156-12" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1156.13" BETYPE="IDREF" FILEID="alto_00578_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1156-11" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1156.12" BETYPE="IDREF" FILEID="alto_00578_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1156-10" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1156.11" BETYPE="IDREF" FILEID="alto_00578_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKzp" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1156.14" BETYPE="IDREF" FILEID="alto_00578_1"/>
+            <area BEGIN="BL_1156.15" BETYPE="IDREF" FILEID="alto_00578_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2z_" BETYPE="IDREF" FILEID="casebody_0548"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1155.15" BETYPE="IDREF" FILEID="alto_00578_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

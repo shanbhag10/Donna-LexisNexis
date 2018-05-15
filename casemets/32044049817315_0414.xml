@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0414" publicationstatus="published">
+          <court abbreviation="D. Pa." jurisdiction="United States">United States District Court for the District of Pennsylvania</court>
+          <name abbreviation="Johnson v. Sims">JOHNSON v. SIMS</name>
+          <docketnumber>Case No. 7,413</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 833</citation>
+          <citation category="parallel" type="bluebook">1 Pet. Adm. 215</citation>
+          <decisiondate>1800</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00418_0" MIMETYPE="image/tiff" CHECKSUM="4c76a64511f998a0a8997ee947b2c386" CHECKSUMTYPE="MD5" SIZE="70906">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00418_0.tif"/>
+      </file>
+      <file ID="tiff_00418_1" MIMETYPE="image/tiff" CHECKSUM="54566e9789ffa901ef34d38467cb108c" CHECKSUMTYPE="MD5" SIZE="79748">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00418_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00418_0" MIMETYPE="image/jp2" CHECKSUM="c83507edd8f75c5aac870f1d9eb4b9b7" CHECKSUMTYPE="MD5" SIZE="2825619">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00418_0.jp2"/>
+      </file>
+      <file ID="jp2_00418_1" MIMETYPE="image/jp2" CHECKSUM="197f8a92a562ee0f2718b8c630d856c0" CHECKSUMTYPE="MD5" SIZE="3132410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00418_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00418_0" MIMETYPE="text/xml" CHECKSUM="ec8adc881b2a5d6d9a8b94e110608321" CHECKSUMTYPE="MD5" SIZE="157432">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00418_0.xml"/>
+      </file>
+      <file ID="alto_00418_1" MIMETYPE="text/xml" CHECKSUM="992ef603ca00e4946cf56a15f0561e45" CHECKSUMTYPE="MD5" SIZE="172412">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00418_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0414" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="834" firstpage="833">
+              <court pgmap="835" id="ARZ">District Court, D. Pennsylvania.</court>
+              <docketnumber pgmap="835" id="b835-8">Case No. 7,413.</docketnumber>
+              <citation pgmap="835" id="Aqs3">[1 Pet. Adm. 215.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="835" id="A_F">JOHNSON v. SIMS.</parties>
+              <decisiondate pgmap="835" id="A0K9">1800.</decisiondate>
+              <footnote label="1">
+                <p pgmap="835" id="b835-19">1 [Reported by Richard Peters. Jr.. Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="836" id="b836-3">PETERS, District Judge.</author>
+                <p pgmap="836" id="A8Qf">There is no doubt but that the agreement of parties may control the general operation of law. But this agreement must be clear, and inca­pable of doubtful import I will never de­cree a forfeiture, or loss of wages, unless the law or agreement of parties is fully and clearly, both in expression and import, against the claim. It does not appear in this case that more than the usual wages were agreed to be paid to the mariner, though the clause in question is out of the common course. There is no dispute, in this cause about the wages accruing after the vessel departed for Demarara. The capture occa­sioned the loss to the mariner of such wages. In the act of congress “for the government and regulation of seamen in the merchant’s service” [1 Stat. 131], printed at large on the back of the articles signed by the ma­riner, the libellant in this cause (section 6), it is enacted “that every seaman or mariner shall be entitled to demand and receive from the master or commander of the ship or ves­sel to which they belong, one-third part of the wages which shall be due to him, at ev­ery port where such ship or vessei shall un-­lade and deliver her cargo, before the voyage be ended, unless the contrary be expressly stipulated in the contract.” •</p>
+                <p pgmap="836" id="b836-4">In this case it is stipulated to the con­trary: but I am of opinion that the clause in the articles relied on by the counsel for the owner of the ship, ought not to be ex­tended farther than a stipulation, not to be entitled to demand or to receive the wages, or any part thereof, at the foreign port of de­livery. The amount of the wages due at Demarara, must be considered to be, “deb-­itum in presentí, solvendum in futuro.” The stipulation does not alter the substance of the contract<footnotemark>3</footnotemark> or the operation of law, but merely as it regards the time and place of paxment. I do not consider the agreement, not to demand or receive wages until the arrival of the ship at Philadelphia, to be a contract that the risk shall be insured, or the arrival guaranteed, by the mariner. It Is an agreement that such wages, as were legally due at a foreign port, should be paid only in Philadelphia. The period of pay­ment was to be fixed by the arrival and discharge at Philadelphia, in a common course of events. But the arrival at that place was prevented by a casualty, not un­der the control of the mariner. It is no mat­ter whether this casualty had been wreck, or what it was, capture. I am, under all the circumstances of this case, of opinion, and I adjudge, order and decree, that the owner of the brigantine Lady Walterstorff, pay to the libellant the wages due at the port of Demarara, and for half the time the vessel stayed at that port. And I do order and direct, that the clerk of this court adjust and report the quantum of wages, to the end that the amount of wages so adjusted and reported, be paid to the mariner, the libel-­lant in this cause, with costs.</p>
+                <footnote label="3">
+                  <p pgmap="836" id="b836-5">3 See 2 Yern. 727.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="835" ORDERLABEL="833" TYPE="page">
+        <fptr FILEID="tiff_00418_0"/>
+        <fptr FILEID="jp2_00418_0"/>
+        <fptr FILEID="alto_00418_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_835.3" BETYPE="IDREF" FILEID="alto_00418_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="836" ORDERLABEL="834" TYPE="page">
+        <fptr FILEID="tiff_00418_1"/>
+        <fptr FILEID="jp2_00418_1"/>
+        <fptr FILEID="alto_00418_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_836.5" BETYPE="IDREF" FILEID="alto_00418_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8Qf" BETYPE="IDREF" FILEID="casebody_0414"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.7" BETYPE="IDREF" FILEID="alto_00418_1"/>
+            <area BEGIN="BL_836.8" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b835-8" BETYPE="IDREF" FILEID="casebody_0414"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.11" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-3" BETYPE="IDREF" FILEID="casebody_0414"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.6" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-4" BETYPE="IDREF" FILEID="casebody_0414"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.9" BETYPE="IDREF" FILEID="alto_00418_1"/>
+            <area BEGIN="BL_836.10" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-5" BETYPE="IDREF" FILEID="casebody_0414"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.12" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b835-19" BETYPE="IDREF" FILEID="casebody_0414"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.20" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0K9" BETYPE="IDREF" FILEID="casebody_0414"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.15" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARZ" BETYPE="IDREF" FILEID="casebody_0414"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.14" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_F" BETYPE="IDREF" FILEID="casebody_0414"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.12" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqs3" BETYPE="IDREF" FILEID="casebody_0414"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.13" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

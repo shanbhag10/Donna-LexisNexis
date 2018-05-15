@@ -1,0 +1,456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0219" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="The Eliza">The ELIZA</name>
+          <docketnumber>Case No. 4,346</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 455</citation>
+          <citation category="parallel" type="bluebook">2 Gall. 4</citation>
+          <decisiondate>1813-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00229_0" MIMETYPE="image/tiff" CHECKSUM="35f5194cb720a51affd79bd3660e6d31" CHECKSUMTYPE="MD5" SIZE="55064">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00229_0.tif"/>
+      </file>
+      <file ID="tiff_00229_1" MIMETYPE="image/tiff" CHECKSUM="f9f0c85662aa5e30038cf676fbad6925" CHECKSUMTYPE="MD5" SIZE="116342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00229_1.tif"/>
+      </file>
+      <file ID="tiff_00230_0" MIMETYPE="image/tiff" CHECKSUM="3cf851b3923eab9b5ca3a4073e2735f2" CHECKSUMTYPE="MD5" SIZE="113176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00230_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00229_0" MIMETYPE="image/jp2" CHECKSUM="20590d48ff218fb15729cc6b8526139c" CHECKSUMTYPE="MD5" SIZE="2516938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00229_0.jp2"/>
+      </file>
+      <file ID="jp2_00229_1" MIMETYPE="image/jp2" CHECKSUM="034621299fe0018f2cbdf01a92a189af" CHECKSUMTYPE="MD5" SIZE="3861677">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00229_1.jp2"/>
+      </file>
+      <file ID="jp2_00230_0" MIMETYPE="image/jp2" CHECKSUM="1c6474c536c05c06161db5189f5d3555" CHECKSUMTYPE="MD5" SIZE="3841237">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00230_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00229_0" MIMETYPE="text/xml" CHECKSUM="475b1f62ae5e2d0948ccefd586624641" CHECKSUMTYPE="MD5" SIZE="109795">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00229_0.xml"/>
+      </file>
+      <file ID="alto_00229_1" MIMETYPE="text/xml" CHECKSUM="f027c94e08ed38a5ddf62c9b8f7ee9c8" CHECKSUMTYPE="MD5" SIZE="249501">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00229_1.xml"/>
+      </file>
+      <file ID="alto_00230_0" MIMETYPE="text/xml" CHECKSUM="3b216e2552da0ade9f982e1d4c595742" CHECKSUMTYPE="MD5" SIZE="243578">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00230_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0219" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="457" firstpage="455">
+              <court id="b457-22" pgmap="457">Circuit Court, D. Massachusetts.</court>
+              <docketnumber id="b457-19" pgmap="457">Case No. 4,346.</docketnumber>
+              <citation id="A9G" pgmap="457">[2 Gall. 4.]<footnotemark>3</footnotemark>
+              </citation>
+              <parties id="b457-20" pgmap="457">The ELIZA.</parties>
+              <decisiondate id="AVK" pgmap="457">Oct. Term, 1813.</decisiondate>
+              <footnote label="3">
+                <p id="AcA" pgmap="457">3 [Reported by John Gallison, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b457-38" pgmap="457">STORY, Circuit Justice.</author>
+                <p id="AMqh" pgmap="457">The boat Eliza and cargo were seized by the revenue cut­ter, belonging to the district of Boston and Charlestown, on or about the 29th day of September, 1813, for an alleged forfeiture under the laws of the United States. The information propounded in the cause contains three counts: (1) For an alleged departure of the vessel from Boston bound to some for­eign port or place without having given the bonds required by the act of the 6th of July, 1812, chapter 129, § 1. (2) For the vessel’s having on board goods of foreign growth and manufacture, and being found trading between different places in the district afore­said, without being enrolled and licensed therefor, contrary to the 6th section of the act of 18th February, 1793, c. 8, regulating the coasting trade and fisheries. (3) For the said vessel’s being employed in a trade, other than the fisheries, for which she was licensed, contrary to the 32d section of the act last mentioned.</p>
+                <p id="b457-40" pgmap="457(143) 458(95)">From the evidence in the cause it appears, that the Eliza is a vessel of 20 tons burthen and upwards, and regularly licensed for the fisheries. On or about the 28th of August last past, Wilson, the owner and claimant of the Eliza, was applied to, and contracted with Mr. Woodward, as agent for the claim­ant, Mr. Inglee, to take on board two cases of wine, one box of bottled cider, one box of cigars, and some other articles of provisions, which had been previously purchased by Mr. Woodward for the account of Mr. Inglee, and to transport the same to a schooner, which would-(as was alleged) appear in Bos­ton bay, at a few leagues from land. The schooner was described to be a large black schooner, with a white signal at her fore-­topmast head. Wilson was to be allowed $10 for every day, not exceeding five days, during which he should be employed in cruising in order to find said schooner, and for every day exceeding five days, he was to be allowed $7, and if the schooner was not found within ten or twelve days, he was at liberty to return with the goods. It Is stated to have been represented to Wilson, that the employ­ment, in which he was then engaged, was not illegal. But the fact cannot be material, as it forms no justification for any actual violation of law.</p>
+                <p id="b458-3" pgmap="458">On the next day, the Eliza was boarded on the high seas, off the west end of Long Island, by the revenue cutter, and upon search and examination was seized. Sundry letters were found on board, two of which were without signature, and one partly writ­ten in cipher, and in enigmatical language.</p>
+                <p id="b458-4" pgmap="458">The claimants attempt to justify themselves in this enterprise, by alleging that the pro­visions were designed for a Swedish ship, which was expected in Boston bay, and were purchased at the special request of the captain of that ship by Mr. Inglee, who is his friend and agent And in confirmation, a letter Is produced by Mr. Inglee, purport­ing to be signed by “P. Stromberg,” and dated “at Eastern Port, 10th August, 1813,” which Mr. Inglee alleges was delivered to him in the street by an unknown person, and that “P. Stromberg” is a Swede wéll known to him, as the writer of the letter. The first clause in the letter is, “I sail in five or six days from this, bound to a southern port, in the Swedish schooner --,” and the writer then proceeds to state, that he has passengers on board, and wishes the wine, &amp;c. to be procured for him. On this letter I cannot but remark, that it is not strictly evidence in the cause. There is not a shadow of evidence, independent of Mr. Inglee’s affidavit, to show its authenti­city, and he is not competent in this case to prove it I confess myself not much bet­ter satisfied on examining the contents of the letter. It carries upon its face the most evident marks of being merely colorable. It states no port from whence written, and no vessel, which the party commands. The directions are such, as would very properly apply to a case, where a fraudulent or inim­ical traffic was intended. If such a vessel so commanded were in any eastern port, why has there been no proof of the fact? If she was bound to some southern port, why is her arrival not shown? If there was a Swed­ish vessel really bound to a southern port, why should wine be ordered at Boston? If a supply were necessary for the ultimate voyage, why should it not be purchased at the southern port of destination? We all know, that wines are common in almost all the principal ports of our country; and I should be glad to know, why they might not have been purchased at “the eastern port” where the vessel is supposed to have been. The mysterious letters found on board evi­dently point to other transactions, than such as innocence would authorize. They con­nect themselves with the other circumstances of the case, and throw over it a load of sus­picion, from which no ingenuity of counsel can relieve it. I have no hesitation in de­claring my perfect conviction, that the whole of this transaction was founded in an illegal contract, and if this had been a process on the prize side of the court, I should have felt no difficulty in applying the penalty of con­fiscation for trade with the public enemy.</p>
+                <p id="b458-9" pgmap="458">■ Under this view of the facts, it remains for me to consider, how far they show any infrac­tion of the municipal laws of the United States.</p>
+                <p id="b458-10" pgmap="458">It has been contended, on the part of the United States, that the case comes within the prohibitions of the first section of the act of the 6th of July, 1812, c. 129. That section provides, in substance, that if any vessel, owned in whole, or in part, by a citizen of the United States, shall depart from any port of the United States, “for any foreign port or place,” without giving the bond prescribed in the same section, the vessel and cargo shall be forfeited.</p>
+                <p id="b458-11" pgmap="458">And it is urged, that the being bound to the high seas, without the jurisdictional limits of the United States, is being bound “to a for­eign place” within the meaning of the statute. I consider this construction utterly untenable on principle and authority. It is clear to my mind, that a “foreign port or place,” in the statute, means a port or place exclusively within the sovereignty of a foreign nation. Such has been the construction of the same words in the 3d section of the act of the 9th of January, 1808, c. 8, by the supreme court of the United States. Such has been the uni­form construction in the district and circuit courts of this circuit, in cases where words of a similar import have been drawn into con­troversy: and I shall therefore content myself with a bare expression of my opinion on this point, without entering into the reasons, which cogently press it upon me. The first count must therefore be abandoned.</p>
+                <p id="b458-12" pgmap="458(155) 459(309)">The validity of the second count depends on the true construction of 6th section of the coasting act of ISth February, 1793, c. 8. That section provides in substance, that every unregistered ship or vessel, of 20 tons and up­wards, found engaged in the coasting trade or fisheries without being duly enrolled and licensed, if in ballast or laden with goods of domestic growth or manufacture, (distilled spirits excepted,) should pay the fees and ton­nage of foreign vessels, and if having on board goods of foreign growth or manufac­ture, or distilled spirits, the ship and cargo should be forfeited. It is contended, that the true meaning of this section is, that every vessel not having a license for the employ­ment, in which she is engaged, is forfeited, if she has foreign goods on board, although she has been enrolled and licensed for another employment under the act. I cannot accede to this construction. On the contrary, I think, that the language and the intent of the section may be satisfied by confining the forfeiture to unregistered vessels, found with foreign goods on board, in the coasting trade or in the fisheries, without enrolment and license for either employment I am the more-con­firmed in this view by the language of the ■32d section of the same act, which imposes a forfeiture for the identical offence supposed in the argument to be comprehended in the ■6th section. Unless the conclusion were un­avoidable, I should not incline to presume a legislative intent twice in the same statute to •enact a penalty for the same offence. This is not the only difficulty. Upon the construc­tion urged in behalf of the United States, if a vessel licensed for the fisheries were found engaged in the coasting trade, or a vessel licensed for the coasting trade were found en­gaged in the fisheries, with domestic goods only on board, such vessel would, under the •6th section, be considered as incurring no penalty, and as merely subjecting herself to pay the fees and tonnage of a foreign vessel. It is clear, however, that such an employment would be a gross violation of her license, and, under the 32d section of the act, would sub­ject her to forfeiture and condemnation. Now it seems to me difficult to maintain that construction of a statute to be a sound one, which punishes in one section what in another section it does not deem unlawful; that it •should provide for the payment of fees and tonnage, as of a foreign vessel, where it sweeps the whole property from the owher upon the ground of illegal traffic. I am there­fore satisfied, that the construction of the 6th section, urged by the United States, ought not to prevail.</p>
+                <p id="b459-4" pgmap="459">It may not, however, be absolutely neces­sary to deeide this point, because, if the case fall within the prohibitions of the 32d section of the same act, the forfeiture will reach the vessel; and the cargo, under either section, must share the same fate, unless saved by the redeeming proviso of the 33d section of the same act.</p>
+                <p id="b459-5" pgmap="459">I come therefore to the third count, found­ed on the 32d section. And in my judgment it is fully supported by the evidence. It is clear, that the Eliza was employed in a trade, other than that for which she was licensed. She was licensed for the fisheries, and she was employed in the transportation of merchandise for hire. This was a traffic or business wholly beside the nature and ob­ject of her license. It was a “trade” in the sense, in which that term is used in the stat­ute, as equivalent to employment or business. It has been argued, that the great object of the statute was. to protect the revenue, and therefore, that no trade is within the pro­hibition, except a trade in fraud of the rev­enue. Against this construction the lan­guage of the section may be strongly urged, which makes no such exception, and where none is made by the legislature, I am not bold enough to create one. But this dis­tinction has been directly overruled by the supreme court in a recent decision. U. S. v. The Active, 7 Cranch [11 U. S.] 100. And it may therefore be considered as the settled law, that the forfeiture attaches in every case of a trade, of whatever nature and with whatever object, which is not expressly au­thorized o.i' tiie tenor of the license.</p>
+                <p id="b459-7" pgmap="459">As to the intentions of Mr. Wilson in en­gaging in this transaction, if they were per­fectly innocent, as he has endeavored to prove, I sincerely regret the unfortunate pre­dicament in which he has placed himself. Still, this innocence of intention can afford no protection against the penalty imposed for a breach of the act If a law be actually violated, it is immaterial, whether the of-­fence be by wilfulness or negligence, by de­liberation or by mistake. In either case the court is bound to enforce the rigor of the law, and leave to another tribunal the more be­nignant prerogative of mercy, in cases where it ought to be bestowed.</p>
+                <p id="b459-8" pgmap="459">I feel myself bound, therefore, to condemn the vessel and her appurtenances, as forfeit­ed.</p>
+                <p id="b459-9" pgmap="459">As to the wine and other articles on board, claimed by Mr. Inglee, as his own property, as they do not appear to have belonged to the master, owner, or mariners of the Eliza, they are saved from forfeiture by the proviso of the 33d section of the act, if they are not liable to duty, or the duty on them has been actually paid or secured. Such is the con­struction given to this proviso by the su­preme court. U. S. v. The Active, 7 Cranch [11 U. S.] 100. As to the wine, having been purchased in the open market, a presump­tion of its fair and regular importation does, under the circumstances of this case, .certain­ly arise. The other articles, being of do­mestic produce, are exempted from duty. I cannot however restore these articles to Mr. Inglee. He claims them, as his own property, but upon his own showing they are the property, and were purchased with the funds, of another person. Who that person is I will not now undertake to decide. It is sufficient that Mr. Inglee has no claim. As the cause affords very strong presumptions, that these articles actually belonged to, or were destined for the use of, the public enemy, I shall order the proceeds to be brought into court, and deposited in the registry, there to remain until the real owner shall appear and prove his right, or the United States shall choose to interpose a claim for the property as prize of war.</p>
+                <p id="b459-10" pgmap="459">Lest this decision should be misunderstood, I would add, that it is only in cases, where the constat of property in the claimant is re­butted in the evidence, that I should feel at liberty to retain the proceeds in court. Vide The Aquila, 1 C. Rob. Adm. 37, 41.</p>
+                <p id="b459-11" pgmap="459">Vessel condemned.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="457" ORDERLABEL="455" TYPE="page">
+        <fptr FILEID="tiff_00229_0"/>
+        <fptr FILEID="jp2_00229_0"/>
+        <fptr FILEID="alto_00229_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.6" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="458" ORDERLABEL="456" TYPE="page">
+        <fptr FILEID="tiff_00229_1"/>
+        <fptr FILEID="jp2_00229_1"/>
+        <fptr FILEID="alto_00229_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_458.4" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="459" ORDERLABEL="457" TYPE="page">
+        <fptr FILEID="tiff_00230_0"/>
+        <fptr FILEID="jp2_00230_0"/>
+        <fptr FILEID="alto_00230_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_459.3" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-40" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.51" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            <area BEGIN="BL_458.1" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-10" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.9" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-10" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.11" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-9" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.8" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcA" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.38" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-7" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.8" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-4" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.5" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-5" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.6" BETYPE="IDREF" FILEID="alto_00230_0"/>
+            <area BEGIN="BL_459.7" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-11" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.12" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVK" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.33" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            <area BEGIN="BL_457.34" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9G" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.31" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-8" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.9" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b459-9" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_459.10" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-3" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.5" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-38" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.48" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-4" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.6" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            <area BEGIN="BL_458.7" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-11" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.10" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-19" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.29" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-22" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.32" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-20" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.30" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-12" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.11" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            <area BEGIN="BL_459.1" BETYPE="IDREF" FILEID="alto_00230_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMqh" BETYPE="IDREF" FILEID="casebody_0219"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.49" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            <area BEGIN="BL_457.50" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

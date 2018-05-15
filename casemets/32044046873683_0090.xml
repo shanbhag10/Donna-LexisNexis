@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0090" publicationstatus="published">
+          <court abbreviation="C.C.D.R.I." jurisdiction="United States">United States Circuit Court for the District of Rhode Island</court>
+          <name abbreviation="D’Wolf v. Babbett">D’WOLF v. BABBETT et al.</name>
+          <docketnumber>Case No. 4,220</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 190</citation>
+          <citation category="parallel" type="bluebook">4 Mason, 289</citation>
+          <decisiondate>1826-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00096_1" MIMETYPE="image/tiff" CHECKSUM="c7670d08f1f37137fa7fb574c08a0e86" CHECKSUMTYPE="MD5" SIZE="56656">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00096_1.tif"/>
+      </file>
+      <file ID="tiff_00097_0" MIMETYPE="image/tiff" CHECKSUM="104302ffccc899fe0dd57564addb6094" CHECKSUMTYPE="MD5" SIZE="5792">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00097_0.tif"/>
+      </file>
+      <file ID="tiff_00097_1" MIMETYPE="image/tiff" CHECKSUM="3ae71108bdb598414458b728d0024613" CHECKSUMTYPE="MD5" SIZE="74724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00097_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00096_1" MIMETYPE="image/jp2" CHECKSUM="4f10e50ebf30a303bb8ff038c1fb6e6f" CHECKSUMTYPE="MD5" SIZE="2586708">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00096_1.jp2"/>
+      </file>
+      <file ID="jp2_00097_0" MIMETYPE="image/jp2" CHECKSUM="f6bac965c096286b7476256d3135d927" CHECKSUMTYPE="MD5" SIZE="1050518">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00097_0.jp2"/>
+      </file>
+      <file ID="jp2_00097_1" MIMETYPE="image/jp2" CHECKSUM="84fbdb6965ec6b7828cf5b878c0f1f93" CHECKSUMTYPE="MD5" SIZE="2898361">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00097_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00096_1" MIMETYPE="text/xml" CHECKSUM="667e3b0224d9295d01ad610f2f188930" CHECKSUMTYPE="MD5" SIZE="124924">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00096_1.xml"/>
+      </file>
+      <file ID="alto_00097_0" MIMETYPE="text/xml" CHECKSUM="f5086323157b5d434fb843f7631cbfda" CHECKSUMTYPE="MD5" SIZE="1921">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00097_0.xml"/>
+      </file>
+      <file ID="alto_00097_1" MIMETYPE="text/xml" CHECKSUM="2b42d0bf6e75395c55cbfec2bd9a7265" CHECKSUMTYPE="MD5" SIZE="164251">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00097_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0090" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="192" firstpage="190">
+              <court id="b192-23" pgmap="192">Circuit Court, D. Rhode Island.</court>
+              <docketnumber id="b192-20" pgmap="192">Case No. 4,220.</docketnumber>
+              <citation id="b192-22" pgmap="192">[4 Mason, 289.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b192-21" pgmap="192">D’WOLF v. BABBETT et al.</parties>
+              <decisiondate id="AgU" pgmap="192">Nov. Term, 1826.</decisiondate>
+              <attorneys id="b194-6" pgmap="194">Searle. for defendants,</attorneys>
+              <footnote label="1">
+                <p id="b192-29" pgmap="192">1 [Reported by William P. Mason, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b194-7" pgmap="194">STORY, Circuit Justice,</author>
+                <p id="Atv" pgmap="194">in summing up to the jury, said: If in this case there has been an absolute and unconditional delivery of the sugars to George D’Wolf, unaffected by fraud, the plaintiff is entitled to recover. So far as regards the 102 boxes of sugar de­livered on Saturday, as that was after the terms of the personal credit had expired, which the counsel for the plaintiff supposes to exist, the delivery can be maintained as valid, only upon the supposition, that the whole transaction was bona fide, and the defendant, Babbett waived a compliance with the terms. At that time D’Wolf had failed and assigned his property, and Clapp and Smith had also failed, and Coggeshall failed on Saturday morning. Thus, all the parties to the intended drafts in payment had failed, at the time of the delivery of the 102 boxes on Saturday. The facts were well known . to George D’Wolf, and they were utterly unknown to the defendant, Babbett. What then was the conduct of G. D’Wolf to Bab-­bett on Saturday morning? It was an evasive reply to an inquiry respecting the paper to be given for the sugars. Was it not evasive for the purpose of misleading Bab-­bett? My opinion is, that under the circum­stances of this case a delivery, procured by a fraud in misleading the vendor by a sup­pression of facts, and by an effective affir­mation of an intention to comply with the-­terms of sale, which the party at the time knew was impracticable, was such a fraud, that it at all events avoids the delivery, so-­far as respects the 102 boxes; and the jury,, if they believe the facts, ought to find a ver­dict for the defendants to this extent.</p>
+                <p id="b194-9" pgmap="194">But the other part of the case turns upon a ground equally applicable to the whole of the sugars. The question is, whether this, was a contract for an absolute delivery of' the sugars upon a personal credit to G. D’Wolf, until his return from Boston, or-­whether, in the understanding of all parties, a bona fide compliance with the terms of' sale, by giving the- note, acceptances, &amp;c.. was a condition precedent to the absolute-­delivery of the sugars. The vendor is not divested of his right to retake the goods, iff for the convenience of the vendee he has. assented to a qualified delivery of the goods, with the understanding, that the property is not absolutely to pass, unless all the terms, of sale are complied with. If indeed a per­sonal credit is given to the vendee, and the-­delivery is absolute and complete under the sale, the vendor has no right to reclaim the-­property. If, on the other hand, the delivery is conditional, and so understood by the par­ties, then the vendor does not part with his. property until the terms of the sale are com­plied with. In short, the sale then is merely a conditional sale. Here there is no pre-­tence, that all the terms of the sale have-' been complied with. They were notoriously broken by the insolvency of the parties,, when there had been a part delivery only. No debenture has been given, no note, no ac­ceptance. The question is a question as to the real intentions and bargain between the-­parties. Did the vendor intend to part with the property absolutely, by giving a personal credit to G. D’Wolf, whether he complied with the terms of sale or not? Or did not both parties understand, that the title by sale-­was only to be complete by a strict compli­ance with all its terms, and that any de­livery of the goods, in the mean time, was. to be deemed conditional, and merely for the convenience of the vendee? As the jury find the fact, their verdict ought to be for the plaintiff or defendant, as to all the sugars, not affected by the fraud. If the delivery was conditional, then the verdict is to be for the defendants; if absolute, then for the plaintiff.</p>
+                <p id="b194-10" pgmap="194">Verdict for defendants.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="192" ORDERLABEL="190" TYPE="page">
+        <fptr FILEID="tiff_00096_1"/>
+        <fptr FILEID="jp2_00096_1"/>
+        <fptr FILEID="alto_00096_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_192.4" BETYPE="IDREF" FILEID="alto_00096_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="193" ORDERLABEL="191" TYPE="page">
+        <fptr FILEID="tiff_00097_0"/>
+        <fptr FILEID="jp2_00097_0"/>
+        <fptr FILEID="alto_00097_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_193.3" BETYPE="IDREF" FILEID="alto_00097_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="194" ORDERLABEL="192" TYPE="page">
+        <fptr FILEID="tiff_00097_1"/>
+        <fptr FILEID="jp2_00097_1"/>
+        <fptr FILEID="alto_00097_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_194.5" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Atv" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.12" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            <area BEGIN="BL_194.13" BETYPE="IDREF" FILEID="alto_00097_1"/>
+            <area BEGIN="BL_194.14" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgU" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.28" BETYPE="IDREF" FILEID="alto_00096_1"/>
+            <area BEGIN="BL_192.29" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-10" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.16" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-6" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.8" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-7" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.11" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-21" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.25" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b194-9" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_194.15" BETYPE="IDREF" FILEID="alto_00097_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-23" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.27" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-22" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.26" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-20" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.24" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b192-29" BETYPE="IDREF" FILEID="casebody_0090"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_192.35" BETYPE="IDREF" FILEID="alto_00096_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

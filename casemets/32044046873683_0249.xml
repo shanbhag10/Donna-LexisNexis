@@ -1,0 +1,442 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0249" publicationstatus="published">
+          <court abbreviation="D. Del." jurisdiction="United States">United States District Court for the District of Delaware</court>
+          <name abbreviation="The Ellen Holgate">The ELLEN HOLGATE</name>
+          <docketnumber>Case No. 4,375a</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 509</citation>
+          <citation category="parallel" type="bluebook">8 Leg. Gaz. 44</citation>
+          <decisiondate>1875-11-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00256_0" MIMETYPE="image/tiff" CHECKSUM="b46fddf267f51282f3bf6c88efc3fe9a" CHECKSUMTYPE="MD5" SIZE="61680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00256_0.tif"/>
+      </file>
+      <file ID="tiff_00256_1" MIMETYPE="image/tiff" CHECKSUM="ba8756456d89de357ab8c0df093b9cbe" CHECKSUMTYPE="MD5" SIZE="115018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00256_1.tif"/>
+      </file>
+      <file ID="tiff_00257_0" MIMETYPE="image/tiff" CHECKSUM="7535dcc34686e9b724d4747fb15cd022" CHECKSUMTYPE="MD5" SIZE="118210">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00257_0.tif"/>
+      </file>
+      <file ID="tiff_00257_1" MIMETYPE="image/tiff" CHECKSUM="785df959ae1002a71a0a9ff31bb195bf" CHECKSUMTYPE="MD5" SIZE="117482">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00257_1.tif"/>
+      </file>
+      <file ID="tiff_00258_0" MIMETYPE="image/tiff" CHECKSUM="ea50aec3010e35500595004652b1bb70" CHECKSUMTYPE="MD5" SIZE="54032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00258_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00256_0" MIMETYPE="image/jp2" CHECKSUM="66c1c7620957a50d5249784c5721a64a" CHECKSUMTYPE="MD5" SIZE="2756472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00256_0.jp2"/>
+      </file>
+      <file ID="jp2_00256_1" MIMETYPE="image/jp2" CHECKSUM="94950260d9511dc2b0a129a529308b9e" CHECKSUMTYPE="MD5" SIZE="3828059">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00256_1.jp2"/>
+      </file>
+      <file ID="jp2_00257_0" MIMETYPE="image/jp2" CHECKSUM="e1e84fbf7277abe80e4298da1c3c21af" CHECKSUMTYPE="MD5" SIZE="3900098">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00257_0.jp2"/>
+      </file>
+      <file ID="jp2_00257_1" MIMETYPE="image/jp2" CHECKSUM="25b3695a2054edb30ebd4f9e42a8833f" CHECKSUMTYPE="MD5" SIZE="3852410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00257_1.jp2"/>
+      </file>
+      <file ID="jp2_00258_0" MIMETYPE="image/jp2" CHECKSUM="83074045bf1bbed3fd97edd249a6652c" CHECKSUMTYPE="MD5" SIZE="2431147">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00258_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00256_0" MIMETYPE="text/xml" CHECKSUM="09ca3acd120769d992ae9fa6b5a2e20f" CHECKSUMTYPE="MD5" SIZE="131009">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00256_0.xml"/>
+      </file>
+      <file ID="alto_00256_1" MIMETYPE="text/xml" CHECKSUM="4f501b3a5f4eb76ac1e98e3cda368a66" CHECKSUMTYPE="MD5" SIZE="247152">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00256_1.xml"/>
+      </file>
+      <file ID="alto_00257_0" MIMETYPE="text/xml" CHECKSUM="8c0d1339466b1d0eefaddd5206d950bc" CHECKSUMTYPE="MD5" SIZE="241990">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00257_0.xml"/>
+      </file>
+      <file ID="alto_00257_1" MIMETYPE="text/xml" CHECKSUM="56b28a3dc1e09eedac67cc062dd61351" CHECKSUMTYPE="MD5" SIZE="242773">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00257_1.xml"/>
+      </file>
+      <file ID="alto_00258_0" MIMETYPE="text/xml" CHECKSUM="2733bf4b652b4382792eea6cf2f77903" CHECKSUMTYPE="MD5" SIZE="108266">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00258_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0249" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="513" firstpage="509">
+              <court id="b511-29" pgmap="511">District Court, D. Delaware.</court>
+              <docketnumber id="b511-26" pgmap="511">Case No. 4,375a.</docketnumber>
+              <citation id="b511-28" pgmap="511">[8 Leg. Gaz. 44.]</citation>
+              <parties id="b511-27" pgmap="511">The ELLEN HOLGATE.</parties>
+              <decisiondate id="A0z" pgmap="511">Nov. 12, 1875.</decisiondate>
+              <attorneys id="b511-38" pgmap="511">Charles G. Rumford and Henry Flanders, for libellants.</attorneys>
+              <attorneys id="b511-39" pgmap="511">Benjamin Neilds and J. Warren Coulston, for respondents.</attorneys>
+              <opinion type="majority">
+                <author id="b511-40" pgmap="511">BRADFORD, District Judge.</author>
+                <p id="AvS4" pgmap="511(9) 512(446)">On the'third of March, 1875, the schooner Ellen Holgate, ■of about two hundred and fifty tons burthen, was run into and sunk in the Delaware bay, about two miles below Reedy Island light­house, by the steamer Illinois, both vessels •coming up the bay at the time. The injury received was a very severe one, the schooner sinking almost immediately from the effect •of the opening made in her hull by the bow of the Illinois. At this time the weather , was very inclement, heavy ice’ running in parts of the bay and near the schooner at the time of the collision. There was a stiff breeze, with rain and sleet At the time of the collision, the steam tugs Col. S. L. Brown, Daniel C. Boyer, of Philadelphia, master and part owner, and the Young America, Wil­liam Minford, of Philadelphia, master and part owner, were within from three to four hundred yards of the Holgate and saw the accident. The master and crew of the Hol-­gate were taken on board the Illinois. The master, Joseph Golding, and one deck hand, Richard Banks, afterwards, shortly after the collision, had an interview with the two captains of the tug boats in the pilot house of the tug Col. S. L. Brown. The statements of the respective parties, the libellants and respondents, differ as to the arrangement then entered into, as to the towage of the sunk schooner to Philadelphia, but the result certainly was that the cap­tains of the two tug boats engaged in the service of saving the'vessel, and of deliver­ing her at Philadelphia, had the distinct understanding that they were to receive two thousand dollars if their work was success­fully performed, and that Captain Golding knew that they were acting with that un­derstanding; and whatever may have been his unwillingness in the beginning to ac­cept that offer, he did accept, acquiesce in and approve of all the work done for a period of eleven days, under that contract •or understanding. We think the weight of the evidence shows conclusively that there was, before the work commenced, a contract, ■clear and definite in its character, both as to what was to be done, and the price for which it was to be done, that is, that this wreck was to be saved and towed to Phila­delphia for the sum of two thousand dol­lars; and secondly, if there was any doubt as to Golding’s then and there accepting the offer, that difficulty is completely remov­ed by his subsequent assent, ratification and acquiescence. The court thinks there is noth­ing in the evidence to show any unfairness or advantage taken by the captains of the tugs.</p>
+                <p id="b512-3" pgmap="512">As this was especially a salvage service there must be a reward measured by the rules that apply to salvage cases, and no contract can be permitted to stand which would compensate the salvors to a great degree more than they would be entitled to for a salvage service were there no contract; tout when itdoes appear that the contract was entered into fairly, without any compulsion or taking undue advantage to make an un­conscionable bargain, and in point of fact in the judgment of the court the price agreed to be paid did not much vary in amount from what the libellants would have been entitled to for a salvage reward, then in our judgment the contract should not be disturbed. What then was the value of the service performed as a salvage service? And this will depend first, on the value to the owners of the thing salved; second, on the degree of merit in the salvors.</p>
+                <p id="b512-6" pgmap="512(454) 513(60)">What was the value of the property saved by the steam tugs on the third of March last, and the subsequent days of their labor and exertions? On this point the testimony is so widely divergent that it would seem there was no mode of reaching any con­clusion based on the evidence in the cause. Yet, upon the evidence we have, we must reach such a conclusion as seems most in accordance with it. But, before we enter on the discussion of the question of the value of this vessel just before the collision, we must say that the value meant in this connection is its worth to the owners for all the pur­poses of repair, so as to make her available for that for which she was originally in­tended. A ship without a rudder is useless as a ship* her machinery may be taken out and sold, and her hull broken to pieces, and her masts and rigging dismantled and sold, and something may be obtained by way of sale for these “disjecta membra” of a ship without her rudder; but she is worth much more when you add the cost of a new rud­der, and restore her to that state of ef­ficiency as a ship for which she was in­tended; and a person purchasing would look at the value of a ship without the rud­der and calculate the cost of a new one, and her value would be to him just the value of the ship after placing iu her a new rud­der, less its cost, provided, when the new rudder was procured, she was as service­able as before. So, in this case, the value of this vessel was, supposing she was as good after her repairs as before the collision, as was declared on oath by her owners, her value after she had been repaired, less the cost of repairs and the other expenses attendant on bringing her to Wilmington other than the service of the salvors. What then was the value of the schooner after the collision for the purposes of repair? Now there are some points in the testimony which must serve as a means of arriving at an opinion on this question. She was as sound, as good, as seaworthy, as valuable after her repair as before the collision, and she was in perfect order and condition at the time she was struck; she was a well-­built vessel of one hundred and sixty-eight registered tonnage, built of white oak, with locust treenails; she was, by the testimony of Captain Monroe, a first-rate vessel of her class, and she cost about twenty thousand four hundred dollars (and about twenty-one thousand dollars by the testimony of Mc-­Naughten, one of her owners, page 42). The respondents introduced into the cause evi­dence of a character which they claimed to be, in the absence of appraisement, a relia­ble test of the value of vessel property, and it is not proper that they should shrink from the application of that test</p>
+                <p id="A870" pgmap="513(976) 514(46)">Captain Thomas G. Monroe, surveyor for the Board of Philadelphia Marine Under­writers, was produced as a witness, and propounded and explained the theory by which he tested the value of vessel property. He stated that the average period of the life of a vessel was about ten years; that in averaging their risks on vessel property they struck off ten per cent from the cost value for the first year after she was built, and five per cent, for every year after for the period of nine years. After that no insur­ance could be effected unless the vessel was thoroughly repaired, when the underwriters would continue the insurance, striking off five per centof her value every year afterwards for five years; when the vessel comes to the age of fifteen years underwriters decline any further insurance. Captain Monroe assum­ed the Holgate to cost sixteen thousand eight hundred dollars, on the supposition that she was registered one hundred and sixty-eight tons burthen, and he thought one hundred dollars per ton was the proper average al­lowance for the cost of building such ves­sels. But she, by the testimony of Golding, cost about twenty thousand four hundred dollars, and by that of Mr. McNaughten, about twenty-one thousand dollars; and she was a well-built vessel, staunch and strong, by Captain Monroe’s testimony; had not been injured till the time of the collision, and was, before that accident, in excellent condition. Nor is the price of twenty-one thousand dol­lars intimated by any witness to have been an unreasonable one for the original cost of the Holgate. Captain Monroe, though seeing her while being built, does not suggest that shewas not worth that sum originally. In pur­suance of the underwriters’ theory of valuing vessels in such manner as will make the risks as small as practicable, he, to use his own language, “starts her” at sixteen thou­sand eight hundred dollars, having no act­ual knowledge of her cost, but placing his ■estimate wholly on the general cost of the building of such vessels at one hundred dol­lars per ton, and then he applies his theory of decreasing values of such vessel property. Assuming that the evidence shows that this vessel cost about twenty-one thousand dol­lars, on the scale referred to, she would have been worth ten thousand five hundred dollars at the time of the collision (fifty per cent, off of the twenty-one thousand dollars at the end of nine years from the time of her construction having been stricken off). Now, allowing for the lowness of this valua­tion. arising from the fact that the rule of computation is one in the interest of the underwriters, and remembering that the owners are, as liable for salvage money, pe-­cuniarily interested in depreciating the val­ue of their vessel, and considering the un-­contradicted testimony that the Holgate was in admirable condition in all respects when the collision took place, and was an excel­lent ship of her class, the court thinks that ten thousand five hundred dollars is a low estimate to place on her value just before the collision, and that between eleven and twelve thousand is a more correct one. * We will assume, however, for the purposes of the case, that ten thousand five hundred is the proper value to place on the Holgate just be­fore the collision. The loose opinion of wit­nesses in reference to the value of this vessel lying in the water, or on the ways in her crippled condition, with no adequate idea on their part of the amount of the injury in­flicted, or the amount of money necessary, completely to repair her, will not be consid­ered as deciding the value of this vessel be­fore the collision. The circumstances were not favorable for most of the witnesses to form a correct opinion, and the court prefers to take the rule of valuation as laid down by Captain Monroe, and insisted by the re­spondents as the proper one; to which there can .be but one objection, and that is that the valuation is too low. Mr. Moore, a prac­tical ship-wright, says it would be worth about twenty-two thousand dollars to build such a vessel, and when put on the ways before she was repaired, he thought she was worth from ten to twelve thousand dollars, and he thought she would have brought that sum under the hammer. Now, consid­ering that Mr. Moore did not know the age of the vessel, and did not, therefore, apply any rule of depreciation arising from the lapse of time, the court thinks his testimony was not much out of the way; at the other extreme, Mr. Morrison, shipper of grain and farmer, seeing the vessel at New Cas­tle, while in her damaged condition, thought that she would not have brought more than two thousand dollars; so Captain Monroe valued her in Wilmington before repairs at fifteen hundred dollars. On what principle he arrived at that conclusion the court can­not discover, unless he considered her worth­less for repairs, for on his own theory she was worth ten thousand five hundred dol­lars before she was struck, and allowing that six thousand dollars had been spent for repairs (the utmost claimed by the re­spondents), she must have been worth four thousand five hundred dollars. As before said, it is in proof that after she was repair­ed she was in as good condition as ever; so testified her owners and her captain. This is not denied by any one. Indeed, if the hull had been so repaired as to render the vessel equally strong and seaworthy, when we take into consideration the new spars, new rigging, new chains, new painting and fur­nishing, she must have been worth more to her owners than before the accident, by the increased value of the new materials and articles over that of the old and dam­aged ones. However this may be, it is not controverted that she was as valuable to the owners as before the collision.</p>
+                <p id="b514-3" pgmap="514">The next cuestión to be considered is, what was the expense of putting the vessel fully repaired afloat, exclusive of the amount claimed by the salvors? Upon this point the testimony is uncertain and conflicting. Captain Golding, of the Holgate, says, “The costs of her repairs caused by the collision • with the Illinois, on third of March, was nearly six thousand dollars, I think.” Mr. McNaughten says, “The cost of all the re­pairs and labor at Wilmington was fifty-­three hundred and twelve dollars, and all of that was caused by the collision." On the other hand it has been proven that the work of Jackson &amp; Sharp, embracing the complete repair of the hull, including iron work, chains, carpenter and joiner work, and paint­ing, cost two thousand five hundred and forty one dollars and sixty-three cents. The rigger’s bill was two hundred and sixty-­seven dollars and sixty-nine cents, and there is no evidence to show that there was any money expended for material for the rig­ger outside of that furnished by him. The bill for sails was one hundred and ten dol­lars, and for spars two hundred and sixty dollars, all amounting to three thousand one hundred and seventy-nine dollars and thirty-­two cents. It is difficult to see what could have been the source of expenditure after these repairs had been made, with the ex­ception of the cost for the services of the • divers, the hire of the small schooner for the purpose of carrying the chains and an­chor. spars and rigging of the dismantled vessel, and some further expense for in­jury to the furniture of the schooner, and for the services of extra men in pumping out the vessel. The bold declaration that the expenses were “about six thousand dollars, I think,” and “in the neighborhood of five thousand five hundred dollars,” specifying the amount spent in Wilmington at five thou­sand three hundred and twelve dollars, with­out any vouchers to support such allegations, should not be conclusive as against the proof that only such an amount was really expended, and that in the nature of the case there was no room for a further ex­penditure up to the amount of five thousand five hundred dollars, or anywhere near it. In the absence of any direct evidence as to the value of the services performed, we think, for the assistance of the small schoon­er, one hundred and seventy five dollars for seven days is a liberal allowance; for the two divers one hundred and fifty dollars for one and one-half days’ work is a rea­sonable allowance; fifteen dollars was the exact sum paid by Mr. McNaughten for the services of the five negroes in pumping out the vessel; and, although there was no evi­dence as to any loss of furniture, allow fifty dollars for repairing damaged furniture, and we have the sum of three hundred and ninety dollars to add to that of three thou­sand one hundred and seventy-nine dollars,, the amount of the proven bills in Wilming­ton. making, as far as we can see, the whole cost of repairs and expenses (outside of the salvage services) to put the schooner Holgate afloat, in as good condition as be­fore she was sunk, about three thousand five hundred and sixty-nine dollars. Where was the subject-matter to be the cause of any other expense? We are unable to see it. If there had been such it might have been proven before or during the course of the trial. The result of the investigation thus far leads the court to fix the sum of about three thousand five hundred dollars as the amount actually expended in putting the Holgate afloat, and that the value of the property saved was the value of the vessel just before the collision (ten thousand five hundred dollars less three thousand five hundred dollars, the cost of repairs), to wit, the sum of seven thousand dollars. To what proportion of that sum are the salvors en­titled? If the two thousand dollars claimed as due under the contract exceeds in any considerable degree what the court would have awarded without such contract, as a salvage service, then the contract should be set aside. If not, it will be sustained; so that the question really is, what are the tugs entitled to as a salvage reward?</p>
+                <p id="b514-8" pgmap="514(255) 515(32)">We have no hesitation in saying that this is a case of great merit There are promi­nent features in it which are always esti­mated as elements of merit: I. The Hol-­gate was rescued from great peril; so great was that peril that, in all probability, had she not been rescued then and there by those tugs, she would have been wholly lost. 2. This service was performed at some per­sonal risk to some of the salvors, and great risk of valuable property in the salving ves­sels. 3. The salvors were entitled to credit, and it was a source of merit, that they were well and powerfully equipped for the service on which they entered. 4. It was a service of some eleven days, the first few in tem­pestuous weather, with heavy running ice, hail and sleet, in an exposed part of the Delaware bay, when navigation under such circumstances is proverbially dangerous, and the balance of the time was spent in continuous labor and care, rendering all the assistance in their power. The work was arduous, faithful, continuous and alto­gether efficient and successful, and was so considered by the captain of the Holgate. 5. These tugs were deprived, at a busy sea­son of the year for them, of a large and remunerative employment by reason of their faithful, continual and exclusive attention to the Holgate, and while the loss of sup­posed and probable future gains will not be considered as a ground of damage in gen­eral, it is proper ior the court, in estimating the value of the services of these tugs, to take into consideration their almost certain loss of highly remunerative employment from other quarters.</p>
+                <p id="b515-3" pgmap="515">It is no answer to the higher claim of salvage that the tugs could not have earned an equal amount from towage; admitting it to he true, that is no reason for refusing the higher salvage reward proportioned to the merit of the salvage services.</p>
+                <p id="b515-4" pgmap="515">There is no need of entering into detail as to the meritorious conduct of the salvors; the evidence is spread on the record. .Con­sidering all the circumstances, the court thinks it is a case where one-third of the value of the property saved might, with propriety, he allowed, were there no con­tract. On the valuation placed by the court of the property saved, that sum would be two thousand three hundred and thirty-­three dollars. But the salvors must stand by their contract, inasmuch as they cannot take more, even if it be a losing bargain, and the sum of two thousand dollars varies but little from what the court thinks a fair salvage compensation.</p>
+                <p id="b515-5" pgmap="515">We shall order a decree entered that the respondents pay to the libellants the sum of two thousand dollars due them on a con­tract entered into with them on the third of March, 1S75. by the captain of the Ellen Holgate to pay that sum of money for tow­ing the said Holgate, then in a sunken and dismantled condition, from the Delaware bay, about two miles below Reedy island, to Philadelphia (afterwards altered by consent to Wilmington, Delaware), and that the re­spondents pay to the said libellants the further sum of seventy dollars for board and lodging furnished the crew of the Holgate while the tugs were engaged in the salvage service, and that the respondents pay the costs of this suit. The court will reserve the apportionment of the sum decreed to be paid among the salvors to some future ses­sion of this court at an early day.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="511" ORDERLABEL="509" TYPE="page">
+        <fptr FILEID="tiff_00256_0"/>
+        <fptr FILEID="jp2_00256_0"/>
+        <fptr FILEID="alto_00256_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_511.2" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="512" ORDERLABEL="510" TYPE="page">
+        <fptr FILEID="tiff_00256_1"/>
+        <fptr FILEID="jp2_00256_1"/>
+        <fptr FILEID="alto_00256_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_512.4" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="513" ORDERLABEL="511" TYPE="page">
+        <fptr FILEID="tiff_00257_0"/>
+        <fptr FILEID="jp2_00257_0"/>
+        <fptr FILEID="alto_00257_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_513.3" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="514" ORDERLABEL="512" TYPE="page">
+        <fptr FILEID="tiff_00257_1"/>
+        <fptr FILEID="jp2_00257_1"/>
+        <fptr FILEID="alto_00257_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_514.4" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="515" ORDERLABEL="513" TYPE="page">
+        <fptr FILEID="tiff_00258_0"/>
+        <fptr FILEID="jp2_00258_0"/>
+        <fptr FILEID="alto_00258_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_515.3" BETYPE="IDREF" FILEID="alto_00258_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-4" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.6" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-3" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.5" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            <area BEGIN="BL_512.6" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-38" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.43" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b512-6" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_512.7" BETYPE="IDREF" FILEID="alto_00256_1"/>
+            <area BEGIN="BL_513.1" BETYPE="IDREF" FILEID="alto_00257_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0z" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.35" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvS4" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.46" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            <area BEGIN="BL_511.47" BETYPE="IDREF" FILEID="alto_00256_0"/>
+            <area BEGIN="BL_512.1" BETYPE="IDREF" FILEID="alto_00256_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-8" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.7" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            <area BEGIN="BL_515.1" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b514-3" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_514.5" BETYPE="IDREF" FILEID="alto_00257_1"/>
+            <area BEGIN="BL_514.6" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-5" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.7" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-26" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.31" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-3" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.5" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A870" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_513.4" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            <area BEGIN="BL_513.5" BETYPE="IDREF" FILEID="alto_00257_0"/>
+            <area BEGIN="BL_514.1" BETYPE="IDREF" FILEID="alto_00257_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-27" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.32" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-39" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.44" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-40" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.45" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-28" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.33" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b511-29" BETYPE="IDREF" FILEID="casebody_0249"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_511.34" BETYPE="IDREF" FILEID="alto_00256_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

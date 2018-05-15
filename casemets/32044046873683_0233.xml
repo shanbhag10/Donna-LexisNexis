@@ -1,0 +1,481 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0233" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="The Elizabeth English">The ELIZABETH ENGLISH</name>
+          <docketnumber>Case No. 4,360</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 479</citation>
+          <citation category="parallel" type="bluebook">7 Blatchf. 180</citation>
+          <decisiondate>1870-03-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00241_0" MIMETYPE="image/tiff" CHECKSUM="ffb9984b0755d98ed52c840a9a7e61b9" CHECKSUMTYPE="MD5" SIZE="90486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00241_0.tif"/>
+      </file>
+      <file ID="tiff_00241_1" MIMETYPE="image/tiff" CHECKSUM="8849f99a93ba155994da7d4d67199142" CHECKSUMTYPE="MD5" SIZE="115538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00241_1.tif"/>
+      </file>
+      <file ID="tiff_00242_0" MIMETYPE="image/tiff" CHECKSUM="c20b1cbd4db610208b6e5be8e8472447" CHECKSUMTYPE="MD5" SIZE="102290">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00242_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00241_0" MIMETYPE="image/jp2" CHECKSUM="f7c0cdb2679b0be33b1d1b9c62f4b71d" CHECKSUMTYPE="MD5" SIZE="3345959">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00241_0.jp2"/>
+      </file>
+      <file ID="jp2_00241_1" MIMETYPE="image/jp2" CHECKSUM="a775056d7ea212a836c2e36d69d9f946" CHECKSUMTYPE="MD5" SIZE="3842712">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00241_1.jp2"/>
+      </file>
+      <file ID="jp2_00242_0" MIMETYPE="image/jp2" CHECKSUM="5afe28c4d3b62941bfd90b2e3924df37" CHECKSUMTYPE="MD5" SIZE="3611545">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00242_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00241_0" MIMETYPE="text/xml" CHECKSUM="ad71a164d6ea5dc6004059c9aef4873a" CHECKSUMTYPE="MD5" SIZE="197608">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00241_0.xml"/>
+      </file>
+      <file ID="alto_00241_1" MIMETYPE="text/xml" CHECKSUM="10f1abbf063b74e18ab65abd8a8281c6" CHECKSUMTYPE="MD5" SIZE="252911">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00241_1.xml"/>
+      </file>
+      <file ID="alto_00242_0" MIMETYPE="text/xml" CHECKSUM="efd4c49c1c6970938004361446ab281c" CHECKSUMTYPE="MD5" SIZE="219253">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00242_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0233" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="481" firstpage="479">
+              <court id="b481-9" pgmap="481">Circuit Court, S. D. New York.</court>
+              <docketnumber id="b481-6" pgmap="481">Case No. 4,360.</docketnumber>
+              <citation id="b481-8" pgmap="481">[7 Blatchf. 180.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b481-7" pgmap="481">The ELIZABETH ENGLISH.</parties>
+              <decisiondate id="AMuM" pgmap="481">March 19, 1870.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys id="b481-17" pgmap="481">Charles Donohue, for libellants.</attorneys>
+              <attorneys id="b481-18" pgmap="481">Erastus C. Benedict and Robert D. Bene­dict, for claimant</attorneys>
+              <footnote label="1">
+                <p id="b481-12" pgmap="481">1 [Reported by Hon. Samuel Blatehford, Dis­trict Judge, and here reprinted by permission.)</p>
+              </footnote>
+              <footnote label="2">
+                <p id="b481-13" pgmap="481">2 [Affirming Case No. 4,359.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b481-19" pgmap="481">WOODRUFF, Circuit Judge.</author>
+                <p id="ALJ" pgmap="481">On the night of the 16th of February, 1858, shortly before nine o’clock, at sea, a few miles southeasterly from Absecom light the schooner Ella, be­longing to the libellants, and the schooner Elizabeth English came into collision, the stem of the latter coming in contact with the former on the port side, just abaft the fore-­rigging. The Ella was sailing on a course or bearing southwest by west with a strong wind from a northwesterly direction, and such bearing was kept as alleged by the libel-­lants, although one point to the westerly of her true course, because of the leeway of the schooner, her true course being southwest; and such lee-way is testified by all of the libellants’ witnesses to have been about one point The officers and men on board of the Ella saw the Elizabeth English when about300 yards distant, and she appeared to be about one point on the lee or port bow of the Ella, and they testified that they supposed she would pass them on the port or leeward side. The night was not clear, but towards the south and west, it was sufficiently light to enable them to see a vessel without a light, as these witnesses, with some variance among them, testify, from three hundred to five hun­dred yards distant.</p>
+                <p id="b481-20" pgmap="481">The Elizabeth English was on a voyage to New York, and her true course was northeast by north. Her master, who had been at the wheel, testifies that the vessel could not get within one point of her course, and, therefore, was running northeast When he left the wheel, he gave the course to the man who took his place, northeast by north, by the wind, that is, as close to the wind as she would lie without shaking. The man at the wheel also testifies to those instructions, and that he obeyed them.</p>
+                <p id="b481-21" pgmap="481(25) 482(101)">It is, I think, established by the evidence, that, to the north and east, the clouds were very black, and that, in the direction the-Eliz­abeth English was sailing, it was so dark that a vesel without a light could not be seen at more than a iew feet distance — fifty or sixty feet — or, as inferrible from the testimony of one of the witnesses, not the length of the schooner. At a distance of fifty or sixty feet from the Elizabeth English, a light was sud­denly seen to flash upon the eye, indicating the proximity of a vessel; and her mate and two of her seamen testify, without contradic­tion from any other witness, that the light was seen off the lee-bow.</p>
+                <p id="b482-3" pgmap="482">How these vessels came together and through whose fault, if either was in fault, is certainly in great doubt, upon the testimony. But it must be borne in mind-that the libel-­lants have the burthen of proof, and must establish fault on the part of the Elizabeth English, or they can have no decree condemn­ing her for the damages sustained. They in­sist, therefore, that, after they saw the Eliza­beth English over their port bow, and had concluded she would pass clear on their port side, she luffed, and that this caused the collision; and so several of their witnesses testify. I am satisfied that, as to this, the preponderance of the evidence is to the con­trary, and I.think 'so without at aE imput­ing to these witnesses wilful misstatement. Seeing her off the port bow they had conclud­ed she would pass them, and thereafter, in the darkness of the night, seeing her com­ing nearer and actually coming in contact, it seemed to their eyes certain that, after they first saw her and formed their judgment of her course, she must have changed and did change. But, at the time of her alleged luff­ing, she had no motive for luffing. She had not seen the EUa. On the contrary, it would have been wholly in departure from her course and without any cause whatever; and all the witnesses on board of her testify to the contrary. It is far more probable that the witnesses who were on the Ella, misled by their previous judgment, ascribed the near approach of the Elizabeth English to a luff, without which they thought she would have cleared them, than that the witnesses on the Elizabeth English have testified falsely, or are mistaken in denying that she made a manoeuvre which she had no motive to make, and which would have delayed and hindered her in her voyage. It is, however, not im­probable, and, indeed, I think it rather the reverse, that, under the instructions of her master, to keep her “up by the wind,” and “full and by,” she may, in the endeavor to keep her true course, northeast by north, have drawn closer to the wind. It is obvious that she must have made some lee-way, and so her bearing and her motion through the water were not precisely coincident</p>
+                <p id="b482-4" pgmap="482">The next alleged fault imputed to the Eliz­abeth English, the want of a proper lookout, is not proved. True, the man at the look­out was not produced, and his absence some­where in Ohio is given as the reason. But the testimony of the claimant’s witnesses, who alone can testify on that point, is uni­form, that one Bird was on the lookout; and the only circumstance bf any importance proved, that is supposed to show that he was. not attending to his duty, is, that five or ten minutes before the collision, he passed the schooner’s light, which the wind had ex­tinguished, to the steward. The Ella had already seen the Elizabeth English, the dark­ness at the north was such that the EUa could not then be seen, the libellants’ proof shows that the light exhibited from the Ella was not shown until almost the moment of collision, and the other proofs show that the. instant it was exhibited it was seen on board of the Elizabeth English.</p>
+                <p id="b482-7" pgmap="482">Nor is it to be charged that the Elizabeth English was in fault in sailing, on such a night, at the rate of five or six knots an hour, in an open sea. The darkness ahead would no doubt suggest that the exhibition of a light would tend to her own safety, and, in­cidentally, to that of any vessel approaching-­her. She had shown such light, and, when it was extinguished by the wind, she was active in relighting it for the purpose of continued exhibition. It is obvious that even that temporary absence of her light did not prevent the Ella from seeing her when some three hundred yards distant.</p>
+                <p id="b482-8" pgmap="482">I am not able to discover any sufficient proof that the Elizabeth English was in fault, and this discussion might here close my consideration of the case. But it is proper also to say, that, in my judgment, the collision resulted from the mistake of those on board of the Ella, in supposing that the other schooner would clear them; from their failure to observe the darkness toward the north and east, by reason of which they no doubt assumed that the Ella was seen by the other vessel as soon as such other vessel was seen by the Ella, and by reason of which, in part, they failed to show a light till it was too late to be of any use; and, also, from their failure to notice the gradual change of the wind towards the north, which, so far as it gave freedom to their course, imposed on them the more stringent duty to be vigilant to avoid the approaching vessel.</p>
+                <p id="b482-9" pgmap="482">On the question as to how, in fact, the vessels were brought in contact, it seems to me that the proofs are not so precise as to relieve either theory suggested from the char­acter of conjecture. That the luffing of the Elizabeth English, while the Ella kept her course, might have brought the vessels to­gether, is, undoubtedly, true. It is charged by the libellants as the fact; but, as already said, I think it is not established.</p>
+                <p id="b482-10" pgmap="482(62) 483(10)">That the falling off of the Ella from her course, just before the collision, might have caused it, and, probably, did cause it, was the conclusion of the court below, in the face of the denials of the witnesses on the Ella, and of the fact that she received the blow on her port or lee side instead of on her windward side, which is argued to he inconsistent with that theory.</p>
+                <p id="b483-4" pgmap="483">Having concluded that the Elizabeth Eng­lish is not proved to have been in fault, it is not very important that I should suggest a possible explanation of the disaster, quite con­sistent with 'the view I have taken of the proofs. The bearing of the compass of the Ella was southwest by west Her actual movement, by reason of her lee-way, was at least one point further south. It was her whole endeavor to keep her true course, south­west and she was headed southwest by west in order to keep it. She saw the Elizabeth English one point on her lee bow, that is, she saw the Elizabeth English in the line of her own motion through the water. And yet her master and men, who did not appear, when under examination, to be very skilful or intelligent assumed that, because the ap­proaching vessel was seen over their lee or port bow, her position was then to the lee­ward of their actual course. This was not necessarily true, and, as I think, was not true. The Elizabeth English, then, was seen by the Ella directly ahead, in the line of her progress, but not in the line of her keel. As she approached, she would, of course, come nearer and nearer to the Ella, and the men on that vessel, after the consultation at which they, judging by mere appearances, had concluded that the Elizabeth English would clear, suddenly discovering her very near approach, still on the lee bow, would naturally conclude that she had luffed.</p>
+                <p id="b483-5" pgmap="483">For illustration, place two vessels on the same line of actual progress through the water, one moving southwest or thereabouts, and the other northeast or thereabouts, the for­mer, in striving to keep her true course, bear­ing a little to the westward of such line, and the latter, in like manner liable to lee-way, bearing a little to the northward of her line of progress, each, keeping her own course, would see the other when such view became possible, over her own lee bow. The testi­mony on this point is unequivocal and clear. The witnesses on the Ella all agree that they saw the Elizabeth English at the distance of about three hundred yards, about one point on their lee bow; and the witnesses on the Elizabeth English all agree that, when they did discover the light on the Ella, thfey saw it a little over their lee bow. On this point the witnesses must have known the truth of their statements. It was testimony of a fact, independent of any manoeuvre of either vessel, and I regard it as reliable. Now, this fact indicates just the state of things I have suggested, and that the actual move­ment of the vessels was on the same lima, or on lines very nearly coincident, in reverse directions. This necessarily brought the ves­sels together, and, when the light was shown on the Ella, it was too late for the other ves­sel to avoid her. She ported her helm, but there was no time for her to fall off and pass the Ella. The fact that the actual blow was received by the Ella not on her stem but a little to port, is not inconsistent, but is in harmony, with this view; and if, in the very jaws of the peril, and in the manifest alarm caused thereby, she came, however slightly, into the wind, all of the appearances are fully explained. Even the statement of one of the witnesses from the Elizabeth English, that the light seen on the Ella appeared to be ooming west, does not materially affect this view. Its motion just before the collision would present the appearance of a light mov­ing westerly.</p>
+                <p id="b483-7" pgmap="483">It is not necessary to this view that the courses and bearings of the vessels should be precisely such as the foregoing illustra­tion assumes. The observations made at such a time are, probably, not so precise that exact mathematical accuracy of the witnesses must be assumed. A slight variation in that respect would be consistent with the result I have stated, but I am brought to the con­clusion that the collision occurred substan­tially in the manner indicated.</p>
+                <p id="b483-8" pgmap="483">I have thus far said nothing upon the ques­tion as to which one of the two schooners had the wind free. That question has some in­fluence on the imputation of fault to the Ella herself; but, if the Elizabeth English is not proved to have been in fault, the fault of the Ella will not affect the decree, tnere being no cross libel. In my judgment, the preponder­ance of the evidence, irrespective of the log of the Wabash, offered in evidence, supports the allegation that the wind, although from west northwest during a part of the day, and for most of the time during the passage of the Ella to the place of collision, had, during the evening, gradually changed to the northward, and that the Elizabeth English was close hauled, while the Ella had the wind two or three points free, at least. This imposed up­on the Ella the duty of greater diligence, when she saw the Elizabeth English, to avoid her.</p>
+                <p id="b483-9" pgmap="483">The decree must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="481" ORDERLABEL="479" TYPE="page">
+        <fptr FILEID="tiff_00241_0"/>
+        <fptr FILEID="jp2_00241_0"/>
+        <fptr FILEID="alto_00241_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_481.4" BETYPE="IDREF" FILEID="alto_00241_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="482" ORDERLABEL="480" TYPE="page">
+        <fptr FILEID="tiff_00241_1"/>
+        <fptr FILEID="jp2_00241_1"/>
+        <fptr FILEID="alto_00241_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_482.4" BETYPE="IDREF" FILEID="alto_00241_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="483" ORDERLABEL="481" TYPE="page">
+        <fptr FILEID="tiff_00242_0"/>
+        <fptr FILEID="jp2_00242_0"/>
+        <fptr FILEID="alto_00242_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_483.4" BETYPE="IDREF" FILEID="alto_00242_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-17" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.21" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-5" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.6" BETYPE="IDREF" FILEID="alto_00242_0"/>
+            <area BEGIN="BL_483.7" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-10" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.11" BETYPE="IDREF" FILEID="alto_00241_1"/>
+            <area BEGIN="BL_483.1" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-20" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.26" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-7" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.9" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-8" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.10" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMuM" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.13" BETYPE="IDREF" FILEID="alto_00241_0"/>
+            <area BEGIN="BL_481.14" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-9" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.12" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-8" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.11" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-9" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.10" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-4" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.5" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-7" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.10" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-6" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.9" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-3" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.5" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-13" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.19" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-12" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.18" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALJ" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.24" BETYPE="IDREF" FILEID="alto_00241_0"/>
+            <area BEGIN="BL_481.25" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-4" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.6" BETYPE="IDREF" FILEID="alto_00241_1"/>
+            <area BEGIN="BL_482.7" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-19" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.23" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-21" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.27" BETYPE="IDREF" FILEID="alto_00241_0"/>
+            <area BEGIN="BL_482.1" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-8" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.9" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-18" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.22" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b483-9" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_483.11" BETYPE="IDREF" FILEID="alto_00242_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b482-7" BETYPE="IDREF" FILEID="casebody_0233"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_482.8" BETYPE="IDREF" FILEID="alto_00241_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

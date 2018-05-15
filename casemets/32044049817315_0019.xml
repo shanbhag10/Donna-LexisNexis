@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0019" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="The Industry">The INDUSTRY</name>
+          <docketnumber>Case No. 7,028</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 35</citation>
+          <citation category="parallel" type="bluebook">1 Gall. 114</citation>
+          <decisiondate>1812-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:25Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00019_0" MIMETYPE="image/tiff" CHECKSUM="c40eca3c5edebbf8ae596ae9e1ddc6cd" CHECKSUMTYPE="MD5" SIZE="65722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00019_0.tif"/>
+      </file>
+      <file ID="tiff_00019_1" MIMETYPE="image/tiff" CHECKSUM="96985450696a8f66599fc98d9ccb2811" CHECKSUMTYPE="MD5" SIZE="105910">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00019_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00019_0" MIMETYPE="image/jp2" CHECKSUM="71030de2b792809a05f0358b6dce2991" CHECKSUMTYPE="MD5" SIZE="2773640">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00019_0.jp2"/>
+      </file>
+      <file ID="jp2_00019_1" MIMETYPE="image/jp2" CHECKSUM="71e372dd5d7c3759573df43e2770e135" CHECKSUMTYPE="MD5" SIZE="3665799">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00019_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00019_0" MIMETYPE="text/xml" CHECKSUM="8d0936975a12600e98cf89946cadef46" CHECKSUMTYPE="MD5" SIZE="139205">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00019_0.xml"/>
+      </file>
+      <file ID="alto_00019_1" MIMETYPE="text/xml" CHECKSUM="ade4662e1dea0a995c8d8b3dd02d8650" CHECKSUMTYPE="MD5" SIZE="227499">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00019_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0019" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="36" firstpage="35">
+              <court pgmap="37" id="b37-12">Circuit Court, D. Massachusetts.</court>
+              <docketnumber pgmap="37" id="b37-9">Case No. 7,028.</docketnumber>
+              <citation pgmap="37" id="b37-11">[1 Gall. 114.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="37" id="b37-10">The INDUSTRY.</parties>
+              <decisiondate pgmap="37" id="AQF">May Term, 1812.</decisiondate>
+              <attorneys pgmap="37" id="b37-23">G. Blake, for the United States.</attorneys>
+              <attorneys pgmap="37" id="b37-24">S. Dexter, for claimant.</attorneys>
+              <footnote label="1">
+                <p pgmap="37" id="b37-20">1 [Reported by John Gallison, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="37" id="ApZ">STORY, Circuit Justice.</author>
+                <p pgmap="37" id="Aru">An information has been filed against the schooner Industry, upon a seizure on account of certain foreign goods, exceeding $400 in value, having been unladen from said vessel, at the port of Edgartown, in the night time, without a per­mit, &amp;c. contrary to the statute in such case provided. The facts are admitted to be as stated in the decree of the district court; and by that decree it appears, that the schooner Industry is a foreign vessel, and being bound on a voyage from the Havana to New York, put into Edgartown, in Martha’s Vineyard. While lying there, in February, 1809, 400 boxes of cigars and several boxes of sugar, parcel of her cargo, were unladen, in the night time, without a permit, and put on board the brig Hannah, then lying at the same port, and bound for Boston, without the duties thereon having been paid or se­cured. The value of these goods exceeded $400. The schooner was not permitted to proceed to New York,, the collector of the port considering, that foreign ships, under the 9th section of the embargo act of April 25, 1808, c. 66 [2 Stat. 501], were prohibited from going from one port to another of the United States. The residue of the cargo was therefore entered and bonded at the custom house at Edgartown, and shipped coastwise to New York. The forfeiture is claimed un­der the 50th section of the collection act of March 2, 1799, c. 128 [1 Stat. 665, c. 22], which provides, that “no goods, wares, or merchandize, brought in any ship or vessel from any foreign port or place, shall be un­laden or delivered from such ship or vessel within the United States, but in open day,” except by special license, nor at any time without a permit from the collector, &amp;c. on pain of forfeiture of the goods, &amp;c. and also of the vessel, if the value of the goods, &amp;c. exceed $400.<footnotemark>3</footnotemark>
+                </p>
+                <p pgmap="37(124) 38(189)" id="b37-26">The facts of this case bring it completely within the terms of the 50th section. But it is contended on behalf of the claimant, that though within the terms, the case is not within the purview, of that section. That it is designed to apply solely to vessels which had arrived at their ports of destination and discharge, and not to arrivals at any inter­mediate ports, as was the ease of the Indus­try'. And the 27th section of the act has been Cited in support of the argument. That sec­tion (the 27th section) clearly applies to ves­sels, which have not reached their port of destination and discharge. It provides, that if after the arrival of any ship or vessel la­den with foreign goods, and bound to the United States, within the limits of the dis­tricts of the United States, or within “four leagues of the coasts thereof, any part of the cargo of such ship or vessel shall be unladen for any purpose whatsoever, from out of such ship or vessel, as aforesaid, before such ship or vessel shall come to the proper place for the discharge of her cargo, or some part thereof,” the part so unladen shall be for­feited, &amp;c. Now the argument is, that as this section covers the case, and contains dif­ferent forfeitures from the 50th section, it ought not to be deemed to be within the pur­view of the 50th section, because in this way the same offence would be punishable with various penalties. And it is said, that the legislature might with good reason omit a forfeiture of the vessel on account of an il­legal unlading at an intermediate port, be­cause in such case no fault or negligence could be justly imputable to the owner, on account of his absence from the scene of ac­tion.</p>
+                <p pgmap="38" id="b38-3">The argument is certainly not without weight, and is favored by the natural con­struction of the words “before such ship ox-­vessel shall come to the proper place for the discharge of her cargo, or some part there­of.” But it should be considered, that rev­enue laws rarely proceed upon the ground of such a distinction, as to the owner. In general the act of the master, who is the confidential agent of the owner, is imputed to the owner; or at least the latter is held responsible for the acts of the former, so far as the laws inflict forfeitures of the prop­erty on account of illegal traffic. Nor, is it sufficient to authorize a court to extract a case from the express prohibitions of one section of an act, that already the same of-­fence is punished by a,different penalty in another section. If the wording of both sec­tions clearly embrace the same ease, which is to be held nugatory? I know of no prin­ciple of law, that would enable me to reject either. If, therefore, it should be proved, that the 50th section might embrace some cases (for clearly it cannot reach all) within the prohibitions of the 27th section, I am not aware how I would get over the express language. I should be obliged to hold the forfeiture cumulative in such cases, unless the legislature had enabled me, by direct or constructive exceptions, to escape from such a conclusion. The prohibitions of the 27th section certainly do not reach cases, where the illegal unlading is after the arrival of the vessel at her intended port of discharge. If the words of that section, “after the ar­rival, &amp;c. within the limits of any of the districts of the United States,” are to be construed as embracing an arrival in any port of entry or of delivery within such dis­tricts, which is not the port of intended dis­charge of the cargo, so as to make the un-­lading thereof in such poi-t illegal within the same section, then it may reach cases with­in the express language of the 50th section. But perhaps there is some reason to doubt, whether the 27th section contemplates anj-­ease of unlading in any place within a dis­trict, which is a poi-t of entry or delivery. The sections, from the 23d section to the 30th section, manifestly contemplate a pro­gressive advancement in the voyage towards our ports; and the 30th section seems the first which contemplates an arrival of the vessel within the limits of a port, at which an officer of the customs resides. From that section o»wards to the 50th section, the provisions seem to refer to vessels ac­tually in port. There seems, therefore, some reason to contend, that the 27th section is confined to cases of unlading before the ar­rival of the vessel at a port of delivery, or at least to an unlading without such port. On this however I give no opinion.</p>
+                <p pgmap="38" id="b38-6">It seems to me, that the 50th section clear­ly embraces all cases of the unlading of goods, without a permit, in any port or place within any district of the United States. It is not even stated in the section, that such unlading is to be in a port, in or­der to make the forfeitures attach; much less is it asserted, that the unlading must be in the port of intended discharge. The public mischiefs of such an illegal unlading ax-e equally great, whether it be at the port of destination or not. The object of the law is, to prevent frauds upon the revenue, which is essentially aided by making it for the interest of the owner of the ship, as well-­as of the owner of the goods, to exercise due vigilance, and conduct with fidelity and hon­esty. We are undoubtedly bound to con­strue penal statutes (strictly; and not to ex­tend them beyond their obvious meaning by strained inferences. On the other hand we are bound to interpret them according to the manifest import of the words, and to hold all cases, which are -within the words and the mischiefs, to be within the remedial influence of the statute. And this is what I understand by expounding a statute lib­erally, as to the offence. On the whole, the-­words of the 50th section embrace the pres­ent case; and I do not feel at liberty, upon ingenious suggestions, to narrow these-­words, so as to save from their operation a case, also fully within the mischiefs which the legislature designed to remedy. I af­firm the decree of the district court. Con­demned.</p>
+                <footnote label="3">
+                  <p pgmap="37" id="b37-27">3 See The Harmony [Case No. 6,081].</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="37" ORDERLABEL="35" TYPE="page">
+        <fptr FILEID="tiff_00019_0"/>
+        <fptr FILEID="jp2_00019_0"/>
+        <fptr FILEID="alto_00019_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_37.4" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="38" ORDERLABEL="36" TYPE="page">
+        <fptr FILEID="tiff_00019_1"/>
+        <fptr FILEID="jp2_00019_1"/>
+        <fptr FILEID="alto_00019_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_38.4" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApZ" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.28" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-12" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.15" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-10" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.13" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-11" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.14" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-27" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.34" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-26" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.31" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            <area BEGIN="BL_38.1" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-3" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.5" BETYPE="IDREF" FILEID="alto_00019_1"/>
+            <area BEGIN="BL_38.6" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-24" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.27" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-23" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.26" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b38-6" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_38.7" BETYPE="IDREF" FILEID="alto_00019_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-9" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.12" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQF" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.16" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            <area BEGIN="BL_37.17" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aru" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.29" BETYPE="IDREF" FILEID="alto_00019_0"/>
+            <area BEGIN="BL_37.30" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b37-20" BETYPE="IDREF" FILEID="casebody_0019"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_37.32" BETYPE="IDREF" FILEID="alto_00019_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

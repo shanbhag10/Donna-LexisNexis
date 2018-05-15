@@ -1,0 +1,761 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0084" publicationstatus="published">
+          <court abbreviation="D. Cal." jurisdiction="United States">United States District Court for the District of California</court>
+          <name abbreviation="In re Isaacs">In re ISAACS et al.</name>
+          <docketnumber>Case No. 7,093</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 148</citation>
+          <citation category="parallel" type="bluebook">3 Sawy. 35; 6 N. B. R. (1873) 92</citation>
+          <decisiondate>1854</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00075_1" MIMETYPE="image/tiff" CHECKSUM="2cf2767f1be96002c79adda252f51ebd" CHECKSUMTYPE="MD5" SIZE="87106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00075_1.tif"/>
+      </file>
+      <file ID="tiff_00076_0" MIMETYPE="image/tiff" CHECKSUM="f327166ccdd903c25f7a6c073a3de346" CHECKSUMTYPE="MD5" SIZE="110892">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00076_0.tif"/>
+      </file>
+      <file ID="tiff_00076_1" MIMETYPE="image/tiff" CHECKSUM="62084302a51f44790b09e43ca1347732" CHECKSUMTYPE="MD5" SIZE="114016">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00076_1.tif"/>
+      </file>
+      <file ID="tiff_00077_0" MIMETYPE="image/tiff" CHECKSUM="016e95fbff3d2729cc54a49f43c84388" CHECKSUMTYPE="MD5" SIZE="88054">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00077_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00075_1" MIMETYPE="image/jp2" CHECKSUM="313ef36c7998a86ea855f179d9d11f4f" CHECKSUMTYPE="MD5" SIZE="3248472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00075_1.jp2"/>
+      </file>
+      <file ID="jp2_00076_0" MIMETYPE="image/jp2" CHECKSUM="e8a2e28b05998a05a3e9aca08411432b" CHECKSUMTYPE="MD5" SIZE="3765585">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00076_0.jp2"/>
+      </file>
+      <file ID="jp2_00076_1" MIMETYPE="image/jp2" CHECKSUM="60e97d69815492dc6aec8b994c521713" CHECKSUMTYPE="MD5" SIZE="3792153">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00076_1.jp2"/>
+      </file>
+      <file ID="jp2_00077_0" MIMETYPE="image/jp2" CHECKSUM="12a4fd5445049c93b9e14aa157ac89d4" CHECKSUMTYPE="MD5" SIZE="3253078">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00077_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00075_1" MIMETYPE="text/xml" CHECKSUM="c606e7a0196f49964eb370e23e8aed6e" CHECKSUMTYPE="MD5" SIZE="184304">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00075_1.xml"/>
+      </file>
+      <file ID="alto_00076_0" MIMETYPE="text/xml" CHECKSUM="60d2b990026d5f938357c5cc3b317adc" CHECKSUMTYPE="MD5" SIZE="241686">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00076_0.xml"/>
+      </file>
+      <file ID="alto_00076_1" MIMETYPE="text/xml" CHECKSUM="a560d470ee92fc646b05026f45c77d55" CHECKSUMTYPE="MD5" SIZE="244711">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00076_1.xml"/>
+      </file>
+      <file ID="alto_00077_0" MIMETYPE="text/xml" CHECKSUM="263555d9ec24b638265c085eab7d1f85" CHECKSUMTYPE="MD5" SIZE="189148">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00077_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0084" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="151" firstpage="148">
+              <court pgmap="150" id="Ay0">District Court, D. California.</court>
+              <docketnumber pgmap="150" id="b150-6">Case No. 7,093.</docketnumber>
+              <citation pgmap="150" id="b150-8">[3 Sawy. 35; <footnotemark>1</footnotemark> 6 N. B. R. (1873) 92.]</citation>
+              <parties pgmap="150" id="b150-7">In re ISAACS et al.</parties>
+              <attorneys pgmap="150" id="b150-11">W. W. Cope, for petitioning creditor.</attorneys>
+              <attorneys pgmap="150" id="b150-12">Joseph Naphtaly, for creditors.</attorneys>
+              <footnote label="1">
+                <p pgmap="150" id="b150-15">1 [Reported by L. S. B. Sawyer, list;., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="150" id="b150-13">HOFFMAN, District Judge.</author>
+                <p pgmap="150" id="A5G">It appears by the statement of facts reported by the regis­ter and admitted by the attorneys for the re­spective parties, that on the seventh of March, T871, the above bankrupts, by a writ­ing under seal, entered into a contract of partnership, by which it was agreed that the parties who had previously been doing busi­ness on their individual accounts should unite their stocks of goods and uncollected book accounts, to form a joint capital for the partnership, and that the copartnership should assume and become liable for all the separate business debts of either partner, as shown by his books.</p>
+                <p pgmap="150" id="b150-14">• The firm having become bankrupt after incurring partnership debts, a creditor of one of the partners (and who appeared by the books of the latter to have been such), for goods sold before the formation of the part­nership, offered to prove his debt as a joint debt, with a view of sharing in the distribu­tion of the firm assets.</p>
+                <p pgmap="150" id="b150-17">No evidence was offered to show that the separate creditor acceded to the substitution of the firm liability for that of the partner by whom the debt was contracted. He does not even appear to have been aware of the terms and conditions of the agreement be­tween the partners. The register was of opinion that the proof offered should not be received; and the question having been fully argued, is submitted to the court for its de­cision.</p>
+                <p pgmap="150" id="b150-18">The question thus presented, viz., whether-­an agreement between two traders to imite their stocks in trade as the capital of a part­nership to be formed between them, and to convert the separate business debts of either into joint debts of the firm, will entitle a sep­arate creditor who has not acceded in any way to the arrangement to prove in bank­ruptcy as a joint debtor of the firm, is close­ly analogous to that which arises where, on the dissolution of a firm, the continuing part­ner takes an assignment of the joint assets,, and agrees to be responsible for the firm debts; and after bankruptcy, a joint cred­itor who has not, before bankruptcy, assent­ed to the conversion of his debt, seeks to prove it against the separate estate of the continuing partner.</p>
+                <p pgmap="150" id="b150-19">Both of these questions have frequently been submitted to the courts, and have re­ceived, with one or two exceptions, a uni­form answer.</p>
+                <p pgmap="150" id="b150-20">A joint debt may be converted into a sepa­rate debt, or a separate debt into a joint debt, either with or without an extinguishment of the original obligation.</p>
+                <p pgmap="150" id="b150-21">In the former case the creditor can only rely on his debt according to its new quality, and is, therefore, entitled to only one mode of proof. In the latter case, as the old debt still subsists, he can take advantage of it in either its old or its new form, and is conse­quently entitled to an election of proof. Story, Partn. 369; Colly. Partn. 767.</p>
+                <p pgmap="150" id="b150-22">As no arrangement between a debtor or debtors and third person, or between them­selves, can impair or destroy the liability of either or all of them to a creditor, without his consent, it is evident that to establish an. extinguishment of the old debt, it must ap­pear that he has accepted the new liability as a substitute for and in discharge of the-­old.</p>
+                <p pgmap="150" id="b150-23">But when a conversion merely is set up, I. e., the creation of a new liability, without an extinguishment of the old, as this is ordinari­ly beneficial to the creditor, less evidence of an assent by him to the arrangement will be-­sufficient than in cases where it is sought to-­substitute a separate for a joint liability. Robs. Bankr. 599, .and cases cited..</p>
+                <p pgmap="150" id="b150-24">But even where a mere conversion is set up. as in this case, evidence of the assent of the creditor before bankruptcy seems always-­to be required.</p>
+                <p pgmap="151" id="b151-2">In the case of Ex parte Williams, 1 Buck, 13, a trader indebted entered into a partner­ship and brought his stock in trade into the new firm, under articles by which the joint trade was to pay his creditors named in a schedule. It was held that a separate credit- or named in the schedule did not by the ar­ticles become a joint creditor of the firm.</p>
+                <p pgmap="151" id="b151-3">In this case Lord Eldon says: “If it is meant to be said on the part of the petitioner, that a joint action might have been main­tained by the creditors named in the sched­ule, against the partners immediately on the execution of the deed, and by force of the deed only, independently of an accession to the agreement on the part of the creditors named in the schedule, I cannot assent to the doctrine. * * * But I agree to the proposi­tion that a very little will do to make out an assent to the agreement.”</p>
+                <p pgmap="151" id="b151-4">The same point was decided by Sir John Leach in Ex parte Freeman, Id. 471, though the question there arose in a case where a retiring partner had assigned the stock in trade to a continuing partner, who covenant­ed to pay the joint debts. The partners hav­ing become bankrupts, it was held that the joint creditors, not having, previously to the bankruptcy, accepted the continuing partner as their sole debtor, could not prove against the separate estate of the continuing partner.</p>
+                <p pgmap="151" id="b151-5">This case, although it was overruled by Lord Eldon, seems, nevertheless, observes Mr. Collyer, to be consistent with the most of those on the same subject which preceded it, and as the grounds of Lord Eldon’s de­cision do not appear, and as Sir John Leach decided the subsequent case of Ex parte Fry, 1 Glyn &amp; J. 96, in the same manner, there seems just reason to suppose that the case of Ex parte Freeman was rightly decided. Colly. Partn. 774.</p>
+                <p pgmap="151" id="b151-6">In Ex parte Lane, 1 De Gex, 300, it was held that a parol agreement to convert a sep­arate debt into a joint debt is not within the statute of frauds if the former debt is ex­tinguished, but an assent on the part of the creditor must be shown.</p>
+                <p pgmap="151" id="b151-7">The case of Ex parte Appleby, 2 Deac. 482, decided in 1839, was nearly identical with Ex parte Freeman; and it was held that a joint creditor could not prove against the sep­arate estate of a continuing partner who had taken an assignment from theretiring partner of the joint assets, and agreed to indemnify against the partnership debts; there being no satisfactory evidence that there was no joint estate, nor that the joint creditor had accepted the continuing partner as his sepa­rate debtor.</p>
+                <p pgmap="151" id="b151-8">So in Kirwan v. Kirwan. 4 Tyrw. 491, it was decided that mere knowledge of the dis­solution of a partnership is not sufficient, although an account is continued with the new firm. The creditor must appear to have expressly, or by some act, accepted the sub­stituted credit of the new partnership in­stead of the retiring partners.</p>
+                <p pgmap="151" id="b151-10">Ex parte Parker, 2 Mont. D. &amp; D. 511, was a case where a trader, indebted to a lunatic in the amount of the purchase-money of a business and the machinery and stock-in-­trade, entered into a partnership under an agreement by which the stock-in-trade and property of the business were to belong to the firm, which was to assume the liabilities of the sole business. The firm tendered an annual account in its own name, in respect to the debt, to the committee of the lunatic, who made no objection to this form of ac­count. It was held, on the firm becoming bankrupt, that the committee was not enti­tled to prove against the joint estate. It was even doubted whether the committee had power, and whether the lord chancellor could have given him control to convert the separate into a joint liability.</p>
+                <p pgmap="151" id="b151-11">It will be observed that this case is much stronger than the case at bar. The debt was for the purchase-money of the property trans­ferred to the firm. The creditor was a luna­tic, incapable of personally assenting to the conversion, and there was some evidence tending to show that his committee had as­sented to it.</p>
+                <p pgmap="151" id="b151-12">Ex parte Whitmore, 3 Mont. &amp; A. 627, was decided expressly on the ground that the creditor had assented to the conversion be­fore the bankruptcy. The court says: “The question is solely of fact. Did the creditor intend to substitute the firm for the separate liability?”</p>
+                <p pgmap="151" id="b151-13">It is unnecessary, however, to multiply citations of cases on this point, for the au­thorities are, with a single exception, uni­form, that in proceedings in bankruptcy, at least the assent of the creditor to a conver­sion before the bankruptcy must be shown.</p>
+                <p pgmap="151" id="b151-14">Mr. Justice Story (Story, Partn. § 370) states emphatically that “in order to produce any conversion at all, either with or without an extinguishment, there must be a suffi­cient consideration, and also a deliberate and mutual assent of the creditors and debt­ors of such conversion;” and for this he cites Collyer. ubi supra: Cow, Partn. 284; Wats. Partn. 274. And the same doctrine is laid down by Robson in his recent treatise on the law of bankruptcy (page 009), where the lead­ing cases above quoted and many others are cited.</p>
+                <p pgmap="151" id="b151-15">I have been referred to but one decision on the point under consideration by the courts of bankruptcy of the United States; but the principles above laid down have been adjudged by the courts of Massachu­setts, under the insolvent law of that state, from which, as is well known, the bankrupt act was in great part derived.</p>
+                <p pgmap="151(54) 152(39)" id="b151-16">In Wild v. Dean. 3 Allen, 579, it was hold that a partnership debt is not provable against the separate estate of one of the partners, who has received an assignment of all of the partnership property, and executed a bond to his retiring partner to assume and pay the partnership debts, without evidence of an express agreement or assent by him to pay the same to the creditor as his private debt, and notice by the creditor of his elec­tion to treat it as a private debt is not suffi­cient.</p>
+                <p pgmap="152" id="b152-3">In Robb v. Mudge, 14 Gray, 534, it was held that a bona fide transfer of partnership property to one partner, in consideration of his assuming the partnership debts, makes it his separate property, and not liable in in­solvency to the creditors of the partnership who have not agreed to accept him individ­ually as their debtor, until his separate debts are paid.</p>
+                <p pgmap="152" id="b152-4">The case chiefly relied on as- seeming to countenance a different rule is that of Colt v. Wilder, 1 Edw. Ch. 484, decided by Mr. Vice Chancellor McCoun. In that case it was held that a private creditor of a partner whose debt it had been agreed between them at the formation of the partnership to treat as a firm debt, could take dividends under an assignment by the partners of all the partnership property in trust for the benefit of the creditors of the concern.</p>
+                <p pgmap="152" id="b152-5">With regard to this ca.se.it is to be ob­served, that the question was not as to the right of the creditor to prove his debt in bankruptcy as a joint debt, but whether he had, under the circumstances, any right in equity to come in under the assignment.</p>
+                <p pgmap="152" id="b152-6">Secondly. The cases of Ex parte Peele, 6 Ves. 602, and Ex parte Clowes, 8 Ves. 540 [2 Brown, Ch. 595], on which the learned vice chancellor chiefly relies, have received a different interpretation, not only by the text-writers, but by the courts by whom they were decided.</p>
+                <p pgmap="152" id="b152-7">In Ex parte Peele, the contest turned up­on whether the partners had agreed between themselves to the conversion of the debt. With respect to this case, Mr. Collyer ob-. serves: “On this subject of assent, Lord El­don’s opinion may be gathered from his ob­servations in the cases of Ex parte Peele and Ex parte Williams. In the former of these eases it was scarcely necessary to ad­vert to the question of assent by the cred­itor to the consolidating of the debts, as it was a disputed point whether the partners themselves had agreed to consolidate them. But in the latter, where a separate creditor sought proof as a joint creditor, by virtue of an arrangement between the two partners, for the conversion of separate into joint debts, Lord Eldon required evidence of as­sent by the creditor to such arrangement be­fore the proof could be allowed.”</p>
+                <p pgmap="152" id="b152-8">With respect to Ex parte Clowes, Mr. Coll­yer, remarks: “It is true that in this case no evidence appears to have been given of ex­press consent by the creditors to the ar­rangement of the partners. But as some years elapsed between the arrangement and the bankruptcy, and as nothing is said which leads to a contrary supposition, the consent of the creditors to the conversion may, per­haps, be presumed. Lord Eldon, speaking of this case, said it turned on peculiar cir­cumstances.” Colly. Partn. 771.</p>
+                <p pgmap="152" id="b152-11">The cases of Ex parte Williams, Ex parte Freeman, and Ex parte Fry are admitted by the learned vice chancellor to be opposed to-­the view taken by him, and he rests his deci­sion on the supposed authority of Ex parte-­Clowes and Ex parte Peele. But we have seen that those cases are not regarded as maintaining the doctrine for Which the vice chancellor cites them, while the cases, of Ex parte Williams and Ex parte Freeman have been followed in a large number of subse­quent cases, and are accepted as law by Coll-­yer, Story and the other text-writers.</p>
+                <p pgmap="152" id="b152-12">In the case of In re Downing [Case No. 4,­044], also cited by counsel, Mr. Justice Dil­lon undoubtedly expresses the opinion that the creditors may enforce, by bill in equity,, a promise given by a continuing partner to-­whom all the firm property has been trans­ferred, to pay off and discharge the firm’s liabilities, and that they may assent to and claim the benefit of this promise at any time before or after the bankruptcy. For this last position no authorities are cited, and the learned judge seems to have mainly rested his opinion on the second position taken by him, viz., that under the bankrupt act [of 1867 (14 Stat. 517)], where each of the part­ners has been separately adjudged bankrupt, and there are no firm assets, the joint cred­itors may prove against the separate estate of either. “This,” observes Mr. Justice Dil­lon, “in effect reaches the result which the English chancellors have felt bound on equi­table principles to adopt;” but it may be add­ed that the rule is applied so rigorously that it was held that where a continuing partner received possession of all the partnership-­property, and continued the business on terms of paying all the firm debts, that the joint creditors could not receive dividends from the separate estate until the separate creditors were paid in full, although the joint estate amounted to only £13. Ex parte Ken­nedy, De Gex, M. &amp; G. Bankr. 100.</p>
+                <p pgmap="152" id="b152-13">On the whole, I feel bound on the authori­ties to hold that the separate creditors, not having before the bankruptcy assented to the arrangement between the partners, and not having been, so far as appears, even aware of it, are not entitled to prove their debts against the joint estate. But while so holding, I am obliged to confess my inability to discover the equitable principle upon which the rule rests.</p>
+                <p pgmap="152(92) 153(25)" id="b152-14">The reason of the rule is stated by Sir John Leach in Ex parte Freeman, as follow’s: “I have always considered it to be essential that the bankrupt should be indebted to the party proving at and before the bankruptcy. The engagement of one partner with the other to pay the debts of the firm can, as to the creditors of the firm, be considered only as a proposal that he is willing to become their sole debtor. If they accede to this pro­posal before the bankruptcy they are his sep­arate creditors. But their acceptance of him as their separate debtor after the bankrupt­cy, comes too late, for he is then incapable of contract.”</p>
+                <p pgmap="153" id="b153-4">That the assent of the creditor is necessary to any assignment by which his rights are impaired, is obvious. And if the conversion is claimed to have operated as an extinguish­ment. or as the substitution of a separate lia­bility for a joint liability, or vice versa, it is plain that the creditor must be a partner to the arrangement.</p>
+                <p pgmap="153" id="b153-5">But we have seen that there may be a con­version without an extinguishment; “in which case,” says Story, “the creditors can take advantage of the debts according either to their new or their old form and quality. In other words, they may treat them as joint as well as separate debts, and have their remedy against the point or separate estate, accordingly, in their election.” Story, Partn. § 369.</p>
+                <p pgmap="153" id="b153-6">As, then, this arrangement in no way im­pairs the rights of the creditors, but is ordi­narily greatly for their benefit, I see not why their assent may not be presumed; as in a case where property is conveyed in trust for the benefit of a third person, the assent of the party beneficially interested is presumed. It appears now to be admitted that a third party may maintain an action on a promise, not under seal, made to another for his bene­fit, though he was not cognizant of it when made. 1 Pars. Cont. 467; 2 Greenl. Ev. § 109.</p>
+                <p pgmap="153" id="b153-7">I am unable to see why a promise made by one partner to another, that he will hold himself jointly liable for the separate debt of the latter, may not, on the same principle, be availed of by the creditor. Why should evidence of the assent of the latter be exact­ed (and it is admitted that slight evidence will be sufficient, as was the case in Ex parte Kedie, 2 Deac. &amp; C. 321), when that assent would in no case be withheld, as the only effect of the arrangement would be to give to the creditor the security of the firm liabil­ity and that of the other partner, in addition to the liability of the partner with whom he had separately contracted. The hardship of the rule is apparent in those cases where the retiring partner transfers the partnership property to the continuing partners, and thus converts it into his separate property. In such cases it is held that after bankruptcy it cannot be treated in marshaling the assets as joint estate or applied to the payment of joint debts. Robb v. Mudge, 14 Gray, 537; Howe v. Lawrence, 9 Cush. 553.</p>
+                <p pgmap="153" id="b153-8">But whatever may be said of the justice of the rule, I consider it too firmly established, for me, at least, to depart from. In the pas­sage already cited, Hr. Justice Story unhesi­tatingly declares that “to produce any con­version at all, either with or without extin-­guishment, there must be sufficient consider­ation, and also a deliberate and mutual as­sent of the creditors and debtors to such con­version.” Story, Partn. •§ 370.</p>
+                <p pgmap="153" id="b153-9">Of course, after bankruptcy, there can be no mutuality of consent between creditors and debtors, "for the latter are incapable of contracting. If I have ventured to doubt the soundness of the rule thus laid down, it is because it has appeared to me that sufficient attention has not been given to the distinc­tion between cases where the creditor is sup­posed to have relinquished the old liability and accepted a new and substituted liability in its stead, and those where a new and ad­ditional liability is’ created without impairing the old. In the former, his assent is evident­ly necessary; in the latter, it seems to me it should be presumed, and he should be al­lowed the advantage of the promise made be­tween third persons for his benefit. . And in this view I have at least the countenance of Mr. Justice Dillon.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="150" ORDERLABEL="148" TYPE="page">
+        <fptr FILEID="tiff_00075_1"/>
+        <fptr FILEID="jp2_00075_1"/>
+        <fptr FILEID="alto_00075_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_150.6" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="151" ORDERLABEL="149" TYPE="page">
+        <fptr FILEID="tiff_00076_0"/>
+        <fptr FILEID="jp2_00076_0"/>
+        <fptr FILEID="alto_00076_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_151.2" BETYPE="IDREF" FILEID="alto_00076_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="152" ORDERLABEL="150" TYPE="page">
+        <fptr FILEID="tiff_00076_1"/>
+        <fptr FILEID="jp2_00076_1"/>
+        <fptr FILEID="alto_00076_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_152.4" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="153" ORDERLABEL="151" TYPE="page">
+        <fptr FILEID="tiff_00077_0"/>
+        <fptr FILEID="jp2_00077_0"/>
+        <fptr FILEID="alto_00077_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_153.3" BETYPE="IDREF" FILEID="alto_00077_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-8" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.10" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-5" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.7" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-4" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.6" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-7" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.9" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-6" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.8" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-2" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.4" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-8" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.10" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            <area BEGIN="BL_152.11" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-6" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.7" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-7" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.8" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-6" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.8" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-7" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.9" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-4" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.6" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-5" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.7" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-20" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.26" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-21" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.27" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-22" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.28" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-23" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.29" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-24" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.30" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-12" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.13" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-13" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.14" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-10" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.11" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-11" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.12" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-16" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.17" BETYPE="IDREF" FILEID="alto_00076_0"/>
+            <area BEGIN="BL_152.1" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5G" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.18" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            <area BEGIN="BL_150.19" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-14" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.15" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-15" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.16" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-7" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.9" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-6" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.8" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-5" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.6" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-8" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.10" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-9" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.10" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-4" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.5" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b151-3" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_151.5" BETYPE="IDREF" FILEID="alto_00076_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-13" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.14" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-12" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.13" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-11" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.12" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b153-8" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_153.9" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-14" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.15" BETYPE="IDREF" FILEID="alto_00076_1"/>
+            <area BEGIN="BL_153.1" BETYPE="IDREF" FILEID="alto_00077_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ay0" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.11" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-19" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.25" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-18" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.24" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-15" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.22" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-14" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.20" BETYPE="IDREF" FILEID="alto_00075_1"/>
+            <area BEGIN="BL_150.21" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-17" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.23" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-11" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.15" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-13" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.17" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b150-12" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_150.16" BETYPE="IDREF" FILEID="alto_00075_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b152-3" BETYPE="IDREF" FILEID="casebody_0084"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_152.5" BETYPE="IDREF" FILEID="alto_00076_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

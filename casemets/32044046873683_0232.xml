@@ -1,0 +1,335 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0232" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Elizabeth English">The ELIZABETH ENGLISH</name>
+          <docketnumber>Case No. 4,359</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 478</citation>
+          <citation category="parallel" type="bluebook">2 Ben. 365; 1 Am. Law T. Rep. U. S. Cts. 43</citation>
+          <decisiondate>1868-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00240_1" MIMETYPE="image/tiff" CHECKSUM="ff85766c702bb4529b1a1ebe06300aa5" CHECKSUMTYPE="MD5" SIZE="91856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00240_1.tif"/>
+      </file>
+      <file ID="tiff_00241_0" MIMETYPE="image/tiff" CHECKSUM="ffb9984b0755d98ed52c840a9a7e61b9" CHECKSUMTYPE="MD5" SIZE="90486">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00241_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00240_1" MIMETYPE="image/jp2" CHECKSUM="fdecd8cd0d4e04e69cf0252b9ea2a598" CHECKSUMTYPE="MD5" SIZE="3290504">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00240_1.jp2"/>
+      </file>
+      <file ID="jp2_00241_0" MIMETYPE="image/jp2" CHECKSUM="f7c0cdb2679b0be33b1d1b9c62f4b71d" CHECKSUMTYPE="MD5" SIZE="3345959">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00241_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00240_1" MIMETYPE="text/xml" CHECKSUM="e9c7a697a507126fc7e6f7b42b9fdc42" CHECKSUMTYPE="MD5" SIZE="199768">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00240_1.xml"/>
+      </file>
+      <file ID="alto_00241_0" MIMETYPE="text/xml" CHECKSUM="ad71a164d6ea5dc6004059c9aef4873a" CHECKSUMTYPE="MD5" SIZE="197608">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00241_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0232" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="479" firstpage="478">
+              <court id="b480-7" pgmap="480">District Court, S. D. New York.</court>
+              <docketnumber id="b480-3" pgmap="480">Case No. 4,359.</docketnumber>
+              <citation id="b480-5" pgmap="480">[2 Ben. 365;<footnotemark>1</footnotemark> 1 Am. Law T. Rep. U. S. Cts. 43.]</citation>
+              <parties id="b480-4" pgmap="480">The ELIZABETH ENGLISH.</parties>
+              <decisiondate id="AoC" pgmap="480">April, 1868.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys id="b480-14" pgmap="480">C. Donohue and Yf. J. Haskett, for libellant.</attorneys>
+              <attorneys id="b480-15" pgmap="480">Benedict &amp; Benedict, for claimant.</attorneys>
+              <footnote label="1">
+                <p id="b480-17" pgmap="480">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="b480-18" pgmap="480">2 [Affirmed in Case No. 4,360.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b480-16" pgmap="480">BLATCHFORD, District Judge.</author>
+                <p id="AsH" pgmap="480(732) 481(241)">This is a libel for a collision which occurred on the 16th of February, 1858, between eight and nine o’clock p. m., about three miles south­east from Absecom light, in the Atlantic ocean, off the coast of New Jersey, between the schooner Ella, bound from New York to Chincoteague, in Virginia, and the schoon­er Elizabeth English, bounu from Wilming­ton, in North Carolina, to New York. The proper course of the Ella, at the place of col­lision, was southwest, and she was heading, by compass, about southwest by west, or one point to the windward of her proper course. The proper course of the Elizabeth English was northeast, and she was heading about northeast by north, or one point to the wind­ward of that course. It is contended by the Ella that the wind was west northwest, and that she was close-hauled, heading within five points of the wind on her starboard tack, and that the Elizabeth English had the wind at least two points free; while it is claimed by the Elizabeth English, that the wind was north northwest, or a little farther to the north than that, and that she was close-hauled, heading within five points of the wind on her port tack, and that the Ella had the wind at least three points free. The Ella was struck on her port bow by the Elizabeth English, and sank very soon, the mate of the Ella being killed or lost in the collision. The horizon was very dark toward the northward and eastward, as seen from the Elizabeth English, while it was lighter toward the southward and westward, as seen from the Ella. The Elizabeth English had no light, but she was seen from the Ella at some distance off, her master says, at two hundred to three hundred yards off. When the persons on board of the Ella caught sight of the Elizabeth English, the Ella had no light. She had previously been exhibiting a light, but it had gone out, and the steward was in the cabin at the time putting the light in order. The master of the Ella was at the wheel of the Ella when he first saw the Elizabeth English. To his eye, and in his judgment, the Elizabeth English was then to the leeward of the Ella, for he says that he then thought that, if the Elizabeth English kept her course, she would go clear of the Ella, to the leeward of her. He also says, that when the Elizabeth English was within one hundred and fifty yards of the Ella, he, the master, noticed that the Elizabeth Eng­lish was luffing toward the Ella; that he then began to think there was danger of a collision; that he then immediately called into the cabin to the steward, and directed him to hurry on deck with the light; and that the steward then came up on deck with the light, and took it forward, where it could be seen. He also says that he kept the Ella on her course from the time he first sighted, the Elizabeth English until the collision. Now, it is fully established by the evidence of those on board of the Elizabeth English, that nothing was, or could be seen, by them, of the Ella, until her light was discerned,­which was almost at the moment of collision, and was so short a time before it, that al­though the instant the light was seen, an order was given and obeyed, to port the helm of- the Elizabeth English, her helm was not got over, nor was her course at all changed, before the crash came. This clearly shows that the Elizabeth English did not luff. Yet, to the master of the Ella, the other vessel presented the appearance of luffing. This appearance, I am satisfied, on the evidence, arose from the fact that the Ella was not kept on her course, but was suffered by her master to fall off, with the wind, toward the Elizabeth English. This appearance of luff­ing on the part of the latter vessel presented itself before the Ella or her light was seen, and before the Elizabeth English had any motive to make, or did make, any movement to alter her course. A good lookout was kept on the Elizabeth • English, -and the light on the Ella was seen as soon as It possibly could be, and when it was too late for the Eliza­beth English to do any thing to avoid the col­lision. She was, therefore, not at all in fault. Her not showing a light did not at all contribute to the collision, for she was plain­ly seen by the Ella, in season for the Ella to have exhibited her own light, or to have in­sured an avoidance of the collision by keep­ing her course. The Ella failed to show a light. Such failure prevented her position from being made known to the Elizabeth English, in season for her to have ported her helm sooner than she did. According to the testimony of the master of the Ella, the Eliz­abeth English being to the leeward when first seen, if her helm had been ported sooner than it was (and the presumption, from what was, in fact, done, is, that it would have been, if the light of the Ella had been sooner seen), she would have gone still further to the leeward, and there would have been no collision, even with the change of course to the leeward which the Ella made by falling off. The Ella was in fault in falling off with the wind, when her master clearly saw that, if he kept his course, the Elizabeth English would go clear of him to the leeward.</p>
+                <p id="b481-3" pgmap="481">The view thus taken is entirely independ­ent of the question as to whether the wind was west northwest, as claimed by the Ella, or north northwest, as claimed by the Eliza­beth English, and of the question as to which of the two vessels had the wind free. But I am satisfied that the weight of the evidence is, that the Elizabeth English was close-­hauled, and that the Ella had the wind from two to three points free. This being so, the Elizabeth English was entitled to the right of way, and to keep her course, even though ■she was on the port tack, and it was the duty of the Ella, seeing the other vessel nearly ahead, and having herself the wind free, to put her helm a-port, even though she was on the starboard tack. The George, 5 Notes Cas. 368. Instead of doing this, the Ella did the very opposite, and bore down against the ■other vessel, and brought upon herself the calamity which ensued. The collision oc­curred wholly from the incompetence and mismanagement of the master of the Ella.</p>
+                <p id="b481-4" pgmap="481">There must be a decree dismissing the libel, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="480" ORDERLABEL="478" TYPE="page">
+        <fptr FILEID="tiff_00240_1"/>
+        <fptr FILEID="jp2_00240_1"/>
+        <fptr FILEID="alto_00240_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_480.4" BETYPE="IDREF" FILEID="alto_00240_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="481" ORDERLABEL="479" TYPE="page">
+        <fptr FILEID="tiff_00241_0"/>
+        <fptr FILEID="jp2_00241_0"/>
+        <fptr FILEID="alto_00241_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_481.4" BETYPE="IDREF" FILEID="alto_00241_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-7" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.9" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-3" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.6" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-3" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.6" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b481-4" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_481.7" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-18" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.23" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-16" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.18" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-17" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.22" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsH" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.19" BETYPE="IDREF" FILEID="alto_00240_1"/>
+            <area BEGIN="BL_480.20" BETYPE="IDREF" FILEID="alto_00240_1"/>
+            <area BEGIN="BL_480.21" BETYPE="IDREF" FILEID="alto_00240_1"/>
+            <area BEGIN="BL_481.2" BETYPE="IDREF" FILEID="alto_00241_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-5" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.8" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-4" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.7" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoC" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.10" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-14" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.16" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b480-15" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_480.17" BETYPE="IDREF" FILEID="alto_00240_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

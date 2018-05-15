@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0053" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="In re Dupee">In re DUPEE</name>
+          <docketnumber>Case No. 4,183</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 108</citation>
+          <citation category="parallel" type="bluebook">2 Lowell, 18; 6 N. B. R. 89</citation>
+          <decisiondate>1871-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00055_1" MIMETYPE="image/tiff" CHECKSUM="34ff22efca3a1d7b8c2ed53d27cf4a9f" CHECKSUMTYPE="MD5" SIZE="97058">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00055_1.tif"/>
+      </file>
+      <file ID="tiff_00056_0" MIMETYPE="image/tiff" CHECKSUM="17a48fc2bbf02d62a6f73ac5abb3ee5a" CHECKSUMTYPE="MD5" SIZE="76790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00056_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00055_1" MIMETYPE="image/jp2" CHECKSUM="f730e0007b5fcd437ba433621d06b9d0" CHECKSUMTYPE="MD5" SIZE="3465871">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00055_1.jp2"/>
+      </file>
+      <file ID="jp2_00056_0" MIMETYPE="image/jp2" CHECKSUM="a602fdd879be04554f6d8691d8bcaaf1" CHECKSUMTYPE="MD5" SIZE="3098751">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00056_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00055_1" MIMETYPE="text/xml" CHECKSUM="f12f61082f436f64dbb7a6e5913744b1" CHECKSUMTYPE="MD5" SIZE="216543">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00055_1.xml"/>
+      </file>
+      <file ID="alto_00056_0" MIMETYPE="text/xml" CHECKSUM="c58d53523d3ab7a8e13227ca67b71cbc" CHECKSUMTYPE="MD5" SIZE="173999">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00056_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0053" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="109" firstpage="108">
+              <court id="b110-17" pgmap="110">District Court, D. Massachusetts.</court>
+              <docketnumber id="b110-14" pgmap="110">Case No. 4,183.</docketnumber>
+              <citation id="b110-16" pgmap="110">[2 Lowell, 18;<footnotemark>1</footnotemark> 6 N. B. R. 89.]</citation>
+              <parties id="b110-15" pgmap="110">In re DUPEE.</parties>
+              <decisiondate id="AIO" pgmap="110">April, 1871.</decisiondate>
+              <attorneys id="b111-4" pgmap="111">W. W. Warren, for petitioners.</attorneys>
+              <attorneys id="b111-5" pgmap="111">G. A. Somerby and W. N. Mason, for debt- or.</attorneys>
+              <footnote label="1">
+                <p id="b110-22" pgmap="110">1 [Reported by Hon. John Lowell, LL. D., District Judge, and here reprinted by permis­sion.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b111-6" pgmap="111">LOWELL, District Judge.</author>
+                <p id="AO" pgmap="111">There is no­thing in the bankrupt act [of 1867 (14 Stat. 517)] which bears directly upon this case, excepting section 34, authorizing • the court to set aside a discharge for certain causes and under certain circumstances, one of which is, that the creditor asking for such reversal had no knowledge of the facts be­fore the discharge was granted; a circum­stance which these petitioners cannot truly allege. They therefore invoke the power which they say every court has to vary or annul its decree, when justice requires it This power is denied by the bankrupt No decisions were referred to by either party, excepting those in the southern district of New York, in which the court reheard the case after refusing a discharge. The power of the court does not seem to have been brought in question in those cases; nor does it appear very clearly that any final decree had been made in them before the rehear­ing. In this case, a final decree was render­ed under section 32, and a certificate thereof was given, and the case in bankruptcy was closed.</p>
+                <p id="b111-7" pgmap="111">• This would seem to be the termination of the jurisdiction which by section 1 is to last until the close of the proceedings in bank­ruptcy. Still I think the court must have the same inherent power as all other courts to recall its own decrees, or to vary or amend them, as justice may require. All the courts claim and exercise this power, when it is the only remedy for the party ag­grieved. It has been admitted in criminal as well as in civil cases that the court may vary its judgment and impose a different sentence at any time during the same term. Com. v. Weymouth, 2 Allen, 144. And see the cases cited in that decision. In admiral­ty, the time and mode of ppening a final' decree in a defaulted action are regulated by a general rule of the supreme court; but this is not understood to take away the right to rehear cases not falling within the rule. 2 Conk. Adm. 360. See Ex parte Lange, 18 Wall. [85 U. S.] 163.</p>
+                <p id="b111-10" pgmap="111">It is not necessary to define the limits or the power, or the precise mode of its exer­cise, excepting to this extent, that the courts-­have uniformly admitted and exercised the power of rehearing a cause, and changing or reversing the judgment or decree during-­the term in which it was made. Even the supreme court will exercise this power on suitable occasions, although, in an appellate court, where there is little liability to acci­dent in the trial, those occasions are rare. That court has held that this power, when exercised summarily, must be invoked dur­ing the term, even in equity, though, in general, the proceedings in equity have little relation to terms of court. After the term has passed, there must be plenary proceed­ings Ijy bill or libel of review. Here the-­term is still open, and no very formal pro­ceedings would seem to be required. It is not a case for the supervisory power of the circuit court, and I do not see that there is any other remedy than the one now asked for.</p>
+                <p id="b111-11" pgmap="111">If, however, no injustice has been done, or if the petitioners were not, in fact, -pre­vented from trying their case by the acci­dent referred to, they ought not to be per­mitted to litigate anew. If they shall file affidavits showing that they were prepared with evidence to substantiate the specific charges of fraud alleged by them, and that they would have been ready to try those questions on the day appointed, and that they believe they have a good case on the merits in respect to those charges of fraud, I will redpen the decree so far as such frauds are concerned. I do not think I ought to do so for any mere technical matter, such as an inaccuracy in book-keeping without fraud.</p>
+                <p id="b111-12" pgmap="111">Ten days to be allowed for the petitioners to file affidavits.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="110" ORDERLABEL="108" TYPE="page">
+        <fptr FILEID="tiff_00055_1"/>
+        <fptr FILEID="jp2_00055_1"/>
+        <fptr FILEID="alto_00055_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_110.4" BETYPE="IDREF" FILEID="alto_00055_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="111" ORDERLABEL="109" TYPE="page">
+        <fptr FILEID="tiff_00056_0"/>
+        <fptr FILEID="jp2_00056_0"/>
+        <fptr FILEID="alto_00056_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_111.3" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AO" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.9" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            <area BEGIN="BL_111.10" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-11" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.14" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIO" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.20" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-10" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.13" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-12" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.15" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-22" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.25" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.11" BETYPE="IDREF" FILEID="alto_00056_0"/>
+            <area BEGIN="BL_111.12" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-6" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.8" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-5" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.7" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b111-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_111.6" BETYPE="IDREF" FILEID="alto_00056_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-14" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.16" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-15" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.17" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-16" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.18" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b110-17" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_110.19" BETYPE="IDREF" FILEID="alto_00055_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

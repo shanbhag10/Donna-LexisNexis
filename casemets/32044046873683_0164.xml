@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0164" publicationstatus="published">
+          <court abbreviation="E.D.N.Y." jurisdiction="United States">United States District Court for the Eastern District of New York</court>
+          <name abbreviation="The Edward Lee">The EDWARD LEE</name>
+          <docketnumber>Case No. 4,292</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 341</citation>
+          <citation category="parallel" type="bluebook">3 Ben. 114</citation>
+          <decisiondate>1868-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00172_0" MIMETYPE="image/tiff" CHECKSUM="40d56e5153a3e8ed40569d1a3e74ab16" CHECKSUMTYPE="MD5" SIZE="67964">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00172_0.tif"/>
+      </file>
+      <file ID="tiff_00172_1" MIMETYPE="image/tiff" CHECKSUM="07f42055b20908d9de43650eed1c90d8" CHECKSUMTYPE="MD5" SIZE="65694">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00172_1.tif"/>
+      </file>
+      <file ID="tiff_00173_0" MIMETYPE="image/tiff" CHECKSUM="caa19733c740c224f4ebbfc5c3ef4b49" CHECKSUMTYPE="MD5" SIZE="71242">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00173_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00172_0" MIMETYPE="image/jp2" CHECKSUM="205cb87691f454652ee86d578f7f485d" CHECKSUMTYPE="MD5" SIZE="2835435">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00172_0.jp2"/>
+      </file>
+      <file ID="jp2_00172_1" MIMETYPE="image/jp2" CHECKSUM="2ba8a36a85a471b34f97cd555963f3a3" CHECKSUMTYPE="MD5" SIZE="2598096">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00172_1.jp2"/>
+      </file>
+      <file ID="jp2_00173_0" MIMETYPE="image/jp2" CHECKSUM="1f69741b81d33df97c6d80c79ec22a6e" CHECKSUMTYPE="MD5" SIZE="2995990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00173_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00172_0" MIMETYPE="text/xml" CHECKSUM="ae7bd2328dd5cc66fc8ee8c6cf1caebf" CHECKSUMTYPE="MD5" SIZE="140908">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00172_0.xml"/>
+      </file>
+      <file ID="alto_00172_1" MIMETYPE="text/xml" CHECKSUM="c577ab15210f6cd2a51353ead6af0714" CHECKSUMTYPE="MD5" SIZE="139763">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00172_1.xml"/>
+      </file>
+      <file ID="alto_00173_0" MIMETYPE="text/xml" CHECKSUM="1f53238fb05aea29d9d495e2416cfeb4" CHECKSUMTYPE="MD5" SIZE="151886">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00173_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0164" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="343" firstpage="341">
+              <court id="b343-19" pgmap="343">District Court, E. D. New York.</court>
+              <docketnumber id="b343-16" pgmap="343">Case No. 4,292.</docketnumber>
+              <citation id="b343-18" pgmap="343">[3 Ben. 114.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b343-17" pgmap="343">The EDWARD LEE.</parties>
+              <decisiondate id="Av2" pgmap="343">Dec., 1868.</decisiondate>
+              <attorneys id="b344-9" pgmap="344">O. B. Wilcox, for petitioner.</attorneys>
+              <attorneys id="b344-10" pgmap="344">E.- G. Benedict, for owners.</attorneys>
+              <footnote label="1">
+                <p id="b343-25" pgmap="343">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b344-11" pgmap="344">BENEDICT, District Judge.</author>
+                <p id="Axe" pgmap="344">Although there may, perhaps, be cases where an as­signment, obtained from a seaman, by the master, for the benefit of an owner, of the seaman’s share of a salvage claim, can be upheld, this is no such case.-</p>
+                <p id="b344-13" pgmap="344">This owner, when he sought to procure the assignment from the petitioner, for $25, ex­pected, as his letter shows, that the salvage award would be $4,000, and he had made a claim for $8,000, but neither he nor the mas­ter gave to the seaman any hint that the claim would amount to any such sum, when they procured the assignment, in Cuba. The execution of the assignment was induced by the master himself, and also the mate, falsely pretending to assign their rights also, for the same sum, and the transaction, as conducted, was a sham, intended so to be treated by all, except the seamen. The master treated it as a sham, for he has since received $400 for his share of the salvage. The mate treated it as a sham, for he has since re­ceived $200 for his share of the salvage. The owners treated it as a sham, for they divided the rest of the money among them. Houghton, the assignee, has treated it as a sham, for he does not pretend, and has never pretended, to be entitled to the in­terest which the assignment purports to con­vey to him. This petitioner may also treat it as a sham.</p>
+                <p id="b344-14" pgmap="344">It was made in ignorance of facts, which, if made known, would have prevented its execution, and these facts were then within the knowledge of the parties engaging in its procurement, and it was a contrivance far from creditable, either to the owner, who suggested it, or the master, who consented to-­carry it into execution. Such a transaction will never, in this court, be permitted to stand for a moment between a seaman and a sum awarded to him for meritorious sal­vage services. It is for the interest of com­merce that seamen, of all others, reap the benefit of that provision of the maritime law, which gives salvage rewards to encour­age efforts in behalf of vessels in distress, and any assignment which has the effect to deposit the reward in the pockets of the owners, in order to be sustained in a court of admiralty, of which all sailors are the wards, must bear unmistakable marks of good faith and fair dealing.</p>
+                <p id="b344-15" pgmap="344">Nor is the case helped by the fact that, after the arrival of the bark in New York, the petitioner was paid the $25 by the mas­ter, while in the stream, and then signed a receipt in full of all demands, including any demand for salvage. At this time, the money had not been paid over to the owners, al­though they undoubtedly knew how much it. was, by agreement, to be. The petitioner, then, had no claim against them to release. His claim was in suit against the derelict, and the libellant’s proctor was his proctor, as the owners knew. The receipt neither released the owners from any thing, nor did it purport to authorize them to receive from the proctor the petitioner’s share of the award, when it should be made.</p>
+                <p id="b344-16" pgmap="344(26) 345(22)">The receipt, and the payment, can have no effect to work a transfer of the interest to-­the owners, for the sailor was not then in­formed of the fact that the derelict had been sold, and the award agreed on at $4,150, nor- was his proctor consulted.</p>
+                <p id="b345-3" pgmap="345">The right of the petitioner to participate in this award, as one of the original salvors, then remains unimpaired, and as the own­ers, who received the money from his proctor with full knowledge of all the facts, refused to allow him to participate, they - must be compelled to repay into the registry of the court, within 48 hours from the service of the order of this court, the sum of $350, for the benefit of the petitioner.</p>
+                <p id="b345-4" pgmap="345">It should be added, that it was an over­sight. on part of the proctor for the salvors to .draw the whole award from the registry, without having previously, fpr his own pro­tection, applied for, and obtained, an order of distribution, fixing the portion payable to each salvor; and it was also an oversight, on the part of the court, to permit the money to be drawn, before such distribution had been made.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="343" ORDERLABEL="341" TYPE="page">
+        <fptr FILEID="tiff_00172_0"/>
+        <fptr FILEID="jp2_00172_0"/>
+        <fptr FILEID="alto_00172_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_343.2" BETYPE="IDREF" FILEID="alto_00172_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="344" ORDERLABEL="342" TYPE="page">
+        <fptr FILEID="tiff_00172_1"/>
+        <fptr FILEID="jp2_00172_1"/>
+        <fptr FILEID="alto_00172_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_344.4" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="345" ORDERLABEL="343" TYPE="page">
+        <fptr FILEID="tiff_00173_0"/>
+        <fptr FILEID="jp2_00173_0"/>
+        <fptr FILEID="alto_00173_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_345.3" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-4" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.6" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Av2" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.27" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-3" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.5" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-9" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.11" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-25" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.32" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-18" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.25" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-19" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.26" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-16" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.23" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-17" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.24" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-16" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.19" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            <area BEGIN="BL_345.1" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-15" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.18" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-14" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.17" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-13" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.16" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-11" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.13" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-10" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.12" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axe" BETYPE="IDREF" FILEID="casebody_0164"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.14" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            <area BEGIN="BL_344.15" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

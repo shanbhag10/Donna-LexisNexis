@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0157" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="In re Jacoby">In re JACOBY</name>
+          <docketnumber>Case No. 7,165</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 279</citation>
+          <citation category="parallel" type="bluebook">1 N. B. R. 118; 6 Int. Rev. Rec. 149</citation>
+          <decisiondate>1867-10-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00141_0" MIMETYPE="image/tiff" CHECKSUM="8e0eb4e81294a592520ead8bd792e617" CHECKSUMTYPE="MD5" SIZE="69788">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00141_0.tif"/>
+      </file>
+      <file ID="tiff_00141_1" MIMETYPE="image/tiff" CHECKSUM="c5a83279ea490f903e69af830fa55575" CHECKSUMTYPE="MD5" SIZE="85212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00141_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00141_0" MIMETYPE="image/jp2" CHECKSUM="9e5555bdfa9f183ed651cc147b87d9c8" CHECKSUMTYPE="MD5" SIZE="3182193">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00141_0.jp2"/>
+      </file>
+      <file ID="jp2_00141_1" MIMETYPE="image/jp2" CHECKSUM="9f9885f394b015ace4416b96913896fe" CHECKSUMTYPE="MD5" SIZE="3202129">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00141_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00141_0" MIMETYPE="text/xml" CHECKSUM="13e239f30e90387c9324994472b3cca8" CHECKSUMTYPE="MD5" SIZE="150729">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00141_0.xml"/>
+      </file>
+      <file ID="alto_00141_1" MIMETYPE="text/xml" CHECKSUM="e93423b26a7517c1d99cbec08a4cc4f8" CHECKSUMTYPE="MD5" SIZE="180725">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00141_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0157" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="280" firstpage="279">
+              <court pgmap="281" id="AEi">District Court, S. D. New York.</court>
+              <docketnumber pgmap="281" id="AkF">Case No. 7,165.</docketnumber>
+              <citation pgmap="281" id="b281-33">[1 N. B. R. 118; <footnotemark>2</footnotemark>
+              </citation>
+              <citation pgmap="281" id="A0Zt">6 Int. Rev. Rec. 149.]</citation>
+              <parties pgmap="281" id="b281-32">In re JACOBY.</parties>
+              <decisiondate pgmap="281" id="AZPu">Oct 18, 1867.</decisiondate>
+              <p pgmap="281" id="ArMm">Bankr. Reg. Supp. 26;</p>
+              <footnote label="2">
+                <p pgmap="281" id="b281-38">2 [Reprinted from 1 N. B. R. 118, by permis­sion.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="282" id="b282-7">BLATCHFORD, District Judge.</author>
+                <p pgmap="282" id="ATp">The or­der to show cause made herein on the 11th day of October, 1867, why Henry Jacoby, thé above named bankrupt, should not be dis­charged from the custody of the sheriff of the city and county of New York, under three several orders of arrest named therein, and why all further proceedings in the four sev­eral actions named should not be stayed to await the determination of this court in bank­ruptcy upon the question of the discharge of said Henry Jacoby, having come on to be heard, and It appearing that a copy of the said order to show cause had been duly serv­ed upon Messrs. Capron &amp; Lake, two of the attorneys therein named. Now, after hear­ing Aaron Frank, Esq., for the motion, and Charles H. Smith, Esq., Charles H. Van Brunt, Esq., and Samuel Hirseh, Esq., in op­position thereto, it is ordered that the said Jacoby be and he is hereby discharged from the arrest and imprisonment under which he is held by the sheriff of the city and.county of New York, under the order of arrest made in the action in the court of common pleas-­in and for the city and county of New York, wherein Lazarus Hallgarten' is plaintiff, and Henry Jacoby and another are defendants, and that all further proceedings in the said action be and the same hereby are stayed to await the determination of this court in bankruptcy on the question of the discharge of said Jacoby. And it is further ordered that all further proceedings in the action now pending in the supreme court of the state of New York in and for the city and county of New York, wherein John A. Lockwood is plaintiff, and Henry Jacoby and another are defendants, be and the same hereby are stay­ed to await the determination of this court in bankruptcy on the question of the dis­charge of said Henry Jacoby.</p>
+                <p pgmap="282" id="b282-8">And it is further ordered that in the action in the supreme court of the state of New York, in and for the city and county of New York, wherein Oliver E. Wood, Israel A. Barker, and John Maxwell are plaintiffs, and Henry Jacoby and another are defendants, it be referred to Joseph Gutman, Jr., Esquire, a commissioner of the circuit court of the United States for the Southern district of New York, as a referee, to take and certify evidence upon the question as to whether or not the said action is founded on a debt or claim created by the fraud or embezzlement of the said bankrupt or by his defalcation as a public officer, or while acting in any fidu­ciary character, and to report thereon with all convenient ¡speed. And it is further or­dered that in the action in the supreme court of the state of New York in and for the city and county of New York, wherein Solomon Mannes is plaintiff, and Henry Jacoby and another are defendants, it be referred to the said Gutman, as a referee to take and certify evidence upon the question as to whether or not the said action is founded on a debt or claim created by the fraud or embezzlement of the said bankrupt, or by his defalcation as a public officer, or while acting in any fiduciary character, and to report thereon with all convenient speed. And it is further ordered that all parties shall have due pre­vious notice of all proceedings before said referee hereunder, and the opportunity of at­tending before him, and shall be at liberty to examine the said bankrupt and any other witnesses in the premises, and that all fur­ther proceedings in the said last named two actions, except such as relate exclusively to the holding of the said Jacoby in custody un­der the said orders of arrest therein, be and the same are hereby stayed to await the de­termination of this court in bankruptcy on the question of the discharge of said Jacoby.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="281" ORDERLABEL="279" TYPE="page">
+        <fptr FILEID="tiff_00141_0"/>
+        <fptr FILEID="jp2_00141_0"/>
+        <fptr FILEID="alto_00141_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_281.2" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="282" ORDERLABEL="280" TYPE="page">
+        <fptr FILEID="tiff_00141_1"/>
+        <fptr FILEID="jp2_00141_1"/>
+        <fptr FILEID="alto_00141_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_282.4" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZPu" BETYPE="IDREF" FILEID="casebody_0157"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.54" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEi" BETYPE="IDREF" FILEID="casebody_0157"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.53" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkF" BETYPE="IDREF" FILEID="casebody_0157"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.47" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArMm" BETYPE="IDREF" FILEID="casebody_0157"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.50" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-8" BETYPE="IDREF" FILEID="casebody_0157"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.10" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            <area BEGIN="BL_282.11" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATp" BETYPE="IDREF" FILEID="casebody_0157"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.8" BETYPE="IDREF" FILEID="alto_00141_1"/>
+            <area BEGIN="BL_282.9" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0Zt" BETYPE="IDREF" FILEID="casebody_0157"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.51" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            <area BEGIN="BL_281.52" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-38" BETYPE="IDREF" FILEID="casebody_0157"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.57" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b282-7" BETYPE="IDREF" FILEID="casebody_0157"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_282.7" BETYPE="IDREF" FILEID="alto_00141_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-32" BETYPE="IDREF" FILEID="casebody_0157"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.48" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-33" BETYPE="IDREF" FILEID="casebody_0157"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.49" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

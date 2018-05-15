@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0322" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Ex parte Emery">Ex parte EMERY</name>
+          <docketnumber>Case No. 4,444</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 642</citation>
+          <citation category="parallel" type="bluebook">3 App. Com’r Pat. 215</citation>
+          <decisiondate>1859-10-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00322_1" MIMETYPE="image/tiff" CHECKSUM="8e703a8bc2f84170f304de02a1db7a1c" CHECKSUMTYPE="MD5" SIZE="95512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00322_1.tif"/>
+      </file>
+      <file ID="tiff_00323_0" MIMETYPE="image/tiff" CHECKSUM="b551fe1750173a0b7edf596aa3a1ad59" CHECKSUMTYPE="MD5" SIZE="114510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00323_0.tif"/>
+      </file>
+      <file ID="tiff_00323_1" MIMETYPE="image/tiff" CHECKSUM="f40a03a2ea0db0f2a5cf00b2b57846b7" CHECKSUMTYPE="MD5" SIZE="91690">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00323_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00322_1" MIMETYPE="image/jp2" CHECKSUM="20dd7e31e33f3bf0a78480d3f90a0685" CHECKSUMTYPE="MD5" SIZE="3428957">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00322_1.jp2"/>
+      </file>
+      <file ID="jp2_00323_0" MIMETYPE="image/jp2" CHECKSUM="fbde1c456950533f53fa59e380ea0b52" CHECKSUMTYPE="MD5" SIZE="3887254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00323_0.jp2"/>
+      </file>
+      <file ID="jp2_00323_1" MIMETYPE="image/jp2" CHECKSUM="a4820e7574f7058d274e78d4da5d2ffd" CHECKSUMTYPE="MD5" SIZE="3435647">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00323_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00322_1" MIMETYPE="text/xml" CHECKSUM="356e49d3f0a6c839456267fb0b49d775" CHECKSUMTYPE="MD5" SIZE="200192">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00322_1.xml"/>
+      </file>
+      <file ID="alto_00323_0" MIMETYPE="text/xml" CHECKSUM="38c5c3a28f4f902769d63178603febcf" CHECKSUMTYPE="MD5" SIZE="248335">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00323_0.xml"/>
+      </file>
+      <file ID="alto_00323_1" MIMETYPE="text/xml" CHECKSUM="89a43a91bb477acb7a2c3d15e4bf8d1e" CHECKSUMTYPE="MD5" SIZE="203983">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00323_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0322" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="644" firstpage="642">
+              <court id="b644-9" pgmap="644">Circuit Court, District of Columbia.</court>
+              <docketnumber id="b644-6" pgmap="644">Case No. 4,444.</docketnumber>
+              <citation id="b644-8" pgmap="644">[3 App. Com’r Pat. 215.]</citation>
+              <parties id="b644-7" pgmap="644">Ex parte EMERY.</parties>
+              <decisiondate id="AnI4" pgmap="644">Oct. 8, 1859.</decisiondate>
+              <opinion type="majority">
+                <author id="b644-14" pgmap="644">MORSELL, Circuit Judge.</author>
+                <p id="Amh" pgmap="644">The appellant states his claim in his specification thus: ' “Having fully described the nature of my in­vention, and shown the manner in which the same may be made available, what I claim as my invention, and desire to secure by letters patent, is: (1) Combining with the cutter-bar an adjustable arm or lever pro­vided with a roller or other means of sliding easily upon the ground, for the purpose of sustaining the cutter-bar at any required dis­tance from the ground, or allowing it to rest upon the ground at pleasure for purposes herein set forth. (2) I also claim placing said arm directly in rear of the shoe, in or­der that it may be prevented by said shoe-­from clogging as described. (3) I also claim connecting said arm by a rod along the back of the cut.ter-bar with a lever near the frame-­of the machine so that the attendant may elévate and depress the cutter-bar at pleas­ure.” The commissioner has adopted the re­port of the board of directors for his deci­sion and reasons, the substance of which will be stated.</p>
+                <p id="b644-17" pgmap="644(418) 645(683)">As to the first claim presented he says: “Strictly speaking, Emery’s adjustable arm or lever is not combined with the cutter-bar, but with the finger-bar, and to this it is at­tached in such a manner as to be entirely independent of the platform, so that such, platform can be removed when the machine is to be converted from a grass to a grain harvester without disturbing the said arm or lever. That Atkins’ harvester, patented Dec. 21st, 1852, possesses an adjustable arm provided with a roller for the purpose of elevating and depressing the outer end of the finger-bar, we do not understand to be denied. But it is contended that as this ma­chine has corresponding devices at each end of the platform for adjusting it and the cut­ter to different heights for cutting high or low, and as the patent contains no hint of any other object, corresponding devices do exist in Atkins’ harvester (the model on file-­does not show them as applied to the main wheel, however), still it cannot be pretended that both wheels are not adjustable inde­pendently the one of the other, and that while one end of the machine remains at a stationary elevation the outer may be ad­justed at the pleasure of the operator. What Atkins’ object was in making his arm or lever adjustable as described in his specifi­cation is immaterial. If the contrivance can and does operate substantially like Emery’s, it is sufficient to deprive the latter of all color of right to a patent It is further alleged that if the platform be removed from At­kins’ machine, changing it from a grain har­vester to a mowing machine, the adjustable wheel would go with the platform, and leave a mowing machine without an adjustable wheel. But this objection does not appear to us to be well taken. We can see no reason why Atkins’ platform may not be wholly removed, and yet leave the adjustable arm with its wheel attached to the machine. It is true that if a working machine were con­structed like the model deposited in the of­fice there would be, in case the platform were removed, an extension of what might be called the shoe behind the finger-bar re­maining, but it does not appear to us proba­ble that such extension would prove a great­er obstruction to the draught, or that it would otherwise be any more inconvenient than Emery’s shoe and track-clearer, which,. whether the machine be used as a mower or grain harvester, form constituent parts of it But Atkins’ machine is not practically-­constructed like his models. The adjustable arm provided with the wheel for raising or lowering the outer end of the finger-­bar is shown in a full-sized working ma­chine which may be seen in the agriculture store on Seventh street, near Pennsylvania avenue, in this city, and to which the attor­ney for Emery has referred us, to be attach­ed directly to the finger-bar, and to which in combination with it so that the whole plat­form may be removed, carrying with it, if desired, even the shoe, the divider and the track-clearer, and yet leave the adjustable arm attached to the finger-bar, as in Emery’s machine. Since then so close an identity is found between the device claimed by Em­ery and that shown by Atkins, it is perhaps superfluous to refer to any other instance of its use. It may however be well to ob­serve, with a view to mark the extent of the application of what Emery claims as exclusively his own, that the same idea is embraced in the application of J. W. Dana, rejected Oct 4th, 1S49, to which the appli­cant has been referred by the examiner, and in the patent granted to B. Densmore, Feb. 10th, 1852, application filed January 10th, 1851, to which this is the first reference, wherein are clearly seen adjustable arms or levers connected with the finger-bar or its equivalent, and provided with means of slid­ing easily upon the ground, like Emery’s mod­el; Dana’s machine has no platform attached, and, as from Emery’s, so from Densmore’s may the entire platform be removed, leaving nothing but the finger-bar and the shoe.” “The second claim relates to the position of the arm or lever which carries the roller, or other means of allowing the finger-bar to slide easily over the ground. It is placed di­rectly in rear of the shoe, so that the said shoe may prevent its clogging. And why the corresponding arms in Atkins’ and Dana’s machines do not hold the same relative posi­tion, or why they are not equally prevented from clogging, and by the same means, we are unable to discover, and the applicant (evidently regarding the first claim as cover­ing the important point of his invention) has failed to make clear to us, — indeed, he has not, either in his written argument, or his intercourse with us, alleged that any dis­tinction does in reality exist. The adjusta­ble arm in Densmore’s machine is also placed in rear of shoe. The third claim has refer­ence to the means of operating the arm and roller, or other means of sliding, from the attendant’s seat: the said arm being con­nected with a lever near the frame of the machine by means of a rod placed along the back of the finger-bar; and this device is, in our opinion, shown in Dana’s machine, where the arm which elevates the bar that carries the cutting apparatus is attached to the handle or lever near the driver’s seat by means of a chain of cord passing along the back of said bar; and it appears to us to be no answer to the pertinency of this reference that the machine is an impractica­ble one, as is verbally alleged by the-attor­ney for Emery. The machine as a whole may be practically devoid of utility, and yet some of its parts may possess considerable merit, and such appears to us to be the case with Dana’s elevating apparatus. It is clear that his device will raise and lower the bar, and with it the cutting apparatus, although the attorney for Emery alleges that such is not the case. We must therefore recommend that the action of the examiner in this case be affirmed, and that a patent be refused on all of the claims submitted,” — which report was adopted and confirmed by the commis­sioner on the 19th June, 185S.</p>
+                <p id="b645-5" pgmap="645">Four reasons of appeal were filed from this decision. They are general, denying that the invention was old and not patenta­ble, and affirming that the features thereof are new and patentable, and denying that the said claims are analogous to the refer­ences given. It will be unnecessary to state them particularly. The commissioner’s re­port in reply to the reasons is substantially nothing more than the reaffirmance of the report of the examiners.</p>
+                <p id="b645-6" pgmap="645">After due notice was caused to be given, all the aforesaid papers in the case were laid before me. The appellant, also, by his attorney, appeared, and, having filed his written argument, submitted .the case. From all which the case presented appears to be an improved grass mowing harvester, consisting of an entirely auxiliary and addi­tional device for tilting the mowing machine in emergencies, and to be. thrown out of use, when the machine is performing its regular duty, to be used in the combination as first stated; this claim is supposed to be for nothing more in substance than for a double use, and to be therefore devoid of novelty; and to show it, the reapers and rake for harvesting machines were referred to, with the examiner’s remarks, as before stated. Considering the references, what they im­port to be designed for according to their operations as a whole, it must be acknowl­edged, I think, that there is a wide and substantial difference between them and the mowing machine. No farmer would think of suffering the grain reaper to enter his meadow, or a grass-mower to harvest his wheat — there must have been made " radical change both as to the operation and character of the reaper to adapt it to an identity with the mower, if such would be necessary in this case, then the doctrine of a double use would not apply. The party will be en­titled to a patent for such parts of his ma­chine as are new, or for the result of such a combination of old parts as he shows is new and valuable.</p>
+                <p id="b645-7" pgmap="645(31) 646(498)">With these remarks, I proceed to consider more particularly the parts of his references which he thinks arc the same with the con­trivance of Emery. Such he says is the adjustable arm provided with a roller for the purpose of elevating and depressing the outer end of the finger-bar in Atkins’ ma­chine, and that Atkins’ platform may be wholly removed and yet have the adjusta­ble arm with the wheel attached to the fin­ger-bar. This, however, he says, to judge from the machine in the office, could not be in the case without “an extension of what might be called the shoe behind the finger-­bar.” Is the commissioner correct that the two things are identical? The conditions un­der which they work are not alike, the same evidence is not to be performed, the principle is different, the purpose which ought to be identical is entirely different, no identity of object or effect, the one is always elevated above the ground, and occasionally increased to suit the grain that is to be cut; the other never raised from, the ground only to be raised over stumps or rock, &amp;c.; the one remains elevated during the operation of cut­ting, the other on the ground. The nature and purpose being different, how can there be identity, except in mere name? I have derived assistance in tracing the differences in this case by the learned argument of the counsel of the appellant, part of which .1 will recite. He says: “As befdre remarked, the ends of the cutter-bar of the mowing ma­chine travel on what is called a shoe, allow­ing this bar to travel on the ground. In the reaper a wheel and divider take the place of this shoe, which always holds the cutter-­bar a considerable distance above the ground, and is never thrown out of action, but the tilting device does not take the place of the shoe, but is added to it. It never holds the cutter-bar above the ground,' when the ma­chine is in regular action; but at such time it is always out of "action.” The wheels re­ferred to by the commissioner do not antici­pate the device of appellant, because they never permit the shoe and cutter-bar to come to the ground. They do not perform the double office of elevating the cutter when nec­essary and allowing it to come down to the ground when necessary. This is the gist of the invention. So as respects the second and third claims. The references appear to me to be equally inapplicable. The reaper has no shoe, nor anything that resembles it If anything, it is the wheel known as the divider, but the only purpose of this is as a separator of the grain cut from that which is to be left standing (for the present) and marks and limits the width of the swath. It has neither shoe, nor tilting lever. Dana’s machine has neither rod-finger, bar, or shoe. I think therefore that an identity has not been shown as alleged by the commissioner, and that the appellant is entitled to a patent as prayed.</p>
+                <author id="b646-4" pgmap="646">MORSELL. Circuit Judge.</author>
+                <p id="AZ7" pgmap="646">I, James S. Morsell, assistant judge of the circuit court of the District of Columbia, do certify to the honorable commissioner of patents that I caused due notice to be given of the time and place appointed for the hearing of the above appeal, at which time and place all the papers and references in said case were laid before me, and the appellee, by his counsel, appeared, filed his written argu­ment, and submitted the said case; where­upon, after due consideration, I am of opin­ion, and do so adjudge and determine, that the decision aforesaid is erroneous, and ought to be, and is hereby reversed and annulled, and it is hereby ordered that a patent be refused to the said appellant for his invention accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="644" ORDERLABEL="642" TYPE="page">
+        <fptr FILEID="tiff_00322_1"/>
+        <fptr FILEID="jp2_00322_1"/>
+        <fptr FILEID="alto_00322_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_644.7" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="645" ORDERLABEL="643" TYPE="page">
+        <fptr FILEID="tiff_00323_0"/>
+        <fptr FILEID="jp2_00323_0"/>
+        <fptr FILEID="alto_00323_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_645.4" BETYPE="IDREF" FILEID="alto_00323_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="646" ORDERLABEL="644" TYPE="page">
+        <fptr FILEID="tiff_00323_1"/>
+        <fptr FILEID="jp2_00323_1"/>
+        <fptr FILEID="alto_00323_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_646.4" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnI4" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.13" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            <area BEGIN="BL_644.14" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-6" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.9" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-7" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.10" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZ7" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.6" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_646.7" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_646.8" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amh" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.20" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            <area BEGIN="BL_644.21" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            <area BEGIN="BL_644.22" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-8" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.11" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-9" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.12" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-5" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.6" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-4" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.5" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-14" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.19" BETYPE="IDREF" FILEID="alto_00322_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b644-17" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_644.23" BETYPE="IDREF" FILEID="alto_00322_1"/>
+            <area BEGIN="BL_645.1" BETYPE="IDREF" FILEID="alto_00323_0"/>
+            <area BEGIN="BL_645.2" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-6" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.7" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-7" BETYPE="IDREF" FILEID="casebody_0322"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.8" BETYPE="IDREF" FILEID="alto_00323_0"/>
+            <area BEGIN="BL_646.1" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

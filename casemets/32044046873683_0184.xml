@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0184" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="The E. H. Fittler">The E. H. FITTLER</name>
+          <docketnumber>Case No. 4,311</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 374</citation>
+          <citation category="parallel" type="bluebook">1 Lowell, 114</citation>
+          <decisiondate>1866-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00188_1" MIMETYPE="image/tiff" CHECKSUM="a6fb6ae16699e3acbc547497bc4977fc" CHECKSUMTYPE="MD5" SIZE="55718">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00188_1.tif"/>
+      </file>
+      <file ID="tiff_00189_0" MIMETYPE="image/tiff" CHECKSUM="7fe32ec2f71e17aa64396808baf628a6" CHECKSUMTYPE="MD5" SIZE="106332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00189_0.tif"/>
+      </file>
+      <file ID="tiff_00189_1" MIMETYPE="image/tiff" CHECKSUM="4be3c2615c862c030c4d87eb108a394b" CHECKSUMTYPE="MD5" SIZE="32130">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00189_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00188_1" MIMETYPE="image/jp2" CHECKSUM="72506e5683192f38d6c04073b74f6819" CHECKSUMTYPE="MD5" SIZE="2373953">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00188_1.jp2"/>
+      </file>
+      <file ID="jp2_00189_0" MIMETYPE="image/jp2" CHECKSUM="a3ab15b39ad18f8cc492378cf56329b7" CHECKSUMTYPE="MD5" SIZE="3684285">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00189_0.jp2"/>
+      </file>
+      <file ID="jp2_00189_1" MIMETYPE="image/jp2" CHECKSUM="fdf7dcea6f662dd0700211a1b9826782" CHECKSUMTYPE="MD5" SIZE="1769941">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00189_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00188_1" MIMETYPE="text/xml" CHECKSUM="2e21cc77df081fb6e898d29673ad7c8c" CHECKSUMTYPE="MD5" SIZE="115567">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00188_1.xml"/>
+      </file>
+      <file ID="alto_00189_0" MIMETYPE="text/xml" CHECKSUM="2337307cb21159e7c392d6140e0a70a6" CHECKSUMTYPE="MD5" SIZE="241987">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00189_0.xml"/>
+      </file>
+      <file ID="alto_00189_1" MIMETYPE="text/xml" CHECKSUM="72b7d3d0de698a17bafc074dbd84f5b2" CHECKSUMTYPE="MD5" SIZE="59080">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00189_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0184" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="376" firstpage="374">
+              <court id="b376-11" pgmap="376">District Court, D. Massachusetts.</court>
+              <docketnumber id="b376-8" pgmap="376">Case No. 4,311.</docketnumber>
+              <citation id="b376-10" pgmap="376">[1 Lowell, 114.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b376-9" pgmap="376">The E. H. FITTLER.</parties>
+              <decisiondate id="AI5" pgmap="376">Sept., 1866.</decisiondate>
+              <attorneys id="b377-3" pgmap="377">J. T. Morse, Jr., for libellants.</attorneys>
+              <attorneys id="b377-4" pgmap="377">J. A. Loring, for claimants.</attorneys>
+              <footnote label="1">
+                <p id="b376-20" pgmap="376">1 [Reported by Hon. John Lowell, LL. D., District Judge, and here reprinted by permis­sion.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b377-5" pgmap="377">LOWELL, District Judge.</author>
+                <p id="AlKg" pgmap="377">This case has been very carefully presented in evidence and argument The question is, what are the re­spective rights and duties of the carrier and the consignees as to the wharf at which goods shall be landed by a general ship? The dicta of Mr. Justice Buller, and the other judges, in Hyde v. Trent &amp; M. Nav. Co., 5 Term R. 889, 397, are cited in all succeeding books as the foundation of the law upon this subject “A ship, trading from one port to another, has not the means of carrying the goods on land; and, according to the established course of trade, a delivery on the usual wharf is such a delivery as will discharge the car­rier.” When the case came up for adjudi­cation in England, however, it was decided in the common pleas, the exchequer chamber, and the house of lords, that the carrier is bound to deliver to the consignee; and, if he intends to rely on a substituted delivery, he must plead that his delivery was according to the practice and custom usually observed in the port or place of delivery. Gatliffe v. Bourne, 4 Bing. N. C. 314, 3 Man. &amp; G. 643, 7 Man. &amp; G. 850. And so is the weight of modern authority. Abb. Shipp. (8th Eng. Ed.) 378; Humphreys v. Reed, 6 Whart. 435; Ostrander v. Brown, 15 Johns. 39; Hemphill v. Chenie, 6 Watts. &amp; S. 62; Wardell v. Mourillyan, 2 Esp. 693; Ang. Carr. § 298 et seq.</p>
+                <p id="b377-6" pgmap="377">It has been recognized as the usage of this and other ports, for the master of a general ship to go to a suitable wharf, and notify the consignees, who then take their goods from the wharf. The Tangier [Case No. 12,265]; Cope v. Cordova, 1 Rawle, 203. So that the general rule is now settled, and it would not require evidence in each case, that such a delivery is sufficient.</p>
+                <p id="b377-7" pgmap="377">But the precise point in this case, namely, what is the usual wharf, and who is to point it out, was not directly involved in these de­cisions or any others, that I have seen.</p>
+                <p id="b377-8" pgmap="377">The libellant offers evidence that, by the usage of this port, the consignees have the right to order the master to go to any com­modious or suitable wharf, and his witnesses concede that, excepting in some particular trades not now involved, if no such order is given, he may choose for himself. This con­cession avoids the effect of a considerable part of the claimant’s evidence, which showed, as do some of the decisions inciden-, tally, that the master of a general ship, with an assorted cargo for several consignees, does not usually, and cannot conveniently, stop to collect the votes of his consignees be­fore proceeding to haul in.</p>
+                <p id="b377-11" pgmap="377">It appeared in evidence that there are many cases, as where the cargo is heavy or perish­able, in which it is of the greatest conse­quence to the consignees whether their goods are landed at one place or another; and, that, generally speaking, it is a matter of no prop­er concern to the master. It appears that masters are in the habit of going to the wharf at which the best terms are offered them in “return wharfage,” as it is called; but as the cargo pays the wharfage, any commis­sion or percentage on its amount ought to be­long to the owners of the cargo; and no court could consider this a valid reason for giving the choice of place to the master. A single consignee ,of a heavy cargo coming coastwise may find his cartage equal in amount to his whole freight Take a cargo of iron rails, ordered by a railway company that has its wharf and track at the north end of the town, is it reasonable that the master should, for the sake of a petty percentage on what the company itself pays, land the cargo at South Boston, where ships may be scarce, and re­turn wharfage high, against the known wish of the owners of the goods ?</p>
+                <p id="b377-12" pgmap="377">This statement of the interests of the par­ties of itself exhibits their rights, at least where there is but one consignee, or where the consignees are unanimous; for it may be safely laid down as a proposition of law, that, as between two points within the port equally convenient for the carrier, he must deliver at that most convenient for the con­signee, if seasonably asked to do so It would be for the carrier to show a usage to the con­trary, and then to establish its reasonable­ness. In the case of one consignee of the whole cargo, having his place of business at the port, and readily accessible, it might be worthy of serious consideration, if the case were now before me, whether the master must not consult with him at all events.</p>
+                <p id="b377-13" pgmap="377">When there are several consignees, the case is different. The master cannot conveniently consult them, and is not bound to do so. Here the evidence shows the course of trade to be, that the majority, that is, those who together pay more than half the freight, have the right to choose the wharf. This is rea­sonable, because it is of no special moment to the minority whether the master or the ma­jority choose a suitable wharf; and it is as convenient and just a mode of ascertaining the majority as any other. The merchants appear to be unanimous about it, that is, that the power of the majority is as great as that of the whole. Some shipmasters, and per­haps one or two merchants, know of no cus­tom at all about the matter, though nearly all the witnesses say that, either by courtesy or by right, the choice in fact usually lies with the consignees of the cargo.</p>
+                <p id="b377-14" pgmap="377(26) 378(31)">It being shown, however, that, in the case of a general ship, this right is often unim­portant, and is waived, and is presumed to be waived unless notice is given; and this whether one person alone, or several togeth­er, constitute the majority, the consignees ought to be careful to give their notice in due season.</p>
+                <p id="b378-3" pgmap="378">This vessel had her agent in Boston, who, in good faith, engaged the berth at Union 'wharf, and the vessel was hauled in, and made fast, and her tug was discharged. I cannot' tell what inconvenience and damage might result to a ship in changing her berth after that period. The libellant should have found the agent or the master earlier. It is not reasonable to expect them to change their arrangements after they have gone so far. What is seasonable notice will depend on the facts of each case. Here it was too late.</p>
+                <p id="b378-4" pgmap="378">It is to be understood that the .usage was not alleged to apply where any peculiar and important convenience to the ship would be promoted by her going to a particular wharf. No point of that sort was in controversy. Li­bel dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="376" ORDERLABEL="374" TYPE="page">
+        <fptr FILEID="tiff_00188_1"/>
+        <fptr FILEID="jp2_00188_1"/>
+        <fptr FILEID="alto_00188_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_376.4" BETYPE="IDREF" FILEID="alto_00188_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="377" ORDERLABEL="375" TYPE="page">
+        <fptr FILEID="tiff_00189_0"/>
+        <fptr FILEID="jp2_00189_0"/>
+        <fptr FILEID="alto_00189_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_377.3" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="378" ORDERLABEL="376" TYPE="page">
+        <fptr FILEID="tiff_00189_1"/>
+        <fptr FILEID="jp2_00189_1"/>
+        <fptr FILEID="alto_00189_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_378.5" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-14" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.17" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            <area BEGIN="BL_378.2" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-8" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.12" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-9" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.13" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-13" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.16" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-11" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.14" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlKg" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.8" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            <area BEGIN="BL_377.9" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-10" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.14" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-11" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.15" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-3" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.6" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-4" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.7" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b376-20" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.25" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-5" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.7" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-4" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.6" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-7" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.11" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-6" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.10" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-12" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.15" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-3" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.5" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AI5" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_376.16" BETYPE="IDREF" FILEID="alto_00188_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-8" BETYPE="IDREF" FILEID="casebody_0184"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.12" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            <area BEGIN="BL_377.13" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

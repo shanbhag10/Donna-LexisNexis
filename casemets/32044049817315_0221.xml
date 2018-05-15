@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0221" publicationstatus="published">
+          <court abbreviation="S.D. Cal." jurisdiction="United States">United States District Court for the Southern District of California</court>
+          <name abbreviation="Jarvis v. The Claiborne">JARVIS v. The CLAIBORNE</name>
+          <docketnumber>Case No. 7,225</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 372</citation>
+          <decisiondate>1808-01-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00187_1" MIMETYPE="image/tiff" CHECKSUM="184af71f7c6a14758626d13f4c10a8d0" CHECKSUMTYPE="MD5" SIZE="91930">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00187_1.tif"/>
+      </file>
+      <file ID="tiff_00188_0" MIMETYPE="image/tiff" CHECKSUM="594490156b6b275bed71070c7665f70b" CHECKSUMTYPE="MD5" SIZE="86814">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00188_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00187_1" MIMETYPE="image/jp2" CHECKSUM="2ff829d3468004e02bc3c60481e1978f" CHECKSUMTYPE="MD5" SIZE="3405596">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00187_1.jp2"/>
+      </file>
+      <file ID="jp2_00188_0" MIMETYPE="image/jp2" CHECKSUM="9254a36ffaeba90f88583fab9934434d" CHECKSUMTYPE="MD5" SIZE="3256569">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00188_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00187_1" MIMETYPE="text/xml" CHECKSUM="45e1475587757657118277d7d67d0591" CHECKSUMTYPE="MD5" SIZE="191886">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00187_1.xml"/>
+      </file>
+      <file ID="alto_00188_0" MIMETYPE="text/xml" CHECKSUM="991ec026365fefe0e34aaa60fbc0fd69" CHECKSUMTYPE="MD5" SIZE="193020">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00188_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0221" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="373" firstpage="372">
+              <court pgmap="374" id="ARu">District Court, D. South Carolina.</court>
+              <docketnumber pgmap="374" id="b374-11">Case No. 7,225.</docketnumber>
+              <parties pgmap="374" id="Anqq">JARVIS v. The CLAIBORNE.</parties>
+              <decisiondate pgmap="374" id="ABiB">Jan. 11, 1808.</decisiondate>
+              <p pgmap="374" id="AeD6">[Bee, 248.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="374" id="b374-23">
+                   [Reported by Hon. Thomas Bee, District Judge.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="374" id="b374-22">BEE, District Judge.</author>
+                <p pgmap="374(150) 375(151)" id="AGfv">Upon a careful con­sideration of the evidence in this case, there appear to have been great faults on both sides. At the time the fray happened, the whole ship’s company seems to have been more or less intoxicated; nothing else could have occasioned the captain and mate to make a ring on board, and permit two men to fight a battle on deck. Such a circum­stance is sufficient to account for the insub­ordination of the crew, who ought rather to have been put in irons until they recovered their sober senses. At any rate nothing could justify Captain Sherwood in drawing a cutlass; much less in using it to inflict a severe wound upon the actor [John Jarvis], especially as he was then in irons. The law justifies moderate correction, and more than that had previously been inflicted by the mate, with his fist: from his apparent strength, the blows must have been severe. But the use of a weapon so deadly as a cut­lass can be justified only by reasonable ap­prehension, or the actual existence of mutiny. Nothing of the sort appears here; the actor is charged only with disobedience of the captain’s order to go forward; and the tu­multuous scene that had so lately occurred on board, under the sanction of the captain himself, might, in a degree, excuse the sail- or’s inattention, and noncompliance. An at­tempt was made to prove that the wound was received by an effort to seize the cut­lass; but the whole account of the transac­tion renders this highly improbable; and the confinement in irons of the actor makes it almost impossible. It appears, indeed, both from tb- evidence and a view of the wound­ed hand, that the actor will lose three of his fingers.</p>
+                <p pgmap="375" id="b375-3">Upon the whole, I consider the captain as highly blamable in every stage of the busi­ness, and I decree accordingly that he pay this sailor one hundred and fifty dollars, with all the expenses of the suit. As to the mate, I shall not adjudge damages against him, as he punished only with his fist. Mod­erate correction is often necessary towards seamen; the fist is generally used for the purpose of inflicting- it; and bad conse­quences seldom follow. I have however, known one instance in which a blow with the fist occasioned death.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="374" ORDERLABEL="372" TYPE="page">
+        <fptr FILEID="tiff_00187_1"/>
+        <fptr FILEID="jp2_00187_1"/>
+        <fptr FILEID="alto_00187_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_374.4" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="375" ORDERLABEL="373" TYPE="page">
+        <fptr FILEID="tiff_00188_0"/>
+        <fptr FILEID="jp2_00188_0"/>
+        <fptr FILEID="alto_00188_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_375.3" BETYPE="IDREF" FILEID="alto_00188_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b375-3" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_375.5" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeD6" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.17" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGfv" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.27" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            <area BEGIN="BL_374.28" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            <area BEGIN="BL_375.1" BETYPE="IDREF" FILEID="alto_00188_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-22" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.26" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-23" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.29" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Anqq" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.16" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARu" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.18" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABiB" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.19" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            <area BEGIN="BL_374.20" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-11" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.15" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

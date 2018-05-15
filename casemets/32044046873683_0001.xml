@@ -1,0 +1,630 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0001" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="In re Duncan">In re DUNCAN et al.</name>
+          <docketnumber>Case No. 4,131</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1</citation>
+          <citation category="parallel" type="bluebook">8 Ben. 365; 14 N. B. R. 18</citation>
+          <decisiondate>1876-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:32Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00002_0" MIMETYPE="image/tiff" CHECKSUM="e6742b520c48ba8a3805b7153b823ffd" CHECKSUMTYPE="MD5" SIZE="10804">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00002_0.tif"/>
+      </file>
+      <file ID="tiff_00002_1" MIMETYPE="image/tiff" CHECKSUM="bc56879d8f9dfd342eed697498b073e1" CHECKSUMTYPE="MD5" SIZE="111190">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00002_1.tif"/>
+      </file>
+      <file ID="tiff_00003_0" MIMETYPE="image/tiff" CHECKSUM="c296920c34e9e1375172db23d40ec696" CHECKSUMTYPE="MD5" SIZE="116654">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00003_0.tif"/>
+      </file>
+      <file ID="tiff_00003_1" MIMETYPE="image/tiff" CHECKSUM="9a6aa9c4ce45ea2b381f3d6f233ca7c9" CHECKSUMTYPE="MD5" SIZE="115692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00003_1.tif"/>
+      </file>
+      <file ID="tiff_00004_0" MIMETYPE="image/tiff" CHECKSUM="41a6a6f58f9091e30a05e3f9d0947647" CHECKSUMTYPE="MD5" SIZE="114162">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00004_0.tif"/>
+      </file>
+      <file ID="tiff_00004_1" MIMETYPE="image/tiff" CHECKSUM="afad1ca9373fceee953bdb34ed8094c2" CHECKSUMTYPE="MD5" SIZE="113414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00004_1.tif"/>
+      </file>
+      <file ID="tiff_00005_0" MIMETYPE="image/tiff" CHECKSUM="e738c19599bfeb6f14196b5e8df8b6e2" CHECKSUMTYPE="MD5" SIZE="110316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00005_0.tif"/>
+      </file>
+      <file ID="tiff_00005_1" MIMETYPE="image/tiff" CHECKSUM="f98dd1184269824fea6e633df92167e8" CHECKSUMTYPE="MD5" SIZE="32648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00005_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00002_0" MIMETYPE="image/jp2" CHECKSUM="57d5a45939850b76dd238d720945cee3" CHECKSUMTYPE="MD5" SIZE="1642408">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00002_0.jp2"/>
+      </file>
+      <file ID="jp2_00002_1" MIMETYPE="image/jp2" CHECKSUM="a8fda473698cf443ebcadcfa853fba9f" CHECKSUMTYPE="MD5" SIZE="3734715">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00002_1.jp2"/>
+      </file>
+      <file ID="jp2_00003_0" MIMETYPE="image/jp2" CHECKSUM="b48bfb64bdf7210fd725fcfbd1281511" CHECKSUMTYPE="MD5" SIZE="4101310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00003_0.jp2"/>
+      </file>
+      <file ID="jp2_00003_1" MIMETYPE="image/jp2" CHECKSUM="175f4425e2fb2cf4828ce0d63b3444ea" CHECKSUMTYPE="MD5" SIZE="3818013">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00003_1.jp2"/>
+      </file>
+      <file ID="jp2_00004_0" MIMETYPE="image/jp2" CHECKSUM="e1448cdd6e6eaacd9f3a7c21f2f841a7" CHECKSUMTYPE="MD5" SIZE="4262864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00004_0.jp2"/>
+      </file>
+      <file ID="jp2_00004_1" MIMETYPE="image/jp2" CHECKSUM="a174c06cebbe12869f229f6a3d7e9552" CHECKSUMTYPE="MD5" SIZE="3781804">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00004_1.jp2"/>
+      </file>
+      <file ID="jp2_00005_0" MIMETYPE="image/jp2" CHECKSUM="1da4545dd23934acb67593b762b15780" CHECKSUMTYPE="MD5" SIZE="3773430">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00005_0.jp2"/>
+      </file>
+      <file ID="jp2_00005_1" MIMETYPE="image/jp2" CHECKSUM="9bfa88894a72e53ab304de521236211e" CHECKSUMTYPE="MD5" SIZE="1844294">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00005_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00002_0" MIMETYPE="text/xml" CHECKSUM="97242b7c09d518d9a228edcc79d6aaec" CHECKSUMTYPE="MD5" SIZE="12206">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00002_0.xml"/>
+      </file>
+      <file ID="alto_00002_1" MIMETYPE="text/xml" CHECKSUM="4e3943d1531bd622c3c82d069c528f32" CHECKSUMTYPE="MD5" SIZE="231865">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00002_1.xml"/>
+      </file>
+      <file ID="alto_00003_0" MIMETYPE="text/xml" CHECKSUM="c82080f7e687846d4155cde2fa841d6b" CHECKSUMTYPE="MD5" SIZE="244096">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00003_0.xml"/>
+      </file>
+      <file ID="alto_00003_1" MIMETYPE="text/xml" CHECKSUM="396797c9d9baf0fc571dbf2b9f87d152" CHECKSUMTYPE="MD5" SIZE="248713">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00003_1.xml"/>
+      </file>
+      <file ID="alto_00004_0" MIMETYPE="text/xml" CHECKSUM="5780972372463a1a350527923417ae01" CHECKSUMTYPE="MD5" SIZE="238275">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00004_0.xml"/>
+      </file>
+      <file ID="alto_00004_1" MIMETYPE="text/xml" CHECKSUM="6ac4bd572cd8985e42711af65e83ec86" CHECKSUMTYPE="MD5" SIZE="236920">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00004_1.xml"/>
+      </file>
+      <file ID="alto_00005_0" MIMETYPE="text/xml" CHECKSUM="107b103626bc4781e87c344f044c86b5" CHECKSUMTYPE="MD5" SIZE="243625">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00005_0.xml"/>
+      </file>
+      <file ID="alto_00005_1" MIMETYPE="text/xml" CHECKSUM="7ad6e7a3c6000e8f0aa5eba2cf37c5fb" CHECKSUMTYPE="MD5" SIZE="63970">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00005_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0001" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="8" firstpage="1">
+              <court id="b3-8" pgmap="3">District Court, S. D. New York.</court>
+              <docketnumber id="b3-5" pgmap="3">Case No. 4,131.</docketnumber>
+              <citation id="b3-7" pgmap="3">[8 Ben. 365;<footnotemark>1</footnotemark> 14 N. B. R. 18.]</citation>
+              <parties id="b3-6" pgmap="3">In re DUNCAN et al.</parties>
+              <decisiondate id="AV" pgmap="3">Feb. 1876.</decisiondate>
+              <attorneys id="b4-3" pgmap="4">Field &amp; Deyo, Abbott &amp; Wilds, D. D. Lord and E. L. Andrews, for applicants.</attorneys>
+              <attorneys id="b4-4" pgmap="4">F. N. Bangs, J. H. Choate, and Carter &amp; Eaton, in opposition.</attorneys>
+              <footnote label="1">
+                <p id="b3-13" pgmap="3">
+                  <footnotemark>1</footnotemark> [Reported by Robert D. Benedict. Esq., and Beni. Lincoln Benedict, Esq., and here reprint­ed by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b4-5" pgmap="4">BLATCHFORD, District Judge.</author>
+                <p id="AC" pgmap="4">In this case, on the ISth of December, 1S70, a peti­tion in involuntary bankruptcy was present­ed to and filed in this court, praying that William Butler Duncan, William Watts .Sherman and Francis H. Grain, copart-­ners under the firm name of Duncan, .Sher­man &amp; Co., be adjudged bankrupts. The pe­tition purported to be the petition of 205 creditors. It set forth the claims of those creditors, and was signed by them. It was properly verified. It averred that the debtors resided in the city of New York, and had carried on business in this district for more than six months next preceding the date of-filing the petition; that the demands of the petitioners were provable in accord­ance with the provisions of the Revised Stat­utes and the several amendments thereof; that the petitioners believed that the debtors, as such copartners, owed debts to an amount exceeding the sum of $300; that the petition­ers’ demands each exceeded the amount of $250; that the petitioners constituted one- &gt; fourth at least in number of all the creditors of the debtors, as such copartners, whose debts exceeded $250; and that the aggregate of the petitioners’ debts provable under the j said Revised Statutes, and the said several ' amendments thereof, amounted to at least one-third of all the debts so provable against said debtors, as such copartners. It averred properly acts of bankruptcy, and was ac­companied by depositions as to such acts, and by depositions as to the claims of the first five signers of the petition. It was also accompanied by a paper signed and acknowl­edged by the three debtors, in which they stated that, “upon the filing of the petition,” they “severally appear in person and admit that the requisite number and amount of their creditors have petitioned for an adju­dication of bankruptcy against them heroin; and waive service of a copy of the petition and of the order to show cause herein, and admit that they committed the acts of bank­ruptcy alleged in said petition and consent to the entry of said order of adjudication.” It was further accompanied by an affidavit made by Walter S. Carter, one of the attor­neys for the petitioning creditors, setting forth, “that he has examined the statement of debts of said alleged bankrupts, and that the total number of creditors of said alleged bankrupts whose claims exceed $250 does not exceed 786, and that the aggregate of all the debts of said alleg­ed bankrupts, provable under the Revised Statutes of Ihe United States, title 01. ‘Bank­ruptcy,’ and the several amendments and supplements thereof, does not exceed the amount of $3.400.0oo; that the number of creditors whose debts exceed the amount of $250, uniting in the petition herein, is 205, the aggregate of whose debts provable under said Revised Statutes, and said several amendments and supplements thereof, amounts to $2,168,142.49.” On the presenta­tion and filing of these papers, the court made an order, on the Sth of December, 1S75, in these words: “Upon reading and filing the foregoing admission, also the affidavit of Walter S. Carter, and the court being satis­fied that said admission was made in good faith, it is hereby adjudged, that the requi­site number and amount of the creditors of the said William Butler Duncan, William Watts Sherman and Francis H. Grain, co-­partners under the firm name of Duncan, Sherman &amp; Co., have petitioned for an adju­dication of bankruptcy against them, in the above-entitled matter, and that the same pro­ceed without further steps on that subject.” Thereupon, on the same day, on the forego­ing appearance in person and consent of the debtors, an order of adjudication in bank­ruptcy, in due form, was entered and filed.</p>
+                <p id="b4-7" pgmap="4">Certain creditors of the bankrupts, six in number, had, prior to the filing of the peti­tion in bankruptcy, obtained judgments against them, as copartners, in a court of the state, and three of those six had, prior to the filing of such petition, brought what are known as creditors' suits, in a court of the state, founded on such judgments, to reach assets alleged to have been transferred by the debtors in fraud of creditors. One oth­er of the six had, prior to the filing of the petition in bankruptcy, made a levy under an execution issued on his judgment, on property alleged by him to be liable to such levy. Seven other creditors have recovered judgments against the debtors, as copart-­ners, in a court of the state, since the petition in bankruptcy was filed. On the 24th of De­cember, 1S75, this court, on the petition of the bankrupts, made an order staying the suits brought by the said thirteen creditors until the question of the discharge of the debtors shall have been determined, and staying the issuing of execution on the judg­ments, and further proceedings on execu­tions issued. The creditors so stayed now present a petition to the court, praying that the adjudication of bankruptcy, and all the proceedings thereunder, be adjudged void and revoked.</p>
+                <p id="b4-8" pgmap="4">One ground urged for setting aside the ad­judication is. that the petition for adjudica­tion, and the papers which accompanied it, do not show that the petition is the petition of creditors to one-third of the amount of the debts, but show that it is not the petition of creditors to one-third of the amount of the debts. Another ground urged is. that it may now be shown, by evidence aliunde the pa­pers which were before the court when the adjudication was made, that one-third in amount of the creditors did not unite in the petition, and that sm-li fact has been shown.</p>
+                <p id="b4-9" pgmap="4(10) 5(516)">The 12th section of the act of Juno 22, 1S74 (18 Stat 180), in amendment of the 30th sec-' tion of the act of March 2,1807 (13 Stat 530), provides that any person residing within the .jurisdiction of the United States, and owing provable debts exceeding the amount of'$300, who shall commit any one of certain spec­ified acts, “shall be deemed to have commit­ted an act of bankruptcy, and. subject to' the ■ conditions hereinafter prescribed, shall be ad­judged a bankrupt on the petition of one or more of his creditors, who shall constitute one-fourth thereof, at least, in number, and the aggregate of whose debts provable under this act amounts to at least one-third of the ■debts so provable;” and that “the court shall, if such allegation as to the number or amount -of petitioning creditors be denied by the debtor, by a statement in writing to that -effect, require him to file in court forthwith -a full list of creditors, with their places of .residence and the sums due them respective­ly, and shall ascertain, upon reasonable no­-tice to the creditors,' whether one-fourth in ■ ■number and one-third in amount thereof, as aforesaid, have petitioned that the debtor be •adjudged a bankrupt" The section then pro­ceeds: “But if such debtor shall, on the filing ■of the petition, admit in writing that the req­uisite number and amount of creditors have ^petitioned, the court if satisfied that the ad­mission was made in good faith, shall so ad­judge, which judgment shall be final, and •the matter proceed without further steps on that subject. And if it shall appear that .such number and amount have not so peti­tioned, the court shall grant reasonable time, not exceeding, in cases heretofore commen­ced, twenty days, and, in cases hereafter ■commenced, ten days, within which other creditors may join in such petition. And if, at the expiration of such time so limited, the number and amount shall comply with the requirements of this section, the matter of bankruptcy may proceed; but if, at the expi-' ration of such limited time, such number and amount shall not answer the requirements -of this section, the proceedings shall be dis­missed, and, in cases hereafter commenced, with costs.” The 13th section of the act of 1874, in amendment of the 40th section of the act of 1SG7 [14 Stat. 517], provides as follows: :“And if, on the return day of the order to show cause as aforesaid, the court shall be ■satisfied that the requirement of section thir­ty-nine of said act, as to the number and ■amount of petitioning creditors, has been complied with, or if, within the time provid­ed for in section thirty-nine of this act, cred­itors sufficient in number and amount shall : sign such petition so as to make a total of -one-fourth in number of the creditors and -one-third in the amount of the provable debts .against the bankrupt, as provided in said section, the court shall so adjudge, which judgment shall be final; otherwise, it shall dismiss the proceedings, and, in cases' here- ; .after commenced, with-costs.”</p>
+                <p id="b5-4" pgmap="5(547) 6(500)">A careful examination of these provisions i shows that congress intended that certain prescribed steps shall be taken to ascertain whether the petition presented is the pe­tition of one or more creditors who consti­tute one-fourth, at least, of the creditors, in number, and whether the aggregate of the debts of the petitioning creditors prov­able under the act amounts to at least one-­third of the debts so provable. In the first place, the petition must allege that fact That fact is alleged in the petition in this case. If such allegation is denied by the debtor, either as to number or amount, in writing, the court is required to ascertain, on notice to the creditors, whether one-fourth in number and one-third in amount as afore­said, have petitioned. If they have not, time is to be given for others to join. If the re­quired number join, the matter is to proceed. If not, the proceedings are to be dismissed. If, on the return day of the order to show cause, the court is satisfied that the require­ment of the act as to the number and amount •of the petitioning creditors has been com­plied with, or if, within the time allowed, creditors sufficient in number and amount sign the petition, to answer such require­ment, the court is required to “so adjudge,” and it is declared that such “judgment shall be final.” The foregoing provisions cover the cases where the debtor appears and de­nies the allegation in question, and the cases where he appears and makes no denial of it, and the cases where he does not appear at • all, but makes default But there remains another class of cases. The foregoing three classes are cases of action on the return day of the order to show cause. The remaining ■class comprises cases where the debtor, on the •filing of the petition, and without awaiting -the issuing and service of an order to show ■cause, admits in writing that the requisite number and amount of creditors have peti­tioned. If he does, the court, if satisfied that the admission is made in good faith, is re­quired to “so adjudge,” and it is declared that such “judgment shall be final,” and that the matter shall “proceed without further steps on that subject.” It was under this latter provision that the proceedings in this case were taken. The debtor is clearly in­vited by the statute to make such admission, if the admission can be made in good faith, and he is'invited to do so on the filing of the petition, and before the order to show cause is issued or can be served, and when he can be advised of the existence-of the petition only by information communicated to him otherwise than in the due course of a legal proceeding. If, on the making of the admis­sion. the court is satisfied that the admission :is made in good faith, the court is required to “so adjudge,” that is, to adjudge “that the requisite number and amount of creditors have petitioned;” and it is enacted that sueh judgment shall be final, and that the matter shall proceed without further steps on that subject.- The requirement in regard to so -ad­judging is the same in respect to the three classes of cases of action on the return day of the order to show cause, and the finality of the judgment is declared in the same terms. The admission in this case and the judgment thereon were in due form. No question is raised on that subject. What, then, is the effect of the statute? The court is authorized to find a fact, to be satisfied of the existence of a fact, by evidence placed before it, either a sworn allegation in the pe­tition, not denied by the debtor on the re­turn of the order to show cause, or evidence that added creditors, coming in after a de­nial by the debtor on such return, malee up the requisite number and amount, or an ad­mission by the debtor made in writing on the • filing of the petition, if the court be satisfied that such admission is made in good faith. If the court finds such fact, it is to adjudge that the fact exists, and that judgment is de­clared to be final, and it is enacted that the matter in bankruptcy shall proceed without further steps on that subject. These provi­sions are significant and indicate that some effective meaning must be attached to the ■ word “final.” It is to be the end of all inquiry on the point as to whether the required num­ber and amount of creditors have petitioned. There are to be no further steps on that sub­ject. If the debtor denies the allegation, on the return of the order to show cause, and files a list of his creditors, and the court, on notice to the creditors and on evidence ob­tained by an investigation, determines that the required number and amount of credit­ors have not petitioned, and then allows time ' ■for others to join, and they do join and sign the petition, and then the court determines and adjudges that,.with those so joining, the . •required number have petitioned, that judg-' ment is to be final, and it is not to be permit­ted either to the debtor or to any creditor thereafter to come in and show that the court erred, and that the fact was otherwise. So, of a like judgment on a failure of the debtor to deny, on the return of the order to show cause, the allegation of the petition as to the number and amount of creditors; and so, of a like judgment, on an admission by the debtor, on the filing of the petition, that tlie &gt; requisite number and amount of creditors have petitioned. Unless this be so, there is no necessary limit to the number of times the court may be required to re-examine the question thus declared to be finally adjudg­ed. I speak now of an allegation merely that the court in fact erred, and not of an allega­tion of fraud or bad faith.</p>
+                <p id="b6-3" pgmap="6">These provisions show that the judgment' is final not only as respects the debtor, but as respects all his creditors. It is final as respects his estate and all interested in it. It is in the nature of a judgment in rem in respect to the matter adjudged by it. These provisions further show that the requirement of the statute that the petition shall be the petition of one-fourth in number and one-­third in amount of the creditors, is not a ju­risdictional point, or a quasi jurisdictional point, in such wise that, when there is a proper allegation in the petition as to the number and amount of creditors, and when there is a judgment of the court that such allegation is true, the fact can be re-exam­ined, either by the court which rendered the judgment, or in a collateral proceeding, un­less fraud be alleged and proved. The ob­servations of Judge Lowell, in Ex parte Jew-­ett [Case No. 7,303] seem to me to be entirely sound. He says: “I cannot admit that the number and amount of petitioners have any­thing to do with the jurisdiction of the court. Congress has very carefully provided, that a want of parties shall be taken advantage of as a strictly dilatory plea, and be disposed of in a summary way, not for the purpose of ascertaining the jurisdiction of the court, but the sufficiency of the plaintiff’s petition, which is a very different thing. If the court should decide wrongly on that point, its de­cision would bind all the world. The dis­trict court has jurisdiction in bankruptcy of every person residing within the district, who owes three hundred dollars of provable debts; and, when a paper which purports to be a petition in bankruptcy, and which al­leges such residence and indebtedness, is filed, and an order of notice has been duly served, there is and can be no jurisdictional fact remaining, if the residence and indebt­edness to the extent of three hundred dollars are admitted. The court may then proceed to allow or refuse amendments, or do any­thing else proper for a court to do that has undoubted jurisdiction of the subject matter and the parties.” In that case, the petition was one in involuntary bankruptcy, and there had been no adjudication; but a reso­lution for a composition had been passed. It was objected that the petition was fatally defective, and gave no jurisdiction to tlio court, so that a case in bankruptcy could be said to be pending, because it averred that the petitioning creditors constituted the req­uisite number and amount of the creditors of one of the petitioning creditors instead of the person proceeded against The court, while of opinion that no amendment was necessa­ry, granted a motion to amend in the above particular.</p>
+                <p id="b6-6" pgmap="6(113) 7(152)">In the present case, the petition contains all the necessary jurisdictional allegations, and the further allegation that the petition­ers constitute one-fourth, at least, in number, of all the creditors of the debtors, as co-­partners in business in the city of New York, under the firm name of Duncan, Sherman &amp; Co., whose debts exceed $250, and that the aggregate of the petitioners’ debts, provable under the statute, amounts to at least one-­third of all the debts so provable against the debtors as such copartners. It then pro­ceeds to set out the natures and amounts of the several claims of the petitioning cred­itors. It nowhere appears, in the petition. what is the total number of all the creditors of the debtors whose debts exceed $250, or what is the total amount of the debts prov­able against the debtors, so that, the court can say, on inspecting the petition, and com­paring the number of petitioning creditors with any total number, or the aggregate' of the debts set forth as debts due to the peti­tioning creditors with any total -amount of provable debts, that the requisite number and amount of creditors have not petitioned. There is an allegation in the petition that they have. Hence, such allegation cannot be regarded as being overborne or controlled by any conflicting. facts appearing on the face of the petition. This observation ap­plies to the error, manifestly clerical, in omitting to All in the amounts of the debts in three instances, and to the statement of the claim of Baring Brothers &amp; Co.</p>
+                <p id="b7-4" pgmap="7">As to any facts set forth in the affidavit of Walter S. Carter, presented to the court with the petition, to satisfy, the court that the ad­mission of the debtors was made in good faith, such affidavit was no part of the peti­tion. The court received it as evidence of the good faith of the admission, and acted upon it, and thereupon, upon it and upon the petition, adjudged that the requisite number and amount had petitioned. Any inquiry now into the truth of the facts set forth in such affidavit, or any re-examination of the fact adjudged by the court, is forbidden, as before shown, unless fraud or bad faith be alleged.</p>
+                <p id="b7-5" pgmap="7">As to fraud or bad faith, there is not the slightest evidence that the petitioning cred­itors, or any of them, in signing the petition containing the allegations it does, did not, in good faith, believe those allegations to be true, or were parties to any fraud or impo­sition, in respect of any of such allegations. Nor is there any evidence that the debtors, in signing the admission they did, practised any fraud or imposition, or acted in bad faith; nor that Mr. Carter did so, in making the statements contained in his affidavit. Moreover, if I were now to entertain the for­bidden inquiry as to whether the petitioning creditors did, when the petition was filed, constitute the requisite number and amount, the burden of proof, after an adjudication made on a petition regular on its face, would be on those who apply to set aside the adjudication; and, on the evidence now ad­duced on the question, I could not hesitate to say that the applicants had failed to make out that the petitioning creditors were not sufficient in number and amount</p>
+                <p id="b7-6" pgmap="7">The adjudication is further attacked on the ground of what is called “collusion” by the debtors. This collusion is alleged to con­sist in the fact that the debtors gave their aid and assistance to the signing, presenting and filing of the petition filed against them, and followed that up by making the written admission and waiver of service of the order to show cause, before set forth. They so­licited some of their creditors to join in the petition against them, and they sent a cir­cular note signed by themselves to others of their creditors, saying that “a movement is now on foot among some of our leading creditors to put us into involuntary bank­ruptcy, and we feel assured that this course will realize the most to our creditors, and be the best for all concerned,” and asking for the signature of the creditor to an ap­pended paper, authorizing the attorneys who represent the petitioning creditors in these proceedings to sign the creditor’s name to a petition in bankruptcy against the debtors. It is alleged that the debtors thus favored, instead- of resisting, what is, under the stat­ute, a hostile proceeding, and thus made it ostensibly hostile when it was really not hostile; that what the debtors ought to have done was, to file a petition in voluntary bank­ruptcy; that, under this involuntary peti­tion, they will, if otherwise entitled to a dis­charge, be enabled to procure it without paying the proportion of their debts, or ob­taining the assent of creditors, required in respect of proceedings under a voluntary pe­tition; and that they ought not to be allow­ed to obtain, by promoting the involuntary proceedings, an advantage which they would not have enjoyed if they had filed a volun­tary petition.</p>
+                <p id="b7-8" pgmap="7(285) 8(590)">No creditor who joined in the involuntary petition appears, to make any complaint in respect of any matter. The creditors who joined in it have rights which the court is bound to consider. They took these proceed­ings, as is very apparent, for the purpose of securing, as far as possible, an equal distri­bution of the property of the debtors among all their unsecured creditors, and for the pur­pose of preventing any more creditors be­sides those who might, by the proceedings in the state courts, have already acquired liens or rights of preference, from acquiring liens or rights of preference by proceedings in the state courts. This was a lawful motive and a lawful result. It is one of the results aim­ed at by the bankruptcy statute. Creditors who desire to secure such result, secure it by the mere filing of the proper petition in in­voluntary bankruptcy, if it be followed by an adjudication. No injunction to restrain such proceedings in the state courts is neces­sary, to make the filing of the petition ef­fective to prevent after-acquired liens or rights of preference from attaching. If such injunction is desirable to prevent embarrass­ment in the future from such proceedings, it is granted on the application of the petition­ing creditors as well as on the application of the bankrupts. U. S. v. Bancroft [Case No. 14,513]; In re Ulrich [Id. 14,328]; In re Clark [Id. 2,801]. The petitioning creditors in this case manifestly concurred and concur in the view expressed in the circular note of the debtors, that the administration of the estate of the debtors in bankruptcy would realize the most to their, creditors, and be the best for all concerned, both creditors and debtors. The estate might be brought into the bankruptcy court by involuntary proceed­ings, or by a voluntary petition by the debt­ors. The creditors could not compel the debtors to file a voluntary petition. All that the creditors could do to secure their own in­terests, in respect of bankruptcy proceedings, was to combine and unite in a petition in in­voluntary bankruptcy, to the requisite num­ber and'value. It was deemed by them im­portant and necessary that they should do so, for the ends before stated. If they could secure' the co-operation of their debtors, not only in not resisting the petition, but in in­ducing, by lawful means, creditors to join in the petition, and in making the written admission invited by the statute, as to the requisite- number and amount of creditors, and in appearing and waiving service of no-­feice and consenting to an adjudication, as invited by sections 40 and 41 of the act of 1SG7 (now sections 5025 and 5026 of the Re­vised Statutes), such action of the debtors cannot, without an entire abrogation of the provisions of the statute, be held to be un­lawful. It is not alleged or shown that the debtors or any creditor influenced the action of any creditor in respect of uniting in the involuntary petition, by any pecuniary con­sideration or obligation, within the purview of section 5110 of the Revised Statutes. The fact that, as an incident of the involuntary proceedings, the debtors will, if otherwise entitled to a discharge, be enabled to secure it without paying any percentage of their debts or obtaining the assent of any of their creditors, is no valid objection to an adjudi­cation in involuntary bankruptcy shown to have been aided by the debtors in the man­ner in which such aid was given in the pres­ent case. As pointed out by me in Re Scull [Case No. 12,568], the provision of the stat­ute, that, in cases of involuntary bankruptcy, the bankrupt may receive a discharge, if oth­erwise entitled thereto, without paying any proportion of his debts, and without procur­ing the assent of any portion of his creditors, as a condition of his discharge, while, in cases of voluntary bankruptcy, no discharge can be granted to a debtor whose assets are not equal to 30 per centum of the claims proved against his estate, upon which he is liable as principal debtor, without the assent of at least one-fourth of his creditors in num­ber and one-third in value, is based on the view, that, if one-fourth in number and one-third in value of the creditors petition in involuntary bankruptcy,- they shall be regarded, under the provisions of the statute, as assenting to the discharge of the bankrupt, in like man­ner as one-fourtli in number and one-third in value assent in voluntary bankruptcy. This view is concurred in by Judge Lowell, in Re Wilson [Case No. 17.784). As the debt- or is express]?- allowed by the statute to pro­cure, by lawful solicitation from his cred­itors, their affirmative assent to his dis­charge, in proceedings in voluntary bank­ruptcy, no reasonable objection can exist to-­his procuring from them, by lawful solicita­tion, their implied assent to his discharge, in proceedings in involuntary bankruptcy, by procuring, by lawful solicitation, their signa­tures to the petition in involuntary bankrupt­cy, if such creditors deem it for their interest to institute proceedings in involuntary bank­ruptcy.</p>
+                <p id="b8-5" pgmap="8">I do not perceive that Mr. Elliot was a partner who should have been joined in the-­proceedings.</p>
+                <p id="b8-6" pgmap="8">As to the suggestion that certain convey­ances, transfers and assignments, and a gen­eral assignment by the bankrupts, all made more than four months before the petition in bankruptcy was filed, could have been set aside by the assignee in bankruptcy as being in fraud of the bankruptcy statute, if the bankrupts had filed a voluntary petition within the time limited by the 35th section of the act of 1807 (now sections 5128 and 5129 of the Revised Statutes), as modified by section 10 of the act of 1874, after the transactions occurred, it is a sufficient an­swer to say, that the observation is equally true of the failure of creditors to file an in­voluntary petition within the time so lim­ited, as the limitation in the statute is ex­pressly applied to one and the same period before the filing of a petition against the debtor and before the filing of a petition by him. But the fact that both the creditors and the debtors failed to file any petition in bankruptcy until the one now under consid­eration was filed, and that thus certain trans­fers which might have been attacked as in fraud of the bankruptcy statute, cannot now be attacked, can in no manner bear on the question of the validity of the present pro­ceedings in bankruptcy. Creditors were the persons most concerned in setting aside, un­der bankruptcy proceedings, transactions which could be set aside as in violation of the bankruptcy statute, and could not other­wise be set aside, and, if they did not choose to avail themselves of opportunities which the bankruptcy statute would have afforded in case they or the debtors had filed a peti­tion in bankruptcy at an earlier day, that fact can be no objection to the filing of the present petition, with the other advantages to grow out of it, that are accorded by the statute to creditors and debtors.</p>
+                <p id="b8-7" pgmap="8(96) 9(943)">It is alleged that certain conveyances, transfers and assignments made by one or more or all of the debtors prior to the filing of the petition, were, because of certain ir­regularities, defects and unlawful intents, void and of no effect, as having been made with intent to delay, defraud or hinder the creditors of the debtors, and for other rea­sons. and it is claimed that this court ought to allow the creditors who have commenced proceedings in the state courts to set aside such conveyances, transfers and assign­ments, to prosecute further such proceedings. Among other things, it is contended that the power and the right of an assignee in bank­ruptcy will not extend to the setting aside of the instruments in question. The suffi­cient reply to this suggestion is, that, so far as any property was the property of the bankrupts when the petition was filed, for the reason that the title to it had not passed out of the bankrupts by conveyances proper and adequate in form to convey it, it vests in their assignee when appointed, and he can collect it as assets; and that, so far as any property has been conveyed by the bank­rupts in fraud of their creditors, such prop­erty, by section 504G of the Revised Statutes, vests in the assignee in bankruptcy, and he can recover it by a suit to set aside the fraudulent conveyances. If it be necessary that the assignee in bankruptcy should in such a suit be shown to represent a cred­itor who had, before the petition in bank­ruptcy was filed and before the title of such assignee accrued, acquired a specific lien upon the property fraudulently conveyed, on the ground that such assignee cannot set' aside a conveyance which a creditor could not set aside, and that, under the laws of New York, a creditor must have acquired a specific lien upon property fraudulently conveyed by his debtor, in order to entitle him to maintain a suit to set aside the con­veyance, it is manifest, that if, when the petition in bankruptcy was filed, there was a creditor occupying such a position, the as-­signee represents such creditor, and can main­tain any suit which such creditor could maintain; and that if, when the petition in bankruptcy was filed, there was no such creditor, no creditor can, after the filing of the petition in bankruptcy, acquire any such lien on property, as the property of the bankrupt, as against the assignee in bank­ruptcy and the general creditors represented by him. The consideration, that no creditor can acquire a lien on the property of a bank­rupt after the filing of a petition in bank­ruptcy, and that it may be that there was no creditor having a lien when the petition was filed, would seem to indicate, that, to hold that an assignee in bankruptcy can­not, under the provision of the statute which declares that “all the property conveyed by the bankrupt in fraud of his creditors” “shir, in virtue of the adjudication in bankruptcy and the appointment of his assignee,” “be at once vested in such assignee,” recover the property thus declared to be vested in him, unless there was a creditor having a lien when the petition was filed, would entirely render nugatory such provision of the stat­ute. in many cases. Whatever authority may be found in Re Collins [Case No. 3.007], for so holding, would seem to bo a departure from what was done in Sedgwick v. Place [Id. 12,621], and in Beecher v. Clark [Id. 1.223], and to be in conflict with the cases of Allen v. Massey [Id. 231], In re Wynne [Id. 18,117], and Bank of Leavenworth v. Hunt, 11 Wall. [78 U. S.] 391, and with the deci­sion of Judge Woodruff, holding the circuit court for this district, in Re Leland [Case No. 8,234], But, however this may be, whatever lien any creditor had acquired before the petition in bankruptcy was filed, of such a character as to place him in a condition, at that time, to enforce, by a suit, the setting aside of a conveyance fraudulent as to creditors, or whatever lion he had at that time acquired by bringing any such suit, is preserved by the bankruptcy statute and will be respected and enforced by the bankruptcy court, which acts as much for secured creditors as for unsecured creditors; but it belongs to that court to adjudicate as to all such liens, and it has power to re­strain all interference, by suit or otherwise, by individual creditors, with property which, if it be property that was, before the fil­ing of the petition in bankruptcy, trans­ferred by the debtor in fraud of his creditors, is declared by the statute to be property that vests in the assignee. In re Grinnell, [Id. 5,830]; In re Rosenberg [Id. 12,054]; In re Clark [Id. 2,801]; U. S. v. Bancroft [su­pra]; In re Ulrich [supra]. And, in this con­nection, it may be observed, that what is vested by the statute in the assignee in bank­ruptcy is all the property conveyed by the bankrupt in fraud of his creditors, and not merely such right of action, in respect of such property, as the bankrupt had, or as any creditor had, when the petition in bank­ruptcy was filed; and that, as the filing of such petition prevents the after attachment of liens on such property, as against the as-­signee and the creditors of the estate, it is not only proper but necessary to regard the vesting of the assignee with the title to such property, as giving him a right to recover and reduce to possession his own property, and as displacing any requirement which otherwise might exist, that he shall repre­sent a creditor who was, at the time the pe­tition was filed, clothed with legal process against the property, because the title to property is a broader interest than a lien on property, and the existence of such title satisfies every principle upon which the ex­istence of a lien or of legal process has been held to be requisite.</p>
+                <p id="b9-5" pgmap="9">In the present case the suits already brought and those desired to be brought in the state court are numerous, and the case is one in which it is proper to continue the injunctions and stays granted until an as-­signee in bankruptcy is appointed and can have an opportunity, on behalf of the cred­itors, to examine into the matters relating to the estate of the bankrupts, and deter­mine what action he will take in respect to the property which it is alleged was trans­ferred in fraud of creditors or was the prop­erty of the bankrupts when the petition in bankruptcy was filed.</p>
+                <p id="b9-6" pgmap="9(13) 10(20)">As to the examination of the bankrupts in the bankruptcy proceedings, the provisions of section 50SG of the Revised Statutes are ample to allow creditors to obtain an- exam­ination of the bankrupts.</p>
+                <p id="b10-3" pgmap="10">[The Case of Mrs. Perrero (unreported) is governed by the decision of this court in Re Rosenberg [Case No. 12,054]. Her suit is really to recover the money she paid to the bankrupts on purchasing a bill of exchange, and is a provable debt, although it will not be dischargeable if it shall be shown to have been created by fraud. Such a suit and all •proceedings, in it are to be stayed, on the application of the bankrupts, until the ques­tion of their discharge is determined.]<footnotemark>2</footnotemark>
+                </p>
+                <p id="b10-4" pgmap="10">1 have intended to cover all the questions raised in the voluminous papers and exhaust­ive briefs in this case and have considered them all, even though I may have failed to discuss some of them as fully as others. It results that all the applications must be de­nied, except that of the petitioning creditors, to continue in force, on their behalf, as against the persons heretofore enjoined on the application of the bankrupts, the injunc­tions so granted, and to restrain such per­sons from interfering with any property of the bankrupts, or any property which, by operation of law, will pass to their assignee in bankruptcy when appointed.</p>
+                <footnote label="2">
+                  <p id="b10-15" pgmap="10">2 [From 14 N. B. R. 18.]</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="3" ORDERLABEL="1" TYPE="page">
+        <fptr FILEID="tiff_00002_0"/>
+        <fptr FILEID="jp2_00002_0"/>
+        <fptr FILEID="alto_00002_0"/>
+      </div>
+      <div ORDER="4" ORDERLABEL="2" TYPE="page">
+        <fptr FILEID="tiff_00002_1"/>
+        <fptr FILEID="jp2_00002_1"/>
+        <fptr FILEID="alto_00002_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_4.3" BETYPE="IDREF" FILEID="alto_00002_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="5" ORDERLABEL="3" TYPE="page">
+        <fptr FILEID="tiff_00003_0"/>
+        <fptr FILEID="jp2_00003_0"/>
+        <fptr FILEID="alto_00003_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_5.3" BETYPE="IDREF" FILEID="alto_00003_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="6" ORDERLABEL="4" TYPE="page">
+        <fptr FILEID="tiff_00003_1"/>
+        <fptr FILEID="jp2_00003_1"/>
+        <fptr FILEID="alto_00003_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_6.4" BETYPE="IDREF" FILEID="alto_00003_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="7" ORDERLABEL="5" TYPE="page">
+        <fptr FILEID="tiff_00004_0"/>
+        <fptr FILEID="jp2_00004_0"/>
+        <fptr FILEID="alto_00004_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_7.3" BETYPE="IDREF" FILEID="alto_00004_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="8" ORDERLABEL="6" TYPE="page">
+        <fptr FILEID="tiff_00004_1"/>
+        <fptr FILEID="jp2_00004_1"/>
+        <fptr FILEID="alto_00004_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_8.5" BETYPE="IDREF" FILEID="alto_00004_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="9" ORDERLABEL="7" TYPE="page">
+        <fptr FILEID="tiff_00005_0"/>
+        <fptr FILEID="jp2_00005_0"/>
+        <fptr FILEID="alto_00005_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_9.4" BETYPE="IDREF" FILEID="alto_00005_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="10" ORDERLABEL="8" TYPE="page">
+        <fptr FILEID="tiff_00005_1"/>
+        <fptr FILEID="jp2_00005_1"/>
+        <fptr FILEID="alto_00005_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_10.5" BETYPE="IDREF" FILEID="alto_00005_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b3-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_3.2" BETYPE="IDREF" FILEID="alto_00002_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b3-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_3.4" BETYPE="IDREF" FILEID="alto_00002_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b3-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_3.3" BETYPE="IDREF" FILEID="alto_00002_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b3-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_3.5" BETYPE="IDREF" FILEID="alto_00002_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b7-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_7.9" BETYPE="IDREF" FILEID="alto_00004_0"/>
+            <area BEGIN="BL_8.1" BETYPE="IDREF" FILEID="alto_00004_1"/>
+            <area BEGIN="BL_8.2" BETYPE="IDREF" FILEID="alto_00004_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b4-3" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_4.4" BETYPE="IDREF" FILEID="alto_00002_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b5-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_5.5" BETYPE="IDREF" FILEID="alto_00003_0"/>
+            <area BEGIN="BL_5.6" BETYPE="IDREF" FILEID="alto_00003_0"/>
+            <area BEGIN="BL_6.1" BETYPE="IDREF" FILEID="alto_00003_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b7-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_7.6" BETYPE="IDREF" FILEID="alto_00004_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b7-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_7.5" BETYPE="IDREF" FILEID="alto_00004_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b6-3" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_6.5" BETYPE="IDREF" FILEID="alto_00003_1"/>
+            <area BEGIN="BL_6.6" BETYPE="IDREF" FILEID="alto_00003_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AC" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_4.7" BETYPE="IDREF" FILEID="alto_00002_1"/>
+            <area BEGIN="BL_4.8" BETYPE="IDREF" FILEID="alto_00002_1"/>
+            <area BEGIN="BL_4.9" BETYPE="IDREF" FILEID="alto_00002_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b4-8" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_4.11" BETYPE="IDREF" FILEID="alto_00002_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b4-9" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_4.12" BETYPE="IDREF" FILEID="alto_00002_1"/>
+            <area BEGIN="BL_5.1" BETYPE="IDREF" FILEID="alto_00003_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b4-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_4.10" BETYPE="IDREF" FILEID="alto_00002_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b4-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_4.5" BETYPE="IDREF" FILEID="alto_00002_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b4-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_4.6" BETYPE="IDREF" FILEID="alto_00002_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b10-4" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_10.7" BETYPE="IDREF" FILEID="alto_00005_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AV" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_3.6" BETYPE="IDREF" FILEID="alto_00002_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b7-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_7.7" BETYPE="IDREF" FILEID="alto_00004_0"/>
+            <area BEGIN="BL_7.8" BETYPE="IDREF" FILEID="alto_00004_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b9-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_9.7" BETYPE="IDREF" FILEID="alto_00005_0"/>
+            <area BEGIN="BL_10.2" BETYPE="IDREF" FILEID="alto_00005_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b9-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_9.6" BETYPE="IDREF" FILEID="alto_00005_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b10-15" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_10.8" BETYPE="IDREF" FILEID="alto_00005_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b3-13" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_3.12" BETYPE="IDREF" FILEID="alto_00002_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b8-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_8.7" BETYPE="IDREF" FILEID="alto_00004_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b6-6" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_6.7" BETYPE="IDREF" FILEID="alto_00003_1"/>
+            <area BEGIN="BL_7.1" BETYPE="IDREF" FILEID="alto_00004_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b8-5" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_8.6" BETYPE="IDREF" FILEID="alto_00004_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b8-7" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_8.8" BETYPE="IDREF" FILEID="alto_00004_1"/>
+            <area BEGIN="BL_9.1" BETYPE="IDREF" FILEID="alto_00005_0"/>
+            <area BEGIN="BL_9.2" BETYPE="IDREF" FILEID="alto_00005_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b10-3" BETYPE="IDREF" FILEID="casebody_0001"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_10.6" BETYPE="IDREF" FILEID="alto_00005_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0624" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="Ferdon v. The Justus E. Earle">FERDON v. The JUSTUS E. EARLE; FORSYTH v. FERDON</name>
+          <docketnumber>Case No. 4,737a</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1148</citation>
+          <decisiondate>1879-11-15</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00575_1" MIMETYPE="image/tiff" CHECKSUM="e01d07cececf151ca9b5336c190ef72e" CHECKSUMTYPE="MD5" SIZE="100718">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00575_1.tif"/>
+      </file>
+      <file ID="tiff_00576_0" MIMETYPE="image/tiff" CHECKSUM="d805486131456e6b7976fd718135d80c" CHECKSUMTYPE="MD5" SIZE="99426">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00576_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00575_1" MIMETYPE="image/jp2" CHECKSUM="9ccc15e741e45c14daca523346677552" CHECKSUMTYPE="MD5" SIZE="3473715">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00575_1.jp2"/>
+      </file>
+      <file ID="jp2_00576_0" MIMETYPE="image/jp2" CHECKSUM="57a0cf7dddcd26a44d4a4643c08ab901" CHECKSUMTYPE="MD5" SIZE="3508903">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00576_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00575_1" MIMETYPE="text/xml" CHECKSUM="36bcc6ca73ade4fa4510aa86e757689c" CHECKSUMTYPE="MD5" SIZE="212782">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00575_1.xml"/>
+      </file>
+      <file ID="alto_00576_0" MIMETYPE="text/xml" CHECKSUM="a0796401109f3553d31c337a448315f2" CHECKSUMTYPE="MD5" SIZE="213033">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00576_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0624" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1149" firstpage="1148">
+              <court id="b1150-6" pgmap="1150">District Court, S. D. New York.</court>
+              <docketnumber id="b1150-4" pgmap="1150">Case No. 4,737a.</docketnumber>
+              <parties id="b1150-5" pgmap="1150">FERDON v. The JUSTUS E. EARLE.<footnotemark>1</footnotemark> FORSYTH v. FERDON.</parties>
+              <decisiondate id="A00k" pgmap="1150">Nov. 15, 1879.</decisiondate>
+              <attorneys id="b1150-10" pgmap="1150">F. A. Wilcox, for the schooner.</attorneys>
+              <attorneys id="b1150-11" pgmap="1150">W. H. McDougall, for the sloop.</attorneys>
+              <footnote label="1">
+                <p id="b1150-13" pgmap="1150">1 [Not previously reported.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1150-12" pgmap="1150">CHOATE, District Judge.</author>
+                <p id="Aa7" pgmap="1150(728) 1151(322)">These are cross libels to recover damages occasioned by a collision between the schooner Justus E. Earle and the sloop Catharine Wygant which took place about daybreak of the 11th of August, 1877, in the Hudson river, near the west shore, between Spyten Duyvell and Yonkers. The sloop was bound down the river, laden with brick. The schooner was bound up the river, light. The tide was ebb. The wind nearly west; a good breeze. On the deck of the sloop were the master, who was at the wheel, and directing the movements of his vessel, and a seaman forward as lookout On the deck of the schooner were the mate, forward, acting as lookout and directing the wheelsman, and at the wheel a seaman. There is no controver­sy that the schooner’s course, until she luff­ed, just before the collision, was straight up the river, not more than five hundred feet from the west shore. The night was clear, so that vessels’ lights could be seen at a con­siderable distance. Both the men on the schooner saw the sloop, some time before the collision, to the northward and eastward of the schooner, coming down the river. The lookout on the schooner saw her green light as she approached, and her course was such that she would have passed on the starboard side of the schooner, at a perfectly safe dis­tance, if she had kept her course. When she had reached a point not more than two or three lengths from the schooner, she ported, and showed her red light to the schooner, thus taking a course directly across the schooner’s bow. This manoeuvre was exe­cuted at so short a distance from the schoon­er that it made a collision inevitable. To ease the blow, and to prevent the schooner’s striking head on to the sloop at full speed, the mate of the schooner ordered the wheel to be starboarded, and the schooner came up in the wind just as they came together. The sloop kept bearing more and more to the westward till the instant of collision. This is the account given by the lookout on the schooner, and I think it is, in all ma­terial respects, confirmed by the two men on the sloop. The master of the sloop did'not see the schooner till she was reported by the lookout The lookout reported a schoon­er on the lee bow. Both witnesses testify that she was then very near. They put her at two or three lengths off from the sloop. To excuse themselves for not seeing her be­fore, they both testify that they saw no lights on the schooner. But the testimony is entirely satisfactory that the schooner’s lights were properly set and brightly burn­ing. The master of the sloop, thus seeing the schooner to leeward, ported his helm, and the next thing he noticed was a shout from the schooner to keep off. He looked again, and saw that the schooner had chan­ged her course and had luffed, and immedi­ately the collision happened. The bowsprit of the sloop struck the starboard side of the schooner near the forerigging. Both vessels were injured. The testimony of those on the sloop is in itself conclusive that they were grossly negligent. Their testimony shows that they did not keep a good lookout. The schooner must have been visible to them at least a mile away, and they only saw her two or three lengths off. On his own show­ing, the master was grossly negligent after she was reported to him. The vessels were in very close proximity, and, especially as he could not see any lights to assist his judg­ment as to the course of the other vessel, he should have kept her steadily in view till he was by her. Instead of this he ported his wheel, and took the chances of passing her, and then his attention was called back to her by the shout, which was an instant before the vessels came together. In fact, what those on the sloop say they saw is pre­cisely what the account given by the look­out of the schooner requires that they should have seen, upon the supposition that the lookout of the sloop did not discover the schooner until, by the change of course which the lookout of the schooner observed, the sloop had headed across the schooner’s bow. That change brought the schooner on the lee or port bow of the sloop, where the lookout of the sloop first saw her. The sloop then ported still more, and at the time of the collision was under a hard a-port helm, as her master admits. Almost the only statement of those on board of the sloop, as to her movements, which it is necessary to reject, on this theory of the case, is the statement of the master that until he port­ed, after the lookout reported the schooner, he had for a considerable time been coming straight down the river, without a change of course. But where those on the sloop are so clearly proved to have been taken by surprise at finding a schooner under their bow, which they ought to have discovered long before, It is little likely that they were, immediately before, paying any particular attention to their course. The porting of the schooner was, under the circumstances, jus­tifiable. It was made necessary by the fault of the sloop, to avert the most serious con­sequences of the collision, and it seems to have had that effect. Up to the time of the ship’s change of course, there was, upon the evidence, no danger of collision. If the courses of the vessels crossed, the point of intersection was so far astern of the schoon­er that they would have passed in safety. The collision was caused wholly fey the fault of the sloop, in not keeping a good lookout, in porting when about passing the schooner on her starboard side, without observing the schooner, and at such a distance that the collision was thereby rendered inevitable. Decree for the claimants in the first suit, with costs, and for the libellant, with costs, in the second suit, and reference to compute damages.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1150" ORDERLABEL="1148" TYPE="page">
+        <fptr FILEID="tiff_00575_1"/>
+        <fptr FILEID="jp2_00575_1"/>
+        <fptr FILEID="alto_00575_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1150.4" BETYPE="IDREF" FILEID="alto_00575_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1151" ORDERLABEL="1149" TYPE="page">
+        <fptr FILEID="tiff_00576_0"/>
+        <fptr FILEID="jp2_00576_0"/>
+        <fptr FILEID="alto_00576_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1151.4" BETYPE="IDREF" FILEID="alto_00576_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aa7" BETYPE="IDREF" FILEID="casebody_0624"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1150.18" BETYPE="IDREF" FILEID="alto_00575_1"/>
+            <area BEGIN="BL_1150.19" BETYPE="IDREF" FILEID="alto_00575_1"/>
+            <area BEGIN="BL_1150.20" BETYPE="IDREF" FILEID="alto_00575_1"/>
+            <area BEGIN="BL_1151.2" BETYPE="IDREF" FILEID="alto_00576_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1150-6" BETYPE="IDREF" FILEID="casebody_0624"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1150.10" BETYPE="IDREF" FILEID="alto_00575_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1150-4" BETYPE="IDREF" FILEID="casebody_0624"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1150.7" BETYPE="IDREF" FILEID="alto_00575_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1150-5" BETYPE="IDREF" FILEID="casebody_0624"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1150.8" BETYPE="IDREF" FILEID="alto_00575_1"/>
+            <area BEGIN="BL_1150.9" BETYPE="IDREF" FILEID="alto_00575_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1150-11" BETYPE="IDREF" FILEID="casebody_0624"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1150.16" BETYPE="IDREF" FILEID="alto_00575_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1150-10" BETYPE="IDREF" FILEID="casebody_0624"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1150.15" BETYPE="IDREF" FILEID="alto_00575_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1150-13" BETYPE="IDREF" FILEID="casebody_0624"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1150.21" BETYPE="IDREF" FILEID="alto_00575_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A00k" BETYPE="IDREF" FILEID="casebody_0624"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1150.11" BETYPE="IDREF" FILEID="alto_00575_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1150-12" BETYPE="IDREF" FILEID="casebody_0624"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1150.17" BETYPE="IDREF" FILEID="alto_00575_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

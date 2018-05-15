@@ -1,0 +1,367 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0267" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="Jenkins v. Eldredge">JENKINS v. ELDREDGE et al.</name>
+          <docketnumber>Case No. 7,269</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 517</citation>
+          <citation category="parallel" type="bluebook">1 Woodb. &amp; M. 61</citation>
+          <decisiondate>1845-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00260_0" MIMETYPE="image/tiff" CHECKSUM="048265cc7ac914760da7023b28e780d5" CHECKSUMTYPE="MD5" SIZE="93880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00260_0.tif"/>
+      </file>
+      <file ID="tiff_00260_1" MIMETYPE="image/tiff" CHECKSUM="9e09bad42825f779957891df70c20882" CHECKSUMTYPE="MD5" SIZE="64342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00260_1.tif"/>
+      </file>
+      <file ID="tiff_00261_0" MIMETYPE="image/tiff" CHECKSUM="805f60121c610d5236844b81e85d30d9" CHECKSUMTYPE="MD5" SIZE="101014">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00261_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00260_0" MIMETYPE="image/jp2" CHECKSUM="86065d5848913246cd271ce003de170b" CHECKSUMTYPE="MD5" SIZE="3504950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00260_0.jp2"/>
+      </file>
+      <file ID="jp2_00260_1" MIMETYPE="image/jp2" CHECKSUM="82dd78e9f8b17cafe96c35bc76ed89a1" CHECKSUMTYPE="MD5" SIZE="2512820">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00260_1.jp2"/>
+      </file>
+      <file ID="jp2_00261_0" MIMETYPE="image/jp2" CHECKSUM="5423b91ec4b53eabf683d50e177c79f8" CHECKSUMTYPE="MD5" SIZE="3519836">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00261_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00260_0" MIMETYPE="text/xml" CHECKSUM="6b7c65d6141ea204e4d41fc0401dcf81" CHECKSUMTYPE="MD5" SIZE="211577">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00260_0.xml"/>
+      </file>
+      <file ID="alto_00260_1" MIMETYPE="text/xml" CHECKSUM="b032e59240081091b24a38ed6f677f37" CHECKSUMTYPE="MD5" SIZE="142765">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00260_1.xml"/>
+      </file>
+      <file ID="alto_00261_0" MIMETYPE="text/xml" CHECKSUM="34193efa2475c2e27bb7bcdb52ec7186" CHECKSUMTYPE="MD5" SIZE="217173">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00261_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0267" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="519" firstpage="517">
+              <court pgmap="519" id="b519-15">Circuit Court, D. Massachusetts.</court>
+              <docketnumber pgmap="519" id="b519-12">Case No. 7,269.</docketnumber>
+              <citation pgmap="519" id="b519-14">[1 Woodb. &amp; M. 61.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="519" id="b519-13">JENKINS v. ELDREDGE et al.</parties>
+              <decisiondate pgmap="519" id="Abua">Oct. Term, 1845.</decisiondate>
+              <attorneys pgmap="520" id="b520-11">Charles P. Curtis, for petitioner.</attorneys>
+              <attorneys pgmap="520" id="b520-12">William H. Gardner, for respondents.</attorneys>
+              <footnote label="1">
+                <p pgmap="519" id="b519-21">1 [Reported by Charles L. Woodbury, Esq., and George Minot, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="520" id="b520-13">WOODBURY, Circuit Justice.</author>
+                <p pgmap="520" id="Armp">The gen- j eral rule on this subject is believed to be much the same in courts of equity as in those of law; and it is, that, after final judgment, the terms of it cannot be altered, in any es­sential particulars, except on a review, or writ of error, or appeal; or, at least, on a rehearing, allowed after showing sufficient, cause. Albers v. Whitney [Case No. 137); Doggett v. Emerson, Id. 3,961). When a judg­ment is to be considered as final, is a differ­ent question; but it is usually regarded as final, after the end of the term at which it is rendered, when there is no special minute to the contrary. 1 Story, Bq. PI. § 403. See 61st rule of this court. All judgments are, in such case, generally drawn up as if com­pleted then, and that must be considered the registry or enrollment of them, where there is no entry or agreement to the contrary. See 62d rule. But when, as in this case, a judgment or decree is settled by agreement of the parties, and is entered as completed on some particular day; or when one is so en­tered, by direction of the court, without any such agreement, it must, by analogy, be con­sidered as final from that day, and execution will issue accordingly, when asked for, or any other proceedings be had appropriate on a final judgment. After that day it ceases to exist in loose minutes, or on the waste docket, or in any way unadjusted; and these are the ordinary tests of its being finished or final. 2 Madd. Ch. Prac. 373; 7 Brown. Parl. Cas. 204; 1 Ves. Jr. 251; 7 Ves. 293. Perhaps after that a mere clerical mistake in the fig­ures, or in a formal part of the judgment or decree, may be corrected, either on motion or petition, but nothing done which goes to its merits and to the principles or orders them­selves. that have been made by the court. 7 Ves. 293; 12 Ves. 456, 458; 1 Hoff. Ch. Prac. 559; 2 Smith, Ch. Prac. 14; 2 Johns. Ch. 205; 4 Johns. Ch. 545; Albers v. Whitney [supra]; [Sibbald v. U. S.) 12 Pet. [37 U. S.] 492; [Cameron v. M’Roberts] 3 Wheat. [16 U. S.] 591; [Bank of Kentucky v. Wister] 3 Pet. [28 U. S.) 431; [The Palmyra] 12 Wheat. [25 U. S.) 10; [Poole v. Nixon] 9 Pet. [34 U. S.) 771.</p>
+                <p pgmap="520(170) 521(43)" id="b520-15">Are there any exceptions to these general principles, in cases where time is given in the judgments to make payments or sales, or where a master is to make examinations and reports? None have been cited at the bar, and none are within my own recollection, ex­cept in cases of bills to foreclose a mortgage. There, in the decree to make payment within a given time, the period has been extended, on the payment of interest and cost. 3 P. Wms. 343; 1 Brown, Ch. 183. But this de­parture from the original judgment has been regretted, and it has been refused in the case of bills brought to redeem mortgages, which was the case with one part of the present proceeding. 17 Ves. 382; 2 Madd. Ch. Prac. 377; Brinckerhoff v. Lansing, 4 Johns. Ch. 65, 76. Because, as the court say, in this last case, the plaintiff, who asks the favor, comes into court voluntarily, and should be always ready, or able to be ready, to redeem, before suing. While in the first case the de­fendant, who asks more indulgence, does not •come into court voluntarily, nor profess any readiness to pay, and hence, under certain circumstances, longer time has been granted to him. 2 Madd. Ch. Prac. 377.</p>
+                <p pgmap="521" id="b521-4">There is another class of cases, where in the proceedings themselves, after the final judgment, the court will interfere, such as opening the biddings in a proper case, on de­positing the money received. 2 Madd. Ch. Prac. 385. So at law, directing, payments of the money into court by the sheriff, or to one of the parties in claims by two, under the execution. These, however, it will be seen, relate to the proceedings after the final judgment, and not to any change in the terms of the judgment itself. A judgment is final, notwithstanding certain consequential proceedings are to be had by a master, &amp;c. Quackenbush v. Leonard, 10 Paige, 131; Gi­rod v. Michoud, 4 How. [45 U. S.] 503.</p>
+                <p pgmap="521" id="b521-5">There is still another class of cases, where courts have interfered after final judgment, to act on the judgment itself, sometimes as at common law, sometimes under special stat­utes, and sometimes under new and distinct process, such as audita querela. But in this instance, there is no special statute, nor any process of audita querela; and the only ques­tion remaining is, whether there is any thing which, on motion or petition as at common law, can justify an interference with the judgment itself, and a change in the time agreed on and directed for the payment of the money. If there had been fraud shown in the agreement, or a clear mistake, so as to justify in equity annulling it, the judgment founded on it would not stand very strong in foro cónscientiae. And if it could be vacat­ed, it would be, on facts very different from those which are presented here, and on a separate bill in equity usually. So, if a judg ment had been rendered without any agree­ment, and without appearance, in conse­quence of no actual service or notice to the defendant, or of some accident, or with an appearance, but from an act of God, or some other inevitable cause, or from some wrong of the other party, a good defence existing had not been interposed; in such cases there would be equitable ground for relief, much stronger than any averred in this case. In states, however, where no statutes exist ex­pressly remedying such cases, it is very ques­tionable whether any power exists at com­mon law to reopen, or change, in a material part, any final judgment. Delancey v. Brown­ell, 4 Johns. 136; Popina v. M’Allister [Case No. 11,277]; Cameron v. M’Roberts, 3 Wheat. [16 U. S.] 591; 8 Dowl. 664. See contra, 6 Wend. 562; 2 Greenl. 109. And though in Cameron’s Case some years had elapsed, the principle is the same, whether it be days or years, if the judgment has gone from the waste-book and minutes, and been entered up as perfected. The supreme court were much divided on this point in a case at the last session, where the accident was very clear and the equity strong. It was a prayer for a mandamus to the judges of the circuit court of the District of Columbia, to issue an exe­cution, which they had suspended against a debto.', where he had been defaulted and judgment perfected against him; but by mistake as to the term of the court, he did not appear and plead as intended a discharge in bankruptcy, which he had previously re­ceived. A majority of the supreme court thought the execution could not properly be suspended, unless the judgment on the de­fault was irregular and incomplete under the laws of the District, as was contended. The application for a mandamus failed from an equal division of opinion on that point chiefly. Dixon v. Miller, not reported.</p>
+                <p pgmap="521" id="Apj">No reasons exist here at all equal in strength to any of those in favor of an inter­ference; and hence its propriety becomes more questionable than in any of those, though in them it has been refused. But be­side these objections, this judgment is, in terms, the result of a deliberate written agree­ment, signed and filed by the parties in the cause; and, to change such a judgment, after entered up, without a new agreement by the parties, or other reasons than have been as­signed here, could not be vindicated, it is believed, by any sound principle whatever, or any precedent. This conclusion is the less objectionable, on account of its operation here, than it might be in some cases, as the terms of the judgment or final decree in this case are such, that before a sale of the prop­erty on the failure of the plaintiff to make payment by the first of April, the master must give from forty to sixty days’ notice; the shortest time reaching beyond the indul­gence now asked. And if the plaintiff, on the day of sale, has the amount required ready, he can buy in the estate at any price he chooses, as the surplus, over that amount, is to go entirely to himself. Petition refused.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="519" ORDERLABEL="517" TYPE="page">
+        <fptr FILEID="tiff_00260_0"/>
+        <fptr FILEID="jp2_00260_0"/>
+        <fptr FILEID="alto_00260_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_519.4" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="520" ORDERLABEL="518" TYPE="page">
+        <fptr FILEID="tiff_00260_1"/>
+        <fptr FILEID="jp2_00260_1"/>
+        <fptr FILEID="alto_00260_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_520.4" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="521" ORDERLABEL="519" TYPE="page">
+        <fptr FILEID="tiff_00261_0"/>
+        <fptr FILEID="jp2_00261_0"/>
+        <fptr FILEID="alto_00261_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_521.3" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-5" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.6" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            <area BEGIN="BL_521.7" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-4" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.5" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-12" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.14" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-21" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.25" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Armp" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.15" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            <area BEGIN="BL_520.16" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            <area BEGIN="BL_520.17" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-13" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.15" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Abua" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.18" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            <area BEGIN="BL_519.19" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-14" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.16" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-15" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.17" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-15" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.18" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            <area BEGIN="BL_521.1" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-12" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.13" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-13" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.14" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-11" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.12" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Apj" BETYPE="IDREF" FILEID="casebody_0267"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.8" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

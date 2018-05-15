@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0479" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Jones v. Lovell">JONES v. LOVELL</name>
+          <docketnumber>Case No. 7,478</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 989</citation>
+          <citation category="parallel" type="bluebook">1 Cranch, C. C. 183</citation>
+          <decisiondate>1804-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00496_0" MIMETYPE="image/tiff" CHECKSUM="2be43ba1c103c457f4c4d1a7ed09f3a4" CHECKSUMTYPE="MD5" SIZE="48404">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00496_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00496_0" MIMETYPE="image/jp2" CHECKSUM="6d970153055c2442a6e3f0e1421fc4cb" CHECKSUMTYPE="MD5" SIZE="2317566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00496_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00496_0" MIMETYPE="text/xml" CHECKSUM="104a729dd90a22393b0d634ea0db2efe" CHECKSUMTYPE="MD5" SIZE="101694">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00496_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0479" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="989" firstpage="989">
+              <court pgmap="991" id="b991-5">Circuit Court, District of Columbia.</court>
+              <docketnumber pgmap="991" id="b991-2">Case No. 7,478.</docketnumber>
+              <citation pgmap="991" id="b991-4">[1 Cranch, C. C. 183.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="991" id="b991-3">JONES v. LOVELL.</parties>
+              <decisiondate pgmap="991" id="AEfK">July Term, 1804.</decisiondate>
+              <footnote label="1">
+                <p pgmap="991" id="b991-10">1 [Reported by Hon. William Cranch, Chief Judge.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p pgmap="991" id="b991-9">The following were the grounds upon which THE COURT decided the case: The only reason why those cases should not ap­ply to this country, is. that here we may is­sue a commission'to examine witnesses resi­dent abroad. But the answer to that ob­jection is, 1st. That in this case it was not known where the subscribing witness re­sided; and therefore it was impossible to know where to send a commission. 2d. That upon such a commission the plaintiff could not compel the subscribing witness to testify. 3d. That the plaintiff ought not to be compelled to send his original security abroad, and run the risk of its loss. 4th. That if the defendant wished to avail him­self of the evidence of the subscribing wit­ness he might summon him or take his de­position. 5th. That the rule was a hard one, particularly with regard to negotiable paper, and the court would not extend it beyond the cases already decided. The rea­son why the testimony of a subscribing wit­ness is required, is because the best evi­dence which the circumstances of the case-­admit ought to be produced. And the rea­son of that rule is because the not producing such evidence, raises a presumption that if produced it would make against the party who ought to produce it. But the circum­stances of this case do not admit of the pro­duction of the testimony of the subscribing witness; and they do sufficiently account for its non-production. This destroys the presumption arising from the want of that testimony, and thereby removes the ground upon which the rule was founded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="991" ORDERLABEL="989" TYPE="page">
+        <fptr FILEID="tiff_00496_0"/>
+        <fptr FILEID="jp2_00496_0"/>
+        <fptr FILEID="alto_00496_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_991.2" BETYPE="IDREF" FILEID="alto_00496_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-10" BETYPE="IDREF" FILEID="casebody_0479"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.13" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-9" BETYPE="IDREF" FILEID="casebody_0479"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.12" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-4" BETYPE="IDREF" FILEID="casebody_0479"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.5" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-5" BETYPE="IDREF" FILEID="casebody_0479"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.6" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-2" BETYPE="IDREF" FILEID="casebody_0479"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.3" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-3" BETYPE="IDREF" FILEID="casebody_0479"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.4" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEfK" BETYPE="IDREF" FILEID="casebody_0479"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.7" BETYPE="IDREF" FILEID="alto_00496_0"/>
+            <area BEGIN="BL_991.8" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0470" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="In re Ewing">In re EWING</name>
+          <docketnumber>Case No. 4,587</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 927</citation>
+          <citation category="parallel" type="bluebook">2 Lowell, 407</citation>
+          <decisiondate>1875-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00465_0" MIMETYPE="image/tiff" CHECKSUM="fdc4a998aef832b3f0d2fc479f2f8165" CHECKSUMTYPE="MD5" SIZE="77358">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00465_0.tif"/>
+      </file>
+      <file ID="tiff_00465_1" MIMETYPE="image/tiff" CHECKSUM="b4482def2f822cdebe5bd139b2b0c7d9" CHECKSUMTYPE="MD5" SIZE="77490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00465_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00465_0" MIMETYPE="image/jp2" CHECKSUM="bbb7f14e25d3812b11d07fa4a5b10c4c" CHECKSUMTYPE="MD5" SIZE="3193208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00465_0.jp2"/>
+      </file>
+      <file ID="jp2_00465_1" MIMETYPE="image/jp2" CHECKSUM="a5763c9e1579ff206a62e2c0e51e91a5" CHECKSUMTYPE="MD5" SIZE="2926176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00465_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00465_0" MIMETYPE="text/xml" CHECKSUM="3977afeb2121d7edcd70cb56ba2ddc52" CHECKSUMTYPE="MD5" SIZE="165101">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00465_0.xml"/>
+      </file>
+      <file ID="alto_00465_1" MIMETYPE="text/xml" CHECKSUM="4eca3a7de2e15e6bf86f4587fefe927b" CHECKSUMTYPE="MD5" SIZE="165170">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00465_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0470" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="928" firstpage="927">
+              <court id="b929-25" pgmap="929">District Court, D. Massachusetts.</court>
+              <docketnumber id="b929-22" pgmap="929">Case No. 4,587.</docketnumber>
+              <citation id="b929-24" pgmap="929">[2 Lowell, 407.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b929-23" pgmap="929">In re EWING.</parties>
+              <decisiondate id="Acy" pgmap="929">May, 1875.</decisiondate>
+              <attorneys id="b929-30" pgmap="929">E. P. Nettleton and H. R. Brigham, for ob­jecting creditors.</attorneys>
+              <attorneys id="b929-31" pgmap="929">A. E. Pillsbury, for bankrupt</attorneys>
+              <footnote label="1">
+                <p id="b929-33" pgmap="929">1 [Reported by Hon. John Lowell, LL. D., District Judge, and here reprinted by permis­sion.] *</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b929-32" pgmap="929">LOWELL, District Judge.</author>
+                <p id="AyJ" pgmap="929(10) 930(196)">The meeting to consider the debtor’s offer of a composition was called before the register at ten o’clock in the forenoon of a certain day. Ithappened by some oversight, for which the legal ac­countability must rest on the debtor as the moving party, that no formal notice of the order had reached the register. He had ac­tual notice, and intended to be present, but was prevented, and sent no message to his office on the subject At half-past eleven, the attorneys of the two creditors, who now object to the acceptance of the resolution, gave notice to the attorney of the bankrupt that they should attend no longer, and ob­jected to a meeting being held after that time; and, on the other part, a notice was given to them that the debtor intended to find the register and proceed with the meet­ing. The register arrived.at his office at about noon, and sent notice to the counsel for the objecting creditors that he should hold the meeting at a certain hour that afternoon. One of these notices was received, and the other was not. Neither counsel attended fur­ther. The meeting was held at the hour so appointed, and the resolution was passed.</p>
+                <p id="b930-3" pgmap="930">In Re Gilley [Case No. 5,438], I held that the first general meeting of creditors ought to be kept open to receive votes for assignee for at least one hour. In the opinion then given I cited analogous cases in the practice of several states, relating to hearings before mag­istrates and before judges at chambers, as well as in bankruptcy and insolvency. The converse of this rule has prevailed at common law, namely, that after an hour has passed, if the magistrate is not present and has not been heard from, either party is at liberty to consider the case as discontinued or post­poned; or, if the judge is ready and only one party has appeared, the case may proceed ex parte. See McCarty v. McPherson, 11 Johns. 407; Kimball v. Mack, 10 Wend. 497; Dyer v. Smith, 12 Conn. 384.</p>
+                <p id="b930-4" pgmap="930">This rule is not held with so much strict­ness as the other. When it was shown, for instance, that no injury could have occurred to the absent party, as he had not appeared at all, the fact that the hearing was not opened until after the hour had elapsed, was de­cided to be immaterial. Niles v. Hancock, 3 Metc. [Mass.] 568.</p>
+                <p id="b930-5" pgmap="930">In bankruptcy there is even more need of a definite practice than in ordinary suits at law or hearings between one plaintiff and one de­fendant, because the great number of per­sons interested, and having a right to take part in the proceedings, increases the chances of misunderstanding and consequent injustice if the practice is loose or variable. If the matter were entirely new, the question would be whether such a meeting may be opened at any time during the day, or during what definite part of it. It could hardly be con­sidered reasonable that the parties should be held to attendance throughout the day in hearings of this sort. Whatever law is ap­plied to one side must apply to the other; and every creditor must have the right to be heard at any time during the day, If the debt- or has the whole day in which to have the meeting opened. I think the analogous prac­tice in so many similar hearings points to an hour as the truo limit.</p>
+                <p id="b930-8" pgmap="930">There is no need to lay down a rigid rule, without exceptions. In nearly every case, the register, or some substitute, can be reach­ed within the time, and can make at the least a postponement to a fixed hour. In this case, as it is admitted that one of the creditors fail­ed to receive notice of the postponement, I must hold that the meeting, held three or four hours after the time appointed, was ir­regular. U. S. v. Rundlett [Case No. 16,208].</p>
+                <p id="b930-9" pgmap="930">Leave to record resolution refused. Debt- or may call a new meeting within one week.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="929" ORDERLABEL="927" TYPE="page">
+        <fptr FILEID="tiff_00465_0"/>
+        <fptr FILEID="jp2_00465_0"/>
+        <fptr FILEID="alto_00465_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_929.4" BETYPE="IDREF" FILEID="alto_00465_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="930" ORDERLABEL="928" TYPE="page">
+        <fptr FILEID="tiff_00465_1"/>
+        <fptr FILEID="jp2_00465_1"/>
+        <fptr FILEID="alto_00465_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_930.4" BETYPE="IDREF" FILEID="alto_00465_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b930-8" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_930.9" BETYPE="IDREF" FILEID="alto_00465_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b930-5" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_930.7" BETYPE="IDREF" FILEID="alto_00465_1"/>
+            <area BEGIN="BL_930.8" BETYPE="IDREF" FILEID="alto_00465_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyJ" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_929.40" BETYPE="IDREF" FILEID="alto_00465_0"/>
+            <area BEGIN="BL_929.41" BETYPE="IDREF" FILEID="alto_00465_0"/>
+            <area BEGIN="BL_930.1" BETYPE="IDREF" FILEID="alto_00465_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b929-30" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_929.37" BETYPE="IDREF" FILEID="alto_00465_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b929-32" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_929.39" BETYPE="IDREF" FILEID="alto_00465_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b930-4" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_930.6" BETYPE="IDREF" FILEID="alto_00465_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b929-23" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_929.29" BETYPE="IDREF" FILEID="alto_00465_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b929-22" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_929.28" BETYPE="IDREF" FILEID="alto_00465_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b929-25" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_929.31" BETYPE="IDREF" FILEID="alto_00465_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b929-24" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_929.30" BETYPE="IDREF" FILEID="alto_00465_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b929-31" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_929.38" BETYPE="IDREF" FILEID="alto_00465_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Acy" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_929.32" BETYPE="IDREF" FILEID="alto_00465_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b929-33" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_929.42" BETYPE="IDREF" FILEID="alto_00465_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b930-9" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_930.10" BETYPE="IDREF" FILEID="alto_00465_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b930-3" BETYPE="IDREF" FILEID="casebody_0470"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_930.5" BETYPE="IDREF" FILEID="alto_00465_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

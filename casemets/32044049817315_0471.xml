@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0471" publicationstatus="published">
+          <court abbreviation="C.C.E.D. Pa." jurisdiction="United States">United States Circuit Court for the Eastern District of Pennsylvania</court>
+          <name abbreviation="Jones v. Insurance Co.">JONES v. INSURANCE CO.</name>
+          <docketnumber>Case No. 7,470</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 982</citation>
+          <citation category="parallel" type="bluebook">2 Wall. Jr. 278</citation>
+          <decisiondate>1852-11-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00492_1" MIMETYPE="image/tiff" CHECKSUM="d43bc3fd865f98de22b2c8fc4790ce68" CHECKSUMTYPE="MD5" SIZE="55348">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00492_1.tif"/>
+      </file>
+      <file ID="tiff_00493_0" MIMETYPE="image/tiff" CHECKSUM="4599b0fd18816c54260941dc7981a47c" CHECKSUMTYPE="MD5" SIZE="32488">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00493_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00492_1" MIMETYPE="image/jp2" CHECKSUM="2d3b3a6a6668343714960f8103c9e664" CHECKSUMTYPE="MD5" SIZE="2366886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00492_1.jp2"/>
+      </file>
+      <file ID="jp2_00493_0" MIMETYPE="image/jp2" CHECKSUM="ec7f498794ab55e77b3a5b036a19d2d7" CHECKSUMTYPE="MD5" SIZE="1943153">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00493_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00492_1" MIMETYPE="text/xml" CHECKSUM="22fafb147ac09513f1a6bcea121fbff1" CHECKSUMTYPE="MD5" SIZE="115991">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00492_1.xml"/>
+      </file>
+      <file ID="alto_00493_0" MIMETYPE="text/xml" CHECKSUM="d919e43b6c35930946b7b6c6c917e32b" CHECKSUMTYPE="MD5" SIZE="62491">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00493_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0471" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="983" firstpage="982">
+              <court pgmap="984" id="b984-5">Circuit Court, E. D. Pennsylvania.</court>
+              <docketnumber pgmap="984" id="b984-2">Case No. 7,470.</docketnumber>
+              <citation pgmap="984" id="b984-4">[2 Wall. Jr. 278.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="984" id="b984-3">JONES v. INSURANCE CO.</parties>
+              <decisiondate pgmap="984" id="AXWg">Nov. 5, 1852.</decisiondate>
+              <attorneys pgmap="984" id="b984-15">T. I. Wharton and Henry Wharton, in sup­port of demurrer.</attorneys>
+              <attorneys pgmap="984" id="b984-16">W. Rawle and J. Fallon, contra.</attorneys>
+              <footnote label="1">
+                <p pgmap="984" id="b984-12">1 [Reported by John William Wallace, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="984" id="b984-17">GRIER, Circuit Justice.</author>
+                <p pgmap="984(431) 985(79)" id="AQMn">Although some of the treatises on marine insurance do not, in treating this subject, make any distinction between voyage and time policies, and many dicta of judges may be found, to the same effect, while others (see Paddock v. Franklin Ins. Co., 11 Pick. 231, and cases there cited) express doubt, the precise point does not appear to have been decided on full argu­ment in a court of error till very lately. The case of Small v. Gibson. 3 Eng. Law &amp; Eq. 290-299, 14 Jur. 368, and 15 Jur. 325, was first argued and decided in the queen's bench, in November, 1850, and it was there decided, “that there is an implied warranty of seaworthiness in time policies, if nothing appear in them to the contrary, as well as in policies on a voyage.” This case was removed by writ of error to the exchequer chamber, where the judgment of the queen’s bench was reversed. The opinion of Baron Parke, which had the concurrence of the whole court, contains a full review of all the cases and arguments bearing on the subject This decision of a doubtful point is of the highest authority, and as I fully assent to the reasons on which it is found­ed, I consider it conclusive on the general question, and shall therefore content my­self by referring to that case, where the ar­guments on both sides of the question have been exhausted by the counsel and court. It is true this case does not decide, that there is no warranty of seaworthiness at all in a time policy, or that there is not a war­ranty that the ship is or shall be seaworthy for that voyage, if the ship be then about to sail on a voyage; or if she be at sea that she was not seaworthy when the voyage commenced. It may be true, also, that there is in a time policy a warranty of seaworthi­ness at the commencement of the risk, so far as lay in the power of the assured to effect it, so that if the ship had met with damage before, and could have been im­paired by the exercise of reasonable care and pains, and was not, the policy would not attach. But in all such cases the plea must state such facts, and circumstances as shall show either that at the time the in­surance commenced, the ship was in her original port of departure, and commenced her voyage in an unseaworthy condition, and so continued till the time of her loss— or that' having come into a distant port in a damaged condition before or after the commencement of the risk, where she might and ought to have been repaired, and the owner or his agents neglected to make such repairs, and the vessel was lost by a cause, which may be attributed to the insufficiency of the ship. As neither of these pleas comes within the conditions stated, we overrule them, and give judgment for plaintiff on the demurrers.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="984" ORDERLABEL="982" TYPE="page">
+        <fptr FILEID="tiff_00492_1"/>
+        <fptr FILEID="jp2_00492_1"/>
+        <fptr FILEID="alto_00492_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_984.17" BETYPE="IDREF" FILEID="alto_00492_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="985" ORDERLABEL="983" TYPE="page">
+        <fptr FILEID="tiff_00493_0"/>
+        <fptr FILEID="jp2_00493_0"/>
+        <fptr FILEID="alto_00493_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_985.6" BETYPE="IDREF" FILEID="alto_00493_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b984-12" BETYPE="IDREF" FILEID="casebody_0471"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_984.15" BETYPE="IDREF" FILEID="alto_00492_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b984-17" BETYPE="IDREF" FILEID="casebody_0471"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_984.20" BETYPE="IDREF" FILEID="alto_00492_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b984-15" BETYPE="IDREF" FILEID="casebody_0471"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_984.18" BETYPE="IDREF" FILEID="alto_00492_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b984-16" BETYPE="IDREF" FILEID="casebody_0471"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_984.19" BETYPE="IDREF" FILEID="alto_00492_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXWg" BETYPE="IDREF" FILEID="casebody_0471"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_984.6" BETYPE="IDREF" FILEID="alto_00492_1"/>
+            <area BEGIN="BL_984.7" BETYPE="IDREF" FILEID="alto_00492_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQMn" BETYPE="IDREF" FILEID="casebody_0471"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_984.21" BETYPE="IDREF" FILEID="alto_00492_1"/>
+            <area BEGIN="BL_984.22" BETYPE="IDREF" FILEID="alto_00492_1"/>
+            <area BEGIN="BL_985.4" BETYPE="IDREF" FILEID="alto_00493_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b984-4" BETYPE="IDREF" FILEID="casebody_0471"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_984.4" BETYPE="IDREF" FILEID="alto_00492_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b984-5" BETYPE="IDREF" FILEID="casebody_0471"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_984.5" BETYPE="IDREF" FILEID="alto_00492_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b984-2" BETYPE="IDREF" FILEID="casebody_0471"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_984.2" BETYPE="IDREF" FILEID="alto_00492_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b984-3" BETYPE="IDREF" FILEID="casebody_0471"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_984.3" BETYPE="IDREF" FILEID="alto_00492_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

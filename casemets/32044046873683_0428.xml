@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0428" publicationstatus="published">
+          <court abbreviation="C.C.D.R.I." jurisdiction="United States">United States Circuit Court for the District of Rhode Island</court>
+          <name abbreviation="The Euphrates">The EUPHRATES, ETC.</name>
+          <docketnumber>Case No. 4,546</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 815</citation>
+          <citation category="parallel" type="bluebook">1 Gall. 451</citation>
+          <decisiondate>1813-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00409_0" MIMETYPE="image/tiff" CHECKSUM="e0be38873e1dbca1c7ddb9bb79f484ee" CHECKSUMTYPE="MD5" SIZE="93278">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00409_0.tif"/>
+      </file>
+      <file ID="tiff_00409_1" MIMETYPE="image/tiff" CHECKSUM="4853734a314abd7e879811adcf9738cd" CHECKSUMTYPE="MD5" SIZE="74518">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00409_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00409_0" MIMETYPE="image/jp2" CHECKSUM="639a862d006a8e61a9d0716761ae4986" CHECKSUMTYPE="MD5" SIZE="3544908">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00409_0.jp2"/>
+      </file>
+      <file ID="jp2_00409_1" MIMETYPE="image/jp2" CHECKSUM="614d58f87d1aac7ac9558d75aa617aff" CHECKSUMTYPE="MD5" SIZE="2942796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00409_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00409_0" MIMETYPE="text/xml" CHECKSUM="96679a3ad323efc4c20ca5330e17c756" CHECKSUMTYPE="MD5" SIZE="205224">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00409_0.xml"/>
+      </file>
+      <file ID="alto_00409_1" MIMETYPE="text/xml" CHECKSUM="81aa0aa92b3e33f56d5f3bceca9d70bd" CHECKSUMTYPE="MD5" SIZE="158484">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00409_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0428" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="816" firstpage="815">
+              <court id="b817-8" pgmap="817">Circuit Court, D. Rhodes Island.</court>
+              <docketnumber id="b817-5" pgmap="817">Case No. 4,546.</docketnumber>
+              <citation id="b817-7" pgmap="817">[1 Gall. 451.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b817-6" pgmap="817">The EUPHRATES, ETC.</parties>
+              <decisiondate id="AVZFN" pgmap="817">June Term, 1813.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <footnote label="1">
+                <p id="b817-14" pgmap="817">1 [Reported by John Gallison, Esq.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="A4sl" pgmap="817">2 [Affirmed in 8 Cranch (12 U. S.) 385.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b817-18" pgmap="817">STORY, Circuit Justice.</author>
+                <p id="AFT7" pgmap="817(405) 818(91)">The principles, which govern applications of this nature, have been settled in England, in a good de­gree, by statute. In the United States, they remain under the general regulations of ad­miralty proceedings. In prize causes, before a hearing, the property is never delivered to either party on bail, unless by consent If it be perishable, the proper remedy is by an appraisement and sale. The Copenhagen, 3 C. Rob. Adm. 178. And in like manner the court will decree a sale, pending the proceed­ings, for any other justifiable cause. And upon sales under such decrees, the proceeds must be brought into court, and deposited in the registry, subject to the future order of the court After a hearing, the property may, in the discretion of the court, be deliv­ered on bail. In cases ordered for further proof, a delivery on bail is sometimes al­lowed to the claimants; and if they decline, to the captors. But it is a proceeding adopt­ed with extreme caution, as it opens a door to many inconveniences, and sometimes +o frauds. To avoid these, a decree of sale and deposit of the proceeds is usually and prop­erly resorted to, especially on applications as to the cargo. And in no case should a deliv­ery on bail take place, until the court is fully satisfied, that the appraisement is perfectly fair, and the property estimated at its full value. Where, on the hearing, the property is acquitted, and an appeal is interposed to a tribunal not sitting within the same juris­diction, or into which the property does not follow the cause, (as is the case of the su­preme court of the United States in relation to this court,) the claimants are generally al­lowed a delivery of the property, or, in case of sale, of its proceeds, on giving bail. Where there is a decree of condemnation, the same rule is in general adopted, as to. the cap­tors. But it is always an application to the sound discretion of the court, and if there be danger of injustice, the court will withhold it from either party, and content itself with retaining the property, or with ordering a sale thereof, and a deposit of the proceeds in the registry. In the various claims before the court, it seems to be conceded on all sides, that if the property is not to be .de­livered on bail, a sale thereof would be for the benefit of all parties. I should feel an extreme reluctance to deliver the property in any of these claims on bail, by appraisement, notwithstanding some of them are cases or­dered for further proof. The goods were des­tined for this market, and it is more fair and just to all parties, to ascertain the value by a free and fair sale, than by an appraise­ment, which may be liable to many except tions, and depends so much upon opinion.</p>
+                <p id="b818-3" pgmap="818">I shall therefore direct a general sale, and a deposit of the proceeds in court, in all cas­es, except where a sentence of acquittal or condemnation has passed upon the property. In cases of condemnation, where the claim­ants have abandoned an appeal, and the United States alone have interposed an ap­peal, upon a claim to the property founded upon a supposed forfeiture, accruing from a breach of the non-importation act, as I have had little difficulty upon the principal hear­ing in rejecting this claim, I shall, after a sale, order the proceeds to be delivered over to the captors, upon giving bail. In the oth­er cases of condemnation, I shall, under the circumstances, retain the proceeds of the property, which is to be sold, in court; and where the property has been heretofore de­livered to the claimants on bail, I shall not order a payment of the value into court, but suffer it to remain until the final decision.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="817" ORDERLABEL="815" TYPE="page">
+        <fptr FILEID="tiff_00409_0"/>
+        <fptr FILEID="jp2_00409_0"/>
+        <fptr FILEID="alto_00409_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_817.3" BETYPE="IDREF" FILEID="alto_00409_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="818" ORDERLABEL="816" TYPE="page">
+        <fptr FILEID="tiff_00409_1"/>
+        <fptr FILEID="jp2_00409_1"/>
+        <fptr FILEID="alto_00409_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_818.6" BETYPE="IDREF" FILEID="alto_00409_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVZFN" BETYPE="IDREF" FILEID="casebody_0428"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_817.12" BETYPE="IDREF" FILEID="alto_00409_0"/>
+            <area BEGIN="BL_817.13" BETYPE="IDREF" FILEID="alto_00409_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b817-8" BETYPE="IDREF" FILEID="casebody_0428"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_817.11" BETYPE="IDREF" FILEID="alto_00409_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b817-18" BETYPE="IDREF" FILEID="casebody_0428"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_817.22" BETYPE="IDREF" FILEID="alto_00409_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b817-6" BETYPE="IDREF" FILEID="casebody_0428"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_817.9" BETYPE="IDREF" FILEID="alto_00409_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b817-7" BETYPE="IDREF" FILEID="casebody_0428"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_817.10" BETYPE="IDREF" FILEID="alto_00409_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b818-3" BETYPE="IDREF" FILEID="casebody_0428"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_818.7" BETYPE="IDREF" FILEID="alto_00409_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b817-5" BETYPE="IDREF" FILEID="casebody_0428"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_817.8" BETYPE="IDREF" FILEID="alto_00409_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFT7" BETYPE="IDREF" FILEID="casebody_0428"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_817.23" BETYPE="IDREF" FILEID="alto_00409_0"/>
+            <area BEGIN="BL_817.24" BETYPE="IDREF" FILEID="alto_00409_0"/>
+            <area BEGIN="BL_818.3" BETYPE="IDREF" FILEID="alto_00409_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b817-14" BETYPE="IDREF" FILEID="casebody_0428"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_817.18" BETYPE="IDREF" FILEID="alto_00409_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4sl" BETYPE="IDREF" FILEID="casebody_0428"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_817.19" BETYPE="IDREF" FILEID="alto_00409_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

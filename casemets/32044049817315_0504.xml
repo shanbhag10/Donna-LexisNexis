@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0504" publicationstatus="published">
+          <court abbreviation="C.C.D. Ohio" jurisdiction="United States">United States Circuit Court for the District of Ohio</court>
+          <name abbreviation="Jones v. Vanzandt">JONES v. VANZANDT</name>
+          <docketnumber>Case No. 7,503</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1054</citation>
+          <citation category="parallel" type="bluebook">4 McLean, 599</citation>
+          <decisiondate>1849-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00528_1" MIMETYPE="image/tiff" CHECKSUM="57eb6831c3185258fc7118eebf23d81f" CHECKSUMTYPE="MD5" SIZE="71634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00528_1.tif"/>
+      </file>
+      <file ID="tiff_00529_0" MIMETYPE="image/tiff" CHECKSUM="491e6747546e5afcd31bd2e47618e054" CHECKSUMTYPE="MD5" SIZE="116106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00529_0.tif"/>
+      </file>
+      <file ID="tiff_00529_1" MIMETYPE="image/tiff" CHECKSUM="7812841df6623c1d1a3b48954b3daf8a" CHECKSUMTYPE="MD5" SIZE="91872">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00529_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00528_1" MIMETYPE="image/jp2" CHECKSUM="03b8a062013185847cfea0d72ba56b98" CHECKSUMTYPE="MD5" SIZE="2885284">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00528_1.jp2"/>
+      </file>
+      <file ID="jp2_00529_0" MIMETYPE="image/jp2" CHECKSUM="8d50e6cba69846eb4c8bc904d7f48d9a" CHECKSUMTYPE="MD5" SIZE="3845687">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00529_0.jp2"/>
+      </file>
+      <file ID="jp2_00529_1" MIMETYPE="image/jp2" CHECKSUM="08c9a3a5d4539395b8a0bddd0f6d3b85" CHECKSUMTYPE="MD5" SIZE="3304081">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00529_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00528_1" MIMETYPE="text/xml" CHECKSUM="7fa4df5038c482132d1f648de8bdcdfd" CHECKSUMTYPE="MD5" SIZE="158535">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00528_1.xml"/>
+      </file>
+      <file ID="alto_00529_0" MIMETYPE="text/xml" CHECKSUM="6c2e49c92fb38cc91f96795f7663f1eb" CHECKSUMTYPE="MD5" SIZE="256402">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00529_0.xml"/>
+      </file>
+      <file ID="alto_00529_1" MIMETYPE="text/xml" CHECKSUM="22fb9545cf9b0f3b1cfc929943de890d" CHECKSUMTYPE="MD5" SIZE="198342">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00529_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0504" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1056" firstpage="1054">
+              <court pgmap="1056" id="b1056-10">Circuit Court, D. Ohio.</court>
+              <docketnumber pgmap="1056" id="b1056-7">Case No. 7,503.</docketnumber>
+              <citation pgmap="1056" id="b1056-9">[4 McLean, 599.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1056" id="b1056-8">JONES v. VANZANDT.</parties>
+              <decisiondate pgmap="1056" id="AmKp">Nov. Term. 1849.</decisiondate>
+              <attorneys pgmap="1056" id="b1056-23">Mr. Fox, for plaintiff.</attorneys>
+              <attorneys pgmap="1056" id="b1056-24">Mr. Chase, for defendant.</attorneys>
+              <footnote label="1">
+                <p pgmap="1056" id="b1056-19">1 [Reported by Hon. John McLean, Circuit Justice.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p pgmap="1056" id="b1056-25">OPINION OF THE COURT. This is a scire facias to revive an action of trespass on the case commenced against Vanzandt, on a charge that he assisted certain negroes to escape from the service of the plaintiff in Kentucky, by reason of which one of them was lost to the plaintiff, and for the recap­tion and return of the others, the plaintiff was subjected by the law of Kentucky to the payment of a large sum of money. The jury rendered a verdict in favor of the plain­tiff, for twelve hundred dollars in damages. [Case No. 7,501.] A motion was made for a new trial and also a motion in arrest of judg­ment. The court, for reasons stated, granted a new trial at the cost of the defendant. [Id. 7,502.] But, as the costs were not paid, a new trial was not claimed, and was aban­doned. During the course of the trial cer­tain important points were raised, on which there was a division of opinion, between the judges, and the points were certified to the supreme court. That court decided thepoints favorable to the plaintiff, and they were so certified to the circuit court. But before this decision was entered in the circuit court. Vanzandt the defendant, died; and a scire facias was issued to revive the suit against his administrators. To this scire facias the defendant on the 29th of July, 1848, demur­red, and this raises the question of law in the ease. Does the action survive? If it does, under the 31st section of the judiciary act of 1789 [1 Stat. 90], the administrator is a proper party, and the suit may be revived against him.</p>
+                <p pgmap="1056(95) 1057(157)" id="b1056-26">Causes of actions on contracts survive by the common law to the executors or admin­istrators of both parties. Mellen v. Bald­win, 4 Mass. 480. But except by statute, ac­tions of torts, replevin, etc., do not survive against the executors or administrators, un­less the estate of the deceased received some gain from the wrong, when some form of ac­tion will lie. Pitts v. Hale, 3 Mass. 321; Mellen v. Baldwin, 4 Mass. 480; Cravath v. Plympton, 13 Mass. 454; Wilbur v. Gilmore, 21 Pick. 250, 252. But by the statute of Edw. III. c. 7, such actions survive to him if any personal property of the plaintiff was injured by the tort. Jenney v. Jenney, 14 Mass. 231; Badlam v. Tucker, 1 Pick. 389. In the ease of the United States v. Ex’rs of Daniel, 6 How. [47 U. S.] 11, the supreme ■court held that an action on the ease will not lie against the executors of a deceased marshal, for a false return made by the dep­uty. The court says, “If the person charged has received no benefit to himself, at the ex­pense of the sufferer, the cause of action does not survive. But where, by means of the offense, property is acquired, which benefits the testator, there an action for the value of the property survives against the executor.” And as to the form, that no action will lie -at common law, against an executor, “where the general issue plea is not guilty.”</p>
+                <p pgmap="1057" id="b1057-4">Where there is a duty as well as a wrong, .an action will lie against executors. Bacon, Abr. tit. “Executors and Administrators.” The rule is, that at common law a personal action dies with the person, and this has been construed to apply to injuries done by, or to the testator. But it has been held un­der the 4 Edw. III. c. 7, that the rule does not ■extend to an injury done to the testator of the plaintiff, when it would apply to the tes­tator of the defendant. Mason v. Dixon [Levaston v. Diskins cited] Cr. Car. 297; 1 Rolle, Abr. 921. If a sheriff suffer an es­cape, the executor of the party at whose .suit, the defendant was in custody, may maintain an action. But, if the sheriff had died the plaintiff could have no remedy .■against his executor. For a false return the -executor of the plaintiff maintained an ac­tion, against the "heriff, but no remedy could have been had uiainst the executor of the ¡sheriff:-. This decision was placed upon the ground, that the injury was not done to the person of the testator of the plaintiff, but to his estate. 1 Salk. 12. But the right to re­vive an action must depend upon some stat­utory provision, the common law applies only to the cause of action. The act of congress, May 19th, 1828 [supra], provides, “that the forms of mesne process except the style and the forms and modes of proceedings in suits in the courts of the United States, held in those states admitted to the Union since Sep­tember 29th, 1789, in those at common law shall be the same in each of those states respectively, as are now used in the highest •court of original general jurisdiction of the •.same, except so far as may have been other­wise provided by acts of congress,” ete. This ract regulates the practice of thecourt, and con­sequently, adopts any act of the state which regulates the practice of the courts. The •act of Ohio of February 18th, 1824 [22 Ohio St. p. 65], provides, “if in any action of tres­pass on the case, for an injury done to prop- • erty, real or personal, or action of trespass •on property, real or personal, either of the parties shall die before judgment, such an ¡action or suit shall not thereby abate, but may be proceeded in to final judgment and execution iu the same manner as herein be­fore provided for in other cases.” This stat­ute refers to an action pending and before judgment. Whether it may be construed so as to save the cause of action in the eases named, no suit having been commenced it is not necessary now to decide. Does this statute embrace the case under consideration? The Ohio statute was passed before the act of congress of 1828, which adopted the state practice, consequently the statute governs the practice of this court It applies to all actions of trespass on the case for injuries to property real or personal, and this is an action of trespass on the case; but it is con­tended it is not brought for an injury done to personal or real property, as slaves can not be considered property under the consti­tution and laws of the United States. They are no where denominated ■ property in the constitution or laws of the United States; but they are treated as property under the laws of the slave states, and those laws must govern in all matters of controversy respect­ing the rights of property in those states. This is a principle universally acknowledged by all courts in the free as well as in the slave states.</p>
+                <p pgmap="1057(305) 1058(304)" id="b1057-6">This suit, as has been often held in similar cases,' as regards the remedy, is founded on the act of congress and the constitution of the United States. Had there been no such remedy provided, the master could not have reclaimed his fugitive slave in a free state, nor recovered damages for- his abduction: But the statute, in this form of action, mere­ly gives a remedy for a wrong done. The extent of the injury will measure the amount of damages to be recovered. And the only question that can arise is, whether the injury complained of was done to the property of the plaintiff. It was not done to his person nor to his character. If he has sustained an injury for which damages may be recovered, it must then have been in his property. Property is the exclusive right of possessing, enjoying and disposing of a thing which is in itself valuable. It is ownership. Now, the plaintiff, residing in Kentucky, owned the slaves named in. the declaration, who es­caped from his service by the wrongful acts of the defendant, and which subjected the plaintiff to certain losses and charges, for which a verdict for twelve hundred dollars in damages was given him by the jury. Is not this an injury to. property — not prop­erty in Ohio, but property in Kentucky, the right of which is guarantied by the constitu­tion and act of congress. Literary property is the exclusive right of printing, publishing and making profit by one’s own writings. The property in a slave consists, under the laws of Kentucky, in the right of the master to his services; and when he is deprived of this right illegally, he sustains an injury which the law redresses. And it is imma­terial whether the injury complained of be done in Kentucky or Ohio. If the act he in violation of the law, and it shall deprive the master of the services of his slave, an action of trespass on the case is sustainable. But it is insisted that the part of the Ohio act of 1824, which relates to the abatement of suits, does not apply to this court, as the act of 1789 provides, that suits may be prosecuted where either party dies, by the representa­tives of the deceased, if by law the cause of action survive; and that this excepts the clause in question from the operation of the act of 1828. That act does except, from its operation, any state statute regulating the practice, where an act of congress has regu­lated the same subject. The act of 1789 pro­vides, that no suit shall abate, where the 'cause of action survives. The state statute goes further and provides, that an action of trespass on the case, or trespass on real or personal property, shall also survive. Here is no conflict. Both laws are consistent with each other, and may well stand together. At the time the act of 1828 was passed, the state act of 1824 was adopted, and may be pre­sumed to have been known to congress. By the act of 1828 congress did not intend to re­peal any express provisions made by them respecting the practice; but to facilitate the transaction of business in the courts of the Union, by adopting the practice of the Courts of the respective states, which was best known to the profession. We think that this suit is embraced by the act of 1824, and, con­sequently, does not abate, but may be prose­cuted by the executor or administrator of ei­ther party. The demurrer is overruled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1056" ORDERLABEL="1054" TYPE="page">
+        <fptr FILEID="tiff_00528_1"/>
+        <fptr FILEID="jp2_00528_1"/>
+        <fptr FILEID="alto_00528_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1056.21" BETYPE="IDREF" FILEID="alto_00528_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1057" ORDERLABEL="1055" TYPE="page">
+        <fptr FILEID="tiff_00529_0"/>
+        <fptr FILEID="jp2_00529_0"/>
+        <fptr FILEID="alto_00529_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1057.3" BETYPE="IDREF" FILEID="alto_00529_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1058" ORDERLABEL="1056" TYPE="page">
+        <fptr FILEID="tiff_00529_1"/>
+        <fptr FILEID="jp2_00529_1"/>
+        <fptr FILEID="alto_00529_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1058.17" BETYPE="IDREF" FILEID="alto_00529_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1056-23" BETYPE="IDREF" FILEID="casebody_0504"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1056.24" BETYPE="IDREF" FILEID="alto_00528_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1056-25" BETYPE="IDREF" FILEID="casebody_0504"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1056.26" BETYPE="IDREF" FILEID="alto_00528_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1056-24" BETYPE="IDREF" FILEID="casebody_0504"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1056.25" BETYPE="IDREF" FILEID="alto_00528_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1056-19" BETYPE="IDREF" FILEID="casebody_0504"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1056.19" BETYPE="IDREF" FILEID="alto_00528_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1056-10" BETYPE="IDREF" FILEID="casebody_0504"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1056.11" BETYPE="IDREF" FILEID="alto_00528_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1057-6" BETYPE="IDREF" FILEID="casebody_0504"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1057.7" BETYPE="IDREF" FILEID="alto_00529_0"/>
+            <area BEGIN="BL_1058.2" BETYPE="IDREF" FILEID="alto_00529_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1056-26" BETYPE="IDREF" FILEID="casebody_0504"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1056.27" BETYPE="IDREF" FILEID="alto_00528_1"/>
+            <area BEGIN="BL_1057.1" BETYPE="IDREF" FILEID="alto_00529_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1056-7" BETYPE="IDREF" FILEID="casebody_0504"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1056.8" BETYPE="IDREF" FILEID="alto_00528_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1057-4" BETYPE="IDREF" FILEID="casebody_0504"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1057.5" BETYPE="IDREF" FILEID="alto_00529_0"/>
+            <area BEGIN="BL_1057.6" BETYPE="IDREF" FILEID="alto_00529_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmKp" BETYPE="IDREF" FILEID="casebody_0504"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1056.12" BETYPE="IDREF" FILEID="alto_00528_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1056-8" BETYPE="IDREF" FILEID="casebody_0504"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1056.9" BETYPE="IDREF" FILEID="alto_00528_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1056-9" BETYPE="IDREF" FILEID="casebody_0504"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1056.10" BETYPE="IDREF" FILEID="alto_00528_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

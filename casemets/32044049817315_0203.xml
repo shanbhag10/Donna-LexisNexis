@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0203" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="In re Janeway">In re JANEWAY et al.</name>
+          <docketnumber>Case No. 7,207</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 347</citation>
+          <citation category="parallel" type="bluebook">8 Ben. 267</citation>
+          <decisiondate>1875-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00175_0" MIMETYPE="image/tiff" CHECKSUM="90c78ebb8a408de414a1670d36dc2044" CHECKSUMTYPE="MD5" SIZE="78678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00175_0.tif"/>
+      </file>
+      <file ID="tiff_00175_1" MIMETYPE="image/tiff" CHECKSUM="4a7581e3ff066f0b49d15098781be291" CHECKSUMTYPE="MD5" SIZE="89712">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00175_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00175_0" MIMETYPE="image/jp2" CHECKSUM="d8588eb09e927fb4e741dd655b3e2299" CHECKSUMTYPE="MD5" SIZE="3356701">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00175_0.jp2"/>
+      </file>
+      <file ID="jp2_00175_1" MIMETYPE="image/jp2" CHECKSUM="ef352bec37caa2fa6a20fdacfd63cadf" CHECKSUMTYPE="MD5" SIZE="3309120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00175_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00175_0" MIMETYPE="text/xml" CHECKSUM="f1014149329132e3e4de1db4c8cf9cac" CHECKSUMTYPE="MD5" SIZE="171655">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00175_0.xml"/>
+      </file>
+      <file ID="alto_00175_1" MIMETYPE="text/xml" CHECKSUM="247c84b2d494ecdb230be2fce4fb36ba" CHECKSUMTYPE="MD5" SIZE="194613">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00175_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0203" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="348" firstpage="347">
+              <court pgmap="349" id="ATc">District Court, S. D. New York.</court>
+              <docketnumber pgmap="349" id="b349-15">Case No. 7,207.</docketnumber>
+              <citation pgmap="349" id="At-">[8 Ben. 267.] <footnotemark>2</footnotemark>
+              </citation>
+              <parties pgmap="349" id="AWZ">In re JANEWAY et al.</parties>
+              <decisiondate pgmap="349" id="AeK">Dec., 1875.</decisiondate>
+              <attorneys pgmap="349" id="b349-25">Carter &amp; Eaton, for the composition.-</attorneys>
+              <attorneys pgmap="349" id="b349-26">W. A. Coursen,' in opposition.</attorneys>
+              <footnote label="2">
+                <p pgmap="349" id="AfB">2 [Reported by Robert D. Benedict, Esq., and Benj. Lincoln Benedict Esq., and here reprint­ed by permission.] I</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="349" id="b349-27">BLATCHFORD, District Judge.</author>
+                <p pgmap="349" id="AW0B">.The terms of the composition in this case, as confirmed by the required number and amount of cred­itors, are, that the firm of [William R.] Jane-­way. &amp; Co. is to pay 75 per cent, of its debts, in 5 equal instalments of 15 per cent, each, in 12, 18, 24, 30 and 36 months, evidenced by the notes of the firm for like amounts and on like times, bearing interest, but unsecured and unendorsed, and the individual members of the firm are to pay their individual debts in full, in 5 .equal instalments of 20 per cent, each, in Í2, 18, 24, 30 and 36 months, evi­denced by their respective individual notes for like amounts and on like times, bearing interest, but unsecured and unendorsed. The composition further provides, that .the notes shall be deliverable within 10 days after the date of the order of the court confirming the resolutions of composition. It also provides, that, immediately upon the recording of the resolutions by the order of the court, all the property, books and estate of all the debtors shall be restored to them and revert to them, the same as • if no proceedings in view; of their recent insolvency had taken place, and the proceedings in bankruptcy shall be dis­continued or perpetually stayed, at the option of the debtors, and an order to that effect may be entered, without further notice to the creditors.</p>
+                <p pgmap="349(124) 350(94)" id="b349-28">This may truly be said to be no composi­tion whatever.. The creditors, after insti­tuting proceedings in involuntary bankruptcy against the debtors, agree to a composition which provides, that, as soon as the resolu­tion confirming the composition shall be re­corded, all the property of the debtors shall revert to them the same as if no bankruptcy-­proceedings had taken place, and an order discontinuing such proceedings may be enter­ed, at the option of the debtors, without fur­ther notice to the creditors. All this is to be done before any money is paid or any notes are given, and, ten days after the bankruptcy proceedings may be discontinued and put out of court, the notes are to be given. The court will .have lost all power to enforce even the giving of the notes, because the whole matter will be out of court. The creditors-, will be no better off than if they were to dis­continue themselves .the proceedings they have commenced, without asking the court to confirm the resolution of composition, and then treat with the debtors' for a settlement. I certainly cahnot say that I am satisfied that this so-called composition is for the best interest of all concerned. I must, therefore, refuse to order a second meeting of credit­ors.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="349" ORDERLABEL="347" TYPE="page">
+        <fptr FILEID="tiff_00175_0"/>
+        <fptr FILEID="jp2_00175_0"/>
+        <fptr FILEID="alto_00175_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_349.2" BETYPE="IDREF" FILEID="alto_00175_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="350" ORDERLABEL="348" TYPE="page">
+        <fptr FILEID="tiff_00175_1"/>
+        <fptr FILEID="jp2_00175_1"/>
+        <fptr FILEID="alto_00175_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_350.4" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeK" BETYPE="IDREF" FILEID="casebody_0203"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.27" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-28" BETYPE="IDREF" FILEID="casebody_0203"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.39" BETYPE="IDREF" FILEID="alto_00175_0"/>
+            <area BEGIN="BL_350.1" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfB" BETYPE="IDREF" FILEID="casebody_0203"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.31" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWZ" BETYPE="IDREF" FILEID="casebody_0203"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.24" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATc" BETYPE="IDREF" FILEID="casebody_0203"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.26" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AW0B" BETYPE="IDREF" FILEID="casebody_0203"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.37" BETYPE="IDREF" FILEID="alto_00175_0"/>
+            <area BEGIN="BL_349.38" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="At-" BETYPE="IDREF" FILEID="casebody_0203"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.25" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-25" BETYPE="IDREF" FILEID="casebody_0203"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.34" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-26" BETYPE="IDREF" FILEID="casebody_0203"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.35" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-27" BETYPE="IDREF" FILEID="casebody_0203"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.36" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b349-15" BETYPE="IDREF" FILEID="casebody_0203"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_349.23" BETYPE="IDREF" FILEID="alto_00175_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

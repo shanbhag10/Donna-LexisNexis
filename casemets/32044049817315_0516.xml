@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0516" publicationstatus="published">
+          <court abbreviation="N.D. Ga." jurisdiction="United States">United States District Court for the Northern District of Georgia</court>
+          <name abbreviation="In re Jordan">In re JORDAN</name>
+          <docketnumber>Case No. 7,515</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1082</citation>
+          <citation category="parallel" type="bluebook">10 N. B. R. (1874) 427</citation>
+          <decisiondate>1873-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00542_1" MIMETYPE="image/tiff" CHECKSUM="d9418f79dd147c13d989aad565bcafb8" CHECKSUMTYPE="MD5" SIZE="83766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00542_1.tif"/>
+      </file>
+      <file ID="tiff_00543_0" MIMETYPE="image/tiff" CHECKSUM="dc88dba9e726beb838f9fddd53711721" CHECKSUMTYPE="MD5" SIZE="114288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00543_0.tif"/>
+      </file>
+      <file ID="tiff_00543_1" MIMETYPE="image/tiff" CHECKSUM="f23705765263f5a0b45f70331dd7294c" CHECKSUMTYPE="MD5" SIZE="98306">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00543_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00542_1" MIMETYPE="image/jp2" CHECKSUM="5ad74349cf7713773831dc1173336c7a" CHECKSUMTYPE="MD5" SIZE="3013071">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00542_1.jp2"/>
+      </file>
+      <file ID="jp2_00543_0" MIMETYPE="image/jp2" CHECKSUM="e894003b8994fc3a451c4433c63c5945" CHECKSUMTYPE="MD5" SIZE="3828635">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00543_0.jp2"/>
+      </file>
+      <file ID="jp2_00543_1" MIMETYPE="image/jp2" CHECKSUM="bb31e565b8bbaf2ef03c735799b92c3f" CHECKSUMTYPE="MD5" SIZE="3461427">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00543_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00542_1" MIMETYPE="text/xml" CHECKSUM="1caae9ade95eea05cc6ffdecf585e2ea" CHECKSUMTYPE="MD5" SIZE="168308">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00542_1.xml"/>
+      </file>
+      <file ID="alto_00543_0" MIMETYPE="text/xml" CHECKSUM="3e3abf79d7ddd3b8c470c394dc10b813" CHECKSUMTYPE="MD5" SIZE="253318">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00543_0.xml"/>
+      </file>
+      <file ID="alto_00543_1" MIMETYPE="text/xml" CHECKSUM="51eab4ae92d2b30854f8f22cd51b63e6" CHECKSUMTYPE="MD5" SIZE="208316">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00543_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0516" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1084" firstpage="1082">
+              <court pgmap="1084" id="AQUA">District Court, N. D. Georgia.</court>
+              <docketnumber pgmap="1084" id="b1084-5">Case No. 7,515.</docketnumber>
+              <citation pgmap="1084" id="b1084-7">[10 N. B. R. (1874) 427.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1084" id="b1084-6">In re JORDAN.</parties>
+              <footnote label="1">
+                <p pgmap="1084" id="b1084-13">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1084" id="b1084-11">By ALEXANDER G. MURRAY,</author>
+                <p pgmap="1084(99) 1085(983)" id="AqLL">Register: This is a question involving the constitu­tionality of the amendatory bankrupt act of March 3, 1873, and the movers of the ob­jections are prompted by the recent decision of Chief Justice Waite in Re Deekert [Case No. 3,728]. The constitutionality of this amendment has been sustained by Judge Dick in Re Jordan [Id. 7,514]; by Judge Rives in Re Kean [Id. 7,630]; and by Judge Erskine in Re Smith [Id. 12,986]; and the same principle has been sustained by Judges Miller and Krekel in Re Beckerkord [Id. 1,-­209]. When we reflect that the two houses of congress, many members of each being well versed in our constitution and laws, liave given tbis amendment tlieir approval, and that it has been examined and sustained by this array of legal talent, we should be slow to throw aside that theory which has been approved and acted on for seven years, to adopt a new one, advanced by one justice,, and he a new man in the position he occu­pies. If this amendment is unconstitutional for lack of uniformity, because it exempts as a homestead the amount allowed by the states respectively in 1871, so was the orig­inal act, wherein it exempted the amount al­lowed by the state law of force in 18G4. Each state in our Union allows a homestead to suit the condition of its own people, and congress, in adopting the amount of the stale homestead, has approached as near uniform­ity as could have been done by any other plan. Land in some localities is worth a great deal more than in others. Hence, if a homestead be measured by acres and all homesteads made uniform as to acreage, there would be great discrepancy in value. And on the other hand, if homesteads are to be made uniform in value, the area of land cov­ered by them would be as variant as the lo-. calities in which they might be situated. Uniformity in area and value too, at the same time, is impossible; and we therefore cannot believe that the framers of our consti­tution intended to so far stultify themselves as to require an impossibility. In granting to congress the power to pass uniform laws on the subject of bankruptcies throughout the United States, they only intended to re­quire that uniformity which is possible; that is to say, that a bankrupt law should be uni­form in its application to all the states alike. To require that it should be uniform in the effects to be produced by it, and set off to each bankrupt a homestead of uniform area and value, would be requiring an impossi­bility, and such requirement would destroy the utility of the grant itself, by requiring that which could not be done in the exercise of the grant. Any theory which would lead to such a result is most certainly erroneous. To allow the theory of Chief Justice Waite, would require that a bankrupt law “must be uniform- in its operations, not only within a state, but within and among all the states. If it provides that property exempt from execu­tion shall be exempt from assignment in one state it must in all. If it specially sets apart for the use of the bankrupt certain property, or certain amounts of property, in one state, without regard to exemption laws, it must' do the same in all. If it provides that certain kinds of property shall not be assets under the law in one place, it must make the same provision for every other place within which it is to have effect.” Now, any one need only read over these requirements and then call to mind how different — how variant the con­ditions of the people, and the circumstances surrounding them, in the different sections of our country; how the soil itself varies in productiveness in different localities, and con­sequently in value; how the value of the same kind of soil varies according to locality and surroundings; how much more money it requires to support a family in some places than in others; how that a farm of sufficient area to support a family anywhere near the city of New York, or Boston, or Philadelphia, would cost several thousand dollars, whereas two hundred dollars’ worth in some other lo­calities would be amply sufffeient — to show the unreasonableness, not to say the absurdi­ty of such a theory. • The object of the law in allowing a homestead, is to leave the bankrupt sufficient real and personal proper­ty to make a support for his family in the locality where he resides, and to apply what­ever other property he has to the satisfac­tion and discharge of his debts. To exempt less than sufficient, or more than sufficient, would be equally erroneous; and any uni­form value, or uniform quantity or amount, which might be proper in one place would in others be too little and in others still more than sufficient. Hence, a theory which for the sake of uniformity as to value should set apart four times as much land as would be necessaiy in one locality, and perhaps not half enough in another; or for the sake of uniformity as to quantity or amount, should set apart several thousand dollars’ worth in one locality and perhaps not exceeding one hundred dollars’ worth in another, would ut­terly fail to accomplish the object intended. Congress has arrived at the reasonably re­quired uniformity when it has exempted to each bankrupt enough, and to none more than enough, for his necessary support in the locality where he resides; and in order to ascertain what is a necessary suppoii in each’ locality no better method can be adopted than to exempt the amount specified by local laws. Let the required uniformity consist in a suf­ficiency and no more than a sufficiency for support, and the theory is practicable in any locality. But to require uniformity as to val­ue or amount, and to apply it to all localities, is impracticable and therefore absurd. If any state in the Union in 1871 allowed a homestead too large or too small, it is no fault of congress, which body doubtless act­ed upon the legitimate presumption that each state had been honest in its legislation, and by its local law had designated a proper homestead to meet the necessities of its peo­ple.</p>
+                <p pgmap="1085(95) 1086(496)" id="b1085-5">There is another view of this amendment taken by Judge Waite that I deem it proper to notice. He says, “The first question that presents itself to our consideration is, wheth­er the act of 1873, in so far as it seeks, in the administration of the bankrupt law, to give effect to the exemption laws of a state differ­ent from that which is given by the state it­self, is constitutional?” This shows clearly that he understood the act of congress as in­tending to give effect to state law. I do not so understand it. The history of this amend­ment. or the cause which led to its enact­ment, shows what construction should he put upon it; and explains the reason why the act recites that “the exemptions to be allowed in bankruptcy shall be valid against debts con­tracted before the adoption and passage of •such state constitution and laws, as well as those contracted after the same,” etc. June 8, 1872 [17 Stat 334], congress, in reference to the allowance of homesteads as provided by state laws, struck out of the original bank­rupt act the words “1864,” and inserted in lieu thereof “1871,” so as to provide for the setting apart in bankruptcy exemptions cor­responding in amount with those allowed by state laws of force in 1871, instead of 1864, as by the original act. After this amendment of June 8, 1872, went into' operation, Judge Rives, of the Western district of Virginia (In ReWyllie [Case No. 18,112]), decided that “it did not purport to embrace the homestead in the terms employed by the constitution of Virginia, so as to make it good against debts heretofore contracted,, which, it'is conceded, congress might have done if it had chosen.” And some state court decisions were made to the same purport. As a rejoinder to these decisions the amendment of 1873 [17 Stat 577] was passed, and was intentionally so worded as to cover the whole ground of these decisions. Hence its peculiar phraseology. But the meaning of it stated in plain terms is, that in the administration of the bank­rupt law, exemptions shall be set apart cor­responding in amount with those allowed by the constitution and laws of each state re­spectively, as existing in 1871, and that such exemptions shall be valid against- debts with­out regard to the time when contracted, and against liens by judgment or decree of any state court; and the concluding words of the act show conclusively that congress in­tended to set apart these exemptions inde­pendently of and unrestricted by any state law as declared by the decision of any state court It was only intended to look to state law to ascertain what amount should be al­lowed as exempt in each locality. In all other respects it was intended to set apart exemptions as above stated. The amount of the homestead shall be that “allowed by the constitution and laws of each state respec­tively, as existing in the year 1871.” But further than this, state laws have no bearing upon the exemptions. If this be the true in­terpretation of the act, and I cannot, from a careful reading, see any good reason to doubt it, thé idea that congress sought “to give ef­fect to the exemption laws of a state dif­ferent from that given by the state itself,” falls to the ground. With these views, the register cannot do otherwise than sustain the act in question as constitutional.</p>
+                <author pgmap="1086" id="b1086-5">ERSKINE, District Judge.</author>
+                <p pgmap="1086" id="AHA">The opinion of Register Murray is correct. See In re Smith [Case No. 12,986].</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1084" ORDERLABEL="1082" TYPE="page">
+        <fptr FILEID="tiff_00542_1"/>
+        <fptr FILEID="jp2_00542_1"/>
+        <fptr FILEID="alto_00542_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1084.5" BETYPE="IDREF" FILEID="alto_00542_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1085" ORDERLABEL="1083" TYPE="page">
+        <fptr FILEID="tiff_00543_0"/>
+        <fptr FILEID="jp2_00543_0"/>
+        <fptr FILEID="alto_00543_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1085.4" BETYPE="IDREF" FILEID="alto_00543_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1086" ORDERLABEL="1084" TYPE="page">
+        <fptr FILEID="tiff_00543_1"/>
+        <fptr FILEID="jp2_00543_1"/>
+        <fptr FILEID="alto_00543_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1086.7" BETYPE="IDREF" FILEID="alto_00543_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1084-5" BETYPE="IDREF" FILEID="casebody_0516"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.7" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1084-7" BETYPE="IDREF" FILEID="casebody_0516"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.9" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1084-6" BETYPE="IDREF" FILEID="casebody_0516"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.8" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1086-5" BETYPE="IDREF" FILEID="casebody_0516"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1086.3" BETYPE="IDREF" FILEID="alto_00543_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1084-13" BETYPE="IDREF" FILEID="casebody_0516"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.18" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHA" BETYPE="IDREF" FILEID="casebody_0516"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1086.4" BETYPE="IDREF" FILEID="alto_00543_1"/>
+            <area BEGIN="BL_1086.5" BETYPE="IDREF" FILEID="alto_00543_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQUA" BETYPE="IDREF" FILEID="casebody_0516"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.10" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqLL" BETYPE="IDREF" FILEID="casebody_0516"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.16" BETYPE="IDREF" FILEID="alto_00542_1"/>
+            <area BEGIN="BL_1084.17" BETYPE="IDREF" FILEID="alto_00542_1"/>
+            <area BEGIN="BL_1085.1" BETYPE="IDREF" FILEID="alto_00543_0"/>
+            <area BEGIN="BL_1085.2" BETYPE="IDREF" FILEID="alto_00543_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1085-5" BETYPE="IDREF" FILEID="casebody_0516"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1085.6" BETYPE="IDREF" FILEID="alto_00543_0"/>
+            <area BEGIN="BL_1086.1" BETYPE="IDREF" FILEID="alto_00543_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1084-11" BETYPE="IDREF" FILEID="casebody_0516"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.15" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

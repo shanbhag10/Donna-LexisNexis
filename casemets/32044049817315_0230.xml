@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0230" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="The Java">The JAVA</name>
+          <docketnumber>Case No. 7,234</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 384</citation>
+          <citation category="parallel" type="bluebook">1 Lowell, 165</citation>
+          <decisiondate>1867-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00193_1" MIMETYPE="image/tiff" CHECKSUM="711b7aade6670b5f0ff1683563588cc7" CHECKSUMTYPE="MD5" SIZE="90894">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00193_1.tif"/>
+      </file>
+      <file ID="tiff_00194_0" MIMETYPE="image/tiff" CHECKSUM="7255c92060d488d12dbac6c04b6a9850" CHECKSUMTYPE="MD5" SIZE="110570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00194_0.tif"/>
+      </file>
+      <file ID="tiff_00194_1" MIMETYPE="image/tiff" CHECKSUM="a668488847e168ca584084b5b2250a4d" CHECKSUMTYPE="MD5" SIZE="59692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00194_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00193_1" MIMETYPE="image/jp2" CHECKSUM="afed4f0d48867cbfe18e704f1ed73c05" CHECKSUMTYPE="MD5" SIZE="3374994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00193_1.jp2"/>
+      </file>
+      <file ID="jp2_00194_0" MIMETYPE="image/jp2" CHECKSUM="7e092146f389b4c200f27c2e65e31af8" CHECKSUMTYPE="MD5" SIZE="3723577">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00194_0.jp2"/>
+      </file>
+      <file ID="jp2_00194_1" MIMETYPE="image/jp2" CHECKSUM="295dd1760724984869c6feb393f5e296" CHECKSUMTYPE="MD5" SIZE="2562077">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00194_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00193_1" MIMETYPE="text/xml" CHECKSUM="515ec1de53cb5a8d84ac9fc32fc68de2" CHECKSUMTYPE="MD5" SIZE="193728">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00193_1.xml"/>
+      </file>
+      <file ID="alto_00194_0" MIMETYPE="text/xml" CHECKSUM="4a1059095d618e6f582fc781dcae392b" CHECKSUMTYPE="MD5" SIZE="242392">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00194_0.xml"/>
+      </file>
+      <file ID="alto_00194_1" MIMETYPE="text/xml" CHECKSUM="783020b564f9fff50bf77d8d68140ee7" CHECKSUMTYPE="MD5" SIZE="124800">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00194_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0230" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="386" firstpage="384">
+              <court pgmap="386" id="Ah_">District Court, D. Massachusetts.</court>
+              <docketnumber pgmap="386" id="b386-10">Case No. 7,234.</docketnumber>
+              <citation pgmap="386" id="AIRg">[1 Lowell, 165.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="386" id="AS2">The JAVA.</parties>
+              <decisiondate pgmap="386" id="ALFL">Oct., 1867.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys pgmap="386" id="b386-20">R. H. Dana, Jr., for libellants.</attorneys>
+              <attorneys pgmap="386" id="b386-21">W. G. Russell, for claimants.</attorneys>
+              <footnote label="1">
+                <p pgmap="386" id="b386-23">1 [Reported by Hon. John Lowell, LL. D., District Judge, and here reprinted by permis­sion.]</p>
+              </footnote>
+              <footnote label="2">
+                <p pgmap="386" id="b386-24">2 [Reversed in Case No. 7.559. Decree of circuit court reversed in 14 Wall. (81 U. S.) 189.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="386" id="b386-22">LOWELL, District Judge.</author>
+                <p pgmap="386(82) 387(40)" id="AK84">The libellants were the owners of a valuable cargo of lin­seed which was shipped on board the schooner James McCloskey, bound from Boston to New York. The schooner was towed from one of the wharves in East Boston into the stream, and was getting under way near the schoolship George M. Barnard, and had only a part of her fore­sail hoisted, when her master saw the large Cunard propeller steamer Java com­ing round the stern of the schoolship and making directly for the schooner. The schooner's helm was put hard astarboard, blit the steamer ■ struck her abaft the main rigging and knocked a hole through her, and'the linseed was damaged to the amount of some seven thousand dollars.</p>
+                <p pgmap="387" id="b387-4">There is no doubt or question concerning most of the facts of the case. The weather was clear and fine, with a good breeze, the precise direction of which is not important; the time about one o’clock in the afternoon, the tide an early ebb, and neither vessel was seen from the other until .iust before the collision. The questions which arise are, whether, under the circumstances, ei­ther or both vessels were guilty of any neg­ligence which caused or aided in causing the collision.</p>
+                <p pgmap="387" id="b387-5">The burden of proof is on the steamer. And the first question is, whether her look­out was sufficient. It is shown that she had three persons properly stationed for­ward on the lookout, and the evidence is, on the whole, clear and decisive that they were vigilant and discovered the schooner, not only as soon as she discovered the steamer, but as soon as with reasonable diligence they could have discovered her. It appears, too, that the steamer was pro­ceeding very slowly, having stopped her engines some little time before to make sure of clearing another vessel, and that up­on the schooner being seen, prompt and effi­cient measures were taken to clear her, but that it was too late.</p>
+                <p pgmap="387" id="b387-6">The allegation to which most of the evi­dence and arguments have been addressed is, that the Java was .in the wrong in at­tempting to pass on the inner or East Bos­ton side of the schoolship when and as she did. It appears that the George M. Bar­nard is a large vessel, high out of water, which is kept constantly moored during the winter months near the edge of the channel, leaving as much room as possible on the outside between her and Boston, and only a narrow passage on the other side, so that a vessel of the size of the Java could not pass there excepting at or near high-water. There was evidence tending to show that the Cunard steamers rarely do take this passage, though other vessels nearly as large do so not unfrequently, and that it would not be considered prudent for so large a vessel to attempt it when it was much obstructed. The fact that vessels of large size do or do not frequent the place is 'of little importance compared with more direct and pertinent evidence concerning the safety of the passage itself. That Cunard steamers rarely go there might be material in ascertaining whether the schooner in getting under way in that part of the channel had any reason to expect to meet the steamer there, and so bear upon the diligence or want of it on the schoon­er’s part, and upon that ground I admitted this testimony; but it has not become ma­terial to the' decision of the ca;use.' Upon the whole evidence I am satisfied that' a prudent and skilful navigator would not hesitate to take the Java through that pas­sage at that state of the tide, if he saw no obstructions, as of vessels at anchor, or the like.</p>
+                <p pgmap="387" id="b387-8">It is said that if the steamer had taken a course more nearly parallel with that in which the schoolship was lying, she would have seen the schooner earlier, and might have avoided her; and this is true. But whatever direction she had taken the schoolship would have shut out some points of the compass, and there was no reason to apprehend danger from one point more than from another. The case is simply one of running under the stem of a vessel at anchor at a somewhat acute angle, and I am not prepared to say that this is bad navigation, if it be done as slowly and with as much vigilance as is shown in this case. A man may drive round the corner of a road if that is the most convenient way home, though he ought to do it slowly and with more than ordinary care if he cannot see what is on the other side. The failure to see the schooner probably arose from the fact that her sails were not set. I am not prepared to say that this was1 a fault on her part; but it was her misfortune.</p>
+                <p pgmap="387(284) 388(23)" id="b387-9">A consideration of a good deal of weight with my mind in one aspect of the case is this: That the collision does not appear to have been affected in any degree by the narrowness of. the channel. The steamer was simply coming out from behind the schoolship in one direction and the schoon­er in another, and however wide the chan­nel might have been, the former could have done no more than she did. She took the proper measures promptly and without the slightest embarrassment from the narrow­ness of the passage between the ship and the flats, which in fact she had scarcely reached. So that I cannot-see that the pro­priety of the steamer’s course, considered with reference to the peculiarities of this passage, has much .importance in the case. Nor is the fact that she intended to go to the Cunard dock very important, because she was not heading for the dock when the collision happened. It seems that the acci­dent might and would have happened just as it did if the steamer had been going to any other dock, and the schoolship had been anchored in mid-channel, provided the relative position of the three vessels had been the same. So that it comes back, as I have said, merely to the question of run­ning under the stem of a vessel ¿t anchor at an acute angle. And I cannot say that any negligence has been shown on the part of the officers of the steamer, but must hold that this accident, though occurring in broad day, was what the law terms an in­evitable misfortune. The distinction be­tween this case and Crockett v. Newton, 18 How. [59 U. S.] 581, is precisely in the sails of the schooner not being visible over the schoolship. Decree for the claimants.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="386" ORDERLABEL="384" TYPE="page">
+        <fptr FILEID="tiff_00193_1"/>
+        <fptr FILEID="jp2_00193_1"/>
+        <fptr FILEID="alto_00193_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_386.3" BETYPE="IDREF" FILEID="alto_00193_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="387" ORDERLABEL="385" TYPE="page">
+        <fptr FILEID="tiff_00194_0"/>
+        <fptr FILEID="jp2_00194_0"/>
+        <fptr FILEID="alto_00194_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_387.3" BETYPE="IDREF" FILEID="alto_00194_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="388" ORDERLABEL="386" TYPE="page">
+        <fptr FILEID="tiff_00194_1"/>
+        <fptr FILEID="jp2_00194_1"/>
+        <fptr FILEID="alto_00194_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_388.8" BETYPE="IDREF" FILEID="alto_00194_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-5" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.6" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-4" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.5" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-6" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.7" BETYPE="IDREF" FILEID="alto_00194_0"/>
+            <area BEGIN="BL_387.8" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-9" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.11" BETYPE="IDREF" FILEID="alto_00194_0"/>
+            <area BEGIN="BL_388.5" BETYPE="IDREF" FILEID="alto_00194_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b387-8" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_387.10" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIRg" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.14" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-21" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.24" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ah_" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.15" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-23" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.28" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-22" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.25" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AS2" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.13" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALFL" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.16" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AK84" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.26" BETYPE="IDREF" FILEID="alto_00193_1"/>
+            <area BEGIN="BL_386.27" BETYPE="IDREF" FILEID="alto_00193_1"/>
+            <area BEGIN="BL_387.1" BETYPE="IDREF" FILEID="alto_00194_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-10" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.12" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-24" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.29" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b386-20" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_386.23" BETYPE="IDREF" FILEID="alto_00193_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

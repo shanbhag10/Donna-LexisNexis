@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0512" publicationstatus="published">
+          <court abbreviation="D. Me." jurisdiction="United States">United States District Court for the District of Maine</court>
+          <name abbreviation="In re Jordan">In re JORDAN et al.</name>
+          <docketnumber>Case No. 7,511</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1076</citation>
+          <citation category="parallel" type="bluebook">2 Hask. 362</citation>
+          <decisiondate>1879-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00539_1" MIMETYPE="image/tiff" CHECKSUM="143c86b1168f09b35ec830145e8ee63b" CHECKSUMTYPE="MD5" SIZE="79016">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00539_1.tif"/>
+      </file>
+      <file ID="tiff_00540_0" MIMETYPE="image/tiff" CHECKSUM="0fb80bd30cda0d40ca965ac082e023e2" CHECKSUMTYPE="MD5" SIZE="94930">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00540_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00539_1" MIMETYPE="image/jp2" CHECKSUM="7fb4810bc1cfcb9f861ceb70a88f305e" CHECKSUMTYPE="MD5" SIZE="3005499">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00539_1.jp2"/>
+      </file>
+      <file ID="jp2_00540_0" MIMETYPE="image/jp2" CHECKSUM="4a4f4c14c8808c93500bda9ab5cc4cbd" CHECKSUMTYPE="MD5" SIZE="3446851">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00540_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00539_1" MIMETYPE="text/xml" CHECKSUM="8cbb62bc6398b39dfd872dcdffeb5029" CHECKSUMTYPE="MD5" SIZE="167840">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00539_1.xml"/>
+      </file>
+      <file ID="alto_00540_0" MIMETYPE="text/xml" CHECKSUM="368fff625e3bc70461e44e237906865d" CHECKSUMTYPE="MD5" SIZE="206617">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00540_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0512" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1077" firstpage="1076">
+              <court pgmap="1078" id="b1078-14">District Court, D. Maine.</court>
+              <docketnumber pgmap="1078" id="b1078-11">Case No. 7,511.</docketnumber>
+              <citation pgmap="1078" id="b1078-13">[2 Hask. 362.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1078" id="b1078-12">In re JORDAN et al.</parties>
+              <decisiondate pgmap="1078" id="ATkX">May, 1879.</decisiondate>
+              <attorneys pgmap="1078" id="b1078-21">Thomas H. Haskell, for assignees.</attorneys>
+              <attorneys pgmap="1078" id="b1078-22">Henry W. Swasey, for administrator.</attorneys>
+              <footnote label="1">
+                <p pgmap="1078" id="b1078-24">1 [Reported by Thomas Hawes Haskell, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1078" id="b1078-23">FOX, District Judge.</author>
+                <p pgmap="1078(161) 1079(39)" id="AcWk">Upon the applica­tion of the assignees in this case, praying that the administrator on the estate of said Jordan may be ordered to pay to said as­signees not only the excess of the annual cash premium on the policy of insurance on the life of said Jordan over and beyond the sum of one hundred and fifty dollars for the year for which full premium was paid, but also a pro rata proportion of the quarterly payment of $89.61 paid for premium on the first quarter of the next year, deducting one-­fourth of one hundred and fifty dollars there­from, the court is of opinion, and doth so-­adjudge, that said assignees are not entitled to receive any part of that premium so paid for the first quarter of the second.year, as the entire sum of one hundred and fifty dol­lars had never been paid for premiums for said second year, and the case is not brought within the provisions of the statute. The as- ¡ signees are entitled to receive from said ad- j ministrator, the excess of premiums over one : hundred and fifty dollars so paid for the first i year. So ordered.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1078" ORDERLABEL="1076" TYPE="page">
+        <fptr FILEID="tiff_00539_1"/>
+        <fptr FILEID="jp2_00539_1"/>
+        <fptr FILEID="alto_00539_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1078.9" BETYPE="IDREF" FILEID="alto_00539_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1079" ORDERLABEL="1077" TYPE="page">
+        <fptr FILEID="tiff_00540_0"/>
+        <fptr FILEID="jp2_00540_0"/>
+        <fptr FILEID="alto_00540_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1079.3" BETYPE="IDREF" FILEID="alto_00540_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATkX" BETYPE="IDREF" FILEID="casebody_0512"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1078.19" BETYPE="IDREF" FILEID="alto_00539_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1078-24" BETYPE="IDREF" FILEID="casebody_0512"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1078.31" BETYPE="IDREF" FILEID="alto_00539_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1078-21" BETYPE="IDREF" FILEID="casebody_0512"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1078.26" BETYPE="IDREF" FILEID="alto_00539_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1078-23" BETYPE="IDREF" FILEID="casebody_0512"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1078.28" BETYPE="IDREF" FILEID="alto_00539_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1078-22" BETYPE="IDREF" FILEID="casebody_0512"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1078.27" BETYPE="IDREF" FILEID="alto_00539_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1078-14" BETYPE="IDREF" FILEID="casebody_0512"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1078.18" BETYPE="IDREF" FILEID="alto_00539_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1078-11" BETYPE="IDREF" FILEID="casebody_0512"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1078.15" BETYPE="IDREF" FILEID="alto_00539_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1078-12" BETYPE="IDREF" FILEID="casebody_0512"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1078.16" BETYPE="IDREF" FILEID="alto_00539_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1078-13" BETYPE="IDREF" FILEID="casebody_0512"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1078.17" BETYPE="IDREF" FILEID="alto_00539_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcWk" BETYPE="IDREF" FILEID="casebody_0512"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1078.29" BETYPE="IDREF" FILEID="alto_00539_1"/>
+            <area BEGIN="BL_1078.30" BETYPE="IDREF" FILEID="alto_00539_1"/>
+            <area BEGIN="BL_1079.1" BETYPE="IDREF" FILEID="alto_00540_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

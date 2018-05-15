@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0460" publicationstatus="published">
+          <court abbreviation="C.C.D. Me." jurisdiction="United States">United States Circuit Court for the District of Maine</court>
+          <name abbreviation="Everett v. Stone">EVERETT v. STONE et al.</name>
+          <docketnumber>Case No. 4,577</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 898</citation>
+          <citation category="parallel" type="bluebook">3 Story, 446</citation>
+          <decisiondate>1844-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00450_1" MIMETYPE="image/tiff" CHECKSUM="a0bd7ac3209b7325c91ee0ab2ad4011d" CHECKSUMTYPE="MD5" SIZE="99652">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00450_1.tif"/>
+      </file>
+      <file ID="tiff_00451_0" MIMETYPE="image/tiff" CHECKSUM="98796e11b6ecf7a871d31b194dccbd4f" CHECKSUMTYPE="MD5" SIZE="6326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00451_0.tif"/>
+      </file>
+      <file ID="tiff_00451_1" MIMETYPE="image/tiff" CHECKSUM="412f7a8281a722241bdcb4fa1074813d" CHECKSUMTYPE="MD5" SIZE="49804">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00451_1.tif"/>
+      </file>
+      <file ID="tiff_00452_0" MIMETYPE="image/tiff" CHECKSUM="a9b28cd55c61428ce733beef62832b6c" CHECKSUMTYPE="MD5" SIZE="116734">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00452_0.tif"/>
+      </file>
+      <file ID="tiff_00452_1" MIMETYPE="image/tiff" CHECKSUM="05d74c94fe1d196ff4ff9cb9c2532cbb" CHECKSUMTYPE="MD5" SIZE="94980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00452_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00450_1" MIMETYPE="image/jp2" CHECKSUM="b797a631b332fb994d42cd1039e3eaf2" CHECKSUMTYPE="MD5" SIZE="3494840">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00450_1.jp2"/>
+      </file>
+      <file ID="jp2_00451_0" MIMETYPE="image/jp2" CHECKSUM="e36a06b717ba51c6d0d7beec5ad5d884" CHECKSUMTYPE="MD5" SIZE="1079428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00451_0.jp2"/>
+      </file>
+      <file ID="jp2_00451_1" MIMETYPE="image/jp2" CHECKSUM="fdf34c28346625ba6fb9c0b12715b297" CHECKSUMTYPE="MD5" SIZE="2097401">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00451_1.jp2"/>
+      </file>
+      <file ID="jp2_00452_0" MIMETYPE="image/jp2" CHECKSUM="5b2b9445e1463c71126e12b01a04d293" CHECKSUMTYPE="MD5" SIZE="3856848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00452_0.jp2"/>
+      </file>
+      <file ID="jp2_00452_1" MIMETYPE="image/jp2" CHECKSUM="160b302b4c719b197a32bf94a30c57b2" CHECKSUMTYPE="MD5" SIZE="3353285">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00452_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00450_1" MIMETYPE="text/xml" CHECKSUM="9729bc54a1fc4db1a66ce6e6125f8cc2" CHECKSUMTYPE="MD5" SIZE="218444">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00450_1.xml"/>
+      </file>
+      <file ID="alto_00451_0" MIMETYPE="text/xml" CHECKSUM="8b720e4e8ac9fa3068a1588a4ec1f94f" CHECKSUMTYPE="MD5" SIZE="1921">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00451_0.xml"/>
+      </file>
+      <file ID="alto_00451_1" MIMETYPE="text/xml" CHECKSUM="33a8fceda2c5b999e786eac98db188d4" CHECKSUMTYPE="MD5" SIZE="94521">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00451_1.xml"/>
+      </file>
+      <file ID="alto_00452_0" MIMETYPE="text/xml" CHECKSUM="4991c0f77bb2dee814f5ed548f64964e" CHECKSUMTYPE="MD5" SIZE="237601">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00452_0.xml"/>
+      </file>
+      <file ID="alto_00452_1" MIMETYPE="text/xml" CHECKSUM="1afea338bc9bdf4f1328022c03ae855b" CHECKSUMTYPE="MD5" SIZE="198552">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00452_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0460" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="902" firstpage="898">
+              <court id="b900-12" pgmap="900">Circuit Court, D. Maine.</court>
+              <docketnumber id="b900-9" pgmap="900">Case No. 4,577.</docketnumber>
+              <citation id="b900-11" pgmap="900">[3 Story, 446.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b900-10" pgmap="900">EVERETT v. STONE et al.</parties>
+              <decisiondate id="AWL" pgmap="900">Sept. Term, 1844.</decisiondate>
+              <footnote label="1">
+                <p id="b900-17" pgmap="900">1 [Reported by William W. Story, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b902-12" pgmap="902">STORY, Circuit Justice.</author>
+                <p id="AdC" pgmap="902">As to the first question, I entertain no doubt, that the con­veyances referred to in that question are fraudulent conveyances, within the sense of •the bankrupt act of 1841 (chapter - 9), upon which a proceeding might have been had by the creditors of the bankrupts in invitum, un­der the first section of the act They were ob­viously designed to give certain creditors a priority and preference over the other cred­itors of the bankrupt, and containing, as they did, the bulk of all their property, it must be perceived, that they contemplated ex­actly what was the natural result of the acts, and what the acts purported to produce, an actual insolvency, and inability to pay all their creditors, and that the conveyances were, therefore, made in contemplation of bankruptcy, and for the purpose of giving the enumerated creditors a preference or priority over the other creditors, in the sense of the second section of the bankrupt act This question does not seem material to be decided, otherwise, than in a general form, as a contemplated act of bankruptcy, ■ since, in the case before the court, there was no proceeding in invitum by the creditors; but the bankrupts are volunteers in bankruptcy.</p>
+                <p id="b902-13" pgmap="902(181) 903(592)">As to the second question, it does not strike me, that the case falls within the saving of the section of the bankrupt act, which provides “that all dealings, and transactions, •by and with any bankrupt, bona fide made, and entered into more than two months be­fore the petition filed against him, or by him, shall not be invalidated or affected by this act, provided that the other party to any such dealings or transactions, had no notice of a prior act of bankruptcy, or of the inten­tion of the bankrupt to take the benefit of the act.” It does not appear to me, that this proviso has any application whatsoever, ex­cept to the ordinary dealings and transac­tions, in the common course of business, where payments, securities, conveyances, and transfers are made between the parties. These conveyances are in no just sense such conveyances. They were notoriously made with the intent to give a preference to cer­tain creditors. They were voluntarily made, —the first, without any knowledge, or co-oper­ation of the defendants; the second convey-­anee to the defendants, with their knowledge and consent, in furtherance of the first, and resting upon the same foundation, The con­veyances to Titcomb were plainly voluntary, and without any consideration, and were also transferred to two of the defendants. We must treat all these conveyances, there­fore, as nearly contemporaneous, and known to the defendants to contain a transfer of all the property of the bankrupts, with some trifling exceptions, and to be intended to give certain creditors a preference in contempla­tion of a breaking up of their business, and their immediate insolvency. What is this, but a case of conveyances made, giving a preference, in contemplation of bankruptcy, in the sense of the second section of the act? The defendants must be presumed to know the law, and cannot set up their ignorance as a justification. They must be presumed to know the natural, nay, the necessary re­sults of these conveyances to be, that they were acts of bankruptcy, within the meaning of the first section of the bankrupt act, for which a proceeding might be had by the creditors of the bankrupt in invitum. The very facts put them upon inquiry, and dili­gent inquiry, to know, whether the -bankrupts must not thereby contemplate a state of immediate insolvency, and a direct prefer­ence of a few, over the other creditors, which would be unlawful. Nay, the facts were so awakening, and striking, that no persons not choosing voluntarily to shut their eyes, could doubt,.that the bankrupts were ruined in business, and unable to proceed farther; and that if they did not then intend to seek, as volunteers, the benefit of the bankrupt act, their creditors had a right to proceed .against them in invitum, for the unlawful preference. “Contemplation of bankruptcy,” in the sense of the bankrupt act, is not limit­ed or confined to those cases only, where the bankrupts contemplate, and intend to be volunteers in bankruptcy, nor even where they contemplate future proceedings by their creditors against themselves, in invitum, un­der the act;' but it extends also to cases where the bankrupts contemplate a complete and total stoppage of their business, and trade, — and mean, under such circumstances, to provide for preferences to particular creditors, injurious to the interests of their other general creditors, whether any proceed­ings are, or shall be in futuro, instituted by or against them, under the bankrupt act, or not. In short, “contemplation of bank­ruptcy,” means a contemplation of becoming a broken up and ruined trader, according to the original signification of the term; a person whose table or counter of business is broken up, bancus ruptus. In such a case, if the bankrupt makes a conveyance, giving a preference to certain creditors, that is the very act which the bankrupt act denounces, and declares a fraud, and consequently avoids it, if proper proceedings in bankruptcy are afterwards instituted, and the parties are. declared bankrupts under the act. This is no new doctrine in this court. It was fully considered and stated in Hutchins v. Taylor [Case No. 6,953], and in Arnold v. Maynard [Id. 561], and has since been repeatedly acted upon in this court. Without going at large into the authorities upon the subject, spread through the English reports, I would merely refer to the case of Pulling v. Tucker, 4 Barn. &amp; Aid. 382, as being of itself almost decisive of the question. See, also, Morse v. Godfrey [Case No. 9,856], and Gibson v. Muskett, 4 Man. &amp; G. 160, 164.</p>
+                <p id="b903-5" pgmap="903(423) 904(180)">As to the third question, it is, in my judg­ment, completely covered by the reasoning in the case Ex parte Poster [Case No. 4,960], although the point was not necessary to be decided in that case. The argument, how­ever, presented it fully for the consideration of the court, and it was not, therefore, an obiter dictum, but was relied on by the court, as a part of the reasoning, which conducted it to the conclusion at which it arrived. The result of that reasoning is, that if an attachment is made by any creditors, and afterwards, and before judgment in the suits, the debtor files his petition in bank­ruptcy, and before the debtor can regularly be declared a bankrupt, the creditors, know­ing all the facts, take judgment, and levy their execution upon the property attached, and the debtor is afterwards declared a bank­rupt upon his petition, the judgment and levy are tobe treated as a fraud upon the bankrupt act, designed to produce an undue preference, against the policy of that act But in the present case, there is a still stronger ground, on which to rest the decision on this point The judgment creditors by their judgments could acquire and hold no -other title, than that which the bankrupt himself had, and held at the time of the levy, with all its. infirmities and defects. Now, it is plain, that the conveyances made by the bank­rupts (already referred to), were good and operative against the bankrupts themselves. See 1 Story, Eq. Jur. § 371, and authorities there cited. They are also good, at the com­mon law, against all creditors generally, (although they gave preferences to certain creditors over the rest,) so far as respected all the creditors assenting thereto, unless they were not bona fide conveyances, but made with design to defraud creditors. Now, there is no ground.to say, at least, upon any of the facts at present apparent on the face of this case, that these conveyances, as to the real estate in controversy, were not made bona fide, as mortgages or securities, or as­signments, for the benefit of the defendants, and other creditors named therein. If they are to be treated as fraudulent at all, they are so only under the bankrupt act; and the judgment creditors cannot protect themselves, by attempting to avail themselves of such a fraud, under the bankrupt act, to defeat the very policy of the act itself. But this is not the whole ground of the objection. From what has been already suggested In answer to the first question, these very con­veyances were not only a' fraud upon the bankrupt act, but they were actually acts of bankruptcy, for which proceedings might be had under the bankrupt act in invitum; and as acts of bankruptcy, the title of the bank­rupts became thereby subject to the opera­tion of the bankrupt act, and was divested eo instant!, by relation, when, and as soon as the debtors were declared bankrupts, and an assignee was appointed. In other words, be­ing acts of bankruptcy, and void, and fraudu­lent under the bankrupt act, the assignee, as soon as he was appointed, became entitled to the property, for the benefit of the creditors generally, by relation, .from the time when these conveyances were executed; so that his title would overreach that of any subsequent attaching creditors, who should consummate their attachments by a judgment and levy, since they could attach and levy only upon the right and title which the debtors posses­sed, at the time of their attachments.</p>
+                <p id="b904-3" pgmap="904">It is very clear, that a judgment creditor does not stand, under a levy, in the same situation as a bona fide purchaser for a val­uable consideration without notice. A judg­ment creditor is entitled to take in execution, under his judgment, all that then rightfully belongs to his debtor, and nothing more, in­asmuch as he stands merely in the place of the debtor. This was expressly so held by Lord Cottenham, in Newlands v. Paynter, 4 Mylne &amp; C. 408, which is a very strong case, and by Hr. Vice Chancellor Wigram, in Langton v. Horton, 1 Hare, 549, and Whit­worth v. Gaugain, Eng. Jur. May 4,1844, vol. 8, pp. 374, 376. A like doctrine was in effect held in Priest v. Rice, 1 Pick. 164, and Briggs v. French [Case No. 1,871]. The judgment .creditors, then, in the present case could by their levy take no other or better title than that, which then belonged to the debtors, and that, as we have seen, was subject to be devested, and was subsequently devested in favor of the assignee under the bankruptcy. And besides; the judgment creditors made their levy with a full knowledge of the na­ture and character of these conveyances, and must be deemed to have notice of all the le­gal infirmities and consequences attached thereto. The case of Doe v. Britain, 2 Barn. &amp; Aid. 93, is strongly in point to show that, after an act of bankruptcy, the title of the assignee takes effect from that act, so as to devest any subsequent disposition of the property made by the bankrupt. See, also, Doe v. Ball, 11 Mees. &amp; W. 531, 533.</p>
+                <p id="b904-4" pgmap="904">As to the fourth point, it is completely dis­posed of by the suggestions already made. Creditors taking under a conveyance, fraud­ulent under the bankrupt act, can be in no better predicament than the grantees, under the assignment made for their benefit. They must be taken to be perfectly conusant of the nature and legal operation of the title, under ■ which they claim, and to have full notice of the facts, and of the law bearing on their title. They are, in no sense, to be treat­ed as purchasers, but simply as creditors-­claiming under a defective title, — a title which must yield to that of the assignee in bankruptcy, who represents the rights and interests of all the creditors.</p>
+                <p id="b904-7" pgmap="904">As to the fifth question, since the bank­rupt is not before the court, I should feel a. difficulty in deciding it, if the language of the second section of the bankrupt act did not seem to be peremptory upon the point. That section declares that “the person mak­ing such undue preferences shall receive no-­discharge under the provisions of the act.” It has been already decided in answer to the preceding questions, that these conveyances did make an undue preference in fraud of the bankrupt act</p>
+                <p id="b904-8" pgmap="904">As to the sixth question, it seems to me, that the district court may, and should pro­ceed to decide the four first questions, with­out waiting for the decision upon the right of the bankrupt to his discharge, if he ap­plies for it The other questions are proper­ly before the court upon the present petition of the assignee.</p>
+                <p id="b904-9" pgmap="904">I shall direct a certificate to be sent upon all the adjourned questions, according to the opinions herein expressed. The answers to all are in the affirmative.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="900" ORDERLABEL="898" TYPE="page">
+        <fptr FILEID="tiff_00450_1"/>
+        <fptr FILEID="jp2_00450_1"/>
+        <fptr FILEID="alto_00450_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_900.5" BETYPE="IDREF" FILEID="alto_00450_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="901" ORDERLABEL="899" TYPE="page">
+        <fptr FILEID="tiff_00451_0"/>
+        <fptr FILEID="jp2_00451_0"/>
+        <fptr FILEID="alto_00451_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_901.3" BETYPE="IDREF" FILEID="alto_00451_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="902" ORDERLABEL="900" TYPE="page">
+        <fptr FILEID="tiff_00451_1"/>
+        <fptr FILEID="jp2_00451_1"/>
+        <fptr FILEID="alto_00451_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_902.4" BETYPE="IDREF" FILEID="alto_00451_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="903" ORDERLABEL="901" TYPE="page">
+        <fptr FILEID="tiff_00452_0"/>
+        <fptr FILEID="jp2_00452_0"/>
+        <fptr FILEID="alto_00452_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_903.4" BETYPE="IDREF" FILEID="alto_00452_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="904" ORDERLABEL="902" TYPE="page">
+        <fptr FILEID="tiff_00452_1"/>
+        <fptr FILEID="jp2_00452_1"/>
+        <fptr FILEID="alto_00452_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_904.4" BETYPE="IDREF" FILEID="alto_00452_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-3" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.5" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b900-9" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_900.11" BETYPE="IDREF" FILEID="alto_00450_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-4" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.6" BETYPE="IDREF" FILEID="alto_00452_1"/>
+            <area BEGIN="BL_904.7" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b903-5" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_903.6" BETYPE="IDREF" FILEID="alto_00452_0"/>
+            <area BEGIN="BL_904.1" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-8" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.9" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWL" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_900.15" BETYPE="IDREF" FILEID="alto_00450_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdC" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.14" BETYPE="IDREF" FILEID="alto_00451_1"/>
+            <area BEGIN="BL_902.15" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-13" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.16" BETYPE="IDREF" FILEID="alto_00451_1"/>
+            <area BEGIN="BL_903.1" BETYPE="IDREF" FILEID="alto_00452_0"/>
+            <area BEGIN="BL_903.2" BETYPE="IDREF" FILEID="alto_00452_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-12" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.13" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-7" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.8" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b900-11" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_900.13" BETYPE="IDREF" FILEID="alto_00450_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b900-10" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_900.12" BETYPE="IDREF" FILEID="alto_00450_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b900-12" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_900.14" BETYPE="IDREF" FILEID="alto_00450_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-9" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.10" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b900-17" BETYPE="IDREF" FILEID="casebody_0460"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_900.18" BETYPE="IDREF" FILEID="alto_00450_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

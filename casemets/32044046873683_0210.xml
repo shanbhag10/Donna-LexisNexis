@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0210" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Electra">The ELECTRA</name>
+          <docketnumber>Case No. 4,337</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 434</citation>
+          <citation category="parallel" type="bluebook">1 Ben. 282</citation>
+          <decisiondate>1867-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00218_1" MIMETYPE="image/tiff" CHECKSUM="2b5f804ad80eaa5e108f5ea27071715f" CHECKSUMTYPE="MD5" SIZE="67838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00218_1.tif"/>
+      </file>
+      <file ID="tiff_00219_0" MIMETYPE="image/tiff" CHECKSUM="9f2bca05fd11969a578b404169a8785b" CHECKSUMTYPE="MD5" SIZE="83650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00219_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00218_1" MIMETYPE="image/jp2" CHECKSUM="b79854d852c04a2034f9a0aced554196" CHECKSUMTYPE="MD5" SIZE="2711655">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00218_1.jp2"/>
+      </file>
+      <file ID="jp2_00219_0" MIMETYPE="image/jp2" CHECKSUM="3204dbfb3b52ad362aca02fc0e5150c2" CHECKSUMTYPE="MD5" SIZE="3185218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00219_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00218_1" MIMETYPE="text/xml" CHECKSUM="88ba29923da4358dcd8b159df555d539" CHECKSUMTYPE="MD5" SIZE="149105">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00218_1.xml"/>
+      </file>
+      <file ID="alto_00219_0" MIMETYPE="text/xml" CHECKSUM="2cdecd7287cfee96ba01c5ef09bc4029" CHECKSUMTYPE="MD5" SIZE="188080">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00219_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0210" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="435" firstpage="434">
+              <court id="b436-17" pgmap="436">District Court, S. D. New York.</court>
+              <docketnumber id="b436-14" pgmap="436">Case No. 4,337.</docketnumber>
+              <citation id="b436-16" pgmap="436">[1 Ben. 282.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b436-15" pgmap="436">The ELECTRA.</parties>
+              <decisiondate id="AqpM" pgmap="436">July, 1867.</decisiondate>
+              <attorneys id="b437-3" pgmap="437">Beebe, Dean &amp; Donohue, for libelant.</attorneys>
+              <attorneys id="b437-4" pgmap="437">Benedict, Tracy &amp; Benedict, for claimants.</attorneys>
+              <footnote label="1">
+                <p id="b436-26" pgmap="436">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b437-5" pgmap="437">SHIPMAN, District Judge.</author>
+                <p id="Amf" pgmap="437">This suit is in­stituted to recover damages for a collision which occurred in the East river, near the west shore, and just below Horn’s Hook, on the morning of the 16th of February, 1805, between the Electra and the steam ferryboat Astoria, owned by the libelant. The ferry­boat was on her regular route from near the foot of Eighty-Sixth street, New York, to Astoria, Dong Island. The Electra was bound from Providence, R. I., to New York.</p>
+                <p id="b437-6" pgmap="437">The Electra came down in the west or main ship channel, and as she came out past Horn’s Hook she sounded two whistles, which indi-, cated that she intended to cross the Astoria’s bow. There is a conflict of evidence as to where the Astoria was when' these two whistles were sounded, her witnesses insist­ing that she was three hundred feet out in the stream and above her slip; those of the Elec­tra that she was in or very near her slip.</p>
+                <p id="b437-7" pgmap="437">It is difficult to determine which is right on this point The pilot of the Astoria says that he was three hundred feet out when the two whistles sounded, and that he com­menced to back, and that after he had com­menced backing he got another signal from the Electra that the latter intended to go astern of him; that he rung to go ahead, and that the collision immediately took place.</p>
+                <p id="b437-8" pgmap="437">On the other hand, Captain Nye, who had charge of the Electra, and who was in her pilot-house, says that he sounded his two whistles before the Astoria left her slip, but that the latter came out and got nearly ahead of the Electra, when one whistle was sounded by him to indicate to the Astoria that he was going to the right, and that at the same time he put his wheel hard aport. He says at that moment the Astoria commenced back-' ing, which brought her in the track of the Electra. He says that he could not then change so as to cross her bow, and that if the Astoria had not backed contrary to his last signal, he should have passed her stern in safety.</p>
+                <p id="b437-9" pgmap="437">No signal was given by the Astoria, as she had no whistle. There was considerable run­ning ice and a strong flood tide in the river at the time. I have compared the evidence very carefully, and on the whole am inclined to the opinion that the Astoria was in and just leaving her dock when the two whistles were blown. The evidence on both sides is ex­tremely inconclusive and unsatisfactory. The pilot is the only person on the Astoria who heard the two whistles. There was evident­ly some alarm on her, as well there might be, for the Electra was not far off as she came in sight round the point of Horn’s Hook, and was coming at a pretty rapid rate, as her captain states, at a speed of twelve 'miles an hour. This was too great a speed for such a steamer in the vicinity of ferries near a large city, with the river full of running ice which would render the movements of small craft slow and uncertain. The Electra was a large boat while the Astoria was a very small one, and I am inclined to the opinion that the latter did not get much backward way on her, after she reversed her wheels, with the ice as it then was.</p>
+                <p id="b437-12" pgmap="437">On the whole, as the best result I have been able to reach in this doubtful case, I de­cide First, that the Astoria was in fault in not holding back for the Electra to cross her bow; second, that the Electra was in fault in not slackening her speed as soon as she rounded the point of the Hook. If she had done so she would probably have been able to have backed soon enough to have avoided the collision.</p>
+                <p id="b437-13" pgmap="437">The omission of the Astoria to carry a whistle, was gross negligence, though it is not easy to see that this circumstance had any influence on the movements of either boat at this time. I note this fault of the Astoria therefore, not because it is important in this case, but to avoid any inference in future that it is sanctioned by the court</p>
+                <p id="b437-14" pgmap="437">Let a decree be entered in conformity with this opinion, with an order to a commissioner to compute the damages.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="436" ORDERLABEL="434" TYPE="page">
+        <fptr FILEID="tiff_00218_1"/>
+        <fptr FILEID="jp2_00218_1"/>
+        <fptr FILEID="alto_00218_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_436.4" BETYPE="IDREF" FILEID="alto_00218_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="437" ORDERLABEL="435" TYPE="page">
+        <fptr FILEID="tiff_00219_0"/>
+        <fptr FILEID="jp2_00219_0"/>
+        <fptr FILEID="alto_00219_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_437.3" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-12" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.15" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-13" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.16" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-14" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.17" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amf" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.8" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            <area BEGIN="BL_437.9" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-14" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.16" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-26" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.27" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-16" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.18" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-15" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.17" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b436-17" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.19" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-3" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.5" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-6" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.10" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-7" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.11" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-4" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.6" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-5" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.7" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-8" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.12" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-9" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.13" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            <area BEGIN="BL_437.14" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqpM" BETYPE="IDREF" FILEID="casebody_0210"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_436.20" BETYPE="IDREF" FILEID="alto_00218_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

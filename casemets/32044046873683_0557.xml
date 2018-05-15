@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0557" publicationstatus="published">
+          <court abbreviation="N.D. Ill." jurisdiction="United States">United States District Court for the Northern District of Illinois</court>
+          <name abbreviation="In re Farnsworth">In re FARNSWORTH et al.</name>
+          <docketnumber>Case No. 4,673</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1056</citation>
+          <citation category="parallel" type="bluebook">5 Biss. 223; 14 N. B. R. 148</citation>
+          <decisiondate>1873-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00529_1" MIMETYPE="image/tiff" CHECKSUM="06548c9da4f7721077151901fb2bb50c" CHECKSUMTYPE="MD5" SIZE="87296">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00529_1.tif"/>
+      </file>
+      <file ID="tiff_00530_0" MIMETYPE="image/tiff" CHECKSUM="1ce558ef4549961f0bdf660c26717f2f" CHECKSUMTYPE="MD5" SIZE="63470">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00530_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00529_1" MIMETYPE="image/jp2" CHECKSUM="dd28c34398097014970386c19b9e60f5" CHECKSUMTYPE="MD5" SIZE="3232729">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00529_1.jp2"/>
+      </file>
+      <file ID="jp2_00530_0" MIMETYPE="image/jp2" CHECKSUM="36ea5930e605682538f048510a882c1e" CHECKSUMTYPE="MD5" SIZE="2714547">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00530_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00529_1" MIMETYPE="text/xml" CHECKSUM="6c16469b04c24143a7a9a2169a935ed8" CHECKSUMTYPE="MD5" SIZE="192772">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00529_1.xml"/>
+      </file>
+      <file ID="alto_00530_0" MIMETYPE="text/xml" CHECKSUM="af0767936da130dd75c0b697ea8e19a3" CHECKSUMTYPE="MD5" SIZE="131519">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00530_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0557" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1057" firstpage="1056">
+              <court id="b1058-9" pgmap="1058">District Court, N. D. Illinois.</court>
+              <docketnumber id="b1058-6" pgmap="1058">Case No. 4,673.</docketnumber>
+              <citation id="b1058-8" pgmap="1058">[5 Biss. 223;<footnotemark>1</footnotemark> 14 N. B. R. 148.]</citation>
+              <parties id="b1058-7" pgmap="1058">In re FARNSWORTH et al.</parties>
+              <decisiondate id="AoIz" pgmap="1058">Jan. 1873.</decisiondate>
+              <attorneys id="b1058-19" pgmap="1058">Cyrus Bentley, for assignee.</attorneys>
+              <footnote label="1">
+                <p id="b1058-14" pgmap="1058">1 [Reported by Josiah H. Bissell, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1058-20" pgmap="1058">BLODGETT, District Judge.</author>
+                <p id="AqXH" pgmap="1058">The facts in: this case appear to be that on and up to the 18th of December, 1872, the firm of Farns-­worth, Brown &amp; Co. were wholesale mer­chants in the city of Chicago, and in good-­credit. They kept a bank account with the Commercial National Bank, of this city, and were in the practice of collecting bills against their country customers by drawing sight or time drafts which were indorsed to the bank and by the bank forwarded for collection to its correspondent nearest the residence of the drawee. When paid, the proceeds were passed to the credit of the firm in its gen­eral balance. The firm was indebted to the bank on a demand note for $5,000. On the 14th of December one of the members of the firm absconded, and the fact became publicly known, and known to the officers of the bank on the 18th of December, and on the 23rd day of December, 1872, a petition in bank­ruptcy was filed in this court against the firm, on which they were.adjudicated bank­rupts. Shortly before their failure, but while in good credit, the firm had handed to the bank a number of drafts for collection, on which the bank collected, after the filing of the petition in bankruptcy, the sum of $1.200,<footnotemark>2</footnotemark> and the point raised is, whether the money so collected can be applied by the bank toward the payment of the note held by the bank against the firm, or whether it must be turned over to the assignee for gen­eral distribution.</p>
+                <p id="b1058-21" pgmap="1058">Although the question is not wholly free from difficulty, I think the weight of author­ity is in favor of the right of the bank to-­apply the money so collected, in liquidation, so far as it will go, of its own indebtedness.</p>
+                <p id="b1058-22" pgmap="1058(69) 1059(10)">It was evidently never intended that the bank should pay over to the firm the specific money collected. The legal title to the mon­ey called for by the drafts was vested in the bank, and the proceeds were to go to the credit of the firm It was a method of giv­ing the firm credit with the bank, and was-­a transaction'Which could ripen into a debt or demand in favor of the firm against the bank.</p>
+                <p id="b1059-3" pgmap="1059">It is said by the attorney for the assignee that the bank was a mere agent of the firm for collecting this money, and that this agency was revoked by the adjudication of bankruptcy, and such revocation relates back to' the filing of the petition. But I think that it was something more than a naked agency. It was an agency coupled with an interest and duty, and filing the petition in bank­ruptcy did not suspend or annul the obliga­tion of the bank to use its diligence to collect the money due on those drafts. It does not seem to me that the right of the bank to re­ceive the money on these drafts was sus­pended by what befell the firm, nor that the character in which they received it was changed.</p>
+                <p id="b1059-4" pgmap="1059">This claim on the part of the bank, it ap­pears to me, can be sustained on two grounds:</p>
+                <p id="b1059-5" pgmap="1059">1. Because the law gives a banker a lien on any funds coming into his hands belong­ing to a debtor. Morse, Banks, 34 et seq.; 2 Kent, Comm. 624, note 2; 2 Story, Eq. Jur. § 1253a.</p>
+                <p id="b1059-6" pgmap="1059">2. Because the transaction shows mutual debts and credits between the parties on which the balance is to be struck. Section 20, Bankrupt Act [supra].</p>
+                <footnote label="2">
+                  <p id="b1058-23" pgmap="1058">2 [14 N. B. R. 148, gives $12,000.]</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1058" ORDERLABEL="1056" TYPE="page">
+        <fptr FILEID="tiff_00529_1"/>
+        <fptr FILEID="jp2_00529_1"/>
+        <fptr FILEID="alto_00529_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1058.4" BETYPE="IDREF" FILEID="alto_00529_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1059" ORDERLABEL="1057" TYPE="page">
+        <fptr FILEID="tiff_00530_0"/>
+        <fptr FILEID="jp2_00530_0"/>
+        <fptr FILEID="alto_00530_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1059.6" BETYPE="IDREF" FILEID="alto_00530_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1058-9" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1058.12" BETYPE="IDREF" FILEID="alto_00529_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1058-8" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1058.11" BETYPE="IDREF" FILEID="alto_00529_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-6" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.11" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoIz" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1058.13" BETYPE="IDREF" FILEID="alto_00529_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-5" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.10" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1058-7" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1058.10" BETYPE="IDREF" FILEID="alto_00529_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1058-6" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1058.9" BETYPE="IDREF" FILEID="alto_00529_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-3" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.8" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1058-14" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1058.17" BETYPE="IDREF" FILEID="alto_00529_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqXH" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1058.23" BETYPE="IDREF" FILEID="alto_00529_1"/>
+            <area BEGIN="BL_1058.24" BETYPE="IDREF" FILEID="alto_00529_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1058-22" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1058.26" BETYPE="IDREF" FILEID="alto_00529_1"/>
+            <area BEGIN="BL_1059.4" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1058-23" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1058.27" BETYPE="IDREF" FILEID="alto_00529_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1058-20" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1058.22" BETYPE="IDREF" FILEID="alto_00529_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1058-21" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1058.25" BETYPE="IDREF" FILEID="alto_00529_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-4" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.9" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1058-19" BETYPE="IDREF" FILEID="casebody_0557"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1058.21" BETYPE="IDREF" FILEID="alto_00529_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

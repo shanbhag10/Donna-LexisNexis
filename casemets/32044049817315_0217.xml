@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0217" publicationstatus="published">
+          <court abbreviation="C.C.W.D. Tenn." jurisdiction="United States">United States Circuit Court for the Western District of Tennessee</court>
+          <name abbreviation="Jarman v. St. Louis Mut. Life Ins.">JARMAN v. ST. LOUIS MUT. LIFE INS. CO.</name>
+          <docketnumber>Case No. 7,221</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 364</citation>
+          <citation category="parallel" type="bluebook">1 Flip. 548; 5 Ins. Law J. 504; 22 Int. Rev. Rec. 162; 3 Cent. Law J. 303; 1 Cin. Law Bul. 123</citation>
+          <decisiondate>1876-05-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00183_1" MIMETYPE="image/tiff" CHECKSUM="32e78ca677e3cff55bd982ba6a46a62b" CHECKSUMTYPE="MD5" SIZE="56520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00183_1.tif"/>
+      </file>
+      <file ID="tiff_00184_0" MIMETYPE="image/tiff" CHECKSUM="cb937b3c04b202a7f211c01b93288e18" CHECKSUMTYPE="MD5" SIZE="57958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00184_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00183_1" MIMETYPE="image/jp2" CHECKSUM="bdc99303f69d2bffdf493e1e7baaf0f7" CHECKSUMTYPE="MD5" SIZE="2408881">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00183_1.jp2"/>
+      </file>
+      <file ID="jp2_00184_0" MIMETYPE="image/jp2" CHECKSUM="d407629208e2b7b23360982445ff7cca" CHECKSUMTYPE="MD5" SIZE="2945562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00184_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00183_1" MIMETYPE="text/xml" CHECKSUM="a47451b9f7df2b084ed948047bdf19b3" CHECKSUMTYPE="MD5" SIZE="115991">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00183_1.xml"/>
+      </file>
+      <file ID="alto_00184_0" MIMETYPE="text/xml" CHECKSUM="7b4ceab7e1dde6c02d889ae443fc92eb" CHECKSUMTYPE="MD5" SIZE="125243">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00184_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0217" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="365" firstpage="364">
+              <court pgmap="366" id="AZG">Circuit Court, W. D. Tennessee.</court>
+              <docketnumber pgmap="366" id="b366-13">Case No. 7,221.</docketnumber>
+              <citation pgmap="366" id="ADd5">[1 Flip. 548; <footnotemark>1</footnotemark> 5 Ins. Law J. 504; 22 Int. Rev. Rec. 162; 3 Cent. Law J. 303; 1 Cin. Law Bul. 123.]</citation>
+              <parties pgmap="366" id="AAl">JARMAN v. ST. LOUIS MUT. LIFE INS. CO.</parties>
+              <decisiondate pgmap="366" id="AP9J">May 8, 1876.</decisiondate>
+              <attorneys pgmap="367" id="b367-3">Gantt, Patterson &amp; Lowe, for plaintiff.</attorneys>
+              <attorneys pgmap="367" id="b367-4">Kortrecht &amp; Craft, for defendant</attorneys>
+              <footnote label="1">
+                <p pgmap="366" id="b366-24">1 [Reported by William Searcy Flippin, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="367" id="b367-5">Bit OWN, District Judge.</author>
+                <p pgmap="367" id="A7X">The first two an­nual premiums were paid, one-half in eashand one-half by note. After the policy was com­muted, the outstanding notes were consolidat­ed into one, upon which interest was paid annually in advance, and the policy thus kept alive for the reduced sum. There ap­pears also to have been a small credit - upon the note, either of cash or dividend. The interest was paid in advance upon the note of December 10, 1871. This note was ne­gotiable, and the maker was entitled to grace. It matured December 21, 1872, the 22d being Sunday. Had the assured elected to pay the note in- cash, he might have done so on that day. He could not have been considered in default for failing to pay interest on the 19th; for, as the interest had been paid in advance, it must be presumed to have been paid in full up to the maturity of the note. I understand it to be the universal custom at the banks, in discounting commercial pa­per, to reckon interest upon the days of grace as well as upon the sixty or ninety days for which the bill may be discounted. When interest is paid in advance, that is the legal inference, as the paper does not begin to draw interest again until maturity; that is, until the last day of grace. 2 Pars. Notes &amp; B. 398. But a tender of principal and interest on the 21st could have effect only upon the theory that no forfeiture had taken place by non-payment of interest on the 19th; for nothing less than the assent of the company could waive such forfeiture. But if no forfeiture had taken place on the 19th, the tender of interest on the 21st was good.</p>
+                <p pgmap="367" id="b367-6">But the course of dealing had been such as to authorize the insured to infer that the company would not demand payment of the note. The policy expressly provides against a forfeiture for non-payment of the premium, for part of which a note was given, and, as matter of fact, the tender was not objected to upon the ground that it did not include principal as well as interest, but solely be­cause it was not made upon the 19th. As before suggested, I think the maker was entitled to the same time to pay the interest as he would have had to pay the principal, and that defendant was bound to accept the tender. The amount of policy was commut­ed to ?1,000. Deducting the note — $291.53— there remained $708.45, for which amount, with interest from March 22, 1873, or ninety days after notice of proof of death, the plaintiff is entitled to judgment. Judgment accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="366" ORDERLABEL="364" TYPE="page">
+        <fptr FILEID="tiff_00183_1"/>
+        <fptr FILEID="jp2_00183_1"/>
+        <fptr FILEID="alto_00183_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.8" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="367" ORDERLABEL="365" TYPE="page">
+        <fptr FILEID="tiff_00184_0"/>
+        <fptr FILEID="jp2_00184_0"/>
+        <fptr FILEID="alto_00184_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_367.5" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-5" BETYPE="IDREF" FILEID="casebody_0217"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.9" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-4" BETYPE="IDREF" FILEID="casebody_0217"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.8" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-3" BETYPE="IDREF" FILEID="casebody_0217"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.7" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AP9J" BETYPE="IDREF" FILEID="casebody_0217"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.18" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b367-6" BETYPE="IDREF" FILEID="casebody_0217"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.12" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            <area BEGIN="BL_367.13" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAl" BETYPE="IDREF" FILEID="casebody_0217"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.15" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADd5" BETYPE="IDREF" FILEID="casebody_0217"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.16" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZG" BETYPE="IDREF" FILEID="casebody_0217"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.17" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-24" BETYPE="IDREF" FILEID="casebody_0217"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.24" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-13" BETYPE="IDREF" FILEID="casebody_0217"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.14" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7X" BETYPE="IDREF" FILEID="casebody_0217"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_367.10" BETYPE="IDREF" FILEID="alto_00184_0"/>
+            <area BEGIN="BL_367.11" BETYPE="IDREF" FILEID="alto_00184_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

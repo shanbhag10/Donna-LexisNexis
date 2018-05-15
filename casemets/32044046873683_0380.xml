@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0380" publicationstatus="published">
+          <court abbreviation="C.C.E.D. Pa." jurisdiction="United States">United States Circuit Court for the Eastern District of Pennsylvania</court>
+          <name abbreviation="The Enterprise">The ENTERPRISE. The NAPOLEON</name>
+          <docketnumber>Case No. 4,500</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 736</citation>
+          <citation category="parallel" type="bluebook">3 Wall. Jr. 58</citation>
+          <decisiondate>1855-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00369_1" MIMETYPE="image/tiff" CHECKSUM="602a3961496a48c29d320c49e6076c0c" CHECKSUMTYPE="MD5" SIZE="87022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00369_1.tif"/>
+      </file>
+      <file ID="tiff_00370_0" MIMETYPE="image/tiff" CHECKSUM="28d4a8cf9c2ab277629a0ec625152b6d" CHECKSUMTYPE="MD5" SIZE="6850">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00370_0.tif"/>
+      </file>
+      <file ID="tiff_00370_1" MIMETYPE="image/tiff" CHECKSUM="d1ea6eb95efdd6145d8171dc49fd8f80" CHECKSUMTYPE="MD5" SIZE="109930">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00370_1.tif"/>
+      </file>
+      <file ID="tiff_00371_0" MIMETYPE="image/tiff" CHECKSUM="8b1ca8b30db7f6b99fcf4befafc52928" CHECKSUMTYPE="MD5" SIZE="61188">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00371_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00369_1" MIMETYPE="image/jp2" CHECKSUM="e15e6d403b0f98ac7012c0415fb4f9fe" CHECKSUMTYPE="MD5" SIZE="3237851">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00369_1.jp2"/>
+      </file>
+      <file ID="jp2_00370_0" MIMETYPE="image/jp2" CHECKSUM="a2232fb0d7e0261af59b67482c685bc6" CHECKSUMTYPE="MD5" SIZE="1188236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00370_0.jp2"/>
+      </file>
+      <file ID="jp2_00370_1" MIMETYPE="image/jp2" CHECKSUM="e16f356dfe324c909747307409ff46cd" CHECKSUMTYPE="MD5" SIZE="3672302">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00370_1.jp2"/>
+      </file>
+      <file ID="jp2_00371_0" MIMETYPE="image/jp2" CHECKSUM="dab7e5032b22f2d23d4fbb40b620d77d" CHECKSUMTYPE="MD5" SIZE="3142754">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00371_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00369_1" MIMETYPE="text/xml" CHECKSUM="16ff999adcf2a5bc64b51e9f35b88879" CHECKSUMTYPE="MD5" SIZE="187285">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00369_1.xml"/>
+      </file>
+      <file ID="alto_00370_0" MIMETYPE="text/xml" CHECKSUM="43cc8c84e5cc204b5e73df7f76d58ca5" CHECKSUMTYPE="MD5" SIZE="2013">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00370_0.xml"/>
+      </file>
+      <file ID="alto_00370_1" MIMETYPE="text/xml" CHECKSUM="af33f9f30e4bf0f6a3b5fd01bb4fabb7" CHECKSUMTYPE="MD5" SIZE="249268">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00370_1.xml"/>
+      </file>
+      <file ID="alto_00371_0" MIMETYPE="text/xml" CHECKSUM="25ddab95af2d9909a71770adf064421c" CHECKSUMTYPE="MD5" SIZE="124775">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00371_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0380" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="739" firstpage="736">
+              <court id="b738-13" pgmap="738">Circuit Court, E. D. Pennsylvania.</court>
+              <docketnumber id="b738-9" pgmap="738">Case No. 4,500.</docketnumber>
+              <citation id="b738-12" pgmap="738">[3 Wall. Jr. 58.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b738-10" pgmap="738">The ENTERPRISE. The NAPOLEON.</parties>
+              <decisiondate id="ATJ" pgmap="738">April Term, 1855.</decisiondate>
+              <attorneys id="b740-3" pgmap="740">St. George T. Campbell, for libellant.</attorneys>
+              <attorneys id="AmWF" pgmap="740">Mallery &amp; Gowan, contra.</attorneys>
+              <footnote label="1">
+                <p id="b738-18" pgmap="738">1 [Reported by John William Wallace, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b740-5" pgmap="740">GRIER, Circuit Justice.</author>
+                <p id="Add" pgmap="740">The libellant, who has lost his iron without any fault of his own, and who should have had nothing to stake in the game, has been compelled to play the cards of both parties in succession, and has lost the second game with what was the win­ning hand in the first. The case is obvious­ly peculiar.</p>
+                <p id="b740-6" pgmap="740">The only appeals known to courts of ad­miralty are in open court, sedente curia. In England the application must be made within fifteen dáys after the decree. Godol­phin in Sea Laws, 208. By the act of con­gress of 3d March, 1803 [2 Stat. 244], it must be “allowed to the ciruit court next to be holden in the district.” Within this limit the district court may prescribe the times and modes of making them. Norton v. Rich [Case No. 10,352]. The 45th rule of the su­preme court requires the appeal to be made while the court is sitting, or within such other period as shall be designated by the rules of the court, or by an order specially made in the particular suit.</p>
+                <p id="b740-7" pgmap="740">Whether a court of admiralty can entertain a bill or libel in the nature of a bill of re­view, according to the principles and practice of a court of equity, where there is newly discovered evidence or other matter touch­ing the conscience.of the court, is a question not raised by the case; nor do I know of any precedent for such a practice. But the same purpose may be effected by a motion or petition for a rehearing. By the 68th rule of the district court, such a petition may be exhibited any time before execution execu­ted. But such an application being to the con­science and discretion of the court who made the decree, it is not the legitimate subject of appeal. And the same may be said of any ap­plication to allow an appeal nunc pro tunc. If this court were of opinion that in a proper use of its discretion, the district court should have reheard this case, or should have al­lowed an appeal under the circumstances, they have no power to give a remedy to the appellant We have no power to issue a mandamus to the district court, or compel the judge to set aside his decree, or grant a rehearing, or allow an appeal after the time has elapsed in which it might have legally been taken. When a case is before us on ap­peal, we must hear and decide it, but we have no mode of compelling the district court to allow an appeal or send up the record where it is not allowed. If the party has neglected to appeal in proper time, it is his own fault, and if he suffers in consequence, it is as much a “gravamen irreparabile” as where he suffers his goods to be adjudged to another. -This appeal must, therefore,, be dismissed.</p>
+                <p id="b740-10" pgmap="740(549) 741(14)">We come now to the case of the tug, the Enterprise. The libel in this case neglects to set forth in its caption whether it is a suit for a tort or on contract, as required by the 23d rule. But as' by the 24th rule, amendr ments in the matter of form may be made at any time, we shall consider the libel as amended in that behalf to suit the cause of action actually set forth in it. The complaint is clearly not for a maritime tort or col­lision, but for a breach of the contract to tow or carry the boat of libellants safely. Its averments, if established by the testimony, are sufficient to support the action. It is true, the libel contains much other useless and superfluous matter, which has justly subjected it to the imputation of appearing to be a suit for collision between the Napo­leon and Enterprise. But in order to sup­port his case against the tug, the libellant is not bound to justify the steamer, or show that, as between that boat and the tug, the latter was wholly in the fault. If the steam­er was recklessly dashing along at full speed, after night in the harbor of Philadelphia, or near to it, seeing and hearing the tug more than a mile off, crossed her bows unneces­sarily, and stopped her headway when right in front of the tug, she may not be in a situ­ation to impute fault to the tug in a suit be­tween them. And as such a controversy may possibly arise hereafter, it is not the in­tention of this court to intimate any opinion on this question till both parties have been heard. It is enough for the purposes of this case, that the steamer was found in front of the tug; that the tug did not back her engine or make any effort to avoid the collision, and that in consequence thereof, the libellants’ boat was sunk and their property lost. It is true, a tug is not liable as insurer, as car­riers for hire are, but it is bound to use all the care and diligence which prudence and caution require, to avoid bringing the tow in collision with objects which may cause its injury or destruction. The answer charges no fault to the tow or those who managed it. It was not lost by inevitable accident; but by being brought by the power of the steam tug into collision with the steamboat. And although the decree in the case of thé Na­poleon is no estoppel to the Enterprise, who was no party to it on the record, yet as be­tween her and the libellants, under the cir­cumstances I have detailed, it should have the force of an acknowledgment or confes­sion in deciding doubtful questions of fact If, as between the tug and the steamboat the latter has been partially or entirely in the fault, the owners of the Enterprise may have their remedy for the half or the whole of the damages recovered by the libellants, and the judgment in this case cannot affect, by way of estoppel, either party in such a contest, as to any matter of fact herein decided, except that the tug has been compelled to pay the ■damages caused by the collision.</p>
+                <p id="b741-4" pgmap="741">Let a decree be entered for libellants fortlie value of the iron lost, to be calculated by the clerk. As other evidence was given in this court, materially affecting the cause, the ap­pellants will not be allowed costs in this -court.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="738" ORDERLABEL="736" TYPE="page">
+        <fptr FILEID="tiff_00369_1"/>
+        <fptr FILEID="jp2_00369_1"/>
+        <fptr FILEID="alto_00369_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_738.5" BETYPE="IDREF" FILEID="alto_00369_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="739" ORDERLABEL="737" TYPE="page">
+        <fptr FILEID="tiff_00370_0"/>
+        <fptr FILEID="jp2_00370_0"/>
+        <fptr FILEID="alto_00370_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_739.3" BETYPE="IDREF" FILEID="alto_00370_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="740" ORDERLABEL="738" TYPE="page">
+        <fptr FILEID="tiff_00370_1"/>
+        <fptr FILEID="jp2_00370_1"/>
+        <fptr FILEID="alto_00370_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_740.4" BETYPE="IDREF" FILEID="alto_00370_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="741" ORDERLABEL="739" TYPE="page">
+        <fptr FILEID="tiff_00371_0"/>
+        <fptr FILEID="jp2_00371_0"/>
+        <fptr FILEID="alto_00371_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_741.7" BETYPE="IDREF" FILEID="alto_00371_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-10" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.12" BETYPE="IDREF" FILEID="alto_00369_1"/>
+            <area BEGIN="BL_738.13" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-12" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.14" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-13" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.15" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-18" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.22" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b741-4" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_741.9" BETYPE="IDREF" FILEID="alto_00371_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Add" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_740.8" BETYPE="IDREF" FILEID="alto_00370_1"/>
+            <area BEGIN="BL_740.9" BETYPE="IDREF" FILEID="alto_00370_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATJ" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.16" BETYPE="IDREF" FILEID="alto_00369_1"/>
+            <area BEGIN="BL_738.17" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmWF" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_740.6" BETYPE="IDREF" FILEID="alto_00370_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b740-3" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_740.5" BETYPE="IDREF" FILEID="alto_00370_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-9" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.11" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b740-7" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_740.11" BETYPE="IDREF" FILEID="alto_00370_1"/>
+            <area BEGIN="BL_740.12" BETYPE="IDREF" FILEID="alto_00370_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b740-6" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_740.10" BETYPE="IDREF" FILEID="alto_00370_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b740-5" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_740.7" BETYPE="IDREF" FILEID="alto_00370_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b740-10" BETYPE="IDREF" FILEID="casebody_0380"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_740.13" BETYPE="IDREF" FILEID="alto_00370_1"/>
+            <area BEGIN="BL_741.5" BETYPE="IDREF" FILEID="alto_00371_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

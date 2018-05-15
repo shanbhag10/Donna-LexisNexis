@@ -1,0 +1,367 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0433" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="In re Evans">In re EVANS</name>
+          <docketnumber>Case No. 4,551</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 833</citation>
+          <citation category="parallel" type="bluebook">1 Lowell, 525</citation>
+          <decisiondate>1871-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00418_0" MIMETYPE="image/tiff" CHECKSUM="d23a4117a842a49c2b512552e5e911c7" CHECKSUMTYPE="MD5" SIZE="101568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00418_0.tif"/>
+      </file>
+      <file ID="tiff_00418_1" MIMETYPE="image/tiff" CHECKSUM="38ccd617a96ff09f6cf27baeaaf3a6b1" CHECKSUMTYPE="MD5" SIZE="79374">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00418_1.tif"/>
+      </file>
+      <file ID="tiff_00419_0" MIMETYPE="image/tiff" CHECKSUM="12f0cfdebaa75d38640fca744f6a7929" CHECKSUMTYPE="MD5" SIZE="84724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00419_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00418_0" MIMETYPE="image/jp2" CHECKSUM="8f5c709563e931c1ccc515201394cc2f" CHECKSUMTYPE="MD5" SIZE="3598742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00418_0.jp2"/>
+      </file>
+      <file ID="jp2_00418_1" MIMETYPE="image/jp2" CHECKSUM="495234e2d9cd05ee2bb77d4d29ed2086" CHECKSUMTYPE="MD5" SIZE="2974932">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00418_1.jp2"/>
+      </file>
+      <file ID="jp2_00419_0" MIMETYPE="image/jp2" CHECKSUM="73dca19aa2d470fd81d4b601afd0ff40" CHECKSUMTYPE="MD5" SIZE="3237965">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00419_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00418_0" MIMETYPE="text/xml" CHECKSUM="e92588caef6a5699e72c5573fd6ce06a" CHECKSUMTYPE="MD5" SIZE="224002">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00418_0.xml"/>
+      </file>
+      <file ID="alto_00418_1" MIMETYPE="text/xml" CHECKSUM="86bab8a4305230ee42a49e1d42432fa5" CHECKSUMTYPE="MD5" SIZE="175646">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00418_1.xml"/>
+      </file>
+      <file ID="alto_00419_0" MIMETYPE="text/xml" CHECKSUM="f99fd5c0b151a03f337b3d00d8da1c59" CHECKSUMTYPE="MD5" SIZE="179201">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00419_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0433" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="835" firstpage="833">
+              <court id="b835-13" pgmap="835">District Court, D. Massachusetts.</court>
+              <docketnumber id="b835-10" pgmap="835">Case No. 4,551.</docketnumber>
+              <citation id="b835-12" pgmap="835">[1 Lowell, 525.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b835-11" pgmap="835">In re EVANS.</parties>
+              <decisiondate id="AG7Z" pgmap="835">Jan., 1871.</decisiondate>
+              <attorneys id="b836-9" pgmap="836">J. D. Ball, for petitioners.</attorneys>
+              <attorneys id="b836-10" pgmap="836">G. A. Somerby, for respondent.</attorneys>
+              <footnote label="1">
+                <p id="b835-15" pgmap="835">1 [Reported by Hon. John Lowell, LL. D., District Judge, and here reprinted by permis­sion.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b836-11" pgmap="836">LOWELL, District Judge.</author>
+                <p id="Ajb" pgmap="836">It is said to have been decided by Mr. Justice Clifford, sitting in the district of Ithode Island, that actions by assignees against persons “claim­ing an adverse interest” should be by regu­lar suits at law or in equity as the facts may require, and not by summary petitions in the court of bankruptcy. I suppose this decision is to be taken subject to the qualifications of sections 6 and 25 of the bankrupt act of 1867 [14 Stat. 520, 528], the first of which gives power to any persons who choose to submit to the jurisdiction to take the opin­ion of the district court on a case stated, and the latter gives the court of bankruptcy power to order the sale of property in the actual possession of the assignee, who is to hold the proceeds instead of the proper­ty, subject to all lawful claims and liens. And I may add that, on general principles the assignee, who is an officer of the bank­rupt court, may be proceeded against by sum­mary petition in respect to any fund in his hands, if the opposing party chooses to pro­ceed in that way, though the assignee him­self has no right to take similar action against third persons. The decision to which I refer has not yet been written out; but I take it to be the law that, subject to the exceptions which I have referred to, the assignee must bring his action. The petition here is a bill in equity in all its substance, and even in most matters of form, and may be transfer­red to the district court, if the assignee shall be so advised. A similar order was made in the Ithode Island case.</p>
+                <p id="b836-13" pgmap="836">In the mean time, as the merits of the case have been fully argued, I see no improprie­ty in giving my opinion upon them. Assum­ing that the bill of sale by Evans to Jeffers was voidable by the creditors of the former, as I must assume on demurrer, I yet cannot restrain the suit of Jeffers against the at­taching officer, because the latter has a valid defence, and one which the state courts are ready to uphold. It has been twice decided by the supreme judicial court of Massachu­setts, that an officer may prove in reduction of the damages in such an action that the conveyance was a fraud on the bankrupt act, and that he has given over the property to an assignee in bankruptcy. This works more complete justice than would an injunction, because a fraud -on the bankrupt act .is no fraud unless bankruptcy intervenes within four months or six months, .and therefore a suit begun before the bankruptcy by one whose title is good against every one but the assignee, was rightly brought, and ought to hold good for the costs, unless under such peculiar circumstances that the state court would refuse them. The cases to which 1 refer are Perry v. Chandler, 2 Cush. 237, and Hanson v. Herrick, 100 Mass. 323. In­deed I do not know where to find the juris­diction of this court to try a case between an attaching officer and a stranger to the bankruptcy, or to enjoin such an action pend­ing in the court which has jurisdiction of it. I find by examination of the files in May­nard’s Case,<footnotemark>2</footnotemark> pending in 1842, part of which is recited in Perry v. Chandler, ubi supra, that Judge Sprague was asked to enjoin that suit against the sheriff, but did not do so. The first draft of the decree contains such an order, but it is stricken out and forms no part of the completed record. Judge Sprague did order the mortgage in that case to be cancelled. In this case it does not appear that the assignee has been or is about to be sued or molested in respect to the property,, and it seems entirely fit that the case now pending in the state court should be unem­barrassed by any preliminary action of .this court in equity.</p>
+                <p id="b836-14" pgmap="836(31) 837(132)">The defendant is bound to account to the assignee for the fixtures and other things which he actually received under the bill of sale, and if the decree here should pro •cede the trial in the state court, valeat ■quantum. In Maynard’s Case the opposing interest was that of a mortgagee, and this -court being possessed of the property was the proper tribunal in which to ascertain and establish or set aside all asserted incum-­brances and liens, and if the mortgagee did .not proceed the assignee was bound to do so. In the case of a person claiming not a mort­gage but an absolute adverse title, this court "has no such exclusive authority, and it is now well settled by the cases above cited, that the state court will give full effect to the •defence set up by the officer under the bank­rupt law, and thus try the case upon the same title and rules as would be followed here.</p>
+                <p id="b837-4" pgmap="837">Case dismissed as to Bayley. Retained for an account by the defendant to the assignee, and for this purpose to be transferred to the ■district court</p>
+                <footnote label="2">
+                  <p id="b836-15" pgmap="836">2 [See Arnold v. Maynard, Case No. 561.]</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="835" ORDERLABEL="833" TYPE="page">
+        <fptr FILEID="tiff_00418_0"/>
+        <fptr FILEID="jp2_00418_0"/>
+        <fptr FILEID="alto_00418_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_835.6" BETYPE="IDREF" FILEID="alto_00418_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="836" ORDERLABEL="834" TYPE="page">
+        <fptr FILEID="tiff_00418_1"/>
+        <fptr FILEID="jp2_00418_1"/>
+        <fptr FILEID="alto_00418_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_836.4" BETYPE="IDREF" FILEID="alto_00418_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="837" ORDERLABEL="835" TYPE="page">
+        <fptr FILEID="tiff_00419_0"/>
+        <fptr FILEID="jp2_00419_0"/>
+        <fptr FILEID="alto_00419_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_837.3" BETYPE="IDREF" FILEID="alto_00419_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AG7Z" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.17" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-11" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.12" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-15" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.18" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-10" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.11" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-9" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.10" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-14" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.17" BETYPE="IDREF" FILEID="alto_00418_1"/>
+            <area BEGIN="BL_837.1" BETYPE="IDREF" FILEID="alto_00419_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b835-12" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.15" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b835-13" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.16" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b835-10" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.13" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b835-11" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.14" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b835-15" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_835.20" BETYPE="IDREF" FILEID="alto_00418_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b836-13" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.16" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajb" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_836.13" BETYPE="IDREF" FILEID="alto_00418_1"/>
+            <area BEGIN="BL_836.14" BETYPE="IDREF" FILEID="alto_00418_1"/>
+            <area BEGIN="BL_836.15" BETYPE="IDREF" FILEID="alto_00418_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b837-4" BETYPE="IDREF" FILEID="casebody_0433"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_837.5" BETYPE="IDREF" FILEID="alto_00419_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

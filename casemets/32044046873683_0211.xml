@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0211" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Electra">The ELECTRA</name>
+          <docketnumber>Case No. 4,338</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 435</citation>
+          <citation category="parallel" type="bluebook">6 Ben. 189</citation>
+          <decisiondate>1872-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00219_0" MIMETYPE="image/tiff" CHECKSUM="9f2bca05fd11969a578b404169a8785b" CHECKSUMTYPE="MD5" SIZE="83650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00219_0.tif"/>
+      </file>
+      <file ID="tiff_00219_1" MIMETYPE="image/tiff" CHECKSUM="2b5e897faddf393afc0c91c34825ff94" CHECKSUMTYPE="MD5" SIZE="101942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00219_1.tif"/>
+      </file>
+      <file ID="tiff_00220_0" MIMETYPE="image/tiff" CHECKSUM="b72ccaa5a35fa8164e28e287f6dfd7cd" CHECKSUMTYPE="MD5" SIZE="112314">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00220_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00219_0" MIMETYPE="image/jp2" CHECKSUM="3204dbfb3b52ad362aca02fc0e5150c2" CHECKSUMTYPE="MD5" SIZE="3185218">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00219_0.jp2"/>
+      </file>
+      <file ID="jp2_00219_1" MIMETYPE="image/jp2" CHECKSUM="3dfcfd0833d64d331a2efb2308913701" CHECKSUMTYPE="MD5" SIZE="3566561">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00219_1.jp2"/>
+      </file>
+      <file ID="jp2_00220_0" MIMETYPE="image/jp2" CHECKSUM="7f9e834f98d6124b7dd831712ccc1a6c" CHECKSUMTYPE="MD5" SIZE="3805064">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00220_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00219_0" MIMETYPE="text/xml" CHECKSUM="2cdecd7287cfee96ba01c5ef09bc4029" CHECKSUMTYPE="MD5" SIZE="188080">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00219_0.xml"/>
+      </file>
+      <file ID="alto_00219_1" MIMETYPE="text/xml" CHECKSUM="6cf40c73b393a4978aca60d4984923ba" CHECKSUMTYPE="MD5" SIZE="226578">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00219_1.xml"/>
+      </file>
+      <file ID="alto_00220_0" MIMETYPE="text/xml" CHECKSUM="1f8585d00cb6f4bdea32c41cb31e3d4c" CHECKSUMTYPE="MD5" SIZE="243531">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00220_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0211" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="437" firstpage="435">
+              <court id="b437-18" pgmap="437">District Court, S. D. New York.</court>
+              <docketnumber id="b437-15" pgmap="437">Case No. 4,338.</docketnumber>
+              <citation id="b437-17" pgmap="437">[6 Ben. 189.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b437-16" pgmap="437">The ELECTRA.</parties>
+              <decisiondate id="AoM" pgmap="437">Oct., 1872.</decisiondate>
+              <attorneys id="b438-5" pgmap="438">D. A. Hawkins, for libellants.</attorneys>
+              <attorneys id="b438-6" pgmap="438">R. D. Benedict, for claimants.</attorneys>
+              <footnote label="1">
+                <p id="b437-21" pgmap="437">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b438-7" pgmap="438">BLATCHFORD, District Judge.</author>
+                <p id="AKf2" pgmap="438">This libel is brought by the owners of the schooner Lucy C. Hall, to recover for the damages sustained by them in consequence of injuries to the schooner, through' a collision which took place between her and the steam pro­peller Electra, on the 15th of March, 1871, at about half past seven o’clock, a. m., the schooner being at the time at anchor in Hell Gate, between Hallett’s Point and Negro Point, and the propeller being on a trip from Providence to New York, and the tide being a strong ebb and with the course of the propeller.</p>
+                <p id="b438-8" pgmap="438">The libel alleges, that the schooner was passing through Hell Gate, on her way to New York from the Sound, with a moderate breeze from the eastward; that, when she reached a point in the channel opposite Ne­gro Point bluff on Ward’s Island, the breeze fell off, leaving her at that point in nearly a dead calm, and she drifted with the ebb tide towards Pot Rock eddy, when, finding it impossible to keep in the channel way, by reason of there' being at that time no wind and a swift current setting on to Hallett’s Point, and getting dangerously near to Hal-­lett’s Point, and being too near to clear it, and being entirely at the mercy of the tide and current by reason of the falling off of the wind, and having swung around about head to the northward, she let go her anchor, to avoid going upon the rocks, and paid out about fifteen fathoms of chain; that the anchor took at once, and brought her up head to the tide and clear of the rocks, and about 150 feet to the eastward of Hallett's Point, in a proper and safe place, under the cir­cumstances, to anchor, being about 1,000 feet from the easterly shore of Hell Gate, or Holmes’ Rock, or the Hog’s Back; that, on the schooner’s coming to anchor, the propeller was just passing Negro Point bluff, on her way from the eastward, being about one-­third of a mile distant from the schooner; that the propeller, by gross carelessness and negligence on the part of those in charge of her, instead of passing to the northward of the schooner, in the regular and usual course of vessels passing through Hell Gate, came directly down upon the schooner, as she lay at anchor, and attempted to pass in the nar­row space between the schooner and Hal-­lett’s Point reef; that, as soon as it was evi­dent that she intended to go southward of the schooner instead of northward, the mas­ter of the schooner attempted to avoid being run down, by putting his helm hard a-star­board, so as to give the schooner a sheer to port; that the starboard bow of the pro­peller struck the bowsprit of the schooner, and broke it off, and carried away her fore­mast and rigging, and did other damage, and parted the schooner’s cable, and the pro­peller sailed on, leaving the schooner to drift; and that the collision was caused wholly by negligence on the part of the propeller.</p>
+                <p id="b438-11" pgmap="438">The answer sets up, that the wind was about east southeast; that the schooner was going through Hell Gate ahead of the propeller, and, after having passed Negro Point, tacked to the northward, and was standing across the river towards Ward’s Island, in such a direction, and with such speed, as made it proper for the propeller to pass under her stem; that, accordingly, the course of the propeller was so shaped as to pass under the stem of the schooner, and she would have passed the schooner, had not the schooner, when in the true tide, and without any cause or excuse, cast her anchor overboard, and swung around to her anchor right in the channel, and in the way where the propeller must be swept against her by the tide; that, as soon as the fact that the schooner had dropped her anchor could be discovered from the propeller, it was dis­covered, and immediately her helm was put hard a-starboard, to endeavor to swing her away from the schooner, but it could not be done and the side of the propeller was carried by the tide against the bows of the schooner; that the propeller was only about 300 or 400 feet from the schooner when the latter came to anchor, and was then heading to the south­ward of her, so as to pass between her and Hallett’s Point, and it was not possible to pass on the north side of the schooner, and the propeller’s only course was to keep on in the course she had taken, which was a regular and usual course of vessels in pass­ing through Hell Gate; that the collision, was caused by no negligence on the part of the propeller, and the accident was, so far as she was concerned, inevitable; and that, the schooner was in fault in coming to anchor as she did in midchannel, and is solely respon­sible for the collision.</p>
+                <p id="b438-12" pgmap="438(94) 439(51)">The schooner had three persons on her at the time of the collision. They were her master, a mate, and a man who acted as hand and steward. All three of them have been examined as witnesses for the libel-­lants, and they are the only witnesses for the libellants who saw the collision, except a person named Ruskin, who says he was at the time on another schooner bound from the eastward. On the part of the propeller six persons who saw the collision have been examined as witnesses. They are Mott, her master, Reynolds, her bow watchman, Shir­ley, her pilot, Griffin, her second pilot, How­ell, wheelsman, and Kelly, a passenger. Mott, Shirley, Griffin and Howell were in the pilot house, attending to their duties, from the time the schooner came into view from the propeller, and Reynolds was on the bow.</p>
+                <p id="b439-3" pgmap="439">The contested point in the suit is, as to whether the anchoring of the schooner was or ought to have been observed from on board of the propeller, soon enough for her to have been able to avoid the collision. On the part of the schooner, it is contended, that she was at anchor in a position visible to .the propeller, for a sufficient length of time prior to the collision for the propeller to have taken a course to the northward of her, free and clear. On the part of the propeller, it is contended, that, as the propeller came around Negro Point bluff, the schooner was seen ahead, in motion, heading over towards the Ward’s Island side, on the starboard hand, below Negro Point and about in a range be­tween the propeller and Hallett’s point; that the propeller went on to Negro Point, and when off that, and in the usual place for de­termining what course to take and what chan­nel to go .through, whether the one between Flood Rock and Hallctt’s Point, or the main shi; channel around by Manhattan Island, and when a gap was opening between the stern of the schooner and Hallet’s Point, as the schooner moved onward, heading towards the Ward’s Island side, the pilot of the pro­peller determined to take that course which was the safer and more usual one for a steamer as large as the Elcctra, when com­ing from the eastward, on an ebb tide, namely, to go through the channel between Flood Rock and Hallet’s Point; that, accord­ingly, when the propeller was off Negro Point, her helm was changed, by porting, some six points, and she headed for Hallet’s Point, having the schooner a point and a half on her starboard bow, after having got headed for Hallet’s Point; that the schooner then suddenly, when the propeller was only GOO or 700 feet off from her, let go her an­chor and 'swung to the tide; that the pro­peller was then so near to her that it was impossible for the propeller, by porting, to pass to the northward of her, or, by star-­boading, to clear her to the southward; that the propeller could not, in the rapid tide and dangerous navigation of Hell Gate, and in the sudden emergency thrown upon her by the anchoring of the schooner, and in her close proximity to the schooner when the latter so anchored, effect any useful result by slowing, stopping, or backing; that the moment it was seen, from the propeller, that the schooner was anchoring, the wheel of the propeller was hove, to starboard, and an effort made to sheer her head to port and clear the schooner to the southward, which was ineffectual; and that the collision was, so far as the propeller was concerned, inev­itable.</p>
+                <p id="b439-6" pgmap="439">I think this defence is established. The weight of the evidence sustains it Without regard to the question whether there was any wind, or more or less wind, at the time the schooner anchored, or the question wheth­er the falling off in the wind, or the absence of wind, brought her into peril, or induced a reasonable apprehension of peril, which caused her to anchor, or the question whether she was, in fact, in danger of drifting on shore, so as to make it proper for her to anchor where she did, the weight of the evidence is, that, to those on the propeller, faithfully observant of their duties, the schooner seemed to be going with the tide, and to be afloat, making more or less head­way through Hell Gate, ahead of the pro­peller, and to be in such a position as to justify them in assuming that she would con­tinue to move on with the tide; that, if she had done so and not come to anchor as and where she did, there would have been abun­dant room for the propeller to go between her and Hallett’s Point; that the propeller, at the usual place for selecting her course, selected it, and made a proper selection, in view of the appearance then presented to her by the schooner; and that, after the propeller had got on her course heading for Hallett’s Point, and at a time when it was too late, and the vessels were too near to each other for the propeller to go to the northward, or to go any further to the south­ward, or to effect any useful object by slow­ing, stopping or backing, the schooner sud­denly cast anchor directly in the path of the propeller, and brought upon herself the con­sequences which ensued. It may have been that the schooner was in peril, and was right in anchoring where she did, but she must abide the consequences of anchoring there when she did. Intent on avoiding what she conceived to be danger of going on shore, she voluntarily threw herself into the great­er danger of suddenly anchoring in the dan­gerous and narrow tide-way of Hell Gate, in front of and directly in the cotuse of a large steamer coming with the tide. If the schoon­er. when she determined to anchor, saw the propeller approaching, she took the risk of the unusual circumstance of a vessel’s an­choring in that spot being discovered by the propeller soon enough for the propeller to avoid her. If the schooner, when she de­termined to anchor, did not see the propeller approaching, it makes no difference. The only question is, whether the anchoring of the schooner took place at a time and in a position when and where the propeller, dis­covering the fact as soon as she ought to have discovered it, could not avoid the col­lision. This point I must, on the evidence, resolve in favor of the propeller and against the schooner.</p>
+                <p id="b439-7" pgmap="439">The libel is dismissed, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="437" ORDERLABEL="435" TYPE="page">
+        <fptr FILEID="tiff_00219_0"/>
+        <fptr FILEID="jp2_00219_0"/>
+        <fptr FILEID="alto_00219_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_437.3" BETYPE="IDREF" FILEID="alto_00219_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="438" ORDERLABEL="436" TYPE="page">
+        <fptr FILEID="tiff_00219_1"/>
+        <fptr FILEID="jp2_00219_1"/>
+        <fptr FILEID="alto_00219_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_438.3" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="439" ORDERLABEL="437" TYPE="page">
+        <fptr FILEID="tiff_00220_0"/>
+        <fptr FILEID="jp2_00220_0"/>
+        <fptr FILEID="alto_00220_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_439.3" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-3" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.5" BETYPE="IDREF" FILEID="alto_00220_0"/>
+            <area BEGIN="BL_439.6" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-12" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.15" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            <area BEGIN="BL_439.1" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-15" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.19" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-16" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.20" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-17" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.21" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-18" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.22" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKf2" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.10" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            <area BEGIN="BL_438.11" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-7" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.8" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b439-6" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_439.7" BETYPE="IDREF" FILEID="alto_00220_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b437-21" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.26" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-8" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.12" BETYPE="IDREF" FILEID="alto_00219_1"/>
+            <area BEGIN="BL_438.13" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoM" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_437.23" BETYPE="IDREF" FILEID="alto_00219_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-5" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.7" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-7" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.9" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-6" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.8" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b438-11" BETYPE="IDREF" FILEID="casebody_0211"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_438.14" BETYPE="IDREF" FILEID="alto_00219_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

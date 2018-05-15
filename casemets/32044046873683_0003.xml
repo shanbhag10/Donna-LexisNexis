@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0003" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="In re Duncan">In re DUNCAN et al.</name>
+          <docketnumber>Case No. 4,133</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 9</citation>
+          <citation category="parallel" type="bluebook">18 N. B. R. 42</citation>
+          <decisiondate>1878-06-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:32Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00006_0" MIMETYPE="image/tiff" CHECKSUM="39cbdb4bb56be55753ef3e7e374da1f3" CHECKSUMTYPE="MD5" SIZE="54492">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00006_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00006_0" MIMETYPE="image/jp2" CHECKSUM="ee71d01d180cc8039db8428ce10a97bd" CHECKSUMTYPE="MD5" SIZE="2565541">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00006_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00006_0" MIMETYPE="text/xml" CHECKSUM="067014fa9e50f9631a3db1237b08341a" CHECKSUMTYPE="MD5" SIZE="106448">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00006_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0003" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="9" firstpage="9">
+              <court id="b11-9" pgmap="11">District Court, S. D. New York.</court>
+              <docketnumber id="b11-6" pgmap="11">Case No. 4,133.</docketnumber>
+              <citation id="b11-8" pgmap="11">[18 N. B. R. 42.]<footnotemark>1</footnotemark>
+              </citation>
+              <seealso id="b11-15" pgmap="11">[For previous proceedings in the case, see •Cases Nos. 4,131 and 4,132.]</seealso>
+              <parties id="b11-7" pgmap="11">In re DUNCAN et al.</parties>
+              <decisiondate id="An" pgmap="11">June 8, 1878.</decisiondate>
+              <attorneys id="b11-16" pgmap="11">F. N. Bangs, for baxikrupts.</attorneys>
+              <attorneys id="b11-17" pgmap="11">Field &amp; Deyo and Howard Payson Wilde, for opposing creditors.</attorneys>
+              <footnote label="1">
+                <p id="b11-20" pgmap="11">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b11-18" pgmap="11">CHOATE, District Judge.</author>
+                <p id="Ad" pgmap="11">Certain cred­itors having filed specification in opposition to a discharge, the bankrupts excepted, and upon the hearing of the exceptions the first ■and second specifications were held to be indefinite and vague in a certain particular, •and leave was given to amend in this partic­ular. The opposing creditors having filed amended specification containing more defi­nite allegations in the parts thus directed to be amended, and differing from the orig­inal specifications only in those parts, the bankrupts have filed exceptions to the amended specifications, renewing some of the objections contained in their former excep­tions, and containing some further objections, the objections now made relating to other parts of the specifications.</p>
+                <p id="b11-19" pgmap="11">The amendments are in accordance with the order of the court As to all the other ■objections raised by the exceptions, I think that they must be considered as already passed upon by the court, or as made too late. All objections to specifications should be raised by the exceptions first filed. So far as the exceptions now taken are the same as were taken before, the case was heard, and the order, having sustained the excep­tions in certain respects, must be deemed to have disallowed them in all other respects. They cannot now be renewed. If the amend­ment allowed is in effect the making of a specification, substantially different from the former, the right to except thereto of course exists. But that is not this ease. If this practice were not adhered to there would be no end of dilatory proceedings, and it works no practical injustice. The exceptions to the third specification were taken before, and must, therefore, be overruled.</p>
+                <p id="b11-22" pgmap="11">Exceptions overruled. Case to stand for argument on the specifications, either party to have leave to take further testimony be­fore the register upon notice.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="11" ORDERLABEL="9" TYPE="page">
+        <fptr FILEID="tiff_00006_0"/>
+        <fptr FILEID="jp2_00006_0"/>
+        <fptr FILEID="alto_00006_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_11.4" BETYPE="IDREF" FILEID="alto_00006_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-6" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.10" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-19" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.29" BETYPE="IDREF" FILEID="alto_00006_0"/>
+            <area BEGIN="BL_11.30" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="An" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.14" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-22" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.32" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-18" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.26" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ad" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.27" BETYPE="IDREF" FILEID="alto_00006_0"/>
+            <area BEGIN="BL_11.28" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-17" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.25" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-20" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.31" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-9" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.13" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-8" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.12" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-7" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.11" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-16" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.24" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b11-15" BETYPE="IDREF" FILEID="casebody_0003"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_11.23" BETYPE="IDREF" FILEID="alto_00006_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

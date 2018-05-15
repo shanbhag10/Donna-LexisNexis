@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0578" publicationstatus="published">
+          <court abbreviation="E.D.N.Y." jurisdiction="United States">United States District Court for the Eastern District of New York</court>
+          <name abbreviation="The Favorita">The FAVORITA</name>
+          <docketnumber>Case No. 4,694</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1098</citation>
+          <citation category="parallel" type="bluebook">4 Ben. 132</citation>
+          <decisiondate>1870-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00550_1" MIMETYPE="image/tiff" CHECKSUM="8da8a95ed27378f8283751295cbf6137" CHECKSUMTYPE="MD5" SIZE="79378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00550_1.tif"/>
+      </file>
+      <file ID="tiff_00551_0" MIMETYPE="image/tiff" CHECKSUM="5b517335d14f83a6ce80345d91333b56" CHECKSUMTYPE="MD5" SIZE="57446">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00551_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00550_1" MIMETYPE="image/jp2" CHECKSUM="f692b94698089db7e5115b20d7f90721" CHECKSUMTYPE="MD5" SIZE="2990751">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00550_1.jp2"/>
+      </file>
+      <file ID="jp2_00551_0" MIMETYPE="image/jp2" CHECKSUM="f13fc502915b274c61591ed9dcd4d1e0" CHECKSUMTYPE="MD5" SIZE="2501609">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00551_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00550_1" MIMETYPE="text/xml" CHECKSUM="b5fb1f3ff9de821553ad6336e3fac515" CHECKSUMTYPE="MD5" SIZE="165411">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00550_1.xml"/>
+      </file>
+      <file ID="alto_00551_0" MIMETYPE="text/xml" CHECKSUM="9cd6d5be8220141e89a69798454a5b07" CHECKSUMTYPE="MD5" SIZE="114025">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00551_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0578" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1099" firstpage="1098">
+              <court id="b1100-8" pgmap="1100">District Court, E. D. New York.</court>
+              <docketnumber id="b1100-5" pgmap="1100">Case No. 4,694.</docketnumber>
+              <citation id="b1100-7" pgmap="1100">[4 Ben. 132.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1100-6" pgmap="1100">The FAVORITA.</parties>
+              <decisiondate id="A-s8" pgmap="1100">April, 1870.</decisiondate>
+              <attorneys id="b1100-20" pgmap="1100">B. D. Silliman, for libellant.</attorneys>
+              <attorneys id="b1100-21" pgmap="1100">Benedict &amp; Benedict, for claimants.</attorneys>
+              <footnote label="1">
+                <p id="b1100-14" pgmap="1100">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1100-22" pgmap="1100">BENEDICT, District Judge.</author>
+                <p id="Ag9G" pgmap="1100">This case comes before the court, upon exceptions taken by both parties to the commissioner's report of the amount of the loss sustained by the Union Ferry Company, by reason of a collision between the ferry-boat Manhasset, and the steamship Favorita On the part of the libellants, objection is taken to the disallowance by the commissioner of the amount of a bill of costs, incurred by the libellants in defending an action brought against them, to recover an exorbitant de­mand for the use of a tug-boat, in keeping the Manhasset afloat, when she was hurt. The exception to the report upon this ground cannot be sustained. It was the misfortune of the libellants, that they were compelled to-­resort to law, as their only means of avoiding an unjust demand, and the expense, thereby entailed, cannot be recovered in this action, as part of the damages resulting from the collision in question.</p>
+                <p id="b1100-23" pgmap="1100">An exception is taken on the part of the claimant, to the item of demurrage allowed by the commissioner, upon which point the evidence is that the libellant’s ferry-boat was detained from her regular employment, for the space of ten days, and that the value of the use of such a boat is $75 per day. In addition, it is proved that the libellants at •once replaced the boat, upon the ferry, by a spare boat of their own, kept for the purpose of relieving ferry-boats from duty, when necessary; and it is also shown that the re­ceipts of the ferry were not diminished by the absence of the Manhasset from her place upon the ferry. These circumstances do not however preclude the libellants from recov­ering the real value of the use of the Man-­hasset, for the period she was laid up. The libellants are entitled to be made good, for all which they lost by reason of the collision. It is conceded that they lost the use of the Manhasset, for a period of ten days, and the value of that use, they have proved to be $75 per day. I see no reason why they should not recover that loss, as part of their dam­ages, notwithstanding the fact, that they took another boat of their own, to replace the injured boat, instead of hiring a boat of a third party.</p>
+                <p id="b1101-3" pgmap="1101">This question is substantially the samé, as that decided by this court, in the case of The Cayuga [Case No. 2,535], and until further instructed, I adhere to the rule there laid down. The first exception on the part of the claimant is therefore overruled.</p>
+                <p id="b1101-4" pgmap="1101">Both sides have excepted to the allowance of $1,000, as the amount of permanent injury caused to the Manhasset, by the collision, and I have duly considered the evidence bearing upon the subject</p>
+                <p id="AOG" pgmap="1101">It appears clearly proved, that 'some per­manent depreciation of the value of the boat did result from the collision, but the amount of that depreciation is not so clear. Upon the evidence I certainly could not con­sider that amount to have been shown to ex­ceed the sum awarded, and have no hesita­tion in disallowing the exception taken by the libellants upon that ground. I am not very well satisfied with the evidence as show­ing it to have equalled the sum awarded, but, upon the whole, I conclude not to dis­turb the finding of the commissioner upon the point The exceptions of both sides, are accordingly overruled, and the report con­firmed as it stands.</p>
+                <p id="b1101-5" pgmap="1101">I have been asked, at this time, to de­termine also the question of costs, which was not determined in the interlocutory decree. The case is one of mutual fault, and although I entertain no doubt as to the propriety, in a proper-case, of mitigating the effect of the rule of equal division of loss, in cases of mutual fault, by awarding full costs to either party, I do not consider that the present case calls for any deviation from the practice, which is to refuse costs to both parties, when both are equally in fault</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1100" ORDERLABEL="1098" TYPE="page">
+        <fptr FILEID="tiff_00550_1"/>
+        <fptr FILEID="jp2_00550_1"/>
+        <fptr FILEID="alto_00550_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1100.5" BETYPE="IDREF" FILEID="alto_00550_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1101" ORDERLABEL="1099" TYPE="page">
+        <fptr FILEID="tiff_00551_0"/>
+        <fptr FILEID="jp2_00551_0"/>
+        <fptr FILEID="alto_00551_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1101.3" BETYPE="IDREF" FILEID="alto_00551_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1100-5" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1100.8" BETYPE="IDREF" FILEID="alto_00550_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1100-7" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1100.10" BETYPE="IDREF" FILEID="alto_00550_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1100-6" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1100.9" BETYPE="IDREF" FILEID="alto_00550_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-s8" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1100.12" BETYPE="IDREF" FILEID="alto_00550_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1100-8" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1100.11" BETYPE="IDREF" FILEID="alto_00550_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1101-5" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1101.8" BETYPE="IDREF" FILEID="alto_00551_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1100-21" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1100.23" BETYPE="IDREF" FILEID="alto_00550_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOG" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1101.7" BETYPE="IDREF" FILEID="alto_00551_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ag9G" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1100.25" BETYPE="IDREF" FILEID="alto_00550_1"/>
+            <area BEGIN="BL_1100.26" BETYPE="IDREF" FILEID="alto_00550_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1101-3" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1101.5" BETYPE="IDREF" FILEID="alto_00551_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1101-4" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1101.6" BETYPE="IDREF" FILEID="alto_00551_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1100-20" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1100.22" BETYPE="IDREF" FILEID="alto_00550_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1100-14" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1100.17" BETYPE="IDREF" FILEID="alto_00550_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1100-22" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1100.24" BETYPE="IDREF" FILEID="alto_00550_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1100-23" BETYPE="IDREF" FILEID="casebody_0578"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1100.27" BETYPE="IDREF" FILEID="alto_00550_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

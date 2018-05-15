@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0278" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Ellis">The ELLIS</name>
+          <docketnumber>Case No. 4,401</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 549</citation>
+          <decisiondate>1862-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00276_0" MIMETYPE="image/tiff" CHECKSUM="9192c5bc99cd2168b28d704fafca02f6" CHECKSUMTYPE="MD5" SIZE="81686">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00276_0.tif"/>
+      </file>
+      <file ID="tiff_00276_1" MIMETYPE="image/tiff" CHECKSUM="2459935e99da5e070545e28bf93d7ea4" CHECKSUMTYPE="MD5" SIZE="59090">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00276_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00276_0" MIMETYPE="image/jp2" CHECKSUM="e54642a077e9cf56ef2982bc9295a01e" CHECKSUMTYPE="MD5" SIZE="3170786">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00276_0.jp2"/>
+      </file>
+      <file ID="jp2_00276_1" MIMETYPE="image/jp2" CHECKSUM="2b8548b74883551e3416b1b5ff69f002" CHECKSUMTYPE="MD5" SIZE="2498769">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00276_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00276_0" MIMETYPE="text/xml" CHECKSUM="a290a6c031d6531daa6de303f7abc53f" CHECKSUMTYPE="MD5" SIZE="166672">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00276_0.xml"/>
+      </file>
+      <file ID="alto_00276_1" MIMETYPE="text/xml" CHECKSUM="fb6fcefb5510714844038a8fcb1129a6" CHECKSUMTYPE="MD5" SIZE="117893">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00276_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0278" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="550" firstpage="549">
+              <court id="A6oM" pgmap="551">District Court, S. D. New York.</court>
+              <docketnumber id="b551-19" pgmap="551">Case No. 4,401.</docketnumber>
+              <parties id="b551-20" pgmap="551">The ELLIS.</parties>
+              <decisiondate id="AjY" pgmap="551">Oct., 1862.</decisiondate>
+              <p id="b551-21" pgmap="551">[Blatchf. Pr. Cas. 248.]<footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p id="b551-27" pgmap="551">1 [Reported by Samuel Blateliford, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b551-26" pgmap="551">BETTS, District Judge.</author>
+                <p id="AlPj" pgmap="551(129) 552(47)">The first named vessel, the Ellis, with her armament, was seized February 10, 1862, by the United States steamer Ceres, at the capture of Eliz­abeth City, in North Carolina, and was, di­rectly thereafter, upon due appraisal, appro­priated to the United States, and used In the conduct of the war, being appraised at the sum of $18,000. A libel was filed in this court against the said vessel and arma­ment September 20, 1862, and, to a monition issued thereon, the marshal made return, in October thereafter, “that the vessel and ar­mament had been attached and delivered to the libellants, at the appraised valuation of $18,000.” On due proclamation made in court upon that return, no person appearing or intervening in the suit, the district at­torney moved for and obtained a default against all persons having any interest in the property captured, and submitted to the consideration of the court the preparatory proofs taken in the suit, and prayed a de­cree of condemnation and forfeiture of the said vessel and armament</p>
+                <p id="b552-4" pgmap="552">The testimony given by Commodore Row­an, who commanded the squadron by which the vessel was captured, proves that she was an armed vessel, mounting one piece of ar­tillery (an eighty-pounder cannon) and a howitzer, and that, at the time of her cap­ture, she "was an enemy vessel of war, in the naval service of the enemy, as a gunboat. These facts are conclusive as to her char­acter, and determine her confiseability.</p>
+                <p id="b552-5" pgmap="552">A decree of condemnation and forfeiture of the vessel and her armament is, therefore, ordered.</p>
+                <p id="b552-6" pgmap="552">On the same day, and at the same place, with the capture of the Ellis, a small schoon­er, owned by the enemy, (whose name is unknown) laden with goods consisting of furniture, was captured by the United States steamer Commodore Perry, and was, on due appraisal at the sum of $2,000, appropriated to the use of the United States, and em­ployed to their use in conducting the war.</p>
+                <p id="b552-7" pgmap="552">The evidence in preparatorio proves that this schooner was rebel property, and was, after capture, sunk, by order of the com­mander of the United States naval forces there at the time, as an obstruction at the mouth of the Chesapeake and Albemarle ca­nal, as a warlike measure, and for the pre­vention of the navigation of that canal. An­other enemy vessel, loaded with corn, was sunk at the same time and place by the said United States forces, and for the same pur­poses. These vessels are seized while in possession of the enemy.</p>
+                <p id="b552-8" pgmap="552">The evidence sufficiently identifies the schooner appraised and taken to the use of the United States, and the proceeds of which are proceeded against in this suit, and en­titles the libellants to a decree condemning and confiscating the same as lawful prize. There must, accordingly, be a decree for the above amount.</p>
+                <p id="b552-9" pgmap="552">The remaining four vessels referred to, the steamer Albemarle, the steamer Old North State, the schooner Susan Anne Howard, and the sloop Jefferson Davis, were captured as prize on the 14th of March, 1862, by a United States steamer, at the time of the capture of Newbern, North Carolina.</p>
+                <p id="b552-10" pgmap="552">The testimony and proceedings in respect to the above specified vessels are to the same effect as in the case of the unknown schoon­er, and the libellants are, therefore, entitled to a decree of condemnation and forfeiture of them accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="551" ORDERLABEL="549" TYPE="page">
+        <fptr FILEID="tiff_00276_0"/>
+        <fptr FILEID="jp2_00276_0"/>
+        <fptr FILEID="alto_00276_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_551.2" BETYPE="IDREF" FILEID="alto_00276_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="552" ORDERLABEL="550" TYPE="page">
+        <fptr FILEID="tiff_00276_1"/>
+        <fptr FILEID="jp2_00276_1"/>
+        <fptr FILEID="alto_00276_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_552.6" BETYPE="IDREF" FILEID="alto_00276_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-8" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.11" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-20" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.24" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlPj" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.33" BETYPE="IDREF" FILEID="alto_00276_0"/>
+            <area BEGIN="BL_551.34" BETYPE="IDREF" FILEID="alto_00276_0"/>
+            <area BEGIN="BL_552.3" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-4" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.7" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-5" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.8" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-6" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.9" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-7" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.10" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-10" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.13" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-26" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.32" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-27" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.35" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6oM" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.26" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-21" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.25" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b551-19" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.23" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjY" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_551.27" BETYPE="IDREF" FILEID="alto_00276_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b552-9" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_552.12" BETYPE="IDREF" FILEID="alto_00276_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

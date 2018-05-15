@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0614" publicationstatus="published">
+          <court abbreviation="W.D. Tex." jurisdiction="United States">United States District Court for the Western District of Texas</court>
+          <name abbreviation="In re Fendley">In re FENDLEY</name>
+          <docketnumber>Case No. 4,728</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1137</citation>
+          <citation category="parallel" type="bluebook">10 N. B. R. 250; 3 Am. Law. Rec 105</citation>
+          <decisiondate>1874-05-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00570_0" MIMETYPE="image/tiff" CHECKSUM="a77a8c4a7dfeb4ec1d4ba6ee8dd349dd" CHECKSUMTYPE="MD5" SIZE="56268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00570_0.tif"/>
+      </file>
+      <file ID="tiff_00570_1" MIMETYPE="image/tiff" CHECKSUM="9f98d609a38653a61b92e4a9a5ec2c38" CHECKSUMTYPE="MD5" SIZE="85564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00570_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00570_0" MIMETYPE="image/jp2" CHECKSUM="f7c9e1e948e7bc83b5a0d3649b54808c" CHECKSUMTYPE="MD5" SIZE="2483942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00570_0.jp2"/>
+      </file>
+      <file ID="jp2_00570_1" MIMETYPE="image/jp2" CHECKSUM="1668dc4e402180603770d68b2a60b7c5" CHECKSUMTYPE="MD5" SIZE="3192298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00570_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00570_0" MIMETYPE="text/xml" CHECKSUM="6677fe5ae7e63e72852e339a7faaa1e7" CHECKSUMTYPE="MD5" SIZE="119561">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00570_0.xml"/>
+      </file>
+      <file ID="alto_00570_1" MIMETYPE="text/xml" CHECKSUM="17bb25fe7021d54cf93b8831cfc03488" CHECKSUMTYPE="MD5" SIZE="176575">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00570_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0614" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1138" firstpage="1137">
+              <court id="b1139-11" pgmap="1139">District Court, W. D. Texas.</court>
+              <docketnumber id="b1139-8" pgmap="1139">Case No. 4,728.</docketnumber>
+              <citation id="b1139-10" pgmap="1139">[10 N. B. R. 250;<footnotemark>1</footnotemark> 3 Am. Law. Rec 105.]</citation>
+              <parties id="b1139-9" pgmap="1139">In re FENDLEY.</parties>
+              <decisiondate id="A7F" pgmap="1139">May 11, 1874.</decisiondate>
+              <attorneys id="b1139-22" pgmap="1139">Robertsons &amp; Herndon, for petitioners.</attorneys>
+              <attorneys id="b1139-23" pgmap="1139">Ray &amp; McClure, for respondent.</attorneys>
+              <footnote label="1">
+                <p id="b1139-14" pgmap="1139">1 [Reprinted from 10 N. B. R. 250, by permis­sion.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1139-24" pgmap="1139">DUVAL, District Judge.</author>
+                <p id="A1dC" pgmap="1139">On the 21st day of March, 1S74, the creditors (IV. H. Walker &amp; Co.) filed their petition, praying, for rea­sons therein set forth, that I. I. Fendley be adjudged a bankrupt. On the Gth of April, 1874, such adjudication was had. Prior to this adjudication, to wit, on the 31st day of March, 1874, the same creditors filed a bill praying, for causes therein alleged, that E. Q. Miller be restrained by writ of injunction from selling or otherwise disposing of a cer­tain stock of goods and merchandise, charged to have been fraudulently transferred by Fendley to him, in violation of the bankrupt act, on or about the 1st day of February, 1874, until the rights of Fendley’s creditors thereto could be determined. The writ was granted, and was issued on the 31st day of March, 1874.</p>
+                <p id="b1139-25" pgmap="1139">A motion was made to dissolve this in­junction for several reasons. The most ma­terial are, I think:</p>
+                <p id="b1139-26" pgmap="1139">First. That the bill is not sworn to by the petitioning creditor, but by an agent. As to this objection, the act does not in terms say that it shall be verified by the oath of the petitioner; and this not being expressly re­quired, I think the affidavit of his agent or attorney in fact sufficient. On this point there have been different decisions by the bankrupt courts; but I prefer to follow those which, in the absence of express legislation to the contrary, recognize the general rule of “qui facit per alium faeit per se.”</p>
+                <p id="b1139-27" pgmap="1139(106) 1140(134)">Second. Another objection is, that this court has no jurisdiction over the case. That being a bill in equity, the circuit court only has jurisdiction. This, I think, is a mistake. Under the provisions of the bankrupt act, the district courts have jurisdiction both in law and equity. It is only after the assignee has been appointed that suits by or against him, whether at law or in equity, are re­quired to be by original proceedings, and should be commenced and prosecuted in the mode and according to the practice peculiar to the two jurisdictions. Prior to that event, proceedings in bankruptcy are summary, and an application of a creditor setting forth the proper reasons for the relief or remedy-­sought, will be entertained and acted upon by the bankrupt court. It matters not whether such application be in the nature of a bill in chancery, or of an ordinary petition. In either case, the court has jurisdiction; and if a proper case is presented, will grant the process prayed for if deemed right and ap­propriate. While the bill in this case has the general features of one in equity, I do not regard it as anything more than a peti­tion, application, or other, summary proceed­ing under the bankrupt act. It presents a proper case for granting the injmiction or restraining order prayed for, in a subject-­matter over which the bankrupt court has full jurisdiction.</p>
+                <p id="b1140-4" pgmap="1140">Third. Another ground taken by the motion is, that the debtor, Fendley, has been ad­judicated a bankrupt, and that such adjudi­cation, by operation of law, dissolved the in­junction. It is true that under section 40 of the bankrupt act, there is some reason to sup­pose it was intended that injunctions should cease to operate when adjudication was had. This, however, is by no means certain. But if such be the correct construction, I confi­dently believe that it only refers to such in­junctions as were granted simultaneously with the order to show cause, and is not applicable to such as might be granted be­tween the time of the commencement of pro­ceedings, and up to the date of adjudication, or even up to the appointment of an assignee. Between those intervals of time, matters may occur, or facts become known, which would render the use of the writ absolutely indispensable to the rights of creditors. And in my judgment, the section referred to does not preclude the bankrupt court from grant­ing such writs, under summary proceed­ings had for that purpose, at any time subsequent to the commencement of proceed­ings and prior to the appointment of an as-­signee. And I further believe that injunc­tions thus granted continue until vacated by order of the court.</p>
+                <p id="b1140-5" pgmap="1140">The motion presents some other grounds for dissolving the injunction, but they do not seem to me to be material. I think a prima facie case was made by the creditors herein, authorizing the injunction prayed for, and am of opinion that the answer of respondent, Miller, and the affidavits read in support of the same, do not justify its dissolution until an assignee has been appointed, and a reason­able time allowed him to assert whatever rights the creditors of the bankrupt may have in the premises. The motion to dis­solve is therefore refused at this time. But inasmuch as the respondent, Miller, should not be subjected to any unreasonable delay in the disposition of the goods by him, if they are not properly assets of the bankrupt's estate, it is ordered that if within ten days after the appointment of an assignee herein, such assignee do not take the necessary steps to assert his right to the property in question, as against said Miller, by some original pro­ceeding as auxiliary to or independent of that of the petitioning creditors, then the in­junction will be considered as dissolved; and the clerk of this court, in that event, is here­by directed to issue an order to the marshal to that effect</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1139" ORDERLABEL="1137" TYPE="page">
+        <fptr FILEID="tiff_00570_0"/>
+        <fptr FILEID="jp2_00570_0"/>
+        <fptr FILEID="alto_00570_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1139.3" BETYPE="IDREF" FILEID="alto_00570_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1140" ORDERLABEL="1138" TYPE="page">
+        <fptr FILEID="tiff_00570_1"/>
+        <fptr FILEID="jp2_00570_1"/>
+        <fptr FILEID="alto_00570_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1140.9" BETYPE="IDREF" FILEID="alto_00570_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1dC" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.30" BETYPE="IDREF" FILEID="alto_00570_0"/>
+            <area BEGIN="BL_1139.31" BETYPE="IDREF" FILEID="alto_00570_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1140-5" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1140.11" BETYPE="IDREF" FILEID="alto_00570_1"/>
+            <area BEGIN="BL_1140.12" BETYPE="IDREF" FILEID="alto_00570_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1140-4" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1140.10" BETYPE="IDREF" FILEID="alto_00570_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1139-22" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.27" BETYPE="IDREF" FILEID="alto_00570_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1139-23" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.28" BETYPE="IDREF" FILEID="alto_00570_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1139-24" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.29" BETYPE="IDREF" FILEID="alto_00570_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1139-25" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.32" BETYPE="IDREF" FILEID="alto_00570_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1139-26" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.33" BETYPE="IDREF" FILEID="alto_00570_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1139-27" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.34" BETYPE="IDREF" FILEID="alto_00570_0"/>
+            <area BEGIN="BL_1140.6" BETYPE="IDREF" FILEID="alto_00570_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1139-14" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.20" BETYPE="IDREF" FILEID="alto_00570_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1139-11" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.15" BETYPE="IDREF" FILEID="alto_00570_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1139-10" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.14" BETYPE="IDREF" FILEID="alto_00570_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7F" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.16" BETYPE="IDREF" FILEID="alto_00570_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1139-9" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.13" BETYPE="IDREF" FILEID="alto_00570_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1139-8" BETYPE="IDREF" FILEID="casebody_0614"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1139.12" BETYPE="IDREF" FILEID="alto_00570_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0225" publicationstatus="published">
+          <court abbreviation="C.C.D.N.Y." jurisdiction="United States">United States Circuit Court for the District of New York</court>
+          <name abbreviation="The Elizabeth">The ELIZABETH</name>
+          <docketnumber>Case No. 4,352</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 468</citation>
+          <citation category="parallel" type="bluebook">1 Paine, 10</citation>
+          <decisiondate>1810-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00235_1" MIMETYPE="image/tiff" CHECKSUM="8bc46822dfd05a0ec1f1cb13a4e1c253" CHECKSUMTYPE="MD5" SIZE="89662">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00235_1.tif"/>
+      </file>
+      <file ID="tiff_00236_0" MIMETYPE="image/tiff" CHECKSUM="dafcbeb78eef9193b11ecc347dbad211" CHECKSUMTYPE="MD5" SIZE="115126">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00236_0.tif"/>
+      </file>
+      <file ID="tiff_00236_1" MIMETYPE="image/tiff" CHECKSUM="36e88916a8d681e7299b13f4dac98c11" CHECKSUMTYPE="MD5" SIZE="80690">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00236_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00235_1" MIMETYPE="image/jp2" CHECKSUM="c8023179bb517e3331a830be8f41f37d" CHECKSUMTYPE="MD5" SIZE="3306601">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00235_1.jp2"/>
+      </file>
+      <file ID="jp2_00236_0" MIMETYPE="image/jp2" CHECKSUM="6c6b85446acbfd48094b48e87e1b35f3" CHECKSUMTYPE="MD5" SIZE="3861081">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00236_0.jp2"/>
+      </file>
+      <file ID="jp2_00236_1" MIMETYPE="image/jp2" CHECKSUM="44103208ef6166895a839b489f762fd0" CHECKSUMTYPE="MD5" SIZE="3022222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00236_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00235_1" MIMETYPE="text/xml" CHECKSUM="2c4980b4af8faab9383bebec5ea8f9ce" CHECKSUMTYPE="MD5" SIZE="193379">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00235_1.xml"/>
+      </file>
+      <file ID="alto_00236_0" MIMETYPE="text/xml" CHECKSUM="893b55f7ec3a62f4dc6171a093249722" CHECKSUMTYPE="MD5" SIZE="247812">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00236_0.xml"/>
+      </file>
+      <file ID="alto_00236_1" MIMETYPE="text/xml" CHECKSUM="665617c589a13e7834621e2a5d9f38b7" CHECKSUMTYPE="MD5" SIZE="173469">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00236_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0225" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="470" firstpage="468">
+              <court id="b470-7" pgmap="470">Circuit Court, D. New York.</court>
+              <docketnumber id="b470-4" pgmap="470">Case No. 4,352.</docketnumber>
+              <citation id="b470-6" pgmap="470">[1 Paine, 10.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b470-5" pgmap="470">The ELIZABETH.</parties>
+              <decisiondate id="A2G" pgmap="470">April Term, 1810.</decisiondate>
+              <attorneys id="b470-19" pgmap="470">G. Griffen, for appellants.</attorneys>
+              <attorneys id="b470-20" pgmap="470">N. Sanford, D. A., for respondents.</attorneys>
+              <footnote label="1">
+                <p id="b470-22" pgmap="470">1 [Reported by Elijah Paine, Jr., Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b470-21" pgmap="470">LIVINGSTON, Circuit Justice.</author>
+                <p id="AmR" pgmap="470">The sloop Elizabeth, a vessel whose employment was confined to the navigation of the river Hud­son, sailed about the middle of July, 1808, from the port of New-York with a cargo of 190 barrels of flour, without a permit or license, and without a manifest of her cargo • having been delivered to any person. A few days after she was taken by the revenue cutter in Long Island Sound, at the distance of about 110 miles from the city of New-­York. When she was first discovered by the cutter, on the day of her capture, she was considerably nearer to the shore of Connecti­cut than to that of Long Island. On being brought to the city of New-York, the Eliza­beth and her cargo were libelled in the dis­trict court of this district, and condemned for a contravention of the act laying an em­bargo, and certain acts supplementary there­to. The infractions relied on, and to which alone the proofs and admissions apply, are that she departed from the port of New-­York without a clearance or permit, and also that she left the district of the city of New-­York without such papers. '</p>
+                <p id="b470-25" pgmap="470">It being admitted that the Elizabeth left the port of New-York without a permit or clearance, it becomes a question of law, how far such conduct in a vessel of this descrip­tion, works a forfeiture of herself or cargo. This consequence is supposed to be produced by the 3d section of the first supplementary act, which passed the 9th of January, 1808; and which declares “that if any ship or ves­sel shall depart from any port of the United States without a clearance or permit, such ship or vessel, and goods, &amp;c., shall be wholly forfeited.” From the very general and com­prehensive phraseology here used, it is con­tended on behalf of the United States, that the court cannot except vessels of any de­scription whatever. It is very certain that this section taken by itself, and without ref­erence to other parts of this and other acts made in pari materia, would include the case of the Elizabeth. But it is the duty of a court, in construing a written law, in doubt­ful cases, to compare all its parts, in order to discover the intention of the legislature; and however broad some of its expressions may be, yet, if on such examination, it shall clear­ly appear that they are and were intended to be limited by other provisions of the same or other acts on the same subject, it cannot be improper to restrain them accordingly.</p>
+                <p id="b470-26" pgmap="470(279) 471(180)">The first embargo law having required no security against its violation from any others than registered or sea-lettered vessels, those licensed for the coasting trade were at liber­ty to depart from any port without bond being given to reland their cargo in .the United States. This omission was soon per­ceived, and in the very next month a supple­mentary act was passed. By the first sec­tion of this act, in case of a vessel licensed for the coasting trade, a bond was to be given in double her value, and that of her cargo, that she should not proceed to any foreign port, and that the cargo should be relanded in the United States; and the sec­ond section provides, that it shall be suffi­cient, in the case of a licensed vessel whose employment has uniformly been confined to rivers, bays, and sounds, to give bond in an amount equal to three hundred dollars ■ for each ton, with condition that such vessel shall not be employed in any foreign trade during the term limited in the condition of the bond. Having thus confined, by very heavy penalties, coasting vessels, within their legitimate spheres, the provisions of the third section most obviously refer to other vessels; for it can hardly be imagined, that after taking such ample security from river vessels, it would be thought necessary to im­pose on all sloops, &amp;c. navigating the differ­ent rivers of the United States, the necessity of taking a permit or clearance every time they sailed, for the permit which might have been obtained at the time of the vessel’s being licensed, would not be a compliance with the act. But whatever doubt might be entertained on the construction of this sec­tion, it is much diminished, if not entirely removed, by a provision we find in another of the supplementary embargo laws, which passed the 25th of April, 180S, subjecting to forfeiture vessels of the description of the Elizabeth, if they depart from any district of the United States without having previously obtained a clearance. There is no way of accounting for this act passed by the same legislature and at the same session, than on the supposition that, in their opinion, such vessels were, under the same laws, liable to no penalty whatever for leaving a port with­out a clearance; for if this interdiction al­ready existed, and that under the heavy pen--­alty of a forfeiture, what use could there be in saying, and that too by way of a further sanction, that she should be forfeited for leaving a district, when departing only from a port, was already followed with that con­sequence? This then is not deemed a cause of forfeiture.</p>
+                <p id="b471-3" pgmap="471">The other ground taken by the attorney for the United States is, that the Elizabeth left the district of the city of New-Yorlc with­out a clearance. Here the parties are agreed as to tlie law, but dispute the fact. To show that she had not departed from the district of New-York, the counsel for the appellants have had recourse to the charter of the col­ony of Connecticut, granted by Charles the Second: establishing its southern boundary on the sea, by which was no doubt intended, as is conceded by the counsel of the United States, the Long Island Sound. By this boundary is not intended the Atlantic ocean, but the sea into which the Narraganset river falls, which is Long Island Sound. That the sea here spoken of is the Sound, is not dis­puted by either party, although very differ­ent conclusions are drawn from it. The ap­pellants say that no part of the sound being granted to Connecticut, the whole necessa­rily belongs to the state of New-York; and being in no other district of this state it must be within that part of it which com­prises the district of New-York; that there­fore the Elizabeth, when taken, was still within the district from which she sailed, and had consequently committed no offence against any law. The correctness of this ar­gument will now be examined. Reference having been had to the original charter of Connecticut, to show that the Sound was not comprehended within it, if it shall appear, on a like reference to the grant of Charles II.'made to his brother the Duke of York, that it is not contained within the bounda­ries of that instrument, it will follow, upon the appellant’s own premises, that it makes no part of the territory of either of these states, and of course cannot be part of the district of the city of New-York. The boun­daries in this deed are thus described: “All that part of the main land of New England beginning at a certain place called or known by the name of St Croix, near adjoining to New Scotland in America, and from thence extending along the sea coast unto a certain place called Pemaquie or Pemaquid, and so up the river thereof to the furthest head of the same as it tendeth northward; and ex­tending from thence to the river of Kim-­bequin, and so upwards by the shortest course to the river Canada northwards; and also all that island or islands commonly called by the several name or names of Matewacks or Long Island, situate and be­ing towards the west of Cape Cod, and the narrow Higansetts, abutting upon the land between the two rivers, there called or known by the several names of Connecticut and Hudson’s river; together also with the said river called Hudson’s river, and all the land from the west side of Connecticut river to the east side of Delaware bay, and also several other islands and lands in the said letters patent mentioned.” There can be but little doubt that the part of the sea coast here described, is the north side of the Sound, and not the western shore of Long Island, which island is afterwards granted by itself, which would have been unnecessary if the bounds of the grant had already extended to the Atlantic ocean, and thus taken in the whole island. According to this understand­ing of the boundaries, the Sound itself did not pass by this deed, notwithstanding a general grant of all waters, &amp;c. to the prem­ises belonging, which can only mean waters lying within the bounds or limits thereof. If these are so described as to exclude the Sound, it cannot be made to pass by words which can affect it no more than any tract of land or piece of water not within such boundaries. If the Sound belongs not to the state of New-York, it is very unnecessary to inquire to whom it does belong, whether it be a territorial sea appertaining to the United States, or a part of the high seas and common to all nations; for if it has never been granted to the state of New-York, and such is the opinion of the court, it is not easy to perceive how it can be any part of the district of the city of New-York. But if it really belonged and exclusively to the state of New-York, it is not very clear that it has at any time been made part of the district just mentioned, which includes all such part of the coasts, rivers, bays, and harbours of the said state as are not included in other districts thereof. Now as no part of this description includes a piece of water like the Sound, the court cannot say that the place where the Elizabeth was taken, was within the district of New-York.</p>
+                <p id="b471-6" pgmap="471">The judgment of the district court must therefore be affirmed with costs.</p>
+                <p id="b471-7" pgmap="471(47) 472(105)">It was stated by the appellant’s counsel that he considered these acts as unconstitu­tional; but as this point was not argued by either party, this court will not take upon itself the high and delicate office of pro­nouncing any law of the United States un­constitutional, unless the case were so clearly so that it were scarcely possible for any two men to differ in sentiment on the subject This is so far from being the case with these laws, that it is in the knowledge of the court, and matter of general notoriety, that many condemnations have taken place under them; and although this question has been made and fully argued, in some of the inferior tribunals of the United States, yet the su­preme court, although many cases have gone ■there on appeal, has never been called on to say that they were repugnant to the con­stitution.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="470" ORDERLABEL="468" TYPE="page">
+        <fptr FILEID="tiff_00235_1"/>
+        <fptr FILEID="jp2_00235_1"/>
+        <fptr FILEID="alto_00235_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_470.4" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="471" ORDERLABEL="469" TYPE="page">
+        <fptr FILEID="tiff_00236_0"/>
+        <fptr FILEID="jp2_00236_0"/>
+        <fptr FILEID="alto_00236_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_471.3" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="472" ORDERLABEL="470" TYPE="page">
+        <fptr FILEID="tiff_00236_1"/>
+        <fptr FILEID="jp2_00236_1"/>
+        <fptr FILEID="alto_00236_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_472.9" BETYPE="IDREF" FILEID="alto_00236_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-5" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.8" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-4" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.7" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-7" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.10" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-6" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.9" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-19" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.20" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-21" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.22" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-26" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.28" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            <area BEGIN="BL_471.1" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-7" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.8" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            <area BEGIN="BL_472.6" BETYPE="IDREF" FILEID="alto_00236_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-25" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.27" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-3" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.5" BETYPE="IDREF" FILEID="alto_00236_0"/>
+            <area BEGIN="BL_471.6" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-22" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.26" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b470-20" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.21" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmR" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.23" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            <area BEGIN="BL_470.24" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            <area BEGIN="BL_470.25" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b471-6" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_471.7" BETYPE="IDREF" FILEID="alto_00236_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2G" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_470.11" BETYPE="IDREF" FILEID="alto_00235_1"/>
+            <area BEGIN="BL_470.12" BETYPE="IDREF" FILEID="alto_00235_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

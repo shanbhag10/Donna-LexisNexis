@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0644" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Fidelity">The FIDELITY</name>
+          <docketnumber>Case No. 4,757</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1188</citation>
+          <citation category="parallel" type="bluebook">9 Ben. 333</citation>
+          <decisiondate>1878-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:36Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00595_1" MIMETYPE="image/tiff" CHECKSUM="f90f6ac2c80dfe715243174bcdd550ff" CHECKSUMTYPE="MD5" SIZE="79694">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00595_1.tif"/>
+      </file>
+      <file ID="tiff_00596_0" MIMETYPE="image/tiff" CHECKSUM="d41368122cc9e90e0165dfc1e30c29d5" CHECKSUMTYPE="MD5" SIZE="93898">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00596_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00595_1" MIMETYPE="image/jp2" CHECKSUM="51442624a1b1bccaeab81db3b8e4e7f1" CHECKSUMTYPE="MD5" SIZE="3092058">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00595_1.jp2"/>
+      </file>
+      <file ID="jp2_00596_0" MIMETYPE="image/jp2" CHECKSUM="66fd91dd33d85a439cd679b67331ba3b" CHECKSUMTYPE="MD5" SIZE="3355476">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00596_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00595_1" MIMETYPE="text/xml" CHECKSUM="33fc52ea711fc9fc2a2da9af4e72c649" CHECKSUMTYPE="MD5" SIZE="171515">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00595_1.xml"/>
+      </file>
+      <file ID="alto_00596_0" MIMETYPE="text/xml" CHECKSUM="c7c4235a2d32d9cb7290985e5e1bb653" CHECKSUMTYPE="MD5" SIZE="202504">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00596_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0644" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1189" firstpage="1188">
+              <court id="b1190-11" pgmap="1190">District Court, S. D. New York.</court>
+              <docketnumber id="b1190-8" pgmap="1190">Case No. 4,757.</docketnumber>
+              <citation id="b1190-10" pgmap="1190">[9 Ben. 333.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1190-9" pgmap="1190">The FIDELITY.</parties>
+              <decisiondate id="A9nA" pgmap="1190">Feb. 1878.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys id="b1190-20" pgmap="1190">E. D. McCarthy, for libellant.</attorneys>
+              <attorneys id="b1190-21" pgmap="1190">T. B. Clarkson, for claimants.</attorneys>
+              <footnote label="1">
+                <p id="b1190-14" pgmap="1190">1 [Reported by Robert D. Benedict, Esq., and Benj. Lincoln Benedict, Esq., and here reprint­ed by permission.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="b1190-15" pgmap="1190">2 [Affirmed in Case No. 4,758.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1190-22" pgmap="1190">BLATCHFORD, District Judge.</author>
+                <p id="AVMl" pgmap="1190">The li-­bellant, as owner of a canal-boat, brings a libel in rem against the steam-tug Fidelity, to recover damages for the sinking of the canal-boat through the alleged negligence and wrong of the tug. The substance of the libel is, that, while the canal-boat was ly­ing at a wharf at Blackwell’s Island, some outside person cast off her lines against the will of the person on board and in charge of her, and pushed her away from the wharf, and that thereupon the tug, acting under the direction of the same persons, and without the request of the person in charge of the canal-boat, made fast with, a line to the canal-boat, and proceeded to-­pull her out into the river so carelessly and recklessly that her stern was thrown against a wall and some submerged rocks, the ex­istence and position of which were known to those in charge’ of the tug, and that, in consequence, the stern planking of the ca­nal-boat was torn off, and she became a wreck and sank with her cargo, to the dam­age of the libellant $1,500.</p>
+                <p id="b1190-23" pgmap="1190">The mayor, aldermen, and commonalty of the city of New York, a municipal corpora­tion charged with the government of the-­city of New York, were the owners of the tug at the time of the occurrence, and in­tervened and put in a claim to her, on her arrest under process, and have answered the libel through the master of the tug. It appears that the tug was in the employment of, and under the exclusive control and di­rection of, a board or department of the corporation, called the commissioners of public charities and correction, and was em­ployed by them in transporting prisoners and in carrying sick persons and the bodies-­of the dead, and in towing boats with sup­plies for the department — all these services-­being in the course of the discharge by the commissioners of their proper public duties; and that she was not engaged in any other' business. The canal-boat had on board at the time a cargo of coal, intended for the-­use of the commissioners, and was lying at the wharf waiting to have such cargo dis­charged, and was cast loose by direction of a proper subordinate of the commissioners, in order to enable a schooner with a cargo-­of ice to take her place and unload, and that the tug took hold of the canal-boat in order to put her outside of the schooner.</p>
+                <p id="b1190-24" pgmap="1190(8) 1191(557)">On these facts it is contended for the claimants that the tug is not liable .to seizure in a suit in rem, in the admiralty, to respond for this alleged maritime tort. In the case of The Seneca [Case .No. 12,0(58], it was sought to enforce a lien for wharfage, by a suit in rem, in the admiralty, against a steamboat belonging to the corporation of the city of New York, and exclusively em­ployed in the service of the police depart­ment of'the city. The court held, that, as the vessel was public property, devoted to a specific and public use, she was not sub­ject to be seized in the admiralty, to enforce the demand claimed. The decision was placed on the ground that such property is exempt from seizure on execution. 1 do not think that the fact that the claim for wharfage arose out of an implied contract, and that the present case is one of tort, makes any difference. The tug was, by an authorized act of the city government, de­voted to public use. She was public prop­erty, and the public use to which she was devoted was a specific use. Such property, belonging to any governmental body, feder­al, state, or municipal, cannot be seized to satisfy an execution on a judgment Dar­lington v. Mayor, etc., 31 N. Y. 193. Nor can it be seized by process in advance, to be held as security for a judgment which may be recovered. Such action has the ef­fect of interfering with the public officers in the discharge of their public duties, by depriving them of necessary instruments for the discharge of those duties. The tort al­leged in this case is the negligence of those in charge of the tug, who were the servants of the commissioners. The principle on which the tug would ordinarily be liable for the tort is, that her owners have en­trusted their servants with the tug, and thus made themselves responsible for what such servants may negligently do in the course of their employment. But the act of using the tug to pull away the canal-boat was no different, in its scope and quality, from the act of using the wharf for wharf-­age. No distinction can be taken between the two, which would uphold the seizure in the case of the tort and forbid it in the case of the implied contract for wharfage. The question is one of public policy, and the principle involved is, that to permit a seiz­ure of the tug in this case would endanger the performance of the public duties of the government of the municipality. A lien may exist, and the court, where it has control of the res in a proper manner, may enforce the lien upon it; but it will not enforce the lien upon the res, where, in order to obtain such control and sustain the proceeding, the possession of the governmental authori­ty must be invaded under the process of the court The latter is the present case. Briggs v. Light Boat, 11 Allen, 157; The Davis, 10 Wall. [77 U. S.] 13. In City of Chicago v. Hasley, 23 Ill. 595, it was held, on principle, that an execution could not issue against a j municipal corporation, on a judgment for a debt or damages recovered against it</p>
+                <p id="b1191-5" pgmap="1191">This suit is not one in form against the municipality, but it is in substance. The statute law is in harmony with the rule of public" policy before referred to. It is provided as follows, by the state statute of April 30, 1873 (Laws N. Y. 1873, p. 513, § 105): “No action shall be maintained against the mayor, aldermen, and commonalty of the city of New York, unless the claim on which the action is brought has been presented to the comptroller, and he has neglected for thirty days after such presentment to pay the same. Before any execution shall be issued on any judgment recovered upon such a claim, a notice of the recovery thereof shall also be given to the comptroller, and he shall be allowed ten days to provide for its payment by the issue of revenue bonds in the usual manner according to law.” The general rule of public policy being as stated above, there Is nothing in any statute of the state or of the United States which varies such rule for the purposes of the present case. On the contrary, the statute above cited is inconsistent with a seizure "before judgment, of the property seized in this case.</p>
+                <p id="b1191-6" pgmap="1191">I have not considered the merits of this case, as to whether there was, in fact, negli­gence on the part of those in charge of the tug, or even as to whether the canal boat was injured while attached to the tug; but, for the reasons above assigned, the libel must be dismissed, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1190" ORDERLABEL="1188" TYPE="page">
+        <fptr FILEID="tiff_00595_1"/>
+        <fptr FILEID="jp2_00595_1"/>
+        <fptr FILEID="alto_00595_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1190.8" BETYPE="IDREF" FILEID="alto_00595_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1191" ORDERLABEL="1189" TYPE="page">
+        <fptr FILEID="tiff_00596_0"/>
+        <fptr FILEID="jp2_00596_0"/>
+        <fptr FILEID="alto_00596_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1191.5" BETYPE="IDREF" FILEID="alto_00596_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1191-6" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1191.8" BETYPE="IDREF" FILEID="alto_00596_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1190-23" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.28" BETYPE="IDREF" FILEID="alto_00595_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1190-24" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.29" BETYPE="IDREF" FILEID="alto_00595_1"/>
+            <area BEGIN="BL_1191.2" BETYPE="IDREF" FILEID="alto_00596_0"/>
+            <area BEGIN="BL_1191.3" BETYPE="IDREF" FILEID="alto_00596_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9nA" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.15" BETYPE="IDREF" FILEID="alto_00595_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1191-5" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1191.7" BETYPE="IDREF" FILEID="alto_00596_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1190-8" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.11" BETYPE="IDREF" FILEID="alto_00595_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1190-9" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.12" BETYPE="IDREF" FILEID="alto_00595_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1190-14" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.18" BETYPE="IDREF" FILEID="alto_00595_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVMl" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.26" BETYPE="IDREF" FILEID="alto_00595_1"/>
+            <area BEGIN="BL_1190.27" BETYPE="IDREF" FILEID="alto_00595_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1190-15" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.19" BETYPE="IDREF" FILEID="alto_00595_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1190-21" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.24" BETYPE="IDREF" FILEID="alto_00595_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1190-20" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.23" BETYPE="IDREF" FILEID="alto_00595_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1190-22" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.25" BETYPE="IDREF" FILEID="alto_00595_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1190-10" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.13" BETYPE="IDREF" FILEID="alto_00595_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1190-11" BETYPE="IDREF" FILEID="casebody_0644"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1190.14" BETYPE="IDREF" FILEID="alto_00595_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

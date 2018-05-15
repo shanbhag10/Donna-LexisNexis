@@ -1,0 +1,379 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0145" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Jacmel Packet">The JACMEL PACKET</name>
+          <docketnumber>Case No. 7,154</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 264</citation>
+          <citation category="parallel" type="bluebook">2 Ben. 107; 7 Int. Rev. Rec. 108; 1 Am. Law T. Rep. U. S. Cts. 52</citation>
+          <decisiondate>1868-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00133_1" MIMETYPE="image/tiff" CHECKSUM="fb59270b155daae742b7cbe356c6b080" CHECKSUMTYPE="MD5" SIZE="69720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00133_1.tif"/>
+      </file>
+      <file ID="tiff_00134_0" MIMETYPE="image/tiff" CHECKSUM="9c15e5d2f1cbe8c4c5374f33e9f67b51" CHECKSUMTYPE="MD5" SIZE="94928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00134_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00133_1" MIMETYPE="image/jp2" CHECKSUM="c5c18b3d4282c5a79715fbb923bbde06" CHECKSUMTYPE="MD5" SIZE="2753206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00133_1.jp2"/>
+      </file>
+      <file ID="jp2_00134_0" MIMETYPE="image/jp2" CHECKSUM="80f191242a7ffb5c74702bd1c7c1e27e" CHECKSUMTYPE="MD5" SIZE="3524110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00134_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00133_1" MIMETYPE="text/xml" CHECKSUM="537bfd411743ab71709965040232baec" CHECKSUMTYPE="MD5" SIZE="143552">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00133_1.xml"/>
+      </file>
+      <file ID="alto_00134_0" MIMETYPE="text/xml" CHECKSUM="07ed1231352229e3aed88460c534a062" CHECKSUMTYPE="MD5" SIZE="216883">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00134_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0145" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="265" firstpage="264">
+              <court pgmap="266" id="b266-9">District Court, S. D. New York.</court>
+              <docketnumber pgmap="266" id="b266-5">Case No. 7,154.</docketnumber>
+              <citation pgmap="266" id="b266-7">[2 Ben. 107; <footnotemark>1</footnotemark> 7 Int. Rev. Rec. 108; 1 Am. Law T. Rep. U. S. Cts. 52.]</citation>
+              <parties pgmap="266" id="b266-6">The JACMEL PACKET.</parties>
+              <decisiondate pgmap="266" id="A21r">Jan. 1868.</decisiondate>
+              <attorneys pgmap="266" id="b266-18">R. D. Benedict and J. Solis Ritterband, for libellant.</attorneys>
+              <attorneys pgmap="266" id="b266-19">Martin &amp; Smith, for claimants.</attorneys>
+              <footnote label="1">
+                <p pgmap="266" id="b266-21">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="266" id="b266-20">BLATCHFORD, District Judge.</author>
+                <p pgmap="266" id="AWz">This is a libel filed on a bottomry bond, executed at the city of Colon, or Aspinwall, in New Grenada. January 7th, 1867, by Thomas C. Saunders, master of the brig Jacmel Packet, on the vessel and her cargo, conditioned for the payment to the libellant LWilliam F. Cowan], at New York, of $1,616.82, with 40 per cent, premium, the said amount in gold coin having been advanced at Colon by the libellant to the master, to furnish supplies and repairs for the vessel at Colon for a voy­age to New York. The bond also sets forth, that the brig was, on the 6th of August, I860, chartered and freighted, at Singapore, by her late master, John A. Dawes, to a house there, to cofivey a cargo of pepper and other ar­ticles to Melbourne, in Australia; that the cargo, with a slight deficiency, is on board; and that the late master feloniously deviated from his voyage, and brought the vessel and cargo to the port of Colon, and had already made arrangements to defraud the owners of the vessel and cargo by a sale thereof, when, through the instrumentality of the libellant, the papers and documents appertaining there­to were brought to light, and the barratry prevented, and the cargo and vessel secured to their lawful owners. The bond then states, that it is agreed between Captain Saunders, and the United States consul at Colon, and the libellant, that the libellant “is entitled to a reward for the recovery of the property, as a fee, premium, or salvage, which amount, it is mutually agreed, shall, without delay, be paid in the city of New Yox-k, in United States gold, out of the proceeds of the said ship and cargo, and to be levied and ad­judged by any competent average adjuster.’’ The master then, by the instrument, mort­gages and assigns to the libellant the vessel and cargo, for the due fulfillment of the con­tract.</p>
+                <p pgmap="266" id="b266-24">The answer is put in by Lloyd’s agent at New York, intervening for the interest of underwriters in England on the cargo. There is no answer on the part of the vessel. The only affirmative defence set up in the answer for the cargo is, that Captain Saunders was not lawfully appointed master of the vessel, and had no power to execute the bond, and make the vessel and cargo liable.</p>
+                <p pgmap="266(135) 267(10)" id="b266-25">The libellant was Lloyd’s agent at Colon, and also the British consul there at the time of the transactions in question. The vessel arrived at Colon, under the American flag, in December, 1866, and Captain Dawes put her papers into the hands of the American consul there. He put the papers into the hands of the libellant for an investigation of the case, and the libellant detected the fraud of Captain Dawes. Thereupon, Captain Dawes abandoned the vessel, and absconded, and the American consul appointed Captain Saunders to be master of the vessel, and directed him to take her to New York, as the nearest proper port. There appears, from the evidence, to have ’been a necessity for all the repairs and supplies that are cov­ered by the bond. All the averments of fact stated in the bond are supported by the evi­dence.</p>
+                <p pgmap="267" id="b267-3">The evidence shows, that the libellant him­self furnished directly to the vessel a large portion of the supplies, and paid bills for re­pairs, and advanced money to the seamen for wages, and paid the consul’s bill, and paid bills for articles used for repairs, and also paid for supplies purchased at Colon from other parties. It is apparent, from the evidence, that the libellant furnished these supplies, and paid and advanced these mon­eys, on the credit of the vessel and cargo, and not at all on the personal credit of the master or the owners. The case was, there­fore, a proper one for the giving of a bottom­ry bond. 1 Pars. Mar. Law, bk. 1, c. 11, F, p. 422, note 5, and cases cited. And Cap­tain Saunders, having been appointed master by the American consul, in a foreign port, agreeably to the usage of merchants, under the circumstances disclosed in this case, had the same authority to execute the bond as if he had- been appointed directly by the owner of the vessel. The Zodiac, 1 Hagg. Adm. 320; The Nuova Loanese, 22 Eng. Law &amp; Eq. 623; Macl. Shipp. 153.</p>
+                <p pgmap="267" id="b267-4">The rate of maritime interest, forty per cent., contracted for in the bond, is very high, but no objection is taken to it in the answer as excessive under the circumstances. The bond is made payable within a reason­able time after the arrival of the vessel at New York, or any other port, and previous to making any delivery of the cargo at any port She arrived at New York February 2d, 1867. The libel was filed February 9th. 1867, and the monition was returnable and re­turned February 26th, 1867.</p>
+                <p pgmap="267" id="b267-5">I award a decree to the libellant for the amount of his advances and payments, $1,-­616.82, and for forty per cent, premium there­on, as maritime interest, amounting to $646.-­73, making a total of $2,263.55. No premium to make this amount equal to gold, can be allowed, under the rule adopted in this court. This sum of $2.263.55 will be subject to in­terest at the rate of 6 per cent, per annum from February 26th, 1867, to the time of en­tering the decree herein.</p>
+                <p pgmap="267" id="b267-6">In regard to the elaim for a reward or com­pensation to the libellant for his services in discovering the fraud of Captain Dawes, and preserving the vessel and cargo for their lawful owners, the elaim is a proper one to be allowed under the bond. It is not allowed in any respect as salvage, but as a remunera­tion for services, pro opere et labore, under the peculiar circumstances of the case. On the facts, the case resembles, in many ma­terial points, the case of The Zodiac, 1 Hagg. Adm. 320, and the case of The Gauntlet, 3 W. Rob. Adm. 82; in both of which cases an allowance for kindred services was made on a bottomry bond which covered them. In the present case the libel avers that the ves­sel and cargo were worth $20.000. This averment is denied by the answer, and I find nothing in the proofs showing what their value was, or what a proper allowance would be. I am, therefore, without any guide whereby to determine the amount. As the vessel has been sold in another suit on a claim for wages, and there is no balance re­maining from her proceeds, if the amount of such remuneration to the libellant is not agreed upon between the libellant and the claimants of the cargo, there must be a refer­ence to take testimony by which to fix it. <footnotemark>2</footnotemark> When the amount is fixed, as it was, by the bond, to be paid out of the proceeds of ves­sel and cargo, and no time for payment was specified, the amount will be allowed at the date of entering the decree, without any in­terest upon it. The libellant will be entitled to the costs of the suit.</p>
+                <footnote label="2">
+                  <p pgmap="267" id="AXV">2 This amount is fixed, on a reference, at $858.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="266" ORDERLABEL="264" TYPE="page">
+        <fptr FILEID="tiff_00133_1"/>
+        <fptr FILEID="jp2_00133_1"/>
+        <fptr FILEID="alto_00133_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.6" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="267" ORDERLABEL="265" TYPE="page">
+        <fptr FILEID="tiff_00134_0"/>
+        <fptr FILEID="jp2_00134_0"/>
+        <fptr FILEID="alto_00134_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.3" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-24" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.28" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A21r" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.12" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-7" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.10" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-6" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.9" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-5" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.8" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-25" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.29" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            <area BEGIN="BL_267.1" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-9" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.11" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXV" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.11" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWz" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.24" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            <area BEGIN="BL_266.25" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            <area BEGIN="BL_266.26" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-6" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.8" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            <area BEGIN="BL_267.9" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-4" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.6" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-5" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.7" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-3" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.5" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-21" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.27" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-20" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.23" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-19" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.22" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-18" BETYPE="IDREF" FILEID="casebody_0145"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.21" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

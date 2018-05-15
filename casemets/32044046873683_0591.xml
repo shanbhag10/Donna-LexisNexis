@@ -1,0 +1,319 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0591" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="Faxon v. Russell">FAXON v. RUSSELL</name>
+          <docketnumber>Case No. 4,707</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1110</citation>
+          <citation category="parallel" type="bluebook">22 Int. Rev. Rec. 375</citation>
+          <decisiondate>1876-09-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00556_1" MIMETYPE="image/tiff" CHECKSUM="e0b2018e0f39100ac215ed53f955ab05" CHECKSUMTYPE="MD5" SIZE="72606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00556_1.tif"/>
+      </file>
+      <file ID="tiff_00557_0" MIMETYPE="image/tiff" CHECKSUM="2d2e88ab2f7f6603389195d28c618528" CHECKSUMTYPE="MD5" SIZE="103122">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00557_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00556_1" MIMETYPE="image/jp2" CHECKSUM="aec9f6e0b5a08ebcd7734baad3792633" CHECKSUMTYPE="MD5" SIZE="3015495">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00556_1.jp2"/>
+      </file>
+      <file ID="jp2_00557_0" MIMETYPE="image/jp2" CHECKSUM="e9c556b80b609c1a5f8fd9e6a6c4e897" CHECKSUMTYPE="MD5" SIZE="3524206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00557_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00556_1" MIMETYPE="text/xml" CHECKSUM="6fab5be333966eb2cdc4e6bb776496c5" CHECKSUMTYPE="MD5" SIZE="155471">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00556_1.xml"/>
+      </file>
+      <file ID="alto_00557_0" MIMETYPE="text/xml" CHECKSUM="62df74cde3880b4d245c77a472e72f6b" CHECKSUMTYPE="MD5" SIZE="214192">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00557_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0591" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1111" firstpage="1110">
+              <court id="b1112-24" pgmap="1112">Circuit Court, D. Massachusetts.</court>
+              <docketnumber id="b1112-21" pgmap="1112">Case No. 4,707.</docketnumber>
+              <citation id="b1112-23" pgmap="1112">[22 Int. Rev. Rec. 375.]</citation>
+              <parties id="b1112-22" pgmap="1112">FAXON v. RUSSELL.</parties>
+              <decisiondate id="Av2W" pgmap="1112">Sept. 6, 1876.</decisiondate>
+              <attorneys id="b1112-29" pgmap="1112">C. L. Woodbury and F. W. Hurd, for plains tiffs.</attorneys>
+              <attorneys id="b1112-30" pgmap="1112">G.P. Sanger, Dist Atty., and P. Cummings^ Asst Dist Atty., for defendant</attorneys>
+              <opinion type="majority">
+                <author id="b1112-31" pgmap="1112">LOWELL, District Judge.</author>
+                <p id="Apo" pgmap="1112(201) 1113(33)">By the agreed facts signed and filed in the case it appears that the plaintiffs, in the autumn of 1873, made several importations from Liverpool into the port of Boston, of a certain cloth, variously styled in the invoices as “Union Gusset,” “Union Webb,” and “Union Elastic Webb.” It was intended to be used for mak­ing the gores or gussets of congress boots; and was a manufacture of india rubber, silk and cotton, and was webbing. The collector assessed upon this merchandise a duty of fifty per cent, ad valorem, under section 8 of the act of July 14, 1862 (12 Stat. 552), as a manufacture of india rubber, silk, and other materials. The plaintiffs claimed: 1st. That it should be assessed under seo tion 13 of the same act (12 Stat. 556), which imposes a duty of 30 per cent, on “braces, suspenders, webbing, or other fabrics com­posed wholly or in part of india rubber, not otherwise provided for;” and, 2d. That this tax should be reduced under section 2 of the act of June, 1872 (17 Stat. 232), which makes a reduction of 10 per cenb on “all manufacr tures of india rubber, gutta percha, or straw, and on oil cloth of all descriptions.” The collector insisted upon his construction of the statutes, and the higher duty was- paid under protest, and this action is brought to recover the excess.</p>
+                <p id="b1113-4" pgmap="1113">I understand it to be agreed that this article is described in both the sections referred to; that is to say, it is a manufacture of silk, india rubber, and other articles; and it is webbing; and further, that, on the one hand, there is webbing composed wholly or in part .of india rubber which has no silk in its composition; and on the other, that there are manufactures of india rubber, silk, and other articles, which are not webbing. It would seem that there is no necessary re­pugnance between the two sections; because when it is admitted that section 8 describes this article, it is excepted out of section 13, as being otherwise provided for. But the plaintiffs contend that when an article is specially designated in the revenue laws, it is taken permanently out of any general de­scription which might otherwise include it. Thus where almonds had been mentioned in several statutes and classed differently from fruits, an amendment which reduced the duty on all fruits, did not apply to almonds. Homer v.Tke Collector, 1 Wall. [68 U. S.] 490; and so where birds had been for a long time placed in a separate list from other animals, a duty imposed on horses, mules, cattle, sheep, hogs, and other live animals, was held not to include canary birds. Reiche v. Smythe, 13 Wall. [80 U. S.] 162. So, where sheep-skins with the wool on them, had been specially mentioned in several acts, and there .separated from hides and skins, they were held not to be included in the general descrip­tion of hides or skins in a new statute. De Forest v. Lawrence, 13 How. [54 U. S.] 274.</p>
+                <p id="b1113-5" pgmap="1113">The doctrine of these cases is, that when articles have been specially dealt with and classified, apart from a larger class which might have included them, and a new statute changes the duty on the larger class and is silent as to the smaller, it is not to be con­sidered as intending to change the duty on the latter. But here the very question is whether webbing is intended to be dealt with separately from manufactures of india rubber and silk; these two descriptions being found together for the first time in the act of 1SG2, and the 13th section having annexed to it the qualification, “not otherwise pro­vided for.” It is said that this phrase means not provided for among the enumerated arti­cles. It is impossible to admit any such rule of interjjretation. It is argued that the spe­cific always overrides the general descrip­tion. This is a sound rule. But the specifica­tion in this instance has annexed to it the qualification “not otherwise provided for,” and this webbing, being a manufacture of india rubber, silk, and other materials, is otherwise provided for. To meet this last objection a quotation is given from the opin­ion of Nelson, J., in Morlot v. Lawrence [Case No. 9,815]:- “The words ’ ‘not otherwise pro­vided for,' mean not otherwise provided for among the enumerated articles.” The plain­tiffs make use of this sentence as if it ex­pressed the opinion that an article, to be considered as provided for, must be named; whereas all the learned judge intends to say is that an article could not be called pro­vided for merely because there was a residu­ary clause imposing a uniform duty on every­thing not before either taxed or exempted; or in other words, that an article was not provided for by being left unprovided for; a sound ruling, but not important in this case. It has never been held that an article may not be designated by an apt description as well as by name. The plaintiffs furnished me with a copy of the charge of Judge -Wal­lace to a jury, in which it was ruled that suspenders composed of india rubber and cotton, with some small admixture of silk were taxable under section 13 and not sec­tion 8. This opinion of a very able judge has caused me to hesitate and to re-examine carefully the grounds of my first impression, but I am unable to change them. I think the statute tolerably clear in this respect, as much so as can be expected. This webbing is a manufacture of india rubber, silk, and cotton, and so is provided for by section 8, and in explicit and unambiguous terms ex­cepted out of section 13.</p>
+                <p id="b1113-7" pgmap="1113">The district attorney gave a history of the legislation, which I think tends to prove that the intent of the legislature would be likely to be what I have held it to be; but the con­struction of the statute does not, in my opin­ion, need this re-enforcement, though it does certainly to some extent, strengthen the agreement The statute of 1872 reducing the duty on all manufactures of india rubber, gutta percha, and straw, means, in my opin­ion, manufactures composed wholly of those articles, or substantially so, and therefore does not embrace this webbing. Judgment for the defendant</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1112" ORDERLABEL="1110" TYPE="page">
+        <fptr FILEID="tiff_00556_1"/>
+        <fptr FILEID="jp2_00556_1"/>
+        <fptr FILEID="alto_00556_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1112.4" BETYPE="IDREF" FILEID="alto_00556_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1113" ORDERLABEL="1111" TYPE="page">
+        <fptr FILEID="tiff_00557_0"/>
+        <fptr FILEID="jp2_00557_0"/>
+        <fptr FILEID="alto_00557_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1113.4" BETYPE="IDREF" FILEID="alto_00557_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1113-5" BETYPE="IDREF" FILEID="casebody_0591"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1113.7" BETYPE="IDREF" FILEID="alto_00557_0"/>
+            <area BEGIN="BL_1113.8" BETYPE="IDREF" FILEID="alto_00557_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1113-4" BETYPE="IDREF" FILEID="casebody_0591"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1113.6" BETYPE="IDREF" FILEID="alto_00557_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1113-7" BETYPE="IDREF" FILEID="casebody_0591"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1113.9" BETYPE="IDREF" FILEID="alto_00557_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1112-29" BETYPE="IDREF" FILEID="casebody_0591"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1112.41" BETYPE="IDREF" FILEID="alto_00556_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Av2W" BETYPE="IDREF" FILEID="casebody_0591"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1112.35" BETYPE="IDREF" FILEID="alto_00556_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Apo" BETYPE="IDREF" FILEID="casebody_0591"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1112.44" BETYPE="IDREF" FILEID="alto_00556_1"/>
+            <area BEGIN="BL_1112.45" BETYPE="IDREF" FILEID="alto_00556_1"/>
+            <area BEGIN="BL_1113.2" BETYPE="IDREF" FILEID="alto_00557_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1112-31" BETYPE="IDREF" FILEID="casebody_0591"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1112.43" BETYPE="IDREF" FILEID="alto_00556_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1112-30" BETYPE="IDREF" FILEID="casebody_0591"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1112.42" BETYPE="IDREF" FILEID="alto_00556_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1112-24" BETYPE="IDREF" FILEID="casebody_0591"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1112.34" BETYPE="IDREF" FILEID="alto_00556_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1112-23" BETYPE="IDREF" FILEID="casebody_0591"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1112.33" BETYPE="IDREF" FILEID="alto_00556_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1112-22" BETYPE="IDREF" FILEID="casebody_0591"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1112.32" BETYPE="IDREF" FILEID="alto_00556_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1112-21" BETYPE="IDREF" FILEID="casebody_0591"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1112.31" BETYPE="IDREF" FILEID="alto_00556_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

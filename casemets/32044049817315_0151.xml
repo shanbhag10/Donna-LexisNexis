@@ -1,0 +1,499 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0151" publicationstatus="published">
+          <court abbreviation="D. Cal." jurisdiction="United States">United States District Court for the District of California</court>
+          <name abbreviation="In re Jacobs">In re JACOBS</name>
+          <docketnumber>Case No. 7,160</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 274</citation>
+          <citation category="parallel" type="bluebook">5 Sawy. 458</citation>
+          <decisiondate>1879-04-28</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00138_1" MIMETYPE="image/tiff" CHECKSUM="4a89651030a71e86ed0a659911c26832" CHECKSUMTYPE="MD5" SIZE="101520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00138_1.tif"/>
+      </file>
+      <file ID="tiff_00139_0" MIMETYPE="image/tiff" CHECKSUM="2b8bc3f9cc8d01ce658f0b7141d704dc" CHECKSUMTYPE="MD5" SIZE="113874">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00139_0.tif"/>
+      </file>
+      <file ID="tiff_00139_1" MIMETYPE="image/tiff" CHECKSUM="846001e2c3546832208805332b5ffaa9" CHECKSUMTYPE="MD5" SIZE="75702">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00139_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00138_1" MIMETYPE="image/jp2" CHECKSUM="ea4aefa647e0d28e9addbd6ac11b23b6" CHECKSUMTYPE="MD5" SIZE="3640887">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00138_1.jp2"/>
+      </file>
+      <file ID="jp2_00139_0" MIMETYPE="image/jp2" CHECKSUM="96c8b99bc1d3a1bf1d0196bd6411c5b7" CHECKSUMTYPE="MD5" SIZE="3854979">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00139_0.jp2"/>
+      </file>
+      <file ID="jp2_00139_1" MIMETYPE="image/jp2" CHECKSUM="7a4fcf6b35314e87dc9ca1fa595a6f4d" CHECKSUMTYPE="MD5" SIZE="2882140">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00139_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00138_1" MIMETYPE="text/xml" CHECKSUM="fdd63f5e1679aad991c5c07f727a691d" CHECKSUMTYPE="MD5" SIZE="210198">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00138_1.xml"/>
+      </file>
+      <file ID="alto_00139_0" MIMETYPE="text/xml" CHECKSUM="3b36bb707560b13bdfb875a70c09105f" CHECKSUMTYPE="MD5" SIZE="238502">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00139_0.xml"/>
+      </file>
+      <file ID="alto_00139_1" MIMETYPE="text/xml" CHECKSUM="71c600e372458c5d39396893daceef88" CHECKSUMTYPE="MD5" SIZE="148232">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00139_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0151" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="276" firstpage="274">
+              <court pgmap="276" id="b276-11">District Court, D. California.</court>
+              <docketnumber pgmap="276" id="b276-8">Case No. 7,160.</docketnumber>
+              <citation pgmap="276" id="b276-10">[5 Sawy. 458.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="276" id="b276-9">In re JACOBS.</parties>
+              <decisiondate pgmap="276" id="Aqtm">April 28, 1879.</decisiondate>
+              <attorneys pgmap="276" id="b276-15">T. B. Bishop, for bankrupts.</attorneys>
+              <attorneys pgmap="276" id="b276-16">W. Barber, for opposing creditors.</attorneys>
+              <footnote label="1">
+                <p pgmap="276" id="b276-19">1 [Reported by L. S. B. Sawyer, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="276" id="b276-17">HOFFMAN, District Judge.</author>
+                <p pgmap="276" id="Aqhr">The adjudi­cation in this case was made September 13, 1870. The examination of the bankrupts was concluded In the latter part of 1870, or early in 1871. Their petition for a dis­charge was not filed until March 22, 1875. On the return day creditors duly appeared in opposition, and objections to the discharge were filed on the sixteenth of June, 1875. No further proceedings were had in the case until December 5, 1878, when a motion was made on behalf of the bankrupts to dismiss the objections for want of prosecution. This motion was denied.</p>
+                <p pgmap="276(29) 277(75)" id="b276-18">The objecting creditors then moved (March 4, 1879) for leave to amend the specifications of objections. This motion was elaborately argued, and is now to be decided. The orig­Inal specifications alleged as the ground of objection to the discharge that the bank­rupts had failed to keep proper books of ac­count. It is sought to amend this specifi­cation by adding an averment that the bank­rupts concealed books and papers relating to their estate. The omission to specify this ground of opposition in the original objec­tions is explained as follows in the affidavit of the counsel for the opposing creditors.</p>
+                <p pgmap="277" id="b277-4">The petition for discharge was not filed until more than four years subsequently to the conclusion of the bankrupts’ examina­tion. Before preparing the specifications the counsel endeavored to find the record of the bankrupts’ examination, in order to ascer­tain what grounds of objection it disclosed, and for this purpose obtained from the court two extensions of time to file specifications.</p>
+                <p pgmap="277" id="b277-5">After diligent inquiry at the offices of the register, the clerk and the assignee, he was unable to find the document sought for. It had probably been mislaid or lost at the time of the death of the late Mr. Begister Bates, by whom the examination had been taken. The counsel was thus, as he sup­posed, compelled to draw the specifications from his recollection of the facts elicited at the examination.</p>
+                <p pgmap="277" id="b277-6">When the prosecution of the application for a discharge was resumed, on December 5, 1878, some three years and a half there­after, it occurred to the counsel that he had procured for the use of his clients in New York a certified copy of the record of exam­ination. He thereupon wrote to New York for the copy, and it has recently been for­warded to and received by him.</p>
+                <p pgmap="277" id="b277-7">He finds, on examination, that it contains evidence tending to show that the bank­rupts, and especially S. Jacobs, concealed from, and failed to surrender to, the as-­signee, various books and writings relating to their estate. The affidavit further alleges that when preparing the objections more ¡than four years subsequently to the close of the examination, and in the absence of the record, the fact that such evidence had been elicited escaped his recollection, and it was only recalled to his remembrance by the perusal of the certified copy. Under these circumstances he asks to be allowed to amend the objections so as to include the ground of objection above stated.</p>
+                <p pgmap="277" id="b277-8">It is, I think, app'arent that if the law al­lows to the court any discretion with regard to this application, it should be exercised in favor of the opposing creditors. The inabil­ity of the counsel to obtain access to the original record of examination was in no re­spect caused by his fault or negligence, nor can his failure to recollect the contents of the record after an interval of more than four years, during which the proceedings had been suspended and apparently aban­doned, be justly deemed an .indication of want of diligence or of memory. The new specification sought to be introduced is founded on the confessions of the bankrupts made in the course of this very proceeding, and on their examination regularly taken be­fore the register. And they now, while ask­ing after such great delay to be admitted to the benefits of the act, are endeavoring, on merely technical grounds, to avoid being con­fronted with their own admission that acts have been committed by them which, by the very terms of the law, deprive them of the right to a discharge. The counsel for the respective parties mutually reproach' each other with inexcusable delay and negligence, but in my opinion with very unequal .justice.</p>
+                <p pgmap="277" id="b277-10">The object and effect of the bankruptcy act are two-fold: 1. To distribute among the creditors the assets of the bankrupt; and, 2. To afford to the latter, in proper cases and on his own application, the benefit of a discharge. In this latter proceeding, as it is exclusively for his benefit, he is the pro-­mover and actor. It is for him seasonably to make his application, and diligently to press it to a determination. Until he applies for his discharge the creditors can take no action, except after the expiration of a rea­sonable time, to obtain leave from the court to prosecute their demands before the ordi­nary tribunals. When the petition for dis­charge is presented, it is then the duty of the opposing creditors to make due appear­ance and file their objections within the pre­scribed period. But beyond this they are un­der no absolute obligation to press the cause to a conclusion. It is for the bankrupt, like any other plaintiff or petitioner who asks for relief at the hands of a court, to speed the cause to a final decision.</p>
+                <p pgmap="277" id="b277-11">The motion to dismiss the specifications of grounds of opposition, for want of prose­cution, seems to have been founded on an entire misconception of the nature of the proceeding and the relative rights and du­ties of the parties. As well might the plain­tiff in a suit in which a general denial of the cause of action had been pleaded, and who for several years had taken no steps to bring the issue to trial, ask for a dismissal of the plea and judgment in his own favor because his adversary had not moved in the cause. With far greater reason might the creditors have asked, in December, 1878, that the petition filed on the twenty-second of March, 1875, nearly four years after the adjudication, and which remained unacted on for three years and a half after the speci­fications of objections had béen filed, should be pronounced deserted and abandoned. Whether such an application would have been granted it is unnecessary to say, but certainly the court, unless a very strong showing to the contrary had been made, would have given leave to the creditors to resort to their legal remedies before the or­dinary tribunals.</p>
+                <p pgmap="277(22) 278(65)" id="b277-12">It is contended on behalf of the bankrupt that general order No. 24, which requires that opposing creditors shall enter their ap­pearance on the return day of the rule to show cause and file their specification of grounds of opposition within ten days there­after, unless the time shall be enlarged by order of the district court, absolutely pro­hibits the filing of specifications either origi­nal or amended after the expiration of the ten days, unless the court shall have pre­viously extended the time.</p>
+                <p pgmap="278" id="b278-3">But such I do not conceive to be the effect or intention of the order. It was framed to prescribe a general rule of practice to be usually followed and observed, but it was not intended to deprive the district courts of their ordinary power to open defaults and to relieve against accidents, inadvertencies afid. excusable neglects. It was not design­ed to secure to the dishonest bankrupt the benefit of the act whenever the attorney of the opposing creditors might, from accident, forgetfulness or insuperable impediment; fail to appear at the return day, or to omit to file- within the ten days thereafter specifi­cations of the opposition in due form.</p>
+                <p pgmap="278" id="b278-4">I am not aware that the courts have in any case given to general order No. 24 a con­struction so narrow and literal, and which' would defeat one of the principal objects of the act by enabling the dishonest bankrupt to obtain by accident those benefits under it which are expressly reserved for the honest. On the contrary, we find that from an early period after the passage of the act the courts have freely relieved against the consequences of inadvertence, mistake or unskillfulness.</p>
+                <p pgmap="278" id="b278-5">In Re Grefe [Case No. 5,794], Mr. Justice Blatehford allowed creditors to file their specifications after the expiration of the ten days and as of a time within ten days after the return day of the order to show cause. The register, it has been held, may grant an application for additional time (In re Secke­ndorf. [Id. 12,600]; In re Belden [Id. 1,238]), subject to the corrective authority of the court, in case of abuse of the power (In re Robinson [Id. 11,939]).</p>
+                <p pgmap="278" id="b278-6">The practice of granting leave to amend defective specifications was early adopted, and seems to have been followed with­out question of its correctness, and this where the specifications were so vague and. general as not to present any triable issues, and when they were so adjudged on de­murrer. In re Hill [Id. 6,482]; In re Rath­bone [Id. 11,580]; In re Burk [Id. 2,156]; In re Bellis [Id. 1,275],</p>
+                <p pgmap="278" id="b278-7">In Re Houghton [Id. 6,730], Mr. Justice Bowell observes: “I have decided in one case that the discretion of the court to en­large the time extends to the time of ap­pearance as well as to that for filing speci­fications, and may be exercised after the time has expired as well as before.”</p>
+                <p pgmap="278" id="b278-8">It is clear from the language of this very eminent judge that any construction of or­der No. 24 which would leave the court pow­erless after the expiration of the ten days to relieve against accidents, oversights or venial neglects, would be rejected by him as wholly inadmissible. It is unnecessary to cite further authorities on the point under consideration. I have no doubt that the court has authority to allow in its discretion amendments to specifications, and that this case is a proper one for its exercise.</p>
+                <p pgmap="278" id="b278-11">The opposing creditors have leave to amend, according to the prayer of their peti­tion.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="276" ORDERLABEL="274" TYPE="page">
+        <fptr FILEID="tiff_00138_1"/>
+        <fptr FILEID="jp2_00138_1"/>
+        <fptr FILEID="alto_00138_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_276.4" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="277" ORDERLABEL="275" TYPE="page">
+        <fptr FILEID="tiff_00139_0"/>
+        <fptr FILEID="jp2_00139_0"/>
+        <fptr FILEID="alto_00139_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_277.3" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="278" ORDERLABEL="276" TYPE="page">
+        <fptr FILEID="tiff_00139_1"/>
+        <fptr FILEID="jp2_00139_1"/>
+        <fptr FILEID="alto_00139_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_278.9" BETYPE="IDREF" FILEID="alto_00139_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-7" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.8" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqtm" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.15" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-12" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.13" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            <area BEGIN="BL_278.6" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-8" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.11" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-9" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.12" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-8" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.9" BETYPE="IDREF" FILEID="alto_00139_0"/>
+            <area BEGIN="BL_277.10" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-5" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.12" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-4" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.11" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-5" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.6" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-4" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.5" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqhr" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.22" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            <area BEGIN="BL_276.23" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-6" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.7" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-6" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.13" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-11" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.12" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b277-10" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_277.11" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-3" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.10" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-7" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.14" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-8" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.15" BETYPE="IDREF" FILEID="alto_00139_1"/>
+            <area BEGIN="BL_278.16" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-10" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.13" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-11" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.14" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-15" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.19" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-16" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.20" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-17" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.21" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-18" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.24" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            <area BEGIN="BL_277.1" BETYPE="IDREF" FILEID="alto_00139_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-19" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.25" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b278-11" BETYPE="IDREF" FILEID="casebody_0151"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_278.17" BETYPE="IDREF" FILEID="alto_00139_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

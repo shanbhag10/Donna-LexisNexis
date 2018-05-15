@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0555" publicationstatus="published">
+          <court abbreviation="C.C.D. Pa." jurisdiction="United States">United States Circuit Court for the District of Pennsylvania</court>
+          <name abbreviation="Joy v. Wirtz">JOY et al. v. WIRTZ et al.</name>
+          <docketnumber>Case No. 7,554</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1172</citation>
+          <citation category="parallel" type="bluebook">1 Wash. C. C. 517</citation>
+          <decisiondate>1806-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00587_1" MIMETYPE="image/tiff" CHECKSUM="e2832cbdc55bf647d96759f46fc19ca9" CHECKSUMTYPE="MD5" SIZE="38472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00587_1.tif"/>
+      </file>
+      <file ID="tiff_00588_0" MIMETYPE="image/tiff" CHECKSUM="1ad1413eeb13aff564af56f966055891" CHECKSUMTYPE="MD5" SIZE="78648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00588_0.tif"/>
+      </file>
+      <file ID="tiff_00588_1" MIMETYPE="image/tiff" CHECKSUM="adc6a21a407393b754b46de397728a94" CHECKSUMTYPE="MD5" SIZE="61582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00588_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00587_1" MIMETYPE="image/jp2" CHECKSUM="6f9e70878d2bd53b617c442d70803cd9" CHECKSUMTYPE="MD5" SIZE="2108526">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00587_1.jp2"/>
+      </file>
+      <file ID="jp2_00588_0" MIMETYPE="image/jp2" CHECKSUM="8b599f9cecefbe9be8f89b16bc1191ad" CHECKSUMTYPE="MD5" SIZE="2969045">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00588_0.jp2"/>
+      </file>
+      <file ID="jp2_00588_1" MIMETYPE="image/jp2" CHECKSUM="a2b577cf492c9c4e6499546a600e2546" CHECKSUMTYPE="MD5" SIZE="2552536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00588_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00587_1" MIMETYPE="text/xml" CHECKSUM="26ce097fe58c4859d37425b46f9240fc" CHECKSUMTYPE="MD5" SIZE="80391">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00587_1.xml"/>
+      </file>
+      <file ID="alto_00588_0" MIMETYPE="text/xml" CHECKSUM="71a114b02979f4870c6b5d8f7299f447" CHECKSUMTYPE="MD5" SIZE="176690">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00588_0.xml"/>
+      </file>
+      <file ID="alto_00588_1" MIMETYPE="text/xml" CHECKSUM="54cf3224ac880af333fe13ab7cd9b074" CHECKSUMTYPE="MD5" SIZE="128920">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00588_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0555" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1174" firstpage="1172">
+              <court pgmap="1174" id="b1174-23">Circuit Court, D. Pennsylvania.</court>
+              <docketnumber pgmap="1174" id="b1174-20">Case No. 7,554.</docketnumber>
+              <citation pgmap="1174" id="b1174-22">[1 Wash. C. C. 517.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1174" id="b1174-21">JOY et al. v. WIRTZ et al.</parties>
+              <decisiondate pgmap="1174" id="AfBp">Oct. Term. 1806.</decisiondate>
+              <footnote label="1">
+                <p pgmap="1174" id="b1174-29">
+                  <footnotemark>1</footnotemark> [Originally published from the MSS. of Hon. Bushrod Washington, Associate Justice of the Supreme Court of the United States, under the siqiervision of Richard Peters, Jr., Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1175" id="b1175-9">WASHINGTON, Circuit Justice.</author>
+                <p pgmap="1175(737) 1176(18)" id="Anzc">When this cause was heard at the last term, on de­murrer for want of parties, the court did no more than sustain the demurrer, and direct proper parties to be made. All those who executed the release, have since been made complainants, except Abraham Dubois, a cit­izen of Pennsylvania; and his not being made a party, is the subject of a plea, which is now to be decided upon. In support of the plea, it is contended, that the court can­not make a decree, without having all the parties, who united themselves together by the release, before them; and that to pro­ceed, without making all the releasors par­ties, would be to violate one of the fixed principles of a court of equity, which pro­fesses to prevent multiplicity of suits. It is admitted, that Dubois cannot be made a par­ty; but this is urged as a reason, why the suit is improperly brought in this court. In deciding who ought to be parties, it is neces­sary to distinguish between active and pas­sive parties; between those who are so nec­essarily involved in the subject in contro­versy, and the relief sought for, that no de­cree can be made without their being before the court; and such as are formal, or so far passive, that complete relief can be afforded to those who seek it, without affecting the rights of those who are omitted. The Case of Fell, 2 Brown, Ch. 27G, presents us with the rule, and with a strong illustration of it. A second mortgagee brought a bill against the first, to redeem, without making the heir of the mortgagor a party, who was stated to be resident in another country. -An objec­tion for want of parties being made, the chancellor observed, that there was a dis­tinction as to proceeding in the absence of parties abroad, between their being active and passive: that the mortgagor, or his heir, cannot be considered as a passive party; be­cause, the decree is, that the<footnotemark>1</footnotemark> second mort­gagee shall redeem the first, and that the mortgagor redeem him, or stand foreclosed on this account; the mortgagor or his heir, being an active party, the court cannot pro­ceed without him; and his being a party cannot be dispensed with, though he is not amenable to the process of the court.’ Many .other cases might be mentioned, equally strong with that just cited; and, in all -of them, the rule is so stubborn, that I doubt, if, under any circumstances, it can be made to bend to the plea of necessity. But, if a decree can be made without affecting the rights of a person not made a party, or with­out his having any thing to perform neces­sary to the perfection of the decree; reason, as well as adjudged cases, will warrant , the court in proceeding without him, if he be not amenable to the process of the court, or .no beneficial purpose is to be effected by making him a party. The object of a court of equity is to prevent a multiplicity of suits, to do complete justice, and to make the per­formance of its decrees safe to those who must obey them. Hence results the rule, that all persons concerned in the demand in the question in dispute, must be made par­ties. But this rule is not so inflexible, that, to preserve it, the court will not deny relief to those entitled to seek it, because there are others, who cannot be made parties, and who need not be so, otherwise than for the sake of principle, on which the rule is founded. This would be to make the great and pri­mary objects' of this court, subservient to those which are merely secondary. I admit, that the eases cited, apply to defendants. But, no case like the present could occur in England; and the reason of those eases, as applicable to defendants, is equally strong when applied to those who are complainants. I shall only add, that there is, in reason, no difference between a person, who, on account of his residence beyond seas, cannot be made answerable to the process of the court, and one who, by the laws of the United States, cannot be brought into this court; and that wherever, in the former case, a person so circumstanced need not be made a party, be need not be made a party in the latter case.</p>
+                <p pgmap="1176" id="b1176-4">The court will take care to make no de­cree to affect Mr. Dubois; and a complete decree may be made, without his being a party. At the same time, to prevent multi­plicity of suits, it would be proper to make him a party, if the court could make a decree for or against him. Plea overruled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1174" ORDERLABEL="1172" TYPE="page">
+        <fptr FILEID="tiff_00587_1"/>
+        <fptr FILEID="jp2_00587_1"/>
+        <fptr FILEID="alto_00587_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1174.19" BETYPE="IDREF" FILEID="alto_00587_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1175" ORDERLABEL="1173" TYPE="page">
+        <fptr FILEID="tiff_00588_0"/>
+        <fptr FILEID="jp2_00588_0"/>
+        <fptr FILEID="alto_00588_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1175.3" BETYPE="IDREF" FILEID="alto_00588_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1176" ORDERLABEL="1174" TYPE="page">
+        <fptr FILEID="tiff_00588_1"/>
+        <fptr FILEID="jp2_00588_1"/>
+        <fptr FILEID="alto_00588_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1176.4" BETYPE="IDREF" FILEID="alto_00588_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1176-4" BETYPE="IDREF" FILEID="casebody_0555"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1176.5" BETYPE="IDREF" FILEID="alto_00588_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Anzc" BETYPE="IDREF" FILEID="casebody_0555"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1175.11" BETYPE="IDREF" FILEID="alto_00588_0"/>
+            <area BEGIN="BL_1175.12" BETYPE="IDREF" FILEID="alto_00588_0"/>
+            <area BEGIN="BL_1175.13" BETYPE="IDREF" FILEID="alto_00588_0"/>
+            <area BEGIN="BL_1176.1" BETYPE="IDREF" FILEID="alto_00588_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1174-22" BETYPE="IDREF" FILEID="casebody_0555"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1174.32" BETYPE="IDREF" FILEID="alto_00587_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1174-29" BETYPE="IDREF" FILEID="casebody_0555"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1174.40" BETYPE="IDREF" FILEID="alto_00587_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1175-9" BETYPE="IDREF" FILEID="casebody_0555"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1175.10" BETYPE="IDREF" FILEID="alto_00588_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfBp" BETYPE="IDREF" FILEID="casebody_0555"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1174.34" BETYPE="IDREF" FILEID="alto_00587_1"/>
+            <area BEGIN="BL_1174.35" BETYPE="IDREF" FILEID="alto_00587_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1174-23" BETYPE="IDREF" FILEID="casebody_0555"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1174.33" BETYPE="IDREF" FILEID="alto_00587_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1174-20" BETYPE="IDREF" FILEID="casebody_0555"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1174.30" BETYPE="IDREF" FILEID="alto_00587_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1174-21" BETYPE="IDREF" FILEID="casebody_0555"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1174.31" BETYPE="IDREF" FILEID="alto_00587_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

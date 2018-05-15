@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0224" publicationstatus="published">
+          <court abbreviation="D. Me." jurisdiction="United States">United States District Court for the District of Maine</court>
+          <name abbreviation="The Jasper">The JASPER</name>
+          <docketnumber>Case No. 7,228</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 375</citation>
+          <citation category="parallel" type="bluebook">3 Ware, 296</citation>
+          <decisiondate>1862-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00189_0" MIMETYPE="image/tiff" CHECKSUM="0e7eafc2c0d4095ee9776b434346ef28" CHECKSUMTYPE="MD5" SIZE="94466">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00189_0.tif"/>
+      </file>
+      <file ID="tiff_00189_1" MIMETYPE="image/tiff" CHECKSUM="3f1dc30778d966b1a09e2e3439128b69" CHECKSUMTYPE="MD5" SIZE="60118">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00189_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00189_0" MIMETYPE="image/jp2" CHECKSUM="7588e477d0a197697a4965c7896e8774" CHECKSUMTYPE="MD5" SIZE="3470843">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00189_0.jp2"/>
+      </file>
+      <file ID="jp2_00189_1" MIMETYPE="image/jp2" CHECKSUM="f76135f189d6db4a662c15eb8716695d" CHECKSUMTYPE="MD5" SIZE="2712886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00189_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00189_0" MIMETYPE="text/xml" CHECKSUM="36547554d3c69e0a5571e10a1349366b" CHECKSUMTYPE="MD5" SIZE="211846">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00189_0.xml"/>
+      </file>
+      <file ID="alto_00189_1" MIMETYPE="text/xml" CHECKSUM="d3969f348ff3f45e60a58a31da98cc4e" CHECKSUMTYPE="MD5" SIZE="129993">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00189_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0224" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="376" firstpage="375">
+              <court pgmap="377" id="AA4">District Court, D. Maine.</court>
+              <docketnumber pgmap="377" id="b377-7">Case No. 7,228.</docketnumber>
+              <citation pgmap="377" id="ABJ4">[3 Ware, 296.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="377" id="ApK5">The JASPER.</parties>
+              <decisiondate pgmap="377" id="AL9O">April, 1862.</decisiondate>
+              <attorneys pgmap="377" id="b377-15">Mr. Sewall, for libellants.</attorneys>
+              <attorneys pgmap="377" id="b377-16">Mr. Dana, for respondents.</attorneys>
+              <footnote label="1">
+                <p pgmap="377" id="b377-18">1 [Reported by George F. Emery, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="377" id="b377-17">WARE, District Judge.</author>
+                <p pgmap="377" id="ApN4">This is a proceed­ing in rem for seamen’s wages. Call, the libellant, has united, with a claim for wages, one for other services, during seventeen days on one occasion, and twenty-two days on another, arising before the period in which he claims wages. These relate to a care of the vessel when she was undergoing some re­pairs, or when she was blocked up by ice. At that time he was master, and took the vessel on shares, he to have a certain portion of the earnings, to victual and man her, and the owners to keep her in repair. His re­lation to the vessel, the nature of the services, and the evidence offered in support of them, all conspire to induce me to lay these claims out of the case. If he has any title to pay for these services, it may more equitably be adjusted in another action pending on this subject in another tribunal. In this case I consider only his claim for wages. The stat­ute of the United States of 1790 [1 Stat., 134], suspending process against the vessel for ten days after the voyage is ended and the delivery of the cargo, if there were no other objections to the defence, does not ap­ply to a case of this kind. The law itself is not of easy construction, and the courts have varied much in the interpretation of its mean­ing. Three-eighths of this vessel were origi­nally bought by the proceeds of a farm, given to Call’s wife, with an understanding that he was to go in her as master, and in this capacity, he entered on board September 29, 1858, and continued as master till May 21, 1859. At that time, either because some of the part owners became dissatisfied with him, or because he, being in embarrassed circumstances, was fearful that the freight due to him would be seized by his creditors, the papers of the vessel were indorsed to Hamlin, who was a hand on board. This was at Bangor. From this time Hamlin signed the bills of lading and collected the freight, beginning at Bangor and Providence, where she was then bound. Call went in her as a hand from that time, as long as he continued in the vessel. No shipping articles were signed, and there was nothing in writ­ing to prove the nature of the contract. Everything was left to the uncertainty of a verbal understanding, and even the rate at which Call was to be paid was not agreed. The whole matter was left in that way that, unless there was the greatest good faith on both sides, a controversy would be likely to arise when the parties came to a final settle­ment. Whatever might have been the pri­vate understanding between the parties, Hamlin, after that change of the papers, be­came legally master and known as such to all who dealt with the vessel. Call was only a seaman, whether he occupied the place of mate or only foremast hand. His claim for wages, if any, commenced at that time, and depends on the character in which he went, whether as master or not. The record proof, ceitainly, about which there can be no dispute, is that he was not master. Ham­lin’s testimony has been taken by the own­ers, and from this it appears that he him­self performed all the duties of master. He signed the bills of lading, collected the freight, paid the crew, and in all respects ap­peared as ma.ster to strangers. He, indeed, says that he collected the freight as agent for Call, and paid it over to him. But all this was done verbally, and he has no written voucher to show to affect Call, neither for the freight paid over nor for Call’s wages. As Call signed no shipping paper, this is the least that is to be expected. And even to this day Hamlin has had no settlement with the owners, nor do we know how he took the vessel, either on shares or for monthly wages. Even if he stood before the court as an unimpeachable witness, his testimony alone would behardly sufficient to meet Call’s claim for wages. But even the admissibility of that part of his testimony is, to say the least, very doubtful, as he would be per­sonally liable for the wages. In such a case written proof of payment ought to be re­quired. If he paid freight to Call, it is to be remembered that Call’s wife was part owner, and, as such, entitled to a part of it, and cannot be allowed on the evidence offered in this case, as part payment of wages. These I allow from the time of the change of the papers, so long as Call served in the vessel, which, according to his statement in the libel, was to the 8th of October. As no particular sum was agreed upon, I allow them at $20 per month.</p>
+                <p pgmap="378" id="b378-2">But to this change the claimants set up a forfeiture on account of habitual intemper­ance. This is the besetting sin of seamen, and, If fully proved, is a just ground of forfeiture, because it disqualifies a man from performing his duty. But when the offence is only occasional, the courts have not been in the habit of inflicting the highest penalty. It may be marked only by diminished wages. Though the evidence proves that Call was not so prudent in the use of intoxicating drink as he ought to be, it entirely fails of proving him incapable of duty at any time when he was called on.</p>
+                <p pgmap="378" id="b378-3">An offset is also offered of a sail furtively taken from the vessel. If it was originally taken animo furandi, it was given up. What is the true value of this sail is not to be deter­mined from the evidence. Some of the wit­nesses say it was of greater and some of less value, varying singularly in their estimate. It was a square sail and not constantly used. In 1856 this sail was repaired as an old sail. It was of thin cotton duck, and kept in use until 1859, about three years. I say this sail, for it has not been pretended that a new sail was provided, and it could not, at that time, have been of any value except for pa­per. If five dollars are allowed for this, I think it enough.</p>
+                <p pgmap="378" id="b378-4">Wages, at $20 per month, for four months and nine days.$87 00</p>
+                <p pgmap="378" id="b378-6">For the sail deduction.. 5 00</p>
+                <p pgmap="378" id="b378-7">$92 00</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="377" ORDERLABEL="375" TYPE="page">
+        <fptr FILEID="tiff_00189_0"/>
+        <fptr FILEID="jp2_00189_0"/>
+        <fptr FILEID="alto_00189_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_377.6" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="378" ORDERLABEL="376" TYPE="page">
+        <fptr FILEID="tiff_00189_1"/>
+        <fptr FILEID="jp2_00189_1"/>
+        <fptr FILEID="alto_00189_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_378.3" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-18" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.24" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-7" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.9" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AL9O" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.13" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-6" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.7" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-3" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.5" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-15" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.18" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-16" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.19" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b377-17" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.20" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-4" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.6" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABJ4" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.11" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-2" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.4" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-7" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.8" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApK5" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.10" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApN4" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.21" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            <area BEGIN="BL_377.22" BETYPE="IDREF" FILEID="alto_00189_0"/>
+            <area BEGIN="BL_377.23" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA4" BETYPE="IDREF" FILEID="casebody_0224"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_377.12" BETYPE="IDREF" FILEID="alto_00189_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

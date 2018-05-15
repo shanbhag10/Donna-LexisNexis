@@ -1,0 +1,510 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0116" publicationstatus="published">
+          <court abbreviation="W.D. Mich." jurisdiction="United States">United States District Court for the Western District of Michigan</court>
+          <name abbreviation="In re Jackson">In re JACKSON</name>
+          <docketnumber>Case No. 7,125</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 197</citation>
+          <citation category="parallel" type="bluebook">2 Flip. 183; 12 Am. Law Rev. 602</citation>
+          <decisiondate>1878-05-22</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00100_0" MIMETYPE="image/tiff" CHECKSUM="47e67b2c44cc7176b018f3cdec739de4" CHECKSUMTYPE="MD5" SIZE="69118">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00100_0.tif"/>
+      </file>
+      <file ID="tiff_00100_1" MIMETYPE="image/tiff" CHECKSUM="18aabe1496b60c31b6ddd21e6966fedc" CHECKSUMTYPE="MD5" SIZE="112080">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00100_1.tif"/>
+      </file>
+      <file ID="tiff_00101_0" MIMETYPE="image/tiff" CHECKSUM="3b93e48e58047e9a90626ce944acbd07" CHECKSUMTYPE="MD5" SIZE="100428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00101_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00100_0" MIMETYPE="image/jp2" CHECKSUM="7083b0f7c4265afa6dde2776b6a7bcb5" CHECKSUMTYPE="MD5" SIZE="2854872">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00100_0.jp2"/>
+      </file>
+      <file ID="jp2_00100_1" MIMETYPE="image/jp2" CHECKSUM="6eef7488681935777f051e2cfdcd6f4b" CHECKSUMTYPE="MD5" SIZE="3752412">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00100_1.jp2"/>
+      </file>
+      <file ID="jp2_00101_0" MIMETYPE="image/jp2" CHECKSUM="735bbb5a6c4d1ad44330f487a9044ac4" CHECKSUMTYPE="MD5" SIZE="3522345">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00101_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00100_0" MIMETYPE="text/xml" CHECKSUM="0d09d313ea52c259db71f2de010b7fa9" CHECKSUMTYPE="MD5" SIZE="151647">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00100_0.xml"/>
+      </file>
+      <file ID="alto_00100_1" MIMETYPE="text/xml" CHECKSUM="4f2a469875eb4bb8c83fcb7c3a7ae47a" CHECKSUMTYPE="MD5" SIZE="245201">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00100_1.xml"/>
+      </file>
+      <file ID="alto_00101_0" MIMETYPE="text/xml" CHECKSUM="cf0b3ae9b58e3d24179f416e57016e89" CHECKSUMTYPE="MD5" SIZE="215634">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00101_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0116" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="199" firstpage="197">
+              <court pgmap="199" id="b199-10">District Court, W. D. Michigan.</court>
+              <docketnumber pgmap="199" id="b199-7">Case No. 7,125.</docketnumber>
+              <citation pgmap="199" id="b199-9">[2 Flip. 183; <footnotemark>1</footnotemark> 12 Am. Law Rev. 602.]</citation>
+              <parties pgmap="199" id="b199-8">In re JACKSON.</parties>
+              <decisiondate pgmap="199" id="AKPT">May 22, 1878.</decisiondate>
+              <attorneys pgmap="199" id="b199-20">Names of counsel do not appear in the rec­ord.</attorneys>
+              <footnote label="1">
+                <p pgmap="199" id="b199-13">1 [Reported by William Searcy Flippin, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="199" id="b199-21">WITHEY, District Judge.</author>
+                <p pgmap="199" id="A9W">The Constitu­tional provision that “a person charged in any state with crime, who shall flee from justice, and be found in another state, shall, on demand of the executive authority of the state from which he fled, be delivered up to be removed to the state having jurisdiction of the crime,” is supplemented by an act of congress providing the mode of effecting the extradition. The act of 1793 (Rev. St. § 527S [1 Stat. 302]), provides that ‘Whenever the executive authority of any state de­mands a person as a fugitive from justice, of the executive authority of a state to which such person has fled, and produces a copy of an indictment found, or an affidavit made before a magistrate, charging the per­son demanded with having committed a crime, certified as authentic by the governer of the state from whence the person so charged has fled, it shall be the duty of the executive of the state, to which such person has fled to cause him to be arrested and se­cured, and to cause notice of his arrest to be given to the executive authority of the state making such demand, or to the agent of such authority appointed to receive the fugitive, and to cause the fugitive to be de­livered to such agent when he shall appear.”</p>
+                <p pgmap="199" id="b199-22">1. It must appear and be shown that the person has fled from the demanding state and from justice.</p>
+                <p pgmap="199" id="b199-23">2. The person must be demanded by the governor of such other state, as a fugitive from justice.</p>
+                <p pgmap="199" id="b199-24">3. A copy of indictment found, or affida­vit, etc., charging the person with crime must be presented and be certified as au­thentic.</p>
+                <p pgmap="199(32) 200(24)" id="b199-25">These things being made to appear to the executive of this state, it becomes his duty to cause the person to be arrested and se­cured, for the purposes of rendition. What was shown to the executive of the state of Michigan upon the application for the war­rant of extradition is not before the court.</p>
+                <p pgmap="200" id="b200-4">Jackson has petitioned for a writ of habeas corpus upon the alleged ground that he has been arrested and is held in custody in vio­lation of the constitution and laws of the United States, specifying several causes. Rev. St. § 753.</p>
+                <p pgmap="200" id="b200-5">Every citizen deprived of his liberty is entitled, upon petition setting forth a suffi­cient showing, to the writ in order that the cause of his arrest and detention may be in­quired into. To the writ Hollis C. Pink-­ham, having said Jackson in custody, has made return that he is the agent of the state of Massachusetts, named in the warrant of the executive of Michigan, and to him di­rected, a copy of which warrant is made part of the return; that by virtue thereof he, as such agent, has said Jackson in custody, and that the true cause of such imprison­ment and detention of Jackson is set forth and fully appears in said warrant.</p>
+                <p pgmap="200" id="b200-6">The right to hold the relator depends whol­ly upon the sufficiency of the warrant of ex­tradition on its face, and nothing else, and with our present views we should not be dis­posed to look behind the warrant. The war­rant recites proceedings anterior to its is­suance, and upon which the executive based his action, with a view to show that prima facie the requirements of the act of con­gress had been complied with, which made it the duty of the governor to issue his war­rant of extradition. Among other things the warrant recites that Pinkham is agent of the state of Massachusetts to receive and re­move Jackson, the presentation of an au­thentic copy of an indictment charging Jack­son with crime in that state, and a demand by the governor of that state on the execu­tive of Michigan.</p>
+                <p pgmap="200" id="b200-7">■ The warrant does not state that it has been satisfactorily shown to the governor of Michigan that Jackson has fled from the state of Massachusetts or from justice. What it recites on that subject is that the executive of Massachusetts “lias by letters under his hand and made patent by the great seal of the state, represented to me that one Samuel D. Jackson has fled from justice in said state of Massachusetts.” Is this sufficient on the face of the warrant to show prima facie that Jackson has fled from justice or from Massachusetts ?</p>
+                <p pgmap="200" id="b200-8">The constitution declares that “a person charged with crime, who shall flee from jus­tice and be found in another state, shall on demand of the executive authority of the state from which he fled, be delivered up.” Now it is manifest that before the executive of Michigan is authorized to issue his war­rant to cause to be arrested and secured, a person charged in another state with crime, it should be shown by evidence making a prima facie case that such person has fled from the demanding state. This should be shown by competent evidence, as the fact of fleeing lies at the foundation of the right to issue a warrant of extradition. The certifi­cate of the demanding governor is no evi­dence of the fact. Neither the act of con­gress nor any rule of evidence makes his certificate evidence of such fact. The act of congress makes it the duty of the executive of the state “to which such person has fled”' to cause him to be arrested and secured. The mere fact that a citizen of Michigan has. been charged with crime and indicted in an­other state, is not legally sufficient to author­ize the arrest and extradition of such citi­zen. He may be charged with crime, and indicted in a state into which he has never entered or was never in, and from which, therefore, he never fled. It is as essential to the right of arrest and extradition to prove to the satisfaction of the governor of Michigan that the person charged with crime has fled from justice as to prove that he is charged with a crime in such other state. The latter is sufficiently proved in either of the two methods provided by the law of congress; by copy of an indictment, or by an affidavit made before some magistrate charging the person demanded with having committed a crime, certified as authentic by the demanding governor. No provision is made as to the method of proving that the person demanded as a fugitive has fled from justice. But when the constitution says a person charged with crime “who shall flee from justice” shall be delivered up. the con­verse is, that a person charged with crime who shall not have fled from justice shall not be delivered up to be removed. Hence it is essential that it be shown that the ac­cused is a fugitive from justice, and when such person represents by petition to a court that he is unlawfully deprived of his liberty, if the court may act at all, it is a material inquiry whether the governor's warrant is prima facie sufficient to justify the arrest and removal.</p>
+                <p pgmap="200" id="AMkE">The evidence that the person has fled from justice must not only be satisfactory to the governor, but must be legally sufficient be­fore the executive authority can be exer­cised. He cannot act upon rumor nor upon the mere representation of a person, nor up­on the demanding governor’s certificate. It should be sworn evidence, such as will au­thorize a warrant of arrest in any other case.</p>
+                <p pgmap="200(94) 201(233)" id="b200-19">Had the governor of Michigan stated in his warrant of arrest and removal that it has been satisfactorily shown to him that Jackson had fled from justice, or was a fugitive from justice from Massachusetts, such statement would be prima facie suf: ficient and possibly conclusive. There are judgments which seem well considered, hold­ing the warrant would, if prima facie suf­ficient, be conclusive, and that courts will not go behind it in such cases. But it is manifest if the warrant fails to recite or state any conclusion of the executive issuing it, that the person charged has fled, and re­cites only that the demanding governor has so represented, that the warrant is not legally sufficient to authorize ah arrest and extra­.dition. It is a common principle that a process of arrest must be legally sufficient on its face. We are called upon to say whether the warrant of extradition is prima facie sufficient under the constitution and laws of congress, and we are of opinion that it is not. The question is in principle within the case of Ex parte Thornton, 9 Tex. 635. The wartant recited that it had been represented and made known by the demanding governor of Arkansas to the governor of Texas, that Thornton stands charged with the crime of forgery and had fled from justice in the state of Arkansas and taken refuge in the state of Texas; it failed to state that such representation was accompanied by an au­thenticated copy of an indictment, etc., char­ging the relator with crime, and for that rea­son the warrant was held defective and in­sufficient. That it showed the governor of Texas had acted on the mere representation of the demanding governor. The exact point in the case at bar was not raised, but if such representation by the demanding gov­ernor is not sufficient for one purpose it is not as to any other material fact.</p>
+                <p pgmap="201" id="b201-3">State v. Schlemn, 4 Har. [Del.] 577, has been cited. It was ruled in that case that “the warrant of the executive under the great seal of the state, reciting the facts necessary under the act of congress to give him juris­diction of the case, would, at the hearing of the habeas corpus, be conclusive evidence of the existence of those facts, of his judg­ment in relation to them, and of a compliance with the constitution of the United States and of the act of congress.”</p>
+                <p pgmap="201" id="b201-4">This view has not always been acquiesced in by the courts; but assuming the judg­ment to be correct, “the facts necessary” to give the executive jurisdiction must be stat­ed or recited in the warrant.</p>
+                <p pgmap="201" id="b201-5">Several cases have been cited as control­ling the case at bar. holding certain things only are essential to be shown to render it the duty of the executive on whom the de­mand is made to remand, and that inasmuch as evidence that the party has fled from jus­tice is not stated to be one of the essential matters, therefore it is claimed not neces­sary either to show such fact or to recité in the warrant any conclusion by the execu­tive as to the fact. Those cases were de­cided on the questions raised therein and are authority only as to those questions.</p>
+                <p pgmap="201" id="b201-6">Courts not unfrequently lay down general rules not necessary to the decision of the ease being considered, and which therefore often fail to stand the test when a different question, not anticipated or considered, is presented. The relator must be discharged. We do not suppose his discharge will have the necessary effect to defeat his extradi­tion, if in fact he has fled from justice. Doubtless the executive, upon a renewed ap­plication, can reconsider the case and issue a second warrant, for which there is precedent. But certainly unless it is shown that the re­lator was in Massachusetts at or about the time when the offense is charged to have been committed and has since that time de­parted that state, there would be no just or legal ground for saying he had fled from justice in Massachusetts. The state of Mas­sachusetts enacts that no person should be surrendered to the authority of another state unless there is sworn evidence “that the par­ty charged is a fugitive from justice.”</p>
+                <p pgmap="201" id="b201-9">In Pennsylvania it is said the practice is to issue the warrant of surrender whenever a requisition is supported by indictment, etc., “and by an affidavit that the defendant has fled from such state into one where the war­rant is demanded.” 6 Pa. Law J. 412. See, also, Hurd, Hab. Oorp. p. 606, where it is said “there must be an actual fleeing from justice, and of this the governor of the state of whom the demand is made should be sat­isfied.” See, also Ex parte Smith [Case No. 12,968],</p>
+                <p pgmap="201" id="b201-10">The importance of adhering to the views expressed could be made apparent by refer­ring to many cases where indictments have been found in one state upon no evidence or upon wholly insufficient evidence, and where the indictment subserved no end of justice. We have in mind an indictment found in a neighboring state against a citizen of Mich­igan upon wholly insufficient evidence in­spired by revenge and black-mailing pur­poses. It was said a late governor of Mich­igan inquired into the facts and refused to issue a warrant. We noticed in the papers of an adjoining state, not long since, that one or more indictments had been found by a grand jury without any evidence whatever, on request of a prosecuting officer.</p>
+                <p pgmap="201" id="b201-11">Such cases, considering the facility with which indictments are sometimes obtained, afford sufficient justification not only to the executive of a state on whom a demand for extradition is made, but to the courts to see that the case falls within the laws.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="199" ORDERLABEL="197" TYPE="page">
+        <fptr FILEID="tiff_00100_0"/>
+        <fptr FILEID="jp2_00100_0"/>
+        <fptr FILEID="alto_00100_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_199.4" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="200" ORDERLABEL="198" TYPE="page">
+        <fptr FILEID="tiff_00100_1"/>
+        <fptr FILEID="jp2_00100_1"/>
+        <fptr FILEID="alto_00100_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_200.4" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="201" ORDERLABEL="199" TYPE="page">
+        <fptr FILEID="tiff_00101_0"/>
+        <fptr FILEID="jp2_00101_0"/>
+        <fptr FILEID="alto_00101_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.3" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-13" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.19" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-10" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.13" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKPT" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.14" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            <area BEGIN="BL_199.15" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-8" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.9" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_200.10" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-6" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.8" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            <area BEGIN="BL_201.9" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-4" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.6" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.7" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-3" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.5" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-7" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.8" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-25" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.31" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            <area BEGIN="BL_200.1" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-24" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.30" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-23" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.29" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-22" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.28" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-21" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.25" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-20" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.24" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-5" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.6" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-10" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.11" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-19" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.12" BETYPE="IDREF" FILEID="alto_00100_1"/>
+            <area BEGIN="BL_201.1" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMkE" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.11" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-4" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.5" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-11" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.12" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9W" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.26" BETYPE="IDREF" FILEID="alto_00100_0"/>
+            <area BEGIN="BL_199.27" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-8" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.11" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-9" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.12" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b200-6" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_200.7" BETYPE="IDREF" FILEID="alto_00100_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b199-7" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_199.10" BETYPE="IDREF" FILEID="alto_00100_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-9" BETYPE="IDREF" FILEID="casebody_0116"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.10" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

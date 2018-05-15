@@ -1,0 +1,411 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0316" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The J. G. Paint">The J. G. PAINT</name>
+          <docketnumber>Case No. 7,318</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 617</citation>
+          <citation category="parallel" type="bluebook">1 Ben. 545</citation>
+          <decisiondate>1867-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00310_0" MIMETYPE="image/tiff" CHECKSUM="ccab7992a7de3ad95b295c6504925d97" CHECKSUMTYPE="MD5" SIZE="84212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00310_0.tif"/>
+      </file>
+      <file ID="tiff_00310_1" MIMETYPE="image/tiff" CHECKSUM="7113148d8d29d44c1076e05b4586dbe1" CHECKSUMTYPE="MD5" SIZE="109570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00310_1.tif"/>
+      </file>
+      <file ID="tiff_00311_0" MIMETYPE="image/tiff" CHECKSUM="1f947061af069e431b6518c984a0ee5c" CHECKSUMTYPE="MD5" SIZE="76384">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00311_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00310_0" MIMETYPE="image/jp2" CHECKSUM="81b7b33cba098afa3c3948a2c7877be3" CHECKSUMTYPE="MD5" SIZE="3389609">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00310_0.jp2"/>
+      </file>
+      <file ID="jp2_00310_1" MIMETYPE="image/jp2" CHECKSUM="254b9c2885ac0048872807792148aee4" CHECKSUMTYPE="MD5" SIZE="3775003">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00310_1.jp2"/>
+      </file>
+      <file ID="jp2_00311_0" MIMETYPE="image/jp2" CHECKSUM="b8b63ed6c9a422bd453a5407f604c405" CHECKSUMTYPE="MD5" SIZE="3129809">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00311_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00310_0" MIMETYPE="text/xml" CHECKSUM="274d76f132a8b1ec782e4749e68e0fec" CHECKSUMTYPE="MD5" SIZE="193331">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00310_0.xml"/>
+      </file>
+      <file ID="alto_00310_1" MIMETYPE="text/xml" CHECKSUM="e30c59e6a18d52b9fe2f06d5e68759a6" CHECKSUMTYPE="MD5" SIZE="257644">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00310_1.xml"/>
+      </file>
+      <file ID="alto_00311_0" MIMETYPE="text/xml" CHECKSUM="7e36c05c8683958372c3e8de4eebe6b2" CHECKSUMTYPE="MD5" SIZE="170427">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00311_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0316" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="619" firstpage="617">
+              <court pgmap="619" id="b619-18">District Court, S. D. New York.</court>
+              <docketnumber pgmap="619" id="b619-15">Case No. 7,318.</docketnumber>
+              <citation pgmap="619" id="b619-17">[1 Ben. 545.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="619" id="b619-16">The J. G. PAINT.</parties>
+              <decisiondate pgmap="619" id="AEd2">Nov. 1867.</decisiondate>
+              <attorneys pgmap="619" id="b619-23">Beebe &amp; Donohue, for libellant.</attorneys>
+              <attorneys pgmap="619" id="b619-24">E. H. Owen, for bark.</attorneys>
+              <attorneys pgmap="619" id="b619-25">D. D. Lord, for cargo.</attorneys>
+              <footnote label="1">
+                <p pgmap="619" id="b619-27">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="619" id="b619-26">BLATCHFORD, District Judge.'</author>
+                <p pgmap="619(311) 620(243)" id="AtDS">This is a libel for salvage, filed by Charles Loveland, master and part owner of the steamer Eure­ka, on behalf of himself and all others inter­ested, against the bark J. G. Paint and her cargo. The bark is a British vessel, and was on a voyage from St. Jago de Cuba to New York, with a cargo consisting of 04U hogsheads, 205 barrels. 38 boxes, and 10 tierces, of sugar. She is 340 tons burthen, new measurement, and is two years old, and was worth about $8,000 in United States currency’ at the time of the salvage service. It does not appear what was the value of her cargo. On the 30th of March, 1867, about 0 o’clock a. m., the bark was at anchor in six fathoms of water, about four miles east north-east from Absecom light on the New Jersey coast. She had been blown off from pilotage ground, while looking for a pilot to bring her into the port of New York, eight days before, and had lost her rudder in a gale at that time. For two days afterwards she continued to lie to, and then she fell in with a brig, to which she made a signal by setting her colors union down. The brig took off from her the women and children, and a sick sailor, and sailed in company with her for some time. The bark sailed on the wind and steered by her sails, but she could not steer by them when off the wind. After a time the brig took the bark in tow. as the wind was light, the bark being then about 15 miles to the southward and westward of Cape May, and intending to go in to Hampton Roads as the nearest port. It then became calm and both vessels came to anchor, land being visible. Subsequently the wind came out from west north-west, blowing off shore, and the vessels sailed in company along the shore out of sight of land, on a course north or north north-east, close to the wind, with their port tacks aboard. No opportunity was afforded to try and steer the bark before the wind, or to wear ship. She was steered by her sails. The brig afterwards got astray, but the bark kept on her course, and got out a spar to assist in steering. The brig found the bark again and the two sailed in company, the wind being steady and blowing favorably. The baric was obliged to sail in such direc­tion as she could, when on the wind. The •wind getting light again, the brig took the bark in tow again, and land was made, which the brig took to be Cape Henlopen, and the bark thought was Absecom. The latter idea proved to be the correct one. The bark came to anchor there, although the weather was fine and the wind favorable for continuing her course to ¡sandy Hook, for the reason that the brig insisted, even after the light on shore was set on the even­ing of the 29th of March, that the light was Cape Henlopen light, and not Absecom light. The brig let go of the bark and stood off, and at sunrise the next morning was :J miles east south-east from the bark, hull down.</p>
+                <p pgmap="620" id="b620-3">At 6 o’clock on the morning of the 30th, the steamer, being on a voyage from New York to Little Egg Harbor, (between which place and New York she was a regular trad­er,) and being at the time about 2 miles off from the bar at the entrance of the inlet, and 30 miles from her dock at Little Egg Harbor, saw the bark lying at anchor, about 7 or 8 miles south of the bar, and believing her to be in distress, ran down to her. When the steamer came within 2 miles of the bark; she saw on the' bark a signal of dis­tress, being a flag set union down half way up the peak. The steamer reached the bark about S o’clock a. m. The bark, on being hailed from the steamer, said that she want­ed assistance, and her master asked the captain of the steamer what he would charge to tow the bark to the Delaware breakwater. The captain said, that he wTould not tow her to the breakwater, but would tow her to New York. The master then asked, what he would charge, and, at the request of the captain, went on board of the steamer. The captain there told the master, that he would tow him to New York for $4.000. The master said that he would not give it, but would let the bark go ashore first, and offered $2,000. The captain refused that, and the master started to return to the bark. Either before the master left the steamer, or after he got into the small boat, the captain said he would take $3.000. The captain’s version is, that the $3.000 offer was made before the master left, that the master refused it and started to return to the bark, and the steamer started her screw ahead to leave, and that the master, when he got a short distance off, said he would give the $3,000. The master’s version is, that, after his offer of $2,000 was refused, he got into his boat to leave, that then the $3,000 offer was made, that he returned to the bark without making a bargain and consulted his mates, and that all concluded to give the $3,000. The clerk of the steamer drew a written agreement, which the master signed on board of the steamer, whereby the master promised to pay to the steamer or her owners, in one month, $3,000 for towing the bark from Abse-­com to New York. This agreement, so sign­ed, was delivered to the captain. The steamer took the bark in tow at first by a hawser behind, but, after about an hour, took her alongside, and thus towed her to New York, and anchored her off the Bat­tery. She was towed for twenty-seven hours. The steamer had from a quarter to a half of a ton of coal left when she arrived at New York. Little Egg Harbor bar is 9b miles from New York. The usual time of the trip of the steamer, from New ¥ork to where she was when she turned aside to go to the bark, was about 10 hours. Her con­sumption of coal was 7 or 8 tons for 14 or 15 hours running. The steamer was worth $22.000, and had on board at the time 20 tons of cargo, destined for Little Egg Har­bor, which she subsequently delivered there and collected freight for.</p>
+                <p pgmap="620" id="b620-6">The captain of the steamer says, that the wind was west south-west, and blowing hard when he reached the bark; that it was misty when he took her in tow; that he thought she would go on the beach in an east wind if she did not take his offer; that it was 50 or 60 miles nearer to the breakwater than to New York, but he could. not have gone to the breakwater and back sooner than to. Newr York and back, because of the head sea; and that he could not. for want of coal, have got the bark to the breakwater.</p>
+                <p pgmap="620(187) 621(31)" id="b620-7">The master of the bark says that, when-­the steamer reached him, the wind was light off shore, but it looked as if they were going to have a storm; that, if the wind had blown on shore, there would have been danger; that there was not any time after the bark lost her rudder when she was per­fectly unmanageable; that he does not con­sider a vessel without a rudder safe; that, if he had been on a lee shore, he w'ould have had to trust entirely to his anchors, and, if his ground tackle had given way, he would have gone ashore; that, with the wind right on shore, there would not have been much salvation; and that the place where the bark was anchored was a dangerous place. The mate of the bark testifies that if. at the place where the steamer found the bark at anchor, the wind had changed to blow on shore, there would have been danger of going ashore, if the anchors had failed to hold. The bark did not leak, and was not otherwise disabled than by the loss of the rudder. When the steamer ar­rived at New York with her, the wind was south-east, and it was storming, and had been so for three or four hours.</p>
+                <p pgmap="621" id="AdsU">The answer of the bark does not set up that any unfair advantage was taken of the circumstances in which the bark was found, to exact from her an unreasonable contract, or that the price agreed to be paid for the service was more than the salvage service was worth. It sets up, that the master asked the captain of the steamer what he would ask to tow the bark to the break­water; that the captain refused to tow her to the breakwater, but said he would tow her to New York for $4.000; that, after some negotiation on the subject, the master agreed to give $3,000 to be towed to New York, which was accepted; that, while the claim­ants of the bark do not admit that such service was worth $3,000, yet, as the master agreed to pay that sum. the}', so far as re­spects the bark and freight, are willing to abide by the contract; that, nevertheless, if the court shall not consider such sum just and reasonable, as respects the owners of the cargo, then the claimants of the bark desire to have the benefit of any reduction thereof; and that such contract was made for the benefit of the cargo as well as of the vessel, and the cargo is bound to contribute and pay its just proportion of such salvage serv­ice.</p>
+                <p pgmap="621" id="b621-4">The answers of the claimants of the cargo deny that the service was worth $3.000, and allege that the agreement to pay the same was improperly exacted out of the master of the bark, by taking advantage of the pe­culiar circumstances in which he was placed, and that it should not be enforced against the cargo, although they say they are willing to pay a reasonable and liberal compensation for the trouble, labor and services of the li-­bellant, and for the assistance of the steamer, and they claim that a proper proportion should be paid by the owners of the bark and her freight.</p>
+                <p pgmap="621" id="b621-5">It is well settled that courts of admiralty will not allow a salvor to take advantage of his situation, and to avail himself of the calamities of others to drive a bargain; but yet they will enforce a contract made for salvage service and salvage compensation, where the salvor has not taken advantage of his power to make an unreasonable bargain. Post v. Jones, 19 How. [60 U. S.] 160; The Emulous [Case No. 4,480]; The A. D. Patchin [Id. 87].</p>
+                <p pgmap="621" id="b621-6">After a careful consideration of all the facts in this case, I am unable to come to the conclusion that the sum agreed upon. $3,000, is an unreasonable compensation for the serv­ice rendered, or that the agreement to pay it was made under such circumstances that the sum fixed by the agreement ought not to be taken as the measure of the salvage compensation. I therefore award to the li-­bellant the sum of $3.000 as such compensa­tion, with interest from April 30th, 1867, the amount to be apportioned between the vessel and the cargo by a commissioner, on a reference for that purpose, if such appor­tionment is not otherwise fixed by the par­ties.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="619" ORDERLABEL="617" TYPE="page">
+        <fptr FILEID="tiff_00310_0"/>
+        <fptr FILEID="jp2_00310_0"/>
+        <fptr FILEID="alto_00310_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_619.3" BETYPE="IDREF" FILEID="alto_00310_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="620" ORDERLABEL="618" TYPE="page">
+        <fptr FILEID="tiff_00310_1"/>
+        <fptr FILEID="jp2_00310_1"/>
+        <fptr FILEID="alto_00310_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_620.6" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="621" ORDERLABEL="619" TYPE="page">
+        <fptr FILEID="tiff_00311_0"/>
+        <fptr FILEID="jp2_00311_0"/>
+        <fptr FILEID="alto_00311_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_621.4" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdsU" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.5" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtDS" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.35" BETYPE="IDREF" FILEID="alto_00310_0"/>
+            <area BEGIN="BL_619.36" BETYPE="IDREF" FILEID="alto_00310_0"/>
+            <area BEGIN="BL_620.1" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEd2" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.26" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-4" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.6" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-5" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.7" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b621-6" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_621.8" BETYPE="IDREF" FILEID="alto_00311_0"/>
+            <area BEGIN="BL_621.9" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-18" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.25" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-3" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.3" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            <area BEGIN="BL_620.4" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-7" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.8" BETYPE="IDREF" FILEID="alto_00310_1"/>
+            <area BEGIN="BL_621.2" BETYPE="IDREF" FILEID="alto_00311_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b620-6" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_620.7" BETYPE="IDREF" FILEID="alto_00310_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-17" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.24" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-16" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.23" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-15" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.22" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-23" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.31" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-26" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.34" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-27" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.37" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-24" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.32" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b619-25" BETYPE="IDREF" FILEID="casebody_0316"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_619.33" BETYPE="IDREF" FILEID="alto_00310_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

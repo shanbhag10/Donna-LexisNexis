@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0451" publicationstatus="published">
+          <court abbreviation="D. Ind." jurisdiction="United States">United States District Court for the District of Indiana</court>
+          <name abbreviation="In re Jones">In re JONES</name>
+          <docketnumber>Case No. 7,450</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 935</citation>
+          <citation category="parallel" type="bluebook">7 N. B. R. (1873) 506</citation>
+          <decisiondate>1872</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00469_0" MIMETYPE="image/tiff" CHECKSUM="a54a41295f2fc5ffcef6f03890ca10a6" CHECKSUMTYPE="MD5" SIZE="65092">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00469_0.tif"/>
+      </file>
+      <file ID="tiff_00469_1" MIMETYPE="image/tiff" CHECKSUM="e205b94afa7796e27d1fdfc9f5b9ac53" CHECKSUMTYPE="MD5" SIZE="82792">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00469_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00469_0" MIMETYPE="image/jp2" CHECKSUM="74f8b438f1a38822d4ec83310f98246d" CHECKSUMTYPE="MD5" SIZE="2822517">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00469_0.jp2"/>
+      </file>
+      <file ID="jp2_00469_1" MIMETYPE="image/jp2" CHECKSUM="d62bd343909a543e7c81a62b97d27c5b" CHECKSUMTYPE="MD5" SIZE="3058826">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00469_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00469_0" MIMETYPE="text/xml" CHECKSUM="ffeff05961d3a6cee1aff253947d0c31" CHECKSUMTYPE="MD5" SIZE="136988">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00469_0.xml"/>
+      </file>
+      <file ID="alto_00469_1" MIMETYPE="text/xml" CHECKSUM="a8dca0536c7da560d5b01f8d3932dd72" CHECKSUMTYPE="MD5" SIZE="173765">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00469_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0451" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="936" firstpage="935">
+              <court pgmap="937" id="AJiz">District Court, D. Indiana.</court>
+              <docketnumber pgmap="937" id="b937-16">Case No. 7,450.</docketnumber>
+              <citation pgmap="937" id="ASAV">[7 N. B. R. (1873) 506.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="937" id="AhIv">In re JONES.</parties>
+              <footnote label="1">
+                <p pgmap="937" id="ANm8">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="938" id="b938-3">GRESHAM, District Judge.</author>
+                <p pgmap="938" id="ANM">On tile 17th of «October, 1870, William McEwen filed his petition in this court for adjudication of bankruptcy against Benjamin F. Jones. At the same time a petition was pending in the same court against McEwen, seeking ad­judication of bankruptcy against him, and pending his proceeding against Jones, Me-­Ew.en was himself adjudged bankrupt, and' Joseph J. Irwin and three others were appointed his assignees. Thereupon, Jones filed his plea in abatement to the petition against him, setting out the bankruptcy of McEwen, and claiming thereby the proceed­ing against him was at an end. At this stage of the proceedings, Irwin and the other assignees of McEwen come in and produce evidence of their appointment, and move the court to substitute them as the petitioners against Jones, and to strike the plea in abatement from the files. The bank­ruptcy proceeding in the name of McEwen against Jones is, by the adjudication of bankruptcy against McEwen, abated, unless the bankrupt act provides that the suit may be continued in the name of his assignees. The first clause of section 16 of that act gives to the assignee of a bankrupt '“the like rem­edy to recover all the estate, debts, and ef­fects in his own name,-as the debtor might have had if the decree in bankruptcy had not been rendered and no assignment had been made.” The second clause of that sec­tion provides that “if at the time of the com­mencement of proceedings in bankruptcy an action is pending in the name of the debtor for the recovery of a debt or other thing,” which ought to pass by the assignment, the ássignee may procure himself to be admitted to prosecute such action just as if it had been commenced by him. The third clause of section 16 declares that no suit pending in the name of an assignee shall abate • by his death or removal, and that the successor shall be admitted to prosecute it, as if it had been commenced in his name. Under the first clause of this section the assignee may originate a suit in bankruptcy against a debtor of the bankrupt. His remedies un­der the law are regulated by the same pro­visions that control the rights of other par­ties. If such a debtor is in failing circum­stances, and the assignee has reason to know his condition, he cannot more than any other party, proceed to judgment and execution, or, in other words, he cannot secure by such method, or in any other way, a preference over other creditors for the estate which he is ad­ministering. He must adopt the only remedy which the law allows him in the performance of his duty to collect the assets of the bank­rupt, and that is the filing of a petition in bankruptcy against his bankrupt’s insolvent debtor. An action by a creditor against his debtor, by means of a proceeding in bank-­ruptSy, is strictly “an action for the re­covery of a debt or other thing which might or ought to pass to the assignee by the as­signment,” and, indeed, is often the only action that the creditor can resort to. All other remedies for the collection of debts are open to the assignee, and why not the remedy by suit in bankruptcy? If, then, the first clause of said section authorizes the assignee to originate an action in bankruptcy for the recovery of a debt due the bankrupt, it will hardly be questioned that the second and third clauses of said section transmit the right to prosecute pending actions from the bankrupt to the assignee, and from one assignee to another, in case of death or re­moval. It follows thereupon that the as-­signee must be substituted for the bankrupt.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="937" ORDERLABEL="935" TYPE="page">
+        <fptr FILEID="tiff_00469_0"/>
+        <fptr FILEID="jp2_00469_0"/>
+        <fptr FILEID="alto_00469_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_937.3" BETYPE="IDREF" FILEID="alto_00469_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="938" ORDERLABEL="936" TYPE="page">
+        <fptr FILEID="tiff_00469_1"/>
+        <fptr FILEID="jp2_00469_1"/>
+        <fptr FILEID="alto_00469_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_938.3" BETYPE="IDREF" FILEID="alto_00469_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANm8" BETYPE="IDREF" FILEID="casebody_0451"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_937.30" BETYPE="IDREF" FILEID="alto_00469_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASAV" BETYPE="IDREF" FILEID="casebody_0451"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_937.25" BETYPE="IDREF" FILEID="alto_00469_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b937-16" BETYPE="IDREF" FILEID="casebody_0451"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_937.23" BETYPE="IDREF" FILEID="alto_00469_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b938-3" BETYPE="IDREF" FILEID="casebody_0451"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_938.4" BETYPE="IDREF" FILEID="alto_00469_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhIv" BETYPE="IDREF" FILEID="casebody_0451"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_937.24" BETYPE="IDREF" FILEID="alto_00469_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJiz" BETYPE="IDREF" FILEID="casebody_0451"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_937.26" BETYPE="IDREF" FILEID="alto_00469_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANM" BETYPE="IDREF" FILEID="casebody_0451"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_938.5" BETYPE="IDREF" FILEID="alto_00469_1"/>
+            <area BEGIN="BL_938.6" BETYPE="IDREF" FILEID="alto_00469_1"/>
+            <area BEGIN="BL_938.7" BETYPE="IDREF" FILEID="alto_00469_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

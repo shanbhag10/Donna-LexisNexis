@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0444" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Ex parte Jones">Ex parte JONES</name>
+          <docketnumber>Case No. 7,443</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 926</citation>
+          <citation category="parallel" type="bluebook">4 Cranch, C. C. 185</citation>
+          <decisiondate>1831-10-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00464_1" MIMETYPE="image/tiff" CHECKSUM="dc8422a2f36f5e52477687a01354bf4d" CHECKSUMTYPE="MD5" SIZE="100316">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00464_1.tif"/>
+      </file>
+      <file ID="tiff_00465_0" MIMETYPE="image/tiff" CHECKSUM="74811145ed86a02f2fa5d384786e3c45" CHECKSUMTYPE="MD5" SIZE="54282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00465_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00464_1" MIMETYPE="image/jp2" CHECKSUM="f53c413a765f95d88be75c3b925be187" CHECKSUMTYPE="MD5" SIZE="3860766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00464_1.jp2"/>
+      </file>
+      <file ID="jp2_00465_0" MIMETYPE="image/jp2" CHECKSUM="01ade83974385c1d57caba6297b72f9f" CHECKSUMTYPE="MD5" SIZE="2528219">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00465_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00464_1" MIMETYPE="text/xml" CHECKSUM="c63bfe677d7a1fda5eccc51f32743f29" CHECKSUMTYPE="MD5" SIZE="223301">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00464_1.xml"/>
+      </file>
+      <file ID="alto_00465_0" MIMETYPE="text/xml" CHECKSUM="36d66d95956647224b38c6351fb0260b" CHECKSUMTYPE="MD5" SIZE="117943">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00465_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0444" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="927" firstpage="926">
+              <court pgmap="928" id="ACRO">Circuit Court, District of Columbia.</court>
+              <docketnumber pgmap="928" id="b928-3">Case No. 7,443.</docketnumber>
+              <citation pgmap="928" id="AJn">[4 Cranch, C. C. 185.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="928" id="ANL">Ex parte JONES.</parties>
+              <decisiondate pgmap="928" id="AgnI">Oct. 21, 1831.</decisiondate>
+              <footnote label="1">
+                <p pgmap="928" id="b928-9">1 [Reported by Hon. William Cranch. Chief Judge.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="928" id="b928-12">BY THE COURT.</author>
+                <p pgmap="928(518) 929(121)" id="AY0">This cause originated in a petition by [J. A. Jones] the executor of Edward Jones to the orphans’ court, for leave to settle a second account, and to be allowed a credit for the loss upon certain stock sold for $75.96 less than its appraised value. The judge of the orphans' court be­ing of opinion that the executor was not entitled to an allowance for such loss, the stock having been sold without an order from that court, refused to permit him to settle a second account and to allow him credit for the loss. The petition was ac­companied by an affidavit of the executor, verifying the account of sales by Thomas Biddle &amp; Co., and averring that the sales were fair and bona fide, and at the full market price, and that he believes that no more could have been got for the stock; and by an affidavit of W. S. Nicholls, a re­spectable broker in this district, that the sales were at the then market price at Philadelphia, and that the Philadelphia market was as good a market for the sale of stock as any other in the United States; and that Thomas Biddle &amp; Co., the brokers who sold the stock, are brokers of the high­est repute for integrity and fairness in their dealing; and that, in his opinion, no better evidence of the true market price of stock could be given, than their bills. It does not appear that there were any debts or claims against the testator outstanding and unpaid at the time of the sale, or any other cause which required an application to the judge for an order to sell. As between the ex­ecutor and his vendee, the sale was valid without such an order; and it does not ap­pear that any person interested has object­ed to the sale. If it was a fair and bonfi fide sale for the purpose of settling the es­tate, and if, in fact, the stock was sold for its full market value, although less than the appraised value, there has been an actual “decrease” of the estate when compared with the appraisement: or, in other words, a loss by decrease, which, under the ex­press provision of the testamentary act of 1793 (chapter 8, § 2), is not to be sustained by the executor; and the same section pro­vides that “he may be allowed for such de­crease. on the settlement of his final or other account.” The law having expressly de­clared that the loss shall not be sustained by the executor, and that he may be allowed for it in his account, it seems to follow, that if such loss has happened, the judge ought to have allowed it. and to have opened the account for that purpose, or permitted the executor to settle a second account, if the loss was ascertained after the settlement of the first account. Then the only remaining question is, whether there was an actual decrease in the value of the stock when compared with the appraised value. Upon this question the affidavit of Hr. Xicholls, which does not appear to have been object­ed to by the judge on the ground of in­formality, or incredibility, ought, in our opin­ion, to have been satisfactory. It appears to us, that the judge erred in supposing that there could be, upon a sale, no loss, or no satisfactory evidence of loss, by decrees, unless the sale were made under an order of the orphans’ court. The only, effect of the want of such an order of sale, in a case like the present, we think, is to throw the bur­den of proof upon the executor, to satisfy the court that the thing was sold for its full market value.</p>
+                <p pgmap="929" id="b929-4">It is, therefore, ordered and decreed by this court, on this 21st day of October, 1831, that the order of the orphans’ court, in this cause, “that the said executor be not allowed to settle a second account, and credited for the said loss as prayed, and that the petition be dismissed with costs,” be, and the same is hereby, reversed. And it is hereby fur­ther ordered and decreed, that the said pe­tition be sustained; and that the said or­phans’ court permit the said executor to set­tle a second account, and allow him therein a credit for the sum of $75.96 for the loss upon the sale of the stock in the petition mentioned. And it is further ordered, that this decision and decree be certified under the seal of this court, by the clerk thereof, and transmitted to the said orphans’ court of Washington county.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="928" ORDERLABEL="926" TYPE="page">
+        <fptr FILEID="tiff_00464_1"/>
+        <fptr FILEID="jp2_00464_1"/>
+        <fptr FILEID="alto_00464_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_928.4" BETYPE="IDREF" FILEID="alto_00464_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="929" ORDERLABEL="927" TYPE="page">
+        <fptr FILEID="tiff_00465_0"/>
+        <fptr FILEID="jp2_00465_0"/>
+        <fptr FILEID="alto_00465_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_929.3" BETYPE="IDREF" FILEID="alto_00465_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b928-9" BETYPE="IDREF" FILEID="casebody_0444"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_928.14" BETYPE="IDREF" FILEID="alto_00464_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b929-4" BETYPE="IDREF" FILEID="casebody_0444"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_929.5" BETYPE="IDREF" FILEID="alto_00465_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AY0" BETYPE="IDREF" FILEID="casebody_0444"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_928.17" BETYPE="IDREF" FILEID="alto_00464_1"/>
+            <area BEGIN="BL_928.18" BETYPE="IDREF" FILEID="alto_00464_1"/>
+            <area BEGIN="BL_929.1" BETYPE="IDREF" FILEID="alto_00465_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJn" BETYPE="IDREF" FILEID="casebody_0444"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_928.8" BETYPE="IDREF" FILEID="alto_00464_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACRO" BETYPE="IDREF" FILEID="casebody_0444"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_928.9" BETYPE="IDREF" FILEID="alto_00464_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgnI" BETYPE="IDREF" FILEID="casebody_0444"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_928.10" BETYPE="IDREF" FILEID="alto_00464_1"/>
+            <area BEGIN="BL_928.11" BETYPE="IDREF" FILEID="alto_00464_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b928-3" BETYPE="IDREF" FILEID="casebody_0444"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_928.6" BETYPE="IDREF" FILEID="alto_00464_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b928-12" BETYPE="IDREF" FILEID="casebody_0444"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_928.16" BETYPE="IDREF" FILEID="alto_00464_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANL" BETYPE="IDREF" FILEID="casebody_0444"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_928.7" BETYPE="IDREF" FILEID="alto_00464_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

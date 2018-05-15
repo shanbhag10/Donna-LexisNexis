@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0035" publicationstatus="published">
+          <court abbreviation="C.C.S.D. Ohio" jurisdiction="United States">United States Circuit Court for the Southern District of Ohio</court>
+          <name abbreviation="Dunlevy v. Mowry">DUNLEVY v. MOWRY</name>
+          <docketnumber>Case No. 4,165</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 86</citation>
+          <citation category="parallel" type="bluebook">2 Bond, 214</citation>
+          <decisiondate>1868-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00044_1" MIMETYPE="image/tiff" CHECKSUM="38577ce6f4d914584901dd56b4596cc5" CHECKSUMTYPE="MD5" SIZE="95164">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00044_1.tif"/>
+      </file>
+      <file ID="tiff_00045_0" MIMETYPE="image/tiff" CHECKSUM="664c82b20eeeb31d18c943d28e226703" CHECKSUMTYPE="MD5" SIZE="89610">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00045_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00044_1" MIMETYPE="image/jp2" CHECKSUM="87b4ac75d223266841d334b9573beffc" CHECKSUMTYPE="MD5" SIZE="3478566">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00044_1.jp2"/>
+      </file>
+      <file ID="jp2_00045_0" MIMETYPE="image/jp2" CHECKSUM="c891ff4101731a95435d42d3dae2096a" CHECKSUMTYPE="MD5" SIZE="3330311">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00045_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00044_1" MIMETYPE="text/xml" CHECKSUM="8379648118e10d429a2126fec77d804e" CHECKSUMTYPE="MD5" SIZE="210216">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00044_1.xml"/>
+      </file>
+      <file ID="alto_00045_0" MIMETYPE="text/xml" CHECKSUM="922bfa5cbb5beab9eee4ddaf243d5dca" CHECKSUMTYPE="MD5" SIZE="199633">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00045_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0035" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="87" firstpage="86">
+              <court id="b88-14" pgmap="88">Circuit Court, S. D. Ohio.</court>
+              <docketnumber id="b88-11" pgmap="88">Case No. 4,165.</docketnumber>
+              <citation id="b88-13" pgmap="88">[2 Bond, 214.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b88-12" pgmap="88">DUNLEVY v. MOWRY.</parties>
+              <decisiondate id="AHy" pgmap="88">Oct. Term, 1868.</decisiondate>
+              <attorneys id="b89-7" pgmap="89">R, M. Oorwine, for plaintiff.</attorneys>
+              <attorneys id="b89-8" pgmap="89">Burnett &amp; Follett, for defendant</attorneys>
+              <footnote label="1">
+                <p id="b88-17" pgmap="88">1 [Reported by Lewis H. Bond, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p id="b89-9" pgmap="89">CHARGE OF THE COURT. The material facts touching the controversy between these parties are not in dispute. The facts seem to be, in substance, that in the year 1859, the plaintiff was the holder and owner of twenty-­one thousand dollar bonds of the Covington and Lexington Railroad, secured by the third mortgage on the road. The defendant, at the same time, was the owner of sixty-one bonds of $1,000 each, which he desired to sell. The plaintiff transferred to the de­fendant the twenty-one bonds held by him, with the understanding, as he claims, that the defendant was to account to him for the amount for which the bonds should be sold. The plaintiff alleges that in September, 1859, the defendant made a sale of eighty-one bonds, including the twenty-one transferred by him, at the rate of fifty cents' on the dol­lar; and that defendant reported the sale at only thirty-seven and a half cents on the dol­lar, at which rate he settled with the plain­tiff.</p>
+                <p id="b89-10" pgmap="89">The claim in this action is for the differ­ence between fifty and thirty-seven and a half cents on the dollar on the twenty-one bonds transferred by the plaintiff to the de­fendant. The defendant has filed the plea of the general issue, which denies the cause of action, and also a plea of the statute of limitations. Both the parties have testified as witnesses in the case, and the only question for the decision of the jury is, whether from the facts in evidence there was an absolute sale of the twenty-one bonds to the defendant at the rate he might be able to effect a sale in the market, or whether they were put into his hands, as the agent or bailee of the plaintiff, with the implied understanding that the defendant was to account for the pro­ceeds at the rate at which a fair sale should be effected. The jury have heard the evi­dence adduced by the parties bearing upon this issue. It is not the intention of 'the court to detain the jury by any detailed statement of the facts in proof. They will decide for themselves upon the weight and conelusive­ness of the evidence. And it will be only necessary for the court to remind the jury, that if, as claimed by the defendant, there was a positive sale by the plaintiff of the twenty-one bonds at a price agreed on, ihe absolute property in the bonds was thereby vested in the defendant, and he had a per­fect right to sell them at the best price he could procure, and he can not be held liable to the plaintiff beyond the rate agreed to be paid. If he purchased at thirty-seven and a half for the dollar and sold at fifty cents, the advance or profit belongs to him. On the other hand, if the jury find that without any price named or agreed on when the twenty-­one bonds were delivered to the defendant, he took them as the agent or bailee of the plaintiff, it is beyond dispute that he is bound to account for the actual price for which they were sold, subject only to a deduction for reasonable charges for commission. And here it is suggested as worthy of the consid­eration of the jury, whether the evidence of the defendant establishes the fact of an ab­solute sale of the bonds. If his statement was understood by the court, it was to the effect that the bonds were placed in his hands by the plaintiff to be disposed of on the same terms as his own. And if the jury find this to be the true character of this transaction, and that the bonds were sold at fifty cents on the dollar, and that the defendant ac­counted to the plaintiff at the rate of thirty-­seven and a half cents on the dollar, it follows clearly as a legal result, that the de­fendant is liable to the plaintiff for the dif­ference between those two rates.</p>
+                <p id="b89-12" pgmap="89">It is not necessary to discuss the question arising on the pica of the statute of limita­tions, for the statute can not be held to com­mence running until the plaintiff was ap­prised of the fact that the bonds were sold at a higher rate than that at which the defend­ant accounted to the plaintiff. The claim for the difference, for which this action is brought, dates only from the time when the plaintiff became acquainted with the actual price for which the bonds were sold. The statute of Ohio fixes the bar at six years, but six years had not elapsed between that dis­covery and the commencement of this action. In this view, it is clear the plaintiff’s claim is not barred.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="88" ORDERLABEL="86" TYPE="page">
+        <fptr FILEID="tiff_00044_1"/>
+        <fptr FILEID="jp2_00044_1"/>
+        <fptr FILEID="alto_00044_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_88.6" BETYPE="IDREF" FILEID="alto_00044_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="89" ORDERLABEL="87" TYPE="page">
+        <fptr FILEID="tiff_00045_0"/>
+        <fptr FILEID="jp2_00045_0"/>
+        <fptr FILEID="alto_00045_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_89.3" BETYPE="IDREF" FILEID="alto_00045_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-8" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.11" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-9" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.12" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-14" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.16" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-17" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.20" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-11" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.13" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-7" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.10" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHy" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.17" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-13" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.15" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b88-12" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.14" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-12" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.15" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-10" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.13" BETYPE="IDREF" FILEID="alto_00045_0"/>
+            <area BEGIN="BL_89.14" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

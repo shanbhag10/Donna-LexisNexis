@@ -1,0 +1,326 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0087" publicationstatus="published">
+          <court abbreviation="C.C.D. Pa." jurisdiction="United States">United States Circuit Court for the District of Pennsylvania</court>
+          <name abbreviation="Isaacs v. Cooper">ISAACS v. COOPER et al.</name>
+          <docketnumber>Case No. 7,096</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 153</citation>
+          <citation category="parallel" type="bluebook">4 Wash. C. C. 259; 1 Robb, Pat. Cas. 332</citation>
+          <decisiondate>1821-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00078_0" MIMETYPE="image/tiff" CHECKSUM="16be984863807cd8525d50253ff3b949" CHECKSUMTYPE="MD5" SIZE="100254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00078_0.tif"/>
+      </file>
+      <file ID="tiff_00078_1" MIMETYPE="image/tiff" CHECKSUM="bad198b597e31c50fc96042f1e0fdb43" CHECKSUMTYPE="MD5" SIZE="84310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00078_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00078_0" MIMETYPE="image/jp2" CHECKSUM="fe9bd0caa0fd8c2adaa56786bebf6525" CHECKSUMTYPE="MD5" SIZE="3501941">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00078_0.jp2"/>
+      </file>
+      <file ID="jp2_00078_1" MIMETYPE="image/jp2" CHECKSUM="a6362c51582f83251ea52ab78269af98" CHECKSUMTYPE="MD5" SIZE="3031268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00078_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00078_0" MIMETYPE="text/xml" CHECKSUM="c86548ac615bbad494f9450d1c35575f" CHECKSUMTYPE="MD5" SIZE="212194">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00078_0.xml"/>
+      </file>
+      <file ID="alto_00078_1" MIMETYPE="text/xml" CHECKSUM="6fe0a5af151aa62ded0a673b8c644ad2" CHECKSUMTYPE="MD5" SIZE="171941">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00078_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0087" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="154" firstpage="153">
+              <court pgmap="155" id="b155-8">Circuit Court, Pennsylvania.<footnotemark>2</footnotemark>
+              </court>
+              <docketnumber pgmap="155" id="b155-5">Case No. 7,096.</docketnumber>
+              <citation pgmap="155" id="b155-7">[4 Wash. C. C. 259; <footnotemark>1</footnotemark> 1 Robb, Pat. Cas. 332.]</citation>
+              <parties pgmap="155" id="b155-6">ISAACS v. COOPER et al.</parties>
+              <decisiondate pgmap="155" id="AQaK">Oct. Term, 1821.</decisiondate>
+              <footnote label="1">
+                <p pgmap="155" id="b155-16">1 [Originally published from the MSS. of Hon. Bushrod Washington, Associate Justice of the Supreme Court of the United States, under the supervision of Richard Peters, Jr., Esq.]</p>
+              </footnote>
+              <footnote label="2">
+                <p pgmap="155" id="b155-17">2 .[District not given.)</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="155" id="b155-15">WASHINGTON, Circuit Justice.</author>
+                <p pgmap="155" id="Ary">This case comes before the court upon a motion for an injunction. The plaintiff, by his bill, ■claims to be the proprietor of “an improve­ment on the horizontal circular plane or wheel, invented by him, for the purpose of gaining power by applying animal weight to the propelling of boats on water, or to machinery on land;” which, the bill charges, was secured to him by a patent dated the 17th of November, 1S19, and that the spe­cification was filed in the patent-office on the 13th of April, 1818. The specification states, that “the method used in this new invention is to have the animals harnessed to any par­ticular part of the boat, or machinery, and to have them acting, or walking on the deck, or on a movable or fixed platform, square, cir­cular, or of any other shape — the same be­ing fixed to a perpendicular shaft, and con­nected by cog-wheels, so as to act on the water-wheel. By which new position or place in the boat, on which the animals are kept in action, two or four horses will perform, and save the labor of from twelve to twenty when kept moving in the ordinary method at present used in team-boats.” The bill sets forth a certificate of the secretary of state that the specification on which the plaintiff’s patent was issued, dated New York, April 9th, 1818, was received and filed in the pat­ent-office, on the 13th of April, 1818.</p>
+                <p pgmap="155(369) 156(171)" id="b155-19">The bill charges that the defendants have in use team-boats upon the construction stated' in his patent, and prays for an injunction against their continuing to use the same. The answer of four of the defendants admits that the defendants use team-boats on the Dela­ware, under a license from a Mr. Bangdon, dated 2d of September, 1820, to use boats constructed according to the plan and im­provement secured to the said Langdon by patent dated the 5th of June, 1819, and that they have had the said boats in use since the date of their license. It denies that the plain­tiff has used or sold his alleged improvement, or that he, or any other person, has practi­cally tested the use or value of his asserted discovery; that the boats used by the de­fendants do not interfere with the plaintiff’s patent; and finally, that the plaintiff’s patent is void, on account of the defective descrip­tion given of the alleged improvement in the specification. After the coming in of this answer, and an unsuccessful motion for an injunction, because the bill did not state that the plaintiff had ever sold or used his improve­ment, the plaintiff, having obtained leave for that purpose, amended his bill by stating that the plaintiff was, and is, in the actual and profitable enjoyment of his said improve­ment, and has constructed, and caused to be constructed, several boats upon the principles of his said improvement, and has sold four of them for valuable consideration. No an­swer has been put in to the amended bill. The practice of the court of equity, upon motions of this kind, is to grant an injunction upon the filing of the bill, and before a trial at law, if the bill state a clear right, and verify the same by affidavit. If the bill states, an exclusive possession of the invention, or discovery for which the plaintiff has obtained a patent, an injunction is granted, although the court may feel doubts as to the validity of the patent. But if the defects in the pat­ent. or specification, are so glaring that the court can entertain no doubt as to that point, it would be most unjust to restrain tbe de­fendant from using a machine or other thing which he may have constructed, probably at great expense, until a decision at law can be had. The possession of the patentee against all mankind is stated by Lord Eldon, in Hill v. Thompson, 14 Ves. 132, note, to have been the ground on which the injunction was granted in the disputed patent of Watts. But, says the same judge, where the patent is modern, and an injunction is applied for, and 'Objections are made to the specification, or to the validity of the patent, the court will not, from its own notions respecting the mat­ter in dispute, act on the presumed validity, or invalidity of the patent, without the right having been previously ascertained at law; and witl not grant the injunction till the plain­tiff has established the validity of his pat­ent at law, which the court will order. 3 Mer. 624, 628; 6 Ves. 707; Coop. Eq. Pl. 158.</p>
+                <p pgmap="156" id="b156-4">The objections to the interposition of the court, by injunction, in this case, are numer­ous and insurmountable. The following are the most prominent. 1. It appears by the answer, that Langdon’s patent was prior in date to the- plaintiff’s, and that he was in the full enjoyment and possession of it, by the sale of licenses, and the use of boats constructed upon the plan of his patent and specification. It is true that the secretary of the state has certified that the plaintiff’s specification was filed in the patent-office in April, 1818. But that specification cannot possibiy be the one upon which the patent stated in the bill was granted, because that is without date, and the specification men­tioned in the certificate is described as being dated at New York, April 9th, 1818. 2. The bill, even with the amendment, does not state an exclusive possession of the plaintiff’s dis­covery at any time since the emanation of his patent. The amended bill charges that the plaintiff was and is, in the actual en­joyment of his improvement; that he has constructed boats upon the principles of it, and has sold four of them. But when were these acts performed? For aught that ap­pears, they may have been subsequent to the practical employment by the defendants and others of the right acquired under Lang-­don’s patent. 3. The answer positively de­nies that allegation in the bill which charges that the defendants have in use boats upon the plan of the plaintiff’s asserted improve­ment, and avers that the boats which they have in use do not interfere with the plain­tiff’s patent 4. The last, and by no means the least fatal objection, is to the patent and specification, which are so manifestly defect­ive, that the court ought not to interpose until the plaintiff shall have established his right at law, if he can do so. The patent is for an improvement on the horizontal wheel, invented by the plaintiff. But what the na­ture of the invention was upon which this is alleged to be an improvement, ■ is not stated. Was it patented; and if not, is there any other source of information to which others can resort, in order to find it out, so as to enable them to distinguish the improvement from the original invention, and, in uiat way, to discover in what the improvement consists? Neither the patent or specification affords the slightest information upon those points. The invention alluded to may, for aught that ap­peal’s, be known to no other person than the plaintiff. How then can any human being, however skilful in the art, find out, with cer­tainty, or even conjecture, in what the im­provement consists, from the patent itself, or from the records in the patent office? If the original invention had been patented, the specification should at least have referred, and plainly described it. If it was not, it should have stated what that invention was, and in what the improvement consists. As the matter stands, the nature of the improve­ment is altogether unintelligible.</p>
+                <p pgmap="156" id="b156-6">The injunction is denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="155" ORDERLABEL="153" TYPE="page">
+        <fptr FILEID="tiff_00078_0"/>
+        <fptr FILEID="jp2_00078_0"/>
+        <fptr FILEID="alto_00078_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_155.3" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="156" ORDERLABEL="154" TYPE="page">
+        <fptr FILEID="tiff_00078_1"/>
+        <fptr FILEID="jp2_00078_1"/>
+        <fptr FILEID="alto_00078_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_156.4" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.7" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-19" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.24" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            <area BEGIN="BL_156.1" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-16" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.22" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-4" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.5" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            <area BEGIN="BL_156.6" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-15" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.18" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-6" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.8" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-7" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.9" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-5" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.7" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ary" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.19" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            <area BEGIN="BL_155.20" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            <area BEGIN="BL_155.21" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-17" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.23" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQaK" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.11" BETYPE="IDREF" FILEID="alto_00078_0"/>
+            <area BEGIN="BL_155.12" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b155-8" BETYPE="IDREF" FILEID="casebody_0087"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_155.10" BETYPE="IDREF" FILEID="alto_00078_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

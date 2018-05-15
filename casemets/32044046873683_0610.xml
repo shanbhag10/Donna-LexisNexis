@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0610" publicationstatus="published">
+          <court abbreviation="C.C.E.D. Pa." jurisdiction="United States">United States Circuit Court for the Eastern District of Pennsylvania</court>
+          <name abbreviation="Fellows v. Pedrick">FELLOWS v. PEDRICK</name>
+          <docketnumber>Case No. 4,724</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1134</citation>
+          <citation category="parallel" type="bluebook">4 Wash. C. C. 477</citation>
+          <decisiondate>1824-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00568_1" MIMETYPE="image/tiff" CHECKSUM="2c74780fbd977a473d09702a2e030b7a" CHECKSUMTYPE="MD5" SIZE="45622">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00568_1.tif"/>
+      </file>
+      <file ID="tiff_00569_0" MIMETYPE="image/tiff" CHECKSUM="a324974e9cb1054c58dac420496a57a1" CHECKSUMTYPE="MD5" SIZE="66740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00569_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00568_1" MIMETYPE="image/jp2" CHECKSUM="01e3fe98fc7e6fce3a57e8da558528ec" CHECKSUMTYPE="MD5" SIZE="2028700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00568_1.jp2"/>
+      </file>
+      <file ID="jp2_00569_0" MIMETYPE="image/jp2" CHECKSUM="078900fbbe5c081a1aa9f446cf924ac6" CHECKSUMTYPE="MD5" SIZE="2660594">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00569_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00568_1" MIMETYPE="text/xml" CHECKSUM="b1417b49df5c81e0cf4ae1c5ef91ec02" CHECKSUMTYPE="MD5" SIZE="86203">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00568_1.xml"/>
+      </file>
+      <file ID="alto_00569_0" MIMETYPE="text/xml" CHECKSUM="4636a344961ba54f5f03f14419a1e8bb" CHECKSUMTYPE="MD5" SIZE="138513">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00569_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0610" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1135" firstpage="1134">
+              <court id="b1136-8" pgmap="1136">Circuit Court, E. D. Pennsylvania.</court>
+              <docketnumber id="b1136-5" pgmap="1136">Case No. 4,724.</docketnumber>
+              <citation id="b1136-7" pgmap="1136">[4 Wash. C. C. 477.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1136-6" pgmap="1136">FELLOWS v. PEDRICK.</parties>
+              <decisiondate id="ASD_" pgmap="1136">Oct. Term, 1824.</decisiondate>
+              <attorneys id="b1137-3" pgmap="1137">Mr. Rawle, for plaintiff.</attorneys>
+              <attorneys id="b1137-4" pgmap="1137">Mr. Tilghman, for defendant.</attorneys>
+              <footnote label="1">
+                <p id="b1136-13" pgmap="1136">1 [Originally published from the MSS. of Hon. Bushrod Washington, Associate Justice of the Supreme Court of the United States, under the supervision of Richard Peters, Jr., Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1137-5" pgmap="1137">WASHINGTON, Circuit Justice</author>
+                <p id="AXoT" pgmap="1137">(charging jury). The plaintiff has laid before the court an unexceptionable paper title, from the warrant down to the conveyance of the land in dispute to himself. An objection has been made to the length of time which in­tervened between the survey of the warrant, and its return to the office. But as the de­fendant does not set up a title under the state adverse to the plaintiff’s, it is not com­petent for him to charge the plaintiff with negligence in any of the steps taken previous to the grant. It is sufficient that the survey was returned and accepted at the land office.</p>
+                <p id="b1137-6" pgmap="1137">The defendant sets up no title under the state, and as to the title under Dyer, which appears to have been derived under Con­necticut, it cannot avail him for any pur­pose whatever. How far it destroys his title by length of possession, will depend up­on the correct construction of the acts of 1800 and 1813, which are relied upon by the plaintiff’s counsel. It is perfectly clear, that, if the act of 1813 had not passed, the act of limitation could not be set up in a case where the defendant claims, or has at any time claimed «title under the Susquehanna Company, or in any way under the state of Connecticut, to lands within this state. What then is the effect of the act of 1813? We think it is merely to repeal the repeal­ing act of 1800, after two years from the date of the former act, except as to those persons who should bring their actions with­in the two years; and as to them, the act of 1800 continues in force in like manner as if the act of 1813 had never passed. The consequence is, that, against those who brought their actions within the two years, no person claimiug, or who has claimed title under Connecticut, can, at any time, set up a title by possession, either as a bar, or as a ground of recovery in ejectment To give to the act 1813 the construction contended for by the defendant’s counsel, would be to render it absurd, and altogether inefficient It would make the act declare, that though possession should give no title to the defend­ant in the action which should be com­menced within the two years, it should, nev­ertheless, give him a title in the action which he might bring, immediately after he was turned out of possession, to recover back the land. This could have no other effect but to encourage litigation, since an eject­ment to recover back the land, would, in all cases, be brought, if the title of possession could, in such action, be asserted. It would have been much better for all parties not to have made the exception at all, if such was its meaning, and have permitted-the de­fendant, in the first ejectment, to set up his possession as a bar.</p>
+                <p id="b1137-9" pgmap="1137">The opinion of the court, therefore, is, that the plaintiff is not barred by the twenty-one years possession of the defendant, prior to the recovery against him by Dewitt</p>
+                <p id="b1137-10" pgmap="1137">Verdict for plaintiff.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1136" ORDERLABEL="1134" TYPE="page">
+        <fptr FILEID="tiff_00568_1"/>
+        <fptr FILEID="jp2_00568_1"/>
+        <fptr FILEID="alto_00568_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1136.4" BETYPE="IDREF" FILEID="alto_00568_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1137" ORDERLABEL="1135" TYPE="page">
+        <fptr FILEID="tiff_00569_0"/>
+        <fptr FILEID="jp2_00569_0"/>
+        <fptr FILEID="alto_00569_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1137.5" BETYPE="IDREF" FILEID="alto_00569_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASD_" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1136.12" BETYPE="IDREF" FILEID="alto_00568_1"/>
+            <area BEGIN="BL_1136.13" BETYPE="IDREF" FILEID="alto_00568_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1137-4" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.8" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXoT" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.10" BETYPE="IDREF" FILEID="alto_00569_0"/>
+            <area BEGIN="BL_1137.11" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1137-10" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.15" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1136-6" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1136.9" BETYPE="IDREF" FILEID="alto_00568_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1136-13" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1136.19" BETYPE="IDREF" FILEID="alto_00568_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1137-3" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.7" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1136-7" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1136.10" BETYPE="IDREF" FILEID="alto_00568_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1136-5" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1136.8" BETYPE="IDREF" FILEID="alto_00568_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1137-6" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.12" BETYPE="IDREF" FILEID="alto_00569_0"/>
+            <area BEGIN="BL_1137.13" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1137-5" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.9" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1137-9" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.14" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1136-8" BETYPE="IDREF" FILEID="casebody_0610"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1136.11" BETYPE="IDREF" FILEID="alto_00568_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

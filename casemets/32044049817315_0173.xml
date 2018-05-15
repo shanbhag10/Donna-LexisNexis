@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0173" publicationstatus="published">
+          <court abbreviation="C.C.D. Pa." jurisdiction="United States">United States Circuit Court for the District of Pennsylvania</court>
+          <name abbreviation="James v. Gordon">JAMES v. GORDON et al.</name>
+          <docketnumber>Case No. 7,181</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 306</citation>
+          <citation category="parallel" type="bluebook">1 Wash. C. C. 333</citation>
+          <decisiondate>1806-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00154_1" MIMETYPE="image/tiff" CHECKSUM="4b2381abbd6200ee9bb9150a6c8e533e" CHECKSUMTYPE="MD5" SIZE="81054">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00154_1.tif"/>
+      </file>
+      <file ID="tiff_00155_0" MIMETYPE="image/tiff" CHECKSUM="4f125e675927915160a6d6f182ce90a5" CHECKSUMTYPE="MD5" SIZE="98344">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00155_0.tif"/>
+      </file>
+      <file ID="tiff_00155_1" MIMETYPE="image/tiff" CHECKSUM="0e771859de5c9ad63f155264cc38eebe" CHECKSUMTYPE="MD5" SIZE="114682">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00155_1.tif"/>
+      </file>
+      <file ID="tiff_00156_0" MIMETYPE="image/tiff" CHECKSUM="39c6d23b1b3cac369df179d029aece5f" CHECKSUMTYPE="MD5" SIZE="63522">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00156_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00154_1" MIMETYPE="image/jp2" CHECKSUM="157a629b695ce3f31bab252f21554694" CHECKSUMTYPE="MD5" SIZE="3078556">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00154_1.jp2"/>
+      </file>
+      <file ID="jp2_00155_0" MIMETYPE="image/jp2" CHECKSUM="dcd545bf1affdb0aeae8b3d31aa6e7d6" CHECKSUMTYPE="MD5" SIZE="3537291">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00155_0.jp2"/>
+      </file>
+      <file ID="jp2_00155_1" MIMETYPE="image/jp2" CHECKSUM="31319bcc0612eaee70e947e2446c930a" CHECKSUMTYPE="MD5" SIZE="3839774">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00155_1.jp2"/>
+      </file>
+      <file ID="jp2_00156_0" MIMETYPE="image/jp2" CHECKSUM="a7f68a4aeea3b51f35d94e18eb46e534" CHECKSUMTYPE="MD5" SIZE="2789756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00156_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00154_1" MIMETYPE="text/xml" CHECKSUM="b2918740bee41eb769d55387db530926" CHECKSUMTYPE="MD5" SIZE="166525">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00154_1.xml"/>
+      </file>
+      <file ID="alto_00155_0" MIMETYPE="text/xml" CHECKSUM="4a7d5dd157eb35f4394328b09b933aba" CHECKSUMTYPE="MD5" SIZE="216557">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00155_0.xml"/>
+      </file>
+      <file ID="alto_00155_1" MIMETYPE="text/xml" CHECKSUM="68a1986ba34265f9d6b892d07a036114" CHECKSUMTYPE="MD5" SIZE="247051">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00155_1.xml"/>
+      </file>
+      <file ID="alto_00156_0" MIMETYPE="text/xml" CHECKSUM="9a5d880ac68b62bd66899945e206f050" CHECKSUMTYPE="MD5" SIZE="130377">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00156_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0173" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="309" firstpage="306">
+              <court pgmap="308" id="AU8">Circuit Court, D. Pennsylvania.</court>
+              <docketnumber pgmap="308" id="b308-7">Case No. 7,181.</docketnumber>
+              <citation pgmap="308" id="AoL">[1 Wash. C. C. 333.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="308" id="AW0">JAMES v. GORDON et al.</parties>
+              <decisiondate pgmap="308" id="Am8">Oct. Term, 1806.</decisiondate>
+              <footnote label="1">
+                <p pgmap="308" id="b308-19">1 [Originally published from the MSS. of Hon. Bushrod Washington, Associate Justice of the Supreme Court of the United States, under the supervision of Richard Peters, Jr., Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="309" id="b309-4">WASHINGTON, Circuit Justice.</author>
+                <p pgmap="309" id="ACn">It is a .great inaccuracy, to say, that the legal title was in Drumgold. The warrant merely gave him an equitable title, and not that, unless he paid the money; and the questions are, whether the warrant was applied for by him, or by Peters &amp; Clark; and whether this is not a proper case to leave to the jury, to presume that the warrant was really taken out by those who paid the money, and who merely used the name of Drumgold as a :nominal person, a practice common -in this state, where one man takes out many war­rants? The warrant, issued in 1763, is paid for in 1765, by Peters &amp; Clark, who had it ■executed and returned; and it is received for their use. The defendant does not pre­tend to claim under Drumgold, or to show .a subsisting right in any person under him; and the plaintiff appears in court, with the original warrant as one of his' title papers. The jury may certainly presume, that the .name of Drumgold was merely used • by Peters and Clark, the real grantees. Mo­tion overruled.</p>
+                <p pgmap="309" id="b309-5">The defendant read an agreement, between ■George Crogham on the one part, and Wil­liam Peters, J. Warden and A. James, as­signees of Clark, in which is recited a deed formerly made by Crogham to Peters and Clark, of a number of tracts of land, to .secure a debt from Crogham, which was then proved; and stipulating for a re-conveyance, on certain terms, of particular parts of the land, to be ascertained and determined by Arbitrators. A copy of the award, from the records of one of the courts, attested by the proper officer, was now offered; and •objected to, because not a paper directed by law to be recorded. The law of 1715, au­thorizes the recording of all deeds and con­veyances, of, and concerning lands, or where­by they may be in any manner affected, to be acknowledged by the grantors, or proved by two witnesses; or if they be dead, or cannot be had, their handwriting may be proved, or if not, then that of the grantors. In this case, the signatures of the arbitrators were proved, and of one of the witnesses; but it does not appear that the witness could not be had. The objections were: 1st. That this was not a -deed; 2d. If it were, the other witness should have proved it, or it should appear that he could not be had.— Answer. That the defendants do not claim under this award, but it was a paper put on record by Peters '&amp; Clark. That this is a paper connected with the agreement to which it refers, and it does affect land.</p>
+                <p pgmap="309" id="b309-7">BY THE COURT. The law clearly relates to deeds, and this is not a deed; of course an attested copy given by an officer, who is not directed by law to record it, is not evidence. If the original were lost, or in possession of the adverse party, the contents might be proved by a witness; but the attestation of the clerk is not evidence.</p>
+                <p pgmap="309" id="b309-8">The defendant offered a paper in evidence, signed by Richard Peters, as attorney for William Peters.</p>
+                <p pgmap="309" id="b309-9">BY THE COURT. You must produce the power of attorney, under which the agent acted. '</p>
+                <p pgmap="309" id="b309-10">Thé defendant then offered a deed, dated in 1774, from the commissioners for selling lands, on which the taxes had not been paid, to the person under whom the defendant claim­ed; he being the highest bidder. Objected to, because it did not appear that assessors had been appointed; and in cases of this kind, the greatest strictness is required, in prov­ing that every requisite of the law was com­plied with. The law required the assess­ment to be made by the court and district assessors, and It should be shown that the latter were regularly appointed; and a num­ber of strong cases were read, decided in the supreme court, in support of this doctrine, as applied to sales for non-payment of taxes, and other similar cases.</p>
+                <p pgmap="309" id="b309-11">BY THE COURT. This point may be re­served till we have gone through the open­ing; because the rule laid down, that every delegated authority, particularly to deprive men of their property, contrary to the rules of the common law, should appear to be strictly pursued; yet it may be an important question, whether a defendant, who has for a great number of years been in quiet pos­session, under such sales, may not call in the aid of presumptions, which would not be allowed to a person out of possession.</p>
+                <p pgmap="309(138) 310(78)" id="b309-12">The defendant then offered a deed, dated in 1787, signed by the commissioners, for another part of the land in question, which concludes thus, “as witness our hands, and to which we have caused our common seal to be affixed.” There are three seals in the upper margin of the deed. The grantors acknowledged the deed, in court, to be their act and deed. This was objected to, be­cause it was sealed with a common seal; whereas the law directs a deed to be given by the commissioners, under their hands and seals. Instead of affixing their individual seals, they put a common seal, as if they were a corporate body. Another objection to the deed was, that the laws, preceding the first sale, did not authorize the commissioners to convey, though it authorized them to sell. The words are nearly as follows, “that If the taxes are not paid within a certain time, the commissioners shall sell so much, as may be necessary to raise the sum due, and upon all sales made by the sheriff or coroner as aforesaid, the said sheriff, &amp;c. shall con­vey.” So that whether the sheriff is to con­vey, or the commissioners, it is casus omis-­sus. The deed was directed to be read with­out prejudice.</p>
+                <p pgmap="310" id="b310-3">The principal questions in the cause were, 1st, whether in fact the land .sold, and in the possession of the defendants, is the land mentioned in the warrant granted to F. Drumgold, and surveyed for him; or wheth­er it is not the land granted to James Maze, in whose name it was sold? If the former, then the plaintiff produced the receipts for the taxes, due at the time of the first sale. 2d. Objection, that the assessors were nom­inated by the commissioners, instead of be­ing elected by the freeholders, as the law of 175S directed; and that the conveyance was made by the commissioners, without au­thority. These objections went to the first sale and conveyance in 1774. 3d. As to the sale and conveyance in 1787, it was admit­ted, that, by the law of 1702, the commis­sioners are to convey, but they are to do so under their hands and seals; and this con­veyance is made under their common seal. Many decisions by the supreme court of this state, were referred to, in which it was de­termined, that the party claiming lands un­der these sales, was obliged to prove the regularity of the proceedings in every point, and even the notice of the commissioners was deemed necessary, in the case of Wees-­ter v. Cameron [unreported].</p>
+                <p pgmap="310" id="b310-5">WASHINGTON, Circuit Justice (charging jury). Perplexed as this case has been ren­dered, by the mode in which it has been con­ducted, it now appears to turn within a very narrow compass, and to depend upon the as­certainment of a single fact, which will be left to you; that is, whether the land now in possession of the defendants, and which they claim under deeds from the commis­sioners of taxes, is the land surveyed in the name of Francis Drumgold or not. If it be not, then the plaintiff cannot succeed in this action; because the foundation of his title is a warrant, taken out in the name of Fran­cis Drumgold, in 1763. The consideration money was paid by Peters &amp; Clark, in 1765, for a survey of 516*4 acres in the same year, and returned and accepted into the office, in 1770, for the use of the assignees of Daniel Clark, under whom the lessor of the plaintiff deduces his title. Now, this being the title, if the defendants are not in possession of this land, the plaintiff must fail, whether the defendants have title or not. On the other hand, if this be the land surveyed for Francis Drumgold, then the plaintiff is clear­ly entitled to recover, because the only title of the defendants is derived from a convey-­anee from the commissioners; who acknowl­edged in the deed itself, that the land so conveyed had been sold, as the land of J. Maze, for non-payment of taxes. I there­fore put out of the. question all the other ob­jections made to the legality of the sale, since it is clear, from the deed itself, that it was advertised, and in every respect treated as J. Maze’s land; and therefore the notice re­quired by law to be given, was in this case worse than omitted, since it misdescribed the land. To prove that this is the land granted in the name of Francis Drumgold, the plaintiff relies upon the survey itself, which corresponds expressly in courses, dis­tances, calls of adjoining lands, and quan­tity, to a quarter of an acre. Besides this, he has the evidence of Mr. Taylor, a wit­ness, whose credit has not been impeached, who swears positively to the fact. Against this is opposed, a draught or diagram, of a number of tracts of land, made in conse­quence of a warrant of resurvey, ordered by the board of property in 1788, at the request of Doctor Smith, who was tenant in com­mon with Peters &amp; Clark, in a great num­ber of warrants, issued to them in 1763, in different names; of which that to Francis Drumgold was one. To this warrant of re­survey, is annexed a list of those warrants, amongst which, are two to James Maze, one to Francis Drumgold adjoining Maze; and the one in question, adjoins this other tract. The surveyor was directed to lay down these tracts, to show their interferences, and what parts had been sold for taxes. Upon the diagram thus returned, the land in question is marked for James Maze’s land, and two-­tracts adjoining it are marked for Francis Drumgold.</p>
+                <p pgmap="310(221) 311(56)" id="b310-8">Upon this piece of evidence, the following considerations occur to me; which I deem it my duty to submit to the jury. 1st. This resurvey was made twenty-three years after the original survey was made; and as the surveyor does not inform us by what evi­dence he was guided in locating these sever­al tracts of land, its accuracy may well be doubted. 2d. It does not appear, that a sur­vey for James Maze, or of Francis Drum-­gold’s other tract, ever was made; for they are not mentioned in the original list of sur­veys returned in 1770, and accepted for the' use of the assignees of Clark; and it is there­fore probable, that these were lost warrants. 3d. The tract laid down on this paper, as James Maze’s, corresponds with the survey originally made for Francis Drumgold, in courses, distances, calls of adjoining tracts, and in quantity, to a quarter of an acre; whereas that laid down for Francis Drum-­gold, has no resemblance to the original sur­vey in any of these particulars, and is more than 100 acres short in quantity. 4th. G. Woods, who received in 1774 and 1776, the taxes due on Francis Drumgold's land, is admitted by both sides to have been well acquainted with these lands; and in that re­ceipt, he calls It Francis Drumgold's land, and distinguishes it by the precise quantity, to wit: of 516% acres. The jury then must decide this fact, whether the land sold was for Francis Drumgold or not: if they are satisfied that it was, their verdict must be for the plaintiff; if otherwise, then for the defendant.</p>
+                <p pgmap="311" id="b311-3">Verdict for plaintiff.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="308" ORDERLABEL="306" TYPE="page">
+        <fptr FILEID="tiff_00154_1"/>
+        <fptr FILEID="jp2_00154_1"/>
+        <fptr FILEID="alto_00154_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_308.6" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="309" ORDERLABEL="307" TYPE="page">
+        <fptr FILEID="tiff_00155_0"/>
+        <fptr FILEID="jp2_00155_0"/>
+        <fptr FILEID="alto_00155_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_309.3" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="310" ORDERLABEL="308" TYPE="page">
+        <fptr FILEID="tiff_00155_1"/>
+        <fptr FILEID="jp2_00155_1"/>
+        <fptr FILEID="alto_00155_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_310.4" BETYPE="IDREF" FILEID="alto_00155_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="311" ORDERLABEL="309" TYPE="page">
+        <fptr FILEID="tiff_00156_0"/>
+        <fptr FILEID="jp2_00156_0"/>
+        <fptr FILEID="alto_00156_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_311.7" BETYPE="IDREF" FILEID="alto_00156_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoL" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.11" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AU8" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.12" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AW0" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.10" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b308-19" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.23" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-7" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.10" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACn" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.6" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            <area BEGIN="BL_309.7" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-5" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.8" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            <area BEGIN="BL_309.9" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-4" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.5" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-9" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.12" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b308-7" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.9" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b310-3" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_310.5" BETYPE="IDREF" FILEID="alto_00155_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-8" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.11" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b310-5" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_310.6" BETYPE="IDREF" FILEID="alto_00155_1"/>
+            <area BEGIN="BL_310.7" BETYPE="IDREF" FILEID="alto_00155_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b310-8" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_310.8" BETYPE="IDREF" FILEID="alto_00155_1"/>
+            <area BEGIN="BL_311.5" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Am8" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_308.13" BETYPE="IDREF" FILEID="alto_00154_1"/>
+            <area BEGIN="BL_308.14" BETYPE="IDREF" FILEID="alto_00154_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b311-3" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_311.9" BETYPE="IDREF" FILEID="alto_00156_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-11" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.14" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-10" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.13" BETYPE="IDREF" FILEID="alto_00155_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b309-12" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_309.15" BETYPE="IDREF" FILEID="alto_00155_0"/>
+            <area BEGIN="BL_310.1" BETYPE="IDREF" FILEID="alto_00155_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

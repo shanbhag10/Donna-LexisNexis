@@ -1,0 +1,395 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0080" publicationstatus="published">
+          <court abbreviation="C.C.D.N.H." jurisdiction="United States">United States Circuit Court for the District of New Hampshire</court>
+          <name abbreviation="Dutton v. Freeman">DUTTON et al. v. FREEMAN</name>
+          <docketnumber>Case No. 4,210</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 175</citation>
+          <citation category="parallel" type="bluebook">5 Law Rep. 447</citation>
+          <decisiondate>1842-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00089_0" MIMETYPE="image/tiff" CHECKSUM="3a86669d54d5a7b46612fe2f75bc3092" CHECKSUMTYPE="MD5" SIZE="71898">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00089_0.tif"/>
+      </file>
+      <file ID="tiff_00089_1" MIMETYPE="image/tiff" CHECKSUM="7ae68977bb195e448fc4ff610f1ddcd2" CHECKSUMTYPE="MD5" SIZE="7362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00089_1.tif"/>
+      </file>
+      <file ID="tiff_00090_0" MIMETYPE="image/tiff" CHECKSUM="afdeed421fd9c5947b142ffd29f24a1d" CHECKSUMTYPE="MD5" SIZE="89974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00090_0.tif"/>
+      </file>
+      <file ID="tiff_00090_1" MIMETYPE="image/tiff" CHECKSUM="568eb12fcc0261cf9b7dbd97876495fd" CHECKSUMTYPE="MD5" SIZE="78590">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00090_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00089_0" MIMETYPE="image/jp2" CHECKSUM="963fcd17b59332e2266c4e510e0c6431" CHECKSUMTYPE="MD5" SIZE="2870189">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00089_0.jp2"/>
+      </file>
+      <file ID="jp2_00089_1" MIMETYPE="image/jp2" CHECKSUM="20b224fffc8ed4ee21c8a6148602041d" CHECKSUMTYPE="MD5" SIZE="972565">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00089_1.jp2"/>
+      </file>
+      <file ID="jp2_00090_0" MIMETYPE="image/jp2" CHECKSUM="4804b602616867bfb4b6f54762bdd9cc" CHECKSUMTYPE="MD5" SIZE="3196530">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00090_0.jp2"/>
+      </file>
+      <file ID="jp2_00090_1" MIMETYPE="image/jp2" CHECKSUM="59ffb07dc595041abfa6303102d4ea03" CHECKSUMTYPE="MD5" SIZE="2898269">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00090_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00089_0" MIMETYPE="text/xml" CHECKSUM="e7aea3034f5a175ba4a4fa1813275a21" CHECKSUMTYPE="MD5" SIZE="153769">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00089_0.xml"/>
+      </file>
+      <file ID="alto_00089_1" MIMETYPE="text/xml" CHECKSUM="02223c050250868cd999e707713755c8" CHECKSUMTYPE="MD5" SIZE="2019">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00089_1.xml"/>
+      </file>
+      <file ID="alto_00090_0" MIMETYPE="text/xml" CHECKSUM="05003bc27fd9cb6766b3bdceaa889294" CHECKSUMTYPE="MD5" SIZE="187833">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00090_0.xml"/>
+      </file>
+      <file ID="alto_00090_1" MIMETYPE="text/xml" CHECKSUM="257a98389fefeca50cd9355cf8c61bec" CHECKSUMTYPE="MD5" SIZE="169572">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00090_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0080" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="178" firstpage="175">
+              <court id="b177-11" pgmap="177">Circuit Court, D. New Hampshire.</court>
+              <docketnumber id="b177-8" pgmap="177">Case No. 4,210.</docketnumber>
+              <citation id="b177-10" pgmap="177">[5 Law Rep. 447.]</citation>
+              <parties id="b177-9" pgmap="177">DUTTON et al. v. FREEMAN.</parties>
+              <decisiondate id="AgY" pgmap="177">Dec., 1842.</decisiondate>
+              <attorneys id="b179-4" pgmap="179">Mr. Duncan and P. W. Chandler, of Bos­ton, for petitioner, Brinley.</attorneys>
+              <attorneys id="b179-5" pgmap="179">Mr. Blaisdell, of Hanover, N. H., and Mr. Brigham, of Boston, for Dutton and Rich­ardson.</attorneys>
+              <attorneys id="b179-6" pgmap="179">Freeman did not appear at the hearing.</attorneys>
+              <opinion type="majority">
+                <author id="b179-7" pgmap="179">STORY, Circuit Justice.</author>
+                <p id="Ajs" pgmap="179">The first question is that, which embraces the merits of the con­troversy, so far as it- respects the rights of the parties now before the court. Briniey, the attaching creditor, insists upon the right to appear in the present stage of the proceed­ings, and to contest the whole facts asserted in the original petition- of Dutton and Rich­ardson to maintain a decree of bankruptcy against Freeman, in invitum. And the peti­tioning creditors insist that he has no such right My opinion is, that Brinley, the at­taching creditor, has no such right under the provisions of the bankrupt act. It may be admitted that he is, in the sense of the act, a “person interested” in the bankruptcy; but that.is not the sole point for the considera­tion of the court. A person may be interested in a bankruptcy, and have a right, as a cred­itor, to establish his debt; but it will by no means follow, that he has a right to appear aDd contest every question, which may arise in the progress of the proceedings under the bankruptcy. The act of congress could by no means have intended any such a general and sweeping right. Its language must, in its reasonable interpretation, be limited to cases where the “person interested” has a direct immediate interest in the matter put in con­troversy. such as a creditor has when his own debt or dividend is controverted by the bankrupt or the assignee, arid not merely a remote, consequential, or contingent interest in the question to be decided. In this lat­ter sense every creditor might be said to be interested in every question and decision made in bankruptcy, and clothed with full rights accordingly, which I am persuaded could never have been the intention of the act The distinction between an interest in the question and an interest in'the -suit is familiar to every lawyer; and we must put a reasonable and analogous interpretation up­on the language of the bankrupt act in order to prevent the most inconvenient and even contradictory results, which might otherwise arise from it</p>
+                <p id="A_8" pgmap="179">The seventh section of the bankrupt act contemplates proceedings by petition, both by a voluntary bankrupt, and by creditors against an involuntary bankrupt; and, after requiring that notice of the hearing of every such petition for the benefit of the act shall be published, it provides that “all persons in­terested may appear at the time and place, where the hearing is to be had, and show cause, why the prayer of the said petitioner should not be granted.” Now, upon a pe­tition by creditors, in invitum, against their debtor to have him declared a bankrupt, (which is the present case,) the debtor alone is properly the “person interested” to ap­pear and contest the facts stated as the grounds for the petition — namely, the pe­titioning creditor’s debt — the debtor’s being a trader, and his having committed one or more acts-of bankruptcy, within the scope of the statute. All these touch the rights and property of the debtor himself, directly and immediately, and he is the very party in in­terest to admit or contest them. His creditors have no direct or immediate or absolute inter­est in the proceedings. If declared a bank­rupt, he may never obtain a discharge; and, therefore, they have no necessary or positive interest in the proceedings at this stage, or at most only a possibility of interest, depend­ent altogether upon future events. But I do not rest my judgment upon these consid­erations, although there appears to me to be great weight in them, as a reasonable con­struction of the provisions-of the act, as to “persons interested.” What I rely on is the' positive provision of the first section of the act, as a demonstration, that such is the proper, nay, the necessary construction of the act in all cases of petitions by creditors, in invitum, against their debtor, to have him declared a bankrupt. That section provides, “That any person so declared a bankrupt at the instance of a creditor, may, at his election, by petition to such court, within ten days after its decree, (declaring him a bankrupt) be entitled to a trial by jury, before such court, to ascertain the fact of such bank­ruptcy.”</p>
+                <p id="b179-11" pgmap="179(25) 180(281)">Now. it is plain from the very terms of this enactment, that this is a privilege exclusively given to the debtor himself. He, and he alone, can demand a trial by ,1ury; he and he alone can contest the “fact of bankruptcy.” No other creditors can appear as adverse par­ties. and contest the “fact of such bank­ruptcy;” for here the maxim firmly applies, “Expressio unius personae est exclusio al-­terius.” Yet the “fact of such bankruptcy” is the very question which Brinley by his pe­tition seeks now to controvert before the court, and to put in issue. He seeks to su­persede the debtor in his proceedings, or to act independently of him. Suppose the debt- or should not choose to contest “the fact of such bankruptcy,” or suppose, after contest­ing it, he is satisfied with the decision of the court, declaring him a bankrupt, or suppose the jury upon a trial should find “the fact of such bankruptcy,” could other creditors be permitted to appear and contest the conclu­sion? It appears to me, upon the obvious purport of this provision of the statute, they could not. In short, the view which I take of this whole matter is that, in this stage of the proceedings against a debtor, in invitum, the only persons in interest, who are compe­tent to appear and enter into contestation as to the “fact of such bankruptcy,” are the petitioning creditors, on one sido, and the debtor, on the other side, as the parties in adverse interest All other creditors are but collaterally connected with these preliminary proceedings, and may contingently be af­fected thereby; but they are not persons hav­ing a right to present themselves in judg­ment before the court, or, as the phrase is, they have no “persona standi in judico.”</p>
+                <p id="b180-3" pgmap="180">The third and second questions may be disposed of in a few words. If Brinley had a right to appear and contest the proceedings, it could be only in‘the character of a creditor of Freeman; and before he could be admitted to examine the rights of another creditor, he must prove his debt in the manner pointed out by the statute, and the rules of the court. The proof in this case is not regularly or tech­nically made; but it is clear,.that if sufficient in its form, it is properly amendable under the authority of the court.</p>
+                <p id="b180-4" pgmap="180">The third question may be answered by the single suggestion that upon the proof of any debt by a creditor he must make it sim-­pliciter, according to the rules of the court, and he is not at liberty to interpose any pro­test or qualifications, or reservations. In­deed, I go further, and say, that the court would have no authority to allow or sanction them. What would be the effect of an abso­lute proof of his debt by Brinley upon his attachment, it is unnecessary for this court now to consider. That is a point which can­not be entertained now; and belongs, if at all, to a future state of these proceedings.</p>
+                <p id="b180-5" pgmap="180">Upon the whole, my answer to the several questions adjourned into this court are these: To the first, that Brinley ought not in this stage’ of the proceedings, upon the statement of facts in his petition, to be admitted to ap­pear and contest the facts stated in the peti­tion of Dutton and Richardson. To the sec­ond, that the description of Brinley’s debt, as set forth in- his proof of debt, in the case, is not sufficient; but the proof is amendable under the order of the court. To the third, that Brinley’s proof of his debt being accom­panied with a protest, as stated in the ques­tion, is improper, no such protest being al­lowable, and is not sufficient to authorize him to appear and oppose the petition of Dutton and Richardson.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="177" ORDERLABEL="175" TYPE="page">
+        <fptr FILEID="tiff_00089_0"/>
+        <fptr FILEID="jp2_00089_0"/>
+        <fptr FILEID="alto_00089_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_177.3" BETYPE="IDREF" FILEID="alto_00089_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="178" ORDERLABEL="176" TYPE="page">
+        <fptr FILEID="tiff_00089_1"/>
+        <fptr FILEID="jp2_00089_1"/>
+        <fptr FILEID="alto_00089_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_178.5" BETYPE="IDREF" FILEID="alto_00089_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="179" ORDERLABEL="177" TYPE="page">
+        <fptr FILEID="tiff_00090_0"/>
+        <fptr FILEID="jp2_00090_0"/>
+        <fptr FILEID="alto_00090_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_179.3" BETYPE="IDREF" FILEID="alto_00090_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="180" ORDERLABEL="178" TYPE="page">
+        <fptr FILEID="tiff_00090_1"/>
+        <fptr FILEID="jp2_00090_1"/>
+        <fptr FILEID="alto_00090_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_180.4" BETYPE="IDREF" FILEID="alto_00090_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-9" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.11" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-8" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.10" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_8" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_179.14" BETYPE="IDREF" FILEID="alto_00090_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajs" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_179.10" BETYPE="IDREF" FILEID="alto_00090_0"/>
+            <area BEGIN="BL_179.11" BETYPE="IDREF" FILEID="alto_00090_0"/>
+            <area BEGIN="BL_179.12" BETYPE="IDREF" FILEID="alto_00090_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b180-4" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.6" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b179-5" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_179.7" BETYPE="IDREF" FILEID="alto_00090_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b179-4" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_179.6" BETYPE="IDREF" FILEID="alto_00090_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b179-7" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_179.9" BETYPE="IDREF" FILEID="alto_00090_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AgY" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.14" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b179-6" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_179.8" BETYPE="IDREF" FILEID="alto_00090_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-11" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.13" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-10" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.12" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b180-5" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.7" BETYPE="IDREF" FILEID="alto_00090_1"/>
+            <area BEGIN="BL_180.8" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b179-11" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_179.15" BETYPE="IDREF" FILEID="alto_00090_0"/>
+            <area BEGIN="BL_180.1" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b180-3" BETYPE="IDREF" FILEID="casebody_0080"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_180.5" BETYPE="IDREF" FILEID="alto_00090_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

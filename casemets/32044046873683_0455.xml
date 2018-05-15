@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0455" publicationstatus="published">
+          <court abbreviation="Ark. Super. Ct." jurisdiction="Arkansas">Superior Court of the Territory of Arkansas</court>
+          <name abbreviation="Evans v. White">EVANS v. WHITE et al.</name>
+          <docketnumber>Case No. 4,572a</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 890</citation>
+          <decisiondate>1833-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00446_1" MIMETYPE="image/tiff" CHECKSUM="88ee2cc550acb520a4eb40efeea17b7d" CHECKSUMTYPE="MD5" SIZE="87288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00446_1.tif"/>
+      </file>
+      <file ID="tiff_00447_0" MIMETYPE="image/tiff" CHECKSUM="5ac900d99f6d5c096b3570e5978fad3f" CHECKSUMTYPE="MD5" SIZE="51634">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00447_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00446_1" MIMETYPE="image/jp2" CHECKSUM="fd6ecacc888de63c820952df70c2a664" CHECKSUMTYPE="MD5" SIZE="3199289">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00446_1.jp2"/>
+      </file>
+      <file ID="jp2_00447_0" MIMETYPE="image/jp2" CHECKSUM="8ef5d41c471bd3afde3963905639f6b7" CHECKSUMTYPE="MD5" SIZE="2420885">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00447_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00446_1" MIMETYPE="text/xml" CHECKSUM="93a729fc87b6b2ec53269f799328966a" CHECKSUMTYPE="MD5" SIZE="181878">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00446_1.xml"/>
+      </file>
+      <file ID="alto_00447_0" MIMETYPE="text/xml" CHECKSUM="d533347920b3d4f3545664e5aca244d0" CHECKSUMTYPE="MD5" SIZE="107045">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00447_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0455" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="891" firstpage="890">
+              <court id="b892-7" pgmap="892">Superior Court, Territory of Arkansas­.</court>
+              <docketnumber id="b892-5" pgmap="892">Case No. 4,572a.</docketnumber>
+              <parties id="b892-6" pgmap="892">EVANS v. WHITE et al.</parties>
+              <decisiondate id="AQJ" pgmap="892">Feb., 1833.</decisiondate>
+              <judges id="b892-19" pgmap="892">Before YELL and CROSS, Judges.</judges>
+              <p id="AUAum" pgmap="892">[Hempst. 296.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p id="b892-21" pgmap="892">1 [Reported by .Samuel H. Hempstead, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b892-20" pgmap="892">CROSS, J.</author>
+                <p id="AZEx" pgmap="892">This case comes up on a writ of error to the Conway circuit court. An inspection of the record shows that the defendants in error commenced an action of debt against the plaintiff for the amount of a judgment rendered by the superior court of Limestone county, in the state of Ala­bama. The defendant below, at the proper time, interposed, the pleas: First, nul tiel rec­ord; second, former recovery; third, that plaintiff’s intestate had no notice, and was-­never served with process in the original suit; and, fourth, nil debet; the three last of which were demurred to, and the demur­rer sustained. Issue was taken on the first,, •and the cause submitted for trial. To the-­reading in evidence of the transcript of the record from Alabama, the plaintiff in error-­objected, which objection was overruled, and the same permitted to be read. A bill of ex­ceptions was thereupon filed to the decision-­of the court allowing the transcript to be read, and judgment was given in favor off the defendant in error, for the sum of one hun­dred sixty-four dollars and seventy-eight-­cents, with interest on the same, at the rate-­of eight per cent, per annum, until paid. It also appears' that by the laws of Alabama the legal rate of interest is fixed at eight per­cent per annum, and was at the time of the-­rendition of the original judgment by the-­superior court of Limestone county. Various errors have been assigned, the first of which is, that the transcript read in evidence was not authenticated in accordance with the laws of the United States on that subject;, second, that-the judgment gives prospective-­interest at a higher , rate than is authorized by the laws of .-Arkansas; and, third, that the demurrer to the plea of former recovery' was improperly overruled. These are the-­only errors urged in argument, and although: -there are others assigned, we deem it unnec­essary to notice them. . .</p>
+                <p id="b892-24" pgmap="892">In examining the authentication of the rec­ord from Alabama we concur in-.believing that the circuit court very properly allowed it .to be read in evidence on the trial, as .it is-­substantially in compliance with the provi­sions of the act of congress.</p>
+                <p id="b892-25" pgmap="892">■ The second error assigned, involves a ques­tion that has been more than once decided by this court. In the case of Byrd v. Gasquet [Case No. 2,268a], after a careful and tedious-­investigation of the subject, the court held,, that notwithstanding parties in controversy might stipulate for the payment of interest at the rate of ten per cent, per annum, yet on rendering judgment upon such contract, it. would be error to allow prospective and ac­cruing interest at the same rate after its ren­dition, and that by our statutory provisions-­on the subject, no greater or other rate off interest could be allowed on any judgment, than six per cent per annum, whatever-­might have been the rate agreed upon in the-­original contract This court, in the case alluded to, expressed the opinion that the-­judgment merges the contract so far as the-­question of interest is concerned, and that whatever accrues afterwards flows from it, under the sanction of the statute which fixes-­the rate on all judgments at six per cent. On. the subject of interest, see Ter. Dig. 310.</p>
+                <p id="b893-2" pgmap="893">! In the case before us, a judgment having been obtained in the state of Alabama, where the rate of interest, in all cases, is fixed at eight per cent., the lex loci ought to per vail in computing interest up to the time of ren­dering judgment here; after which the char­acter of the claim being changed, our.own statute applies. The allowance of interest, therefore, at the rate of eight per cent after the rendition of judgment, was, we think, unauthorized and obviously at variance with the statute referred to.</p>
+                <p id="b893-3" pgmap="893">The third and last error we shall notice, depends on the consequence given to the pro­ceedings in the county court We think it amounts to nothing more than a judgment of nonsuit, which never operates as a bar to a subsequent action for the same cause.</p>
+                <p id="b893-4" pgmap="893">• On the ground that the court below has al­lowed interest at the rate of eight per cent per annum prospectively, the judgment must be reversed and the cause remanded. Judg­ment reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="892" ORDERLABEL="890" TYPE="page">
+        <fptr FILEID="tiff_00446_1"/>
+        <fptr FILEID="jp2_00446_1"/>
+        <fptr FILEID="alto_00446_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_892.27" BETYPE="IDREF" FILEID="alto_00446_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="893" ORDERLABEL="891" TYPE="page">
+        <fptr FILEID="tiff_00447_0"/>
+        <fptr FILEID="jp2_00447_0"/>
+        <fptr FILEID="alto_00447_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_893.3" BETYPE="IDREF" FILEID="alto_00447_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b892-5" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.6" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b892-7" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.9" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b892-6" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.7" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b892-24" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.28" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b892-25" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.29" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b892-20" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.21" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQJ" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.10" BETYPE="IDREF" FILEID="alto_00446_1"/>
+            <area BEGIN="BL_892.11" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUAum" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.8" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b892-19" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.20" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZEx" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.22" BETYPE="IDREF" FILEID="alto_00446_1"/>
+            <area BEGIN="BL_892.23" BETYPE="IDREF" FILEID="alto_00446_1"/>
+            <area BEGIN="BL_892.24" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b893-2" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_893.4" BETYPE="IDREF" FILEID="alto_00447_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b893-3" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_893.5" BETYPE="IDREF" FILEID="alto_00447_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b893-4" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_893.6" BETYPE="IDREF" FILEID="alto_00447_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b892-21" BETYPE="IDREF" FILEID="casebody_0455"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_892.25" BETYPE="IDREF" FILEID="alto_00446_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

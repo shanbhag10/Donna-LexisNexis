@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0303" publicationstatus="published">
+          <court abbreviation="W.D. Wis." jurisdiction="United States">United States District Court for the Western District of Wisconsin</court>
+          <name abbreviation="In re Jewett">In re JEWETT et al.</name>
+          <docketnumber>Case No. 7,305</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 584</citation>
+          <citation category="parallel" type="bluebook">7 Biss. 242</citation>
+          <decisiondate>1876-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00293_1" MIMETYPE="image/tiff" CHECKSUM="391bd560b8e4e0f724bc22a71c0fe2b5" CHECKSUMTYPE="MD5" SIZE="30760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00293_1.tif"/>
+      </file>
+      <file ID="tiff_00294_0" MIMETYPE="image/tiff" CHECKSUM="543df11fa4fcbe8babd5eb760d8c9180" CHECKSUMTYPE="MD5" SIZE="87144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00294_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00293_1" MIMETYPE="image/jp2" CHECKSUM="05e9bb7500c57081a8aa4d04d03965ae" CHECKSUMTYPE="MD5" SIZE="1727452">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00293_1.jp2"/>
+      </file>
+      <file ID="jp2_00294_0" MIMETYPE="image/jp2" CHECKSUM="524d47946e0931e041879bc81e3c47de" CHECKSUMTYPE="MD5" SIZE="3706042">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00294_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00293_1" MIMETYPE="text/xml" CHECKSUM="966b982df6c00c47f210999048530360" CHECKSUMTYPE="MD5" SIZE="53645">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00293_1.xml"/>
+      </file>
+      <file ID="alto_00294_0" MIMETYPE="text/xml" CHECKSUM="be5701d53af644092a7cb908ccdbc075" CHECKSUMTYPE="MD5" SIZE="184488">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00294_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0303" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="585" firstpage="584">
+              <court pgmap="586" id="b586-10">District Court, W. D. Wisconsin.</court>
+              <docketnumber pgmap="586" id="b586-7">Case No. 7,305.</docketnumber>
+              <citation pgmap="586" id="b586-9">[7 Biss. 242.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="586" id="b586-8">In re JEWETT et al.</parties>
+              <decisiondate pgmap="586" id="AlD">Aug., 1876.</decisiondate>
+              <attorneys pgmap="586" id="b586-14">Warner &amp; Spooner, for attaching creditors.</attorneys>
+              <attorneys pgmap="586" id="b586-15">Dewitt Davis and William F. Vilas, for petitioning creditors.</attorneys>
+              <footnote label="1">
+                <p pgmap="586" id="b586-17">1 [Reported by Josiah H. Bissell, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="586" id="b586-16">HOPKINS, District Judge.</author>
+                <p pgmap="586(129) 587(17)" id="AJll">The alleged bankrupts filed denial of acts of bankruptcy, but raised no question as to the sufficiency of the number of creditors petitioning against them. Whereupon certain creditors who had attached within two months portions of the property of the alleged bankrupts, applied and obtained leave to intervene and deny that the petitioners constituted one-fourth in number or represented one-third in amount of the provable debts of the bankrupts. The bankrupts were thereupon ordered to file a list of their unsecured creditors, which they did, and one of them was examined in rel¿­tion thereto before a register. From the list and examination it appears that the peti­tioners constitute the requisite number and amount unless the. attaching creditors are to be counted among the list of unsecured credjt-­ors, so that the only question is as to wheth­er the attaching creditors shall be included.</p>
+                <p pgmap="587" id="b587-4">No direct authority in favor of such a prop­osition was cited on the argument. The case In re Hatje [Case No. 6,215], was re­ferred to to show that they should be in­cluded in the computation, but as I under­stand in that case no objection was made to such course, as there were enough petition­ers including them; but,if that court intend­ed to hold that they were to be included in the list, I must dissent from that conclu­sion.</p>
+                <p pgmap="587" id="b587-5">Just after the argument I was referred to the case In re Scraffard [Id. 12,557], as a direct authority in favor of the claim of the attaching creditors to be counted. I have examined that case carefully, and am con­strained to say that neither the cases cited nor the argument of the learned judge satis­fies my mind that his interpretation of the act is correct. It is too restricted and does not give full effect to the spirit or purposes of the act. Such creditors have security, therefore their debt is not provable until that security is abandoned or surrendered. Their security is hostile to and declared void by the terms of the act. It was an attempt by them to secure an unlawful preference in defiance of and contrary to the spirit and letter of the law. The object of the law was to place a creditor, who knowing the insol­vent condition of his debtor but who under­took to secure his own debt by an attach­ment, upon the same footing as a creditor who obtained a preference by the consent of the debtor. He occupies no better position than a preferred creditor by act of the debt- or. The security of both is void if proceed­ings in bankruptcy are instituted within the time prescribed. Both undertake to prevent the equal distribution of the insolvent’s es­tate, which the bankrupt law was intended to accomplish, and I am not able to discover any ground upon which a valid or even plaus­ible distinction between these cases or their status in the bankrupt court can rest. If attaching creditors are to be included in the number or computation, I think preferred creditors and all other parties whose security is or may be avoided by the bankruptcy pro­ceedings should have the same privilege, and it is because I cannot see any ground of dis­tinction, that I hold they are not to Be in­cluded in ascertaining whether the requisite number of creditors have joined in the peti­tion. The construction contended for is placing the unsecured creditors wholly at the mercy of the secured creditors. In effect it is giving the control of the question whether a debtor may be proceeded against in bank­rupt courts, to parties whose interests are in hostility to the bankrupt act, which would defeat completely the rights of the unsecured creditors to insist upon equal distribution of the estate which is their only remedy to ob­tain anything. No such unreasonable and unjust construction could have been within the intention of the legislature in adopting it. . The attachments are dissolved only on as­signment to the assignee under section 5044, Rev. St. U. S. These creditors are now se­cured so that they have not now a provable debt, and are therefore by the very terms of the act excluded. Act 1874, § 12 (18 Stat. 181). The fact that their security may be avoided if the case proceeds to certain other stages is not now to be considered. It is sufficient that they have not now a debt un­conditionally provable to defeat their pres­ent claim. In re Frost [Case No. 5,134].</p>
+                <p pgmap="587" id="b587-7">They applied and were admitted to defend to maintain their security. Now they want to occupy the position of unsecured creditors. Parties cannot play “fast and loose” in that way. The law does not favor such changes. It is stable and conservative and confines parties to consistent positions. If they want the rights of unsecured creditors, let them discontinue the attachment suits and they can have them at once. The act prescribes the course for them to pursue.</p>
+                <p pgmap="587" id="b587-8">The motion to dismiss on the ground that a sufficient number of creditors have not joined in the petition is therefore denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="586" ORDERLABEL="584" TYPE="page">
+        <fptr FILEID="tiff_00293_1"/>
+        <fptr FILEID="jp2_00293_1"/>
+        <fptr FILEID="alto_00293_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_586.4" BETYPE="IDREF" FILEID="alto_00293_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="587" ORDERLABEL="585" TYPE="page">
+        <fptr FILEID="tiff_00294_0"/>
+        <fptr FILEID="jp2_00294_0"/>
+        <fptr FILEID="alto_00294_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_587.5" BETYPE="IDREF" FILEID="alto_00294_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-7" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.11" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b587-8" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_587.10" BETYPE="IDREF" FILEID="alto_00294_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b587-4" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_587.6" BETYPE="IDREF" FILEID="alto_00294_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-8" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.12" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-9" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.13" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlD" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.15" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b587-7" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_587.9" BETYPE="IDREF" FILEID="alto_00294_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b587-5" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_587.7" BETYPE="IDREF" FILEID="alto_00294_0"/>
+            <area BEGIN="BL_587.8" BETYPE="IDREF" FILEID="alto_00294_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJll" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.22" BETYPE="IDREF" FILEID="alto_00293_1"/>
+            <area BEGIN="BL_586.23" BETYPE="IDREF" FILEID="alto_00293_1"/>
+            <area BEGIN="BL_587.2" BETYPE="IDREF" FILEID="alto_00294_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-16" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.21" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-17" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.24" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-14" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.19" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-15" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.20" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b586-10" BETYPE="IDREF" FILEID="casebody_0303"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_586.14" BETYPE="IDREF" FILEID="alto_00293_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

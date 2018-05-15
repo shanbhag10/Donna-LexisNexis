@@ -1,0 +1,464 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0266" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="Jenkins v. Eldredge">JENKINS v. ELDREDGE et al.</name>
+          <docketnumber>Case No. 7,268</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 513</citation>
+          <citation category="parallel" type="bluebook">3 Story, 325</citation>
+          <decisiondate>1845-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00258_0" MIMETYPE="image/tiff" CHECKSUM="bc2e60b439c4d011724b59cc82a365e4" CHECKSUMTYPE="MD5" SIZE="46236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00258_0.tif"/>
+      </file>
+      <file ID="tiff_00258_1" MIMETYPE="image/tiff" CHECKSUM="a3bcb4a32502b45a27d3719fd294d043" CHECKSUMTYPE="MD5" SIZE="7152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00258_1.tif"/>
+      </file>
+      <file ID="tiff_00259_0" MIMETYPE="image/tiff" CHECKSUM="8102c33f5b458af2aea395936446b46b" CHECKSUMTYPE="MD5" SIZE="7076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00259_0.tif"/>
+      </file>
+      <file ID="tiff_00259_1" MIMETYPE="image/tiff" CHECKSUM="ecf24e3b1b3a7929ffc64abc0e4763fb" CHECKSUMTYPE="MD5" SIZE="86062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00259_1.tif"/>
+      </file>
+      <file ID="tiff_00260_0" MIMETYPE="image/tiff" CHECKSUM="048265cc7ac914760da7023b28e780d5" CHECKSUMTYPE="MD5" SIZE="93880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00260_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00258_0" MIMETYPE="image/jp2" CHECKSUM="f86e2d8fe8a70b7a5c52019f14310b4f" CHECKSUMTYPE="MD5" SIZE="2206382">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00258_0.jp2"/>
+      </file>
+      <file ID="jp2_00258_1" MIMETYPE="image/jp2" CHECKSUM="85c38195e904bae27b21af9b0732a5f1" CHECKSUMTYPE="MD5" SIZE="979378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00258_1.jp2"/>
+      </file>
+      <file ID="jp2_00259_0" MIMETYPE="image/jp2" CHECKSUM="b735da50fb498b0137999a60ebfa2ee5" CHECKSUMTYPE="MD5" SIZE="1066759">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00259_0.jp2"/>
+      </file>
+      <file ID="jp2_00259_1" MIMETYPE="image/jp2" CHECKSUM="28bc3dea8fdc7f36a18c82d5b5d5ac61" CHECKSUMTYPE="MD5" SIZE="3146095">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00259_1.jp2"/>
+      </file>
+      <file ID="jp2_00260_0" MIMETYPE="image/jp2" CHECKSUM="86065d5848913246cd271ce003de170b" CHECKSUMTYPE="MD5" SIZE="3504950">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00260_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00258_0" MIMETYPE="text/xml" CHECKSUM="ce964019f49f51377623610c20ad5a9f" CHECKSUMTYPE="MD5" SIZE="99833">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00258_0.xml"/>
+      </file>
+      <file ID="alto_00258_1" MIMETYPE="text/xml" CHECKSUM="25cc76a4c65109a131a21ab1f2439146" CHECKSUMTYPE="MD5" SIZE="2018">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00258_1.xml"/>
+      </file>
+      <file ID="alto_00259_0" MIMETYPE="text/xml" CHECKSUM="ea334af95e643bcd5c0e4f71167e4d78" CHECKSUMTYPE="MD5" SIZE="2001">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00259_0.xml"/>
+      </file>
+      <file ID="alto_00259_1" MIMETYPE="text/xml" CHECKSUM="49326c7e54017277d184cb10c75dcdf1" CHECKSUMTYPE="MD5" SIZE="188436">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00259_1.xml"/>
+      </file>
+      <file ID="alto_00260_0" MIMETYPE="text/xml" CHECKSUM="6b7c65d6141ea204e4d41fc0401dcf81" CHECKSUMTYPE="MD5" SIZE="211577">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00260_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0266" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="517" firstpage="513">
+              <court pgmap="515" id="b515-9">Circuit Court, D. Massachusetts.</court>
+              <docketnumber pgmap="515" id="b515-6">Case No. 7,268.</docketnumber>
+              <citation pgmap="515" id="b515-8">[3 Story, 325.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="515" id="b515-7">JENKINS v. ELDREDGE et al.</parties>
+              <decisiondate pgmap="515" id="AQnq">May Term, 1845.</decisiondate>
+              <attorneys pgmap="518" id="b518-3">B. It. Curtis, for plaintiff.</attorneys>
+              <attorneys pgmap="518" id="b518-4">Mr. Bartlett, for Kimball.</attorneys>
+              <attorneys pgmap="518" id="b518-5">Mr. Gardiner, for Eldredge.</attorneys>
+              <footnote label="1">
+                <p pgmap="515" id="b515-12">1 [Reported by William W. Story, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="518" id="b518-6">STORY, Circuit Justice.</author>
+                <p pgmap="518" id="AaN">In respect to the first exception of Kimball, it does not strike me, that it is of any importance in the case, whether the paper referred to is to be deem­ed a present demise, or a contract for a de­mise. In either case, as to the rent to be paid during the occupation of the premises, by the museum corporation, the asserted les­sees, it is to be governed by precisely the same considerations. The original agree­ment in this case, between Jenkins and Kim-­ball, on the first day of May, 1839, is cer­tainly a mere contract for a lease at a future day, viz. when the building shall be finished. The subsequent agreement between El-­dredge, and Kimball, and Wellington, on the 18th day of January, 1841, consummated as it was by the award of the referees, made under, and in virtue of that agreement, be­came a present demise or lease, in my judg­ment, for ten years, to commence on the first day of June, 1841, at the annual rent of ?4,-­650. No farther act or demise was contem­plated by the parties, and Kimball went into possession, under the agreement and award accordingly. One test, whether it is a pres­ent demise or not, is founded upon this con­sideration, whether a future formal lease is contemplated by the parties. If not, then the agreement will, if there be apt words, be construed as a present demise. If such a future formal lease is contemplated, it is not, of itself, decisive, that the instrument or agreement is not a present lease. I do not pretend to go over the authorities upon the subject; perhaps they cannot be all rec­onciled. Some of the most pointed cases, are Doe v. Ries, 8 Bing. 178; Piners v. Jud­son, 6 Bing. 206; Staniforth v. Fox, 7 Bing. 590; Hancock v. Caffyn, 8 Bing. 358; Alder­man v. Neate, 4 Mees. &amp; W, 709; Doe v. Benjamin, 9 Adol. &amp; E. 644; and Jones v. Reynolds, 1 Adol. &amp; E. (N. S.) 506.</p>
+                <p pgmap="518" id="b518-9">But as has been already suggested, it is not material in the present case, whether the agreement be construed as a mere ex-­ecutory contract, or as a present demise, since in either case Kimball has occupied under it</p>
+                <p pgmap="518(390) 519(215)" id="b518-10">The second exception is of a very different character. The question here is, whether, under the circumstances stated in the mas­ter’s report, Kimball ought to be held re­sponsible for the original rent, agreed to be paid, or only for the reduced rent, which he agreed to take from the lessees at a subse­quent period. The master held him bound to pay the original rent; the exception is founded upon the suggestion, that he ought to be liable only for the reduced rent. Now it is material to state, that, at the time when the lease was made to the museum corpora­tion, Kimball was the proprietor of two hun­dred and seventy-five shares of that corpora­tion, and Wellington was the proprietor of the remaining twenty-five shares. Welling­ton was president, and Kimball was treas­urer, of the corporation. And this continued to be the state of things up to the 14th of December, 1842. Eldredge conveyed the whole estate to Kimball on the 1st of March, 1842, and on the 7th of the same month, Jenkins served a written notice on Kimball of his title; the present bill was brought at the May term, 1842; and the agreement for the reduction of the rent, was made on the 14th of December, 1842. So that, in fact, at the time of the reduction, Kimball -and Wellington were the sole proprietors of the museum; Kimball claimed to be the sole owner of the building; and Jenkins was then asserting his title to the property, as equitable owner in the present suit. Strip­ped, therefore, of its artificial garb, the agreement was, in fact, an agreement by Kimball, as owner of the property, with himself, as proprietor of eleven-twelfths of the museum, and Wellington, as proprietor of the remaining one-twelfth, for a reduction of the rent, with full notice of the suit, and of the asserted trust, and without any con­sultation with, or assent thereto by Jenkins. Of course, Kimball had no right to make any such reduction of the rent, so as to bind Jenkins, and what he did, was at his own peril, and obviously, if the trust was estab­lished, it was a reduction for his benefit ex­clusively, and injurious to the cestui que trust. It was a reduction too, in the face of the award, by which, very competent ref­erees had fixed the rent at $4,650 per annum, for the ten years. In my judgment, there is no pretence of any necessity, as has been suggested at the argument, to reduce the rent. Admitting a depression to have ex­isted at that time, non constat, that there might not be, and indeed there seems, sub­sequently, to have been a correspondent re-, vival of the value afterwards. And certain­ly, in a case where the party, if a trustee, had so deep an interest in a low rent, he ought not to be permitted to make a bar­gain substantially to promote that interest, at the expense of the plaintiff. At all events, he had no right to change the existing state of things, at the time when the present suit was brought, to the prejudice of the plain­tiff, without his consent, or approval. At the argument, it at first occurred to me, that there might be a good ground to make some distinction in his favor. But upon examin­ing the facts, I am perfectly satisfied, that the master was right in his conclusion, and that Kimball is rightfully chargeable with the whole rent of $4.050, originally reserved during the period stated in the report.</p>
+                <p pgmap="519" id="b519-3">The third and fourth exception depend up­on the second, and are governed by it. No necessity is shown by the evidence for the reduction of the rent, of such a nature as can possibly apply to the present case. It was the ease of a mere calculation of chances. The charge of interest follows properly from the liability to pay the full rent.</p>
+                <p pgmap="519" id="b519-4">The fifth and last exception is one, upon which I have felt the most difficulty. Ac­cording to the course of the authorities in England, no allowance of a claim of this sort, for. commissions, would be sanctioned by a court of equity, even in cases of an open, and admitted express trust. Here, the trust was denied by Kimball, as well as by Eldredge, and it has been forced upon both in invitum by the judgment of the court. In America, and especially in Mas­sachusetts, it has been the general practice to allow commissions to trustees, in eases of open and admitted express trusts, where the trustee has not forfeited them by gross misconduct The present ease is confessed­ly new, and does not fall within the pre­dicament of an express trust, nor within that of gross misconduct, in the administra­tion of such a trust. I confess, that I do not feel sure, that the party is, under all the circumstances, entitled to the allowance of commissions; but I, nevertheless, should not feel quite satisfied with refusing the al­lowance. It seems to me, on the whole, equitable to allow it. If the cause shall, upon other grounds, go to the supreme court for revision, the plaintiff can, by a cross ap­peal, bring this matter in review before that court.</p>
+                <p pgmap="519" id="b519-5">I, therefore, do order and direct, that the report of the master be confirmed as to all matters, except the disallowance of the sum of $791, claimed as commissions, which sum I direct to be deducted from the balance found due by him of $12,462.41. So that the balance, with which the said Kimball do stand charged at the date of the report, be the sum of $11,671.41, instead of the said sum of $12,462.41. I do not consider, under the circumstances, that any interest can, or ought to be allowed on the commissions; nor any deduction from the other interest be properly made on account thereof. Having disposed of the exceptions, it remains only to say, that I am satisfied with the report in all other respects, and do order the same to stand confirmed accordingly.</p>
+                <p pgmap="519" id="b519-8">In respect to the final decree, upon reflect­ing upon the subject, it appears to me to be the positive duty of this court, (subject, of course, to the appellate jurisdiction of the supreme court), to put an end to this most protracted litigation, for the very reason so pointedly suggested by Voet, that suits may not be immortal, while men are mortal.</p>
+                <p pgmap="519" id="b519-9">Upon the question of costs, there does not seem to me to be any ground to suggest, that either of the defendants is entitled to costs, or that the plaintiff ought to be denied the ordinary, costs of the suit. The defendants have resisted the rights of the plaintiff, now established by the court, at every step of the controversy; and having so done, they, and not the plaintiff, ought to bear the bur-­then or expenses of the litigation. Of course, I do not speak of the extraordinary expenses, but only of the ordinary costs.</p>
+                <p pgmap="519" id="b519-10">In respect to the suit brought by Bliss against the defendant. Eldredge, now pend­ing in the state court, it seems but reason­able, that, as far as this court can operate upon the matter, it ought not to subject El-­dredge to double vexation. Bliss has vol­untarily appeared and assented, as 1 under­stood him, to any decree of this court in the premises.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="515" ORDERLABEL="513" TYPE="page">
+        <fptr FILEID="tiff_00258_0"/>
+        <fptr FILEID="jp2_00258_0"/>
+        <fptr FILEID="alto_00258_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_515.4" BETYPE="IDREF" FILEID="alto_00258_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="516" ORDERLABEL="514" TYPE="page">
+        <fptr FILEID="tiff_00258_1"/>
+        <fptr FILEID="jp2_00258_1"/>
+        <fptr FILEID="alto_00258_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_516.4" BETYPE="IDREF" FILEID="alto_00258_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="517" ORDERLABEL="515" TYPE="page">
+        <fptr FILEID="tiff_00259_0"/>
+        <fptr FILEID="jp2_00259_0"/>
+        <fptr FILEID="alto_00259_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_517.3" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="518" ORDERLABEL="516" TYPE="page">
+        <fptr FILEID="tiff_00259_1"/>
+        <fptr FILEID="jp2_00259_1"/>
+        <fptr FILEID="alto_00259_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_518.4" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="519" ORDERLABEL="517" TYPE="page">
+        <fptr FILEID="tiff_00260_0"/>
+        <fptr FILEID="jp2_00260_0"/>
+        <fptr FILEID="alto_00260_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_519.4" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-6" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.8" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-9" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.11" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-8" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.10" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-3" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.6" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-9" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.11" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-4" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.7" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-5" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.8" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            <area BEGIN="BL_519.9" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-6" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.8" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-8" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.10" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-9" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.12" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-7" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.9" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-10" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.12" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaN" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.9" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            <area BEGIN="BL_518.10" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            <area BEGIN="BL_518.11" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-5" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.7" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-4" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.6" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-3" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.5" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b515-12" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.17" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b518-10" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_518.13" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            <area BEGIN="BL_519.2" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQnq" BETYPE="IDREF" FILEID="casebody_0266"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_515.12" BETYPE="IDREF" FILEID="alto_00258_0"/>
+            <area BEGIN="BL_515.13" BETYPE="IDREF" FILEID="alto_00258_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

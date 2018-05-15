@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0228" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Java">The JAVA</name>
+          <docketnumber>Case No. 7,232</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 380</citation>
+          <citation category="parallel" type="bluebook">6 Ben. 245; 6 Alb. Law J. 421</citation>
+          <decisiondate>1872-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00191_1" MIMETYPE="image/tiff" CHECKSUM="f11b9f928eb26aa18294f83d38649638" CHECKSUMTYPE="MD5" SIZE="52750">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00191_1.tif"/>
+      </file>
+      <file ID="tiff_00192_0" MIMETYPE="image/tiff" CHECKSUM="53fbb0bc5f0243cc5980b00123390896" CHECKSUMTYPE="MD5" SIZE="114822">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00192_0.tif"/>
+      </file>
+      <file ID="tiff_00192_1" MIMETYPE="image/tiff" CHECKSUM="7a427258e443ae8df87746c79cb6b215" CHECKSUMTYPE="MD5" SIZE="86496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00192_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00191_1" MIMETYPE="image/jp2" CHECKSUM="7de30b5055bdbe21574d549d7841d647" CHECKSUMTYPE="MD5" SIZE="2411183">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00191_1.jp2"/>
+      </file>
+      <file ID="jp2_00192_0" MIMETYPE="image/jp2" CHECKSUM="c96322a7ea5c31969adc864411d53327" CHECKSUMTYPE="MD5" SIZE="4291928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00192_0.jp2"/>
+      </file>
+      <file ID="jp2_00192_1" MIMETYPE="image/jp2" CHECKSUM="cc0994bde13c8c73fa3a5b855b623ff4" CHECKSUMTYPE="MD5" SIZE="3191806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00192_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00191_1" MIMETYPE="text/xml" CHECKSUM="6d89f16ab407d222f5db7600f9e69702" CHECKSUMTYPE="MD5" SIZE="111219">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00191_1.xml"/>
+      </file>
+      <file ID="alto_00192_0" MIMETYPE="text/xml" CHECKSUM="cd85015efd94691cd6eec3c3284747a4" CHECKSUMTYPE="MD5" SIZE="258736">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00192_0.xml"/>
+      </file>
+      <file ID="alto_00192_1" MIMETYPE="text/xml" CHECKSUM="8b3422191e978f29cd6ceda6ce9031f7" CHECKSUMTYPE="MD5" SIZE="187624">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00192_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0228" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="382" firstpage="380">
+              <court pgmap="382" id="A-c">District Court, S. D. New York.</court>
+              <docketnumber pgmap="382" id="b382-16">Case No. 7,232.</docketnumber>
+              <citation pgmap="382" id="AGx">[6 Ben. 245; 6 Alb. Law J. 421.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="382" id="AI2K">The JAVA.</parties>
+              <decisiondate pgmap="382" id="ASVC">Nov., 1872.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys pgmap="382" id="b382-26">Beebe, Donohue &amp; Cooke, for libellants.</attorneys>
+              <attorneys pgmap="382" id="b382-27">Daniel D. Lord, for claimants.</attorneys>
+              <footnote label="1">
+                <p pgmap="382" id="b382-29">1 [Reported.by Robert D. Benedict, Esq., and here reprinted by permission. 6 Alb. Law J. 42l, contains only a partial report.]</p>
+              </footnote>
+              <footnote label="2">
+                <p pgmap="382" id="b382-30">2 [Affirmed in Case No. .7,233.)</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="382" id="b382-28">BLATCHFORD, District Judge.</author>
+                <p pgmap="382(86) 383(378)" id="AYNX">On the night of the 25th of August, 1S71, shortly before half past 10 o'clock, the steamer Java, while on a voyage from Liverpool to New York, came into collision, in the Atlantic Ocean, with the Norwegian barque Anitas, striking, with her stem, the port side of the barque, a square blow’, and cutting her into two parts, so that the steamer passed be­tween such two parts, and they sank al­most instantly. The barque was in ballast, on a voyage from Portsmouth, England, to Miraxniclii, New Brunswick. Of the twelve persons composing her crew, eleven were lost. The survivor was asleep below, and was awakened by the noise of shouting from the deck of the barque, and hurried on deck, only to arrive there after the blow, and to And-the vessel sinking under him. He was saved by swimming, and was picked up by a boat from the'Java. He Is a witness for the libellants, and their only witness. All he can tell is what is' told above. The night was dark, there was a drizzling rain, the wind was southwest, or more westerly, and the Java was heading west northwest, with the wind and sea on her port bow, and a cross sea from the northwest, the remnant of a wind from that quarter. The sea was heavy, and the Java was pitching a great deal. The barque was on her starboard tack, and was crossing the course of the Java. The speed of the Java at the time was about ten knots an hour. The libel alleges fault in the Java, in not keeping a proper look­out, in not .seeing the barque'and her lights, in proceeding at too great a rate of speed, and in not in time taking steps to avoid the barque. The answer alleges, that the Java had two proper lookouts, properly stationed, and attentive to their duties, but that the barque was not visible until less than a minute before the collision, when one of the lookouts discovered and reported a faint white light nearly right ahead; that such light almost immediately disappeared, and a red light was seen in its place; that there­upon the helm of the Java was put hard a-­port, and her engines were stopped and re­versed, but she struck the barque; that the barque was sailing without any colored lights; that, just before the collision, she improperly changed her course, to cross that of the Java; that she did not discover the Java until just before the accident, when she first exhibited the white light, and then .the red light, which were seen by the Java as soon as they were exhibited; and that the collision was caused exclusively by the want of good management of the barque.</p>
+                <p pgmap="383" id="b383-4">It was the duty of the steamer to avoid the barque, or to show a satisfactory excuse for not doing so. It is in proof that the steamer was being driven against the wind and the sea, and at as great a speed, it is clear, as she could make against them. Some of the witnesses say that there was a drizzling rain, and one of the lookouts says that it was misty, a pretty thick night, small thick rain. If this were so, her speed was too great, as, at a less speed, there would have been more time, after her discovery of the barque, to take steps to avoid a collision. If, on the other hand, as is the weight of the evidence on the part of the claimants, the hull of a vessel could be seen a quarter of a mile, on that night, irrespective of any lights on her, so as to make the speed of the steamer not excessive, and if, as the testi­mony is, the steamer could, at her then speed, and with the sea as it was, be stopped in less than a quarter of a mile, it follows inevitably, that the steamer failed, for want of a proper lookout, to see the barque as soon as the barque could and should have been seen. *</p>
+                <p pgmap="383" id="b383-6">Was the barque in fault? It is claimed that she had no red light set, and that, just before the collision, and on discovering the steamer, she exhibited first a white light and then a red light. Only two persons on the steamer saw any light on the barque. One of them, Groom, a lookout, says, that the first he saw of the barque was “a small dim light, a common white light,” bearing about a point on the starboard bow of the steamer; that he reported this light as soon as he saw it; and that the white light dis­appeared, and then he saw a red light, “a good red light.” The second officer heard the report of the light, and looking, saw a red light, “clear and distinct,” bearing “near­ly right ahead, a little on the starboard bow.” He says, that, after that, and before the collision he say the barque, but the light was not visible; and that it was less than three-quarters of a minute from the time he discovered the light until the collision. On this evidence the court is asked to hold that the barque had no red light set and burning. The man who was saved from the barque gives no testimony as to the presence or ab­sence of lights on the barque at o'r before the collision, and does not appear to have been interrogated on the subject by either side.</p>
+                <p pgmap="383(270) 384(144)" id="Ajez">Where a vessél is found to have been in fault, in a collision, especially where, as here, the effect of the collision was to destroy all the persons on the other -vessel who could give testimony as to the condition of the lights on such, other vessel, clear and satis­factory proof is required of the absence óf such lights, if the want of them is relied on as inculpating such other vessel.- That the barque showed a red light, a good red light, clear and distinct, is proved. It is supposed that she first showed a white light, and that the red light she showed disappeared before the collision, and hence it is argued that she had no red light set on her port side. Butthe evidence is not sufficient to show that what the single witness thought to be a white light was not the red light, at a greater dis­tance, and that it did not disappear with the movements of the two vessels in the heavy sea, and then reappear, to be seen by both men as a good, clear, distinct red light. It is not testified that the two lights were seen at the same time. As to the final disappear­ance of the red light before the collision, which fact the second officer alone testifies to, when it is considered that, from the time he first saw it until the collision was less than three-quarters of a minute, and that, during that interval, he telegraphed to stop the engine, and also telegraphed to port the helm, and gave a verbal order to port, and that there must have been excitement and alarm, the conclusion that what he saw was not a set red light is not warranted. When to all this is added the fact that the persons observing this light were on the bridge, some distance in rear of the bows of the steamer, with the two vessels approaching each other, and the possibility of the inter­ception of the view from the position on the bridge, it is not satisfactorily established that the red light seen was not the properly set red light of the barque. It was not sooner seen, either because the lookout was inattentive, or was in an improper place for good observation, being on the bridge, or, if in a proper place for observation, did not see it soon enough, because, in view of th. weather, the steamer was going too fast.</p>
+                <p pgmap="384" id="b384-3">As to the allegation that the barque chan­ged her course to cross the course of the steamer, there is no evidence to support it. There is nothing to show that she was not sailing as close as she could.to the wind, while beating, and pursuing her voyage.</p>
+                <p pgmap="384" id="b384-4">There must be a decree for the libellants, with costs, and a reference to a commission­er to ascertain the- damages.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="382" ORDERLABEL="380" TYPE="page">
+        <fptr FILEID="tiff_00191_1"/>
+        <fptr FILEID="jp2_00191_1"/>
+        <fptr FILEID="alto_00191_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_382.5" BETYPE="IDREF" FILEID="alto_00191_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="383" ORDERLABEL="381" TYPE="page">
+        <fptr FILEID="tiff_00192_0"/>
+        <fptr FILEID="jp2_00192_0"/>
+        <fptr FILEID="alto_00192_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_383.3" BETYPE="IDREF" FILEID="alto_00192_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="384" ORDERLABEL="382" TYPE="page">
+        <fptr FILEID="tiff_00192_1"/>
+        <fptr FILEID="jp2_00192_1"/>
+        <fptr FILEID="alto_00192_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_384.5" BETYPE="IDREF" FILEID="alto_00192_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-26" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.34" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b384-3" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_384.6" BETYPE="IDREF" FILEID="alto_00192_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b384-4" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_384.7" BETYPE="IDREF" FILEID="alto_00192_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYNX" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.37" BETYPE="IDREF" FILEID="alto_00191_1"/>
+            <area BEGIN="BL_382.38" BETYPE="IDREF" FILEID="alto_00191_1"/>
+            <area BEGIN="BL_383.1" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-16" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.23" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajez" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.8" BETYPE="IDREF" FILEID="alto_00192_0"/>
+            <area BEGIN="BL_384.2" BETYPE="IDREF" FILEID="alto_00192_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b383-4" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.5" BETYPE="IDREF" FILEID="alto_00192_0"/>
+            <area BEGIN="BL_383.6" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b383-6" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_383.7" BETYPE="IDREF" FILEID="alto_00192_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-30" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.40" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AI2K" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.24" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-29" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.39" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-28" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.36" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASVC" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.27" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-c" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.26" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b382-27" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.35" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGx" BETYPE="IDREF" FILEID="casebody_0228"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_382.25" BETYPE="IDREF" FILEID="alto_00191_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

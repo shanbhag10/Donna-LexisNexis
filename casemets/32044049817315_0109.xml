@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0109" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="The J. A. Brown">The J. A. BROWN</name>
+          <docketnumber>Case No. 7,118</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 186</citation>
+          <citation category="parallel" type="bluebook">2 Lowell, 464</citation>
+          <decisiondate>1876-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00094_1" MIMETYPE="image/tiff" CHECKSUM="d77c0ff319a86830d0f0c99698264a6d" CHECKSUMTYPE="MD5" SIZE="78664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00094_1.tif"/>
+      </file>
+      <file ID="tiff_00095_0" MIMETYPE="image/tiff" CHECKSUM="da111314f680b221da2fffbdda664e65" CHECKSUMTYPE="MD5" SIZE="91768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00095_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00094_1" MIMETYPE="image/jp2" CHECKSUM="5b1d831866d6cf0c5cbd781cc652725a" CHECKSUMTYPE="MD5" SIZE="3167389">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00094_1.jp2"/>
+      </file>
+      <file ID="jp2_00095_0" MIMETYPE="image/jp2" CHECKSUM="d3cfab2453cd7eab9b899610f2be56a7" CHECKSUMTYPE="MD5" SIZE="3346355">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00095_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00094_1" MIMETYPE="text/xml" CHECKSUM="ee5b2e2af632093c3883ff7d5d831a85" CHECKSUMTYPE="MD5" SIZE="164259">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00094_1.xml"/>
+      </file>
+      <file ID="alto_00095_0" MIMETYPE="text/xml" CHECKSUM="0971a39c397ca0d20ac9962739e6c4e3" CHECKSUMTYPE="MD5" SIZE="197860">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00095_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0109" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="187" firstpage="186">
+              <court pgmap="188" id="b188-15">District Court, D. Massachusetts.</court>
+              <docketnumber pgmap="188" id="b188-12">Case No. 7,118.</docketnumber>
+              <citation pgmap="188" id="b188-14">[2 Lowell, 464.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="188" id="b188-13">The J. A. BROWN.</parties>
+              <decisiondate pgmap="188" id="Aj5u">March, 1876.</decisiondate>
+              <footnote label="1">
+                <p pgmap="188" id="b188-23">1 [Reported by Hon. John Lowell, LL. D.. District Judge, and here reprinted by permis­sion.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="188" id="b188-24">LOWELL, District Judge.</author>
+                <p pgmap="188(172) 189(8)" id="A-H">James Gam-­mons, Jr., owner of ten-sixteenths of the bark J. A. Brown, which has been sold under a decree of this court, represents that he bought nine of his ten shares at an auction sale, made by the owner of the shares a few days before this libel was filed; that at the time of this sale a libel was pending in the court for the mate to recover his wages earned on the last voyage, of which the claimant was not aware; that he afterwards paid the wages and costs, and he asks to be subrogated to the privilege of the mate against the proceeds in the registry. This motion is resisted by the mortgagee of a part of the vessel. I informed counsel at the argument that I had decided some years since, in The Tangier [Case No. 13,744], that subrogation was often administered in the admiralty, and that the limitations attempt­ed to be imposed on that doctrine in The Larch [Id. 8,0S5], could not be sustained as-­law beyond the exact decision in that case.</p>
+                <p pgmap="189" id="b189-3">When a vessel is unfortunately incumbered with liens and hypothecations of various kinds beyond her full value, the wages of the last voyage have precedence over all earlier charges, such as a bottomry bond given at the beginning of that voyage; and in such cases one who pays the wages is often sub-­rogated to the rank of the seamen, on the ground'that he has saved expense, and has given the seamen their money promptly, and only arrived at the result which the court would have reached. The owner, or part owner, is not excluded from the right of subrogation, when the justice of the case is with him, as for example, when the wages are not a personal debt of his own, or for any other reason he has equities as against the other parties. It has become the prac­tice in England to require the person intend­ing to pay the wages to apply to the court in the first instance. Besides The Tangier above mentioned, I have allowed subrogation in some eases not strongly contested, I be­lieve, certainly not reported. The following English cases may be referred to: The William F. Safford, Lush. 69; The Kammerhevie Rosenkrants, 1 Hagg. Adm. 62; The John Fehrman, 16 Jur. 1122; The Adolph, 3 Hagg. Adm. 249; The Janet Wilson, Swab. 261. I explained in The Tangier that the modern English practice is to require the person de­siring subrogation to apply to the court be­fore making the payment; but this is only a rule of practice, and is not strictly insisted on in all cases: The Cornelia Henrietta, L. R. 1 Adm. &amp; E. 51. It appears to me, on a consideration of the circumstances of this ease, that I ought to give to the claimant the subrogation which I should undoubtedly have granted to the mortgagee if he had paid the wages. It may be said that he was paying his own debt; and he might be made liable, no doubt, for the whole wages, if the other owners were insolvent, as I suppose they were; but it appears that the freight was supposed to have been applied to the wages, and that there was enough for that purpose; but it was wrongly used as an agent, and Mr. Gammons was obliged to pay the whole, when in equity he was only liable for one-­sixteeñth. I do not see that, as between him and the mortgagee, he was bound to guaran­tee the solvency of his co-owners, or the due application of the freight The mortgagee might have secured himself by taking pos­session of the vessel before her last voyage, •or at any time before the freight was fully earned; but then he would have been, liable for the wages. I find good ground, there­fore, to say, that as to fifteen-sixteenths of the wages and taxable costs paid by Hr. Gammons, he ought to be subrogated to the right of the mate. It is understood, of course, that the petitioner is not attempting to compete with his own creditor. The debt secured by mortgage is not his debt. Peti­tion granted.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="188" ORDERLABEL="186" TYPE="page">
+        <fptr FILEID="tiff_00094_1"/>
+        <fptr FILEID="jp2_00094_1"/>
+        <fptr FILEID="alto_00094_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_188.13" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="189" ORDERLABEL="187" TYPE="page">
+        <fptr FILEID="tiff_00095_0"/>
+        <fptr FILEID="jp2_00095_0"/>
+        <fptr FILEID="alto_00095_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_189.3" BETYPE="IDREF" FILEID="alto_00095_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj5u" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.22" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            <area BEGIN="BL_188.23" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b189-3" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_189.5" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-23" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.30" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-H" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.32" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            <area BEGIN="BL_188.33" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            <area BEGIN="BL_189.1" BETYPE="IDREF" FILEID="alto_00095_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-14" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.20" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-15" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.21" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-24" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.31" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-12" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.18" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-13" BETYPE="IDREF" FILEID="casebody_0109"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.19" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,472 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0493" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="Jones v. The Richmond">JONES v. The RICHMOND</name>
+          <docketnumber>Case No. 7,492</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1012</citation>
+          <citation category="parallel" type="bluebook">39 Hunt, Mer. Mag. 71</citation>
+          <decisiondate>1858-04-26</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00507_1" MIMETYPE="image/tiff" CHECKSUM="8c2d8fcefc406f33bedcca999618214f" CHECKSUMTYPE="MD5" SIZE="54838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00507_1.tif"/>
+      </file>
+      <file ID="tiff_00508_0" MIMETYPE="image/tiff" CHECKSUM="61c577889c055b59f94bd6d46c3471d6" CHECKSUMTYPE="MD5" SIZE="106838">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00508_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00507_1" MIMETYPE="image/jp2" CHECKSUM="00f6e85caa45f835f4b8b5881ce4bdae" CHECKSUMTYPE="MD5" SIZE="2362933">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00507_1.jp2"/>
+      </file>
+      <file ID="jp2_00508_0" MIMETYPE="image/jp2" CHECKSUM="69bca49deaabc6c75f8ba016ff2cfdd8" CHECKSUMTYPE="MD5" SIZE="3759983">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00508_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00507_1" MIMETYPE="text/xml" CHECKSUM="067a8dfc6f34097d57dcbb2f74d288d9" CHECKSUMTYPE="MD5" SIZE="103457">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00507_1.xml"/>
+      </file>
+      <file ID="alto_00508_0" MIMETYPE="text/xml" CHECKSUM="afc7bb26094974837b8f9cf8873828e1" CHECKSUMTYPE="MD5" SIZE="235344">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00508_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0493" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1013" firstpage="1012">
+              <court pgmap="1014" id="b1014-10">District Court, S. D. New York.</court>
+              <docketnumber pgmap="1014" id="b1014-7">Case No. 7,492.</docketnumber>
+              <citation pgmap="1014" id="b1014-9">[39 Hunt, Mer. Mag. 71.]</citation>
+              <parties pgmap="1014" id="b1014-8">JONES v. The RICHMOND.</parties>
+              <decisiondate pgmap="1014" id="Akml">April 26, 1858.</decisiondate>
+              <attorneys pgmap="1014" id="b1014-22">Mr. Lord and Mr. Moore, for libelants.</attorneys>
+              <attorneys pgmap="1014" id="b1014-23">Mr. Benedict and Mr. Hoxie, for claimants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="1014" id="b1014-24">BY THE COURT</author>
+                <p pgmap="1014" id="Ak0B">(BETTS, District Judge).</p>
+                <p pgmap="1014" id="AOFs">1. The case made by the multifarious facts and witnesses produced on the hearing of this cause differs in no essential particulars from the one tried in the supreme court of the United States upon the same subject-­matter. [Post v. Jones] 19 How. [60 U. S.] 150.</p>
+                <p pgmap="1014" id="b1014-25">2. The additional proofs given in this case are mostly cumulative (Palmer v. Fiske, [Case No. 10,691]; 15 Johns. 413), and also speculative and hypothetical in their char­acter, not capable of determining positively the fact they were used to establish; i. e. that the ship Junior would be aDle to catch and secure whales sufficient to produce the quantity of oil and bone produced from the ship Richmond in less time than was occu­pied by the Junior in removing the same quantity of each from the wreck of the Richmond. Besides, the supreme court had. considered and determined, in its judgment,, the value of that species of evidence.</p>
+                <p pgmap="1015" id="b1015-3">0. The court will hold the decisions of the supreme court upon the effect of the proofs in that cause to be conclusive upon the weight and value of the like testimony in this.</p>
+                <p pgmap="1015" id="b1015-4">4. Accordingly, the transaction between the two ships in Behring’s Straits on board the wreck of the Richmond must, for the purposes of this trial, be regarded as salvage service by the ship and crew of the Junior, and not a purchase of the oil and bone by the master of the latter from the master of the Richmond, which vested the right of property in the owners of the Junior.</p>
+                <p pgmap="1015" id="b1015-5">5. The owners of' the wrecked ship are entitled to call the owners of the Junior to account in this court for the value of such salved property, over and above satisfying out of the salvage services performed.</p>
+                <p pgmap="1015" id="b1015-6">6. The court of admiralty has jurisdiction of the cause to that end, and the jurisdiction' is not dependent upon the fact that the salved property was arrested or brought within the territorial authority of this court.</p>
+                <p pgmap="1015" id="b1015-7">7. An action in rein may be instituted and prosecuted to judgment in this court, with­out the arrest of the property proceeded against, or its presence within the territorial jurisdiction of this court. This necessarily is so when the process issues against rights and credits, and may be the case, also, in respect to proceeds of ships and other prop­erty. Mauro v. The Almeida, 10 Wheat. [23 U. S.] 473. A citation or monition to the party holding the property is adequate serv­ice to authorize the court, by decree against the party personally, to compel him to fulfil the decree. Waterbury v. Myrick [Case No. 17,253]; Reed v. Hussey [Id. 11,646]; The Robert Fulton [Id. 11,890]; [Jennings v. Car­son] 4 Cranch [8 U. S.] 22, 24; 1 Gel. 75; Mauro v. The Almeida [supra]; [Greenleaf v. Birth] 9 Pet. [34 U. S.] 300. The practice of the English admiralty is to the same effect, — 1 Hogg. Adm. 335; The Merchant [Case No. 9,434], — and the personal appear­ance of the defendants, by stipulation and answer, is equivalent to an attachment of the property itself.</p>
+                <p pgmap="1015" id="b1015-8">8. The process prayed for in the libel was one in due form of law, according to the course of courts of admiralty and of this court, against the proceeds of the cargo, ma­terials, and furniture of the ship Richmond, and that the defendants (by name) and each of them, and all persons having any right thereto, etc., “may be cited to appear and answer the matters alleged and pro­posed,” etc.</p>
+                <p pgmap="1015" id="b1015-9">9. The usual process in rem, against the effects named, was issued in connection with a citation or monition to the defendants personally to appear and answer the libel.</p>
+                <p pgmap="1015" id="b1015-10">10. This process was returned to the mar­shal, personally served on one of the defend­ants, and all of them appear in open court by their proctors, and made their appear­ance, “apud acta to the cause,” and subse­quently filed their answer, contesting the merits of the case, without taking exception by pleading to the form or sufficiency of the process, or its mode of service.</p>
+                <p pgmap="1015" id="b1015-12">11. This is a recognition of the jurisdic­tion of the court over the case, and of the regularity of the proceedings in instituting the suit. A protest, demurrer, or plea to the jurisdiction, or exception to the process, must be taken previous to a full answer to the merits (2 Brown, Civ. Adm. Law, 414; Dunl. Adm. Prac. 180,185; Conk. Prac. c. 8; Betts, Adm. Prac. 48; cases as cited), unless the want of jurisdiction is patent on the libel.</p>
+                <p pgmap="1015" id="b1015-13">12. Nor can the defendants legitimately avail themselves of limitation of time or staleness of the demand, without interposing a defensive allegation to the libel, either be­ing applied as causes of bar to the action. 2 Brown, Civ. Adm. Law, 406, 414.</p>
+                <p pgmap="1015" id="b1015-14">13. The delay of this prosecution is rea­sonably accounted for by the pending of the case of Post v. Jones, 19 How. [60 U. S.] 161, in the supreme court, which related to this wreck and salvage, and involved substantial­ly the merits of this case, and of which the defendants were cognizant; and also by the correspondence between the parties, and is sufficient to protect the libelants from the exception of staleness to their demand.</p>
+                <p pgmap="1015" id="b1015-15">14. The testimony of the witnesses, Cheny and Carr, is admissible, ex necessitate, not­withstanding their apparent interest in the suit; they being salvors in the transaction, —2 Hogg. Adm. 151; Id. 145; The Henry Ewbank [Case No. 6,376]; The Boston [Id. 1,673], — their interest is mostly, if not entire­ly, cumulative. •</p>
+                <p pgmap="1015" id="b1015-16">15. The decision in the previous case— [Post v. Jones] 19 How. [60 U. S.] 161 — hav­ing settled the character of this transaction to be one of salvage, I regard the award of compensation made in that case to the sal-­vors a proper one to be adopted in this, to be reserved by the defendants out of pro­ceeds which have gone into the hands of the defendants, and the same rule also measures one moiety of these proceeds as the amount they are bound to account for to the libelants.</p>
+                <p pgmap="1015" id="b1015-17">16. The decree will be so framed as to se­cure the libelants a moiety of these proceeds, cargo, and materials obtained by the re­spondents from the Junior at New Bedford, after the deduction of freight and charges thereon from the Sandwich Islands to New Bedford. The salved goods lost by perils of the sea on the voyage from the Sandwich Islands to New Bedford are to be brought in­to the account.</p>
+                <p pgmap="1015" id="b1015-18">Decree accordingly, with cost, with an or­der of reference to ascertain and report the amount payable, if the same is not agreed between the parties.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1014" ORDERLABEL="1012" TYPE="page">
+        <fptr FILEID="tiff_00507_1"/>
+        <fptr FILEID="jp2_00507_1"/>
+        <fptr FILEID="alto_00507_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1014.5" BETYPE="IDREF" FILEID="alto_00507_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1015" ORDERLABEL="1013" TYPE="page">
+        <fptr FILEID="tiff_00508_0"/>
+        <fptr FILEID="jp2_00508_0"/>
+        <fptr FILEID="alto_00508_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1015.3" BETYPE="IDREF" FILEID="alto_00508_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-15" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.17" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-14" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.16" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1014-23" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1014.27" BETYPE="IDREF" FILEID="alto_00507_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-17" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.19" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOFs" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1014.30" BETYPE="IDREF" FILEID="alto_00507_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-12" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.14" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-9" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.11" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-8" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.10" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-18" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.20" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-10" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.12" BETYPE="IDREF" FILEID="alto_00508_0"/>
+            <area BEGIN="BL_1015.13" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-3" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.5" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ak0B" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1014.29" BETYPE="IDREF" FILEID="alto_00507_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-6" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.8" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-5" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.7" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1014-10" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1014.12" BETYPE="IDREF" FILEID="alto_00507_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Akml" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1014.13" BETYPE="IDREF" FILEID="alto_00507_1"/>
+            <area BEGIN="BL_1014.14" BETYPE="IDREF" FILEID="alto_00507_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-13" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.15" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-7" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.9" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1014-24" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1014.28" BETYPE="IDREF" FILEID="alto_00507_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1014-22" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1014.26" BETYPE="IDREF" FILEID="alto_00507_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1014-7" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1014.9" BETYPE="IDREF" FILEID="alto_00507_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-16" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.18" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-4" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.6" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1014-25" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1014.31" BETYPE="IDREF" FILEID="alto_00507_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1014-8" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1014.10" BETYPE="IDREF" FILEID="alto_00507_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1014-9" BETYPE="IDREF" FILEID="casebody_0493"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1014.11" BETYPE="IDREF" FILEID="alto_00507_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

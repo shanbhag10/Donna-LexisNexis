@@ -1,0 +1,356 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0482" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Ezilda">The EZILDA</name>
+          <docketnumber>Case No. 4,599</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 943</citation>
+          <decisiondate>1862-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00473_0" MIMETYPE="image/tiff" CHECKSUM="b39536c5d9418f32955fe41b7fe2f8ee" CHECKSUMTYPE="MD5" SIZE="80922">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00473_0.tif"/>
+      </file>
+      <file ID="tiff_00473_1" MIMETYPE="image/tiff" CHECKSUM="ae1b5266e081f4a8b21906d338eb87e7" CHECKSUMTYPE="MD5" SIZE="111236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00473_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00473_0" MIMETYPE="image/jp2" CHECKSUM="a8c267c0b0168e3b6901359d3514c090" CHECKSUMTYPE="MD5" SIZE="3148050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00473_0.jp2"/>
+      </file>
+      <file ID="jp2_00473_1" MIMETYPE="image/jp2" CHECKSUM="5e75fcb411cda16fb831c24fbbfa93b9" CHECKSUMTYPE="MD5" SIZE="3700331">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00473_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00473_0" MIMETYPE="text/xml" CHECKSUM="258c563ae940033b409f921cac8acc06" CHECKSUMTYPE="MD5" SIZE="176712">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00473_0.xml"/>
+      </file>
+      <file ID="alto_00473_1" MIMETYPE="text/xml" CHECKSUM="c0c86437a0f5b3950d0fac17341e229b" CHECKSUMTYPE="MD5" SIZE="229344">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00473_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0482" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="944" firstpage="943">
+              <court id="A2Ro" pgmap="945">District Court, S. D. New York.</court>
+              <docketnumber id="b945-12" pgmap="945">Case No. 4,599.</docketnumber>
+              <citation id="b945-14" pgmap="945">[Blatchf. Pr. Cas. 232.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b945-13" pgmap="945">The EZILDA.</parties>
+              <decisiondate id="AApR" pgmap="945">Oct., 1862.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <footnote label="1">
+                <p id="b945-18" pgmap="945">1 [Reported by Samuel Blatchford, Esq.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="b945-19" pgmap="945">2 [Affirmed in Case No. 4,600.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b946-5" pgmap="946">BETTS, District Judge.</author>
+                <p id="AjRa" pgmap="946">The cargo pro­ceeded against in this suit was captured at sea, on board of and with the schooner Ezil-­da, September 30, 1801, by the United States steamer South Carolina, the day preceding and at the same place with the capture of the Joseph H. Toone, named in the previous cause. The Ezilda was subsequently, after appraisal, appropriated by the captors to the use of the United States, and the cargo was transmitted by other sea conveyance to this port for adjudication. The libel against the cargo, as prize of war, was filed November 23, 1801. On the return of the monition and attachment, on the same day, á proctor ap­peared for the claimant, and, on' the 10th of December thereafter, obtained from the court an order allowing him three weeks’ further time to put in a claim and answer to the libel. The answer and claim was filed December '31, 1801. On the 23d of May, 1802, the libellants moved for. and obtained from the court an order to amend the title of this suit, so as to make it‘“The United States v. The Schooner Ezilda, Her Tackle, and Cargo,” which order was granted by the court, after notice to the claimant’s proctor, and in his presence in court. No further claim or answer has been filed.</p>
+                <p id="b946-6" pgmap="946">The answer put in legally inures only to form an issue with the libel, and the vitu­perative tone of its assertions respecting the captors and the witnesses might have been spared in a paper having no further effect in the suit than to fulfil a legal formula, and to give the respondent a standing in court, to be heard upon the law and the facts drawn from the ship’s papers and the wit­nesses present at her capture.</p>
+                <p id="b946-7" pgmap="946">The appearance and answer are limited to the vessel alone. No answer or claim has been interposed for the cargo. The case was submitted to the court for decision, on written points and briefs, by the counsel for the respective parties, and without oral argu­ment, on the 9th of October, 1862.</p>
+                <p id="b946-8" pgmap="946">The court cannot notice, on final hearing, exceptions to proceedings before the prize commissioners, because of alleged irregular­ities in the admission of testimony, or in the method of conducting the examinations, or to the competency of witnesses examined. If there was ground for rectifying or suppress­ing the proofs for any like cause, the appli­cation to do so should have been brought before the court on special motion, with no­tice to the district attorney, pointing out the irregularities or deficiencies complained of, and praying the proper relief.</p>
+                <p id="b946-9" pgmap="946">The prize commissioners report the testi­mony of three witnesses examined before them in preparatorio in the suit — William A. Hicks, navigator for the voyage, on board the prize, William Johnstone, mate, and Charles A. Scott, seaman. One of the wit­nesses was examined November 27, and the other two December 5, 1SG1, before the prize commissioners, and the depositions were placed in the registry of the court. The ship’s papers produced before the prize com­missioners, as reported by them to the court, consist of a provisional register of the vessel, taken before the British consulate at Havana, dated September 16,1861,' registering the ves­sel in that port to William Henry Aymar, a British subject; a bill of sale of the vessel to the said Aymar by Peter Foster, of Bos­ton, Massachusetts, dated September 13, 1861; shipping articles, dated September 19, 1861, for a voyage on board the Ezilda from Havana “to the port of Matamoras, or any other port or ports of the Gulf of Mexico, and back to Havana,” which article was signed by three persons, only one of whom was found with the vessel when she was captured; various bills of parts of the cargo; some invoices, and a bill of health. Most of the exhibits represent the intended voyage to be from Havana to Matamoras; but, in addition to the special language in the ship­ping articles covering all ports in the Gulf of Mexico, and necessarily embracing con­federate ports, the bill of - lading executed on the 18th of September, 1861, at Havana, by the then captain of the schooner, Sullivan, expressly states that the vessel is “bound for either of the Confederate States ports, not further south than Brazos.” The an­swers of the acting master, the mate, and the seaman, prove that the vessel was bound to Barataría, or some other enemy port; that Aymar, her owner, was proprietor, with Brudendorf, her former master, of the cargo, and that the vessel and cargo were really destined for the enemy, and were intended to run the known blockade of enemy ports. The testimony of the owner, Aymar, invoked from the case of the Joseph H. Toone, proves that he was a domiciled trader in New Orleans.</p>
+                <p id="b946-11" pgmap="946">There seems to me, therefore, no room for doubt that the vessel and cargo are subject to forfeiture for each of three causes: First. There was no bona fide neutral ownership of the vessel in the claimant Aymar. Second. The voyage was set on foot at Havana with intent to violate the blockade of the port of New Orleans, and the vessel and cargo were captured directly on the coast of Louisiana, whilst attempting to execute that purpose. Third. A large part of the cargo was con­traband of war, and was laden on the vessel with knowledge, on the part of her owner and of the other freighters of the cargo, that the voyage was an illicit one, and was destined for the Confederate or Secession States of the Union.</p>
+                <p id="b946-12" pgmap="946">It is therefore ordered that judgment of condemnation and forfeiture of the vessel and cargo be rendered in this suit</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="945" ORDERLABEL="943" TYPE="page">
+        <fptr FILEID="tiff_00473_0"/>
+        <fptr FILEID="jp2_00473_0"/>
+        <fptr FILEID="alto_00473_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_945.9" BETYPE="IDREF" FILEID="alto_00473_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="946" ORDERLABEL="944" TYPE="page">
+        <fptr FILEID="tiff_00473_1"/>
+        <fptr FILEID="jp2_00473_1"/>
+        <fptr FILEID="alto_00473_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_946.4" BETYPE="IDREF" FILEID="alto_00473_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2Ro" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_945.17" BETYPE="IDREF" FILEID="alto_00473_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b946-12" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_946.15" BETYPE="IDREF" FILEID="alto_00473_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjRa" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_946.7" BETYPE="IDREF" FILEID="alto_00473_1"/>
+            <area BEGIN="BL_946.8" BETYPE="IDREF" FILEID="alto_00473_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b946-8" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_946.11" BETYPE="IDREF" FILEID="alto_00473_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b946-7" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_946.10" BETYPE="IDREF" FILEID="alto_00473_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b946-9" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_946.12" BETYPE="IDREF" FILEID="alto_00473_1"/>
+            <area BEGIN="BL_946.13" BETYPE="IDREF" FILEID="alto_00473_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b946-11" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_946.14" BETYPE="IDREF" FILEID="alto_00473_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b946-6" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_946.9" BETYPE="IDREF" FILEID="alto_00473_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b945-18" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_945.22" BETYPE="IDREF" FILEID="alto_00473_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b945-19" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_945.23" BETYPE="IDREF" FILEID="alto_00473_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b946-5" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_946.6" BETYPE="IDREF" FILEID="alto_00473_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b945-12" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_945.14" BETYPE="IDREF" FILEID="alto_00473_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b945-13" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_945.15" BETYPE="IDREF" FILEID="alto_00473_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AApR" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_945.18" BETYPE="IDREF" FILEID="alto_00473_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b945-14" BETYPE="IDREF" FILEID="casebody_0482"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_945.16" BETYPE="IDREF" FILEID="alto_00473_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0604" publicationstatus="published">
+          <court abbreviation="C.C.D. Pa." jurisdiction="United States">United States Circuit Court for the District of Pennsylvania</court>
+          <name abbreviation="Felichy v. Hamilton">FELICHY v. HAMILTON</name>
+          <docketnumber>Case No. 4,719</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1129</citation>
+          <citation category="parallel" type="bluebook">1 Wash. C. C. 491</citation>
+          <decisiondate>1806-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00566_0" MIMETYPE="image/tiff" CHECKSUM="16b23657a802bdbb55c4cc6d2c30cc63" CHECKSUMTYPE="MD5" SIZE="74670">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00566_0.tif"/>
+      </file>
+      <file ID="tiff_00566_1" MIMETYPE="image/tiff" CHECKSUM="92c11bca30a56be2a38d6f0069e4f3da" CHECKSUMTYPE="MD5" SIZE="71468">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00566_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00566_0" MIMETYPE="image/jp2" CHECKSUM="876fb434cafb896b5d84b7c53504bf6a" CHECKSUMTYPE="MD5" SIZE="2909195">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00566_0.jp2"/>
+      </file>
+      <file ID="jp2_00566_1" MIMETYPE="image/jp2" CHECKSUM="045e2707dd5e7d0d988b7a269d1f9c85" CHECKSUMTYPE="MD5" SIZE="2859885">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00566_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00566_0" MIMETYPE="text/xml" CHECKSUM="cae183034cea8a605bf0644b6fcd908d" CHECKSUMTYPE="MD5" SIZE="152933">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00566_0.xml"/>
+      </file>
+      <file ID="alto_00566_1" MIMETYPE="text/xml" CHECKSUM="093a5d6db454b633cdbe4a15ab1be8d6" CHECKSUMTYPE="MD5" SIZE="150146">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00566_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0604" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1130" firstpage="1129">
+              <court id="b1131-16" pgmap="1131">Circuit Court, D. Pennsylvania.</court>
+              <docketnumber id="b1131-13" pgmap="1131">Case No. 4,719.</docketnumber>
+              <citation id="b1131-15" pgmap="1131">[1 Wash. C. C. 491.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1131-14" pgmap="1131">FELICHY v. HAMILTON.</parties>
+              <decisiondate id="Ae6" pgmap="1131">Oct. Term, 1806.</decisiondate>
+              <footnote label="1">
+                <p id="b1131-24" pgmap="1131">1 [Originally published from the MSS. of Hon. Bushrod Washington, Associate Justice of the Supreme Court of the United States, under the supervision of Richard Peters, Jr., Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1132-4" pgmap="1132">WASHINGTON, Circuit Justice.</author>
+                <p id="AIt1" pgmap="1132">To con­stitute a partnership, there must be a com­munity of interest; a participation in profit and loss; and this joint interest must con­tinue to the time of the sale, as well as to the purchase. This joint interest in the whole, is what constitutes the liability of . all for the contracts of one. If the Mackeys and Hamilton purchased on joint account, and shipped the snuff to be sold on joint account, then they are liable jointly for the advances made by the plaintiffs, on account of this joint concern. The measure of their interest in the snuff, will be the measure of their liability for the advances. If they were not jointly concerned in the sale, the conduct of the Mackeys, in making the ship­ment on joint account, if not done with the knowledge of Hamilton, cafinot make it a partnership transaction. But, if they were jointly concerned in the sale, then the plain­tiff, corresponding only with the Mackeys, did not discharge Hamilton. The responsi­bility of one partner, for the contracts of another, is not solely on the ground of the credit being given to all, which it is not in the case of a dormant partner; but because, that being to share the profits, they must share the loss. Neither would the agreement of one partner with another, not to act in the business; whatever may be the effect of this as between the parties, it is nothing to third persons; neither ought the plaintiff to be affected by his having claimed only a moiety from Hamilton. For, if there was really a partnership, it was no more than a mistake of his legal rights.</p>
+                <p id="b1132-5" pgmap="1132">Verdict for plaintiff.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1131" ORDERLABEL="1129" TYPE="page">
+        <fptr FILEID="tiff_00566_0"/>
+        <fptr FILEID="jp2_00566_0"/>
+        <fptr FILEID="alto_00566_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1131.3" BETYPE="IDREF" FILEID="alto_00566_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1132" ORDERLABEL="1130" TYPE="page">
+        <fptr FILEID="tiff_00566_1"/>
+        <fptr FILEID="jp2_00566_1"/>
+        <fptr FILEID="alto_00566_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1132.4" BETYPE="IDREF" FILEID="alto_00566_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1131-15" BETYPE="IDREF" FILEID="casebody_0604"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1131.17" BETYPE="IDREF" FILEID="alto_00566_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1131-14" BETYPE="IDREF" FILEID="casebody_0604"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1131.16" BETYPE="IDREF" FILEID="alto_00566_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1131-16" BETYPE="IDREF" FILEID="casebody_0604"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1131.18" BETYPE="IDREF" FILEID="alto_00566_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1131-13" BETYPE="IDREF" FILEID="casebody_0604"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1131.15" BETYPE="IDREF" FILEID="alto_00566_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1132-4" BETYPE="IDREF" FILEID="casebody_0604"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1132.6" BETYPE="IDREF" FILEID="alto_00566_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1132-5" BETYPE="IDREF" FILEID="casebody_0604"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1132.9" BETYPE="IDREF" FILEID="alto_00566_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1131-24" BETYPE="IDREF" FILEID="casebody_0604"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1131.28" BETYPE="IDREF" FILEID="alto_00566_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIt1" BETYPE="IDREF" FILEID="casebody_0604"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1132.7" BETYPE="IDREF" FILEID="alto_00566_1"/>
+            <area BEGIN="BL_1132.8" BETYPE="IDREF" FILEID="alto_00566_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ae6" BETYPE="IDREF" FILEID="casebody_0604"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1131.19" BETYPE="IDREF" FILEID="alto_00566_0"/>
+            <area BEGIN="BL_1131.20" BETYPE="IDREF" FILEID="alto_00566_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0117" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="In re Jackson">In re JACKSON</name>
+          <docketnumber>Case No. 7,126</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 199</citation>
+          <citation category="parallel" type="bluebook">1 MacA. Pat. Cas. 485</citation>
+          <decisiondate>1857-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00101_0" MIMETYPE="image/tiff" CHECKSUM="3b93e48e58047e9a90626ce944acbd07" CHECKSUMTYPE="MD5" SIZE="100428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00101_0.tif"/>
+      </file>
+      <file ID="tiff_00101_1" MIMETYPE="image/tiff" CHECKSUM="7ec8a1f54159854f53f574b0db73997b" CHECKSUMTYPE="MD5" SIZE="109936">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00101_1.tif"/>
+      </file>
+      <file ID="tiff_00102_0" MIMETYPE="image/tiff" CHECKSUM="4ca8dbf1c67b425ec700d347286d2bb9" CHECKSUMTYPE="MD5" SIZE="118392">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00102_0.tif"/>
+      </file>
+      <file ID="tiff_00102_1" MIMETYPE="image/tiff" CHECKSUM="4392190f35a0a0a3a3f85605545e3890" CHECKSUMTYPE="MD5" SIZE="117532">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00102_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00101_0" MIMETYPE="image/jp2" CHECKSUM="735bbb5a6c4d1ad44330f487a9044ac4" CHECKSUMTYPE="MD5" SIZE="3522345">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00101_0.jp2"/>
+      </file>
+      <file ID="jp2_00101_1" MIMETYPE="image/jp2" CHECKSUM="b84f9f876367213236e9d51c7926adc8" CHECKSUMTYPE="MD5" SIZE="3680292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00101_1.jp2"/>
+      </file>
+      <file ID="jp2_00102_0" MIMETYPE="image/jp2" CHECKSUM="057e5ce0cd83a82c851a7c56699a632c" CHECKSUMTYPE="MD5" SIZE="3865431">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00102_0.jp2"/>
+      </file>
+      <file ID="jp2_00102_1" MIMETYPE="image/jp2" CHECKSUM="62ff9dcc97f3ee97c36803c1f0b3ad74" CHECKSUMTYPE="MD5" SIZE="3834239">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00102_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00101_0" MIMETYPE="text/xml" CHECKSUM="cf0b3ae9b58e3d24179f416e57016e89" CHECKSUMTYPE="MD5" SIZE="215634">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00101_0.xml"/>
+      </file>
+      <file ID="alto_00101_1" MIMETYPE="text/xml" CHECKSUM="40dc4fdfa0ec8916a320ad0e96755c59" CHECKSUMTYPE="MD5" SIZE="232118">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00101_1.xml"/>
+      </file>
+      <file ID="alto_00102_0" MIMETYPE="text/xml" CHECKSUM="c3d00c74a10357bf9e98f2ac96884573" CHECKSUMTYPE="MD5" SIZE="244422">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00102_0.xml"/>
+      </file>
+      <file ID="alto_00102_1" MIMETYPE="text/xml" CHECKSUM="7b4942168b0b927ae5a58afe718af164" CHECKSUMTYPE="MD5" SIZE="246249">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00102_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0117" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="202" firstpage="199">
+              <court pgmap="201" id="b201-15">Circuit Court, District of Columbia.</court>
+              <docketnumber pgmap="201" id="b201-12">Case No. 7,126.</docketnumber>
+              <citation pgmap="201" id="b201-14">[1 MacA. Pat. Cas. 485.]</citation>
+              <parties pgmap="201" id="b201-13">In re JACKSON.</parties>
+              <decisiondate pgmap="201" id="ACk">Feb., 1857.</decisiondate>
+              <attorneys pgmap="202" id="b202-4">Z. C. Robbins, for appellant.</attorneys>
+              <opinion type="majority">
+                <author pgmap="202" id="b202-5">MORSELL, Circuit .Judge.</author>
+                <p pgmap="202" id="AYJ">This applica­tion appears to have been rejected on the ground of analogous use or want of novelty. The specification as amended is in these words: “I claim nothing new in a divided frame or perforated plate or partitioned plane surface, provided with glasses or lenses to convey the light therethrough, ir­respective of the form of glass employed, as such is common to window-sashes or frames, both square and round, and is in use for vault lights, as herein specified; but what I do claim as new and useful herein, and de­sire to secure by letters-patent, is providing the openings or spaces of the partitioned or perforated frame A, which forms the vault-­light sash or cover, with a series of polyg­onal glasses B, of inverted pyramidal form at their lower ends A', for the purpose of a better lateral and wider or more general diffusion of the light on all sides of the cover within the surrounding closed space or dark body, and on or against the sides of the vault, as shown and described.” In a further description of his device or contriv­ance, he says: • “The hole or throat C of the vault has beveled or inclined sides, as clearly shown in Fig. 1, so as to allow the glasses to throw or spread the rays of light within the vault” In further explaining the nature of his invention, he says: “The glasses B, owing to the form of their bases or lower surfaces A', will throw or spread the light laterally, the angle of incidence be­ing equal to the angle of refraction, while the rays of light in passing through the lenses b of the ordinary vault lights will cross at the focal points without being much spread or diffused within the vault, as pre­viously stated.” The commissioner supposed that there was nothing substantially new in the principles embraced within this specifica­tion, and referred to the patent of Thaddeus Hyatt of November 12th, 1S45 [No. 4,266], reissued April 3d, 1865 [No. 303], as cover­ing all that is embraced in the alleged in­vention. Hyatt’s claim, as stated in his patent, appears to be “the combining with the covering-plate B B a series of glasses of any suitable form, or of lenses, such as are shown at A A, said combination being ef­fected substantially in the manner described by the aid of laminal wood or of soft metal, as shown at C O, and the glasses or lenses being defended from injury by knobs or pro­tuberances, as herein set forth.” In his ap­plication for his reissued patent he very par­ticularly describes his inventions, and of the accidental omission in his first application of several other modes of applying his said in­vention.’</p>
+                <p pgmap="202" id="b202-8">As relates to the particular point now un­der consideration, he says: “By my inven­tion more light can be admitted, notwith­standing a portion of the area is occupied by the grating, for the reason that much thinner glass can be used, more readily dis­posed to spread the light to advantage, and, if desired, can be partially protected against scratching.” Further on, he says: “In the section Fig. 2 the form which I have given to the glasses is that of lenses, and the man­ner of setting them in wood is fully repre­sented. C C are two laminae of wood, in the upper of which the lenses are affixed in such manner as that their convex faces shall project above the surface of the iron casting; the lowermost piece bears on the edges of the lenses and keeps them in place,” &amp;c. * * * “I prefer to make my il­luminating glasses circular and convex on one side, as represented; but they may be made square or in other forms and have their faces flat. I do not intend, therefore, to limit myself to any particular number or form of the glasses.” Still further, he says: “I have herein specified three modes in which the principle or character of my invention may be applied; but it will be obvious that other modifications may be made coming "within the range or scope of the said princi­ple. What I claim as my invention, and de­sire to secure by letters-patent in covers for openings to vaults in floors, decks, &amp;c., is making them of a metallic grating or per­forated metallic plate with the apertures so small that persons or bodies passing over or falling on them may be entirely sustained by the metal, substantially as described; but this I only claim when the apertures are pro­tected by glass, substantially as and for the purpose specified. And I also claim, in com­bination with the grating or perforated cov­er and glass fitted thereto, the knobs or pro­tuberances on the upper surface of the grating or perforated plate for preventing the abrasion or scratching of the glass, sub­stantially as specified.”</p>
+                <p pgmap="202(145) 203(99)" id="b202-9">The commissioner’s decision is placed up­on two grounds: First. That the application does not sufficiently show the fact that it is at most only an improvement upon an ex­isting patent. Secondly. That the claim now presented seems to be founded on a mere change of form; that no advantage is likely to accrue from the use of this particu­lar shape to the glasses, instead of those which had before been in use. He pro­ceeds: “It is said in behalf of the applicant that his form of the vault glasses causes the rays of light to diverge, whereas the double convex glass causes those rays to converge. Practically, I do not perceive any material difference which this can make. As those glasses are usually constructed, or at least as they may readily be constructed, the point where the converging rays of light meet will be within half an inch of the un­der surface of the glass; from that point as a centre they may he made to diverge at any angle that may be necessary. In the case now under consideration the centre of ■divergence is within the surface of the vault glass. Upon Hyatt’s plan that centre is, say, half an inch below the lower sur­face. Starting from these two points, they may be made to proceed substantially paral­lel to each other, the one perhaps an inch above the other. I see no special advantage •in this.”</p>
+                <p pgmap="203" id="b203-3">The reasons of appeal are, in substance— First That the character of the invention covered by Hyatt’s patents has been mis­represented (or misunderstood, I suppose, is meant). Second. That the commissioner erred in deciding that Jackson’s specification does not sufficiently show the fact that his application was for an improvement upon an existing patent Third. That the commis­sioner erred in suggesting that the glasses in Hyatt’s vault covers may be readily con­structed in such a manner that the point where the converging rays of light meet will be within half an inch of the under surface of the glass, there being no evidence to show that he ever did originate or use anything of the kind.</p>
+                <p pgmap="203" id="b203-4">The commissioner in his report, among oth­er things, further says: “It is well settled that a mere change of form is not the subject of a patent I thought the applicant had shown nothing more than a mere change of form of what had been previously used, and decided accordingly.” He further says: “Lenses had before been made of various shapes, among which were the plano-convex. It was very clear to my mind that the pro­posed convexity of the inferior surfaces of these lenses fairly included all the various degrees of convexity, allowing the patentee to fix upon that particular degree which ex­periment should show best adapted to his purpose. To make these inferior surfaces of a pyramidal form did not seem to me pat­entable, any more than it would now be patentable to construct them of a conical or any other figure in which they could not be shown to have been made previously. These all seemed to me mere changes of form.” As to the argument used by the appellant to show the fact of the superiority of his glass­es, founded upon the principle of a well-­settled law of the refraction of light, the commissioner says: “That law is, that a ray -of light, in passing from a rarer into a denser medium, inclines towards a perpendicular to the surface through which the ray so passes; and in passing from a denser into a rarer medium, always diverges from a perpendic­ular, not (as the applicant claims) by making ■the angle of incidence equal to the angle of refraction, but the degree of refraction de­pends upon the relative density of the two media, and upon other circumstances not nec­essary to be mentioned in this connection.” He says, further, as to the assumption of the applicant that the convex lens causes the rays of light to converge, while the pyrami­dal form causes them to diverge, if this were true, he does not see how it helps the appli­cant’s casa and shows the fallacy of the argu­ment by diagrams of each of the glasses, show-­ingthat there would be no material advantage gained as to scattering the rays of light be­fore they reached the floors of the vault. The commissioner proceeds: “But the appli­cant is wrong in his science. The pyramidal lens will not cause the refracted rays to di­verge. They will converge as well as those which pass through the convex lens. The vertical rays in passing out from the inferior surface will be deflected from a perpendicu­lar and made to take the directions m. p. and m. p. It is, however, well known that when the ray of light, as before áaid, reaches the inferior surface of the respective lenses it does not entirely pass through the lens, but a portion in each case will be reflected back into the interior of the lens until it strikes another exterior surface, when a por­tion passes through, being refracted from a perpendicular, and a portion is a second time reflected back, and so on continually. This principle will modify the question to some extent, so that we cannot pronounce a priori as to the final result. Experiment may show conclusions different from argument. In such cases it has always seemed to me that the burden of proof was upon the applicant, and there is not a particle of proof presented by him on that head in this case.”</p>
+                <p pgmap="203(245) 204(190)" id="b203-7">At the time and place appointed for the hearing of this cause, the commissioner laid before me all the original papers in the case, and his written report and the reasons of appeal, and the same was submitted on the written argument of the appellant The prin­cipal question in the case is whether the pe­culiar device in the construction and form of the appellant’s glass, and its operation in connection with the flaring sides of the neck of the vault supposed to cause the rays of light to diverge at a point within the glass, is not an improved invention in illuminating vault covers. In his argument before me, the counsel for the appellant supposes the commissioner to have been deceived in the essential difference between his glass and that of Hyatt’s. He contends that no case can be shown of a glass with a flat outer surface and a pointed, many-faced refracting inner surface, that has been used for any purpose whatever; that an inverted glass pyramid cannot be termed a lens. The rays of light, in passing through an inverted pyra­mid, (with the exception of the single ray which passes through its centre,) are reflect­ed from the inclined surface against which they first strike to the opposite face of the pyramid, through which they pass obliquely outwards at any desired angle, the angles of said reflection and refraction depending up­on the greater or less degree of inclination of the sides of said inverted pyramid. The ar­gument continues: “Now, a lens must have a curved surface which is the segment of a circle. A hemisphere, therefore, is a lens of the highest power than can be used by Mr. Hyatt. A lens of this proportion will only diverge the rays of light w'hich pass through it near its periphery the distance of eighteen inches from a vertical line passing through its centre in descending the distance of eight feet Therefore, if Hyatt should use this form of lens in his vault cover, and should taper the opening closed by said cover, you will perceive that the rays of light passing through the same would only be diverged eighteen inches beyond the periphery of the opening in the pavement in descending the distance of eight feet; consequently, the idea that the light can be as perfectly diffused throughout an 'apartment when it enters through a series of lenses set in a cover which closes an opening in its ceiling as when the light passes through a series of inverted glass pyramids set in said cover, is an egregious fallacy.”</p>
+                <p pgmap="204" id="b204-3">In considering this case, it will be impor­tant to ascertain whether the modus oper-­andi is substantially the same in this as in Hyatt’s glasses, or whether Jackson’s de­vice develops some new and useful principle. The object and purpose of both seem to be in the most perfect way to illuminate vaults by transparent glasses. The commissioner says that experiment may show conclusions different from argument. In such cases, the burden of proof is upon the applicant, and there was not a particle of proof presented by him on that head in this case. The com­missioner, therefore, decided upon what he thought were the theoretical principles ap­plicable thereto. The very learned views which he has taken on this branch of the subject would make it unnecessary for me to add anything; but it will appear from the part of the argument recited, made before me by the counsel for the appellant, that the position now taken is different, in some re­spects, from that which was made before the commissioner. He now argues that his glasses, from their peculiar form and shape, reflect all the rays of light except one pass­ing through the centre to the opposite face of the pyramid, through which they pass obliquely outward to any angle, and that such his drawings represent. Whether such is the case or not, is far from appearing to me to be obvious. In opposition to this idea-­giving his glass all the inclination he claims for it — I observe that the rays of light will fall at all angles on his glasses, a part of which will pass through by refraction with­out having been first reflected, and the re­maining portion will also pass through after having been reflected. This, if correct, would in a considerable measure effect the conse­quence which has been deduced. It may also be remarked that this operation, in some, if not in the same, degree would be the ease with Hyatt’s glasses. It appears, also, from» the letter of the appellant that such is the-­mode of operation claimed by himself. It is, however, certain that the form of the glass, in connection with the flaring sides of the throat of the vault, is new; and if its oper­ation be to effect a divergency of the rays of light from a point within the glass, as appears from the specification and drawings, whether the mode of its passing out be by reflection or refraction, it would be the means, certainly, of causing greater light in the upper part of the vault; and as the many-sided form of the glass, according to-­the best -information I have been able to ob­tain, is better for spreading the light later­ally, the same effect would be produced ins the lower part also. Hyatt’s glass, where the point of divergency Is at some distance below the glass, it would seem would be in­ferior, of course, and the difference, if very great, would be evidence of an improved invention. The ascertainment of this fact, therefore, is of importance. The rule of law applicable to this point may be found stated in Webst. Pat. subject-matter pp. 29, 30, thus: “Whenever the change and its conse­quences, taken together- and viewed as a sum, are considerable, there must be a suf­ficiency of invention to support a patent.” The commissioner very properly says: “We cannot pronounce a priori as to the final re­sult. Experiment may show conclusions dif­ferent from argument. In such cases it has always seemed to me that the burden of proof was upon the applicant; and there i» not a particle of proof presented by him on that head in this case.” I find among the papers sent up from the office a number of affidavits taken by the appellant in New York, made by merchants and mechanics upon the subject in this case of experiments made with the appellant’s glass, compared with that of Hyatt’s, from which it would appear that the result is much superior to Hyatt’s in illuminating the vault. But these affidavits, not having been taken by the au­thority of the commissioner, and acted upon by him in forming his decision in this case. I can of course take no judicial notice of. In the absence of such experimental evi­dence, I think the principles stated as the grounds of his judgment on this point are correct. I hope, however,- it may not be thought improper respectfully to suggest the propriety of the commissioner’s giving his au­thority to suffer depositions to be regularly taken and laid before him for his further ac­tion as to the practical effect of the appel­lant’s glass, and to give him notice to -that effect. If this should be done, my opinion-­on the point first mentioned in the opinion of the commissioner is that the particular in­vention of the appellant ought to be distinct­ly stated in his specification, and that he can have a patent only for that; but this, I think, he has already done. I think the de­cision of the commissioner must be affirmed</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="201" ORDERLABEL="199" TYPE="page">
+        <fptr FILEID="tiff_00101_0"/>
+        <fptr FILEID="jp2_00101_0"/>
+        <fptr FILEID="alto_00101_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_201.3" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="202" ORDERLABEL="200" TYPE="page">
+        <fptr FILEID="tiff_00101_1"/>
+        <fptr FILEID="jp2_00101_1"/>
+        <fptr FILEID="alto_00101_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_202.4" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="203" ORDERLABEL="201" TYPE="page">
+        <fptr FILEID="tiff_00102_0"/>
+        <fptr FILEID="jp2_00102_0"/>
+        <fptr FILEID="alto_00102_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_203.3" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="204" ORDERLABEL="202" TYPE="page">
+        <fptr FILEID="tiff_00102_1"/>
+        <fptr FILEID="jp2_00102_1"/>
+        <fptr FILEID="alto_00102_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.4" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-4" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.6" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            <area BEGIN="BL_203.7" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-3" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.5" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-9" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.12" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            <area BEGIN="BL_203.1" BETYPE="IDREF" FILEID="alto_00102_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-8" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.11" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-5" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.7" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-14" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.16" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-15" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.17" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-12" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.14" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b201-13" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.15" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b203-7" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_203.8" BETYPE="IDREF" FILEID="alto_00102_0"/>
+            <area BEGIN="BL_204.1" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACk" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_201.18" BETYPE="IDREF" FILEID="alto_00101_0"/>
+            <area BEGIN="BL_201.19" BETYPE="IDREF" FILEID="alto_00101_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYJ" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.8" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            <area BEGIN="BL_202.9" BETYPE="IDREF" FILEID="alto_00101_1"/>
+            <area BEGIN="BL_202.10" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b202-4" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_202.6" BETYPE="IDREF" FILEID="alto_00101_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-3" BETYPE="IDREF" FILEID="casebody_0117"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.5" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            <area BEGIN="BL_204.6" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

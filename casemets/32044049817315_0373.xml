@@ -1,0 +1,378 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0373" publicationstatus="published">
+          <court abbreviation="C.C.D. Iowa" jurisdiction="United States">United States Circuit Court for the District of Iowa</court>
+          <name abbreviation="Johnson v. Bishop">JOHNSON v. BISHOP</name>
+          <docketnumber>Case No. 7,373</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 732</citation>
+          <citation category="parallel" type="bluebook">8 N. B. R. 533; 21 Pittsb. Leg. J. 77</citation>
+          <decisiondate>1868-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00367_1" MIMETYPE="image/tiff" CHECKSUM="7c34d6a39c4f085df88750308368c552" CHECKSUMTYPE="MD5" SIZE="51646">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00367_1.tif"/>
+      </file>
+      <file ID="tiff_00368_0" MIMETYPE="image/tiff" CHECKSUM="fcca0494578bf744ab6c3a21e5227fe7" CHECKSUMTYPE="MD5" SIZE="105562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00368_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00367_1" MIMETYPE="image/jp2" CHECKSUM="d9d5a5d8a801c47192a63e827a756a47" CHECKSUMTYPE="MD5" SIZE="2270811">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00367_1.jp2"/>
+      </file>
+      <file ID="jp2_00368_0" MIMETYPE="image/jp2" CHECKSUM="6ce5b3940b73c02845f1c681f2c79f56" CHECKSUMTYPE="MD5" SIZE="3721871">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00368_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00367_1" MIMETYPE="text/xml" CHECKSUM="30f3cdaaf8dbbabe5fbc5ea7f94ac618" CHECKSUMTYPE="MD5" SIZE="108081">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00367_1.xml"/>
+      </file>
+      <file ID="alto_00368_0" MIMETYPE="text/xml" CHECKSUM="5e5de354e5ff0815b49cc378a521b5ec" CHECKSUMTYPE="MD5" SIZE="236347">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00368_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0373" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="733" firstpage="732">
+              <court pgmap="734" id="AN-">Circuit Court, D. Iowa.</court>
+              <docketnumber pgmap="734" id="b734-2">Case No. 7,373.</docketnumber>
+              <citation pgmap="734" id="AqcK">8 N. B. R. 533; 21 Pittsb. Leg. J. 77.]</citation>
+              <parties pgmap="734" id="A-Mh">JOHNSON v. BISHOP.</parties>
+              <decisiondate pgmap="734" id="Akt2">Oct. Term, 1868.</decisiondate>
+              <attorneys pgmap="734" id="b734-25">Mr. Gillmore, for plaintiff in error.</attorneys>
+              <attorneys pgmap="734" id="b734-26">Mr. Bankin, for defendant in error.</attorneys>
+              <p pgmap="734" id="Agn">[Woolw. 324; <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="734" id="b734-22">1 [Beported by James M. Woolworth, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="734" id="b734-27">MILLEB, Circuit Justice.</author>
+                <p pgmap="734" id="Aumy">If the matters set forth in the plaintiff’s petition are true, which we are here to assume, the title to the goods attached vested in the assignee as soon as the assignment to him was executed. And with this title he acquired a right of immediate possession. This possession he could recover in a court of justice. But to what court should he apply? Had this prop­erty been in the possession of a party who could not shelter himself behind the -juris­diction of a court of law, undoubtedly the federal court would have had jurisdiction of the case. It would then have been with­in the terms of the 1st and 2d sections of the act. Does that circumstance take the case out of the statute ? — that is, does the fact that, at the time the bankruptcy pro­ceedings were instituted, the property was in the hands of the sheriff, under attach­ments issued out of the state courts, de­prive the federal court of its jurisdiction? The property is held by the sheriff under writs rightfully issued, and his possession is the possession of the court by the com­mand of whose writ he seizes it. And so long as the proceedings, in virtue of which it was taken, are pending, that possession will not be interfered with by' any other court.</p>
+                <p pgmap="734" id="b734-28">This general principle has been acted upon in England in many cases in which two courts of concurrent jurisdiction were sought to be brought into collision. Payne v. Drewe, 4 East, 523; Evelyn v. Lewis, 3 Hare, 472; Russell v. East Anglian R. Co., 3 Macn. &amp; G. 104. By this salutary rule harmony is maintained between the several superior courts of law and chancery, which have co-extensive and concurrent jurisdic­tion in a great variety of cases. The im­portance of the rule, and of. scrupulously obeying it in this country, is greatly in­creased by the fact that the federal and state courts, although exercising their ju­risdiction in the same territory, over the same subjects, and often the same classes of litigants, draw their existence from dif­ferent sources, and are to one another for­eign tribunals. In no other way can un­seemly and mischievous collisions be avoid­ed.</p>
+                <p pgmap="734(10) 735(407)" id="b734-29">In Hague v. Lucas, 10 Pet. [35 U. S.] 400, property had been taken in attachment by the state sheriff, and released on bail, when the marshal of the United States seized it on execution out of the federal court It was held, that the latter could not levy on the property, because it was in the posses­sion of the state court by virtue of its writs first levied. In Peck v. Jenness, 7 How. [48 U. S.] 612, the property had been taken in attachment out of the state court, after which the debtor was discharged under the bankrupt act of 1841 [5 Stat. 440]. The question was, whether, under the law, this discharge dissolved the attachment. And it was held that it did not. In Pulliam v. Osborne, 17 How. [58 U. S.] 471, it was held that when co-ordinate liens were obtained by one judgment in a state court, and an­other in a United States court, a seizure by a sheriff under an execution on the former, gave priority over the latter. In Taylor v. Carryl, 20 How. [61 U. S.] 583, a vessel had been attached on state process, and after-­wards arrested in admiralty. Sales being made in each suit to different persons, the purchaser under the decree in admiralty brought replevin against the purchaser un­der the attachment proceedings in the state court. It was held that the admiralty pro­cess and proceedings and decree and sale were ineffectual to make a title, because that court could not take the property from the state court which had possession of it And the rule was so held in the similar cases of The Oliver Jordan [Case No. 10,­503]; The Robert Fulton [Id. 11,890]; and in Freeman v. Howe, 24 How. [65 U. S.] 450; Ex parte Robinson [Case No. 11,935]; Ex parte Dorr, 3 How. [44 U. S.] 103; and Buck v. Colbath, 3 Wall. [70 U. S.] 334. In the last mentioned case, it is said, that “it is only while the property is in possession of the court, either actually or constructive­ly, that the court is bound or professes to protect that possession from the process of other courts. Whenever the litigation is ended, or the possession of the officer or court is discharged, other courts are at lib­erty to deal with it according to the rights of the parties before them, whether those rights require them to take possession of the property 6r not.”</p>
+                <p pgmap="735" id="b735-4">It is claimed that, upon this principle, the motion cannot prevail, because the bank­ruptcy proceedings, terminating in a dis­charge of the debtor, operated to discharge the attachments out of the state courts at once, without any order in that behalf, so that the sheriff was left without any au­thority to hold the property. It may be true that the attachments have ceased to have any binding force. But whether they have or not, is the question; and this ques­tion depends, not only upon a proposition of law here urged upon us, but also upon two questions of fact, that is, whether Loeb has been adjudicated a bankrupt; and whether he was the only member of the firm of Loeb &amp; Company. Of the principle of law the state court is bound to take ju­dicial notice, but of the two facts stated, it is not bound to take such notice.</p>
+                <p pgmap="735" id="b735-6">No court is bound to take judicial notice of the proceedings of another court. If ma­terial to a controversy before it, it must be informed thereof by the pleadings, and if the allegations are denied, they must be proven by the record. The state court can have no knowledge, or even notice, of the proceedings in the federal court, by which its right to possess and adjudicate the prop­erty in question is affected. It. should be informed, in a proper way, of those pror ceedings, before its possession is interfered with or assailed. It would be a violation of judicial comity, and provoke unseemly conflicts, to seize the property out of the hinds of its officer, just as much in the case before us, as in the cases cited. Informa­tion of these facts, in some proper plead­ing, must be communicated to the court If the allegations are denied, they must be proved by the record Of the district court. To that record the state court must pay heed, and give effect to the principle of law here insisted on. Then all collision will be avoided, and that comity which, in order to have harmonious action, must obtain be­tween the two jurisdictions, will be secured.</p>
+                <p pgmap="735" id="b735-7">Nor is there any foundation for the idea that the federal' courts have exclusive ju­risdiction of such suits in behalf of the as-­signee. Neither the 14th section, which gives him the right to sue for and recover the estate, debts, and effects of the bank­rupt, nor the 1st section, which fully de­fines the jurisdiction of the district court, declares it to be exclusive in this class of eases. On the contrary, his right to appear in the state court in this case, and there assert his claim to possession of this prop­erty, is expressly recognized by the clause of section 14 which authorizes him to prose­cute and defend all suits at law or in equity pending at the time of the adjudication of bankruptcy, in which the bankrupt is a party in his own name. And if the state courts fail to recognize his legal rights, a presumption not here to be indulged, he can] in the proper mode, bring the case from the highest court of the state to the high­est court of the United States. Peck v. Jen­ness, 7 How. [48 U. S.] 612.</p>
+                <p pgmap="735" id="b735-8">I am therefore of opinion, that until some action is had in the state court relinquish­ing possession of the property in contro­versy, no action can be brought for that possession in any other court. The judg­ment of the district court is accordingly affirmed, with costs. Judgment affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="734" ORDERLABEL="732" TYPE="page">
+        <fptr FILEID="tiff_00367_1"/>
+        <fptr FILEID="jp2_00367_1"/>
+        <fptr FILEID="alto_00367_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_734.3" BETYPE="IDREF" FILEID="alto_00367_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="735" ORDERLABEL="733" TYPE="page">
+        <fptr FILEID="tiff_00368_0"/>
+        <fptr FILEID="jp2_00368_0"/>
+        <fptr FILEID="alto_00368_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_735.3" BETYPE="IDREF" FILEID="alto_00368_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b734-22" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.27" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b734-25" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.28" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b734-26" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.29" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b734-27" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.30" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Akt2" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.10" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b734-2" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.4" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqcK" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.7" BETYPE="IDREF" FILEID="alto_00367_1"/>
+            <area BEGIN="BL_734.8" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AN-" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.9" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-Mh" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.5" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b734-29" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.34" BETYPE="IDREF" FILEID="alto_00367_1"/>
+            <area BEGIN="BL_735.1" BETYPE="IDREF" FILEID="alto_00368_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aumy" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.31" BETYPE="IDREF" FILEID="alto_00367_1"/>
+            <area BEGIN="BL_734.32" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b734-28" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.33" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b735-8" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_735.9" BETYPE="IDREF" FILEID="alto_00368_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Agn" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_734.6" BETYPE="IDREF" FILEID="alto_00367_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b735-6" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_735.7" BETYPE="IDREF" FILEID="alto_00368_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b735-7" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_735.8" BETYPE="IDREF" FILEID="alto_00368_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b735-4" BETYPE="IDREF" FILEID="casebody_0373"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_735.5" BETYPE="IDREF" FILEID="alto_00368_0"/>
+            <area BEGIN="BL_735.6" BETYPE="IDREF" FILEID="alto_00368_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

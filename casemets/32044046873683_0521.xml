@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0521" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Fanny">The FANNY</name>
+          <docketnumber>Case No. 4,637</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 990</citation>
+          <citation category="parallel" type="bluebook">1 Betts, D. C. MS. 62</citation>
+          <decisiondate>1841-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00496_1" MIMETYPE="image/tiff" CHECKSUM="180d7dc19c46fa17617779dff7c83617" CHECKSUMTYPE="MD5" SIZE="74888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00496_1.tif"/>
+      </file>
+      <file ID="tiff_00497_0" MIMETYPE="image/tiff" CHECKSUM="d5dd96cb8c0add4857da448984256eed" CHECKSUMTYPE="MD5" SIZE="114460">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00497_0.tif"/>
+      </file>
+      <file ID="tiff_00497_1" MIMETYPE="image/tiff" CHECKSUM="924f6c2350e26590d74947afc1e87fa3" CHECKSUMTYPE="MD5" SIZE="114362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00497_1.tif"/>
+      </file>
+      <file ID="tiff_00498_0" MIMETYPE="image/tiff" CHECKSUM="4d01fd4845e503aec3f55eb09eaee46d" CHECKSUMTYPE="MD5" SIZE="94252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00498_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00496_1" MIMETYPE="image/jp2" CHECKSUM="0de9a3b4e558bc3f7c97d98e7fb6e238" CHECKSUMTYPE="MD5" SIZE="2907880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00496_1.jp2"/>
+      </file>
+      <file ID="jp2_00497_0" MIMETYPE="image/jp2" CHECKSUM="7cfd253b441e9c5eadb0ca5bdf0127d5" CHECKSUMTYPE="MD5" SIZE="3824023">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00497_0.jp2"/>
+      </file>
+      <file ID="jp2_00497_1" MIMETYPE="image/jp2" CHECKSUM="49e0af34bf3cfd602de9be71fec7be6e" CHECKSUMTYPE="MD5" SIZE="3799892">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00497_1.jp2"/>
+      </file>
+      <file ID="jp2_00498_0" MIMETYPE="image/jp2" CHECKSUM="2e2f7610cf2edacea753bcf89eaf3d74" CHECKSUMTYPE="MD5" SIZE="3400301">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00498_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00496_1" MIMETYPE="text/xml" CHECKSUM="13fe11c242fd6419c4bf80acb2867591" CHECKSUMTYPE="MD5" SIZE="165458">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00496_1.xml"/>
+      </file>
+      <file ID="alto_00497_0" MIMETYPE="text/xml" CHECKSUM="3bb1d1cf89d3ac17510c18c69e3f837a" CHECKSUMTYPE="MD5" SIZE="243363">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00497_0.xml"/>
+      </file>
+      <file ID="alto_00497_1" MIMETYPE="text/xml" CHECKSUM="e651cb6af1bddf8c590f9bbd7282d186" CHECKSUMTYPE="MD5" SIZE="240588">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00497_1.xml"/>
+      </file>
+      <file ID="alto_00498_0" MIMETYPE="text/xml" CHECKSUM="dbcd2df1752d91d76edc65b660286cde" CHECKSUMTYPE="MD5" SIZE="203162">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00498_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0521" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="993" firstpage="990">
+              <court id="b992-15" pgmap="992">District Court, S. D. New York.</court>
+              <docketnumber id="b992-12" pgmap="992">Case No. 4,637.</docketnumber>
+              <citation id="b992-14" pgmap="992">[1 Betts, D. C. MS. 62.]</citation>
+              <parties id="b992-13" pgmap="992">The FANNY.</parties>
+              <decisiondate id="AZOG" pgmap="992">Feb. Term, 1841.</decisiondate>
+              <opinion type="majority">
+                <author id="b993-3" pgmap="993">•-BEETS, District Judge.'</author>
+                <p id="Ax3C" pgmap="993">The steamboat Fanny haring been sold under a decree of this court, and the proceeds brought into •court, rarious petitions were filed claiming ■satisfaction of demands accruing for mate­rials furnished or services performed on board the boat. These petitions were re­ferred to the clerk to examine and marshal the respective claims, and report to the court the amounts due thereon and the considera­tions upon which they rested. On the com­ing in of the report, exceptions have been taken to the allowances made therein, and, as the right of the several petitioners to any •compensation out of the fund is an open ■question not yet adjudged by the court, it is also objected that no part of the respective claims can be recovered in this manner. The Ip'etitioners in their own behalf thus become, in some instances, the opposers of the peti­tions of others.</p>
+                <p id="b993-4" pgmap="993">George C. Knight claims to be entire own­er of the steamboat, and entitled to all the funds after satisfaction of such demands as may be deemed to be liens on the boat.' But the title of Knight to more than a moiety of -the boat is contested by Baucher, and upon the proofs it is rendered at least doubtful whether he can maintain a right to more than one half the proceeds, and even strong •shades of suspicion are thrown upon the jus­tice of his claim to that This part of his claim is not, however, directly contested be­fore the court, Gibbons, the only one shown -to have an interest in it, not having made "himself in any way a party to these proceed­ings. It is a sufficient objection to the peti­tion of Knight that his right to the fund is In dispute, and that the proceedings »re not so shaped that the matter can now be prop­erly and definitely decided. If this court is competent to the adjustment of the equita­ble title of the respective partie’s to these monies, it could not assume such jurisdic­tion in a summary and ex parte proceeding, but would require the case to be put in such form that all parties could litigate upon their interests, and that the judgment of the court •could be subject to review. Courts of ad­miralty would, as a general rule, regard an ■objection to the title of the petitioner to the fund as sufficient to stay all summary ac­tion in the matter. The Maitland, 2 Hagg. Adm. 233. Accordingly, the monies coun-­teiyclaimed by Knight and Baucher must re­main in court until the one or the other es­tablishes a clear title to them. And unless some one intervenes in respect to the other half, or the case is removed to a higher court upon such grounds as shall bring the whole subject passed upon here under review, I shall order that portion of the funds to be paid over to Knight or his proctor, after •such deductions as may be hereafter speci­•fied.</p>
+                <p id="b993-5" pgmap="993(534) 994(166)">In respect to the other petitions, it may be •considered an established principle govern­ing courts of admiralty in the disposition of remnants and surpluses remaining in court, that they will be applied in satisfaction of outstanding claims in themselves or their origin liens on the thing out of which the fund is produced. Gardner v. The New Jer­sey [Case No. 5,233]; Brackett v.The Hercules [Id. 1,762]; Harper v. New Brig [Id. 6,090]; 5 Wend. 540. This doctrine is probably sub­ject to the exception that the lien be of a character to be enforced in admiralty (The Robert Fulton [Case No. 11,S90]), and that the matter in demand is not controverted (2 Hagg. Adm. 253). Libels were filed upon several of these demands against the boat, and the decisions rendered by the courts in those suits apply to the character Of most of the other petitions. ' The lien claimed .for those demands was under the statute, and tiie court decided that the cases did not come within the statute, and the libels were ac­cordingly dismissed. The matter of the same libels is now presented in the form of petitions against the proceeds In court, and they are supported by arguments which as­sume that the court, by virtue of its general powers over the proceeds, can exercise equi-. ties existing in respect to them, or the own­er, when distribution of the funds is desired, which could not be enforced here by a direct action in rem or in personam. Such doctrine would necessarily import that the court can direct accounts to be taken between such parties, and indeed perform all the essential powers of a court of chancery in order to ar­rive at a just adjustment of the respective rights and equities of parties. Such powers are out of the sphere of its jurisdiction, even in respect to causes pending in court, and indisputably within its cognizance. [The Orleans v. Phoebus] 11 Pet. [36 U. S.] 175. In respect, therefore, to all the cases of mate­rial men, wharfingers, etc., the demands not being, in themselves or their origin, liens which could be enforced in this court against the boat, they are not entitled to come upon the fund in court under the principle on which that species of relief is ordinarily ad­ministered. This court has extended the rule beyond the limits assigned it in the Pennsylvania district, and applied it to de­mands not controverted which are within the jurisdiction of the court, although clothed with no privilege, and it has accordingly held that such claims suable here in per-­sonam are entitled to like relief out of the-­remnants as if they carried liens with them. It seems to me there is a most impressive equity sustaining such decision, when the justness and amount of the demand is not disputed, and the matter is in prosecution in the court holding the funds which ought to satisfy it. This carried the doctrine no fur-' ther than courts of law go in extending re­lief to their suitors. They order, as matter of course, monies raised from a party and brought into court on one-execution to be paid over on other executions against the same party (Doug. 219); [Turner v. Fen­dall] 1 Cranch [5 U. S.] 117), and sometimes even direct the transfer to be made by the sheriff, the money and the subsequent ex­ecution being in his hands (3 Caines, 84), especially if the right of the junior execution creditor is ascertained (5 Johns. 163; 1 Wend. 87). If, then, the demand is authenticated by a decree, it would fall directly within the principle of those cases, and, instead of enforcing the decree by execution against the property or person of the respondent, the court might order it satisfied out of his surplus about to be paid him from the regis­try. Nor would the principle be any way varied by regarding a demand not disputed as standing upon equal equity with one re­duced to judgment, and discharging it with­out waiting till it is pushed to a formal de­cree, and charged with a heavy burthen of costs.</p>
+                <p id="b994-3" pgmap="994">Two objections intervene to prevent the most of the petitioners availing themselves of either of those rules for the admission of their demands: First, that they establish no right of action against Knight, who claims the entire fund, the debts having accrued previous to the 5th of December, 1840, when he became owner of the boat; and, second, that he denies the liability of the boat to these debts, and he is entitled to be heard in defence before his property shall be appro­priated to their payment It is true that Sir Wm. Scott in one instance did admit claims to be satisfied out of the remnants in the registry, for which no action could have been sustained in that court. The John, 3 C. Rob. Adm. 288. Sir Christopher Robinson doubts the authority of the court to that ex­tent (The Maitland, 2 Hagg. Adm. 253), and it would certainly present somewhat of an anomalous doctrine to admit the power of the court to pass upon and satisfy demands indirectly and without suit of which it could take no cognizance under any form of action. I think this objection is conclusive against the admissibility of those accounts which fall within it, and accordingly the petitions of Howell &amp; Coffee, Adam Hall, M. M. &amp; R. Martin, .Tesse A. Marshall (for $113.40), John W. Latson, and Moses C. Hall must be re­jected.</p>
+                <p id="b994-4" pgmap="994">There is a further objection to the jurisdic­tion of the court, which I do not now feel called upon to decide; that is, that a party can maintain no action in personam in admi­ralty for materials or repairs furnished a do­mestic vessel. The emphatic and vehement denunciation of such jurisdiction by two distinguished judges of the supreme court would be sufficient to induce, this court to proceed cautiously in declaring a different doctrine, when the exigencies of the case did no* demand a. decision upon that point,—­[Ramsay v. Allegre] 12 Wheat. [25 U. S.] 620; Bonaparte v. Camden &amp; A. R. Co. [Case No. 1,617]; Bains v. The James and Cather­ine [Id. 750], — and therefore this decision is-­not to be understood as asserting or disclaim­ing such jurisdiction.</p>
+                <p id="b994-7" pgmap="994">The claim of John W. Latson for wages as master is obnoxious to a further objection, that it is at least exceedingly questionable upon the proofs whether he was not half owner of the boat during all the time he served as master, and in such case the court would expect far more full and explicit evi­dence of his right to raise a debt for his serv­ices against his co-owner, than is now fur­nished in support of his demand. Either objection is sufficient to prevent that demand being levied upon the fund in court.</p>
+                <p id="b994-8" pgmap="994(397) 995(125)">Jesse A. Marshall seeks payment of $160 out of these proceeds (besides the claim for the $113.4G, already considered and disposed of), and founds this part of his petition upon the allegation that those monies were ad­vanced by him to discharge seamen’s wages and to relieve the boat from arrest therefor, and also to supply wood to enable her to-­complete her trip. The wages being liens on the boat, admiralty regards a third party who interposes, and pays them, as equitably acquiring the privilege of the sailor, at least so far as to be entitled to bring in the de­mand against surpluses in court (Gardner v. The New Jersey [supra]) in behalf of the master, and this court has in repeated in­stances applied it as well to other third par­ties as the master. And to entitle the pay­ment to such privilege it need not appear to-­have been made directly and specifically in satisfaction of the lien claim. A loan- of money to the owner or master to be applied by him to that object would come within the fair range of the principle, because it justi­fies the intendment that the advance is made-­on the credit of the vessel, and, if not a mere credit to the borrower personally, the privi­lege may be considered as transferred, upon evidence fairly importing that the security of the vessel was contemplated at the time, and was a moving consideration of the ad­vance. This doctrine is constantly applied in upholding liens against foreign vessels for advances made the master to procure her necessary supplies. The advance of money required by the necessities of the vessel is re­garded the same as furnishing materials or services in kind themselves, and will support an implicit hypothecation of the vessel in security of the advance as well as a direct one by bottomry bond. Manchester v. Milne [Case No. 9,000]; Davis v. Leslie [Id. 3,639]; 3 Paige, 323. Such novation may be re­garded one of the most wholesome equities-­derived from the civil law. It must un­doubtedly appear that the demand the loan extinguishes was a privileged one, and there­fore the petitioner in this case, can acquire-­no higher advantage than the party whose-­claim he represents could have in a like pro­ceeding. -All that part of the account re­lating to the purchase of wood (5 Wend. 510) or payment of costs on bonding the boat is accordingly rejected, and the petitioner is entitled to be paid the sums advanced by him and paid over by the master for sea­men’s wages. This sum is not clearly spe­cified. Twenty one dollars was paid Wil­liams, but the amount paid the other two who had arrested the boat does not appear from the petition or proofs. The petitioner may have a further reference to the clerk to ascertain the sums paid Ten Eyck and Waters, out of the $60 advanced by him, and also their costs of that suit, if paid out of his money, and receive payment therefor from the fund in court.</p>
+                <p id="b995-4" pgmap="995">Nathaniel Milliken seems also to have a claim for wages. There is a confusion and clashing of the proofs in relation to this de­mand, not easily to be reconciled or compre­hended. The clerk reports $34.75 due him, and I think the fair result of all the proofs, derived from direct testimony and thé decla­rations and admissions of the parties, is that there was a balance of fourteen or fifteen dollars due him on the 6th of January for his services on board subsequent to his settlement of the 10th of December, and that he continued afterwards with the boat until her sale, rendering services on board. The testimony of Birdseye, if legally admissible (which is at least doubtful, as there is strong proof that he is a party in interest), that he had paid the petitioner in full, is quite irrecon­cilable with his offers and declarations to the proctor, in what he terms an attempt to com­promise. The court perceives no reason upon which that negotiation can be regarded as an offer for compromise. Birdseye, according to his representation, had nq interest in the boat or her proceeds. If this was so, he was only an agent of the owner, and the expense having already all accrued, or nearly so, that the petition could involve, and withdrawing this small claim not tending to release the fund or quiet the litigation pending, no satis­factory reason is shown for offering twenty or thirty dollars to compromise as he alleged a demand he swears to be wholly unfounded and even to have been paid off in full by himself. Ellis proves that there was ad­mitted by Birdseye to be $14 due the peti­tioner on the 6th of January, which the peti­tioner then said was in full of his claim to that time; and the preponderance of proof certainly is that he continued on board en­titled to wages at least 20 days subsequently. There was also an unpaid arrearage of wages of $34 due the 10th of December previous, and I am satisfied the payments made by Birdseye, if applied upon the whole debt out­standing in favor of Milliken, would still leave due him about the sum reported by the clerk. That report is accordingly affirmed.</p>
+                <p id="b995-5" pgmap="995">The decree of the court will accordingly be that Marshall and Milliken recover the said respective sums out of the proceeds, together with their costs, to be taxed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="992" ORDERLABEL="990" TYPE="page">
+        <fptr FILEID="tiff_00496_1"/>
+        <fptr FILEID="jp2_00496_1"/>
+        <fptr FILEID="alto_00496_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_992.7" BETYPE="IDREF" FILEID="alto_00496_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="993" ORDERLABEL="991" TYPE="page">
+        <fptr FILEID="tiff_00497_0"/>
+        <fptr FILEID="jp2_00497_0"/>
+        <fptr FILEID="alto_00497_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_993.2" BETYPE="IDREF" FILEID="alto_00497_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="994" ORDERLABEL="992" TYPE="page">
+        <fptr FILEID="tiff_00497_1"/>
+        <fptr FILEID="jp2_00497_1"/>
+        <fptr FILEID="alto_00497_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_994.4" BETYPE="IDREF" FILEID="alto_00497_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="995" ORDERLABEL="993" TYPE="page">
+        <fptr FILEID="tiff_00498_0"/>
+        <fptr FILEID="jp2_00498_0"/>
+        <fptr FILEID="alto_00498_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_995.3" BETYPE="IDREF" FILEID="alto_00498_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b994-8" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_994.9" BETYPE="IDREF" FILEID="alto_00497_1"/>
+            <area BEGIN="BL_995.1" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b992-15" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_992.17" BETYPE="IDREF" FILEID="alto_00496_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b992-12" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_992.14" BETYPE="IDREF" FILEID="alto_00496_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b992-13" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_992.15" BETYPE="IDREF" FILEID="alto_00496_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b994-3" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_994.5" BETYPE="IDREF" FILEID="alto_00497_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b995-5" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.6" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b993-3" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_993.4" BETYPE="IDREF" FILEID="alto_00497_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b993-5" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_993.8" BETYPE="IDREF" FILEID="alto_00497_0"/>
+            <area BEGIN="BL_993.9" BETYPE="IDREF" FILEID="alto_00497_0"/>
+            <area BEGIN="BL_994.1" BETYPE="IDREF" FILEID="alto_00497_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b993-4" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_993.7" BETYPE="IDREF" FILEID="alto_00497_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b992-14" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_992.16" BETYPE="IDREF" FILEID="alto_00496_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b995-4" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.5" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZOG" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_992.18" BETYPE="IDREF" FILEID="alto_00496_1"/>
+            <area BEGIN="BL_992.19" BETYPE="IDREF" FILEID="alto_00496_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b994-7" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_994.8" BETYPE="IDREF" FILEID="alto_00497_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b994-4" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_994.6" BETYPE="IDREF" FILEID="alto_00497_1"/>
+            <area BEGIN="BL_994.7" BETYPE="IDREF" FILEID="alto_00497_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ax3C" BETYPE="IDREF" FILEID="casebody_0521"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_993.5" BETYPE="IDREF" FILEID="alto_00497_0"/>
+            <area BEGIN="BL_993.6" BETYPE="IDREF" FILEID="alto_00497_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

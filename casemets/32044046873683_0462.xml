@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0462" publicationstatus="published">
+          <court abbreviation="S.D. Ga." jurisdiction="United States">United States District Court for the Southern District of Georgia</court>
+          <name abbreviation="In re Everitt">In re EVERITT</name>
+          <docketnumber>Case No. 4,579</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 906</citation>
+          <citation category="parallel" type="bluebook">9 N. B. R. 90</citation>
+          <decisiondate>1873</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00454_1" MIMETYPE="image/tiff" CHECKSUM="5f21703907a4c3c821790ee7683987b5" CHECKSUMTYPE="MD5" SIZE="100906">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00454_1.tif"/>
+      </file>
+      <file ID="tiff_00455_0" MIMETYPE="image/tiff" CHECKSUM="a5a49a1537431f0b9f22bc8ab0f6f9bf" CHECKSUMTYPE="MD5" SIZE="115658">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00455_0.tif"/>
+      </file>
+      <file ID="tiff_00455_1" MIMETYPE="image/tiff" CHECKSUM="4b5725a37a1b91ac57bc50c0f3e2aee6" CHECKSUMTYPE="MD5" SIZE="95516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00455_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00454_1" MIMETYPE="image/jp2" CHECKSUM="9af92eaa504f4f3a87121692a7db699c" CHECKSUMTYPE="MD5" SIZE="3506742">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00454_1.jp2"/>
+      </file>
+      <file ID="jp2_00455_0" MIMETYPE="image/jp2" CHECKSUM="4f633bd7e8934be22dbc414542f6d9cf" CHECKSUMTYPE="MD5" SIZE="3981593">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00455_0.jp2"/>
+      </file>
+      <file ID="jp2_00455_1" MIMETYPE="image/jp2" CHECKSUM="23ee4e410da4ef556b9de0bfb8252ab3" CHECKSUMTYPE="MD5" SIZE="3324691">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00455_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00454_1" MIMETYPE="text/xml" CHECKSUM="4e8b5e763cd05b0cbf0d5064b96a7500" CHECKSUMTYPE="MD5" SIZE="212603">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00454_1.xml"/>
+      </file>
+      <file ID="alto_00455_0" MIMETYPE="text/xml" CHECKSUM="75ff0126fed0126f237ae510d8842d55" CHECKSUMTYPE="MD5" SIZE="243337">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00455_0.xml"/>
+      </file>
+      <file ID="alto_00455_1" MIMETYPE="text/xml" CHECKSUM="a2746923adc84d5e8ca96e5d9b4308c3" CHECKSUMTYPE="MD5" SIZE="188890">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00455_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0462" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="908" firstpage="906">
+              <court id="b908-10" pgmap="908">District Court, S. D. Georgia.</court>
+              <docketnumber id="b908-7" pgmap="908">Case No. 4,579.</docketnumber>
+              <citation id="b908-9" pgmap="908">[9 N. B. R. 90.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b908-8" pgmap="908">In re EVERITT.</parties>
+              <decisiondate id="Anm0" pgmap="908">1873.</decisiondate>
+              <footnote label="1">
+                <p id="b908-17" pgmap="908">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b908-16" pgmap="908">ERSKINE, District Judge.</author>
+                <p id="A4a5" pgmap="908">On the 30th of September, 1873, Jared Everitt filed his ■petition in bankruptcy in this court and was adjudged a bankrupt; and on the same day he also filed here a petition, partaking of the nature of a bill in equity, asking for in­junction against Johnson, Shepperd &amp; Saun­ders, of the state of New York, their attor­ney, A. P. Wright, resident of this district, and one Luke,, sheriff of Thomas county, in this state. Everitt, in his bill, states in sub­stance that he is a bankrupt, and that on the 2d of October, 1869, he procured the set­ting apart as a homestead for himself and family, lots of land number eighty-one,, containing four hundred and ninety acres 7 also, half of lot of land number eighty-two, containing two hundred and forty-eight acres, said land being situate in Thomas county. That the homestead was set apart by the ordinary, under the constitution and laws of the state of Georgia. He annexes' a plot of these lands to his petition. That said Johnson, Shepperd &amp; Saunders, at the-­June term (but the year is not given) of the superior court of Thomas county, by their attorney, A. P. Wright, obtained a judg­ment against him, the said Everitt, for eight hundred and nine dollars and interest from January, 1861. That said Luke, the sheriff of Thomas county, has levied an execution, issued upon said judgment, on said lands so set apart as a homestead to him and his family, and has advertised the same to be sold on the first Tuesday in October, 1873. The sale day being very near at hand, and' to prevent even the possibility of irreparable-­injury to the said Everitt, a provisional or temporary injunction was granted on the 1st of October last, as prayed for in the bill, although at the time there was doubt in my mind as to whether it ought to be-­granted. The injunction is now sought to be dissolved, on the filing of a joint answer and affidavits, and the petition dismissed.</p>
+                <p id="b909-2" pgmap="909">Two questions arise: First,' whether, look­ing to the allegations contained in the bill or -petition itself, and schedule B, 1, in the petition of Everitt praying to be declared a bankrupt, the temporary injunction ought to have been awarded; and,, secondly, as­suming the correctness of the issuing of the injunction, whether it ought not now be set aside, and the petition dismissed.</p>
+                <p id="b909-3" pgmap="909">Defendants answer the allegations of Everitt, admitting that he is a bankrupt, that the property named in his petition or bill was set apart to him in 1869 by the ordinary, and that the defendants, Johnson, Shepperd &amp; Saunders, did obtain the judg­ment for eight hundred and nine dollars in 1861, and that the defendant, Luke, the sheriff, did levy the execution flowing from said judgment on the land so set apart as aforesaid, and did advertise the same for sale on the first Tuesday in October last; but they aver that prior to said levy the said Everitt and his wife, Caroline A. Ever-­itt, did, on the 4th of January, 1871, grant, sell and absolutely convey to one Jesse Aldridge, of Thomas county, the south half of the said lot eighty-one and the north half of lot eighty-two, containing four hundred and ninety acres, part of said homestead, which conveyance was consented to and approved by the ordinary of Brooks county; and defendants attach to their an­swer a copy of said deed; the purchase money mentioned in said deed being one thousand six hundred dollars, and which is acknowledged to have been paid to Everitt by said Aldridge. As to the residue of the land so set apart, as aforesaid, defendants' say that Everitt, before he filed his petition to be declared a bankrupt, did convey to one Wm. Davis a full legal or equitable title* in and to all of said residue of said lands, but the title is not of record; and that they are credibly informed that said Davis has paid to Everitt all the purchase money for this land, and Holds the bond of Everitt for making titles thereto; and that Davis was given notice of the existence of the judg­ment They append to the answer the affi­davits of J. L. Seward and It. W. Fasiori, who swear that Everitt formerly owned said lot eighty-one, and half of said lot eighty-two, and that the same have been sold to said Aldridge and said Davis, and that the land has been in possession of said last named persons for two years or more.</p>
+                <p id="b909-4" pgmap="909">Turning to schedule B, 1, it will be found that in 1871 these very lots of land so set apart asa homestead, were conveyed to Aldridge and Davis, which fact stands disclosed before the court. Not only lot eighty-one, and half of lot eighty-two were set apart to him by the or­dinary, but his schedule B, 1, shows that other land and tenements were also set apart as part of his homestead, and which latter property he says was, in 1871, transferred, by permission of the ordinary, by him to one I McLarty; he estimates the value of eighty-­one, and half of eighty-two, at seven hun­dred and seventy-two dollars, and the land sold to McLarty at five hundred dollars.. And I here reiterate the opinion — an opinion recent­ly expressed in a case which was before me in the northern district — that the ordinary had no authority of law to set apart, so as to exempt from levy and salé under a judg­ment and execution when the judgment was rendered prior to the passage of the state con­stitution of 1868, and the acts of the legislar ture of Georgia passed in 1868 and 1869, any property whatever, owned or possessed by Everitt The judgment of 1861 was a lien, from its rendition, on all his estate, real and personal, and to allow the ordinary to set it aside would be impairing the obligations of contracts by state authority, and directly to the teeth of the constitution of the United States, and the case of Gunn v. Barry, 15 Wall. [82 U. S.] 610. But, notwithstanding a state cannot impair the obligation of con­tracts, there can be no question that such a power resides in congress under the provi­sion to the constitution which confers upon the national legislature authority to establish uniform laws on the subject of bankruptcies throughout the United States. See In re Smith [Case No. 12,986], and the authorities cited in that case.</p>
+                <p id="b909-7" pgmap="909">It is quite unnecessary to amplify these views. I may, however, remark that, in my judgment, Gunn v. Barry cannot be invoked as having any bearing on or application to laws of congress, especially to laws on the subject of bankruptcies. I think that the judgment in that case was directed solely against a state constitution and laws which had violated the inhibition in the constitution of the United States, in passing laws impair­ing the obligation of contracts.</p>
+                <p id="b909-8" pgmap="909(204) 910(207)">The first section of the ninth article of the constitution of Georgia of 1S6S provides that “each head of a family, or guardian or trustee of a family of minor children shall be en­titled to a homestead of realty to the value of two thousand dollars in specie and personal property to the value of one thousand dollars in specie, to be valued at the time they are set apart, and no court or ministerial officer of this state shall ever have jurisdiction or authority to enforce any judgment, decree or execution against said property so set apart, including such improvements as may be made thereon, from time to time, except for taxes, money borrowed, or expended in improvement of the homestead, or for the purchase money of the same, or for labor done thereon, or ma­terial furnished therefor, or removal of en­cumbrances thereon.” Like language is em­ployed in the first section of the state act of October 3d, 186S. A majority of the judges of the supreme court of Georgia gave these provisions a retrospective instead of prospec­tive effect. This construction, the supreme court of the United States, in Gunn v. Barry, said, impaired the obligation of contracts. Had the supreme court of the state decided that these provisions were wholly prospective in their effect, creditors would have been pre-­warned, and would have contracted with reference to these state exemption laws, as found on the statute books. Although no state, as already remarked, can impair the obligation of contracts, nevertheless congress, in enacting bankruptcy laws, under the power conferred on it by the constitution, may not only impair the obligation of antecedent con­tracts, judgments or decrees, but obliterate them entirely; and in the present bankrupt law — more especially in the amendatory act of March 3, 1S73, congress has done so in ex­press terms. This amendment declares that the exemptions allowed the bankrupt, by act of June Sth, 1872 [17 Stat 334] “shall be the amount allowed by the constitution and laws of each state respectively, as existing in the year 1S71, and such exemptions shall be valid against debts contracted before the adoption and passage of such state constitution and laws, as well as those contracted after the same, and against liens by judgments or de­crees of any state court, any decision of such court rendered since the adoption and passage of such constitution and laws to the contrary notwithstanding.”</p>
+                <p id="b910-3" pgmap="910">None of the property exempted to the bank­rupt — by any exemption laws — vests in the assignee; property excepted or exempted shall operate as a limitation upon the convey­ance of the property of the bankrupt to his assignee. “And,” says section 14, Act 1867 [14 Stat 517], “in no case shall property here­by exempted pass to the assignee, or the title of the bankrupt thereto be impaired or af­fected by any of the provisions of this act” Therefore, if an, execution issuing upon a judgment of a state court rendered either be­fore or after the passage of the act just quot­ed, and the sheriff levies it upon land of the defendant in execution, of a value not greater than two thousand ‘dollars in specie, and the defendant then goes into bankruptcy, and holds the land exempted under the state of Georgia exemption law, in existence in 1871, a sale made subsequently by the sheriff would not displace or affect any interest, right or title of the bankrupt whatever, or convey any right or title to a purchaser at the sale; for notwithstanding the levying of the execution before the filing of the petition in the court of bankruptcy may have given the sheriff a special property, yet as soon as the debtor files his petition in bankruptcy, this special property would, by operation of the bankrupt law itself, be divested out of the sheriff, so far as the homestead or exempted land is con­cerned. And the same rule would of course obtain where the levy had been made on per­sonal property of value not exceeding one thousand dollars in specie.</p>
+                <p id="b910-4" pgmap="910">If the exempted property of the bankrupt has been wrongfully seized on execution, the bankrupt has the same rights before the state tribunals as any other person whom it is sought to deprive of a homestead. In re Hunt [Case No. 6,883].</p>
+                <p id="b910-7" pgmap="910">The constitutionality of the amendatory or declaratory act of March 3, 1873, cannot, I think, be doubted, at least when it is applied to bankruptcy proceedings which have arisen since its passage; and it is a law as binding on the state courts as on the national, for the constitution and laws of the United States, made in pursuance thereof, are the supreme law of the land, and the judges in every state shall be bound thereby, anything in the con­stitution and laws of any state to the contrary notwithstanding. Const art 6, § 2.</p>
+                <p id="b910-8" pgmap="910">No one can rise from the perusal of the petition or bills filed by the complainant or petitioner, Everit.t the bankrupt, with the pleasant satisfaction that the tenor of the language used by him in his petition is in­genuous. The allegations in the petition are met and successfully overcome by the an­swer of the defendants, and the affidavits of Seward and Fasiori. But if I am singular in this view, then, turning to the bankrupt’s statements in his schedule B, 1, it will be found that he has conveyed or disposed of his interest in these lands as far back as 1871, to Aldridge and Davis; and now he claims them as exempted — as a homestead — under the state exemption law of 1871. This cannot be allowed; he, at least, is estopped from setting up title to them.</p>
+                <p id="b910-9" pgmap="910">The temporary injunction (improvidently granted. I think) is dissolved and the petition dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="908" ORDERLABEL="906" TYPE="page">
+        <fptr FILEID="tiff_00454_1"/>
+        <fptr FILEID="jp2_00454_1"/>
+        <fptr FILEID="alto_00454_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_908.4" BETYPE="IDREF" FILEID="alto_00454_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="909" ORDERLABEL="907" TYPE="page">
+        <fptr FILEID="tiff_00455_0"/>
+        <fptr FILEID="jp2_00455_0"/>
+        <fptr FILEID="alto_00455_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_909.2" BETYPE="IDREF" FILEID="alto_00455_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="910" ORDERLABEL="908" TYPE="page">
+        <fptr FILEID="tiff_00455_1"/>
+        <fptr FILEID="jp2_00455_1"/>
+        <fptr FILEID="alto_00455_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_910.5" BETYPE="IDREF" FILEID="alto_00455_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b910-8" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_910.10" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b908-16" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_908.18" BETYPE="IDREF" FILEID="alto_00454_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b908-10" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_908.11" BETYPE="IDREF" FILEID="alto_00454_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b910-3" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_910.6" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b910-7" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_910.9" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b910-4" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_910.7" BETYPE="IDREF" FILEID="alto_00455_1"/>
+            <area BEGIN="BL_910.8" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b908-7" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_908.8" BETYPE="IDREF" FILEID="alto_00454_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b910-9" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_910.11" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b908-9" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_908.10" BETYPE="IDREF" FILEID="alto_00454_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b908-8" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_908.9" BETYPE="IDREF" FILEID="alto_00454_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Anm0" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_908.12" BETYPE="IDREF" FILEID="alto_00454_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b909-8" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_909.9" BETYPE="IDREF" FILEID="alto_00455_0"/>
+            <area BEGIN="BL_910.2" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4a5" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_908.19" BETYPE="IDREF" FILEID="alto_00454_1"/>
+            <area BEGIN="BL_908.20" BETYPE="IDREF" FILEID="alto_00454_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b909-2" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_909.4" BETYPE="IDREF" FILEID="alto_00455_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b909-3" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_909.5" BETYPE="IDREF" FILEID="alto_00455_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b909-4" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_909.6" BETYPE="IDREF" FILEID="alto_00455_0"/>
+            <area BEGIN="BL_909.7" BETYPE="IDREF" FILEID="alto_00455_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b908-17" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_908.21" BETYPE="IDREF" FILEID="alto_00454_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b909-7" BETYPE="IDREF" FILEID="casebody_0462"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_909.8" BETYPE="IDREF" FILEID="alto_00455_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

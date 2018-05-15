@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0057" publicationstatus="published">
+          <court abbreviation="C.C.N.D.N.Y." jurisdiction="United States">United States Circuit Court for the Northern District of New York</court>
+          <name abbreviation="In re Irons">In re IRONS</name>
+          <docketnumber>Case No. 7,066</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 98</citation>
+          <citation category="parallel" type="bluebook">5 Blatchf. 166</citation>
+          <decisiondate>1863-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00050_1" MIMETYPE="image/tiff" CHECKSUM="8bed195b82959c1e7c65afaafa14c39c" CHECKSUMTYPE="MD5" SIZE="39974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00050_1.tif"/>
+      </file>
+      <file ID="tiff_00051_0" MIMETYPE="image/tiff" CHECKSUM="da948af1863d0d0f6601bbd10169f719" CHECKSUMTYPE="MD5" SIZE="97852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00051_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00050_1" MIMETYPE="image/jp2" CHECKSUM="2cd13c3c1b6fc9d39a640ca90f0bbbe3" CHECKSUMTYPE="MD5" SIZE="1895994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00050_1.jp2"/>
+      </file>
+      <file ID="jp2_00051_0" MIMETYPE="image/jp2" CHECKSUM="41b0b42bc0b90bbc2f294ae76ee78a4a" CHECKSUMTYPE="MD5" SIZE="3563569">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00051_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00050_1" MIMETYPE="text/xml" CHECKSUM="66c4f52ed64f52a510ee8d85b10f12bd" CHECKSUMTYPE="MD5" SIZE="75695">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00050_1.xml"/>
+      </file>
+      <file ID="alto_00051_0" MIMETYPE="text/xml" CHECKSUM="913543a25f300778a29cf195ad1b1fc6" CHECKSUMTYPE="MD5" SIZE="215972">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00051_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0057" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="99" firstpage="98">
+              <court pgmap="100" id="b100-11">Circuit Court, N. D. New York.</court>
+              <docketnumber pgmap="100" id="b100-8">Case No. 7,066.</docketnumber>
+              <citation pgmap="100" id="b100-10">[5 Blatchf. 166.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="100" id="b100-9">In re IRONS.</parties>
+              <decisiondate pgmap="100" id="Aqr">Sept., 1863.</decisiondate>
+              <footnote label="1">
+                <p pgmap="100" id="b100-16">1 [Reported by Hon. Samuel Blatchford. Dis­trict Judge, and hero reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="101" id="b101-3">NELSON, Circuit Justice.</author>
+                <p pgmap="101" id="AtA">The first ques­tion presented upon the return is, whether ■or not the petitioner is in the custody and keeping of the provost-marshal, and thus restrained of his liberty, within the meaning •of the law which has provided the writ of habeas corpus as a fit and proper remedy. For, although the provost-marshal denies, in the return, that the petitioner is in his ¿custody, or under any restraint from him, yet, if the facts stated or admitted in other parts of the return contradict, in legal ef­fect, this denial, it must be regarded as the ■denial of a conclusion of law rather than of .a fact.</p>
+                <p pgmap="101" id="b101-4">The 12th section of the act of congress ■provides, that the persons so drawn shall be ■notified, &amp;c., “requiring them to appear at a designated rendezvous, to report for duty.” 'The 13th section provides, that any person ■drafted and notified to appear as aforesaid, may, on or before the day fixed for his ap­pearance. furnish a substitute, &amp;c.; and that any person failing to report for duty, after due service of notice. &amp;c.. shall be deemed a ■deserter, and shall be arrested by the pro­vost-marslml. &amp;c. The 14th section pro­vides; that all drafted persons shall, on ar­riving at the rendezvous, be carefully in­spected by the surgeon, &amp;c., and that all persons drafted and claiming exemption, ,&amp;c., shall present their claims to be exempt­ed to the board, whose decision shall be ■final.</p>
+                <p pgmap="101" id="b101-5">It is quite clear, from a view of these pro­visions of the act, that the person drafted is in the custody and under the control of the •provost-marshal from the time he reports to him for duty, at the designated rendezvous, in pursuance of notice to that effect, after •the draft has taken place. It is true that, on account of the pressure of business, the .examination, to ascertain if the conscript is sin able-bodied citizen, may not be made im­mediately on the report. The examination ■requires time, care, and deliberation, which ■may occupy days and weeks; but, whatever may be the time required in the given case, •the drafted person must, during the inter­vening period, remain in the custody and under the control of the provost-marshal, ■unless specially discharged, on a proper ap­plication. or otherwise, by the voluntary act ■of the officer.</p>
+                <p pgmap="101" id="b101-6">The next question on the return is, wheth­er or not it was competent for the board to revise and recall its decision given on the Bth of August, exempting the petitioner from the draft, on the evidence of the election of his mother; or rather, confining myself to the precise question raised by the learned .counsel for the provost-marshal, whether or not the board had made and published any decision, upon the evidence presented before them in behalf of the mother, in favor of the exemption of the relator. For, it was can­didly admitted by the counsel, that if a de­cision had been made and published, it was, upon familiar authority, not competent for it to revise or recall that decision, as its powers were quasi judicial, special, and lim­ited, and its power in the special case was exhausted, and it was functus officio. This principle is so well and firmly settled by authority, that it would be useless, after the frank admission of the counsel, to stop to re­fer to it.</p>
+                <p pgmap="101" id="b101-8">As it respects the question, whether or not a decision was in fact made, it appears from the original papers which were presented to the board, and which were produced before me by the provost-marshal, on the hearing, that not only was a decision made, upon the evidence, discharging the petitioner, but a record was made upon the papers at the time, to that effect, and the decision was thereupon announced to the parties interest­ed. Indeed, the fact is not denied, in the return. It is admitted, in terms, that the claim of exemption in behalf of the mother, made on the 8th of August, was allowed by the board, but that afterwards, and on the 19th of August, it was reconsidered and dis­allowed. Therefore, the distinction set up to take the case out of the rule admitted in respect to bodies clothed with special and limited judicial powers, has no foundation, either in fact or in law.</p>
+                <p pgmap="101" id="b101-9">Without pursuing the case further, my conclusion is — 1st. That the petitioner was, in contemplation of law, in the custody and under the control of the provost-marshal, at the time of the service of this writ of habeas corpus, and, also, at the time of the hearing; 2d. That the action of the board of enrol­ment, upon the evidence presented in behalf of the mother, on the 8th of August, exempt­ing the petitioner, and discharging him from the enrolment and draft, exhausted its pow­ers; and that the subsequent revisal of the decision was coram non judice and void.</p>
+                <p pgmap="101" id="b101-10">The petitioner is entitled to his discharge from the custody and control of the provost-­marshal, and to be freed from all restraint' by him under or by virtue of the authority of the act of congress in question.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="100" ORDERLABEL="98" TYPE="page">
+        <fptr FILEID="tiff_00050_1"/>
+        <fptr FILEID="jp2_00050_1"/>
+        <fptr FILEID="alto_00050_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.6" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="101" ORDERLABEL="99" TYPE="page">
+        <fptr FILEID="tiff_00051_0"/>
+        <fptr FILEID="jp2_00051_0"/>
+        <fptr FILEID="alto_00051_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_101.2" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-5" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.8" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqr" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.14" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-3" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.4" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-4" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.7" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-10" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.13" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-16" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.20" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-6" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.9" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            <area BEGIN="BL_101.10" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-10" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.12" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-11" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.13" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-8" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.10" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-9" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.11" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-9" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.12" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b101-8" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.11" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtA" BETYPE="IDREF" FILEID="casebody_0057"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_101.5" BETYPE="IDREF" FILEID="alto_00051_0"/>
+            <area BEGIN="BL_101.6" BETYPE="IDREF" FILEID="alto_00051_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

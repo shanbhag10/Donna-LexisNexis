@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0166" publicationstatus="published">
+          <court abbreviation="C.C.D. Ill." jurisdiction="United States">United States Circuit Court for the District of Illinois</court>
+          <name abbreviation="Edwards v. Bond">EDWARDS v. BOND</name>
+          <docketnumber>Case No. 4,294</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 343</citation>
+          <citation category="parallel" type="bluebook">5 McLean, 300</citation>
+          <decisiondate>1851-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00173_0" MIMETYPE="image/tiff" CHECKSUM="caa19733c740c224f4ebbfc5c3ef4b49" CHECKSUMTYPE="MD5" SIZE="71242">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00173_0.tif"/>
+      </file>
+      <file ID="tiff_00173_1" MIMETYPE="image/tiff" CHECKSUM="13155cc463d76219cb6ade24aca202d9" CHECKSUMTYPE="MD5" SIZE="112018">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00173_1.tif"/>
+      </file>
+      <file ID="tiff_00174_0" MIMETYPE="image/tiff" CHECKSUM="b587995deed4dd17c748b262b017b375" CHECKSUMTYPE="MD5" SIZE="97638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00174_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00173_0" MIMETYPE="image/jp2" CHECKSUM="1f69741b81d33df97c6d80c79ec22a6e" CHECKSUMTYPE="MD5" SIZE="2995990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00173_0.jp2"/>
+      </file>
+      <file ID="jp2_00173_1" MIMETYPE="image/jp2" CHECKSUM="f4560b080d99bc3980b9fb6277995a1e" CHECKSUMTYPE="MD5" SIZE="3782701">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00173_1.jp2"/>
+      </file>
+      <file ID="jp2_00174_0" MIMETYPE="image/jp2" CHECKSUM="7b64bb698f3bfabe11bd38a673a31294" CHECKSUMTYPE="MD5" SIZE="3539572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00174_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00173_0" MIMETYPE="text/xml" CHECKSUM="1f53238fb05aea29d9d495e2416cfeb4" CHECKSUMTYPE="MD5" SIZE="151886">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00173_0.xml"/>
+      </file>
+      <file ID="alto_00173_1" MIMETYPE="text/xml" CHECKSUM="b21355900a61e3e2bce57c73bf7a1021" CHECKSUMTYPE="MD5" SIZE="257249">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00173_1.xml"/>
+      </file>
+      <file ID="alto_00174_0" MIMETYPE="text/xml" CHECKSUM="2fc1f9f2f7b7b5f6d76dbe5278afa5cf" CHECKSUMTYPE="MD5" SIZE="213142">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00174_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0166" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="345" firstpage="343">
+              <court id="b345-18" pgmap="345">Circuit Court, D. Illinois.</court>
+              <docketnumber id="b345-15" pgmap="345">Case No. 4,294.</docketnumber>
+              <citation id="b345-17" pgmap="345">[5 McLean, 300.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b345-16" pgmap="345">EDWARDS v. BOND.</parties>
+              <decisiondate id="AAz" pgmap="345">July Term, 1851.</decisiondate>
+              <attorneys id="b345-22" pgmap="345">Mr. Edwards, for plaintiff.</attorneys>
+              <attorneys id="b345-23" pgmap="345">A. Williams, Dist. Atty., for defendant</attorneys>
+              <footnote label="1">
+                <p id="b345-26" pgmap="345">1 [Reported by Hon. John McLean, Circuit Justice.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b345-24" pgmap="345">DRUMMOND, District Judge.</author>
+                <p id="AoI" pgmap="345">In this case the plaintiff has presented a petition setting forth that at a former term of this court he was summoned as a juror, and at the same term was subpoenaed as a witness on be­half of the United States in a certain cause pending in this court. The petition alleges that he attended both as a juror and witness, and that according to the practice of the court he filed an affidavit of such attendance with the clerk, showing the number of days he was present in court, and the distance in miles of his. place of abode from Spring­field, where the court was held. The peti­tion also states that he claimed of the mar­shal his compensation for each service, but that the marshal has paid him for one saw-­ice only, and absolutely refuses to pay him for the other. He asks for a rule on the marshal requiring him to pay the amount he claims. The marshal has filed an answer in which he admits the facts stated in the affidavit to be true. He also admits that he has sufficient funds of the United States in his hands to pay the plaintiff, but gives as a reason for refusing payment that such claims have not been allowed by the ac­counting officers of the treasury department at Washington. There is no controversy be­tween the parties as to the amount claimed. It is conceded that the sole question is, whether having rendered the service as juror and as witness at the same time, he is en­titled to compensation in both capacities.</p>
+                <p id="b345-25" pgmap="345(62) 346(47)">The sixth section of the act of Feb. 28, 1799 (1 Stat 626) provides for the compen­sation of jurors and witnesses in the courts of the United States, and after prescribing the per diem and mileage of each grand-and petit juror, declares that the same allowance shall be made witnesses as to jurors. The counsel of the government admits that he has not been able to find any decision of a court which would defeat the claim of the plaintiff; and no act of congress exists which provides for the contingency. I am called on to decide whether the claim of the plaintiff is in conformity with law.</p>
+                <p id="b346-3" pgmap="346">The ordinary mode of bringing an indi­vidual into court to serve as a juror is by summoning him on the venire. That being done, he is subject to the court, and if dis­obedience follow, he can be punished for it. In this instance the plaintiff was summoned on the venire. In obedience to it he served as a juror. He was called into court to dis­charge a particular duty. The usual method of requiring the attendance of a witness is by the service of a subpoena. If the witness disobey it, he is in contempt, and subject to an attachment. Now, it is apparent, if the venire and subpoena concur in identity of person, of court and of time, there is not the less a distinction as the duty to be ful­filled. Indeed, the only identity of time was, that each duty began on the first day • of the term. Here the plaintiff was directed to be present as a juror and as a witness on the same day, but neither process specified how long he might be needed in the one or other capacity. That depended upon future contingencies. When he had finished his duty as juror, he had not necessarily per formed his duty as a witness, and so of' the converse of this. And yet, if he had per­formed one duty, why might he not leave the court and return home, leaving the other unperformed? Simply because the process of the court operated on him, and called on him to discharge the other duty. If a per­son attends court as this party did he as­sumes a two-fold character, and for each is entitled to his compensation. Suppose after a person is summoned as a juror, it is as­certained that he is an important witness for the government, shall the district at­torney decline to have him subpoenaed be­cause he has been summoned at the same term as a juror? Certainly not If he did not attend, it would be no sufficient reason for continuing the cause, that it was sup­posed he would be present as a juror. The process to him as juror does not demand his attendance as a witness, and there is, in general, no method by which a person, if absent, can be compelled to attend as a witness, but by the service of a subpoena. Besides, it is no part of the duty of the dis­trict attorney to know who is on the panel, and, in fact, he is usually ignorant of it till the meeting of the court On the other hand, if he does attend, and his duty as juror is finished, is the officer of the government to watch the moment that it happens, and then serve a subpoena on him to compel his attendance as a witness? If his service in one capacity is performed, it will not be pretended but that he may be compelled to remain under the process of the court, and if he do remain, then clearly is he entitled to compensation for so doing. It is plain that the only safe course is to have the ap­propriate process for witnesses duly served. Again, if a juror summoned by the govern­ment has already been paid by another party for attendance as a witness at the same term, why may not the United States refuse to pay him? It would still be double pay. It is said one party does not pay double. True, it is another party, but the case put shows that the fact of double pay does not determine the right It must, then, rest upon the circumstance of the party being the same. But it may be reasonably asked, for which service shall he be paid, as a juror or witness? It is true that the per diem and mileage of each is the same, — -it is gen­erally so, but not necessarily, — and if it were by law different, which should he have?</p>
+                <p id="b346-6" pgmap="346">The argument which is drawn from the liability to abuse which exists in these cases is no sufficient reason for giving a construc­tion to the statute which its language will not justify. If a flagrant case of abuse were made to appear, the court might interfere, or, if this were a questionable power, it is always within the province of the legislature to interfere and correct it. I think, there­fore, upon principle, the plaintiff is entitled to compensation in each case.</p>
+                <p id="b346-7" pgmap="346(300) 347(100)">The point seems not less clear upon author­ity. And the example of the government is not wanting to sanction the view taken by the court. When the courts of thé United States were first created, the circuit and dis­trict courts were held by different judges, and at different times, though by the act of 1789 [1 Stat. 73] the judge of the district court was one of the judges of the circuit court Of late years, however, as the district judge performs a large part of the duties of the circuit court, the circuit and district courts in most of the states are now required to be held at the same time and place. And yet prior to 1842, though both courts were held at the same time, it is understood it was the practice for the officers of the court to claim, and for the government to allow com­pensation in each court But the act of May 18, 1842 (5 Stat. 484), expressly provided that in such ease no greater per diem or other allowance should be made to certain officers named, than for attendance on one court This being the practice acquiesced in by the government to prevent which an act of congress was necessary, it is not unfair to presume that prior to the passage of that act, the .compensation charged and allowed in each court was a legal one. So here, I hold, for a much stronger reason, that the charge of the plaintiff is a proper one. Even the act of 1842 requires that both courts must be held at the same time, to exclude the of­ficers from compensation, and it is probable, if both courts should meet on the same day, and after sitting from day to day, one of the courts should adjourn over for one or more days, — the other court sitting on — the officers in attendance on this last court would have a right to their compensation, and thus it might happen that they would receive pay for two courts at the same term. However this may be, it is enough to say that the law of 1799 gives the compensation as well to the witness as the juror, and the law of 1842 has made no change in this respect. That both ■characters united in the plaintiff, in this in­stance, was his fortune.</p>
+                <p id="b347-3" pgmap="347">Recently the circuit court of the United States for the eastern district of Pennsyl­vania, where a case had been postponed for several days, some of the jurors residing at a distance held that they were entitled to compensation for attendance, though, in fact, they were absent from court. Parker v. Kempton [Case No. 10,741], And see Hatha­way v. Roach [Id. 6,213]. The laws of the states provide, in general terms, not unlike the act of congress of 1799, for the compen­sation of witnesses and jurors A similar law exists in Illinois, and when the same person is a juror or witness at the same time, his right to compensation in each char­acter, so far as I .have understood, has never been questioned. Indeed, when a person at­tends, at the same time, in the same case, but subpoenaed by both parties, it has been usual to have the costs taxed for both serv­ices, — that is, as the witness of the plaintiff and of the defendant. On this last point, however, the practice is not uniform in the -states. Peace v. Person, 1 Murph. 188; Ren­fro v. Kelly, 10 Ala. 338. In Whipple v. Cumberland Cotton Co. [Case No. 17,515], the court allowed the costs of a witness who had travelled a distance of more than a hundred miles from the place where the court was held, to be taxed in the cause, though he had -come from another state. And this was fol­lowed in a very recent case. Hathaway v. Roach [supra]. In the case of Willink v. Reckle, 19 Wend. 82, the court decided that witnesses subpoenaed by the same party in three cases at the same term, were entitled to their fees in such case for going and return­ing, and for attendance. This is a much stronger case than that, for, if witnesses sub­poenaed by the same party could receive pay in each cause, much more would a person summoned as a witness and a juror by the same party, be warranted in receiving pay in each character. These authorities, not to multiply others, conclusively show that the •courts have uniformly given a liberal con­struction to the law, and I think, they justify the plaintiff’s claim. Let the rule, therefore, be made absolute.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="345" ORDERLABEL="343" TYPE="page">
+        <fptr FILEID="tiff_00173_0"/>
+        <fptr FILEID="jp2_00173_0"/>
+        <fptr FILEID="alto_00173_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_345.3" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="346" ORDERLABEL="344" TYPE="page">
+        <fptr FILEID="tiff_00173_1"/>
+        <fptr FILEID="jp2_00173_1"/>
+        <fptr FILEID="alto_00173_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_346.4" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="347" ORDERLABEL="345" TYPE="page">
+        <fptr FILEID="tiff_00174_0"/>
+        <fptr FILEID="jp2_00174_0"/>
+        <fptr FILEID="alto_00174_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_347.6" BETYPE="IDREF" FILEID="alto_00174_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b347-3" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_347.8" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-6" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.7" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAz" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.26" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-25" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.35" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            <area BEGIN="BL_346.1" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-24" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.32" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoI" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.33" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            <area BEGIN="BL_345.34" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-18" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.25" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-23" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.31" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-22" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.30" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-26" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.36" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-15" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.22" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-16" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.23" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-17" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.24" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-7" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.8" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            <area BEGIN="BL_347.4" BETYPE="IDREF" FILEID="alto_00174_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-3" BETYPE="IDREF" FILEID="casebody_0166"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.5" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            <area BEGIN="BL_346.6" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

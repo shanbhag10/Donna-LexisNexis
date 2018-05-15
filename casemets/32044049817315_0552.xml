@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0552" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Josse v. Shultz">JOSSE v. SHULTZ</name>
+          <docketnumber>Case No. 7,551</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1162</citation>
+          <citation category="parallel" type="bluebook">1 Cranch, C. C. 135</citation>
+          <decisiondate>1803-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00582_1" MIMETYPE="image/tiff" CHECKSUM="03f0203b17cd1d1645bfd0e23b2dcd81" CHECKSUMTYPE="MD5" SIZE="52564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00582_1.tif"/>
+      </file>
+      <file ID="tiff_00583_0" MIMETYPE="image/tiff" CHECKSUM="d077f8f1bca14e5218fc696f190a5d23" CHECKSUMTYPE="MD5" SIZE="13428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00583_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00582_1" MIMETYPE="image/jp2" CHECKSUM="4de73ceb44527275d17facba6aa0322e" CHECKSUMTYPE="MD5" SIZE="2356260">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00582_1.jp2"/>
+      </file>
+      <file ID="jp2_00583_0" MIMETYPE="image/jp2" CHECKSUM="a4ab664715d8b0e99d1685721fcc46f5" CHECKSUMTYPE="MD5" SIZE="1369340">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00583_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00582_1" MIMETYPE="text/xml" CHECKSUM="e5265f17c875fbd4bb911f636b3b64e0" CHECKSUMTYPE="MD5" SIZE="112173">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00582_1.xml"/>
+      </file>
+      <file ID="alto_00583_0" MIMETYPE="text/xml" CHECKSUM="ea27d407fa767043283c3f30e717d0b6" CHECKSUMTYPE="MD5" SIZE="18462">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00583_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0552" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1163" firstpage="1162">
+              <court pgmap="1164" id="b1164-11">Circuit Court, District of Columbia.</court>
+              <docketnumber pgmap="1164" id="b1164-8">Case No. 7,551.</docketnumber>
+              <citation pgmap="1164" id="b1164-10">[1 Cranch, C. C. 135.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1164" id="b1164-9">JOSSE v. SHULTZ.</parties>
+              <decisiondate pgmap="1164" id="AZOi">July Term, 1803.</decisiondate>
+              <judges pgmap="1165" id="b1165-3">MARSHALL, Circuit Judge, absent.</judges>
+              <footnote label="1">
+                <p pgmap="1164" id="b1164-16">1 [Reported by Hon. William Craneh, Chief Judge.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1164" id="b1164-15">KILTY, Chief Judge.</author>
+                <p pgmap="1164(88) 1165(20)" id="Aifo">The acceptance of the note alone is not a discharge of the rent, unless it appears that the note is paid. But if the jury should be of opinion, from the evidence, that the note was held up by Shultz, and credit given on it to Hankart, either by taking an additional security on it, or from any other cause, or that by any negligence of Shultz. Josse has lost the sum intended to be secured by the note, these facts are competent evidence to the jury to show that there was no rent due to Shultz, and that his avowry for such rent is not sup­ported.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1164" ORDERLABEL="1162" TYPE="page">
+        <fptr FILEID="tiff_00582_1"/>
+        <fptr FILEID="jp2_00582_1"/>
+        <fptr FILEID="alto_00582_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1164.8" BETYPE="IDREF" FILEID="alto_00582_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1165" ORDERLABEL="1163" TYPE="page">
+        <fptr FILEID="tiff_00583_0"/>
+        <fptr FILEID="jp2_00583_0"/>
+        <fptr FILEID="alto_00583_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1165.4" BETYPE="IDREF" FILEID="alto_00583_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1164-8" BETYPE="IDREF" FILEID="casebody_0552"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1164.9" BETYPE="IDREF" FILEID="alto_00582_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1164-9" BETYPE="IDREF" FILEID="casebody_0552"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1164.10" BETYPE="IDREF" FILEID="alto_00582_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aifo" BETYPE="IDREF" FILEID="casebody_0552"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1164.19" BETYPE="IDREF" FILEID="alto_00582_1"/>
+            <area BEGIN="BL_1164.20" BETYPE="IDREF" FILEID="alto_00582_1"/>
+            <area BEGIN="BL_1165.2" BETYPE="IDREF" FILEID="alto_00583_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1164-16" BETYPE="IDREF" FILEID="casebody_0552"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1164.21" BETYPE="IDREF" FILEID="alto_00582_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1164-15" BETYPE="IDREF" FILEID="casebody_0552"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1164.18" BETYPE="IDREF" FILEID="alto_00582_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1164-10" BETYPE="IDREF" FILEID="casebody_0552"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1164.11" BETYPE="IDREF" FILEID="alto_00582_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1164-11" BETYPE="IDREF" FILEID="casebody_0552"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1164.12" BETYPE="IDREF" FILEID="alto_00582_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1165-3" BETYPE="IDREF" FILEID="casebody_0552"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1165.6" BETYPE="IDREF" FILEID="alto_00583_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZOi" BETYPE="IDREF" FILEID="casebody_0552"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1164.13" BETYPE="IDREF" FILEID="alto_00582_1"/>
+            <area BEGIN="BL_1164.14" BETYPE="IDREF" FILEID="alto_00582_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

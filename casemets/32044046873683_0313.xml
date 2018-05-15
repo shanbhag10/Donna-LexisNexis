@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0313" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Emeline">The EMELINE</name>
+          <docketnumber>Case No. 4,435</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 614</citation>
+          <decisiondate>1863-06-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00308_1" MIMETYPE="image/tiff" CHECKSUM="8714615e45d7096de72a49d374cd3aa3" CHECKSUMTYPE="MD5" SIZE="107088">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00308_1.tif"/>
+      </file>
+      <file ID="tiff_00309_0" MIMETYPE="image/tiff" CHECKSUM="b2ee9c273b9700194bdee415b21d5cb1" CHECKSUMTYPE="MD5" SIZE="23976">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00309_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00308_1" MIMETYPE="image/jp2" CHECKSUM="1eace5ab0854ae58829353a9012e0598" CHECKSUMTYPE="MD5" SIZE="3701227">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00308_1.jp2"/>
+      </file>
+      <file ID="jp2_00309_0" MIMETYPE="image/jp2" CHECKSUM="a8137a091a3c8fbb60acbf71e5b7ef7f" CHECKSUMTYPE="MD5" SIZE="1781790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00309_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00308_1" MIMETYPE="text/xml" CHECKSUM="9a387b0e6b8b3da1b40e607da320a5df" CHECKSUMTYPE="MD5" SIZE="232575">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00308_1.xml"/>
+      </file>
+      <file ID="alto_00309_0" MIMETYPE="text/xml" CHECKSUM="bb61d6a4c2659906bb918d026d8cada7" CHECKSUMTYPE="MD5" SIZE="43088">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00309_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0313" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="615" firstpage="614">
+              <court id="b616-20" pgmap="616">District Court, S. D. New York.</court>
+              <docketnumber id="b616-17" pgmap="616">Case No. 4,435.</docketnumber>
+              <parties id="b616-18" pgmap="616">The EMELINE.</parties>
+              <decisiondate id="ABsQ" pgmap="616">June 25, 1863.</decisiondate>
+              <p id="b616-19" pgmap="616">[Blatchf. Pr. Cas. 370.]<footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p id="b616-24" pgmap="616">1 [Reported by Samuel Blatchford, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b616-23" pgmap="616">BETTS, District Judge.</author>
+                <p id="ApnB" pgmap="616(141) 617(76)">The above sloop , I and cargo were arrested and libelled May 26, 1863, as prize of war, having been cap­tured off Charleston harbor on the 16th of May, ten days previously, by the United States ship-of-war Courier, and brought into-­this port for adjudication. No person in- | tervened, or claimed the vessel or cargo, and j a default against both vessel and cargo has ! been entered. The master testifies, on his examination in preparatorio, that the vessel belongs to R. T. Walker, of Charleston; that Walker appointed him master, and delivered the vessel to him there; that she was cap­tured twenty-two hours after leaving Charles­ton, for running the blockade; that she was laden with cotton and turpentine belonging to the owner of the vessel, except that one bale of cotton and one barrel of turpentine were owned by the master; that the vessel was bound to Nassau, N. P.; that she brought no papers whatever with her; that the mas­ter had no papers with him relating to the vessel or cargo, and knows nothing about them; and that he knew of the war and of the blockade of Charleston. at the time he sailed thence. No evidence contradicting that of the master was given by the two sea­men examined.</p>
+                <p id="b617-4" pgmap="617">The testimony affords clear proof that the vessel, with knowledge of the blockade, was carried out of Charleston at the time alleged, with intent to evade it.</p>
+                <p id="b617-5" pgmap="617">A decree condemning the vessel and cargo to condemnation and forfeiture must be en­tered.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="616" ORDERLABEL="614" TYPE="page">
+        <fptr FILEID="tiff_00308_1"/>
+        <fptr FILEID="jp2_00308_1"/>
+        <fptr FILEID="alto_00308_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_616.4" BETYPE="IDREF" FILEID="alto_00308_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="617" ORDERLABEL="615" TYPE="page">
+        <fptr FILEID="tiff_00309_0"/>
+        <fptr FILEID="jp2_00309_0"/>
+        <fptr FILEID="alto_00309_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_617.5" BETYPE="IDREF" FILEID="alto_00309_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ApnB" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.28" BETYPE="IDREF" FILEID="alto_00308_1"/>
+            <area BEGIN="BL_616.29" BETYPE="IDREF" FILEID="alto_00308_1"/>
+            <area BEGIN="BL_617.3" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-17" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.19" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABsQ" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.23" BETYPE="IDREF" FILEID="alto_00308_1"/>
+            <area BEGIN="BL_616.24" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-19" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.21" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-18" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.20" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-4" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.7" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-24" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.30" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-5" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.8" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-23" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.27" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-20" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.22" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

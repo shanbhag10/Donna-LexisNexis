@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0191" publicationstatus="published">
+          <court abbreviation="D. Pa." jurisdiction="United States">United States District Court for the District of Pennsylvania</court>
+          <name abbreviation="Jameson v. The Regulus">JAMESON v. The REGULUS</name>
+          <docketnumber>Case No. 7,198</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 336</citation>
+          <citation category="parallel" type="bluebook">1 Pet. Adm. 212</citation>
+          <decisiondate>1800</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00169_1" MIMETYPE="image/tiff" CHECKSUM="291dcb3bef3116ce6e352e73f25ea09a" CHECKSUMTYPE="MD5" SIZE="94854">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00169_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00169_1" MIMETYPE="image/jp2" CHECKSUM="5f197f13eb133ca393203ab5a4b986bd" CHECKSUMTYPE="MD5" SIZE="3346156">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00169_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00169_1" MIMETYPE="text/xml" CHECKSUM="79f5945c4236a931f360e2829bc074f1" CHECKSUMTYPE="MD5" SIZE="207843">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00169_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0191" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="336" firstpage="336">
+              <court pgmap="338" id="AglZ">District Court, D. Pennsylvania.</court>
+              <docketnumber pgmap="338" id="b338-2">Case No. 7,198.</docketnumber>
+              <citation pgmap="338" id="Aq6J">[1 Pet. Adm. 212.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="338" id="AH_b">JAMESON v. The REGULUS.</parties>
+              <decisiondate pgmap="338" id="AOh">1800.</decisiondate>
+              <footnote label="1">
+                <p pgmap="338" id="b338-15">1 [Reported by Richard Peters, Jr., Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="338" id="b338-13">BY THE COURT.</author>
+                <p pgmap="338" id="AMIH">This point has been determined' several years ago, in this court. If a seaman ships, and performs his contract, though verbal, he must be paid, at the high­est rate of wages, given at the port of ship­ment, within three months next precedent. He is subject to all the forfeitures imposed, and rules fixed, by the maritime law, which is part of the common law. It must have been perceived by the framers of our law, that the general maritime law applied to this case; and that nothing was deficient, but the mode of estimating services. It was fixed at the highest rate, that masters might be more on their guard, and see that the arti­cles were executed, and thereby avoid the payment of the highest wages to ordinary seamen. Our statute does little more than re-enact several of the old maritime rules. It considers the mariner, not under written or printed articles, a stranger to its provi­sions, except that which fixes the compensa­tion. For the rest, he is excluded.</p>
+                <p pgmap="338" id="b338-14">When the statute and common law concur, the common law shall be preferred. Ld. Raym. 7. Though a statute lays a penalty on an offence prohibited at common law, an indictment still lies, at common law (2 Hawk. 212); and if the offence be at com­mon law, and also prohibited by statute, it stands as an indictment at common law, if it does not conclude contra formam statuti. Or. Cir. Comp. 123. These authorities are only mentioned to shew, that though a stat­ute is made on the same subject, the common law is not abolished, but is of higher author­ity, when both concur.</p>
+                <p pgmap="338" id="b338-18">The seaman not under articles, partakes In none of the regulations,<footnotemark>2</footnotemark> nor is he subject to the penalties or forfeitures, directed therein. “And such seaman or mariner, not having signed such contract, shall not be bound by the regulations, nor subject to the penalties and forfeitures contained in this act." Act for Regulation of Seamen, § 1. Hereby, properly excluding, one whose contract is not made under the act; and of course mak­ing that law no part of the terms of his agreement. But he is not out-lawed, and left without any control: he is, on the con­trary, governed by the laws existing inde­pendent of our act; and is precisely in the situation he would have been, if our law had never been made. If the statute had in express words abolished the common law, and made contrary provisions, this doctrine would not apply. But this is not the ques­tion in the present case. The mariner is therefore subject to all penalties and for­feitures, incurred under the maritime laws pre-existent to the act of congress, and, where not contradicted, now in being, and concurrent therewith; though the master is subject to a penalty, for shipping the mar­iner, without his signing the ship’s articled.</p>
+                <footnote label="2">
+                  <p pgmap="338" id="b338-19">2 This must not be understood so as to- ex­clude the mariner from the benefits allowed generally by the act to “the crew”; of which he is as much one, as those signing the articles. He is said in the act, not to be “bound by the regulations” — that is — the regulations operating personaliy, and in the manner therein prescribed, on the articled seamen. But it has been held and decided in this court, that, as one of “the crew,” he is entitled to the general benefits nec­essary for the safety, health, and subsistence of all “the crew.” He shall be supplied with med­icines, paid his wages; and be retributed for short allowance of provisions, especially if wages are “agreed on,” which often happens, though the actual signing of articles be neglected. In the case of short allowance, of provisions, the •terms “wages agreed on,” are only introduced to designate quantum. And this may be done,­by referring to any verbal agreement,<footnotemark>3</footnotemark> or to the “highest price or wages given.” “Id certum est, quod certum reddi potest.” The seaman may not “be bound” by the “regulations” for the “government” of mariners, exactly as prescribed by the act, yet it does not follow that the owners and master are not “bound” to provide alike, for each of “the crew.” It has been doubted wheth­er a seaman, not having signed the articles, is included in the provisions of the 3d section, rel­ative to ships not sea-worthy. This seems, in terms, to contemplate only articled seamen; be­cause, when designating the penalty on a refusal to proceed, the mariner is to be imprisoned “until he shall have paid double .the sum advanced to him, at the time of subscribing the contract for the voyage.”</p>
+                </footnote>
+                <footnote label="3">
+                  <p pgmap="338" id="b338-20">3 it has been contended, that a verbal agree­ment for less than the “highest wages,” should not prevail against the positive injunction of the act. that un-articled seamen shall be paid at the highest rate. I have been of opinion that the agreement of the parties, though verbal, super­seded this provision of the law.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="338" ORDERLABEL="336" TYPE="page">
+        <fptr FILEID="tiff_00169_1"/>
+        <fptr FILEID="jp2_00169_1"/>
+        <fptr FILEID="alto_00169_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_338.3" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-20" BETYPE="IDREF" FILEID="casebody_0191"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.24" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-19" BETYPE="IDREF" FILEID="casebody_0191"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.23" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-18" BETYPE="IDREF" FILEID="casebody_0191"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.22" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOh" BETYPE="IDREF" FILEID="casebody_0191"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.8" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-15" BETYPE="IDREF" FILEID="casebody_0191"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.21" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-14" BETYPE="IDREF" FILEID="casebody_0191"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.19" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            <area BEGIN="BL_338.20" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-13" BETYPE="IDREF" FILEID="casebody_0191"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.16" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b338-2" BETYPE="IDREF" FILEID="casebody_0191"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.4" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMIH" BETYPE="IDREF" FILEID="casebody_0191"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.17" BETYPE="IDREF" FILEID="alto_00169_1"/>
+            <area BEGIN="BL_338.18" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq6J" BETYPE="IDREF" FILEID="casebody_0191"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.6" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AH_b" BETYPE="IDREF" FILEID="casebody_0191"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.5" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AglZ" BETYPE="IDREF" FILEID="casebody_0191"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_338.7" BETYPE="IDREF" FILEID="alto_00169_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

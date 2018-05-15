@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0127" publicationstatus="published">
+          <court abbreviation="C.C.E.D. Pa." jurisdiction="United States">United States Circuit Court for the Eastern District of Pennsylvania</court>
+          <name abbreviation="Eastman v. Hinckel">EASTMAN v. HINCKEL</name>
+          <docketnumber>Case No. 4,256</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 270</citation>
+          <citation category="parallel" type="bluebook">5 Ban. &amp; A. 1</citation>
+          <decisiondate>1879-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00136_1" MIMETYPE="image/tiff" CHECKSUM="f20beb6940e3d93b7a5fcf5ee5054e13" CHECKSUMTYPE="MD5" SIZE="106322">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00136_1.tif"/>
+      </file>
+      <file ID="tiff_00137_0" MIMETYPE="image/tiff" CHECKSUM="6fa485e52e5cff99f8f6060113b6fd7a" CHECKSUMTYPE="MD5" SIZE="66012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00137_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00136_1" MIMETYPE="image/jp2" CHECKSUM="beb43784b0a972a68585554ac5f4d0c8" CHECKSUMTYPE="MD5" SIZE="3685877">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00136_1.jp2"/>
+      </file>
+      <file ID="jp2_00137_0" MIMETYPE="image/jp2" CHECKSUM="5016f42e84cff85ee02f2741130acc3a" CHECKSUMTYPE="MD5" SIZE="2804915">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00137_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00136_1" MIMETYPE="text/xml" CHECKSUM="87a4b94bd212425cd01fe683e3c3e7b0" CHECKSUMTYPE="MD5" SIZE="227866">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00136_1.xml"/>
+      </file>
+      <file ID="alto_00137_0" MIMETYPE="text/xml" CHECKSUM="dba98570334eabe6dbed1ca5eb6d7337" CHECKSUMTYPE="MD5" SIZE="142305">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00137_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0127" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="271" firstpage="270">
+              <court id="b272-8" pgmap="272">Circuit Court, E. D. Pennsylvania.</court>
+              <docketnumber id="b272-5" pgmap="272">Case No. 4,256.</docketnumber>
+              <citation id="b272-7" pgmap="272">[5 Ban. &amp; A. 1.) <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b272-6" pgmap="272">EASTMAN v. HINCKEL.</parties>
+              <decisiondate id="AFW" pgmap="272">Dec., 1879.</decisiondate>
+              <attorneys id="b272-11" pgmap="272">Francis D. Pastorius, for complainant.</attorneys>
+              <attorneys id="b272-12" pgmap="272">H. W. Gimber and Thos. Greenbank, for defendants.</attorneys>
+              <footnote label="1">
+                <p id="b272-15" pgmap="272">1 [Reported by Hubert A. Banning, Esq., and Henry Arden, Esq., and here reprinted by per­mission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b272-13" pgmap="272">BUTLER, District Judge.</author>
+                <p id="Adqp" pgmap="272">Letters-patent No. 118,440, were issued to Robert Eastman, August 29th, 1871, for an “improvement in composition for soap.” The specifications describe it as intended “for cleaning tin, brass, iron, earthenware, woodenware, pol­ishing marble, all metals, etc.,” and as con­sisting “of the ingredients and the propor­tions hereinafter given, as follows: To one thousand pounds of tallow, and caustic soda sufficient to saponify the tallow, add two hundred and fifty pounds resin, and sufficient lye to saponify the resin, and water enough to make the mass weigh about seven thou­sand pounds, then add from three and a half to four parts of pulverized quartz to one part of the above mixture, and boil the whole in any suitable kettle or vessel until the proper consistency is had, after which, it should be poured into frames and cut into cakes or bars of any required length when cool.” The claim is in the following lan­guage: “A soap composed of the ingredients, and in about the proportions given.”</p>
+                <p id="b272-14" pgmap="272(202) 273(92)">The plaintiff charges the defendants with making and vending the above described soap. The defendants deny this, and 'also assert that the complainant has not .manu­factured soap according to the process cov­ered by this patent, and that he was not the first inventor of this process. A careful ex­amination of the proofs has satisfied me that the soap made by the defendants, and that covered by the patent are the same, substan­tially. The defendants, probably, use a greater proportion of resin, and there is some disagreement in the testimony respecting the effects of this. The weight of the evidence, however, is that the quality of the soap is not changed. Mr. Day, called by the defend­ants, and other witnesses, say it simply in­creases the bulk, and thereby “cheapens” the article. The sal-soda and borax, added by the defendants, are also unimportant. In the quantities employed, at least, they can have no material effect It is not improb­able, indeed, that these immaterial variations from the plaintiff’s process were made in the hope of escaping, thereby, responsibility for infringement. Mr. Oliver had been in the plaintiff’s employment, and was familiar with his process. He projected the business which the defendants have carried on, and it was his knowledge and experience, doubt­less, that induced his co-partners to unite with him in the enterprise. At the outset, if the testimony of Mr. Dutton is true, (and Mr. Oliver did not appear before the com­■missioner to contradict it) he openly avowed his purpose to produce the .same article that the plaintiff manufactured, and when re­minded of the patent, and the risk, replied that “he didn’t care, he had as good a right to make it as any one else.”</p>
+                <p id="b273-3" pgmap="273">As respects the question of priority and prior use, the burden of proof is on the de­fendants; and, while they have produced evi­dence bearing on the question, I do not con­sider it sufficient to overcome the prima facie case presented by the patent, supported, as it is, by the counter evidence furnished by the .plaintiff. The plaintiff’s process, as respects the use of pulverized quartz, is new. The principal object of the other ingredients is to hold the particles or quartz in a compact mass. Similar soap, omitting the quartz, has been long in use; and sand, pulverized quartz, •and other similar substances have been em­ployed in scouring for many years. Soap and sand, and other gritty substances had been combined long before the date of this patent; but the result was not satisfactory, and the need of a better scouring material led many persons to seek for it. Others than the plaintiff were, and for a consider­able time had been experimenting in that •direction, but it is not proved that any one suc­cessfully employed the process and ingredi­ents here involved, in advance of him. The testimony of witnesses in respect to what they saw or did years ago, in describing machinery or other árdeles of manufacture, must be received with caution. The produc­tion of the machine or other articles involved would be much more satisfactory. The fail­ure to produce them is of itself entitled to no little weight in considering the value of .such testimony. Experience shows that men are not slow to claim letters-patent for any new and useful thing discovered or invented; and the absence of any such claim here, by others who were experimenting at the same time the plaintiff was, or before, is not without importance in considering the question of priority. A decree will be prepared in the plaintiff’s favor.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="272" ORDERLABEL="270" TYPE="page">
+        <fptr FILEID="tiff_00136_1"/>
+        <fptr FILEID="jp2_00136_1"/>
+        <fptr FILEID="alto_00136_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_272.3" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="273" ORDERLABEL="271" TYPE="page">
+        <fptr FILEID="tiff_00137_0"/>
+        <fptr FILEID="jp2_00137_0"/>
+        <fptr FILEID="alto_00137_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_273.5" BETYPE="IDREF" FILEID="alto_00137_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFW" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.12" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-3" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.7" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-11" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.15" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-13" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.17" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-12" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.16" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-15" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.21" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-14" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.20" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            <area BEGIN="BL_273.3" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adqp" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.18" BETYPE="IDREF" FILEID="alto_00136_1"/>
+            <area BEGIN="BL_272.19" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-5" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.8" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-7" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.10" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-6" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.9" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b272-8" BETYPE="IDREF" FILEID="casebody_0127"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_272.11" BETYPE="IDREF" FILEID="alto_00136_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

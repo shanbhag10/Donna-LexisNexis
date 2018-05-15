@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0169" publicationstatus="published">
+          <court abbreviation="E.D. Pa." jurisdiction="United States">United States District Court for the Eastern District of Pennsylvania</court>
+          <name abbreviation="Edwards v. The Robert F. Stockton">EDWARDS v. The ROBERT F. STOCKTON</name>
+          <docketnumber>Case No. 4,297</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 350</citation>
+          <decisiondate>1845-07-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00176_1" MIMETYPE="image/tiff" CHECKSUM="95456bdbe706eab05881caaca7609dbd" CHECKSUMTYPE="MD5" SIZE="51588">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00176_1.tif"/>
+      </file>
+      <file ID="tiff_00177_0" MIMETYPE="image/tiff" CHECKSUM="973fed5ed5c3df8641a49a94d826b8f8" CHECKSUMTYPE="MD5" SIZE="95636">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00177_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00176_1" MIMETYPE="image/jp2" CHECKSUM="1c996960d608e9e9f710e31dca43f217" CHECKSUMTYPE="MD5" SIZE="2331659">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00176_1.jp2"/>
+      </file>
+      <file ID="jp2_00177_0" MIMETYPE="image/jp2" CHECKSUM="f174bd1d6aec4f3b28a9062e2517d3c8" CHECKSUMTYPE="MD5" SIZE="3425183">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00177_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00176_1" MIMETYPE="text/xml" CHECKSUM="87b2352714114c7c68f9b5b89ad11e41" CHECKSUMTYPE="MD5" SIZE="103554">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00176_1.xml"/>
+      </file>
+      <file ID="alto_00177_0" MIMETYPE="text/xml" CHECKSUM="4834ab50571b8ee0db4aaea6f8193fd1" CHECKSUMTYPE="MD5" SIZE="200901">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00177_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0169" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="351" firstpage="350">
+              <court id="b352-12" pgmap="352">District Court, E. D. Pennsylvania.</court>
+              <docketnumber id="b352-10" pgmap="352">Case No. 4,297.</docketnumber>
+              <parties id="b352-11" pgmap="352">EDWARDS v. The ROBERT F. STOCKTON.</parties>
+              <decisiondate id="AkCW" pgmap="352">July 17, 1845.</decisiondate>
+              <attorneys id="b352-20" pgmap="352">•W. G. Smith, for libellants.</attorneys>
+              <attorneys id="b352-21" pgmap="352">W. W. Hubbell and Mr. Ashmead, for re­spondent</attorneys>
+              <p id="AlF" pgmap="352">[Crabbe, 580.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p id="b352-15" pgmap="352">1 [Reported by William H. Crabbe, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b352-22" pgmap="352">RANDALL, District Judge.</author>
+                <p id="A0oJ" pgmap="352">The libel al­leges that the sloop Centurion was, on the 11th March last, lying safely and properly moored at the wharf in Delaware City, and within the admiralty and maritime jurisdic­tion of this court, when the steamer R. P. Stockton approached with great speed, ana that, notwithstanding tne master of the Cen­turion held a light upon the outside of his vessel, and hailed the steamer in a loud voice, requesting her to keep off, she ran into the sloop with great force and violence, striking the Centurion on the starboard bow and cut­ting her down to the water’s edge, otherwise injuring her, and reducing the value of her cargo, which was thus prevented from being brought to Philadelphia as soon as it other­wise would have been.</p>
+                <p id="b352-23" pgmap="352">A claim and answer has been filed by Hen­ry L. Gaw, who states that on the 1st May, 1845, and prior to the filing the libel in this cause, he purchased the Stockton without any notice or knowledge of the said alleged collision, and that, being a bona fide pur­chaser without notice, the steamer is not li­able in his possession for any injury she may have done previously to his said pur­chase. The answer also denies that the col­lision was occasioned by the fault or negli­gence of those o-n board the steamer; alleg­ing that, if any injury was sustained by the Centurion, it was caused solely by the fault and negligence of those on board the sloop in not having proper lights exhibited, and in her being moored in an improper place in the channel or entrance to the Chesapeake and Delaware Canal.</p>
+                <p id="b352-24" pgmap="352(77) 353(139)">Assuming,for the purposes of this case, that the purchase by Mr. Gaw was bona fide, and without notice of this collision, the question arises whether the steamer remains liable, in his possession, for the damage occasioned by her; supposing her to have been in fault? It is true that the master and owner of an offending vessel may be personally liable for the damages occasioned by the negligence or misconduct of such master, or of those in charge of the vessel; but It does not follow that the vessel is not also responsible. If, then, the Stockton was liable for this dam­age, was her liability removed by her subse­quent sale to Gaw? In the case -of The Mary [Case No. 9,186], which was on a libel for seamen’s wages, the libellants shipped, at New York, on a voyage to New Orleans, and ■back; the vessel remained at New Orleans upwards of a year, when, not obtaining a freight, the seamen were discharged and the vessel sold; the men returned to New York, and the vessel, under her new owners, made a voyage to Liverpool and from there to New York, where she was attached by the former crew. It was held that they were entitled to recover, notwithstanding the intermediate sale of the vessel.</p>
+                <p id="AE0" pgmap="353">■ But it is argued that a claim for seamen’s wages differs from one like the present, inasmuch as they are a favored class, al­ways allowed a preference over every other claim. In a recent publication on this sub­ject it is stated that “whenever one vessel does damage to another, within the admiral­ty and maritime jurisdiction, the offending vessel becomes hypothecated to the vessel and cargo sustaining the injury to repair the •damages occasioned by the collision, and the injured persons have a lien or privilege upon the guilty property, by the general maritime law of nations, to the esent of the injury sus­tained.” 3 N. Y. Leg. Obs. 4. This seems to be the generally received opinion of courts qf admiralty, and in a large majority of cases the proceedings to recover damages are in rem against the vessel whenever she can be reached. In the case of Hale v. Washington Ins. Co. [Case No. 5,916], it was held by Judge Story, that where a loss by collision occurs by the negligence of the master and crew, the ship is primarily liable for damages, and the master or owners personally but collectively responsible. And in the case of Peters v. In­surance Co., 14 Pet. [39 U. S.] 99, it was held, by the supreme court of the United States, that in a loss by collision, without fault on •either side, the underwriters were liable for ■damages which the insured vessel was bound to pay to equalise the loss. The case of The Rebecca [Case No. 11,619] is perhaps more •analogous to the present. That was a- libel for damages occasioned by the careless and improper manner of stowing ten hogsheads of liquor, shipped on board the Rebecca by the libellant, at New York,' to be delivered at Bos­ton, the dangers of the sea only excepted. The goods were stowed on deck and thereby .lost. The shipment took place on the 20th March, the vessél being at that time owned by one Chase. A claim was put in by a per­son named Scott, who averred that Chase, •on the 5th April, sold the vessel to a third ■party, from whom the claimant purchased her, on the 20th December; that in the inter­mediate time the vessel had been repeatedly ••at 'New York, where the libellant resided, without molestation, and therefore was dis­charged from any liability in his hands. The question is so fully and ably examined in the opinion of Judge Ware, who decided that the lien was not defeated, even by a bona fide sale, before an opportunity for enforcing it, that I deem it only necessary to refer to that case for a full and satisfactory answer to this objection.</p>
+                <p id="b353-6" pgmap="353">I grant that there may be such gross neg­ligence on the part of a claimant as to forteit his remedy against the vessel, in the hands of an innocent and' bona fide purchaser, with­out notice, but in the present case no such negligence appears. The collision took place at Delaware City on the 11th of March, 1845; the vessel was brought to Philadelphia to be repaired, and until the repairs were finished the extent of damage could not be ascer­tained. A correspondence or negotiation for a compromise appears to have taken place between the parties, after the repairs were completed, which failed, and on the 5th May, the libel was filed; the purchase by the claim­ant is alleged to have taken place on the 1st May, which was pending the negotiation for a compromise, and if allowed to take away the libellants’ rights must not only have the effect of preventing amicable settlements of disputed claims, which should be encouraged, but would enable a dishonest and insolvent owner of a vessel to avoid all responsibility for her illegal and improper acts.</p>
+                <p id="b353-7" pgmap="353">It only remains, therefore, to consider whether the Stockton was, at and immediate­ly after this collision, liable for the conse­quences of it. Of this I have, on the evi­dence before me, no doubt, and shall there­fore enter a decree for the libellants.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="352" ORDERLABEL="350" TYPE="page">
+        <fptr FILEID="tiff_00176_1"/>
+        <fptr FILEID="jp2_00176_1"/>
+        <fptr FILEID="alto_00176_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_352.5" BETYPE="IDREF" FILEID="alto_00176_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="353" ORDERLABEL="351" TYPE="page">
+        <fptr FILEID="tiff_00177_0"/>
+        <fptr FILEID="jp2_00177_0"/>
+        <fptr FILEID="alto_00177_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_353.3" BETYPE="IDREF" FILEID="alto_00177_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-21" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.28" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-20" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.27" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-23" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.32" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-22" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.29" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-24" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.33" BETYPE="IDREF" FILEID="alto_00176_1"/>
+            <area BEGIN="BL_353.1" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-10" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.15" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-11" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.16" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-15" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.24" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0oJ" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.30" BETYPE="IDREF" FILEID="alto_00176_1"/>
+            <area BEGIN="BL_352.31" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkCW" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.19" BETYPE="IDREF" FILEID="alto_00176_1"/>
+            <area BEGIN="BL_352.20" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b353-7" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.8" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b353-6" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.7" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AE0" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_353.5" BETYPE="IDREF" FILEID="alto_00177_0"/>
+            <area BEGIN="BL_353.6" BETYPE="IDREF" FILEID="alto_00177_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlF" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.17" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-12" BETYPE="IDREF" FILEID="casebody_0169"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.18" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0114" publicationstatus="published">
+          <court abbreviation="C.C.D. Mich." jurisdiction="United States">United States Circuit Court for the District of Michigan</court>
+          <name abbreviation="Earl v. Raymond">EARL v. RAYMOND et al.</name>
+          <docketnumber>Case No. 4,243</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 250</citation>
+          <citation category="parallel" type="bluebook">4 McLean, 233</citation>
+          <decisiondate>1847-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00126_1" MIMETYPE="image/tiff" CHECKSUM="f9bcb5cf72bdf0e2ceef95469dbe6b13" CHECKSUMTYPE="MD5" SIZE="63222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00126_1.tif"/>
+      </file>
+      <file ID="tiff_00127_0" MIMETYPE="image/tiff" CHECKSUM="a0422fa308e634c3d4127de6a506ac4f" CHECKSUMTYPE="MD5" SIZE="86812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00127_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00126_1" MIMETYPE="image/jp2" CHECKSUM="0bc67ed3be8daac98867014f99229577" CHECKSUMTYPE="MD5" SIZE="2783490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00126_1.jp2"/>
+      </file>
+      <file ID="jp2_00127_0" MIMETYPE="image/jp2" CHECKSUM="3d45602d73854517e92f66b0d1952212" CHECKSUMTYPE="MD5" SIZE="3637943">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00127_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00126_1" MIMETYPE="text/xml" CHECKSUM="4d6f0326c24530176a7f1749e93ec2d5" CHECKSUMTYPE="MD5" SIZE="135471">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00126_1.xml"/>
+      </file>
+      <file ID="alto_00127_0" MIMETYPE="text/xml" CHECKSUM="6edf71c3e7b41290ee16b96980145808" CHECKSUMTYPE="MD5" SIZE="191227">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00127_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0114" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="251" firstpage="250">
+              <court id="b252-22" pgmap="252">Circuit Court, D. Michigan.</court>
+              <docketnumber id="b252-19" pgmap="252">Case No. 4,243.</docketnumber>
+              <citation id="b252-21" pgmap="252">[4 McLean, 233.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b252-20" pgmap="252">EARL v. RAYMOND et al.</parties>
+              <decisiondate id="AZE" pgmap="252">June Term, 1847.</decisiondate>
+              <attorneys id="b252-30" pgmap="252">Mr. Clark, for plaintiff.</attorneys>
+              <attorneys id="b252-31" pgmap="252">Mr. Douglass, for defendant.</attorneys>
+              <footnote label="1">
+                <p id="b252-34" pgmap="252">1 [Reported by Hon. John McLean, Circuit. Justice.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p id="b252-32" pgmap="252(139) 253(27)">OPINION OF THE COURT. This is an-­action of assumjjsit against the defendants,, as partners, and makers of a promissory note for $1067 48. There are two counts in the declaration, one upon a note, the other upon an account stated. One of the defendants,. Samuel A. Raymond, pleads in abatement,, “that before the filing and service of the said declaration upon him, to wit, in the term of October, in the' year one thousand eight hundred and forty six, to wit, on the eighth day of January, 1847, in the circuit court for-­the county of Berrien, in the state of Mich­igan, the said plaintiff impleaded the said defendants, Samuel and William A. Ray-. mond, and exhibited his declaration against them in a certain plea of trespass on the case-­upon the very same identical promises and. undertaking as in tlie declaration in the present suit, etc., and said suit is still pend­ing, etc., in said court To this plea the plaintiff demurs.</p>
+                <p id="b253-4" pgmap="253">The courts of the United States have uni­formly held, under the constitution and acts of congress, the judgments of the state courts as domestic judgments, and conse­quently, as purporting upon their face ab­solute verity. - In this respect the same ef­fect is given to them, or should be given to them, in every other state as in the one where the judgment was rendered. It is true, an execution can not be issued on the judgment of a sister state, but in every other respect the effect is the same. When a court is called to act on a judgment in the state where it was originally entered, or in any other state, it will see if the court had juris­diction of the matter, and also, whether due notice was given to the party against whom judgment was rendered. Different views were entertained by some of the state courts, and especially by those of New York, but for some years past, the decisions of the supreme court of the United States, in this respect, have been generally followed by the state courts. That the pendency of a for­mer suit, in a court having jurisdiction of the same, may be pleaded in abatement, is a principle well established. It is so held, to prevent a multiplicity of suits being brought for the same cause. To tolerate the pendency of several suits, at the same time, for the same cause, would be a reproach to the administration of justice. Courts of justice were instituted to afford speedy and effectual remedies for the redress of wrongs, and not to afford a litigious person the means of oppression.,</p>
+                <p id="b253-5" pgmap="253">The recovery of a judgment for the same cause of action in the state court, closes the controversy, and merges in the judgment the cause of action. And in this respect, the same doctrineis held in the courts of the United States, in regard to the judgment of a state court, as a judgment given by a court of the United States. The courts of the United States are not foreign to the states. They administer the laws of the state, fol­lowing the established construction of its statutes by its own courts. And, if this ef­fect be given to the judgment of a state court, it would follow, that the pendency of a suit, in such court, may be pleaded in an action for the same cause, in the courts of the United States. There is no other mode by which a conflict of jurisdiction can be avoid­ed. It may be laid down as a general rule of action for the federal and state courts, that which ever shall first take jurisdiction of a case, the jurisdiction of the other may be defeated by a plea in abatement. And to avoid a conflict between the ministerial of­ficers of the federal and state courts, the officer who first levies his execution, is en­titled to a preference, the same as where both executions emanate from a state court or courts. This court takes cognizance of the laws of the state, and they know that the circuit court of Berrien county is a court of general jurisdiction. The decision of the supreme court has removed the objection that the adoption of the revised statutes abrogated the circuit courts of the state.</p>
+                <p id="b253-7" pgmap="253">The demurrer to the plea is sustained.</p>
+                <p id="b253-8" pgmap="253">This decision being announced, a motion was made for judgment against the other defendant, who had suffered a default.</p>
+                <p id="b253-9" pgmap="253">If one of two joint promisers plead in­fancy or bankruptcy, the action may be prosecuted against the other. But, if the plea of one be to the merits, and the plea is sustained, the other is discharged, because the plea shows that neither can be charged. If the note was given without considera­tion, or for a consideration forbidden by law, or against the policy of the law, the plea of one would discharge both. In this case the plea filed showed equally a want of jurisdiction, as to both parties. The de­fault confesses the jurisdiction, but the plea shows there can be no jurisdiction; the same as a plea to the merits, that there can be no recovery. 2 Serg. &amp; R. 280; 1 Chit. Pl. 44a; Bing. Judgm. 13 Law Lib. 95, margin; 10 Johns. 573; Woodworth v. Spaf­fords [Case No. 18,020],</p>
+                <p id="b253-10" pgmap="253">The motion for judgment is overruled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="252" ORDERLABEL="250" TYPE="page">
+        <fptr FILEID="tiff_00126_1"/>
+        <fptr FILEID="jp2_00126_1"/>
+        <fptr FILEID="alto_00126_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_252.5" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="253" ORDERLABEL="251" TYPE="page">
+        <fptr FILEID="tiff_00127_0"/>
+        <fptr FILEID="jp2_00127_0"/>
+        <fptr FILEID="alto_00127_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_253.3" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-10" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.11" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-34" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.39" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-31" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.37" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-20" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.26" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-21" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.27" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZE" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.29" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-22" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.28" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-32" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.38" BETYPE="IDREF" FILEID="alto_00126_1"/>
+            <area BEGIN="BL_253.1" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-8" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.9" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-30" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.36" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-7" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.8" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-4" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.5" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-5" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.6" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            <area BEGIN="BL_253.7" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-9" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.10" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b252-19" BETYPE="IDREF" FILEID="casebody_0114"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_252.25" BETYPE="IDREF" FILEID="alto_00126_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

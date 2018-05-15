@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0567" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="Farrell v. French">FARRELL et al. v. FRENCH</name>
+          <docketnumber>Case No. 4,683</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1081</citation>
+          <citation category="parallel" type="bluebook">1 Blatchf. &amp; H. 275</citation>
+          <decisiondate>1831-06-15</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00542_0" MIMETYPE="image/tiff" CHECKSUM="3c7d20c1e626ffd7848112c9a3479bf5" CHECKSUMTYPE="MD5" SIZE="77022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00542_0.tif"/>
+      </file>
+      <file ID="tiff_00542_1" MIMETYPE="image/tiff" CHECKSUM="e7bdaf5589539ef515e4de0575b26e49" CHECKSUMTYPE="MD5" SIZE="79572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00542_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00542_0" MIMETYPE="image/jp2" CHECKSUM="a6b7cdba144fd44f6b03b361ec93712a" CHECKSUMTYPE="MD5" SIZE="3018990">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00542_0.jp2"/>
+      </file>
+      <file ID="jp2_00542_1" MIMETYPE="image/jp2" CHECKSUM="e6514d85ea63c9f6845862be54a104b5" CHECKSUMTYPE="MD5" SIZE="3115067">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00542_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00542_0" MIMETYPE="text/xml" CHECKSUM="2056202cbabe9a38de7cbc66f4ee90da" CHECKSUMTYPE="MD5" SIZE="165344">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00542_0.xml"/>
+      </file>
+      <file ID="alto_00542_1" MIMETYPE="text/xml" CHECKSUM="b5adb514089bebaf9e0393a13aeeb071" CHECKSUMTYPE="MD5" SIZE="165810">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00542_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0567" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1082" firstpage="1081">
+              <court id="b1083-9" pgmap="1083">District Court, S. D. New York.</court>
+              <docketnumber id="b1083-6" pgmap="1083">Case No. 4,683.</docketnumber>
+              <citation id="b1083-8" pgmap="1083">[1 Blatchf. &amp; H. 275.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1083-7" pgmap="1083">FARRELL et al. v. FRENCH.</parties>
+              <decisiondate id="Aoo4" pgmap="1083">June 15, 1831.</decisiondate>
+              <attorneys id="b1083-18" pgmap="1083">Edwin Burr and Erástus C. Benedict, for libellants.</attorneys>
+              <attorneys id="b1083-19" pgmap="1083">Charles O’Conor, for respondent</attorneys>
+              <footnote label="1">
+                <p id="b1083-15" pgmap="1083">1 [Reported by Samuel Blatchford, Esq., and ■Francis Howland, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1083-20" pgmap="1083">BETTS, District Judge.</author>
+                <p id="AWq4D" pgmap="1083">This action may be sustainable upon the principal that, by the misconduct of the master of the vessel, the libellants have been prevented from per­forming their contract and earning the wages stipulated to be paid them. It is not to be treated as a suit for wages, but as one for damages for the loss of wages to the libel-­lants by the fault of the respondent; and I think the proofs make out a case of that character. In estimating the damages in such a case, a court of admiralty is governed by the equities connected with the transac­tion.</p>
+                <p id="b1083-21" pgmap="1083">Farrell, on his examination as a witness for his colibellant, testifies that the shipping notary told them the day they left the hospi­tal, that the ship had dropped down to go to sea, and that the master had several days before shipped the men he wanted. It is satisfactorily proved, by other evidence, that the master shipped six or seven men the day after the libellants went to the hospital, and that, on the day they left there, the ship dropped down a mile, with intent to go to sea. There was, therefore, a plain mani­festation of intention, on the part of the master, to go to sea without regard to these men; and, whether they were actually out of the hospital before or after the time when the vessel got under weigh, cannot vary the equities of the case in respect to them. The master was not expecting or endeavoring to reclaim or employ them.</p>
+                <p id="b1083-22" pgmap="1083(142) 1084(97)">Where the dismissal or abandonment of a seaman has occurred in a foreign port, not only are wages decreed for the whole voy­age agreed, but, by the French law, an al­lowance is made to him for the expenses of return. This provision is approved by one of our most learned jurists in this branch of the law. Emerson v. Howland [Case No. 4,441], The cardinal object is, to secure an indemnity to the sailor; and it is, therefore, well doubted, whether the rule laid down by Abbott (Ed. 1829, p. 442) can be supported, if it is intended as an unqualified proposition that the wages earned by the seaman, in other employment shall be deducted. If no posi­tive loss is sustained, there would still be a measure of injury which equity would not overlook, resulting from throwing a man out of .the employment he had agreed for, and imposing upon him the necessity of seek­ing another and a different one. The de­gree of this injury may not always be very accurately expressed in damages, yet there is a fair foundation for some compensation, and one which should correspond somewhat to the nature of the wrong and loss. A wan­ton wrong inflicted upon a sailor, and at­tended with serious personal inconvenience to him, should be differently regarded from an inadvertent or well-intentioned non-ob­servance of the contract on the part of the master.</p>
+                <p id="b1084-3" pgmap="1084">In the present case, it was clearly the duty of the master to have sought the libellants, at least at the hospital, before making sail. It is most probable, upon the proofs, that both of them would have been found; and then the respondent should have s'een that they had the means of transport to his ship, or to their home port. That he wanted more men than he was able to hire at Savannah, affords evidence that he did not design leav­ing the libellants. But, if he did not wish or intend to depart without them, he cer­tainly gave too ready credit to a loose rumor that they had left the hospital, and did not mean to continue the voj’age. The slightest diligence on his part would have obviated such misapprehension; and, as it was his duty to make the inquiry, he must bear the consequences of having neglected it</p>
+                <p id="b1084-4" pgmap="1084">Some time after the respondent sailed, the libellants shipped for northern ports. Camp- ■ bell received $12 per month, and, on his. ar­rival at New-York, re-shipped for Savannah, It does not appear what Farrell received or whether he obtained further employment on his return home. The Great Britain com- • pleted her voyage, and returned to New-­York on the 7th of June, being three months from the day of her leaving Savannah. The libellants had each received $12 in advance, and there was nearly another month’s wages due when the vessel sailed from Savannah. It was incumbent on the master to show that the libellants had been in equally prof­itable employment, or an amount they had earned, in order to .entitle himself to an abatement on account of their earnings. But, inasmuch as nothing but circumstantial evidence can well be expected upon this point, and as there was a demand for sea­men, at increased wages, at Savannah, I am disposed to consider the evidence before me as establishing, that the libellants had other and profitable employment, and that an allowance of two months’ wages to each of them, will fairly cover the loss of time and expenses they may have incurred in Savannah and the northern ports, before they found such employment, and also that the wages they gained, while employed, were at least equal to those they were to receive on board the Great Britain. Accordingly, I decree the payment of $24 to each of the libellants, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1083" ORDERLABEL="1081" TYPE="page">
+        <fptr FILEID="tiff_00542_0"/>
+        <fptr FILEID="jp2_00542_0"/>
+        <fptr FILEID="alto_00542_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1083.3" BETYPE="IDREF" FILEID="alto_00542_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1084" ORDERLABEL="1082" TYPE="page">
+        <fptr FILEID="tiff_00542_1"/>
+        <fptr FILEID="jp2_00542_1"/>
+        <fptr FILEID="alto_00542_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1084.4" BETYPE="IDREF" FILEID="alto_00542_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1083-20" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1083.26" BETYPE="IDREF" FILEID="alto_00542_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1083-9" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1083.14" BETYPE="IDREF" FILEID="alto_00542_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1083-8" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1083.13" BETYPE="IDREF" FILEID="alto_00542_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWq4D" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1083.27" BETYPE="IDREF" FILEID="alto_00542_0"/>
+            <area BEGIN="BL_1083.28" BETYPE="IDREF" FILEID="alto_00542_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1084-4" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.6" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1083-7" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1083.12" BETYPE="IDREF" FILEID="alto_00542_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1083-6" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1083.11" BETYPE="IDREF" FILEID="alto_00542_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aoo4" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1083.15" BETYPE="IDREF" FILEID="alto_00542_0"/>
+            <area BEGIN="BL_1083.16" BETYPE="IDREF" FILEID="alto_00542_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1084-3" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.5" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1083-15" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1083.23" BETYPE="IDREF" FILEID="alto_00542_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1083-21" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1083.29" BETYPE="IDREF" FILEID="alto_00542_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1083-22" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1083.30" BETYPE="IDREF" FILEID="alto_00542_0"/>
+            <area BEGIN="BL_1084.1" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1083-19" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1083.25" BETYPE="IDREF" FILEID="alto_00542_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1083-18" BETYPE="IDREF" FILEID="casebody_0567"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1083.24" BETYPE="IDREF" FILEID="alto_00542_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

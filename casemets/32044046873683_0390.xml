@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0390" publicationstatus="published">
+          <court abbreviation="D. Cal." jurisdiction="United States">United States District Court for the District of California</court>
+          <name abbreviation="The Ericson">The ERICSON</name>
+          <docketnumber>Case No. 4,510</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 751</citation>
+          <citation category="parallel" type="bluebook">3 Sawy. 559</citation>
+          <decisiondate>1876-01-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00377_0" MIMETYPE="image/tiff" CHECKSUM="2b83f895c4d6a719bb1e0b25b6d0309e" CHECKSUMTYPE="MD5" SIZE="94692">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00377_0.tif"/>
+      </file>
+      <file ID="tiff_00377_1" MIMETYPE="image/tiff" CHECKSUM="d9254b345582b737a0f3caf62189af46" CHECKSUMTYPE="MD5" SIZE="113670">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00377_1.tif"/>
+      </file>
+      <file ID="tiff_00378_0" MIMETYPE="image/tiff" CHECKSUM="505c26fcda4bd9819f5e6f36008bff4b" CHECKSUMTYPE="MD5" SIZE="41876">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00378_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00377_0" MIMETYPE="image/jp2" CHECKSUM="38dcdcb07eeb97b05aa03f1892859987" CHECKSUMTYPE="MD5" SIZE="3527024">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00377_0.jp2"/>
+      </file>
+      <file ID="jp2_00377_1" MIMETYPE="image/jp2" CHECKSUM="d266e805e65ba7b6427d7b7dc1faf13f" CHECKSUMTYPE="MD5" SIZE="3793325">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00377_1.jp2"/>
+      </file>
+      <file ID="jp2_00378_0" MIMETYPE="image/jp2" CHECKSUM="a670c6f916e346f43389d5268197a94f" CHECKSUMTYPE="MD5" SIZE="2186058">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00378_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00377_0" MIMETYPE="text/xml" CHECKSUM="22cec81c4a5f97f2ee752e43e881974f" CHECKSUMTYPE="MD5" SIZE="194933">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00377_0.xml"/>
+      </file>
+      <file ID="alto_00377_1" MIMETYPE="text/xml" CHECKSUM="bb4acb272d6fef177b04d9e345244e5e" CHECKSUMTYPE="MD5" SIZE="246297">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00377_1.xml"/>
+      </file>
+      <file ID="alto_00378_0" MIMETYPE="text/xml" CHECKSUM="fe45733683166e1faceca05b4eacdcfa" CHECKSUMTYPE="MD5" SIZE="85723">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00378_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0390" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="753" firstpage="751">
+              <court id="b753-11" pgmap="753">District Court, D. California.</court>
+              <docketnumber id="b753-8" pgmap="753">Case No. 4,510.</docketnumber>
+              <citation id="b753-10" pgmap="753">[3 Sawy. 559.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b753-9" pgmap="753">The ERICSON.</parties>
+              <decisiondate id="AA-W" pgmap="753">Jan. 10, 1876.</decisiondate>
+              <attorneys id="b753-15" pgmap="753">Daniel T. Sullivan, for libellants.</attorneys>
+              <attorneys id="b753-16" pgmap="753">Charles Page, for claimants.</attorneys>
+              <footnote label="1">
+                <p id="b753-18" pgmap="753">1 [Reported by L. S. B. Sawyer, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b753-17" pgmap="753">HOFFMAN, District Judge.</author>
+                <p id="A1CA" pgmap="753(55) 754(339)">The evidence shows that the libellant McKenzie, against the orders of the master and with the knowl­edge that the ship was about to sail, per­sisted in going on shore “to take a drink,” as he said. Circumstances which will be de­tailed hereafter rendered the immediate de­parture of the vessel indispensably necessary. The captain deemed it so important to get over the bar that he abandoned about twelve tons of- freight which he would other­wise have taken on board. As many of the men were missing, the remaining crew ob­jected to going to sea short-handed. The captain, however, persuaded them to work the ship over the bar by the promise that he would either recover the- deserters or pro­cure substitutes. He accordingly left the ship in charge of the pilot and mate, and went into the town (Newcastle, N. S. W.), to endeavor to find the missing men. He. found the libellant, with some others, at a dram-shop and directed them to remain where they were while he went to look after the other men. On his return with the men he had shipped, he found the libellant and pro­ceeded with him and the rest towards his boat They had approached within a short dis­tance of the boat when the libellant broke away and ran. The captain and two men pursued him. They were unable to over­take him. When he found they had aban­doned the pursuit he, as the captain states, “turned round and abused him fearfully.” The captain had no alternative but to go to sea without the libellant, notwithstanding that he was the carpenter, whose services might be of great importance. It was night­fall; the ship was on a lee shore; the barom­eter was low; storm signals were set, and the harbor-master had warned him of the approach of an easterly gale. Had he con­tinued the pursuit of the carpenter he might have lost the men whom he had just re­covered or shipped. The ship, therefore, set. sail without the libellant He now sues to ' recover wages, not only for the time of his service actually performed, but for the whole voyage up to the arrival of the ship at this port This last claim is wholly inadmissible; and it was not insisted on at the hearing.</p>
+                <p id="b754-4" pgmap="754">The only question is, whether the abandon­ment of the service by the libellant consti­tuted a desertion to which the statute at­taches the penalty “of forfeiture of all or any part of the wages he had then earned.” In the case of Scully v. The Great Republic [Case No. 12,571], a somewhat similar case was considered by this court The libellant, in that case, had gone ashore by permission. By some accident not clearly explained, but probably owing to indulgence in liquor, he did not return to the landing until after the ship sailed from Yokohama for Hongkong. On her return to Yokohama, he claimed to be reinstated, which the captain refused. He . sued for wages for the whole voyage, and his expenses at Yokohama from the time he offered his services to the master. He was allowed wages up to the time of his leaving the vessel.</p>
+                <p id="b754-5" pgmap="754">The court held that there was no reason to believe that he intended to finally abandon the service. But the circumstances of this '•ase are clearly distinguishable from those of the ease at bar. In Scully’s Case, the absence, though culpable, was the result .of" accident; or, if that term be inapplicable to-­a neglect caused by drunkenness, the facts, negatived the idea of any intention to desert. But in the case at bar, the libellant went on shore without permission and against the ex-­presa command of the master, who informed: him that the ship was to sail at eleven-­o’clock. He did not. like Scully, merely ar­rive at the landing too late to rejoin the ship;­but when the master, who was at pains to recover him, was taking him to the boat, he broke away and ran. He himself admits having done so. The natural and inevitable-­consequence of this was to compel the mas­ter to proceed to sea without him. He must be held to have intended what was the-­necessary result of his conduct He cannot, by alleging drunkenness, or rather forgetful­ness of all that occurred except his starting back, escape the consequences of his own. acts. He does not, in his testimony, explicit­ly say that he was drunk; and the fact that he was able to outrun his pursuers would seem to indicate that he was only partially intoxicated. His running away was, under the circumstances, an act of desertion, and must have been so intended by him. Wheth­er that intention was formed while under the influence of liquor, I consider immaterial.</p>
+                <p id="b754-7" pgmap="754">In the case of the libellant Weston, the evidence is very meagre, but I think it hard­ly sufficient to show a desertion. He left the ship about seven o’clock by permission of the master, as he says. He got drunk and re­members nothing until the next morning. The captain denies that he gave permission to the man to go ashore; but it does not appear that he knew that the ship was to-­sail, or that he commenced his debauch with the knowledge that, if he did not rejoin the ship during the morning, he would certainly be left His case seems nearly identical with that of Scully. If the decision in that case was correct, Weston is entitled to his wages, subject to such qualified forfeiture as this court may, by section 459G, Rev. St., impose. In cases of absences without leave, not amounting to desertion, the offender may be punished by imprisonment for not more than one month, “and also, at the discretion of the court, by forfeiture of his wages of not more than two days’ pay, and for every twenty-four hours of absence either a sum not exceeding six days’ pay. or any expenses which have properly incurred in hiring a substitute.” The amount of the forfeiture, if any, which is to be imposed thus seems, within the limits prescribed, to be left to the discretion of the court If Weston had known that the ship was about to sail, I should be inclined to inflict the extreme statutory penalty. But this is not shown.</p>
+                <p id="b754-8" pgmap="754">I shall impose a forfeiture of such a sum for each twenty-four hours of absence as will amount to twenty days’ pay. Decree accordingly. The libel of McKenzie is dis­missed.</p>
+                <p id="b755-2" pgmap="755">These suits, though separately brought, were tried together. I have, therefore, con­sidered them both in one opinion.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="753" ORDERLABEL="751" TYPE="page">
+        <fptr FILEID="tiff_00377_0"/>
+        <fptr FILEID="jp2_00377_0"/>
+        <fptr FILEID="alto_00377_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_753.5" BETYPE="IDREF" FILEID="alto_00377_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="754" ORDERLABEL="752" TYPE="page">
+        <fptr FILEID="tiff_00377_1"/>
+        <fptr FILEID="jp2_00377_1"/>
+        <fptr FILEID="alto_00377_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_754.4" BETYPE="IDREF" FILEID="alto_00377_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="755" ORDERLABEL="753" TYPE="page">
+        <fptr FILEID="tiff_00378_0"/>
+        <fptr FILEID="jp2_00378_0"/>
+        <fptr FILEID="alto_00378_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_755.2" BETYPE="IDREF" FILEID="alto_00378_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b753-9" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_753.12" BETYPE="IDREF" FILEID="alto_00377_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b753-8" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_753.11" BETYPE="IDREF" FILEID="alto_00377_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b755-2" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_755.4" BETYPE="IDREF" FILEID="alto_00378_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b754-8" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_754.9" BETYPE="IDREF" FILEID="alto_00377_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b753-18" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_753.24" BETYPE="IDREF" FILEID="alto_00377_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b754-4" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_754.5" BETYPE="IDREF" FILEID="alto_00377_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b754-5" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_754.6" BETYPE="IDREF" FILEID="alto_00377_1"/>
+            <area BEGIN="BL_754.7" BETYPE="IDREF" FILEID="alto_00377_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b754-7" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_754.8" BETYPE="IDREF" FILEID="alto_00377_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1CA" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_753.22" BETYPE="IDREF" FILEID="alto_00377_0"/>
+            <area BEGIN="BL_753.23" BETYPE="IDREF" FILEID="alto_00377_0"/>
+            <area BEGIN="BL_754.1" BETYPE="IDREF" FILEID="alto_00377_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA-W" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_753.15" BETYPE="IDREF" FILEID="alto_00377_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b753-17" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_753.21" BETYPE="IDREF" FILEID="alto_00377_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b753-16" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_753.20" BETYPE="IDREF" FILEID="alto_00377_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b753-15" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_753.19" BETYPE="IDREF" FILEID="alto_00377_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b753-11" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_753.14" BETYPE="IDREF" FILEID="alto_00377_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b753-10" BETYPE="IDREF" FILEID="casebody_0390"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_753.13" BETYPE="IDREF" FILEID="alto_00377_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

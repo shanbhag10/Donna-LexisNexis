@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0204" publicationstatus="published">
+          <court abbreviation="D.N.J." jurisdiction="United States">United States District Court for the District of New Jersey</court>
+          <name abbreviation="In re Janeway">In re JANEWAY</name>
+          <docketnumber>Case No. 7,208</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 348</citation>
+          <citation category="parallel" type="bluebook">4 N. B. R. 100 (Quarto, 26); 18 Pittsb. Leg. J. 67; 4 Brewst. 250</citation>
+          <decisiondate>1870-10-18</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00175_1" MIMETYPE="image/tiff" CHECKSUM="4a7581e3ff066f0b49d15098781be291" CHECKSUMTYPE="MD5" SIZE="89712">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00175_1.tif"/>
+      </file>
+      <file ID="tiff_00176_0" MIMETYPE="image/tiff" CHECKSUM="ff8ee0b2eed97247a38c3863961951f8" CHECKSUMTYPE="MD5" SIZE="27410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00176_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00175_1" MIMETYPE="image/jp2" CHECKSUM="ef352bec37caa2fa6a20fdacfd63cadf" CHECKSUMTYPE="MD5" SIZE="3309120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00175_1.jp2"/>
+      </file>
+      <file ID="jp2_00176_0" MIMETYPE="image/jp2" CHECKSUM="9268fb9fa89b7300056edde4063ed90a" CHECKSUMTYPE="MD5" SIZE="2025433">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00176_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00175_1" MIMETYPE="text/xml" CHECKSUM="247c84b2d494ecdb230be2fce4fb36ba" CHECKSUMTYPE="MD5" SIZE="194613">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00175_1.xml"/>
+      </file>
+      <file ID="alto_00176_0" MIMETYPE="text/xml" CHECKSUM="bb800c0d37854413ce3b71c55991bcc8" CHECKSUMTYPE="MD5" SIZE="51877">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00176_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0204" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="349" firstpage="348">
+              <court pgmap="350" id="A_CN">District Court, D. New Jersey.</court>
+              <docketnumber pgmap="350" id="b350-3">Case No. 7,208.</docketnumber>
+              <citation pgmap="350" id="A4ZQ">[4 N. B. R. 100 (Quarto, 26); <footnotemark>1</footnotemark> 18 Pittsb. Leg. J. 67; 4 Brewst. 250.]</citation>
+              <parties pgmap="350" id="APQj">In re JANEWAY.</parties>
+              <decisiondate pgmap="350" id="Ah7">Oct. 18, 1870.</decisiondate>
+              <footnote label="1">
+                <p pgmap="350" id="b350-15">1 [Reprinted from 4 N. B. R. 100 (Quarto 26), by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="350" id="b350-13">NIXON, District Judge.</author>
+                <p pgmap="350" id="A26">Application is made to the court on behalf of Mary Ann and Margaret Cool, creditors of John L. Jane-­way, bankrupt, for a rule to show cause why the assignee should not pay in full to these creditors, out of the assets of the bankrupt’s estate, the sum of about two thousand five hundred dollars, which the said Janeway received of them in trust for investment, be­fore his bankruptcy, but which he failed to invest, either in their names or in his own name, for their benefit. The evidences of his indebtedness, as well as the character of the debt, are found in three several memoranda given by the bankrupt to these creditors, as follows:.</p>
+                <blockquote pgmap="350" id="b350-14">“Flemington,' March 1, 1869. Received from Mary Ann and Margaret Cool, four hundred dollars and fifty-eight cents, to be invested for' them. John L. Janeway.”</blockquote>
+                <blockquote pgmap="350" id="b350-17">“Flemington, April 2, 1869. I have in my hands fourteen hundred and ninety-five dol­lars and eighty cents, of Mary Ann and Mar­garet Cool, which I hold to invest for them. John L. Janeway.”</blockquote>
+                <blockquote pgmap="350" id="b350-18">“Flemington, June 7,1869. Due Mary Ann and Margaret Cool, four hundred and thir­teen dollars, which I hold to invest for them. John L. Janeway.”</blockquote>
+                <p pgmap="350" id="b350-19">It is claimed, on the part of the creditors applying for the rule, that these sums were not a loan to the bankrupt, but a deposit in his hands as trustee, and that they are en­titled to be paid in full from the assets in the hands' of the assignee, under the clause of the 14th section of the bankrupt act, which provides that no property held by the bank­rupt in trust shall pass by the assignment. It is not pretended that thé money deposited with the bankrupt for investment can be identified. It is assumed that it has gone into his general estate, and that the trustee, instead of making the promised investment, has used it in his speculations.</p>
+                <p pgmap="350" id="b350-20">The principles which govern the case here presented are too well settled to be disturbed. It is true that no trust property is allowed to pass by the commission of bankruptcy from the bankrupt to the assignee; but it must be property that can be followed or distinguished. There must be some ear mark by which it can be recognized. As, for in­stance, where goods are sent to a factor to be disposed of, and the factor becomes a bank­rupt, and the goods, yet in his possession, can be distinguished from the general mass of his property, the principal may recover them in specie, and is not obliged to prove his debt under the commission; and,- even where the bankrupt has sold the goods, if he has kept the money received in the sale, in separate bags, the principal has been permit­ted to claim and hold the money against the assignee.</p>
+                <p pgmap="350(202) 351(28)" id="b350-21">The supreme court of New York, in Kip v. Bank of New York, 10 Johns. 65, went a step further, and held, that where the trust prop­erty had been sold, and the money deposited in bank in the individual name of one of the trustees, but kept separate from his other property, there was not such a blending of the proceeds of the sale with the private ef­fects of the bankrupt, as to deprive the cestui que trust of his right to the same, against the claim of the creditors at large. To bring the present case within these principles, it will be necessary for the applying creditors to point out the specific assets in the hands of the assignee, which is their property, and which they propose to appropriate to the pay­ment of their claims; until this is done, the court feels constrained to adopt the rule as laid down by Hill, in his work on Trustees, to wit: “Where the trust property does not remain in specie, but has been made way with by the trustee, the cestui que trusts have no longer any specific remedy against any part of his estate in his bankruptcy or insol­vency, but they must come in pari passu with the other creditors, and prove against the trustee’s estate for the amount due them.” The application must be denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="350" ORDERLABEL="348" TYPE="page">
+        <fptr FILEID="tiff_00175_1"/>
+        <fptr FILEID="jp2_00175_1"/>
+        <fptr FILEID="alto_00175_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_350.4" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="351" ORDERLABEL="349" TYPE="page">
+        <fptr FILEID="tiff_00176_0"/>
+        <fptr FILEID="jp2_00176_0"/>
+        <fptr FILEID="alto_00176_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_351.4" BETYPE="IDREF" FILEID="alto_00176_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-17" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.21" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-15" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.20" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-14" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.19" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APQj" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.7" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4ZQ" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.8" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-19" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.23" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ah7" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.10" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_CN" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.9" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-20" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.24" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-3" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.6" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-21" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.25" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            <area BEGIN="BL_351.2" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-13" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.16" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A26" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.17" BETYPE="IDREF" FILEID="alto_00175_1"/>
+            <area BEGIN="BL_350.18" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b350-18" BETYPE="IDREF" FILEID="casebody_0204"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_350.22" BETYPE="IDREF" FILEID="alto_00175_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

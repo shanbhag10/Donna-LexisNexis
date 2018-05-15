@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0405" publicationstatus="published">
+          <court abbreviation="C.C.D.R.I." jurisdiction="United States">United States Circuit Court for the District of Rhode Island</court>
+          <name abbreviation="Johnson v. Peck">JOHNSON v. PECK</name>
+          <docketnumber>Case No. 7,404</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 781</citation>
+          <citation category="parallel" type="bluebook">1 Woodb. &amp; M. 334</citation>
+          <decisiondate>1846-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00392_0" MIMETYPE="image/tiff" CHECKSUM="22b9ddccfbd88a0e910c80f9f7ab8868" CHECKSUMTYPE="MD5" SIZE="69956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00392_0.tif"/>
+      </file>
+      <file ID="tiff_00392_1" MIMETYPE="image/tiff" CHECKSUM="9e4f24febe911239721c58bd0df2ab89" CHECKSUMTYPE="MD5" SIZE="76352">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00392_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00392_0" MIMETYPE="image/jp2" CHECKSUM="b3bdbc1f012caeede848b05860990e01" CHECKSUMTYPE="MD5" SIZE="2824716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00392_0.jp2"/>
+      </file>
+      <file ID="jp2_00392_1" MIMETYPE="image/jp2" CHECKSUM="a0c95483306996f5de157f96eef9c0af" CHECKSUMTYPE="MD5" SIZE="3006208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00392_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00392_0" MIMETYPE="text/xml" CHECKSUM="f140a304a8c78230a3ea2e844a8027d2" CHECKSUMTYPE="MD5" SIZE="148945">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00392_0.xml"/>
+      </file>
+      <file ID="alto_00392_1" MIMETYPE="text/xml" CHECKSUM="deac03eeeebb97aa5cf53d9a7feb79ee" CHECKSUMTYPE="MD5" SIZE="167660">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00392_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0405" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="782" firstpage="781">
+              <court pgmap="783" id="AyGS">Circuit Court, D. Rhode Island.</court>
+              <docketnumber pgmap="783" id="b783-9">Case No. 7,404.</docketnumber>
+              <citation pgmap="783" id="A69E">[1 Woodb. &amp; M. 334.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="783" id="Ax3v">JOHNSON v. PECK.</parties>
+              <decisiondate pgmap="783" id="Av1">June Term, 1846.</decisiondate>
+              <attorneys pgmap="784" id="b784-3">Waters &amp; Carpenter, for plaintiff.</attorneys>
+              <attorneys pgmap="784" id="b784-4">Mr. Bulloca, for defendant.</attorneys>
+              <footnote label="1">
+                <p pgmap="783" id="b783-20">1 [Reported by Charles L. Woodbury, Esq., and George Minot, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="784" id="b784-5">WOODBURY, Circuit Justice,</author>
+                <p pgmap="784" id="AvsX">instructed the jury, that if the representations made by Wheelock to the plaintiffs, at the time of the purchase, were false and fraudulent, and were relied on by the plaintiffs, and were so material, that the sale would not probably have been made without them, the sale was voidable as between the parties to it. One party had obtained credit by means not jus-­tillable, and the other had parted with his property under false pretences and aver-­ments, which were material and untrue. It was right, then, in law as well as equity, that such a purchaser should not profit by his own wrong, and that the seller and pur­chaser should in such case stand as if noth­ing had occurred between them. But when rights of third persons intervene in this class of cases, they are to be upheld, if those per­sons purchased the property absolutely, and parted with a new and valuable considera­tion for it, without notice of any fraud. Be­cause, unlike the case of theft, the vendor here voluntarily parts with the possession of his property, and thus enables the pur­chaser to gain a credit, or to appear to be the owner, and thus be bought of honestly. And though in the case of theft, it is other­wise. and the owner may recover the prop­erty of third persons, yet he cannot in eases of fraudulent sales, else the community would be deceived and defrauded as much as the vendor. Parker v. Patrick, 5 Durn. &amp; E. [5 Term R.] 175; Somes v. Brewer, 2 Pick. 184; Rowley v. Bigelow, 12 Pick. 307; Story, Bailm. §§ 124, 125; 8 Cow. 238; Lloyd v. Brewster, 4 Paige, 537.</p>
+                <p pgmap="784" id="b784-6">The true tests, then, as to third persons, are these. If they buy absolutely, and for a new and full consideration, and without notice of the fraud in procuring the goods, ■they are to be protected in holding them. But if they have notice of the fraud, or give no new valuable consideration, or are mere mortgagees, pawnees, or assignees in trust for the debtor, or for him and others, such third persons are to be regarded as holding the goods open to the same equities and ex­ceptions as to title, as they were open to in the hands of the mortgager, pawner, or as­signer. The latter is stul interested in them; has a residuary tule; has taken no new consideration for them; and his as-­signee or mortgagee has parted with noth­ing new for the goods; has not bought them; and, if he loses them, is in no worse condi­tion than he stood before they were purchas­ed and assigned or mortgaged him. If the defendant then stood in this attitude, or the mortgagees for whom he acted, the plain­tiffs should recover against him. He would lose nothing by such a recovery, as he held other goods sufficient to defray his expenses, and had no debt against Wheelock to be se­cured or paid. Nor would the mortgagees lose any thing, looking to this transaction as a whole. They stood better than before it took place, as they had been partly paid by sales of some of these goods before a de­mand on the defendant, and these last sales are not to be computed in the damages re­covered against him. They could stand no worse, as neither of them had given any new credit, or parted with any new consid­eration, on account of the mortgages or as­signment of this property.</p>
+                <p pgmap="784" id="b784-9">The court then called the attention of the jury to the evidence which bore upon the facts, that the representations made were not true, and were at the same time mate­rial in the trade.</p>
+                <p pgmap="784" id="b784-10">The jury returned a verdict for the plain­tiffs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="783" ORDERLABEL="781" TYPE="page">
+        <fptr FILEID="tiff_00392_0"/>
+        <fptr FILEID="jp2_00392_0"/>
+        <fptr FILEID="alto_00392_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_783.3" BETYPE="IDREF" FILEID="alto_00392_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="784" ORDERLABEL="782" TYPE="page">
+        <fptr FILEID="tiff_00392_1"/>
+        <fptr FILEID="jp2_00392_1"/>
+        <fptr FILEID="alto_00392_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_784.4" BETYPE="IDREF" FILEID="alto_00392_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A69E" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_783.13" BETYPE="IDREF" FILEID="alto_00392_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b783-20" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_783.24" BETYPE="IDREF" FILEID="alto_00392_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b784-9" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_784.12" BETYPE="IDREF" FILEID="alto_00392_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvsX" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_784.8" BETYPE="IDREF" FILEID="alto_00392_1"/>
+            <area BEGIN="BL_784.9" BETYPE="IDREF" FILEID="alto_00392_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b783-9" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_783.11" BETYPE="IDREF" FILEID="alto_00392_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Av1" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_783.15" BETYPE="IDREF" FILEID="alto_00392_0"/>
+            <area BEGIN="BL_783.16" BETYPE="IDREF" FILEID="alto_00392_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyGS" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_783.14" BETYPE="IDREF" FILEID="alto_00392_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b784-10" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_784.13" BETYPE="IDREF" FILEID="alto_00392_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b784-6" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_784.10" BETYPE="IDREF" FILEID="alto_00392_1"/>
+            <area BEGIN="BL_784.11" BETYPE="IDREF" FILEID="alto_00392_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b784-4" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_784.6" BETYPE="IDREF" FILEID="alto_00392_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b784-3" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_784.5" BETYPE="IDREF" FILEID="alto_00392_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b784-5" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_784.7" BETYPE="IDREF" FILEID="alto_00392_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ax3v" BETYPE="IDREF" FILEID="casebody_0405"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_783.12" BETYPE="IDREF" FILEID="alto_00392_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0102" publicationstatus="published">
+          <court abbreviation="C.C.D. Iowa" jurisdiction="United States">United States Circuit Court for the District of Iowa</court>
+          <name abbreviation="In re Israel">In re ISRAEL</name>
+          <docketnumber>Case No. 7,111</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 175</citation>
+          <citation category="parallel" type="bluebook">3 Dill. 511; 12 N. B. R. 204; 2 Cent. Law J. 219</citation>
+          <decisiondate>1875</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00089_0" MIMETYPE="image/tiff" CHECKSUM="1b975e00a0fe4ecc34ad966d3d2356b3" CHECKSUMTYPE="MD5" SIZE="37014">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00089_0.tif"/>
+      </file>
+      <file ID="tiff_00089_1" MIMETYPE="image/tiff" CHECKSUM="f0dcbf7a93d97d69ddabffff260857cd" CHECKSUMTYPE="MD5" SIZE="81384">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00089_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00089_0" MIMETYPE="image/jp2" CHECKSUM="6147fa9997cda9e9fd126c7b25143a5d" CHECKSUMTYPE="MD5" SIZE="2062626">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00089_0.jp2"/>
+      </file>
+      <file ID="jp2_00089_1" MIMETYPE="image/jp2" CHECKSUM="82433131d6537db0e902c09ec522433c" CHECKSUMTYPE="MD5" SIZE="2937027">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00089_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00089_0" MIMETYPE="text/xml" CHECKSUM="090b73a7be9da2881d5a7d480173d35b" CHECKSUMTYPE="MD5" SIZE="72096">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00089_0.xml"/>
+      </file>
+      <file ID="alto_00089_1" MIMETYPE="text/xml" CHECKSUM="07935b98c34a6a15530042a7e90636b7" CHECKSUMTYPE="MD5" SIZE="160990">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00089_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0102" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="176" firstpage="175">
+              <court pgmap="177" id="b177-22">Circuit Court, D. Iowa.</court>
+              <docketnumber pgmap="177" id="b177-18">Case No. 7,111.</docketnumber>
+              <citation pgmap="177" id="b177-20">[3 Dill. 511; <footnotemark>1</footnotemark> 12 N. B. R. 204; 2 Cent. Law J. 219.]</citation>
+              <parties pgmap="177" id="b177-19">In re ISRAEL.</parties>
+              <decisiondate pgmap="177" id="Ap8e">1875.</decisiondate>
+              <attorneys pgmap="178" id="b178-4">Howell &amp; Anderson, for petitioning credit­ors.</attorneys>
+              <attorneys pgmap="178" id="b178-5">Gillmore &amp; Anderson and James Hageman, for bankrupt</attorneys>
+              <footnote label="1">
+                <p pgmap="177" id="b177-27">1 [Reported by Hon. John F. Dillon, Circuit Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="178" id="b178-6">DILLON, Circuit Judge.</author>
+                <p pgmap="178" id="A-jI">One proposition of law applied to this ease, results in affirm­ing the decree, adjudicating the debtor a bankrupt. It was not denied that a suffi­cient number of the creditors' joined in the proceeding. The contest was whether those who united in the petition and promoted the proceeding, represented one-third in value of the debts over $250 provable in bankruptcy. By his answer the debtor alleged that they did not The replication of the petitioning creditors to this answer alleged:</p>
+                <p pgmap="178" id="b178-7">1. That all of the creditors named in the answer of the debtor, except the petitioning creditors, were fully secured.</p>
+                <p pgmap="178" id="b178-8">2. That all of said creditors, other than the petitioning creditors, had accepted and still held preferences contrary to the bankrupt act, and in fraud of its provisions. The debtor demurred to the whole replication, and the court below overruled it and the defendant stood upon his demurrer, and did not rejoin to the second ground in the repli­cation. The only rejoinder was to the first ground of the replication, and was to the effect that their debts were not fully secured, but secured only to the extent of $2,000. It stands admitted, therefore, on the record, that all tff the creditors specified to the list fur­nished by the debtor, except the petitioning creditors, had received, and still held fraudu­lent preferences. These represented more than two-thirds in value of the- debts; and the question is, shall they be counted in de­termining whether the requisite number of creditors, as to value, had joined in the pro­ceedings? On-this point I have no doubt whatever. Such a construction as the debtor contends for, would be directly in the face of section 23, as well as hostile to the spirit and purpose of the bankrupt act. A leading object of that enactment is to enable the honest creditor, through the assignee, to de­feat unlawful preferences.</p>
+                <p pgmap="178" id="AK_">Shall a-debtor, by fraudulently preferring three-fourths and a fraction to number, or two-thirds and a fraction in value of his creditors, put it in their power to make the fraud effectual by refusing to commence bankruptcy proceedings, or what results in the same thing, requiring them to be counted as creditors on the question whether bank­ruptcy proceedings shall be initiated. If the debtor is not thrown into bankruptcy, their preferences stand, and the law is evaded. If he is thrown into bankruptcy, they lose, or, are liable to lose, their illegal advantage. Such a construction makes the act felo de se. It offers a premium to fraud, and would leave nothing of the bankrupt act worth sav­ing.</p>
+                <p pgmap="178" id="AhJy">The honest creditor who refuses to violate the law and take a preference, would alone suffer, while the unscrupulous creditor would reap the harvest of his unlawful security. It would leave the unsecured creditors whol­ly at the mercy of those that have obtained illegal preferences. This disposes of the case without determining the other questions, whether creditors, who hold valid securities, shall be counted in whole or for the excess of debt over the security. Without deciding this I may add, that the course of the argu­ment, based upon section 9 of the amended act, sections 19 and 23, of the original act, and forms 21 and 20, and sections 39 and 43, as amended, rather impressed me with the opinion that a secured creditor is prima facie, at least as to the debt secured, not to be counted, but if he comes forward and offers to surrender his security, he is then to be regarded as an unsecured creditor. Pos­sibly, but this is more doubtful, on proper proceedings an inquiry may be had at the instance of a secured creditor, to ascertain the excess of the debt over the security held therefore.- But I give no opinion on these questions, and reserve them until a case arises which shall make their determination necessary. Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="177" ORDERLABEL="175" TYPE="page">
+        <fptr FILEID="tiff_00089_0"/>
+        <fptr FILEID="jp2_00089_0"/>
+        <fptr FILEID="alto_00089_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_177.2" BETYPE="IDREF" FILEID="alto_00089_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="178" ORDERLABEL="176" TYPE="page">
+        <fptr FILEID="tiff_00089_1"/>
+        <fptr FILEID="jp2_00089_1"/>
+        <fptr FILEID="alto_00089_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_178.6" BETYPE="IDREF" FILEID="alto_00089_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ap8e" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.27" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhJy" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.16" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b178-5" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.8" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b178-4" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.7" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b178-7" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.12" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b178-6" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.9" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b178-8" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.13" BETYPE="IDREF" FILEID="alto_00089_1"/>
+            <area BEGIN="BL_178.14" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-18" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.23" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-19" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.24" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-27" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.32" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-jI" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.10" BETYPE="IDREF" FILEID="alto_00089_1"/>
+            <area BEGIN="BL_178.11" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AK_" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_178.15" BETYPE="IDREF" FILEID="alto_00089_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-22" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.26" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-20" BETYPE="IDREF" FILEID="casebody_0102"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.25" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

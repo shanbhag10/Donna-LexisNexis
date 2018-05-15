@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0360" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Johns v. Brodhag">JOHNS et al. v. BRODHAG</name>
+          <docketnumber>Case No. 7,362</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 708</citation>
+          <citation category="parallel" type="bluebook">1 Cranch, C. C. 235</citation>
+          <decisiondate>1804-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00355_1" MIMETYPE="image/tiff" CHECKSUM="d9b4d95956d3288f2a13d49e7112536a" CHECKSUMTYPE="MD5" SIZE="73460">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00355_1.tif"/>
+      </file>
+      <file ID="tiff_00356_0" MIMETYPE="image/tiff" CHECKSUM="44ca614709d64c69cbe600e9b87c63ad" CHECKSUMTYPE="MD5" SIZE="31020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00356_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00355_1" MIMETYPE="image/jp2" CHECKSUM="47352dc6fa51687e190dd7e914df5f40" CHECKSUMTYPE="MD5" SIZE="2969677">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00355_1.jp2"/>
+      </file>
+      <file ID="jp2_00356_0" MIMETYPE="image/jp2" CHECKSUM="49492ed1e9453ec272ac95353c46a8dc" CHECKSUMTYPE="MD5" SIZE="1826754">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00356_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00355_1" MIMETYPE="text/xml" CHECKSUM="7623a6893b93d7005207d500cdb6f4c6" CHECKSUMTYPE="MD5" SIZE="160887">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00355_1.xml"/>
+      </file>
+      <file ID="alto_00356_0" MIMETYPE="text/xml" CHECKSUM="e3c3ac082e42c2c3bb69a16f2e444afa" CHECKSUMTYPE="MD5" SIZE="59908">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00356_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0360" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="709" firstpage="708">
+              <court pgmap="710" id="ASD">Circuit Court, District of Columbia.</court>
+              <docketnumber pgmap="710" id="b710-13">Case No. 7,362.</docketnumber>
+              <citation pgmap="710" id="Aze9">[1 Cranch, C. C. 235.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="710" id="A8YH">JOHNS et al. v. BRODHAG.</parties>
+              <decisiondate pgmap="710" id="A2h">Dec. Term, 1804.</decisiondate>
+              <judges pgmap="711" id="Aj9S">(FITZHUGH, Circuit Judge, absent)</judges>
+              <attorneys pgmap="710" id="b710-21">Mr. Morsell, for plaintiffs,</attorneys>
+              <attorneys pgmap="710" id="b710-22">Mr. Key, for defendant,</attorneys>
+              <attorneys pgmap="711" id="b711-4">Sir. Mason and Mr.' Morsell, for plain­tiffs,</attorneys>
+              <footnote label="1">
+                <p pgmap="710" id="b710-23">1 [Reported by Hon. William Crunch, Chief Judge.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="711" id="b711-5">THE COURT</author>
+                <p pgmap="711" id="AHa">were of opinion that the surety was entitled only to the priority of payment out of the effects of the insolvent; not to the trial at the first term: Because the clause giving such trial is subsequent to the clause which gives “the like advantage, priority,” &amp;c.; because, by the words of the act, the priority of suit is only given when the duties are due to the United States; because the defendant cannot get a continuance of the cause unless the attorney of the United States be present; and because, in a suit by a surety, many more facts can be pleaded by the defendant than in a suit by the United States — such as the surety had not paid, or an offset, or that he was not in­solvent, &amp;c.</p>
+                <p pgmap="711" id="b711-6">The motion was overruled, and the cause took its regular course through the dockets.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="710" ORDERLABEL="708" TYPE="page">
+        <fptr FILEID="tiff_00355_1"/>
+        <fptr FILEID="jp2_00355_1"/>
+        <fptr FILEID="alto_00355_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_710.7" BETYPE="IDREF" FILEID="alto_00355_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="711" ORDERLABEL="709" TYPE="page">
+        <fptr FILEID="tiff_00356_0"/>
+        <fptr FILEID="jp2_00356_0"/>
+        <fptr FILEID="alto_00356_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_711.7" BETYPE="IDREF" FILEID="alto_00356_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b711-6" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_711.18" BETYPE="IDREF" FILEID="alto_00356_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHa" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_711.16" BETYPE="IDREF" FILEID="alto_00356_0"/>
+            <area BEGIN="BL_711.17" BETYPE="IDREF" FILEID="alto_00356_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aze9" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_710.17" BETYPE="IDREF" FILEID="alto_00355_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b711-4" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_711.9" BETYPE="IDREF" FILEID="alto_00356_0"/>
+            <area BEGIN="BL_711.10" BETYPE="IDREF" FILEID="alto_00356_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b711-5" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_711.13" BETYPE="IDREF" FILEID="alto_00356_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj9S" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_711.14" BETYPE="IDREF" FILEID="alto_00356_0"/>
+            <area BEGIN="BL_711.15" BETYPE="IDREF" FILEID="alto_00356_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2h" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_710.19" BETYPE="IDREF" FILEID="alto_00355_1"/>
+            <area BEGIN="BL_710.20" BETYPE="IDREF" FILEID="alto_00355_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8YH" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_710.16" BETYPE="IDREF" FILEID="alto_00355_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASD" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_710.18" BETYPE="IDREF" FILEID="alto_00355_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b710-13" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_710.15" BETYPE="IDREF" FILEID="alto_00355_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b710-21" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_710.24" BETYPE="IDREF" FILEID="alto_00355_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b710-22" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_710.27" BETYPE="IDREF" FILEID="alto_00355_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b710-23" BETYPE="IDREF" FILEID="casebody_0360"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_710.30" BETYPE="IDREF" FILEID="alto_00355_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

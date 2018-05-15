@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0475" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Jones v. Knowles">JONES et al. v. KNOWLES</name>
+          <docketnumber>Case No. 7,474</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 986</citation>
+          <citation category="parallel" type="bluebook">1 Cranch, C. C. 523</citation>
+          <decisiondate>1808-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00494_1" MIMETYPE="image/tiff" CHECKSUM="220dfe6a68e290b41cbe9c224f8ac694" CHECKSUMTYPE="MD5" SIZE="74952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00494_1.tif"/>
+      </file>
+      <file ID="tiff_00495_0" MIMETYPE="image/tiff" CHECKSUM="bb2da9d8f2cb94e0fba5583f3810a949" CHECKSUMTYPE="MD5" SIZE="88102">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00495_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00494_1" MIMETYPE="image/jp2" CHECKSUM="f0d3726483b08365fe84e0515dd2b90f" CHECKSUMTYPE="MD5" SIZE="2894368">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00494_1.jp2"/>
+      </file>
+      <file ID="jp2_00495_0" MIMETYPE="image/jp2" CHECKSUM="dd62312c761805ea3a9ccf374221e365" CHECKSUMTYPE="MD5" SIZE="3362133">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00495_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00494_1" MIMETYPE="text/xml" CHECKSUM="f571985f925a78b110c9ce67087d021d" CHECKSUMTYPE="MD5" SIZE="155710">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00494_1.xml"/>
+      </file>
+      <file ID="alto_00495_0" MIMETYPE="text/xml" CHECKSUM="d3d35e21aed7cc674d87061dc920b198" CHECKSUMTYPE="MD5" SIZE="191162">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00495_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0475" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="987" firstpage="986">
+              <court pgmap="988" id="b988-13">Circuit Court, District of Columbia.</court>
+              <docketnumber pgmap="988" id="b988-10">Case No. 7,474.</docketnumber>
+              <citation pgmap="988" id="b988-12">[1 Cranch, C. C. 523.]</citation>
+              <parties pgmap="988" id="b988-11">JONES et al. v. KNOWLES.</parties>
+              <decisiondate pgmap="988" id="A_4">Dec. Term, 1808.</decisiondate>
+              <judges pgmap="988" id="Akl8">(FITZHUGH, Circuit Judge, absent)</judges>
+              <attorneys pgmap="988" id="b988-19">F. S. Key, for plaintiffs,</attorneys>
+              <opinion type="majority">
+                <author pgmap="988" id="b988-20">But THE COURT</author>
+                <p pgmap="988" id="APYy">refused to admit it, saying that no man could come prepared to meet evidence and charges respecting every trans­action of his life, without notice.</p>
+                <p pgmap="988" id="b988-21">Mr. Jones then offered the deposition of Eber Hále, taken under the act of congress before the mayor of Hartford.</p>
+                <p pgmap="988(7) 989(105)" id="b988-22">Mr. Morsel! objected that the witness was-­interested. He only assigned five hundred dollars, part of the notes to the plaintiffs. If they can recover the whole they are trustees for Hale for the balance. Parol evidence cannot be received of P., being mayor of Hartford. The mayor does not state that he was not of counsel for one of the parties; has not certified the reasons of taking the deposition and does not state the residence of the witness, nor of the parties. The mayor was not competent to certify a release from the plaintiffs to the witness, nor a copy of the release. The orig­inal ought to be produced.</p>
+                <p pgmap="989" id="b989-3">Hr. Jones, contra. Parol evidence is com­petent to prove A. B. to be mayor. If the mayor was of counsel for the plaintiffs, the defendant must show it. It appears by his certificate that the witness was in Hart­ford, and that appears to be the reason of the taking the deposition.</p>
+                <p pgmap="989" id="b989-4">Hale in the deposition itself states that he has no interest in the note. He stands indifferent between the parties. If the plain­tiffs recover against Knowles, Knowles may recover against Hale upon his receipt. The copy of the release certified by the mayor, is sufficient. It is competent for the plain­tiffs to prove that Hartford is more than one hundred miles from Washington, and that the witness lives in Hartford, and that the defendant lives' in Georgetown.</p>
+                <p pgmap="989" id="b989-5">The original release belongs to the wit­ness. It is not in the power of the plaintiffs to produce it The witness is not obliged to produce it.</p>
+                <p pgmap="989" id="b989-6">The mayor acted judicially, and was com­petent to judge whether it was ■ a release, and to certify the same.</p>
+                <p pgmap="989" id="b989-7">THE COURT (FITZHUGH, Circuit Judge, absent) were of opinion that the deposition was not admissible in evidence,. no cause being certified by the mayor for taking the deposition, nor whether notice was given and on the ground of the interest of the witness.</p>
+                <p pgmap="989" id="b989-8">THE COURT was of opinion that the mayor ought to have certified all the facts necessary to make the deposition good evi­dence under the act of congress.</p>
+                <p pgmap="989" id="b989-9">The plaintiffs had leave to amend their declaration by adding two new counts, on payment of all antecedent costs. Juror with­drawn.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="988" ORDERLABEL="986" TYPE="page">
+        <fptr FILEID="tiff_00494_1"/>
+        <fptr FILEID="jp2_00494_1"/>
+        <fptr FILEID="alto_00494_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_988.4" BETYPE="IDREF" FILEID="alto_00494_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="989" ORDERLABEL="987" TYPE="page">
+        <fptr FILEID="tiff_00495_0"/>
+        <fptr FILEID="jp2_00495_0"/>
+        <fptr FILEID="alto_00495_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_989.11" BETYPE="IDREF" FILEID="alto_00495_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-9" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.9" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-8" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.8" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-5" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.5" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-4" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.4" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-7" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.7" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-6" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.6" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-3" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.3" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b988-19" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_988.24" BETYPE="IDREF" FILEID="alto_00494_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b988-21" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_988.32" BETYPE="IDREF" FILEID="alto_00494_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b988-20" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_988.27" BETYPE="IDREF" FILEID="alto_00494_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b988-22" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_988.33" BETYPE="IDREF" FILEID="alto_00494_1"/>
+            <area BEGIN="BL_989.2" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b988-10" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_988.14" BETYPE="IDREF" FILEID="alto_00494_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b988-11" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_988.15" BETYPE="IDREF" FILEID="alto_00494_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b988-12" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_988.16" BETYPE="IDREF" FILEID="alto_00494_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b988-13" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_988.17" BETYPE="IDREF" FILEID="alto_00494_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_4" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_988.18" BETYPE="IDREF" FILEID="alto_00494_1"/>
+            <area BEGIN="BL_988.19" BETYPE="IDREF" FILEID="alto_00494_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Akl8" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_988.28" BETYPE="IDREF" FILEID="alto_00494_1"/>
+            <area BEGIN="BL_988.29" BETYPE="IDREF" FILEID="alto_00494_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APYy" BETYPE="IDREF" FILEID="casebody_0475"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_988.30" BETYPE="IDREF" FILEID="alto_00494_1"/>
+            <area BEGIN="BL_988.31" BETYPE="IDREF" FILEID="alto_00494_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

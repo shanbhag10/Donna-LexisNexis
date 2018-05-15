@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0220" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="The Eliza">The ELIZA</name>
+          <docketnumber>Case No. 4,347</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 458</citation>
+          <citation category="parallel" type="bluebook">1 Lowell, 83</citation>
+          <decisiondate>1866-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00230_1" MIMETYPE="image/tiff" CHECKSUM="78f645738becad230ca7fa902143aca4" CHECKSUMTYPE="MD5" SIZE="61228">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00230_1.tif"/>
+      </file>
+      <file ID="tiff_00231_0" MIMETYPE="image/tiff" CHECKSUM="47129b203893ea7688c832881c75933a" CHECKSUMTYPE="MD5" SIZE="79572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00231_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00230_1" MIMETYPE="image/jp2" CHECKSUM="47a7acd5f30c4777c145334335bc530b" CHECKSUMTYPE="MD5" SIZE="2517514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00230_1.jp2"/>
+      </file>
+      <file ID="jp2_00231_0" MIMETYPE="image/jp2" CHECKSUM="230982c71e0b73db98c29cd4a4b2fd79" CHECKSUMTYPE="MD5" SIZE="3049562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00231_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00230_1" MIMETYPE="text/xml" CHECKSUM="f4e0776bb8b7368d086a59ab7e8f8a4c" CHECKSUMTYPE="MD5" SIZE="127860">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00230_1.xml"/>
+      </file>
+      <file ID="alto_00231_0" MIMETYPE="text/xml" CHECKSUM="5c1393e7f31cd8c953c38d72f4ab1649" CHECKSUMTYPE="MD5" SIZE="165496">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00231_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0220" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="459" firstpage="458">
+              <court id="b460-5" pgmap="460">District Court, D. Massachusetts.</court>
+              <docketnumber id="b460-2" pgmap="460">Case No. 4,347.</docketnumber>
+              <citation id="b460-4" pgmap="460">[1 Lowell, 83.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b460-3" pgmap="460">The ELIZA.</parties>
+              <decisiondate id="Agq" pgmap="460">June, 1866.</decisiondate>
+              <attorneys id="b460-14" pgmap="460">H. C. Hutchins, for libellant</attorneys>
+              <attorneys id="b460-15" pgmap="460">S. H. Phillips, for claimant, cited Perkins v. Hill [Case No. 10,986].</attorneys>
+              <footnote label="1">
+                <p id="b460-11" pgmap="460">1 [Reported by Hon. John Lowell, LL. D., District Judge, and here reprinted by permis­sion.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b460-16" pgmap="460">LOWELL, District Judge.</author>
+                <p id="A5g" pgmap="460">By the charter-­party, the libellant is owner for the voyage, and the master has a lien) as against the charterer. The point raised is, that he has .waived it in favor of this claimant As a general rule, the master would have no right to waive the lien, and in the case of a person having knowledge of the charter, could not do so. Gracie v. Palmer, 8 Wheat. [21 U. S.] 605; The Salem’s Cargo [Case No. 12,248]. Here it is said the master, who made the charter-party on which the libel-­lant relies, must be presumed to have power to vary it, no limitation of his authority being shown. Assuming this to be so, the question is, whether such a waiver is ex­pressed or implied by the bill of lading, or-­by the conduct of the parties.</p>
+                <p id="b460-17" pgmap="460">The claimant had what is called an as­signment of the homeward cargo, but it was of a cargo not in being, as such, when the assignment was made. He could acquire no title, either legal or equitable, to the log-­wood until it became a cargo by being laden on board the schooner; but the instant it was so laden, the master’s lien attached to-­it. Small v. Moates, 9 Bing. 574; Gled­stanes v. Allen, 12 C. B. 202. So that the-­lien has once attached against this cargo. It is not to be presumed that a master intends, to waive his lien without some good reason, being shown for such action, or some ex­plicit contract, or some conduct inconsistent with its intended enforcement.</p>
+                <p id="b460-18" pgmap="460">Looking first at the bill of lading, does the master thereby contract to deliver these goods for a reasonable freight, reckoned sim­ply upon the service performed in respect to them? The charter-party does not pro­vide for a distinct freight for the home­ward voyage. The agreement that one-half the freight should be earned at the out port, is intended to regulate the rights of the par­ties between themselves and with under­writers of freight, in case of a los¡-¡ of the vessel. One-half of the freight is put at risk on each trip. But the freight that is paya­ble at Boston by the charter-party, is eleven hundred and seventy-five dollars; and it may well be said, then, this is what is payable “per charter-party,” under the terms of the bill of lading. If it be said that this con­struction fails to give due effect to the words, “freight for the same,” because payment is not wholly for the carriage of these goods, the answer is. that the claimant’s construc­tion leaves out of view the expression, “as-, per charter-party;” and so we are still to-­seek what is, upon the whole, the more rea­sonable construction, and the one most in accordance with admitted principles.</p>
+                <p id="b461-2" pgmap="461">And here the ship-owner’s ground appears to be the stronger. It is usual for the mas­ter to give the charterer a bill of lading for his goods, and this is deemed to be subor­dinate to the charter-party, and not to en­large or diminish the rights thereby created, so far as owner and charterer are concerned. Lamb v. Parkman [Case No. 8,020]. If this cargo had been shipped directly to Wheel­wright, the master would probably, in the usual course of trade, have given him pre­cisely such a biE of lading as is here relied on; and it could not have been maintained that he thereby'bound himself to receive any less sum than the charter-party entitled him to receive at the home port. Can it be said that the assignee of the charter-party is enti­tled to a more liberal construction of this paper? I have discovered no equity in his favor upon which to found such a distinc­tion. He is not a bona fide purchaser of the cargo without notice, but a purchaser of the charter-party itself, and must be affected with a knowledge of its contents. Under these circumstances, the master gives the usual bill of lading, which is of value to the claimant in many respects: as evidence, for example, of a legal title to the goods, as well as a receipt binding the master and owners; but when its terms are ambiguous, it must be construed according to the existing rights of the parties, and in favor of the existing lien.</p>
+                <p id="b461-3" pgmap="461">The case of Perkins v. Hill [supra], was much relied on by the claimant We have no report of Judge Sprague’s final decision in that case, but are told in a note that the decision which is reported was reversed by the judge on a rehearing, in which new facts were presented. By the report of the case in the circuit court, where the final and un­reported decision of this court was affirmed, it appears that these new facts were many and important The result in both courts was, that a shipper of outward cargo, whose dealings were with the charterer, and who had accounted to him, was not bound to pay freight to the owner of the vessel by reason of having taken a bill of lading, referring to the charter party, when, by the terms of that instrument, no freight was payable for outward cargo. That case did not decide that freight payable as per charter-party means that no freight is payable, but that where, upon reference to the charter-party, it appears that none is payable, the charter-­party rather than the bill of lading may, in some cases, prevail, and the whole clause concerning freight in the latter may be re­jected. The claimant here desires, in oppo­sition to that doctrine, to overrule the char­ter-party by the bill of lading, the greater by the less, and that without showing any inconsistency between them, unless it be in a construction of the very clause which in that case was rejected. If we fofiow that ease implicitly, and give no effect, to the controverted part of the biE of lading, the lien remains good, and the libellant must prevail.</p>
+                <p id="b461-6" pgmap="461">Independently of the presumptions in favor of the lien, the construction of the bill of lading, which the claimant asks for, appears somewhat forced and over-nice. If the mas­ter had intended to deliver this cargo for any sum less than his remaining charter-money, he would probably have expressed himself so, and have stipulated for a specific freight, as in the case of the eight barrels of honey. An agreement for a reasonable freight is unusual, inconvenient, and unmercantüe; it •may be necessary to infer such an agreement in some cases, as in such an one as appeared on the first hearing in Perkins v. Hill, but I see no reason for saying that this is one of them. Decree for the libellants.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="460" ORDERLABEL="458" TYPE="page">
+        <fptr FILEID="tiff_00230_1"/>
+        <fptr FILEID="jp2_00230_1"/>
+        <fptr FILEID="alto_00230_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_460.3" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="461" ORDERLABEL="459" TYPE="page">
+        <fptr FILEID="tiff_00231_0"/>
+        <fptr FILEID="jp2_00231_0"/>
+        <fptr FILEID="alto_00231_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_461.2" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-5" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.7" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-18" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.21" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-14" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.15" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-15" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.16" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-16" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.17" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-17" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.20" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-11" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.14" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-6" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.7" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-3" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.5" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            <area BEGIN="BL_461.6" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-4" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.6" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Agq" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.8" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-2" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.4" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b460-3" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.5" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-2" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.4" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5g" BETYPE="IDREF" FILEID="casebody_0220"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_460.18" BETYPE="IDREF" FILEID="alto_00230_1"/>
+            <area BEGIN="BL_460.19" BETYPE="IDREF" FILEID="alto_00230_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

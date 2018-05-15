@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0394" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="Erie Ry. Co. v. Heath">ERIE RY. CO. et al. v. HEATH et al.</name>
+          <docketnumber>Case No. 4,514</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 762</citation>
+          <citation category="parallel" type="bluebook">8 Blatchf. 536</citation>
+          <decisiondate>1871-07-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00382_1" MIMETYPE="image/tiff" CHECKSUM="1670d118aea277fd2802a129e9dc649f" CHECKSUMTYPE="MD5" SIZE="92622">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00382_1.tif"/>
+      </file>
+      <file ID="tiff_00383_0" MIMETYPE="image/tiff" CHECKSUM="77e48873c707b3b4106567ff77b89c99" CHECKSUMTYPE="MD5" SIZE="80784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00383_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00382_1" MIMETYPE="image/jp2" CHECKSUM="e18be5716cadb8590fadd259d20c55fc" CHECKSUMTYPE="MD5" SIZE="3279016">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00382_1.jp2"/>
+      </file>
+      <file ID="jp2_00383_0" MIMETYPE="image/jp2" CHECKSUM="de99ff644230dd564382c73a2b9c82a4" CHECKSUMTYPE="MD5" SIZE="3117516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00383_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00382_1" MIMETYPE="text/xml" CHECKSUM="db9120a6bf32fd93e96e9f40aee5b818" CHECKSUMTYPE="MD5" SIZE="197990">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00382_1.xml"/>
+      </file>
+      <file ID="alto_00383_0" MIMETYPE="text/xml" CHECKSUM="94961e2c8dfe5756b0fb3e0da7c5b21f" CHECKSUMTYPE="MD5" SIZE="168822">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00383_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0394" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="763" firstpage="762">
+              <court id="b764-5" pgmap="764">Circuit Court, S. D. New York.</court>
+              <docketnumber id="b764-2" pgmap="764">Case No. 4,514.</docketnumber>
+              <citation id="b764-4" pgmap="764">[8 Blatchf. 536.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b764-3" pgmap="764">ERIE RY. CO. et al. v. HEATH et al.</parties>
+              <decisiondate id="ARg1" pgmap="764">July 12, 1871.</decisiondate>
+              <attorneys id="b764-11" pgmap="764">Edwin W. Stoughton and William A. Beach, for plaintiffs and Jay Gould.</attorneys>
+              <attorneys id="b764-12" pgmap="764">William M. Evarts and Charles F. South-­mayd, for Heath and Raphael.'</attorneys>
+              <footnote label="1">
+                <p id="b764-17" pgmap="764">1 [Reported by Hon. Samuel Blatchford, Dis­trict Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b764-13" pgmap="764">BLATCHFORD, District Judge.</author>
+                <p id="AfR" pgmap="764">Without discussing at length the various questions de­bated on the hearing on the petition of Heath and Raphael for relief against Jay Gould, I deem it. sufficient to state briefly the conclusions at which I have arrived:</p>
+                <p id="b764-14" pgmap="764">1. The shares of stock which are the sub­ject of controversy in this suit are in the possession of this court by the hands of its receiver, Mr. Coleman, and they have been in such possession, and Mr. Coleman, as re­ceiver, has been the officer of this court, ever since the removal of the suit, as regards ¡ Heath and Raphael, into this court</p>
+                <p id="b764-15" pgmap="764">2. This court has the power to compel, by summary process, the restoration by Mr. Gould of any property which he has abstract­ed from the custody of this court, whether ; he be or be not a party to the suit concerning such property.</p>
+                <p id="b764-16" pgmap="764">3. As respects such shares of stock, the cer­tificates representing them, which were is­sued to the receiver, had, when such receiver became the officer of this court, the privilege appurtenant to them, of being certified by • the registering agent of the Erie Railway Company, as representing shares duly regis­tered with such agent Such privilege was a part of the property in the shares, and was a valuable privilege. Mr. Gould has, by his acts, in respect to 30,000 of such shares, not only destroyed such privilege, and deprived such 30,000 shares, while they were in the custody of this court, of such privilege, but has converted such privilege to his own use, by procuring it to be conferred on 30,000 oth­er shares of the stock of the company, while such latter shares were his property.</p>
+                <p id="b764-20" pgmap="764">4. Having thus abstracted property from the custody of this court, Mr. Gould must re­store it, by making, or causing to be made, provision, that the 30,000 shares represented by the certificates issued to the receiver, which have been thus deprived of the privi­lege referred to, shall have such privilege re­stored to them; and, in default thereof, he must make good the pecuniary value of such spoliation.'</p>
+                <p id="b764-21" pgmap="764">5. Such provision is proposed to be made by placing on the registry list of the register­ing agent of the company, 30,000 shares, which have been created by the company and certificates for which have been issued, by the company, but which have never hith­erto been upon such registry list, and thereby .providing an adequate privilege of registry for all the shares represented by the certifi­cates issued to the receiver I see no objec­tion to this course. If the company recog­nizes this 30,000 shares as valid stock, as is-­shown to be the fact, and the registering-­agent of the company will, on the proper steps being taken to that end, certify all the-­shares held by the receiver, as being duly registered shares, this court cannot, in this suit, adjudicate on the question of the al­leged invalidity of such shares, as having-­been issued ultra vires or in an irregular-­manner not capable of ratification-and not ratified by the company. Such question is-­wholly collateral to thissuit Theissues in this suit raise no such question, and it can be de­termined only in a plenary suit, with proper-­parties and with pleadings framed to present it. I do not intend to suggest that the stock is valid or that it is invalid, but only that, for the purposes of this suit and of this ques­tion of registration, it must be regarded by this court as prima facie valid stock.</p>
+                <p id="b764-23" pgmap="764">6. This court is equally without power, in this suit, to enjoin the company from placing-­on the registry list the 30,000 shares which it is proposed to place there. The pleadings-­in this suit allow no such relief, and the com­pany is a plaintiff in it</p>
+                <p id="b764-24" pgmap="764(109) 765(13)">7. The motion of the plaintiffs to open the-­default taken on the 11th of March last is-­denied. Such a course is not necessary in order to allow the real owner of any stock represented by Heath and Raphael to claim it at the hands of this court, while it is in the custody of this court When such stock shall have been placed in proper condition for its restoration to Heath and Raphael, if,, then, any person claiming any of the stock through evidence of title issued by Heath and Raphael, shall apply to this court to have his. rights in- the premises awarded to him out. of the res in court, the application will be considered and disposed of.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="764" ORDERLABEL="762" TYPE="page">
+        <fptr FILEID="tiff_00382_1"/>
+        <fptr FILEID="jp2_00382_1"/>
+        <fptr FILEID="alto_00382_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_764.3" BETYPE="IDREF" FILEID="alto_00382_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="765" ORDERLABEL="763" TYPE="page">
+        <fptr FILEID="tiff_00383_0"/>
+        <fptr FILEID="jp2_00383_0"/>
+        <fptr FILEID="alto_00383_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_765.4" BETYPE="IDREF" FILEID="alto_00383_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARg1" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.8" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-15" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.19" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-14" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.18" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-17" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.22" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-16" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.20" BETYPE="IDREF" FILEID="alto_00382_1"/>
+            <area BEGIN="BL_764.21" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-11" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.13" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-13" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.15" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-12" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.14" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfR" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.16" BETYPE="IDREF" FILEID="alto_00382_1"/>
+            <area BEGIN="BL_764.17" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-5" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.7" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-4" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.6" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-3" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.5" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-2" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.4" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-24" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.26" BETYPE="IDREF" FILEID="alto_00382_1"/>
+            <area BEGIN="BL_765.2" BETYPE="IDREF" FILEID="alto_00383_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-20" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.23" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-21" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.24" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b764-23" BETYPE="IDREF" FILEID="casebody_0394"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_764.25" BETYPE="IDREF" FILEID="alto_00382_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0494" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="Jones v. Schell">JONES et al. v. SCHELL</name>
+          <docketnumber>Case No. 7,493</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1014</citation>
+          <citation category="parallel" type="bluebook">8 Blatchf. 79</citation>
+          <decisiondate>1870-12-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00508_1" MIMETYPE="image/tiff" CHECKSUM="6499ac026ef004cf931258d5b56ac33e" CHECKSUMTYPE="MD5" SIZE="84482">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00508_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00508_1" MIMETYPE="image/jp2" CHECKSUM="30ce78d7fe59e1ffb2384038c41c9355" CHECKSUMTYPE="MD5" SIZE="3241490">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00508_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00508_1" MIMETYPE="text/xml" CHECKSUM="6c3f4276b9e6c984c9e79e5bb3309752" CHECKSUMTYPE="MD5" SIZE="189319">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00508_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0494" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1014" firstpage="1014">
+              <court pgmap="1016" id="b1016-5">Circuit Court, S. D. New York.</court>
+              <docketnumber pgmap="1016" id="b1016-2">Case No. 7,493.</docketnumber>
+              <citation pgmap="1016" id="b1016-4">[8 Blatchf. 79.) <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1016" id="b1016-3">JONES et al. v. SCHELL.</parties>
+              <decisiondate pgmap="1016" id="AeVN">Dec. 3, 1870.</decisiondate>
+              <attorneys pgmap="1016" id="b1016-11">Alruon W. Griswold, for plaintiffs.</attorneys>
+              <attorneys pgmap="1016" id="b1016-12">Noah Davis, Dist Atty., for defendant.</attorneys>
+              <footnote label="1">
+                <p pgmap="1016" id="b1016-16">1 [Reported by Hon. Samuel Blatchford, Dis­trict Judge, and here reprinted by permission.)</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1016" id="b1016-13">WOODRUFF, Circuit Judge.</author>
+                <p pgmap="1016" id="Ae2c">This is an action at law, brought against the defendant, as collector of the port óf New York, to re­cover back moneys erroneously exacted for duties. The parties, in pursuance of the 4th section of the act of March 3, 1865 (13 Stat. 501) waived a jury, and the cause was tried by the court, and judgment was ordered for the plaintiffs. In their bill of costs the plain­tiffs claimed, and the clerk allowed on taxa­tion, twenty dollars, as a docket fee; and from such taxation the defendant appeals.</p>
+                <p pgmap="1016" id="b1016-14">By the act of February 26, 1853, “to reg­ulate the fees and costs,” &amp;c., in the courts of the United States (10 Stat 161), it is en­acted, that the following and no other fees shall be taxed and allowed: “In a trial be­fore a jury, in civil and criminal cases, or before referees, or on a final hearing in eq­uity or admiralty, a docket fee of twenty dollars;” to which a proviso is added, that, if the recovery be less than $50, in admiralty, then the docket fee shall be $10.</p>
+                <p pgmap="1016" id="b1016-15">It is clear that the language of this clause of the statute , does not include the present ease. It is not a case in equity or in admi­ralty. The trial was not had before a jury or before referees. There is no other clause in the statute which gives twenty dollars as a docket fee. It is, however, argued, that, when this statute was passed, a trial by the court, on a waiver of a jury, had not been provided for. and that, for that reason, it was not mentioned. It is quite probable that this is so. If there be a trial of an is­sue of fact, there would seem to be no good reason for denying to the attorney the docket fee, when the trial is before the court with­out a jury. The same preparation is neces­sary, and the same time is consumed in at­tendance, and the same labor is employed in <footnotemark>1</footnotemark> the trial, as when the issues of fact are tried by a jury or before referees. Nevertheless, the statute does not allow it, and it does for­bid any allowance which is not specified. If it was a mode of trial not known to this court when the fees were prescribed, that is a reason why it was not provided for; but this very circumstance shows that in truth it was not provided for rather than it was. When the statute was passed, in 1865, per­mitting such waiver and a trial by the court, no change was made in relation to fees; and, while it may be true that it created a case omitted in the former statute, the court are not warranted in supplying the supposed omission, in the face of the prohibitory lan­guage of the prior act.</p>
+                <p pgmap="1016" id="b1016-19">Still, the attorney is not left without a docket fee. The statute, in its further spec­ification, adds: “in cases at law, where judg­ment is rendered without a jury, ten dol­lars.” At the time of this enactment, this clause was applicable to judgments rendered on demurrer, on default, &amp;c., where no trial was had; but, as a general statute, it must be held to embrace all cases in which, under •any existing or future legislation, such a judgment might be rendered. The present is a case “at law,” and not in equity nor in ad­miralty. Judgment herein “is rendered with­out a jury.” It comes' within the very terms of the statute. The plaintiffs are, therefore, in this condition — by waiving a trial by jury in an action at law, they have placed them­selves in a situation in which no existing statute will allow to them a docket fee of twenty dollars. If it is a hardship, that should have been considered before the waiver was made. They can claim the ten dollars, because congress, by the act of 1865, made a new case, which comes within the statute giving that allowance. The taxation by the clerk must be modified, by striking out ten dollars, as erroneously taxed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1016" ORDERLABEL="1014" TYPE="page">
+        <fptr FILEID="tiff_00508_1"/>
+        <fptr FILEID="jp2_00508_1"/>
+        <fptr FILEID="alto_00508_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1016.23" BETYPE="IDREF" FILEID="alto_00508_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-14" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.18" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-15" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.19" BETYPE="IDREF" FILEID="alto_00508_1"/>
+            <area BEGIN="BL_1016.20" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-16" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.21" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-11" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.13" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-12" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.14" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ae2c" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.16" BETYPE="IDREF" FILEID="alto_00508_1"/>
+            <area BEGIN="BL_1016.17" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-13" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.15" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-19" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.24" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeVN" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.6" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-2" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.2" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-3" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.3" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-4" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.4" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-5" BETYPE="IDREF" FILEID="casebody_0494"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.5" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

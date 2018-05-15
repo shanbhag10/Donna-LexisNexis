@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0232" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="Jay v. Almy">JAY v. ALMY</name>
+          <docketnumber>Case No. 7,236</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 387</citation>
+          <citation category="parallel" type="bluebook">1 Woodb. &amp; M. 262</citation>
+          <decisiondate>1846-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00195_0" MIMETYPE="image/tiff" CHECKSUM="86ddac491e6e31266bdfb317be483ca6" CHECKSUMTYPE="MD5" SIZE="50848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00195_0.tif"/>
+      </file>
+      <file ID="tiff_00195_1" MIMETYPE="image/tiff" CHECKSUM="a79675df77b70aacc2dd614e51de2a11" CHECKSUMTYPE="MD5" SIZE="94006">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00195_1.tif"/>
+      </file>
+      <file ID="tiff_00196_0" MIMETYPE="image/tiff" CHECKSUM="492c67523e8891a917bdc6e6b69f59c9" CHECKSUMTYPE="MD5" SIZE="113596">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00196_0.tif"/>
+      </file>
+      <file ID="tiff_00196_1" MIMETYPE="image/tiff" CHECKSUM="26e614bac9630854dbd56d56bae75847" CHECKSUMTYPE="MD5" SIZE="80350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00196_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00195_0" MIMETYPE="image/jp2" CHECKSUM="c8301d23d41a2319083eebedc8d8a730" CHECKSUMTYPE="MD5" SIZE="2350124">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00195_0.jp2"/>
+      </file>
+      <file ID="jp2_00195_1" MIMETYPE="image/jp2" CHECKSUM="52d05ef54ec41f70571359e10e475661" CHECKSUMTYPE="MD5" SIZE="3315769">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00195_1.jp2"/>
+      </file>
+      <file ID="jp2_00196_0" MIMETYPE="image/jp2" CHECKSUM="c5c11ced174b38110cc2aabe5b008d48" CHECKSUMTYPE="MD5" SIZE="3782162">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00196_0.jp2"/>
+      </file>
+      <file ID="jp2_00196_1" MIMETYPE="image/jp2" CHECKSUM="658d756dede96c7a3fad79e7c90bd877" CHECKSUMTYPE="MD5" SIZE="3016473">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00196_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00195_0" MIMETYPE="text/xml" CHECKSUM="7f213be671cefa618b728f6abb7c1b26" CHECKSUMTYPE="MD5" SIZE="107237">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00195_0.xml"/>
+      </file>
+      <file ID="alto_00195_1" MIMETYPE="text/xml" CHECKSUM="3a14ad7a9b361174ec88e19c4287ff2c" CHECKSUMTYPE="MD5" SIZE="205660">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00195_1.xml"/>
+      </file>
+      <file ID="alto_00196_0" MIMETYPE="text/xml" CHECKSUM="918c2783459560bd26352815cf83b0b0" CHECKSUMTYPE="MD5" SIZE="244122">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00196_0.xml"/>
+      </file>
+      <file ID="alto_00196_1" MIMETYPE="text/xml" CHECKSUM="05cb27c10963673a6f9d5592e9081f80" CHECKSUMTYPE="MD5" SIZE="176451">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00196_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0232" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="390" firstpage="387">
+              <court pgmap="389" id="A3s">-Circuit Court, D. Massachusetts.</court>
+              <docketnumber pgmap="389" id="b389-6">Case No. 7,236.</docketnumber>
+              <citation pgmap="389" id="AA43">[1 Woodb. &amp; M. 262.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="389" id="A_-V">JAY v. ALMY.</parties>
+              <decisiondate pgmap="389" id="A72e">May Term, 1846.</decisiondate>
+              <attorneys pgmap="390" id="b390-4">Messrs. Sewall and Mead, for libellant.</attorneys>
+              <attorneys pgmap="390" id="b390-5">Mr. Clifford, for libellee.</attorneys>
+              <footnote label="1">
+                <p pgmap="389" id="b389-13">1 [Reported by Charles L. Woodbury, Esq., .and George Minot, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="390" id="b390-6">WOODBURY, Circuit Justice.</author>
+                <p pgmap="390" id="AAN">Most of the important averments in this case are either admitted or proved beyond controversy. Afnong them is the sailing of the libellant under the libellee, the former as cook, and therefore bound to obedience and subordina­tion on his part; and the other as master, and hence equally bound to exercise kind­ness, humanity, and protection, rather than cruelty or oppression, to those under his com­mand. So it is admitted or proved clearly, that the master caused the cook to be con­fined with heavy irons, and thus to be de­tained in the vessel and fort in a hot climate, for a long time, and made no provision for his return home, if he should be discharged, and did not deliver to him, and send on shore with him, his clothes and other property, when he was removed from the vessel. It is also established. • that the cook was dis­charged by the consul at Batavia, and has never been tried or convicted since returning home of any offence committed on board the Mary Ann, nor have any portion of his ef­fects, or the earnings of the vessel been re­stored to him, or accounted for.</p>
+                <p pgmap="390" id="b390-7">These leading facts, none of which are now in doubt, would certainly be sufficient to charge the respondent with very heavy dam­ages, unless he shows satisfactorily a justifi­cation for this extraordinary conduct to­wards the cook. But where he proceeds to prove a justification, we at once encounter contradictory evidence, and omissions to make out satisfactorily several of the com­ponent facts indispensable to a thorough jus­tification. Thus the grounds set up in de-­fence in the answer, are: That Jay had as­sisted a seaman called Tedro in his assault on the mate, and also in the argument and evidence they are, that there was danger of Jay’s poisoning the crew; and, lastly, that •the crew requested that he should be con­fined. But there is no testimony that he rendered any assistance whatever to Pedro, but, on the contrary, he was in the caboose at the time. Nor when Pedro called for help in Spanish, is there any proof, that the call was directed to Jay, rather than to any of the rest of the crew, or that. Jay understood Spanish better than the others, or responded at all to the" call. Nor is there any proof of a particular intimacy existing between him and Pedro, or any previous concert between them to injure the mate, or any previous ill-­will on his part towards the mate. On the contrary, Pedro’s attack seems to have been in sudden irritation at a blow from the mate, and without premeditation or conference on the subject with any one; and Jay’s relations were so friendly with the mate, that he was called on after the injury to wait upon him, and assist to heal his wounds; showing no suspicion then, in either the mate or the captain, of his having assisted to cause those wounds. There would be, also, no little ab­surdity in supposing a combination between only two persons out of twenty-three on board, to assault one of the officers, and create a mutiny or revolt endangering the rest. This confidence and trust in Jay prove, also, that no suspicion then existed in either of their minds, in support of the second ground of defence; viz., that Jay was likely to poison them. Nor is there the slightest evidence that Jay had said or done any thing at any time, before his arrest, to justify a belief in the crew of an intention to poison them, except some suspicions flung out against him by Turner, who was his enemy, and who has not appeared here or elsewhere as a witness to verify them under oath. On the contrary, all the witnesses, as well as the captain, concede, that Jay was a good and orderly man on board, and at all times pro­tested his innocence of any such intent; and out of all the seamen, who testified in this case on either side, not one, not even the mate, who was stabbed, swears to a single fact sustaining either of these grounds of justification. And there is an absence of all motive for Jay to have been guilty of ei­ther charge, no difficulty being proved to have existed between him and the mate, or captain, or any of the crew, except Turner. And against Turner, there is no legal evi­dence, that he ever made any threats, or committed any outrage before his arrest.</p>
+                <p pgmap="390(88) 391(573)" id="b390-9">In respect to the next and last justifica­tion set up, it is, that. Jay was imprisoned in consequence of the fears and at the re­quest of the crew. There is some proof from several of them of such a request hav­ing been made. But there is no evidence that those fears were well founded, or that the captain instituted any official inquiry in to their correctness, formal or informal, or gave notice to Jay of any examination into them beforehand, so that Jay might excul­pate himself; which last circumstance at least distinguishes this case from that of The Som-­ers [unreported], to which the captain’s coun­sel have likened it. On the contrary, there is some testimony that the captain himself in stigated the crew to make such a request, and that after the paper which they signed, requesting Jay’s confinement, had been de­stroyed, the captain made, or caused to be made, another, affixing their names, all in one hand-writing, and stating the charge to be against Isaac Bay rather than Isaac Jay, and making the same person a signer to it, and thus joining with the rest in asking for his own confinement. The absurdity, if not forgery, involved in this, caused the consul to discharge Jay at once from custody, on his arrival at Batavia. A commander of a vessel should be a firm man, tenax propositi, and should not act on the groundless fears of his crew, much less excite them. Much less should he do this against one placed un­der his protection as a sort of ward, in a distant country, and one whose previous con­duct, for aught which is proved, had been throughout obedient and exemplary. The captain must be humane no less than firm. I place out of the case, of course, the mere hearsay declarations of Turner, and the cap­tain’s own answer, as affecting Jay; because it is not competent evidence against him, coming from a party, and not having been called for under oath by Jay, or read by him­as a part of the testimony in the cause. The David Pratt [Case No. 3,597]. Each party in admiralty has a right, if he chooses, to the answer under oath of the other; and if not so answering when requested, he may take the fact pro confesso. If an answer be given when asked for, it is evidence for either side. But the court then is not bound to re­quire two witnesses as in equity, to over­come an answer. Hutson v. Jordan [Id. 6,­959]. As all the justifications for the im­prisonment fail, the captain is liable for the injury caused by it. But he is not shown to have entertained any previous antipathy or grudge against Jay, and manifestly acted in some degree from the wishes of his crew. It is probably not therefore a suitable case for smart money or vindictive damages, should the last ever be proper when a crimi­nal prosecution can also, as here, be insti­tuted. See cases in Allen v. Blunt [Id. 217]; Taylor v. Carpenter [Id. 13,785]. Again, it is difficult to discover any but an honest mo­tive, however erring in judgment, for the captain, when punishing Jay, though with such severity. Because Jay’s conduct had excited no previous grudge or quarrel, but had won confidence. Notwithstanding this should prevent any aggravation in the amount of damages awarded, yet the cap­tain should pay a full indemnity, having, without sufficient cause shown, confined the libellant in a close room, in a hot climate, with heavy irons, and continued this sub­stantially for near fifty days. He might be prosecuted for this criminally, perhaps as an assault and false imprisonment;. and if mal­ice existed, could be indicted for putting Jay ashore abroad in such a destitute condition. Act 1825, c. 65, § 10 [4 Stat. 117]; V. S. v. Netcher [Case No. 15.866].</p>
+                <p pgmap="391" id="b391-5">Several adjudged cases tend to sustain these views in all material respects. Thus, a master is not excused for imprisonment of a seaman abroad, although ordered by a con­sul. The William Harris [Case No. 17,695]; Wilson v. The Mary [Id. 17,823]. Nor ex­cused for improperly discharging a seaman abroad, by the consul’s approbation. Hutch­inson v. Coombs [Id. 6,955]. The master has sole and exclusive command, and all owe obedience to lawful orders, who are under him, crew and officers. Butler v. McLellan [Id. 2,242]. And hence the crew have no right to order the captain, or restrain him as to the punishment of any one, although if one offends or injures the crew, the' cap­tain may pardon him, if the crew do it. But­ler v. McLellan [supra]. It is prudent in the master to consult his subordinate officers in case of doubt, but no requirement exists to consult his crew, or to follow their wishes. Abb. Shipp. 136, 137. The crew may, in certain cases, demand a survey of the vessel, if supposed not seaworthy. Act July 20, 1790 [1 Stat. 131]. And be consulted in a storm, as to throwing the cargo overboard for safety. Butler v. McLellan; The Wil­liam Harris [supra]. But it is not to be flung over without the master’s consent or orders. The Nimrod [Case No. 10,267]. On­ly .in extreme cases, can the master imprison a seaman abroad in a foreign prison. The William Harris, Wilson v. The Maty, The Nimrod [supra]. Even if a .seaman becomes dangerous, he must be so dangerous as not to be able to be brought home safely. Oth­erwise, the captain cannot imprison him abroad, or discharge him there. The Nim­rod [supra]. And if the advice of crew as to throwing property over, does not bind the mas­ter, much less will it as to the imprisonment of one of them. If a seaman is improperly discharged, he is entitled to expenses of re­turn, and to wages till able to return, as a measure of damages. The Nimrod [supra]; Lane v. Townsend [Case No. 8,054]. But this means a case where the seaman hired for wages, and where the vessel has not been wrecked.</p>
+                <p pgmap="391(97) 392(15)" id="b391-6">Again, Jay claims of him compensation for the loss of his clothing, medicine, and chest of goods on board the vessel. The captain admits he had collected these together to take them on shore before the vessel was wrecked, but contends they were lost with the vessel, or plundered by the natives. But some witnesses on both sides testify to their being partly taken on shore, and though the natives plundered some, the Dutch fort and officers at Copang are presumed to have yielded at least a semi-civilized protection to person and property. Some testify that tne captain actually sold most of the articles on shore, and pocketed the money for them.</p>
+                <p pgmap="392" id="b392-3">. My own view of this part of the case is, that when taking Jay on shore ' he should have taken, with him and delivered to him his clothes and other property, and that not doing this, when the articles were in his charge, and Jay imprisoned so as to be un­able to look after them himself, was a con­version of them, and the captain ought to re­spond for their value, and the more especial­ly so, as it is probable he sold a portion of them. That value, however, I would not swell beyond the clear proof, as to its extent, which is the evidence of the person at New Bedford, who aided in the outfit of Jay.</p>
+                <p pgmap="392" id="b392-4">Finally, the captain should have supported his charges: against Jay at Batavia, and had him punished there or since his return home, or at least have shown probable and reason­able grounds for suspicion against him, on a hearing there or in this country. And not doing any of these, he cannot.escape another ground of damage to. Jay, by the conse­quential injury to him in being left abroad, and having no passage home provided. As the vessel was wrecked, and the voyage broken up, he could not ask pay for his time after being discharged; but he was entitled to some means for returning to this country. See, as before cited, The Nimrod and Lane v. Townsend. And though Jay is not jus­tified in claiming wages of the captain, as he entered on board the vessel upon shares, yet, under the contract in such cases, he is entitled to his portion of the oil and bone then on board and saved from the wreck. And the owners, to whom the proceeds of it were remitted by the captain, must probably indemnify him for it.</p>
+                <p pgmap="392" id="b392-5">It will be . seen that my opinion is not founded entirely on any part of the evidence which has been contradicted, or attempted, like Hart’s, to be discredited; and hence,­though there is something to be censured in the attempts made in favor of either side, by its friends, to influence some of -the wit­nesses, and some cloud is cast over their veracity, it has no essential bearing on facts which govern the merits.</p>
+                <p pgmap="392" id="b392-6">On footing up the sums, to which Jay is entitled here, if only a dollar a day for fifty days’ imprisonment is allowed, and the clothes and goods of his outfit are valued at $175, those two items will constitute $225. Allowing for interest, passage home, and old clothing, not included in the outfit, $45, and we have $270, the sum allowed in.the court below. I think that aggregate not too high; and so far as doubting its correctness, it would rather be, that the damages given in the court below were too small instead of being too large. I entertain no doubt of my power to increase them, as in appeals at com­mon law. Anonymous [Case No. 444]; Yea­ton v. United States, 5 Cranch [9 U. S.] 281. But I am not certain that an increase is proper, unless as vindictive or exemplary, and that is in a case like this, if in any, not clearly justifiable. See Allen v. Blunt [Case No. 217]; Taylor v. Carpenter [Id. 13,785]. Counsel fees, in some cases, are a proper charge. [The Apollon] 9 Wheat [22 U. S.] 379, and Allen v. Blunt, just cited. But as they were not allowed to the respondent, where the libellant at a former term became nonsuit, they are disallowed here.</p>
+                <p pgmap="392" id="b392-9">Nor is there any foundation for the objec­tion that the former nonsuit is a bar to an­other libel, it having been voluntary, and not on a judgment of the court. 2 Mass. 113; 1 Metc. (Mass.) 274; 1 Pick. 371; 3 Wils. 153; and Greely v. Smith [Case No. 5,749]. It often is not after any trial of the merits, and arises from inability to com­mand the attendance of witnesses, as is stated to have been the present case. Let the judgment below be affirmed, with cost and interest since the appeal.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="389" ORDERLABEL="387" TYPE="page">
+        <fptr FILEID="tiff_00195_0"/>
+        <fptr FILEID="jp2_00195_0"/>
+        <fptr FILEID="alto_00195_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_389.4" BETYPE="IDREF" FILEID="alto_00195_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="390" ORDERLABEL="388" TYPE="page">
+        <fptr FILEID="tiff_00195_1"/>
+        <fptr FILEID="jp2_00195_1"/>
+        <fptr FILEID="alto_00195_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_390.4" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="391" ORDERLABEL="389" TYPE="page">
+        <fptr FILEID="tiff_00196_0"/>
+        <fptr FILEID="jp2_00196_0"/>
+        <fptr FILEID="alto_00196_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_391.5" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="392" ORDERLABEL="390" TYPE="page">
+        <fptr FILEID="tiff_00196_1"/>
+        <fptr FILEID="jp2_00196_1"/>
+        <fptr FILEID="alto_00196_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_392.4" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-4" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.6" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-3" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.5" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_-V" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.10" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-6" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.9" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A72e" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.13" BETYPE="IDREF" FILEID="alto_00195_0"/>
+            <area BEGIN="BL_389.14" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b391-6" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_391.7" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            <area BEGIN="BL_392.1" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b389-13" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.18" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-9" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.12" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            <area BEGIN="BL_391.1" BETYPE="IDREF" FILEID="alto_00196_0"/>
+            <area BEGIN="BL_391.2" BETYPE="IDREF" FILEID="alto_00196_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAN" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.8" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            <area BEGIN="BL_390.9" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-9" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.10" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b391-5" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_391.6" BETYPE="IDREF" FILEID="alto_00196_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-6" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.8" BETYPE="IDREF" FILEID="alto_00196_1"/>
+            <area BEGIN="BL_392.9" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b392-5" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_392.7" BETYPE="IDREF" FILEID="alto_00196_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AA43" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.11" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-5" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.6" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-4" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.5" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-7" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.10" BETYPE="IDREF" FILEID="alto_00195_1"/>
+            <area BEGIN="BL_390.11" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b390-6" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_390.7" BETYPE="IDREF" FILEID="alto_00195_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3s" BETYPE="IDREF" FILEID="casebody_0232"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_389.12" BETYPE="IDREF" FILEID="alto_00195_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0522" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="The Fanny">The FANNY</name>
+          <docketnumber>Case No. 4,638</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 993</citation>
+          <citation category="parallel" type="bluebook">2 Lowell, 508</citation>
+          <decisiondate>1876-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00498_0" MIMETYPE="image/tiff" CHECKSUM="4d01fd4845e503aec3f55eb09eaee46d" CHECKSUMTYPE="MD5" SIZE="94252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00498_0.tif"/>
+      </file>
+      <file ID="tiff_00498_1" MIMETYPE="image/tiff" CHECKSUM="2cedd768b9fbcb6eebf4e00ea999a741" CHECKSUMTYPE="MD5" SIZE="116082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00498_1.tif"/>
+      </file>
+      <file ID="tiff_00499_0" MIMETYPE="image/tiff" CHECKSUM="d692378ba339cce54df2abd3c50caf95" CHECKSUMTYPE="MD5" SIZE="49174">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00499_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00498_0" MIMETYPE="image/jp2" CHECKSUM="2e2f7610cf2edacea753bcf89eaf3d74" CHECKSUMTYPE="MD5" SIZE="3400301">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00498_0.jp2"/>
+      </file>
+      <file ID="jp2_00498_1" MIMETYPE="image/jp2" CHECKSUM="807e561067495d5484252375624ca4ea" CHECKSUMTYPE="MD5" SIZE="3800862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00498_1.jp2"/>
+      </file>
+      <file ID="jp2_00499_0" MIMETYPE="image/jp2" CHECKSUM="b63315448baaddd0e13d1838d91a5a22" CHECKSUMTYPE="MD5" SIZE="2430562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00499_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00498_0" MIMETYPE="text/xml" CHECKSUM="dbcd2df1752d91d76edc65b660286cde" CHECKSUMTYPE="MD5" SIZE="203162">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00498_0.xml"/>
+      </file>
+      <file ID="alto_00498_1" MIMETYPE="text/xml" CHECKSUM="70f7d178cd4f1d30e76aad32991d1d32" CHECKSUMTYPE="MD5" SIZE="245593">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00498_1.xml"/>
+      </file>
+      <file ID="alto_00499_0" MIMETYPE="text/xml" CHECKSUM="eb3b762e46f8282c9276348463e59354" CHECKSUMTYPE="MD5" SIZE="96687">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00499_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0522" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="995" firstpage="993">
+              <court id="b995-10" pgmap="995">District Court, D. Massachusetts.</court>
+              <docketnumber id="b995-7" pgmap="995">Case No. 4,638.</docketnumber>
+              <citation id="b995-9" pgmap="995">[2 Lowell, 508.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b995-8" pgmap="995">The FANNY.</parties>
+              <decisiondate id="ACJ" pgmap="995">Nov., 1876.</decisiondate>
+              <attorneys id="b995-20" pgmap="995">. H. H. Mather, for Dolbeare &amp; Co.</attorneys>
+              <attorneys id="b995-21" pgmap="995">H. P. Harriman, for Eldredge.</attorneys>
+              <footnote label="1">
+                <p id="b995-24" pgmap="995">1 [Reported by Hon. John Lowell, LL. D., District Judge, and here reprinted by permis­sion.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b995-22" pgmap="995">LOWELL, District Judge.</author>
+                <p id="Axs" pgmap="995">This steamboat was arrested in August, 1876, and has been condemned and sold to meet a small demand for salvage; and from her proceeds in the registry the salvage and wages have been paid. There remains a sum insufficient to pay in full two demands for domestic re­pairs, both of which are admitted to be due. Dolbeare &amp; Co. furnished repairs in April and May, 1875, and Eldredge in July, 1876. Both took the requisite steps to record and recover upon their liens as provided by the statute of Massachusetts. Eldredge filed his libel against the vessel before she had been sold, and a decree was entered for him for debt and costs, but has not been paid. Dol-­beare &amp; Co. filed their petition some time after the libel of Eldredge, and after the decree in his favor. The question is how the insufficient proceeds are to be marshalled.</p>
+                <p id="b995-23" pgmap="995(125) 996(278)">The general rule in admiralty is that all lien-holders of like degree share pro rata in the proceeds of the res, without regard to the date of their libels or suits, if all are pending together. It appears, however, to be the practice in England to give priority to a plaintiff who has pursued his remedy with such diligence as to obtain a decree, before another, holding a debt of equal or even higher degree, has moved the court for an order governing the distribution. The leading case is The Saracen, reported 4 Notes of Cas. 498, 2 W. Rob. Adm. 453, and, on appeal, 6 Moore, P. C. 56, 75. In that case, the owners of a ship, and a part of her cargo damaged or lost by collision, brought their action and obtained ah interlocutory decree for the damage and a reference to ascertain the amount On the day tais decree was pronounced the owners of the remainder of the cargo brought their action. The courts decided that the interlocutory decree was a judgment and, by some not very intelligible analogy to the distribution of lie assets of a deceased person, a judgment was regarded as converting the debt into one of a higher nature, than it was before. There was in that case the difficulty that the first plain­tiff had a bond, and the second could not share in the benefits of that security; so that what the court was asked to do was to pro­nounce for a part of the damage in each case, the whole damage being more than the value of tiie vessel proceeded against and her freight. They decided that the- court of admiralty could not work out the equity of the statute limiting the liability of ship­owners; and this decision amounts to say­ing that .the libellant who can first reach the proceeds shall satisfy his own debt, what­ever becomes of the others, and that only a court of equity can regulate the equitable distribution; It must be observed that Dr. Lushinglon has twice expressed the opinion that this rule is unsatisfactory, and not to be extended; and in' one case he refused to apply it to a decree which was not techni cally final, though as much so, apparently, as those which were called so in some of the earlier decisions. See The Clara, Swab. 1; The Desdemona, Id. 158.</p>
+                <p id="b996-3" pgmap="996">The reasons for the rule are not applicable to this country, where our courts of admiralty do work out the limited liability, and where debts' by specialty have no precedence over others. The rule has not been adopted in this' district, and I do not suppose that it has been in any other. See the elaborate opinion of Judge Hall and the cases cited by him in The America [Case No. 288]. Judge Sprague' has, to my knowledge, decided that the order in which the libels are brought is immaterial; and this was agreed by counsel to be undoubtedly sound. When a vessel is seized here, and not bonded, our practice is to hear the libels or petitions in any oruer in which they are brought up, but not to dis­tribute the proceeds until all have been heard, unless to those, such as the salvors and sea­men, who have, by the nature of their claims, an undoubted priority; and even this is not done without notice to all others. The libel-­lant who has pursued his remedy with dili­gence before others are brought forward may have priority for his costs; and that is as far as justice or sense will admit of an advantage to him.</p>
+                <p id="b996-4" pgmap="996">Between these material-men, what is the rank of their liens? Counsel on both sides inform me that the statute of Massachusetts does not deal with this question, and I have not looked at that law. In admiralty, the rule is that liens take rank in the inverse -order of their dates: First, recent salvage;­next, wages of the current voyage; next, bottomry of that voyage; and so on, back­wards. This reverses the.ordinary practice of marshalling in matters of title. But the reasons for our rule are sound. “In the hazardous trade of the sea,” says a learned writer, “the services performed at the latest hour are most efficacious in bringing the vessel and her freightage safely to their final destination. Each foregoing incumbrancer, therefore, is actually benefited by means of the succeeding incumbrance, and the equity of the court of admiralty, in adjudicating cases of conflicting liens of this nature (ex contractu) takes that as the principle of its decisions.” 49 Lond. Law Mag. 146.</p>
+                <p id="b996-7" pgmap="996">Another reason, perhaps, was that a credit- or of this kind, his lien being secret, holds out the vessel as a fit subject for services which will create liens. But the controlling consideration is the necessities of commerce which have given to salvors and material-­men the right to an interest in the thing saved or benefited, to whomsoever the benefit may accrue,- just as seamen cannot be post­poned to the most meritorious mortgagees, no matter what misfortune has prevented them from taking possession of the ship and controlling her navigation.</p>
+                <p id="b996-8" pgmap="996">Concerning material-men, I have found but few decisions; but the analogy of bottomiy bonds is reasonably close, that where repairs are furnished at different times, the last man is presumed to have added a value to the thing which was subject to liens, which he may therefore realize before those earlier liens are paid, — I mean, when a voyage or part of a voyage has intervened, — for repairs put on in a port during one stay of the vessel there’, would usually be contemporaneous in the sense of the law.</p>
+                <p id="b996-9" pgmap="996(213) 997(10)">One other point is taken. It seems that Dolbeare &amp; Co., pursuing their remedy un­der the state statute, took a bond with sure­ties for the payment of their debt. The statute says that such a bond merely re­leases the vessel from custody, and shall not discharge the lien. The point taken by Eldredge is that Dolbeare should look to his bond, and leave the fund free for him. This would be so if the sureties were secured by property of the shipowner; but of this there is no evidence. As mere sureties, they have an equity of subrogation to the creditor’s lien, which balances and renders nugatory the right in equity which Eldredge might have, to insist that Dolbeare has two funds. He has not two funds of the debtor; but one of the debtor, and one of .a person who, in equity, can require him to look to his lien as far as it will go, in exoneration of the surety. This is one reason, I suppose, for the statute provision that the lien shall not be lost. The point, however, is not necessary to the de­cision, because I have given precedence to Eldredge for other reasons. Fortunately, his debt is very small, and most of the remain-­tng proceeds will come to Dolbeare &amp; Co. .■after all.-</p>
+                <p id="b997-3" pgmap="997">Decree that Eldredge’s lien has precedence, and the amount awarded him is to be paid, and the remaining proceeds to Dolbeare &amp; Co., unless there are other petitions not yet heard.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="995" ORDERLABEL="993" TYPE="page">
+        <fptr FILEID="tiff_00498_0"/>
+        <fptr FILEID="jp2_00498_0"/>
+        <fptr FILEID="alto_00498_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_995.3" BETYPE="IDREF" FILEID="alto_00498_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="996" ORDERLABEL="994" TYPE="page">
+        <fptr FILEID="tiff_00498_1"/>
+        <fptr FILEID="jp2_00498_1"/>
+        <fptr FILEID="alto_00498_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_996.4" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="997" ORDERLABEL="995" TYPE="page">
+        <fptr FILEID="tiff_00499_0"/>
+        <fptr FILEID="jp2_00499_0"/>
+        <fptr FILEID="alto_00499_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_997.4" BETYPE="IDREF" FILEID="alto_00499_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-8" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.9" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b995-7" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.8" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b997-3" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_997.6" BETYPE="IDREF" FILEID="alto_00499_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-9" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.10" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_997.2" BETYPE="IDREF" FILEID="alto_00499_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b995-9" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.10" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b995-8" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.9" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACJ" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.12" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b995-10" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.11" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axs" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.23" BETYPE="IDREF" FILEID="alto_00498_0"/>
+            <area BEGIN="BL_995.24" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-3" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.5" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-4" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.6" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.7" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-7" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.8" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b995-22" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.22" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b995-23" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.25" BETYPE="IDREF" FILEID="alto_00498_0"/>
+            <area BEGIN="BL_996.1" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b995-20" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.20" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b995-21" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.21" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b995-24" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_995.26" BETYPE="IDREF" FILEID="alto_00498_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

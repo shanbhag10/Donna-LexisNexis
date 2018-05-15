@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0147" publicationstatus="published">
+          <court abbreviation="E.D.N.Y." jurisdiction="United States">United States District Court for the Eastern District of New York</court>
+          <name abbreviation="The Jacob G. Neafie">The JACOB G. NEAFIE</name>
+          <docketnumber>Case No. 7,156</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 266</citation>
+          <citation category="parallel" type="bluebook">8 Ben. 251</citation>
+          <decisiondate>1875-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00134_1" MIMETYPE="image/tiff" CHECKSUM="d65e59bc6d980b04389106b9e8714a64" CHECKSUMTYPE="MD5" SIZE="89784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00134_1.tif"/>
+      </file>
+      <file ID="tiff_00135_0" MIMETYPE="image/tiff" CHECKSUM="c232d38a5294fc292cc0291fef28a9f4" CHECKSUMTYPE="MD5" SIZE="50416">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00135_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00134_1" MIMETYPE="image/jp2" CHECKSUM="36b0777237b9417afec2ff1bb4823399" CHECKSUMTYPE="MD5" SIZE="3283285">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00134_1.jp2"/>
+      </file>
+      <file ID="jp2_00135_0" MIMETYPE="image/jp2" CHECKSUM="531e029c47aaad7928d37055f3e2df59" CHECKSUMTYPE="MD5" SIZE="2358199">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00135_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00134_1" MIMETYPE="text/xml" CHECKSUM="eb4345dfc3244c4ce844d62a6fa1ec24" CHECKSUMTYPE="MD5" SIZE="184850">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00134_1.xml"/>
+      </file>
+      <file ID="alto_00135_0" MIMETYPE="text/xml" CHECKSUM="fdd5d8ece224fc4d837ed86ac00ab1e3" CHECKSUMTYPE="MD5" SIZE="98250">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00135_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0147" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="267" firstpage="266">
+              <court pgmap="268" id="b268-10">District Court, E. D. New York.</court>
+              <docketnumber pgmap="268" id="b268-7">Case No. 7,156.</docketnumber>
+              <citation pgmap="268" id="b268-9">[8 Ben. 251.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="268" id="b268-8">The JACOB G. NEAFIE.</parties>
+              <decisiondate pgmap="268" id="AEM">Oct., 1875.</decisiondate>
+              <attorneys pgmap="268" id="b268-19">Geo. B. Hoxie, Asst. Dist. Atty., for the United States.</attorneys>
+              <attorneys pgmap="268" id="b268-20">Benedict, Taft &amp; Benedict, for claimant.</attorneys>
+              <footnote label="1">
+                <p pgmap="268" id="b268-13">1 [Reported by Robert D. Benedict, Esq., and Benj. Lincoln Benedict, Esq., and here reprint­ed by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="268" id="b268-21">BENEDICT, District Judge.</author>
+                <p pgmap="268" id="AT4C">This case comes before the court upon exceptions to-­the sufficiency of the libel filed against the steamboat in behalf of the United States. The libel filed avers that the steamboat Jacob G. Neafie, a vessel propelled wholly by steam and navigating the bay and harbor of New York, on the 28th day of November, 1874, received on board and carried pas­sengers in and through the bay and harbor of New York; that no application in writing of the master or owner of said' vessel- for an inspection thereof as a passenger boat had ever been at that time made to the local in­spector, as required by section 4417 of the Revised Statutes; and that at the time no inspection had ever been made or certificate of inspection issued to said steamboat, as required by law, to authorize her to receive on board or carry passengers; whereby it is claimed that a penalty of $500 was in­curred, and that said vessel became- liable therefor and subject to be seized and pro­ceeded against by way of libel by virtue of section 4499 of the Revised Statutes of the United States. To this averment it is ob­jected, that it states no offense. The argu­ment is that section 4417 imposes no duty upon the master or owner of the vessel to make application for her inspection, but simply declares the duty of the local in­spector to act, when called upon to act by a written application of the master or own­er of a steam vessel, employed in the car­riage of passengers.</p>
+                <p pgmap="268(78) 269(110)" id="b268-22">But I think the section, fairly construed, does create a duty on the part of the ship­owner to make a written application for in­spection once in every year, in behalf of a-­vessel employed in the service of carrying passengers. The intention of the statute is manifestly to cast upon the- owner of the-­vessel the responsibility of setting in mo­tion the local inspector by a written applica­tion; and it proceeds upon the presumption-­that the inspectors, being public officers, will discharge their duty when applied to. This construction is necessary to preserve the ef­ficiency of' the statute. To construe it other­wise, is to leave it optional with the owner of the vessel whether his vessel be inspected or not, for the duty to inspect, and perhaps also the power, is dependent upon the fact that written application for inspection is made. If this construction of section 4417 is correct, it follows that, by virtue of sec­tion 4409, any vessel propelled by steam without such application having been made, becomes liable to the penalty of $500 impos­ed by that section.</p>
+                <p pgmap="269" id="b269-4">It has been further contended that section 4417 by its terms indicates that it is in­tended to apply only to vessels whose regu­lar service is the carrying of passengers, and that this libel must fail inasmuch as it omits to show that the carriage of passengers was any part of the regular service of the vessel proceeded against, but on the con­trary shows the vessel to be a tug boat.</p>
+                <p pgmap="269" id="b269-5">The libel does, however, show that the vessel proceeded against on the 28th of November, 1874, received on board and car­ried passengers in the harbor and bay of New York, and it may fairly enough be considered to aver that on that day she was employed in the service of carrying pas-' sengers for fares as part of her business for that day. So understood, the libel is suf­ficient The intention of the act is to com­pel every steam vessel, before engaging in the service of carrying passengers, to be inspected, with a view of ascertaining wheth­er she may be used to transport passengers with safety to life. The necessity for in­specting exists, as well where the vessel engages in the business of carrying pas­sengers for a single occasion and outside of her regular business, as when her daily oc­cupation is the carrying of passengers; and such a vessel should be held to be a vessel employed in the service of carrying pas­sengers, within the meaning of section 4417. My conclusion, therefore, is, that the libel sufficiently states an offense, and that the exceptions must be overruled, with liberty to answer within one week.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="268" ORDERLABEL="266" TYPE="page">
+        <fptr FILEID="tiff_00134_1"/>
+        <fptr FILEID="jp2_00134_1"/>
+        <fptr FILEID="alto_00134_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_268.4" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="269" ORDERLABEL="267" TYPE="page">
+        <fptr FILEID="tiff_00135_0"/>
+        <fptr FILEID="jp2_00135_0"/>
+        <fptr FILEID="alto_00135_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_269.3" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-9" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.12" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-8" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.11" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEM" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.14" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-21" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.24" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AT4C" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.25" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            <area BEGIN="BL_268.26" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-5" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.6" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-7" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.10" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-13" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.18" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-10" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.13" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-4" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.5" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-22" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.27" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            <area BEGIN="BL_269.1" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-19" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.22" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-20" BETYPE="IDREF" FILEID="casebody_0147"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.23" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

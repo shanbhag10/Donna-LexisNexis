@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0097" publicationstatus="published">
+          <court abbreviation="E.D. Mich." jurisdiction="United States">United States District Court for the Eastern District of Michigan</court>
+          <name abbreviation="In re Dyke">In re DYKE et al.</name>
+          <docketnumber>Case No. 4,227</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 214</citation>
+          <citation category="parallel" type="bluebook">9 N. B. R. (1873) 430</citation>
+          <decisiondate>1874</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00108_1" MIMETYPE="image/tiff" CHECKSUM="9e5243b486ad84c7cf7f7328bd06d134" CHECKSUMTYPE="MD5" SIZE="86528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00108_1.tif"/>
+      </file>
+      <file ID="tiff_00109_0" MIMETYPE="image/tiff" CHECKSUM="6b51fb5e58170766fdd44f22ffdc7502" CHECKSUMTYPE="MD5" SIZE="92604">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00109_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00108_1" MIMETYPE="image/jp2" CHECKSUM="9f42501b0e5f628a1ed05e848d1f63dd" CHECKSUMTYPE="MD5" SIZE="3187896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00108_1.jp2"/>
+      </file>
+      <file ID="jp2_00109_0" MIMETYPE="image/jp2" CHECKSUM="5446cca9cbba1b64481f35cd98c2bbcb" CHECKSUMTYPE="MD5" SIZE="3361562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00109_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00108_1" MIMETYPE="text/xml" CHECKSUM="df28ba03a90cb372c348d098fe6abdc0" CHECKSUMTYPE="MD5" SIZE="191788">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00108_1.xml"/>
+      </file>
+      <file ID="alto_00109_0" MIMETYPE="text/xml" CHECKSUM="d3ff18888ffad30a84d00c842a883434" CHECKSUMTYPE="MD5" SIZE="202911">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00109_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0097" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="215" firstpage="214">
+              <court id="AM7o" pgmap="216">District Court, E. D. Michigan.</court>
+              <docketnumber id="b216-14" pgmap="216">Case No. 4,227.</docketnumber>
+              <citation id="b216-16" pgmap="216">[9 N. B. R. (1873) 430.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b216-15" pgmap="216">In re DYKE et al.</parties>
+              <footnote label="1">
+                <p id="b216-20" pgmap="216">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b216-19" pgmap="216">LONGYEAR. District Judge.</author>
+                <p id="AlN" pgmap="216(19) 217(458)">The bank­rupts were partners in trade, and as such were doing business, at the time of the bank­ruptcy, as druggists, at No. 112 Griswold street, Detroit They were successors to the late firm of Humphrey &amp; Dyke, composed of one W. Humphrey and the said Thomas J. Dyke, formerly doing business at the same place. The said late firm of Humphrey &amp; Dyke held the store and premises where they carried on business, as tenants of the peti­tioner, by virtue of a lease bearing date De­cember 1st, 1872. The lease was for the term of four years and three months from date, at the yearly rent of six hundred dollars, payable monthly in advance; and it contains a / covenant “that all goods, wares and merchandise, household furniture, fixtures, or other property, which are or shall be placed in or on said premises by them, shall be liable, and this lease shall hereby con­stitute a lien or mortgage on said property, to secure the rent due or to grow due on this lease.” And the lessor is authorized in case of default “to enter upon said premises, or take any of said mortgaged property, wher­ever the same may be found, and sell and dis­pose of the same in the same manner as in case of chattel mortgage on default thereof, giving six days’ notice,” etc., and all benefit of exemption laws are waived. Humphrey &amp; Dyke occupied the store under this lease until July 20th, 1S73, when Humphrey sold and transferred his interest in the stock, furniture and fixtures, to the bankrupts and retired, the latter agreeing to pay the debts of the former firm. The bankrupts occupied the store and carried on business until their bankruptcy, about September 4th, 1S73. The lease was not filed as a chattel mortgage in the office of the city clerk of Detroit until after Humphrey had sold to the bankrupts, but it was so filed on the 1st day of August, 1873. The bankrupts, as a matter of fact, occupied the store under the terms of the lease; but, as filed in the city clerk’s office, the lease was not accompanied by any evi­dence of that fact. No rent had been paid since about the middle of February, 1873, and the amount in arrears at the time of the bankruptcy was three hundred and thirty dollars, which, together with three dollars and thirty-four cents for water rates paid by pe­titioner, he has proved in this court as a se­cured debt, and now asks that the same may be paid as such out of the proceeds of the store furniture and fixtures put into the store by Humphrey &amp; Dyke, and transferred to the bankrupts. To this the assignee, on behalf of the creditors of the bankrupts, Dyke &amp; Marr, objects.</p>
+                <p id="b217-4" pgmap="217">In the first place, the covenant in the lease for a lien, etc., is not a mortgage, because it does not purport to change, in any way, the title to the property. It gives no right in the property itself until reduced to possession under the power to take possession and sell; and I think it admits of much doubt whether the mere agreement -for a bare lien placed the petitioner upon any better footing than other creditors, before actual possession un­der the power. Holmes v. Hall, 8 Mich. CG. My opinion is that the assignee having ob­tained possession, whatever lien petitioner may have had is gone, and cannot be en­forced as against the other creditors. In re Joslyn [Case No. 7,5D0]. But it is not neces­sary to rest the case upon this point alone. By the statutes of Michigan (2 Comp. Daws 1S71, p. 1458, § 4700) it is provided as follows: “Every mortgage or conveyance intended to operate as a mortgage, of goods and chattels which shall hereafter be made, which shall not be accompanied by an immediate delivery and followed by an actual and continued change of possession of the things mortgaged, shall be absolutely void as against the cred­itors of the mortgagor, and as against subse­quent purchasers or mortgagees in good faith, unless the mortgage, or a true copy thereof shall be filed in the office of the township clerk of the township, or city clerk of the city, or city recorder of cities having no offi­cer known as city clerk, where the mortgagor resides,” etc. Therefore, even if considered as a mortgage, or as “intended to operate as a mortgage,” the covenant in the lease that it should “constitute a lien or mortgage on said property,” was absolutely void as against all the creditors of the original lessees, Humphrey &amp; Dyke, because it was not filed until after that firm had ceased to exist; and it was equally void as against the creditors of Dyke &amp; Marr, the bankrupts, because it was not their covenant, and it was not ac­companied by any notice or evidence that they held the property subject thereto. It re­sults that the prayer of the petition must be denied, but without costs to either party as against the other.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="216" ORDERLABEL="214" TYPE="page">
+        <fptr FILEID="tiff_00108_1"/>
+        <fptr FILEID="jp2_00108_1"/>
+        <fptr FILEID="alto_00108_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_216.9" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="217" ORDERLABEL="215" TYPE="page">
+        <fptr FILEID="tiff_00109_0"/>
+        <fptr FILEID="jp2_00109_0"/>
+        <fptr FILEID="alto_00109_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_217.4" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-16" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.19" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-15" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.18" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-14" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.17" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b217-4" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_217.6" BETYPE="IDREF" FILEID="alto_00109_0"/>
+            <area BEGIN="BL_217.7" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AM7o" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.20" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-19" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.24" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlN" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.25" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            <area BEGIN="BL_216.26" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            <area BEGIN="BL_217.2" BETYPE="IDREF" FILEID="alto_00109_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-20" BETYPE="IDREF" FILEID="casebody_0097"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.27" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

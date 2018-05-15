@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0532" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Farley v. National Steam-Gauge Co.">FARLEY v. NATIONAL STEAM-GAUGE CO.</name>
+          <docketnumber>Case No. 4,648</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1016</citation>
+          <citation category="parallel" type="bluebook">1 McA. Pat. Cas. 618</citation>
+          <decisiondate>1859-03-21</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00509_1" MIMETYPE="image/tiff" CHECKSUM="ba95e7feba6afdfe0e871093986a2c46" CHECKSUMTYPE="MD5" SIZE="91712">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00509_1.tif"/>
+      </file>
+      <file ID="tiff_00510_0" MIMETYPE="image/tiff" CHECKSUM="24a5205d7f6e5cb54d29d53ad300d02f" CHECKSUMTYPE="MD5" SIZE="104120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00510_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00509_1" MIMETYPE="image/jp2" CHECKSUM="33246ab1b07e33749f15eefe565fddf2" CHECKSUMTYPE="MD5" SIZE="3260243">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00509_1.jp2"/>
+      </file>
+      <file ID="jp2_00510_0" MIMETYPE="image/jp2" CHECKSUM="c0a68a6f5c3e7b742c974c8b1dc2a885" CHECKSUMTYPE="MD5" SIZE="3658773">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00510_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00509_1" MIMETYPE="text/xml" CHECKSUM="d2e26829fdde0dad27dd4ab854801232" CHECKSUMTYPE="MD5" SIZE="183194">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00509_1.xml"/>
+      </file>
+      <file ID="alto_00510_0" MIMETYPE="text/xml" CHECKSUM="499d660b7b4bf95806f1ebb4f3113a3b" CHECKSUMTYPE="MD5" SIZE="217138">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00510_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0532" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1017" firstpage="1016">
+              <court id="b1018-10" pgmap="1018">Circuit Court, District of Columbia.</court>
+              <docketnumber id="b1018-7" pgmap="1018">Case No. 4,648.</docketnumber>
+              <citation id="b1018-9" pgmap="1018">[1 McA. Pat. Cas. 618.]</citation>
+              <parties id="b1018-8" pgmap="1018">FARLEY v. NATIONAL STEAM-GAUGE CO.</parties>
+              <decisiondate id="A1VM" pgmap="1018">March 21, 1859.</decisiondate>
+              <attorneys id="b1018-16" pgmap="1018">Samuel Cooper, for appellant</attorneys>
+              <attorneys id="b1018-17" pgmap="1018">A. Pollok, for appellee.</attorneys>
+              <opinion type="majority">
+                <author id="b1018-18" pgmap="1018">MERRICK, Circuit Judge.</author>
+                <p id="AXsE" pgmap="1018">Having care­fully read over the immense mass of testi­mony in the cause, together with the volu- ' minous arguments of the respective counsel, and also the carefully-prepared reports of the examiner in charge of the special branch of the office to which the claims in ques­tion appertain, I shall, without any extended analysis of the arguments or testimony, state the conclusions I have reached. The patent of Allen, issued on the 16th of Octo­ber, 1857, (No. 18,526,) was for an improve­ment upon steam-gauges, consisting of the application of a volute spring, as set forth, which increases both in width and thick­ness from its centre to its circumference, in combination with a disc of rubber or other elastic material, substantially in the man­ner and for the purposes specified in detail in his specification. The application of Far­ley is for an improvement in steam-gauges, which consists of “the combination of a coiled spring, tapered regularly both in width and thickness from its periphery to its center, with a steam-tight, flexible dia­phragm and an indicator, the whole consti­tuting a pressure-gauge, operating substan­tially as set forth” in his specification. For-­asmuch as steam pressure gauges, before the invention of either party, were well known, embracing the several parts of indicator, coupling box, elastic diaphragm of rubber or other material, and flat, round, coiled, and other-shaped springs, it is manifest that the only point of novelty in either applica­tion is the employment of the double-tapered spring in lieu of every other species of spring, and that by reason of its specially correct sensitiveness to the pressure of elas­tic fluids. It must also be remembered that the double-tap»red spring was not the dis­covery of either of the contending parties, but was well known and used for other purposes, perhaps so nearly' analogous that it may well be questioned whether its adap­tation to a steam-pressure gauge was so far novel as to authorize a patent to any­body. But a patent having been granted to Allen, and not having any jurisdiction to vacate a patent once actually issued, upon an appeal like the present I shall not pursue that inquiry, but for the purposes of this case concede the patentability of his inven­tion. It simply remains to inquire which of these two was the first to apply such' a spring to steam-gauges.</p>
+                <p id="b1018-20" pgmap="1018">Upon the evidence in the case, it is incon-­testible that Farley was the first to make a completed machine including double-taper­ed spring, elastic diaphragm, coupling box, and Indicator, and that this was effected about the 4th of March, 1857. It is equally true from the testimony that Farley had not endeavored to apply this double-tapered spring to steam-gauges before the middle of February, 1857.</p>
+                <p id="b1018-21" pgmap="1018(28) 1019(634)">Although the testimony on the part of Al­len is in many parts obscure, and its weight greatly impaired by his declarations and conduct subsequent to Farley’s invention, yet the credibility of his witnesses must not be overthrown by his mysterious declara­tions and conduct, however unenviable a light these may reflect upon himself. From the testimony of these witnesses, I have be­come satisfied that Allen had in 1855 and 1856 prepared double-tapered coiled springs, elastic diaphragms, and coupling boxes, sub­stantially the same as Exhibits Nos. 1 and' 2, for the purpose of applying them to steam-­gauges, and had so declared his intention •and explained his purpose to these witnesses. That he was not at that time, nor until after a careful examination of Farley’s machines, aware of the full merits of the invention, is probable; but in the sense of the patent laws the fact of invention, and not a knowl­edge of the degree of its utility, is the proper subject of inquiry. If a party omit to test the value of his invention, and fail to bring-­it into use, and himself remain ignorant of the extent of its value, if it be the same with that of a subsequent discoverer, he is yet entitled to a patent over the latter. But the office seems to have supposed that the preparation of these double-tapered volute springs, combined with the elastic dia­phragms and coupling boxes, and the decla­ration of the inventor that he purposed with them to make a steam-gauge which should supersede all those then in use, or, in his own phrase, “knock the other manu­facturers of steam-gauges higher than a kite,” was not enough, because he does not show that in fact he combined them with an indicator, so as to produce a complete machine, before the invention of Farley. It appears to me that in this position consists the error into which the office has fallen. To constitute a perfected invention which will entitle a party to a patent it is not nec­essary that he should have actually con­structed the machine which is the subject of his invention. If, having conceived a valuable idea, he has manifested it before the world in any form which evidences the •completeness of the idea, and which is suf­ficient, when communicated to others, to en­able those skilled in the particular art to re­produce his invention, he has done enough to entitle himself to a patent, and this, whether such evidence consist of written de­scription, drawing, models, or a complete machine. Now, it must be apparent that the steam-pressure gauge having an indicator being a well-known .machine, and Allen him­self, at the time referred to, having been engaged in the manufacture and sale of the article under several different modifications, when he placed the double-tapered volute spring, in combination with the elastic dia­phragm, in a coupling box, fitted for union with an indicator, and declared that with this improvement he was about to construct a steam-pressure gauge which was superior to and would supersede all those in use, he had manifested enough of his invention to enable any one at all skilled in the particu­lar manufacture to make a perfect steam-­gauge according to his idea. There being no novelty in combining an indicator with a gauge, but that combination being of every­day occurrence, and the only novelty what­ever in the matter, if any, being the substi­tution of the double-tapered volute spring for the common volute and all other forms of spring, the invention was complete when­ever this substitution was plainly manifest­ed, as was shown to have been done in this case. If I am correct in this view of the law, then the novelty of Farley’s invention was anticipated by Allen, and the decision of the office must on that ground be reversed and a patent refused to H. W. Farley.</p>
+                <p id="b1019-5" pgmap="1019">Should the conclusion I have reached be erroneous, I feel gratified to know that the party injured is not without further reme­dy, as the sixteenth section of the act of 1836 [5 Stat. 123], taken together with the tenth section of the act of 1839 [5 Stat. 354], open to him the courts of the circuit where the parties live; and there, where the wit­nesses are known, and every circumstance calculated to elicit the truth is accessible to both parties, ample justice may be ob­tained.</p>
+                <p id="b1019-6" pgmap="1019">Now, therefore, I hereby certify to the honorable commissioner of patents that I have, after due notice to the parties, exam­ined and considered the foregoing case, and that the decision of the office, awarding a patent as prayed, to Henry W. Farley, is reversed, and his application for a patent is rejected.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1018" ORDERLABEL="1016" TYPE="page">
+        <fptr FILEID="tiff_00509_1"/>
+        <fptr FILEID="jp2_00509_1"/>
+        <fptr FILEID="alto_00509_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1018.5" BETYPE="IDREF" FILEID="alto_00509_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1019" ORDERLABEL="1017" TYPE="page">
+        <fptr FILEID="tiff_00510_0"/>
+        <fptr FILEID="jp2_00510_0"/>
+        <fptr FILEID="alto_00510_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1019.4" BETYPE="IDREF" FILEID="alto_00510_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1018-20" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1018.26" BETYPE="IDREF" FILEID="alto_00509_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1018-21" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1018.27" BETYPE="IDREF" FILEID="alto_00509_1"/>
+            <area BEGIN="BL_1019.1" BETYPE="IDREF" FILEID="alto_00510_0"/>
+            <area BEGIN="BL_1019.2" BETYPE="IDREF" FILEID="alto_00510_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1019-6" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1019.7" BETYPE="IDREF" FILEID="alto_00510_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1018-9" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1018.11" BETYPE="IDREF" FILEID="alto_00509_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1018-8" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1018.10" BETYPE="IDREF" FILEID="alto_00509_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1018-7" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1018.9" BETYPE="IDREF" FILEID="alto_00509_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1019-5" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1019.6" BETYPE="IDREF" FILEID="alto_00510_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXsE" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1018.23" BETYPE="IDREF" FILEID="alto_00509_1"/>
+            <area BEGIN="BL_1018.24" BETYPE="IDREF" FILEID="alto_00509_1"/>
+            <area BEGIN="BL_1018.25" BETYPE="IDREF" FILEID="alto_00509_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1VM" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1018.13" BETYPE="IDREF" FILEID="alto_00509_1"/>
+            <area BEGIN="BL_1018.14" BETYPE="IDREF" FILEID="alto_00509_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1018-18" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1018.22" BETYPE="IDREF" FILEID="alto_00509_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1018-10" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1018.12" BETYPE="IDREF" FILEID="alto_00509_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1018-17" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1018.21" BETYPE="IDREF" FILEID="alto_00509_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1018-16" BETYPE="IDREF" FILEID="casebody_0532"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1018.20" BETYPE="IDREF" FILEID="alto_00509_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

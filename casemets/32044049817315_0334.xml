@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0334" publicationstatus="published">
+          <court abbreviation="D. Me." jurisdiction="United States">United States District Court for the District of Maine</court>
+          <name abbreviation="The John C. Brooks">The JOHN C. BROOKS</name>
+          <docketnumber>Case No. 7,336</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 663</citation>
+          <citation category="parallel" type="bluebook">3 Ware, 273</citation>
+          <decisiondate>1861-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00333_0" MIMETYPE="image/tiff" CHECKSUM="6bccc0b774118115b07a138da11eb166" CHECKSUMTYPE="MD5" SIZE="100590">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00333_0.tif"/>
+      </file>
+      <file ID="tiff_00333_1" MIMETYPE="image/tiff" CHECKSUM="1ce9c1559ed0ea3cf42e538761cb3ac2" CHECKSUMTYPE="MD5" SIZE="100286">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00333_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00333_0" MIMETYPE="image/jp2" CHECKSUM="522b3988dfb6458fe8a9eebb6af17fa8" CHECKSUMTYPE="MD5" SIZE="3646972">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00333_0.jp2"/>
+      </file>
+      <file ID="jp2_00333_1" MIMETYPE="image/jp2" CHECKSUM="13d77ef1241dbf1f9837c6dbbd657888" CHECKSUMTYPE="MD5" SIZE="3668716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00333_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00333_0" MIMETYPE="text/xml" CHECKSUM="6ff256704e53b4ce6fc61744d18e0ab1" CHECKSUMTYPE="MD5" SIZE="225048">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00333_0.xml"/>
+      </file>
+      <file ID="alto_00333_1" MIMETYPE="text/xml" CHECKSUM="115f37e57b4b257699eef676f01a830e" CHECKSUMTYPE="MD5" SIZE="222199">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00333_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0334" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="664" firstpage="663">
+              <court pgmap="665" id="b665-12">District Court, D. Maine.</court>
+              <docketnumber pgmap="665" id="b665-9">Case No. 7,336.</docketnumber>
+              <citation pgmap="665" id="b665-11">[3 Ware, 273.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="665" id="b665-10">The JOHN C. BROOKS.</parties>
+              <decisiondate pgmap="665" id="AOR4">May, 1861.</decisiondate>
+              <attorneys pgmap="665" id="b665-16">Mr. Shepley, Dist. Atty., for the United States.</attorneys>
+              <attorneys pgmap="665" id="b665-17">Mr. Butler, for respondent</attorneys>
+              <footnote label="1">
+                <p pgmap="665" id="b665-19">1 [Reported by George F. Emery, Esq.J</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="665" id="b665-18">WARE, District Judge.</author>
+                <p pgmap="665(107) 666(954)" id="AGc">This is a libel in rem for a forfeiture under the 50th section of the collection act of 1799 [1 Stat. 665]. The schooner John C. Brooks, of about 200 tons burthen, from Cardenas, in the island of Cuba, arrived at Portland on the thir­tieth of March last, and, on that day, with­out a permit from the collector, landed 21,-­000 cigars at Simonton's Cove, in Cape Elizabeth. The smuggling is proved and is not denied on the part of the claimant, the master, having been indicted, pleaded nolo contendere to the facts alleged in this libel. And for the same act the United States claim a forfeiture of tlie vessel. To tliis, as working a forfeiture of the vessel, the claimant objects, and supports his objec­tions, both on principle, that is the true construction of this act, and on authority. The forfeiture is alleged to have occurred under the 50th section of the collection act of 1799. By this it is provided, that if any goods shall be unladen within the United States, from a vessel arriving from a foreign port, without a permit from the collectors of the port, that there shall be a personal penalty on the master, and if the value of the goods thus landed shall amount to $400 or over, there shall be in addition, a forfei­ture of the vessel in which they are brought. The act in this case is within the words of the statute. To extract this case from the express language of the statute, it must be shown that while the legislature said one thing they meant another. This, though not gratuitously to be supposed, may ■ be shown; but it is incumbent on him who al­leges an exception to prove it. To this the claimant says that the forfeiture in this sec­tion ought, in reason and justice, to be con­fined to unlading within a port, and that this unlading was before the vessel arrived in a port. This fact is asserted on one side and denied on the other, but whether it was within or without the port, and what are the particular boundaries of a port I shall not at present inquire. In support of this limitation, and that it may be fairly inferred from the whole act the claimant quotes the 27th section. This provides for a landing before the vessel arrives at her port of discharge, and while she is, if I may so say, havening on the coast for that pur­pose, and enacts a different penalty on the master and with no forfeiture of the vessel into which such goods are unladen. The consequences will be, if this section is to be literally enforced, that two penalties of dif­ferent sums are to be inflicted on the master, and in one case, for the same identical act, there will be a forfeiture of the vessel and in the other not. The legislature, it is ar­gued, must have made a distinction m their minds though it is not noticed in their lan­guage, between an unlading before and aft­er her arrival in her port of discharge. It must be admitted that there is not merely ingenuity in this argument. Should there be two penalties for the same act, or should there be a forfeiture of the vessel in one case and no forfeiture in another? Admit­ting the power of the legislature, this is not to be presumed unless indicated ■ by the clearest terms. It seems to me that the ob­jection presents a real difficulty, especially in a statute drawn with so much care, that after more than sixty year’s experience, it remains on the statute book as the principal collection law. Penalties and forfeitures may be limited by construction on good and sufficient reasons, but never by such means are to be multiplied. But where the legisla­ture has clearly expressed their will, courts have no other duty but to obey. If this question were to be now settled on principle, what is the true construction of the law, there would be good reason to hesitate before coming to a conclusion one way or the other. But the very case presented by this libel has, on two different occasions, been before the circuit court of the United States of dif­ferent districts. The first was in 1806 before Judge Washington, in New Jersey, in the case of United States v. The Hunter [Case No. 15,42S]. In this the learned judge decid­ed, that a vessel was not forfeited by unlad-­ing without a permit before she arrives at her port of destination, and that the words of the 50th section, though comprehensive enough to include such a case, ought to be confined by construction to an unlading after her arrival within a port, as that of unlading out of her port of destination was specially provided for in the 27th section. And to this conclusion he was brought after a careful review of the whole act. Six years after, a case involving the same question came be­fore Judge Story of this circuit, in The In­dustry [Case No. 7,028], and he decided after a like careful examination of the statute, that a landing in any port of the United States, after a vessel’s arriving in her port of destination, did draw after it a forfeiture of the vessel. Both these cases were fully argued, and the same considerations which have been pressed in the present case were urged there, and the eminent judges came to precisely opposite conclusions. These con­flicting decisions on the same question and on the same arguments are sufficient to show that it is not without intrinsic difficulties. The one admits the power of the legislature, but holds the statute, from its apparent un­certainty, subject to interpretation, the other is in obedience to the words of the law. While it is conceded that the argument has weight, it is not admitted that it can ex­empt the case from the direct language of the law. This is not only the latest decision, but one in this circuit, and this, in ordinary cases, makes the law of the circuit, until it is reversed by the highest court of appeal. In the present case there must be declared a forfeiture.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="665" ORDERLABEL="663" TYPE="page">
+        <fptr FILEID="tiff_00333_0"/>
+        <fptr FILEID="jp2_00333_0"/>
+        <fptr FILEID="alto_00333_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_665.3" BETYPE="IDREF" FILEID="alto_00333_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="666" ORDERLABEL="664" TYPE="page">
+        <fptr FILEID="tiff_00333_1"/>
+        <fptr FILEID="jp2_00333_1"/>
+        <fptr FILEID="alto_00333_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_666.6" BETYPE="IDREF" FILEID="alto_00333_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGc" BETYPE="IDREF" FILEID="casebody_0334"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.23" BETYPE="IDREF" FILEID="alto_00333_0"/>
+            <area BEGIN="BL_665.24" BETYPE="IDREF" FILEID="alto_00333_0"/>
+            <area BEGIN="BL_666.2" BETYPE="IDREF" FILEID="alto_00333_1"/>
+            <area BEGIN="BL_666.3" BETYPE="IDREF" FILEID="alto_00333_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOR4" BETYPE="IDREF" FILEID="casebody_0334"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.16" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-18" BETYPE="IDREF" FILEID="casebody_0334"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.22" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-19" BETYPE="IDREF" FILEID="casebody_0334"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.25" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-9" BETYPE="IDREF" FILEID="casebody_0334"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.12" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-11" BETYPE="IDREF" FILEID="casebody_0334"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.14" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-10" BETYPE="IDREF" FILEID="casebody_0334"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.13" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-12" BETYPE="IDREF" FILEID="casebody_0334"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.15" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-16" BETYPE="IDREF" FILEID="casebody_0334"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.20" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b665-17" BETYPE="IDREF" FILEID="casebody_0334"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_665.21" BETYPE="IDREF" FILEID="alto_00333_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,509 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0026" publicationstatus="published">
+          <court abbreviation="D. Ind." jurisdiction="United States">United States District Court for the District of Indiana</court>
+          <name abbreviation="In re Dunkerson">In re DUNKERSON et al.</name>
+          <docketnumber>Case No. 4,156</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 48</citation>
+          <citation category="parallel" type="bluebook">4 Biss. 227</citation>
+          <decisiondate>1868-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00025_1" MIMETYPE="image/tiff" CHECKSUM="3512036d4e004e141b2f45ec0d4936b0" CHECKSUMTYPE="MD5" SIZE="51766">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00025_1.tif"/>
+      </file>
+      <file ID="tiff_00026_0" MIMETYPE="image/tiff" CHECKSUM="5c78efebf1c424181c68fafedd112056" CHECKSUMTYPE="MD5" SIZE="101484">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00026_0.tif"/>
+      </file>
+      <file ID="tiff_00026_1" MIMETYPE="image/tiff" CHECKSUM="161d2c1d6d19e55b8858e21a62fb2fef" CHECKSUMTYPE="MD5" SIZE="111016">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00026_1.tif"/>
+      </file>
+      <file ID="tiff_00027_0" MIMETYPE="image/tiff" CHECKSUM="428309aeb04ace9f0e69b531b682cd57" CHECKSUMTYPE="MD5" SIZE="84222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00027_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00025_1" MIMETYPE="image/jp2" CHECKSUM="a5d2fb45eff79ecb465399c3c796f5f3" CHECKSUMTYPE="MD5" SIZE="2537952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00025_1.jp2"/>
+      </file>
+      <file ID="jp2_00026_0" MIMETYPE="image/jp2" CHECKSUM="7a08a80a197f69b9aebefa5fc46a4116" CHECKSUMTYPE="MD5" SIZE="3577151">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00026_0.jp2"/>
+      </file>
+      <file ID="jp2_00026_1" MIMETYPE="image/jp2" CHECKSUM="c7717a5736949734ff54976cad75ae9b" CHECKSUMTYPE="MD5" SIZE="3731466">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00026_1.jp2"/>
+      </file>
+      <file ID="jp2_00027_0" MIMETYPE="image/jp2" CHECKSUM="420c20ee87c6ed5e7bb714b0947aea0c" CHECKSUMTYPE="MD5" SIZE="3205807">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00027_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00025_1" MIMETYPE="text/xml" CHECKSUM="5a5664b28f68e986b1403e34afd29f8b" CHECKSUMTYPE="MD5" SIZE="106508">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00025_1.xml"/>
+      </file>
+      <file ID="alto_00026_0" MIMETYPE="text/xml" CHECKSUM="ba8591e3c0b0a31d99637e408740b8b0" CHECKSUMTYPE="MD5" SIZE="219501">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00026_0.xml"/>
+      </file>
+      <file ID="alto_00026_1" MIMETYPE="text/xml" CHECKSUM="3563afc5e823846509233092c590113a" CHECKSUMTYPE="MD5" SIZE="246024">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00026_1.xml"/>
+      </file>
+      <file ID="alto_00027_0" MIMETYPE="text/xml" CHECKSUM="8ec379d3e7f3135386ca60322b650989" CHECKSUMTYPE="MD5" SIZE="179782">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00027_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0026" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="51" firstpage="48">
+              <court id="b50-29" pgmap="50">District Court, D. Indiana.</court>
+              <docketnumber id="b50-26" pgmap="50">Case No. 4,156.</docketnumber>
+              <citation id="b50-28" pgmap="50">[4 Biss. 227.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b50-27" pgmap="50">In re DUNKERSON et al.</parties>
+              <decisiondate id="Adq" pgmap="50">June, 1868.</decisiondate>
+              <attorneys id="b51-5" pgmap="51">Asa Iglehart, for the bank.</attorneys>
+              <attorneys id="b51-6" pgmap="51">A. L. Robinson, for assignee.</attorneys>
+              <footnote label="1">
+                <p id="b50-37" pgmap="50">1 [Reported by .Tosiah H. Bissell, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b51-7" pgmap="51">MCDONALD, District Judge.</author>
+                <p id="AGW" pgmap="51">This case comes before me for decision under the sixth section of the bankrupt law [of 1807 (14 Stat. 520)]. The contending parties agree on the facts; and consequently the only thing to be decided is the law arising on those facts.</p>
+                <p id="b51-8" pgmap="51">Dunkerson &amp; Co. have been adjudged bank­rupts by a decree of this court; and Philip C. Decker has been appointed their assignee. The contesting parties are this assignee and the Evansville National Bank, a corporation organized under the national bank act of June 3, 1804 (13 Stat. 99).</p>
+                <blockquote id="b51-9" pgmap="51">“The facts agreed upon are, that in Janu­ary, 1805, the said bank was duly organized, by the making of articles of association, signed by R. K. Dunkerson and others, as corporators; that said articles contain, among others, the following provisions, to wit; ‘And they (the board of directors) shall also have'the-power to make all by-laws that it may be proper and convenient for them to make, under said act, for the general regu­lation of the business of the association and the management and administration of its affairs, which by-laws may prohibit, if the directors shall so determine, the transfer of •stock owned by any stockholder, who may be liable to the association, either as princi­pal debtor or otherwise, without the consent of the board;’ that the board of directors adopted the following by-law: ‘No transfer of the stock of this bank shall be made, with­out the consent of the board of directors, by any stockholder who shall be liable to the bank, either as principal debtor or otherwise, and certificates of stock shall contain upon them notice of this provision;’ that prior to the bankruptcy of Dunkerson, he was the owner of one hundred and thirty shares of the capital stock of the bank, for which he held the certificates of the bank, in the usual form, with the following notice printed on their face: ‘And provided that no transfer of the stock herein certified shall be made without the consent of the board of direc­tors, while the owner shall be liable to the bank, either as principal debtor or otherwise;’ that at the same time, and before the filing said petition in bankruptcy, the bank was, ¡and still is, the holder and owner of a bill of exchange, which is wholly unpaid, for twenty thousand dollars, discounted at its date, upon which the firm of R. K. Dunker­son &amp; Co., of which R. K. Dunkerson is a member, is the last indorser, and which be­fore the filing of the petition had been dis­honored, and duly protested, and notice given to Dunkerson; that Decker was duly ap­pointed, and the register had executed and delivered to him the proper instrument of assignment under the bankruptcy act; that Dunkerson afterwards indorsed and delivered to Decker the certificates of stock, who de­manded of the proper officers of the bank permission to have the stock assigned in the regular way on the corporation books, who refused, and claimed a lien upon the stock for the payment of the bill, and demanded to-­have the stock sold and the proceeds applied upon the bill, and the residue unpaid proven as a claim against the bankrupt’s estate, but that the assignee refused to admit the lien claimed by the bank and claimed the stock as free from incumbrance, and that the board of directors never have consented to the transfer of the stock.”</blockquote>
+                <p id="b51-12" pgmap="51">On these facts, the question for decision is, Has the bank such a lien on the stock in question for the payment of the said bill of exchange, as entitles it to withhold the stock from the general fund of .the bankrupt’s es­tate? And this involves two subordinate questions, namely; 1, had the board of di­rectors of the bank due authority to adopt the by-law above cited? and, 2, if so, does this by-law, on any fair construction, create the lien insisted on by the bank? We will consider these questions.</p>
+                <p id="b51-13" pgmap="51">I. Had the board of directors of the bank due authority to provide by a by-law that “no transfer of the stock of this bank shall be made without the consent of the board of directors, by any stockholder who may be liable to the bank either as principal debtor or otherwise”?</p>
+                <p id="b51-14" pgmap="51">The eighth section of the act under which this bank was organized provides that “its board of directors shall have power to de­fine and regulate by by-laws, not inconsist­ent with the provisions of this act, the man­ner in which its stock shall be transferred.” 13 Stat. 101.</p>
+                <p id="b51-15" pgmap="51(148) 52(223)">This section gives express power to malee the by-law in question; unless it is “incon­sistent with other provisions” of the act. Counsel for the assignee Docker have not pointed out any such inconsistency. On a careful examination of the act, I am well satisfied that no such inconsistency exist*. Nothing can be more consistent with ¡.lu act, and, indeed,, with financial prudence and honesty, than the by-law under consid­eration. I should entertain no doubt of its validity, even if there were no authority in support of my view. But I am sustained in this opinion by several adjudications. The case of Child v. Hudson’s Bay Co., 2 P. Wins. 207, is a decision in point. By that case, it seems that the charter of the Hud­son’s Bay Company, in general terms, em­powered the corporators "to make by-laws for the better government of the company, . and for the management and direction of . their trade to Hudson’s bay. Accordingly they made a by-law, that if any of their members should be indebted to the company, his stock in the company should be in the first place liable to the debts which such member should owe the company.” After-­wards a stockholder in the corporation be­came indebted to it, and subsequently be­came a bankrupt Thereupon his assignee filed a bill against the company praying a transfer of the stock to him for the benefit of creditors. The company resisted this ap­plication on the ground that their by-law gave them a lien on the stock. The assignee objected that the corporation had no power to make the by-law. The case was almost identical with the one under consideration. And Lord Chancellor Macclesfield, in decid­ing it, said: “This is a good by-law; fot the legal interest of all the stock is in the company, who are trustees for the several members, and may order that the dividends to be made shall be under particular restric­tions or terms. And for the same reason that this by-law is objected to, the common by-laws of companies to deduct the calla out of the stocks of the members refusing to .pay their calls, may be said to be void.”</p>
+                <p id="b52-3" pgmap="52">So, in the case of Waln’s Assignees v. Bank of North America, 8 Serg. &amp; R. 73, it was held that “a stockholder who borrows money •of a bank with a full knowledge of a usage not to permit a transfer of stock while the holder is indebted to the bank, is bound by such usage; and neither he nor his assignees under a voluntary general assignment, can maintain an action against the bank for re­fusing to permit his stock to be transferred.” Here without any by-law, a mere usage was held sufficient to create a lien on the stock of a debtor to the bank.</p>
+                <p id="b52-4" pgmap="52">The cases of Union Bank of Georgetown v. Laird, 2 Wheat. [15 U. S.] 390, and Brent v. Bank of Washington, 10 Pet. [35 U. S.] 596, favor the same view.</p>
+                <p id="AjR" pgmap="52">But it is urged by counsel for Decker, that though the by-law in question may be valid as against Dunkerson, the original stockholder, yet it is not valid as against his assignee, be­cause he represents, as well the interests of his creditors as those of the bankrupt The general rule -is that, in bankrupt cases, the assignee possesses exactly the right — no more and no less — which the bankrupt had before the adjudication of bankruptcy. To this rule I know of but one exception, namely, that in cases where the bankrupt has fraud­ulently transferred his property with intent to defeat or delay his creditors, the assignee is so far the representative of the creditors that he may recover back such property, though the party making the fraudulent transfer cannot do so. The present case does not fall under this exception, but is within the general rule. If before the ad­judication of bankruptcy Dunkerson could not have complained of this refusal to traus-­fer this stock, the assignee cannot now do so.</p>
+                <p id="b52-10" pgmap="52">II. Does the by-law in question, on its face, purport to create a lien on the stock of every debtor of the bank for the payment of his debt?</p>
+                <p id="b52-11" pgmap="52">It is to be observed that the by-law does not in express terms create a lien. Can such a lien be deduced from it by fair construc­tion? The by-law merely -says that “no transfer of the stock of this bank shall be made, without the consent of the board of directors, by any stockholder who shall be liable to the bank, either as principal debtor or otherwise.” This by-law with the provi­sion on the same subject contained in the articles of association already referred to, must be considered as a contract between all the stockholders and the bank regarded as a corporation. And the rules of construing contracts are therefore applicable to this by­law.</p>
+                <p id="b52-12" pgmap="52">Now, it is a fundamental rule, that con­tracts shall, if possible, be so construed as to make them valid to some purpose, and not void — “ut res magis valeat, quam pereat” The by-law under consideration can have no validity whatever, and must be utterly vain and nugatory, unless it was intended to cre­ate a lieu on the stock of the debtor to the bank. What else could have been intended by it? Does not the very fact that it relates to debtors to the bank and to nobody else, raise a fair presumption that it should be beneficial to the bank in relation to such indebtedness? And how could it operate beneficially, except by way of lien to secure the debt?</p>
+                <p id="b52-13" pgmap="52">In the case of Leggett v. Bank of Sing Sing, 24 N. Y. 283, it was held that a pro­vision in the articles of a banking associa­tion that the shares of its stock shall not be transferable until the shareholder shall discharge all debts due by him to the associa­tion, creates a lien as against an assignee of the stock, who takes it with knowledge there­of while the shareholder is under a contin­gent liability as indorser. As this decision was made under the free banking law of New York, a law very similar to the act of-­congress establishing national banks, and ex­actly like it so far as concerns the question in the present case, I deem it a strong au­thority in support of the view which I have above expressed. And, upon the whole,I enter­tain no doubt that the by-law in question, considered in connection with the provision in the articles of association already noticed, creates a lien on Dunkerson’s stock for the debt due by him to the bank.</p>
+                <p id="b52-14" pgmap="52(73) 53(21)">In pursuance of the-agreement of the par­ties, I therefore order and decree that the said bank and assignee sell the said stock; and, in due form, transfer it to the purchaser or purchasers thereof; that the proceeds of such sale be applied first to the payment of the bill of exchange due to the bank by Dunkerson; and that the bank be allowed to make proof of the residue after such pay­ment, with a view to a dividend for such •residue out of the general fund of the estate ■of the bankrupt</p>
+                <p id="b53-3" pgmap="53">All which is ordered to be certified.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="50" ORDERLABEL="48" TYPE="page">
+        <fptr FILEID="tiff_00025_1"/>
+        <fptr FILEID="jp2_00025_1"/>
+        <fptr FILEID="alto_00025_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_50.6" BETYPE="IDREF" FILEID="alto_00025_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="51" ORDERLABEL="49" TYPE="page">
+        <fptr FILEID="tiff_00026_0"/>
+        <fptr FILEID="jp2_00026_0"/>
+        <fptr FILEID="alto_00026_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_51.3" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="52" ORDERLABEL="50" TYPE="page">
+        <fptr FILEID="tiff_00026_1"/>
+        <fptr FILEID="jp2_00026_1"/>
+        <fptr FILEID="alto_00026_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_52.4" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="53" ORDERLABEL="51" TYPE="page">
+        <fptr FILEID="tiff_00027_0"/>
+        <fptr FILEID="jp2_00027_0"/>
+        <fptr FILEID="alto_00027_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_53.5" BETYPE="IDREF" FILEID="alto_00027_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-9" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.13" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            <area BEGIN="BL_51.14" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-8" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.12" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-12" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.11" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-15" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.19" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            <area BEGIN="BL_52.1" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-10" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.9" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-11" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.10" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-14" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.18" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-7" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.9" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-6" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.8" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-5" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.7" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-13" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.17" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-29" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.38" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-28" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.37" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-27" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.36" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-26" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.35" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-14" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.13" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            <area BEGIN="BL_53.3" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-13" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.12" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-3" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.5" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-4" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.6" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-12" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.16" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-3" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.7" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGW" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.10" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            <area BEGIN="BL_51.11" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adq" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.39" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjR" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.7" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            <area BEGIN="BL_52.8" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b50-37" BETYPE="IDREF" FILEID="casebody_0026"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_50.45" BETYPE="IDREF" FILEID="alto_00025_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

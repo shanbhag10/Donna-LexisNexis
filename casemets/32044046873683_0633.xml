@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0633" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="In re Ferrens">In re FERRENS</name>
+          <docketnumber>Case No. 4,746</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1158</citation>
+          <citation category="parallel" type="bluebook">3 Ben. 442</citation>
+          <decisiondate>1869-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:36Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00580_1" MIMETYPE="image/tiff" CHECKSUM="2104b7f79ac9b4803bd7945eac09e97c" CHECKSUMTYPE="MD5" SIZE="63638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00580_1.tif"/>
+      </file>
+      <file ID="tiff_00581_0" MIMETYPE="image/tiff" CHECKSUM="53483123effcb3978cd14e1c6a4d16fa" CHECKSUMTYPE="MD5" SIZE="115732">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00581_0.tif"/>
+      </file>
+      <file ID="tiff_00581_1" MIMETYPE="image/tiff" CHECKSUM="f2ce8cbffa30a001d88e8cee19991115" CHECKSUMTYPE="MD5" SIZE="115290">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00581_1.tif"/>
+      </file>
+      <file ID="tiff_00582_0" MIMETYPE="image/tiff" CHECKSUM="165eba31e67232ea26f02508904ace52" CHECKSUMTYPE="MD5" SIZE="42922">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00582_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00580_1" MIMETYPE="image/jp2" CHECKSUM="f048ffd06b750b053823b4907d95f3ef" CHECKSUMTYPE="MD5" SIZE="2547732">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00580_1.jp2"/>
+      </file>
+      <file ID="jp2_00581_0" MIMETYPE="image/jp2" CHECKSUM="8eea68f0a0f57b34b588e31106a698e7" CHECKSUMTYPE="MD5" SIZE="3813673">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00581_0.jp2"/>
+      </file>
+      <file ID="jp2_00581_1" MIMETYPE="image/jp2" CHECKSUM="61bf77c120331159f7b26c627bfea546" CHECKSUMTYPE="MD5" SIZE="3804133">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00581_1.jp2"/>
+      </file>
+      <file ID="jp2_00582_0" MIMETYPE="image/jp2" CHECKSUM="a7f3090ff5772dacfbfee99d622a3162" CHECKSUMTYPE="MD5" SIZE="2134563">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00582_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00580_1" MIMETYPE="text/xml" CHECKSUM="6c02d50c37a15d465d867f49ec24976e" CHECKSUMTYPE="MD5" SIZE="132184">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00580_1.xml"/>
+      </file>
+      <file ID="alto_00581_0" MIMETYPE="text/xml" CHECKSUM="6aaffa0531c5963aa57ce9682b943fc1" CHECKSUMTYPE="MD5" SIZE="252708">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00581_0.xml"/>
+      </file>
+      <file ID="alto_00581_1" MIMETYPE="text/xml" CHECKSUM="c29a48dfea9483e736286ebda1528d80" CHECKSUMTYPE="MD5" SIZE="251559">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00581_1.xml"/>
+      </file>
+      <file ID="alto_00582_0" MIMETYPE="text/xml" CHECKSUM="d71f54d210749df2d3f497e0f15bba07" CHECKSUMTYPE="MD5" SIZE="80927">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00582_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0633" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1161" firstpage="1158">
+              <court id="b1160-7" pgmap="1160">District Court, S. D. New York.</court>
+              <docketnumber id="b1160-4" pgmap="1160">Case No. 4,746.</docketnumber>
+              <citation id="b1160-6" pgmap="1160">[3 Ben. 442.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1160-5" pgmap="1160">In re FERRENS.</parties>
+              <decisiondate id="AW8b" pgmap="1160">Nov., 1869.</decisiondate>
+              <attorneys id="b1160-22" pgmap="1160">John C. Darrow, for petitioner.</attorneys>
+              <attorneys id="b1160-23" pgmap="1160">Lt. Asa B. Gardner, for the United States.</attorneys>
+              <footnote label="1">
+                <p id="b1160-13" pgmap="1160">1 [Reported by Robert D. Benedict, Esq., and hero reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1160-24" pgmap="1160">BLATOHFORD, District Judge.</author>
+                <p id="ALqg" pgmap="1160(264) 1161(523)">This is a petition for a writ of habeas corpus, signed and verified by Mary Ferrens, the wife of Thomas Ferrens. It sets forth that the said Thomas Ferrens is imprisoned or restrained of his liberty by General T. H. Neill, at Fort Columbus, in the harbor of New York, and avers that the cause or pretence of such con­finement or restraint is, that it is alleged that the said Thomas Ferrens enlisted as a soldier in the army of the United States for the period of five years; that such enlistment was procured while the said Thomas Ferrens was intoxicated, and was so'much under the influence of liquor, that he did not know what he was doing; and that all papers signed by him at the time of such enlistment, and all acts done by him with reference there­to, were done and signed while he was so intoxicated and incapable of knowing his own mind, or what he was doing. The peti­tion also avers, that the said Thomas Ferrens is a married man, having a wife and child dependent upon him for support. The writ was issued, and, in obedience to it, General Neill produces the body of the said Thomas Ferrens, and makes return to the writ, that the said Thomas Ferrens is a private soldier in the army of the United States, and held to service therein by virtue of a contract of enlistment, entered into by him with the United States, a copy of which is annexed to the return, and the original of which is sub­mitted to the inspection of the court The return further states, that the said recruit of the general service, United States army, was minutely and critically inspected, after being received at the depot of Fort Colum­bus, New York harbor, with his said enlist­ment paper, in the manner and mode pro­vided in páragraph 976 of the general regu­lations for the army of the United States, and accepted into the service as a duly en­listed able-bodied soldier, and that said Thomas Ferrens has performed the duties of a soldier in said army, and received such clothing and rations as are established by law. The petitioner, Mary Ferrens, trav­erses the return, and states, that the oath of enlistment, as appears by the pretended con­tract of enlistment annexed to and forming part of the return, was administered to the said Thomas Ferrens by Brevet Brigadier-­General J. B. Kiddoo, U. S. A.; that such enlistment oath could not be administered by the said Kiddoo, as a commissioned offi­cer in the army of the United States, except in cases, as provided by the laws of the United States, where the services of a civil magistrate, authorized to take oaths, could not be obtained, and that such services of such civil magistrate were not obtained, nor was any effort made by the said recruiting officer, Kiddoo, or any other officer, to ob­tain the same, although the services of such civil magistrate could have been easily ob tained by such officer; and that the petition­er has offered, and is now ready and willing, to repay and return to the respondent, or other officer authorized to receive the same, the pay, uniform and clothing furnished to the said Ferrens by the- United States. The oath of enlistment annexed to the return is as follows: “State' of New York, town of New York. I, Thomas Ferrens, born in Wex-­ford, in the state of Ireland, aged twenty-­six years, and by occupation a soldier, do hereby acknowledge to have vountarily en­listed, this fifteenth day of September, 1869, as a soldier in the army of the United States of America, for the period of five years, un­less sooner discharged by proper authority; do also agree to accept such bounty, pay, rations and clothing as are, or may be, es­tablished by law; and I, Thomas Ferrens, do solemnly swear, that I will bear true faith and allegiance to the United States of America, and that I will serve them honestly and faithfully against all their enemies or opposers whomsoever, and that I will observe and obey the orders of the president of the United States, and the orders of the officers appointed over me, according to the rules and articles of war. Thomas Ferrens. Sworn and subscribed to at New York City, this 15th day of September, 1869, before J. B. Kiddoo. Brevet Brig.-Gen., U. S. A.” Testimony has been taken as to the matters alleged in the petition, the return and the traverse, and the question is now to be determined, wheth­er the recruit is entitled to his discharge.</p>
+                <p id="b1161-4" pgmap="1161">It is claimed on the part of the United States, that the writ must be dismissed, be­cause it is not prosecuted by the recruit him­self; that no one can prosecute it but him­self, unless it be shown that he is debarred the opportunity of preferring a petition him­self; and that such fact is not shown in this case. It has never been understood that, at common law, authority from a person un­lawfully imprisoned or deprived of his lib­erty was necessary to warrant the issuing of a habeas corpus, to inquire into the cause of his detention. In the case of People v. Mercein, 3 Hill, 399, 407, the supreme court of New York intimate that such authority from the person detained is not ordinarily neces­sary. In Case of Ashby, 14 How. St Tr. 814, the house of lords, in England, in 1704; resolved “that every Englishman, who is im­prisoned by any authority whatsoever, has an undoubted right, by his agents or friends, to apply for and obtain a writ of habeas corpus, in order to procure his liberty by due course of law.” This resolution was assented to by the house of commons. Id. 826. In the present case, the petitioner states, in her petition, that she is the wife of the recruit, and is dependent upon him for support. This is, I think, sufficient to authorize her to pros­ecute the writ.</p>
+                <p id="b1161-5" pgmap="1161(311) 1162(326)">The first ground urged for the discharge of the recruit is, that General Kiddoo had no authority to administer the oath of en­listment to him, it being shown that the services of a civil magistrate could have been obtained, and that no effort wras made to obtain the services of such a magistrate. The oath taken by the recruit, in this case, so far as it is a promissory oath, is, in sub­stance, nothing but an oath of allegiance. It is not, in terms, the oath prescribed by the 10th article of the articles prescribed for the government of the armies of the United States, by the act of April 10, 1806 (2 Stat. 361), and by paragraph 935 of the army regulations, but it is, with an imma­terial variation, the oath prescribed by the 18th section of the act of January 11, 1812 (2 Stat. 673). This last section is not re­pealed, and it was manifestly the intention to administer to the recruit the form of oath prescribed in it; and that was, in substance, done. The two oaths are, to all intents, the same. Each is an oath of allegiance, and each, when taken by a recruit, on his enlist­ment, is properly called an' oath of enlist­ment. So much of the form of the oath taken by the recruit, in the present case, as is not an oath of allegiance, is an acknowl­edgment that he has enlisted. The act of April 10, 1806 (article 10), authorized and required the oath therein prescribed to be taken before “the next justice of the peace, or chief magistrate of any city or town cor­porate, not being an officer of the army, or, where recourse cannot be had to the civil magistrate, before the judge advocate.” The act of January 11, 1S12, contained no pro­vision as to the officer before whom the oath prescribed in the 18th section thereof should be taken. Act June 12, 1S5S, § 3 (11 Stat. 330), provides, “that it shall be lawful for any commissioned officer of the army to administer the prescribed oath of enlistment to recruits, provided the services of a civil magistrate, authorized to administer the same, cannot be obtained.” Act Aug. 3, 1861, § 11 (12 Stat. 289), provides, that, in all cases of enlistment and re-enlistment in the military service of the United States, the prescribed oath of allegiance may be admin­istered by any commissioned officer of the army. The counsel for the petitioner'sug­gests that it is doubtful whether the act of 1838 means, by the words, “the prescribed oath of enlistment,” the same thing that the act of 1S01 means, by the words, “the prescribed oath of allegiance,” and whether the proviso found in the 3d section of the former act is repealed by the provisions of the 11th section of the latter act. There can be no doubt that the two acts refer to one and the same oath. Only one oath is pre­scribed by law to be taken by a person en­listed or enlisting in the military service of the United States, and that is an oath of allegiance. It is, therefore, properly called an oath of enlistment, as well as an oath of allegiance. Nor can there be any doubt that the intention and effect of the act of 1861 are to give to a commissioned officer of the army the power to administer the prescribed oath of allegiance, in all cases of enlistment and re-enlistment in the mili­tary sendee of the United States, without reference to the question whether the serv­ices of a civil magistrate, authorized to ad­minister the same, can or cannot be obtained. The oath, in this case, was, therefore, ad­ministered by a proper officer.</p>
+                <p id="b1162-3" pgmap="1162">The second ground urged for the dis­charge of the recruit.- is, that he had a wife and a child at the time he was enlisted, and has now a wife and a child and that his enlistment was, therefore, unlawful. Para­graph 930 of the regulations for the recruit­ing service of the army of the United States, prescribed by the secretary of war, provides, that “no man having a wife or a child shall be enlisted, in time of peace, without special authority obtained from the adjutant-gen­eral’s office, through the superintendent;” but that “this rule is not to apply to soldiers who re-enlist.” It is claimed, on the part of the petitioner, that this rule or regulation has, by virtue of the 37th section of the act of July 28, 1866 (14 Stat. 338), the force of a statu­tory enactment That section provides as follows: “That the secretary' of war be, and he is hereby, directed to have prepared, and to report to congress, at its next session, a code of regulations for the government of the army, and of the militia in actual service, which shall embrace all necessary orders and forms of a general character, for the performance of all duties incumbent on officers and men in the military service, in­cluding rules for the government of courts-­martial. The existing regulations to remain in force until congress shall have acted on said report” The regulation in question was in force on the 28th of July, 1860. The 38th section of the same act repeals all laws and parts of laws inconsistent with its pro­visions. The 1st section of the act of De--­cember 10, 1814 (3 Stat. 140), authorizes the enlistment into the army of the United States, of “any free, effective, able-bodied man, between the ages of eighteen and fifty years.” That enactment authorizes, by that language, the enlistment of a man having a wife, and of a man having a child, and it has never been directly repealed, that I have been able to find. The question is, whether paragraph 930 of the recruiting regulations is to be considered as a statutory enact­ment, by force of the 37th section of the act of I860, and whether, if so, the provision of the 1st section of the act of 1814 is to be regarded as inconsistent with the said para­graph, and, therefore, as repealed by the 38th section of the act of 1860. A repeal by implication is not favored. ’ The code of regu­lations, which, by the 37th section of the act of 1860, the secretary of war is directed to report to congress, at its then next ses­sion, is a code of regulations “for the gov­ernment of the army, and of the militia in actual service,” and the then existing regu­lations, which it is provided by that section shall remain in force until congress shall have acted on said report, are regulations “for the government of the army, and of the militia in actual service.” The 37th section also directs that the new regulations shall “embrace all necessary orders and forms of a general character, for the performance of all duties incumbent on officers and men in the military service.” Regulations for the govern­ment of the army, and orders and forms re­specting duties incumbenton men in the mili­tary service, cannot, without doing violence to language, be construed to apply to the ques­tion as to who may lawfully be enlisted in the army. They can only apply to persons who are lawfully in the military service, leaving entirely outside the question as to whether a particular person is in such service. The question as to whether a person is or is not lawfully enlisted in such service, cannot, in any proper sense, be determinable by or un­der a regulation for the government of the army — -that is, for the government of persons enlisted in such service. When it is deter­mined, otherwise, that the person is lawfully enlisted in such service, then the regula­tions refered to in the 37th section of the act of 1806 become regulations affecting him, but not till then. Paragraph 930 is, there­fore, not one of the regulations referred to in such 37th section, as regulations which are to remain in force until congress shall</p>
+                <p id="b1162-7" pgmap="1162(10) 1163(33)">It is a mere regulation made by the war de­partment, directory to its subordinates, ■ and not a statutory enactment. An enlistment not in compliance with it is not made ir. violation of any statute, but is expressly au­thorized by statute.</p>
+                <p id="b1163-3" pgmap="1163">If this court would assume, in any case, to discharge a recruit on habeas corpus, be­cause he had a wife when he was enlisted, in time of peace, and no special authority to enlist him was obtained from the adjutant-­general’s office, through the superintendent, this is not a proper case for a discharge. The recruit declared, by a declaration signed by him when he enlisted, that he had neither wife nor child, and he had, when this peti­tion for a habeas corpus was brought, been in the service for twenty days. He enlisted voluntarily, and it appears that he has, since his enlistment, voluntarily performed the duties of a soldier, and received, without protest or remonstrance, the rations and •clothing allowed by law to a recruit. Under these circumstances, he must be held to have ratified his contract of enlistment, and the •United States, by the proceedings in this case, must be regarded as having adopted such enlistment, after ascertaining that he had a wife when he enlisted.</p>
+                <p id="b1163-4" pgmap="1163">On the question of intoxication, the evi­dence satisfactorily shows that the recruit was carefully examined by the proper of­ficers at the time of his enlistment, and that he was not intoxicated at the time, or in any manner unconscious of what he was doing. Every thing in regard to his enlistment ap­pears to have been conducted with proper care, caution and deliberation, and nothing is shown to warrant his discharge.</p>
+                <p id="b1163-5" pgmap="1163">The writ is, therefore, discharged, and the recruit is remanded to service under his proper officer.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1160" ORDERLABEL="1158" TYPE="page">
+        <fptr FILEID="tiff_00580_1"/>
+        <fptr FILEID="jp2_00580_1"/>
+        <fptr FILEID="alto_00580_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1160.4" BETYPE="IDREF" FILEID="alto_00580_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1161" ORDERLABEL="1159" TYPE="page">
+        <fptr FILEID="tiff_00581_0"/>
+        <fptr FILEID="jp2_00581_0"/>
+        <fptr FILEID="alto_00581_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1161.3" BETYPE="IDREF" FILEID="alto_00581_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1162" ORDERLABEL="1160" TYPE="page">
+        <fptr FILEID="tiff_00581_1"/>
+        <fptr FILEID="jp2_00581_1"/>
+        <fptr FILEID="alto_00581_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1162.4" BETYPE="IDREF" FILEID="alto_00581_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1163" ORDERLABEL="1161" TYPE="page">
+        <fptr FILEID="tiff_00582_0"/>
+        <fptr FILEID="jp2_00582_0"/>
+        <fptr FILEID="alto_00582_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1163.4" BETYPE="IDREF" FILEID="alto_00582_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALqg" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1160.28" BETYPE="IDREF" FILEID="alto_00580_1"/>
+            <area BEGIN="BL_1160.29" BETYPE="IDREF" FILEID="alto_00580_1"/>
+            <area BEGIN="BL_1161.1" BETYPE="IDREF" FILEID="alto_00581_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1162-3" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1162.5" BETYPE="IDREF" FILEID="alto_00581_1"/>
+            <area BEGIN="BL_1162.6" BETYPE="IDREF" FILEID="alto_00581_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1160-13" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1160.18" BETYPE="IDREF" FILEID="alto_00580_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1163-5" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1163.8" BETYPE="IDREF" FILEID="alto_00582_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1160-22" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1160.25" BETYPE="IDREF" FILEID="alto_00580_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1160-23" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1160.26" BETYPE="IDREF" FILEID="alto_00580_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1160-24" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1160.27" BETYPE="IDREF" FILEID="alto_00580_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1160-7" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1160.10" BETYPE="IDREF" FILEID="alto_00580_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1160-6" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1160.9" BETYPE="IDREF" FILEID="alto_00580_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1160-5" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1160.8" BETYPE="IDREF" FILEID="alto_00580_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1160-4" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1160.7" BETYPE="IDREF" FILEID="alto_00580_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AW8b" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1160.11" BETYPE="IDREF" FILEID="alto_00580_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1162-7" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1162.7" BETYPE="IDREF" FILEID="alto_00581_1"/>
+            <area BEGIN="BL_1163.2" BETYPE="IDREF" FILEID="alto_00582_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1163-4" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1163.7" BETYPE="IDREF" FILEID="alto_00582_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1163-3" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1163.6" BETYPE="IDREF" FILEID="alto_00582_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1161-4" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1161.5" BETYPE="IDREF" FILEID="alto_00581_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1161-5" BETYPE="IDREF" FILEID="casebody_0633"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1161.6" BETYPE="IDREF" FILEID="alto_00581_0"/>
+            <area BEGIN="BL_1162.1" BETYPE="IDREF" FILEID="alto_00581_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

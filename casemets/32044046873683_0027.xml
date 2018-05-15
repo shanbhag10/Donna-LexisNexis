@@ -1,0 +1,632 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0027" publicationstatus="published">
+          <court abbreviation="D. Ind." jurisdiction="United States">United States District Court for the District of Indiana</court>
+          <name abbreviation="In re Dunkerson">In re DUNKERSON et al.</name>
+          <docketnumber>Case No. 4,157</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 51</citation>
+          <citation category="parallel" type="bluebook">4 Biss. 253; 12 N. B. R. 413</citation>
+          <decisiondate>1868-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00027_0" MIMETYPE="image/tiff" CHECKSUM="428309aeb04ace9f0e69b531b682cd57" CHECKSUMTYPE="MD5" SIZE="84222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00027_0.tif"/>
+      </file>
+      <file ID="tiff_00027_1" MIMETYPE="image/tiff" CHECKSUM="914f53b3917a9eab4dcf8a2a9fd3c991" CHECKSUMTYPE="MD5" SIZE="111508">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00027_1.tif"/>
+      </file>
+      <file ID="tiff_00028_0" MIMETYPE="image/tiff" CHECKSUM="49aa41cc212d3c40598b8d9be85fcda5" CHECKSUMTYPE="MD5" SIZE="109056">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00028_0.tif"/>
+      </file>
+      <file ID="tiff_00028_1" MIMETYPE="image/tiff" CHECKSUM="1a481e7c0f29ee5e57b6a911cb6b9344" CHECKSUMTYPE="MD5" SIZE="88752">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00028_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00027_0" MIMETYPE="image/jp2" CHECKSUM="420c20ee87c6ed5e7bb714b0947aea0c" CHECKSUMTYPE="MD5" SIZE="3205807">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00027_0.jp2"/>
+      </file>
+      <file ID="jp2_00027_1" MIMETYPE="image/jp2" CHECKSUM="b1d0d70a204974e24241e0bc3dc2ce3e" CHECKSUMTYPE="MD5" SIZE="3751849">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00027_1.jp2"/>
+      </file>
+      <file ID="jp2_00028_0" MIMETYPE="image/jp2" CHECKSUM="c87b8d988a972f75eacb14b0ce7d6762" CHECKSUMTYPE="MD5" SIZE="3792130">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00028_0.jp2"/>
+      </file>
+      <file ID="jp2_00028_1" MIMETYPE="image/jp2" CHECKSUM="b87882c6ee7d9e4586a1f023b3fa8b1e" CHECKSUMTYPE="MD5" SIZE="3271343">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00028_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00027_0" MIMETYPE="text/xml" CHECKSUM="8ec379d3e7f3135386ca60322b650989" CHECKSUMTYPE="MD5" SIZE="179782">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00027_0.xml"/>
+      </file>
+      <file ID="alto_00027_1" MIMETYPE="text/xml" CHECKSUM="a3aa76b9e766ba7cd5c9911a7e24c6a6" CHECKSUMTYPE="MD5" SIZE="234941">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00027_1.xml"/>
+      </file>
+      <file ID="alto_00028_0" MIMETYPE="text/xml" CHECKSUM="64052f1b3e470527965c09d0184facc4" CHECKSUMTYPE="MD5" SIZE="242305">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00028_0.xml"/>
+      </file>
+      <file ID="alto_00028_1" MIMETYPE="text/xml" CHECKSUM="c26065eb5593bb15a6a93e071c833c9e" CHECKSUMTYPE="MD5" SIZE="190559">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00028_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0027" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="54" firstpage="51">
+              <court id="AyQ" pgmap="53">District Court, D. Indiana.</court>
+              <docketnumber id="b53-8" pgmap="53">Case No. 4,157.</docketnumber>
+              <citation id="b53-10" pgmap="53">[4 Biss. 253; 12 N. B. R. 413.] <footnotemark>1</footnotemark>
+              </citation>
+              <seealso id="b53-15" pgmap="53">[For prior proceedings, see Case No. 4,156.]</seealso>
+              <parties id="b53-9" pgmap="53">In re DUNKERSON et al.</parties>
+              <decisiondate id="A04" pgmap="53">Aug., 1868.</decisiondate>
+              <attorneys id="b53-16" pgmap="53">Asa Iglehart, for the bank.</attorneys>
+              <attorneys id="b53-17" pgmap="53">A. L. Robinson, for Lowrey &amp; Co.</attorneys>
+              <footnote label="1">
+                <p id="b53-21" pgmap="53">1 [Reported by Josiah H. Bisseli, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b53-18" pgmap="53">MCDONALD, District Judge.</author>
+                <p id="AlQ" pgmap="53">This case is before me on a certificate of a register in bankruptcy under the 6th section of the ! bankrupt act.</p>
+                <p id="b53-19" pgmap="53">To develop the matter to be decided, per­haps I cannot do better than to copy the substantial part of the register’s certificate. He certifies that:—</p>
+                <blockquote id="b53-20" pgmap="53">“The Evansville National Bank presented to him in due form their deposition, accom­panied by a statement in due form, showing that said bankrupts were indebted to said bank, as indorsers of sundry bills of ex­change, in the sum of ninety-eight thou­sand six hundred and sixty-six dollars and sixty-six cents. Copies of the bills of ex­change, upon which the liabilities of the bankrupts were founded, accompany the statement and deposition, and show that Watts, Crane &amp; Co., and Watts, Given &amp; Co., and Given, Watts &amp; Co.—all of which ■firms are wholly disconnected with the bank­rupts — are severally and respectively draw­ers, indorsers, and acceptors of these bills of exchange, upon all of which the bank­rupts are the last indorsers. The vice-presi­dent of the bank, who makes the deposition, appends this statement: ‘That said bank holds a claim against George R. Preston for four thousand five hundred dollars, due Jan­uary 1, I860, which was procured upon pro­ceedings supplementary to execution upon a judgment obtained against William Brown (of Watts, Crane &amp; Co.) one of the acceptors of the bills of exchange above set forth; that the claim is of the value of $-; that said bank also holds sundry notes se­cured by mortgage of which copies are here­to attached, marked B., and .which were in May, 1867, the property of Watts, Crane &amp; Co., and which were then given tó R. K. Dunkerson of R. K. Dunkerson &amp; Co. (who were the accommodation indorsers for said several firms who are the principal debtors to said bank upon the liabilities herein set out and proven), to indemnify said bank­rupts against said indorsements, and also for the better security of the bank as well; that said collaterals were held by and for said bank more than six months before the bankruptcy; that the value of said collat-­erals is unknown to affiant. The debt claimed by said bank against said bankrupts is the whole amount of said bills irrespective of said claim against said Preston, and irre­spective of said collaterals.’ But W. J. Low­rey &amp; Co., who are creditors of said bank­rupts, and who had proven their claims in due form, objected to the proof of said claim for the full amount or for any amount, un­less said bank would surrender said lien up­on the claim against said Preston, and said collaterals, or have the same appraised and their value settled by the assignee, who had before that time been appointed, or have the same sold and the value thereof deducted from the amount shown to be due said bank, and the proof allowed for the balance, in accordance with the 20th section of the bank­rupt act. But said bank wholly refused to have said claim and said collaterals sold in accordance with the provisions of said sec­tion, or to have the same appraised or the value thereof agreed upon in accordance with the provisions of said section, or to're­lease or deliver the same up in accordance with the said provisions of said section; but claimed unconditionally the right to make proof of the whole amount due upon said bills of exchange, so indorsed by said bank­rupts.”</blockquote>
+                <p id="b53-26" pgmap="53">Upon this state of facts, it appears that the register allowed the entire claim of the bank against the estate of the bankrupts, to the sum of ninety-eight thousand six hundred and sixty-six dollars and sixty-six cents, and placed the same on the list of claims proved and allowed. Whereupon the parties agreed that the register should certify the whole matter to me for my decision</p>
+                <p id="b53-27" pgmap="53(7) 54(53)">From the facts certified by the register, I conclude that the only question for deci­sion is the following: Is the bank bound to give up the collaterals named, or to make any arrangement concerning them, before being permitted to prove its whole debt of ninety-eight thousand six hundred and sixty-­six dollars against the bankrupts Dunkerson &amp; Company ?</p>
+                <p id="b54-3" pgmap="54">It would seem from the register’s certifi­cate that the creditors who insist on the affirmative of this question, do so on the sole ground that the 20th section of the bank­rupt act requires it. And, as we are aware of no other provision of that act to which the question under consideration is applica­ble, we suppose that a proper construction of that section must be decisive of the ques­tion.</p>
+                <p id="b54-4" pgmap="54">Before proceeding to consider the 20th sec­tion of the act, it may be well, however, to inquire what relevancy the note of four .thousand five hundred dollars, held by the bank on George R. Preston, has to the merits of the present case. It appears that the bank had coerced that note from William Brown, one of the acceptors of said bills of exchange, and a partner in the firm of Watts, Crane &amp; Co., by a proceeding supple­mentary to execution. But what connection the bankrupts or any of their creditors, ex­cept the bank, have with this note does not appear. The register’s certificate, indeed, states that the proceeding supplementary to execution was upon a judgment against Brown, “one- of the acceptors of the bills of exchange” on which the claim of the bank for ninety-eight thousand six hundred and sixty-six dollars is founded. But the certifi­cate does not state that this judgment was rendered on Brown’s acceptance of those bills; and I cannot presume that it was. I must, therefore, wholly disregard the note on Preston in deciding the question under consideration.</p>
+                <p id="b54-5" pgmap="54">The matter, then, is reduced to this: Di­vers bills of exchange, amounting in the ag­gregate to ninety-eight thousand six hundred and sixty-six dollars, are drawn, accepted, and indorsed by several mercantile firms to procure accommodation in the bank. These firms apply to Dunkerson &amp; Co., the bank­rupts, for accommodation indorsements of them, and to the bank to discount them. Dunkerson &amp; Co. and the bank ask some collateral security. It is given them by the delivery to the bank of “sundry notes se­cured by mortgage, and which, in Hay, 18GT, were the property of Watts, Crane &amp; Co., and Given, Watts &amp; Co.” Thereupon Dun-­kerson &amp; Co. indorse the bills, and the bank discounts them. They are dishonored. Dunkerson &amp; Co. become bankrupts. The bank offers to prove the bills as debts against them for dividends out of their assets. Cer­tain creditors object, unless certain things proposed to be done under the 20th section of the bankrupt act are first performed. This seems to be the substance of the whole matter. And it involves this question: When a creditor holds a debt against a bank­rupt whose liability arises by his accommo­dation indorsement of bills of exchange, to secure the payment of which, the drawers and acceptors of the bills have delivered to the creditor “sundry notes,” as collateral security, may the creditor prove his whole debt, and have it allowed against the estate of the bankrupt without regard to these collaterals?</p>
+                <p id="b54-8" pgmap="54">If this question should be answered in the affirmative, it must be because the provisions of the .20th section of the bankrupt act do not reach the case.</p>
+                <p id="b54-9" pgmap="54">On a careful examination of that section, it will plainly appear that in its letter it does not comprehend the case under considera­tion. For, so far as it relates to mortgages, pledges, and liens at all, the letter of the section only includes “a mortgage or pledge of real estate or personal property of the bankrupt, or a lien thereon.” Now, it is. not pretended that the collaterals in ques­tion were ever property of the bankrupts, Dunkerson &amp; Co. On the contrary, the reg­ister's certificate distinctly states that they were “the property of Watts, Crane &amp; Co., and of Given, Watts &amp; Co. Clearly, there­fore, if we are strictly to construe the section according to its letter, it does not extend tn the present case, and the register was right in passing the whole claim of the bank.</p>
+                <p id="b54-10" pgmap="54">But it is a very grave question whether this section should be thus strictly construed. Rather, ought we not to construe it liberally and according to its spirit? There are plausible reasons for the latter construction.</p>
+                <p id="b54-11" pgmap="54">In .tlie first place, it is the obvious policy of the bankrupt law to favor equity among bona fide creditors. Equitable principles pervade that law; and “equity loves equal­ity.” If we construe the 20th section of the act strictly and literally, we give the bank an advantage over the general creditors of the bankrupts; if liberally and according to its spirit, we may put them all on an equal­ity. We are bound, therefore, if we can without violence to the language of this sec­tion, so to construe it as to extend its opera­tion to the case at bar.</p>
+                <p id="b54-12" pgmap="54(138) 55(16)">Moreover, if in this ease instead of Dunker-­son &amp; Co., Watts, Crane &amp; Co., who are the principal debtors on these bills, were the bankrupts, it would be very clear that the bank would not be allowed to prove for any part of its debt without first disposing of the collaterals as required by said 20th section. And, since the debt is one and the same, since Watts, Crane &amp; Co. are the principal debtors, and Dunkerson &amp; Co. but sureties, for them, is it equitable that facts which would avail to prevent the proof and allow­ance of this debt as against the former com­pany if they were bankrupts, cannot avail to the same purpose when the latter are bankrupts? As to principal and surety, it is a general rule that the surety may resist payment on any ground which would be a good defense on the part of the principal.</p>
+                <p id="b55-3" pgmap="55">Furthermore, the same reason which re­quires a creditor holding a lien for his debt on a bankrupt’s property to dispose of that lien according to the 20th section of the act before proving his debt, equally applies where he holds the lien on the property of some other person. The only reason in -both cases seems to be that it is not equitable to permit a creditor of the bankrupt holding col­lateral security for his debt first to prove the whole of it, and share equally with other creditors for the whole of it out of the com­mon fund, and afterwards to resort to his collateral security to put him in a better con­dition than that of other creditors. The sec­tion in question virtually says to the lien-­holder, “If you ask equity, you must do equity. Since your lien puts you in a better condition than other creditors, if you want a dividend out of the common fund, you must first deduct from your debt the value of your lien and take your dividend on the residue of your debt; or you must release your lien to üie assignee and, thus putting yourself on a footing with other creditors, take the divi­dend on your whole debt; or, if the property on which you hold your lien is worth more than your debt, you may keep it in satisfac­tion thereof, and, instead of asking a divi­dend, pay the excess of its value into the common fund for the use of other creditors.”</p>
+                <p id="b55-4" pgmap="55">If we adopt this line of reasoning, we should conclude that the provisions of the 20th section of the act extend to the case at bar. And it must be confessed that such a conclusion is supported by several respect­able authorities. Lanckton v. Wolcott, 6 Metc. [Mass.] 305; Amory v. Francis, 16 Mass. 308; Richardson v. Wyman, 4 Gray, 553.</p>
+                <p id="b55-5" pgmap="55">But the conclusion to which this line of reasoning leads is attended with serious, if not insuperable, difficulties. Indeed, I think a construction of the section in question, founded on this reasoning, involves absurdi­ties which cannot be tolerated. Some ot these are as follows:</p>
+                <p id="b55-6" pgmap="55">First. This section provides for a sale, in certain cases, of the property on which the lien attaches. Now, whether the property be personal or real, there is generally, in such cases, an equity of redemption. This exists in the person who is the general owner of the property. If he is the bankrupt, a sale of the property under the direction of the court would vest a good title in the buyer, because the holder of the equity of redemp­tion is a party to the judicial proceeding. But if he who holds the equity of redemption is not the bankrupt, but a stranger, no such sale could vest his interest in the buyer. This remark applies only to a sale by agree­ment of the lien-holder and the assignee, au­thorized by said section.</p>
+                <p id="b55-7" pgmap="55">Second. This section provides that, in cer­tain cases, the lien-holder may retain the property at its value, and prove for the resi­due of his debt. This provision evidently contemplates the vesting of a perfect title to the property, including the equity of redemp­tion, in the creditor. But this could not be done unless the property when the lien at­tached belonged to the bankrupt.</p>
+                <p id="b55-10" pgmap="55">Third. The section under consideration pro­vides that, if the value of the property on which the lien attaches exceeds the debt secured by it, the assignee may “release to the creditor the bankrupt’s right of redemp­tion therein on receiving such excess.” Ob­viously this could not be done in the present case, though the collaterals exceeded in value the debt due to the bank. For, as these collaterals never belonged to the bankrupts, they never had any equity of redemption in them. Consequently, the assignee could not release these “bankrupts’ right of redemp­tion therein.”</p>
+                <p id="b55-11" pgmap="55">Fourth. This section provides that, in cer­tain cases, the -assignee shall “sell the prop­erty subject to the claim of the creditor thereon,” and “shall execute all deeds and writings necessary or proper to consummate the transaction.” This plainly means that be may sell and convey the equity of re­demption. Clearly he has power to do this whenever the equity of redemption is in the bankrupt; for he officially represents the bankrupt's interest, or rather the bankrupt’s interest is vested in him. But if the proper­ty on which the lien attaches never belonged to the bankrupt, he never had any equity of redemption in it, and so no such thing could vest in his assignee or be sold or conveyed by him.</p>
+                <p id="b55-12" pgmap="55">These considerations, viewed in connection with the unequivocal language of the 20th section of the bankrupt act confining its pro­visions to mortgages and pledges “of real or personal property of the bankrupt or a lien thereon,” lead me to the conclusion that no reasonable construction of the section can ex­tend its provisions to liens of the creditors of a bankrupt on property of which he was never the owner.</p>
+                <p id="b55-13" pgmap="55">In this conclusion, 1 am supported by high authority.</p>
+                <p id="b55-14" pgmap="55">Under the English bankrupt law, which does not differ much from our own on the points relating to the question under consid­eration, the rulings of the judges will be found to agree with the conclusion to which I have come in this case. See Ex parte Bennet, 2 Atk. 527; Ex parte Parr, 18 Ves. 65; Ex parte Goodman, 3 Mad. Ch. 373; Ex parte Plummer, 1 Atk. 103.</p>
+                <p id="b55-15" pgmap="55(84) 56(134)">My ruling in this case is also in conformity with a decision of Mr. Justice Story under the bankrupt law of 1841 [5 Stat. 440], in the Case of Babcock [Case No. 696]. That case was very much like the present; and the learned judge held that a distinction must be taken between the case of a security given to the creditor by the bankrupt himself of his own property, and the case of a security of a third person transferred to the creditor by the bankrupt, or otherwise. And he de­cided that “in the former case, the creditor is not allowed to prove his debt against the bankrupt, unless he surrenders up the secu­rity, or it is sold with his consent, and then he may prove for the residue of his debt which the security when sold does not dis­charge. In the latter case, he may prove his debt in bankruptcy without suiTendering the security of the third person which he holds, and may, notwithstanding such proof, pro­ceed to enforce his security against such third person, provided, however, he does not take, under the bankruptcy and the security, more than the full amount of his debt.” In my judgment, precisely so may the Evans­ville National Bank do in the case at bar.</p>
+                <p id="b56-3" pgmap="56">I am gratified to find that, in the conclusion to which I have come in the present case, I am fully sustained by a late decision of Judge Fox of the district of Maine, in the matter of Nathaniel O. Cram [Case No. 3,343], made under the present bankrupt law. That case was almost in every respect like the present. The Casco National Bank present­ed a claim against the estate of Cram, the bankrupt, on notes for eighty thousand nine hundred dollars, executed by a manufac­turing company and indorsed by Cram. These notes were secured by mortgages on personal and real estate executed by the man­ufacturing company to the bank. It was ob­jected that proof of the debt in favor of the bank could not be allowed without first de­ducting the security held by it. And this ob­jection was made, as in the present case, un­der the provisions of the 20th section of the bankrupt act. But the learned district judge, in an elaborate and exceedingly well-reasoned opinion, overruled the objection and ordered the proof to be taken. I entirely approve his reasoning and his decision.</p>
+                <p id="b56-4" pgmap="56">The doings of the register, Charles H. But-­terfield, Esq., in the premises are approved and affirmed, which is-ordered to be certi­fied, &amp;c.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="53" ORDERLABEL="51" TYPE="page">
+        <fptr FILEID="tiff_00027_0"/>
+        <fptr FILEID="jp2_00027_0"/>
+        <fptr FILEID="alto_00027_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_53.5" BETYPE="IDREF" FILEID="alto_00027_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="54" ORDERLABEL="52" TYPE="page">
+        <fptr FILEID="tiff_00027_1"/>
+        <fptr FILEID="jp2_00027_1"/>
+        <fptr FILEID="alto_00027_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_54.4" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="55" ORDERLABEL="53" TYPE="page">
+        <fptr FILEID="tiff_00028_0"/>
+        <fptr FILEID="jp2_00028_0"/>
+        <fptr FILEID="alto_00028_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_55.3" BETYPE="IDREF" FILEID="alto_00028_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="56" ORDERLABEL="54" TYPE="page">
+        <fptr FILEID="tiff_00028_1"/>
+        <fptr FILEID="jp2_00028_1"/>
+        <fptr FILEID="alto_00028_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_56.6" BETYPE="IDREF" FILEID="alto_00028_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.11" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-12" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.13" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            <area BEGIN="BL_55.1" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.6" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.7" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.12" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-7" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.9" BETYPE="IDREF" FILEID="alto_00028_0"/>
+            <area BEGIN="BL_55.10" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A04" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.13" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-26" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.28" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-27" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.29" BETYPE="IDREF" FILEID="alto_00027_0"/>
+            <area BEGIN="BL_54.1" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-20" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.25" BETYPE="IDREF" FILEID="alto_00027_0"/>
+            <area BEGIN="BL_53.26" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyQ" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.12" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlQ" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.22" BETYPE="IDREF" FILEID="alto_00027_0"/>
+            <area BEGIN="BL_53.23" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-12" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.13" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.8" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-21" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.27" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b56-3" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_56.7" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.10" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-9" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.10" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.9" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-6" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.8" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-15" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.16" BETYPE="IDREF" FILEID="alto_00028_0"/>
+            <area BEGIN="BL_56.3" BETYPE="IDREF" FILEID="alto_00028_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-14" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.15" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-13" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.14" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-8" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.9" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-11" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.12" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.11" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-15" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.18" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-17" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.20" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-16" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.19" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-10" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.11" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-3" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.5" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b55-3" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_55.5" BETYPE="IDREF" FILEID="alto_00028_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-19" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.24" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b53-18" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_53.21" BETYPE="IDREF" FILEID="alto_00027_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-4" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.6" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b54-5" BETYPE="IDREF" FILEID="casebody_0027"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_54.7" BETYPE="IDREF" FILEID="alto_00027_1"/>
+            <area BEGIN="BL_54.8" BETYPE="IDREF" FILEID="alto_00027_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

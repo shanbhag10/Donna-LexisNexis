@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0289" publicationstatus="published">
+          <court abbreviation="C.C.D. Md." jurisdiction="United States">United States Circuit Court for the District of Maryland</court>
+          <name abbreviation="Jerome v. Floating-Dock">JEROME et al. v. FLOATING-DOCK</name>
+          <docketnumber>Case No. 7,291</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 557</citation>
+          <citation category="parallel" type="bluebook">3 Hughes, 508</citation>
+          <decisiondate>1879-01-14</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00280_0" MIMETYPE="image/tiff" CHECKSUM="968f50aac0886e9508bc0dca7869f4ea" CHECKSUMTYPE="MD5" SIZE="66928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00280_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00280_0" MIMETYPE="image/jp2" CHECKSUM="d9c9e01e8541aa60c8ff7cf691b28ec9" CHECKSUMTYPE="MD5" SIZE="3087341">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00280_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00280_0" MIMETYPE="text/xml" CHECKSUM="1cccc65e6028b67b3ebd6e77f8eccdf3" CHECKSUMTYPE="MD5" SIZE="150645">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00280_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0289" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="557" firstpage="557">
+              <court pgmap="559" id="b559-7">Circuit Court, D. Maryland.</court>
+              <docketnumber pgmap="559" id="b559-4">Case No. 7,291.</docketnumber>
+              <citation pgmap="559" id="b559-6">[3 Hughes, 508.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="559" id="b559-5">JEROME et al. v. FLOATING-DOCK.</parties>
+              <decisiondate pgmap="559" id="AKu">Jan. 14, 1879.</decisiondate>
+              <footnote label="1">
+                <p pgmap="559" id="b559-13">1 [Reported by Hon. Robert W. Hughes. Dis­trict Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="559" id="b559-12">BOND, Circuit Judge.</author>
+                <p pgmap="559" id="Arh">This cause coming on to be heard upon the libel and answer ■filed, with the proofs and testimony taken therein, was argued by counsel, and there­upon, after due consideration, the court doth find the facts to be: 1st. That on the seven­teenth day of September, 1876, the schooner Ida C. Latham, a vessel of the burden of 492 tons, was lying securely moored at her wharf in the harbor of Baltimore, when at about the hour of six o’clock in the after­noon she was struck in her stern by the floating-dock belonging to William T. Clark, torn from her moorings, and much damage inflicted upon her. 2d. That the floating-­dock of Clark was moored to a wharf se­curely, and with sufficient care to resist the effect of any storm of wind or sea ever known before in that harbor. 3d. That the day being Sunday the hands who work at the dock had gone home, there being no shelter on it for the men. 4th. That about four o’clock the wind began to blow from the southeast, and in an hour increased to a gale of such violence as to make the water rise in the harbor to a height greatly beyond the point ever before known there. 5th. That the dock was fastened by hawsers and chains to piles driven through the wharf into the bed of the basin, but the water rose so high that it lifted the dock above the piles to which it was fastened; this caused the hawsers to slip over- the top of the piles, and the dock was driven violently across the basin to where the schooner Ida C. Latham was moored, and colliding with her dam­aged her to the amount of one hundred and seventy dollars. 6th. And the court finds that the collision was caused by the unpre­cedented character of the storm at the time, and not by the want of prudence, skill, or care of the owners or crew of the dock. That it occurred by the act of God, and not from negligence or want of precaution. And the' court doth find the law to be that in case of collision arising under the above facts each party must bear his own loss. It is ordered that the decree of the district court be reversed, and that the libel be dis­missed, each party paying his own costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="559" ORDERLABEL="557" TYPE="page">
+        <fptr FILEID="tiff_00280_0"/>
+        <fptr FILEID="jp2_00280_0"/>
+        <fptr FILEID="alto_00280_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_559.4" BETYPE="IDREF" FILEID="alto_00280_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Arh" BETYPE="IDREF" FILEID="casebody_0289"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_559.21" BETYPE="IDREF" FILEID="alto_00280_0"/>
+            <area BEGIN="BL_559.22" BETYPE="IDREF" FILEID="alto_00280_0"/>
+            <area BEGIN="BL_559.23" BETYPE="IDREF" FILEID="alto_00280_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKu" BETYPE="IDREF" FILEID="casebody_0289"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_559.10" BETYPE="IDREF" FILEID="alto_00280_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b559-6" BETYPE="IDREF" FILEID="casebody_0289"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_559.8" BETYPE="IDREF" FILEID="alto_00280_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b559-7" BETYPE="IDREF" FILEID="casebody_0289"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_559.9" BETYPE="IDREF" FILEID="alto_00280_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b559-4" BETYPE="IDREF" FILEID="casebody_0289"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_559.6" BETYPE="IDREF" FILEID="alto_00280_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b559-5" BETYPE="IDREF" FILEID="casebody_0289"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_559.7" BETYPE="IDREF" FILEID="alto_00280_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b559-12" BETYPE="IDREF" FILEID="casebody_0289"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_559.20" BETYPE="IDREF" FILEID="alto_00280_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b559-13" BETYPE="IDREF" FILEID="casebody_0289"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_559.24" BETYPE="IDREF" FILEID="alto_00280_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

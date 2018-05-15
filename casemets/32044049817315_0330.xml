@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0330" publicationstatus="published">
+          <court abbreviation="C.C.E.D.N.Y." jurisdiction="United States">United States Circuit Court for the Eastern District of New York</court>
+          <name abbreviation="The Johannes">The JOHANNES</name>
+          <docketnumber>Case No. 7,332</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 651</citation>
+          <citation category="parallel" type="bluebook">10 Blatchf. 478</citation>
+          <decisiondate>1873-02-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00327_0" MIMETYPE="image/tiff" CHECKSUM="481bf2464a269b2a0b583a1868bf7a7a" CHECKSUMTYPE="MD5" SIZE="101048">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00327_0.tif"/>
+      </file>
+      <file ID="tiff_00327_1" MIMETYPE="image/tiff" CHECKSUM="ad01562082275779892f815d1cc74238" CHECKSUMTYPE="MD5" SIZE="97690">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00327_1.tif"/>
+      </file>
+      <file ID="tiff_00328_0" MIMETYPE="image/tiff" CHECKSUM="0bc234052b01db2f9dfb146af2bf821d" CHECKSUMTYPE="MD5" SIZE="89170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00328_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00327_0" MIMETYPE="image/jp2" CHECKSUM="f8e791f0aa23962137b7d8825e05da79" CHECKSUMTYPE="MD5" SIZE="3612877">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00327_0.jp2"/>
+      </file>
+      <file ID="jp2_00327_1" MIMETYPE="image/jp2" CHECKSUM="d4d3ab9a3867afee0c2084dbe04b8704" CHECKSUMTYPE="MD5" SIZE="3561424">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00327_1.jp2"/>
+      </file>
+      <file ID="jp2_00328_0" MIMETYPE="image/jp2" CHECKSUM="2812dcd6dca05e7d041a0b203bd494a6" CHECKSUMTYPE="MD5" SIZE="3421768">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00328_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00327_0" MIMETYPE="text/xml" CHECKSUM="8198cf7124039285a3482de6babbb0ac" CHECKSUMTYPE="MD5" SIZE="206996">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00327_0.xml"/>
+      </file>
+      <file ID="alto_00327_1" MIMETYPE="text/xml" CHECKSUM="6d8c9b4949b16bb457d59cfb9eb4cfe5" CHECKSUMTYPE="MD5" SIZE="219167">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00327_1.xml"/>
+      </file>
+      <file ID="alto_00328_0" MIMETYPE="text/xml" CHECKSUM="5e836f58bd6b36690fcbeca8182cb9c0" CHECKSUMTYPE="MD5" SIZE="193948">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00328_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0330" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="653" firstpage="651">
+              <court pgmap="653" id="b653-18">Circuit Court, E. D. New York.</court>
+              <docketnumber pgmap="653" id="b653-15">Case No. 7,332.</docketnumber>
+              <citation pgmap="653" id="b653-17">[10 Blatchf. 478.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="653" id="b653-16">The JOHANNES.</parties>
+              <decisiondate pgmap="653" id="A6B0">Feb. 25, 1873.</decisiondate>
+              <attorneys pgmap="654" id="b654-6">Franklin A. Wilcox, for libellant.</attorneys>
+              <attorneys pgmap="654" id="b654-7">James K. Hill, for claimants.</attorneys>
+              <footnote label="1">
+                <p pgmap="653" id="b653-21">1 [Reported by Hon. Samuel Blatchford, Dis­trict Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="654" id="b654-8">WOODRUFF, Circuit Judge.</author>
+                <p pgmap="654" id="AzmO">The steam-­tug E. Palmer, belonging to the libellant, in the night of the 22d day of November. 1S70, was lying in the slip between piers 50 and 51, East river, in the harbor of New York, fastened to other vessels, which lay between her and the bulkhead. The barque Johan­nes was lying along the southwesterly side of pier No. 51, the upper pier, with her bow-­near the btdkhead. She was fastened by a chain from her bow hawser hole to a pile on the dock, several feet within the bulk­head, a chain front about midships running aft twenty or thirty feet to a pile on the pier, and two other chains from near her stern to a pile on the pier a little aft her stern. In that position, and with those fastenings, she had lain from the previous August. Her chains, running obliquely lengthwise the vessel, permitted her to swing off and on three or four feet, accord­ing to the direction of the wind and the state of the tide. A northeasterly storm com­menced a day or two prior to the 22d of No­vember. It became more violent, blowing all the forenoon and afternoon of that day, and rising, at evening, to a heavy gale, at the same time bringing in an unusually high tide, which, the barque being light, lifted her high relatively to the pier, the vessel being “eighteen feet out of the water.” At about nine or ten o’clock in the evening, the pile to which the forward chain was fastened, was, by the violence and force of the wind on the side of the vessel, and the direction of the strain on the pile, drawn out; and the bow of the vessel vras swung around twenty or thirty feet from the pier. She was thereby driven against the tug­boat, which was, by the pressure, broken from her fastenings and driven against an­other vessel. To recover indemnity for the damage done thereby to the tug-boat, the libel herein was filed, and the libellant had a decree therefor in the district court. [Case unreported.]</p>
+                <p pgmap="654" id="b654-9">Such indemnity was properly awarded: and, although the testimony shows more than one offer by the libellant to accept a very much less sum in satisfaction, shortly after the injury, it is not claimed that the proofs laid before the commissioner by whom the amount of indemnity was ascer­tained, did not justify his report of the sum awarded and decreed, namely, $620.20. Al­though the swinging of the barque upon the steamtug was caused by the violence of the wind and the height of the tide, it cannot, with truth, be said that it was inevitable, in the legal sense of the term. Doubtless, the proof shows that the fastenings of the ship were sufficient to hold her in ordinary circumstances. The fact that she had lain there in safety, for three months, with jusi those fastenings and no others, shows this. But, the proofs go far to show, that a pru­dent judgment forbids that such longitudi­nal moorings, permitting her to swing out and in from the pier, with no breast line running crosswise to the pier, to hold her, should be relied upon. However this may be in ordinary weather, it is clear, that ex­traordinary exposure to violence demands increased care and precaution; and oc­casional storms and gales should be antici­pated and guarded against; and, in that view, I think the balance of the testimony shows, that it was not proper to-rely upon the fastenings which she had, and that a crosswise line, to hold her to the pier, was called for.</p>
+                <p pgmap="654" id="b654-12">It is urged, as an excuse, that a chain could not be passed crosswise to the pier, and made fast to any pile thereon, so as to be of any avail, unless it was. carried across the pier, to the side thereof most remote from the vessel, which, it is claimed, would interfere with the proper use of the pier itself; and that the vessel was so high out of the water, that a chain to the pile on the side of the pier opposite and next to the ves­sel would have drawn nearly perpendicular­ly thereon. It cannot, surely, be claimed, that any defect in the pier, or its facilities for making fast, furnishes an excuse to the vessel lying there, if insufficiently secured; and the addition of two chains or lines since the accident, one of them secured crosswise, as above suggested, while it does not show, or even amount to an admission, that the fastening was insufficient before, does show that additional fastenings were practicable. As forcibly suggested in the opinion of the court below, those in the care of the vessel had abundant warning — such warning as should have awakened them to the highest vigilance, and even to the use of unusual precautions. If no other means were at hand, the running of a breast line across the pier, temporarily, or a line to the nearer pile, which, though nearly perpendicular when the vessel was against the pier, would furnish protection when and if the other lines permitted her to fall off a few feet therefrom, or both of these precautions, might have been adopted without difficulty or objection.</p>
+                <p pgmap="654(24) 655(66)" id="b654-13">The claim of the appellant, that the steam-­tug was in the slip without lawful permis­sion. or that her position was improper, if it be not wholly overcome by the evidence, will not avail. She in no wise interfered with the barque, or any opportunity or privilege to which she was entitled. She violated no duty which she owed the barque, in being where she was, and she was, there­fore, entitled to all the protection which proper precaution against the breaking loose of the barque would afford her.</p>
+                <p pgmap="655" id="b655-4">It was upon these grounds that a decree in favor of the libellant was awarded in the district court. Upon the authority of The Louisiana, 3 Wall. [70 U. S.] 164; Union Steamship Co. v. New York &amp; V. Steamship Co., 24 How. [65 U. S.] 307; Buzzard v. The Petrel [Case No. 2,261]; Lucas v. The Thomas Swann [Id. 8,588], — and the principles there stated, the libellant is entitled to a decree, in affirmance of the decree below, for his damages and costs, with costs of the appeal.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="653" ORDERLABEL="651" TYPE="page">
+        <fptr FILEID="tiff_00327_0"/>
+        <fptr FILEID="jp2_00327_0"/>
+        <fptr FILEID="alto_00327_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_653.4" BETYPE="IDREF" FILEID="alto_00327_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="654" ORDERLABEL="652" TYPE="page">
+        <fptr FILEID="tiff_00327_1"/>
+        <fptr FILEID="jp2_00327_1"/>
+        <fptr FILEID="alto_00327_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_654.14" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="655" ORDERLABEL="653" TYPE="page">
+        <fptr FILEID="tiff_00328_0"/>
+        <fptr FILEID="jp2_00328_0"/>
+        <fptr FILEID="alto_00328_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_655.6" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-12" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.15" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzmO" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.9" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            <area BEGIN="BL_654.10" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-6" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.6" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-13" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.16" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            <area BEGIN="BL_655.4" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-8" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.8" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-9" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.11" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            <area BEGIN="BL_654.12" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-17" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.20" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-16" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.19" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6B0" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.22" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-18" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.21" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-15" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.18" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-4" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.8" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-7" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.7" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b653-21" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_653.25" BETYPE="IDREF" FILEID="alto_00327_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

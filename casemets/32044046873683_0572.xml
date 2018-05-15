@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0572" publicationstatus="published">
+          <court abbreviation="C.C.E.D. Mich." jurisdiction="United States">United States Circuit Court for the Eastern District of Michigan</court>
+          <name abbreviation="Farrington v. Gregory">FARRINGTON et al. v. GREGORY</name>
+          <docketnumber>Case No. 4,688</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1088</citation>
+          <citation category="parallel" type="bluebook">4 Fish. Pat. Cas. 221</citation>
+          <decisiondate>1870-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00545_1" MIMETYPE="image/tiff" CHECKSUM="c8721c7e1ff26bbd7b8bf682f2c2a44c" CHECKSUMTYPE="MD5" SIZE="71754">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00545_1.tif"/>
+      </file>
+      <file ID="tiff_00546_0" MIMETYPE="image/tiff" CHECKSUM="bea2794d29d3c6d881aac47f4dce5385" CHECKSUMTYPE="MD5" SIZE="86148">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00546_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00545_1" MIMETYPE="image/jp2" CHECKSUM="d78c61a91d727411c4e30fdf41b0d40b" CHECKSUMTYPE="MD5" SIZE="2887038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00545_1.jp2"/>
+      </file>
+      <file ID="jp2_00546_0" MIMETYPE="image/jp2" CHECKSUM="a165aa8463169cf78b22ddb47aa41562" CHECKSUMTYPE="MD5" SIZE="3424181">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00546_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00545_1" MIMETYPE="text/xml" CHECKSUM="a4ae7ca1d59ab8de2f46b847da6651fe" CHECKSUMTYPE="MD5" SIZE="159727">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00545_1.xml"/>
+      </file>
+      <file ID="alto_00546_0" MIMETYPE="text/xml" CHECKSUM="300087ec0a8853cc338bea8d716199f3" CHECKSUMTYPE="MD5" SIZE="185581">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00546_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0572" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1089" firstpage="1088">
+              <court id="b1090-12" pgmap="1090">Circuit Court, E. D. Michigan.</court>
+              <docketnumber id="b1090-9" pgmap="1090">Case No. 4,688.</docketnumber>
+              <citation id="b1090-11" pgmap="1090">[4 Fish. Pat. Cas. 221.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1090-10" pgmap="1090">FARRINGTON et al. v. GREGORY.</parties>
+              <decisiondate id="A1QD" pgmap="1090">Sept., 1870.</decisiondate>
+              <attorneys id="b1091-3" pgmap="1091">A. Russell, for complainants.</attorneys>
+              <attorneys id="b1091-4" pgmap="1091">Levi L. Barbour, for defendant.</attorneys>
+              <footnote label="1">
+                <p id="b1090-22" pgmap="1090">1 [Reported by Samuel S. Fisher, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1091-5" pgmap="1091">LONGYEAR, District Judge.</author>
+                <p id="Attp" pgmap="1091">By the show­ing made at the hearing of the motion, it appears that before the extension of the patent, Merritt, the assignee of Wyckoff, by an instrument in writing, granted to one Arnold the right to use and sell ma­chines in Calhoun and Kalamazoo coun­ties, in the state of Michigan, and that a machine was constructed for said Arnold in pursuance of such grant, and under the supervision of said Merritt, and that the said machine was transferred, together with a like grant, by said Arnold to other parties and by said other .parties to this de­fendant, and that it is the use of that same machine by defendant that constitutes the cause of complaint and which the court is now asked to enjoin. It further appears that none of the said grants from Merritt down to the defendant had been recorded at the time of the assignment to complain­ants.</p>
+                <p id="b1091-6" pgmap="1091">By section 11 of the act of July 4, 1S36 (5 Stat 121), it is provided that every “as­signment, and also every grant and con­veyance of the exclusive right under any patent, to make and use, and to grant to others to make and use, the thing patented, within and throughout any specified portion of the United States, shall be recorded in the patent office within three months from the execution thereof.” If, therefore, the grants or conveyances under-which defend­ant claims are included in the above pro­vision, they were required to be recorded, and not having been recorded within the time specified, and the complainants having purchased before the same were recorded, they can not be made available against the complainants’ rights under their assignment. The converse of this proposition is, how­ever, no doubt equally true, viz.: If the said grants or conveyances are not includ­ed in the above provision, then they were not required to be recorded, and they are available against the complainants’ rights, whether recorded or not.</p>
+                <p id="b1091-7" pgmap="1091">The grants in question are all precisely alike as to what is granted, and in this respect are in the following language: “All the right, title, and interest which I have to use or sell machines made according to said invention, * * * having the full and entire right to use or dispose of the said improved boring machines,” in the coun­ties of Calhoun and Kalamazoo. This clearly is not a grant to “make and use” the thing patented. It is a mere license to use and sell or dispose of. Neither is it an assignment. “The test is this: If the instrument vests in" the grantee the exclu­sive right, either of the whole country, or for a particular district, of making and using the thing patented, and of granting that right to others, it is an assignment. Any conveyance short of this is a license.” Curt. Pat. (3d Ed.) § 212. See, also, Gay­ler v. Wilder, 10 How. [51 U. S.] 477; Brooks v. Byam [Case No. 1,948].</p>
+                <p id="b1091-10" pgmap="1091">By this test the grants in question are clearly licenses merely, and as such need not be recorded, and they are therefore available to defendant as against complain­ants’ rights, although not recorded. See Curt. Pat. (3d Ed.) §§ 181, 211.</p>
+                <p id="b1091-11" pgmap="1091">The defendant having acquired his grant, however, before the extension of the pat­ent his rights under it are limited, by sec­tion 18 of the act of July 4, 1836, above cited, to the use merely of the particular machine he had in use at the time of- the extension, which right seems to be all he claims, and the exercise of which is all that is complained of in this case.</p>
+                <p id="b1091-12" pgmap="1091">It was contended on the argument of the motion, on behalf of complainants, that be­cause the grant from Merritt to Allen is not in terihs to Allen and her assigns, that Allen could not transfer the right to use, etc., to others, and that, therefore, defend­ant can claim nothing under said grant. The right granted to Allen, as we have seen, was to “use and sell” or “dispose of.” I think this is sufficient to confer the right-­to dispose of the right to use to others, be­cause the purchase of a patented thing always carries with it the right to use the thing purchased by implication, and that is all that is claimed by the defendant in this case. The objection, therefore, is not well founded.</p>
+                <p id="b1091-13" pgmap="1091">The motion for a temporary injunction is denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1090" ORDERLABEL="1088" TYPE="page">
+        <fptr FILEID="tiff_00545_1"/>
+        <fptr FILEID="jp2_00545_1"/>
+        <fptr FILEID="alto_00545_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1090.5" BETYPE="IDREF" FILEID="alto_00545_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1091" ORDERLABEL="1089" TYPE="page">
+        <fptr FILEID="tiff_00546_0"/>
+        <fptr FILEID="jp2_00546_0"/>
+        <fptr FILEID="alto_00546_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1091.6" BETYPE="IDREF" FILEID="alto_00546_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1090-22" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1090.24" BETYPE="IDREF" FILEID="alto_00545_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1091-10" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1091.17" BETYPE="IDREF" FILEID="alto_00546_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1091-12" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1091.19" BETYPE="IDREF" FILEID="alto_00546_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1091-13" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1091.20" BETYPE="IDREF" FILEID="alto_00546_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1091-7" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1091.14" BETYPE="IDREF" FILEID="alto_00546_0"/>
+            <area BEGIN="BL_1091.15" BETYPE="IDREF" FILEID="alto_00546_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1091-3" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1091.8" BETYPE="IDREF" FILEID="alto_00546_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1091-6" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1091.13" BETYPE="IDREF" FILEID="alto_00546_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1091-4" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1091.9" BETYPE="IDREF" FILEID="alto_00546_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1090-9" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1090.11" BETYPE="IDREF" FILEID="alto_00545_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1091-5" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1091.10" BETYPE="IDREF" FILEID="alto_00546_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Attp" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1091.11" BETYPE="IDREF" FILEID="alto_00546_0"/>
+            <area BEGIN="BL_1091.12" BETYPE="IDREF" FILEID="alto_00546_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1QD" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1090.15" BETYPE="IDREF" FILEID="alto_00545_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1091-11" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1091.18" BETYPE="IDREF" FILEID="alto_00546_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1090-12" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1090.14" BETYPE="IDREF" FILEID="alto_00545_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1090-11" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1090.13" BETYPE="IDREF" FILEID="alto_00545_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1090-10" BETYPE="IDREF" FILEID="casebody_0572"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1090.12" BETYPE="IDREF" FILEID="alto_00545_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

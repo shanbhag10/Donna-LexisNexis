@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0216" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="Janvrin v. Smith">JANVRIN v. SMITH</name>
+          <docketnumber>Case No. 7,220</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 363</citation>
+          <citation category="parallel" type="bluebook">1 Spr. 13</citation>
+          <decisiondate>1842-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00183_0" MIMETYPE="image/tiff" CHECKSUM="a0affe6f32cf3991edc87ef43741fa27" CHECKSUMTYPE="MD5" SIZE="96988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00183_0.tif"/>
+      </file>
+      <file ID="tiff_00183_1" MIMETYPE="image/tiff" CHECKSUM="32e78ca677e3cff55bd982ba6a46a62b" CHECKSUMTYPE="MD5" SIZE="56520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00183_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00183_0" MIMETYPE="image/jp2" CHECKSUM="f8db8968e269929462f0d0f7b4a5ba4b" CHECKSUMTYPE="MD5" SIZE="3564157">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00183_0.jp2"/>
+      </file>
+      <file ID="jp2_00183_1" MIMETYPE="image/jp2" CHECKSUM="bdc99303f69d2bffdf493e1e7baaf0f7" CHECKSUMTYPE="MD5" SIZE="2408881">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00183_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00183_0" MIMETYPE="text/xml" CHECKSUM="79f105c11b0e9f03203e9bdd9db72e4c" CHECKSUMTYPE="MD5" SIZE="214869">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00183_0.xml"/>
+      </file>
+      <file ID="alto_00183_1" MIMETYPE="text/xml" CHECKSUM="a47451b9f7df2b084ed948047bdf19b3" CHECKSUMTYPE="MD5" SIZE="115991">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00183_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0216" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="364" firstpage="363">
+              <court pgmap="365" id="AmYc">District Court, D. Massachusetts.</court>
+              <docketnumber pgmap="365" id="b365-4">Case No. 7,220.</docketnumber>
+              <citation pgmap="365" id="AYQ">[1 Spr. 13.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="365" id="AIuq">JANVRIN v. SMITH.</parties>
+              <decisiondate pgmap="365" id="Aik">Jan., 1842.</decisiondate>
+              <attorneys pgmap="365" id="b365-12">C. P. Curtis and B. R. Curtis, for petition­er.</attorneys>
+              <attorneys pgmap="365" id="b365-13">E. Smith, Jr., for respondent.</attorneys>
+              <footnote label="1">
+                <p pgmap="365" id="b365-15">1 [Reported by F. E. Parker. Esq., assisted by Charles Francis Adams, Jr., Esq., and here re­printed by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="365" id="b365-14">SPRAGUE, District Judge.</author>
+                <p pgmap="365" id="AHSl">This is a libel of review by which the court is asked to open for a re-hearing a final decree of this court, made in June, 1841. It has been fre­quently asserted that a court of admiralty has no power to review its own decree, after the expiration of the term at which it was passed. This assertion is rested upon some of the doctrines of the civil law, which re­gards courts, like arbitrators, as funeti offi-­cio, after a final decree has been made and the tribunal has adjourned. But a court, unlike arbitrators, is a permanent tribunal, with continuing powers; one of which is to give to the prevailing party the fruits of his decree, by execution or other process. Hence it has been sometimes admitted that the court has power over the decree itself, so long as it remains unexecuted, but that when completely carried into effect, the pow­er of revision ceases. This doctrine annuls the technical and arbitrary restriction, which prohibits the court from touching its decree after an adjournment. The new limitation which it introduces has no rational founda­tion, except upon the idea that after a com­plete execution of the decree, the court has no means of granting relief, however erro­neous or unjust it may be; and this is some­times .true, and in such cases the court cer­tainly will not exercise the power of revi­sion, because a re-examination would be nu­gatory. But there are cases in which the remedial power of the court, in a libel of review, would be complete, notwithstanding the execution of the original decree. Thus, in a possessory or petitory suit for a ship, a decree in favor of the libellant may have been carried into effect by actual delivery of the ship to him; and yet, upon the revi­sion of that decree, a redelivery may be or­dered and made to the party from whom she was originally taken. However it may have been under the modes of procedure in the civil law, it is certain that under our prac­tice the power to grant reviews is essential to the due administration of justice. Cases may arise, not only in proceedings in rem, but even in suits in personam, in which de­crees may have been rendered disposing of, or affecting property to a large amount, with­out personal notice to the owner thereof. By the supreme court admiralty rules, No. 2, the process in suits in personam may be a simple warrant to arrest, * * * or a warrant to arrest the person of the defend­ant, with a clause therein, if he cannot be found, to attach his goods and chattels to the amount sued for; or, if such property cannot be found, to attach his credits and effects to the amount sued for, in the hands of the garnishees named therein; or, a sim­ple monition. Besides the errors which may intervene, where the party in interest has had no notice which will enable him to pro­tect his rights, others may arise from honest mistake or actual fraud. Even an appear­ance may be entered by mistake or design, where no authority has been given, and a final decree rendered upon the acts or omis­sions of the supposed proctor. If, in these and other cases of clear injustice, relief can­not be had by review in this court, the party is remediless; for no other tribunal can re­vise the decree, except upon appeal, and that is restricted to the next term of the circuit court. It is certainly of great importance that judicial determination should not be disturbed, except for very grave and urgent reasons. “Interest reipublicae ut sit finis li-­tium,” and the repose of rights and titles is a matter of public, as well as private con-­cernment. But to attain this, let us not adopt a rule so rigid as to secure also the repose of fraud and injustice. Litigation is indeed an evil; but courts are established to entertain suits for the redress of wrongs, and there may be as high reasons for a sec­ond suit as for an original one.</p>
+                <p pgmap="365(97) 366(12)" id="b365-18">Under some systems of jurisprudence no decree is made, until after such personal no­tice as insures the party in interest an oppor­tunity to defend his rights. But under our system such personal notice is not in all cases given, and if for want thereof injustice has been done, surely there should be a pow­er lodged somewhere to relieve against it. But although that class of cases may be the strongest, I think that the power of review is not limited to them, but must rest in the judicial discretion of the court, guided by such rules of decision as sound principles of justice and policy dictate.</p>
+                <p pgmap="366" id="b366-4">Lord Stowell, in the case of The Fortitudo, 2 Dod. 70, says, the court “might, perhaps, * * * deem it not improper, in some cases, to suffer a cause to be reopened.” But “that mere negligence or oversight would not be a sufficient ground for such an extraordi­nary interposition of the authority of the court.” “A direct case of fraud, or some­thing equivalent to it, must be made out, before I can suffer such a step to be taken.”</p>
+                <p pgmap="366" id="b366-5">Mr. Justice Story, in the case of The New England [Case No. 10,151], after stating that he has not been able to satisfy his mind whether the district court possesses any ju­risdiction after the term is passed, proceeds to say, that if it has the power to entertain a libel of review in any case, it must be in very special cases, which he proceeds to enumerate. One of them is stated in the following words: “Or where new facts, changing the entire merits, have been dis­covered since the decree was passed, and there has been not only the highest good faith, (uberrima fides,) but also the highest diligence and an entire absence of just im­putations of negligence.”</p>
+                <p pgmap="366" id="b366-6">The language used by these eminent ad­miralty judges, indicates a strong conviction of the necessity of the existence of this pow­er, and at the same time a consciousness that its exercise is not sanctioned by prec­edent. But the want of known precedents is of less force in admiralty, than in the ex­ercise of almost any other jurisdiction; for of the proceedings of the admiralty courts in this country before the Revolution, we have no reports, and very few reports of those since that time; while in England, the courts of common law, greedy of power, and acting upon the maxim “ampliare jurisdictionem,” wielded the power of prohibition with such narrow jealousy of the admiralty, as to divest it of many of its original attributes, which, in later and more liberal times, have been restored by acts of parliament.</p>
+                <p pgmap="366" id="b366-7">Upon principle, the court ought to possess the power of review. With the countenance of such names of Lord Stowell and Mr. Jus­tice Story, X shall entertain this application, and proceed to investigate the facts upon which it is founded.</p>
+                <p pgmap="366" id="b366-8">(The court then' went into an examination of the evidence, and refused the application, on the ground that it did not present a case for the exercise of the power of revision.)</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="365" ORDERLABEL="363" TYPE="page">
+        <fptr FILEID="tiff_00183_0"/>
+        <fptr FILEID="jp2_00183_0"/>
+        <fptr FILEID="alto_00183_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_365.4" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="366" ORDERLABEL="364" TYPE="page">
+        <fptr FILEID="tiff_00183_1"/>
+        <fptr FILEID="jp2_00183_1"/>
+        <fptr FILEID="alto_00183_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_366.8" BETYPE="IDREF" FILEID="alto_00183_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHSl" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.19" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            <area BEGIN="BL_365.20" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            <area BEGIN="BL_365.21" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYQ" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.9" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmYc" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.10" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-8" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.13" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-18" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.23" BETYPE="IDREF" FILEID="alto_00183_0"/>
+            <area BEGIN="BL_366.5" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-4" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.9" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-13" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.17" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-12" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.16" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-15" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.22" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-14" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.18" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aik" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.11" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b365-4" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.7" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-6" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.11" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-7" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.12" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIuq" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_365.8" BETYPE="IDREF" FILEID="alto_00183_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b366-5" BETYPE="IDREF" FILEID="casebody_0216"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_366.10" BETYPE="IDREF" FILEID="alto_00183_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

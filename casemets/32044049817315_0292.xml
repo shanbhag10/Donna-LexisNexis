@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0292" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="The Jerusalem">The JERUSALEM</name>
+          <docketnumber>Case No. 7,294</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 564</citation>
+          <citation category="parallel" type="bluebook">2 Gall. 345</citation>
+          <decisiondate>1815-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00283_1" MIMETYPE="image/tiff" CHECKSUM="e928f1d38705475c3d081e4cfbd77dac" CHECKSUMTYPE="MD5" SIZE="26202">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00283_1.tif"/>
+      </file>
+      <file ID="tiff_00284_0" MIMETYPE="image/tiff" CHECKSUM="b6058ed1797242154d12589a24534d55" CHECKSUMTYPE="MD5" SIZE="77840">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00284_0.tif"/>
+      </file>
+      <file ID="tiff_00284_1" MIMETYPE="image/tiff" CHECKSUM="1c584abf504a1b7876fc03cfceb98c59" CHECKSUMTYPE="MD5" SIZE="88186">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00284_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00283_1" MIMETYPE="image/jp2" CHECKSUM="e9c7ed1cd6d54b02047da8a767218c58" CHECKSUMTYPE="MD5" SIZE="1658571">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00283_1.jp2"/>
+      </file>
+      <file ID="jp2_00284_0" MIMETYPE="image/jp2" CHECKSUM="05d905a63b114136ff3e60b77ad1ac9c" CHECKSUMTYPE="MD5" SIZE="3144365">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00284_0.jp2"/>
+      </file>
+      <file ID="jp2_00284_1" MIMETYPE="image/jp2" CHECKSUM="0c9233b3f4672b035600b2bccb5ecdad" CHECKSUMTYPE="MD5" SIZE="3350790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00284_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00283_1" MIMETYPE="text/xml" CHECKSUM="8b079654ee8680bb85389c0f0da4f0df" CHECKSUMTYPE="MD5" SIZE="45425">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00283_1.xml"/>
+      </file>
+      <file ID="alto_00284_0" MIMETYPE="text/xml" CHECKSUM="5196062e17e2c09cd2b2a08b7d956b0e" CHECKSUMTYPE="MD5" SIZE="168042">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00284_0.xml"/>
+      </file>
+      <file ID="alto_00284_1" MIMETYPE="text/xml" CHECKSUM="797fd7de3ed439ab26b467ebe0feff6a" CHECKSUMTYPE="MD5" SIZE="198187">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00284_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0292" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="566" firstpage="564">
+              <court pgmap="566" id="b566-8">Circuit Court, D. Massachusetts.</court>
+              <docketnumber pgmap="566" id="b566-5">Case No. 7,294.</docketnumber>
+              <citation pgmap="566" id="b566-7">[2 Gall. 345.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="566" id="b566-6">The JERUSALEM.</parties>
+              <decisiondate pgmap="566" id="AfZ">May Term, 1815.</decisiondate>
+              <attorneys pgmap="566" id="b566-21">A. W. Fuller, for libellant.</attorneys>
+              <footnote label="1">
+                <p pgmap="566" id="b566-12">1 [Reported by John Gallison. Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="567" id="b567-4">STORY, Circuit Justice.</author>
+                <p pgmap="567" id="AiZ">The question here does not singly depend upon the right of the admiralty to entertain suits in favor of ma­terial men. If there be any persons, who doubt that jurisdiction, I beg not to be com­prehended in the number. In my judgment, and I speak after having given the subject a very grave consideration, the admiralty has always rightfully possessed jurisdiction over all maritime contracts; and the decisions of the courts of common law, prohibiting its exercise, ai e neither consistent in themselves, nor reconcilable with principle. In the strug­gle between the courts of common law and the admiralty, which originated in the same spirit, that attempted to break down the whole system of equity, it cannot be denied, that the former have manifested a great de­gree of jealousy, and hostility, fostered by strong prejudice and a very imperfect knowl­edge of the subject. It is not, therefore, to be wondered at. that in such an unequal con­test, where the power was all on one side, the admiralty should have lost many of its inherent rights. In more modern times, when the jurisdiction of the admiralty has been better understood, a more liberal policy has been pursued, and, where they have not been fettered by authority, judges have been more indulgent in allowing its exercise. The true doctrine was always asserted by the learned judges of the admiralty, and has been recent­ly recognized by Mr. Justice Buller; that the jurisdiction as to contracts depends not upon the locality, but upon the subject matter, of the contract. Menetone v. Gibbons, 3 Term R. 267. And I have not the slightest hesitation in holding, that the admiralty has perfect jurisdiction over all maritime contracts. The decisions at common law, on the subject of its jurisdiction, have nothing to recommend them, and certainly are not binding on us. The constitution and laws of the United States have confided to the courts of the United States cognizance of “all civil causes of admiralty and maritime jurisdiction.” and what is the true limit of this jurisdiction must be judged of. not by hasty decisions upon prohibitions, but by the history, practice and law. of the admiralty, as it is found ex­pounded. with admirable learning and sagac­ity, by the judges who have presided in that court. <footnotemark>2</footnotemark> In respect to material men. the juris­diction has been enforced and exercised by Mr. Justice Winchester, than whom no man in the United States ever better understood the true principles and doctrine of the admi­ralty law. Stevens v. The Sandwich [Case No. 13,409]. Until I am taught a different rule by the highest tribunal, I shall continue to assert the original inherent powers of the admiralty in the full extent, in which they were recognised in England until the un­happy controversies with the courts of com­mon law.</p>
+                <p pgmap="567(133) 568(350)" id="b567-7">Admitting the jurisdiction, the next ques­tion is, whether the petitioner be entitled to the relief prayed for. This depends upon the consideration, whether he have a lien or not upon the ship for the repairs. Tt will be rec­ollected that this is a foreign ship, and that, by the general maritime law. every contract of the master for repairs and supplies im­ports an hypothecation. It has been suit-­posed, that the rule of the common law is different. But it has never yet been extend­ed to cases of repairs of foreign ships, or of ships in foreign ports. I hold, therefore, that the contract for repairs in this ease, being of a foreign ship, is to be governed by the mari­time law, and created a lien.<footnotemark>3</footnotemark> Whether, in case of a domestic ship, material men have a lien for supplies and repairs furnished at the port where the owner resides, I give no opinion. There are great authorities on both sides of the question, though upon principle, independent of common law authorities, it does not seem to me, that there is much room for doubt. See Woodruff v. The Levi Dear­borne [Case No. 17,988]; Stevens v. The Sand­wich [Id. 13,409]; Gardner v. The New Jersey [Id. 5,233]; Hussey v. Christie, 9 East, 426; Abb. Shipp. pt. 2, c. 3, § 9, etc.; Rich v. Coe, Cowp. 636; Farmer v. Davies, 1 Term R. 109; The John, 3 C. Rob. Adm. 288; Pritchard v. The Lady Horatia [Case No. 11,438]. Be this as it may, it cannot affect the jurisdiction of the admiralty in such cases, for that stands altogether independent of the doctrine of liens, and may be enforced as well by process in personam, as in rem. If then the repairs in this case were a lien on the ship, it remains to consider, whether they constitute a privileged lien, entitled to a pref­erence over a bottomry interest; for the pro­ceeds now in court are insufficient to answer both claims. In point of time the bottomry interest first attached, and the right became absolute by a completion of the voyage, be­fore the repairs were made. Upon general principles, then, the rule would seem to ap­ply, “qui prior est tempore, potior est jure.” But it is to be considered, that the repairs were indispensable for the security of the ship, and actually increased her value. They are, therefore, not like a dry lien by way of mortgage or other collateral title. The case is more analogous to that of a second bot-­tomry bond, or the lien of seamen’s wages, which have always been, held to have a pri­ority of claim, although posterior in time, to the first bottomry bond. Let a decree be entered for payment of the sum claimed by the petitioner out of the proceeds of the sale.</p>
+                <p pgmap="568" id="b568-4">After the decree was pronounced. Mr. Ful­ler moved the court for a direction to the clerk, as to the costs to be taxed in this case.</p>
+                <p pgmap="568" id="b568-5">BY THE COURT. In a case, like this, of a claim on proceeds in the custody of the court, where other parties are entitled, noth­ing can be allowed beyond that, for which there is a specific lien, and the actual charges of court. No attorney’s fee can be allowed.</p>
+                <footnote label="2">
+                  <p pgmap="567" id="b567-8">2 See Exton, Godolphin, Zouch, and Jenkins, on the admiralty jurisdiction, passim.</p>
+                </footnote>
+                <footnote label="3">
+                  <p pgmap="567" id="b567-9">3 The John, 3 C. Rob. Adm. 288: North v. The Eagle [Case No. 10,309]. The supreme court of the United States have recently held that ma­terial men have a lien on a foreign ship for repairs done. The Aurora, 1 Wheat. [14 U. S.] 96, 103; Hussey v. Christie, 13 Ves. 594: con­tra. Id.. 9 East. 426: Acc. Ex parte Halkett. 3 Ves. &amp; B. 135: De Lovio v. Boit [Case No. 3,776]; 2 P. Wms. 367.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="566" ORDERLABEL="564" TYPE="page">
+        <fptr FILEID="tiff_00283_1"/>
+        <fptr FILEID="jp2_00283_1"/>
+        <fptr FILEID="alto_00283_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_566.6" BETYPE="IDREF" FILEID="alto_00283_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="567" ORDERLABEL="565" TYPE="page">
+        <fptr FILEID="tiff_00284_0"/>
+        <fptr FILEID="jp2_00284_0"/>
+        <fptr FILEID="alto_00284_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_567.3" BETYPE="IDREF" FILEID="alto_00284_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="568" ORDERLABEL="566" TYPE="page">
+        <fptr FILEID="tiff_00284_1"/>
+        <fptr FILEID="jp2_00284_1"/>
+        <fptr FILEID="alto_00284_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_568.4" BETYPE="IDREF" FILEID="alto_00284_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-4" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.5" BETYPE="IDREF" FILEID="alto_00284_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-7" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.10" BETYPE="IDREF" FILEID="alto_00284_0"/>
+            <area BEGIN="BL_568.1" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-5" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.8" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-6" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.9" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-7" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.10" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-8" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.11" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-9" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.12" BETYPE="IDREF" FILEID="alto_00284_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b567-8" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.11" BETYPE="IDREF" FILEID="alto_00284_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-21" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.25" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b566-12" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.18" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfZ" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_566.12" BETYPE="IDREF" FILEID="alto_00283_1"/>
+            <area BEGIN="BL_566.13" BETYPE="IDREF" FILEID="alto_00283_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AiZ" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_567.6" BETYPE="IDREF" FILEID="alto_00284_0"/>
+            <area BEGIN="BL_567.7" BETYPE="IDREF" FILEID="alto_00284_0"/>
+            <area BEGIN="BL_567.8" BETYPE="IDREF" FILEID="alto_00284_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b568-4" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_568.5" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b568-5" BETYPE="IDREF" FILEID="casebody_0292"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_568.6" BETYPE="IDREF" FILEID="alto_00284_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

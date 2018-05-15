@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0093" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Isabella Thompson">The ISABELLA THOMPSON</name>
+          <docketnumber>Case No. 7,102</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 164</citation>
+          <decisiondate>1863-07-31</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00083_1" MIMETYPE="image/tiff" CHECKSUM="64ec37175c792588546d2270fe2b2410" CHECKSUMTYPE="MD5" SIZE="101998">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00083_1.tif"/>
+      </file>
+      <file ID="tiff_00084_0" MIMETYPE="image/tiff" CHECKSUM="d75b8ccc62c2eda8b058414e1cf4f00a" CHECKSUMTYPE="MD5" SIZE="84110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00084_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00083_1" MIMETYPE="image/jp2" CHECKSUM="5cca2ecc3e58e672bcbc00b9564c7c0a" CHECKSUMTYPE="MD5" SIZE="3546711">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00083_1.jp2"/>
+      </file>
+      <file ID="jp2_00084_0" MIMETYPE="image/jp2" CHECKSUM="390c4fcde69b19784d88ba89c1af521d" CHECKSUMTYPE="MD5" SIZE="3220474">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00084_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00083_1" MIMETYPE="text/xml" CHECKSUM="34aeebfdffd4602aa5a722a9d0156226" CHECKSUMTYPE="MD5" SIZE="222084">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00083_1.xml"/>
+      </file>
+      <file ID="alto_00084_0" MIMETYPE="text/xml" CHECKSUM="7548eb438940ddc8ed0116a245226ae9" CHECKSUMTYPE="MD5" SIZE="180882">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00084_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0093" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="165" firstpage="164">
+              <court pgmap="166" id="b166-11">District Court, S. D. New York.</court>
+              <docketnumber pgmap="166" id="b166-8">Case No. 7,102.</docketnumber>
+              <parties pgmap="166" id="b166-9">The ISABELLA THOMPSON.</parties>
+              <decisiondate pgmap="166" id="Aya">July 31, 1863.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <p pgmap="166" id="b166-10">[Blatchf. Pr. Cas. 377.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="166" id="b166-15">1 [Reported by Samuel Blatehford, Esq.]</p>
+              </footnote>
+              <footnote label="2">
+                <p pgmap="166" id="AN1">2 LAiiirmed in 3 Wall. (70 U. S.) 155.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="167" id="b167-9">BETTS, District Judge.</author>
+                <p pgmap="167" id="AyBb">This vessel and cargo were captured, as prize of war, June 10, 1SG3, on the Atlantic Ocean, by the United States steamer United States, and were sent to this' port for adjudication. James McDaniel, of Halifax, Nova Scotia, intervened and claimed as owner of the brig, and Nehemiah K. Clements, for himself and others, appeared and claimed the car­go. As in the preceding ease [The Glen, Case No. 5,479], the vessel had a certificate of British registry, given' at Halifax, Au­gust 5, 1SG2, as being a British vessel, built in New Brunswick, in 1SG1, to James Mc­Daniel, of Nova Scotia. She had a certif­icate of her entry and clearance at Halifax, April 27, 1863, for Nassau, N. P., with a cargo of sundries, and a clearance at Nas­sau, June 5, 18G3, for Halifax, with a car­go of spirits of turpentine and upland cot­ton, with a letter of instructions, a bill of lading, and an invoice conformable thereto. The cargo was taken on board in the har­bor of Nassau. The ship’s papers, upon their face, are regular, and in due order. The master and the ship’s company are shown, on the preparatory examination, to be British subjects, and to have no interest in the vessel and cargo. The voyage com­menced at Halifax, and was to have ended there. The vessel made no port between Halifax and Nassau on the outward voyage, nor between the same ports on her return voyage, and was not near any port when captured, and had not attempted to enter any port on her return voyage. She was captured off St. George’s Banks. All the papers on the vessel are regular and ap­parently fair.</p>
+                <p pgmap="167" id="b167-10">No evidence is given, on the examination in preparatorio, that the cargo of the vessel was procured from a blockaded port by any person on board of or interested in the prize vessel, or that it was the property of such a person; and no reasonable color for doubt or suspicion as to the lawfulness or fair­ness of the voyage in question is furnished by the evidence in the case, except what arises from the testimony of the cook, Gabriel English. He testifies that the cargo seized was laden into the prize vessel in the harbor of Nassau from the schooner Argyle, which had just run the blockade of Wil­mington, bringing that cargo into Nassau; that he understood that the master of the Argyle was part owner of her, and he sup­poses that he owned part of her cargo also; and that the master was a southern man from Wilmington. This conjecture of the witness cannot affect the ownership of the consignees and shippers of the cargo at Nassau. The neutral consignee at that port acquired a perfect title to the cargo as against the captors, although it was carried to Nassau by runners of the blockade, and the libellants have no legal authority to ar­rest it on board of a neutral ship while transporting it from a neutral port. But, acting on the persuasion that the cargo had been unlawfully brought from a blockaded port, and had been directly laden from the blockade-running vessel into the Isabella Thompson, the cruiser might, very natural­ly, believe that she possessed a rightful authority to intercept such transaction as one falling within the just cognizance of a prize court, and bring in the vessel and car­go for adjudication before that tribunal on such suspicion. Had any solidarity of in­terests between the Argyle and the Isabella Thompson, in the entire voyage from Wil­mington to Halifax, been established by the proofs, or any complicity between the two vessels in the enterprise, the captors might well invoke the judgment of the court in condemnation of the enterprise. Although the evidence fails to make a clear case of illicit dealing on the part of the brig, so as to subject her to forfeiture, I think a rea­sonable cause of suspicion arises out of the testimony, of sufficient force to justify the granting of permission to the libellants to give further proofs to that point. If moved for by them, as the proofs now stand, I shall order the brig and cargo to be re­leased from this seizure, and to be restored to the claimants without damages or costs; but with permission to the libellants, on four days’ previous notice to the claimants, to move the court for leave to give further proofs in this suit upon the aforesaid points. Order accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="166" ORDERLABEL="164" TYPE="page">
+        <fptr FILEID="tiff_00083_1"/>
+        <fptr FILEID="jp2_00083_1"/>
+        <fptr FILEID="alto_00083_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_166.4" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="167" ORDERLABEL="165" TYPE="page">
+        <fptr FILEID="tiff_00084_0"/>
+        <fptr FILEID="jp2_00084_0"/>
+        <fptr FILEID="alto_00084_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_167.3" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AN1" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.20" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-9" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.11" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-10" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.12" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-15" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.19" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-9" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.11" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyBb" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.12" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            <area BEGIN="BL_167.13" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-11" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.13" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aya" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.14" BETYPE="IDREF" FILEID="alto_00083_1"/>
+            <area BEGIN="BL_166.15" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b166-8" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_166.10" BETYPE="IDREF" FILEID="alto_00083_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b167-10" BETYPE="IDREF" FILEID="casebody_0093"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_167.14" BETYPE="IDREF" FILEID="alto_00084_0"/>
+            <area BEGIN="BL_167.15" BETYPE="IDREF" FILEID="alto_00084_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

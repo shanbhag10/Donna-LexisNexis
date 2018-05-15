@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0582" publicationstatus="published">
+          <court abbreviation="E.D. Mich." jurisdiction="United States">United States District Court for the Eastern District of Michigan</court>
+          <name abbreviation="The Favorite">The FAVORITE</name>
+          <docketnumber>Case No. 4,698</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1104</citation>
+          <citation category="parallel" type="bluebook">2 Flip. 86; 25 Int. Rev. Rec. 202</citation>
+          <decisiondate>1877-10-15</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00553_1" MIMETYPE="image/tiff" CHECKSUM="966ddf9fab8c0bc1453d5230e20af0f3" CHECKSUMTYPE="MD5" SIZE="81814">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00553_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00553_1" MIMETYPE="image/jp2" CHECKSUM="ab33e2b2e2e308842beb3c97c018f480" CHECKSUMTYPE="MD5" SIZE="3111379">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00553_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00553_1" MIMETYPE="text/xml" CHECKSUM="46c2837edb3eb2ac1a71e0e9bf2eb4f1" CHECKSUMTYPE="MD5" SIZE="176158">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00553_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0582" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1104" firstpage="1104">
+              <court id="AkOU" pgmap="1106">District Court, E. D. Michigan.</court>
+              <docketnumber id="b1106-2" pgmap="1106">Case No. 4,698.</docketnumber>
+              <citation id="b1106-4" pgmap="1106">[2 Flip. 86;<footnotemark>1</footnotemark> 25 Int. Rev. Rec. 202.]</citation>
+              <parties id="b1106-3" pgmap="1106">The FAVORITE.</parties>
+              <decisiondate id="A-Zf" pgmap="1106">Oct. 15, 1877.</decisiondate>
+              <attorneys id="b1106-9" pgmap="1106">F. H. Canfield, for libellant</attorneys>
+              <attorneys id="b1106-10" pgmap="1106">H. G. Wisner, for respondent</attorneys>
+              <footnote label="1">
+                <p id="b1106-18" pgmap="1106">1 [Reported by William Searcy Flippin, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1106-11" pgmap="1106">BROWN, District Judge.</author>
+                <p id="AZEm" pgmap="1106">That the surety in this case, being a married woman and having no interest in the vessel, is not bound by her stipulation, is too clear for argument, and in fact is conceded by counsel. De Vries v. Conklin, 22 Mich. 255; West v. Lara­way, 28 Mich. 468.</p>
+                <p id="b1106-12" pgmap="1106">It is claimed, however, that the vessel hav­ing once been released from custody is for­ever discharged of the lien, and the court has no power to order her re-arrest The Union [Case No. 14,346]; The White Squall [Id. 17,570]; The Kalamazoo, 9 Eng. Law &amp; Eq. 587; The Old Concord [Case No. 10,482]. In none of these cases, however, was there any mistake or fraud at the time the stipu­lation was signed. In The Union and The Kalamazoo the amount of damages claimed in the libel was increased. -In The White Squall the vessel was returned to custody by the consent of the parties, against the pro­test of a person having an interest in the vessel; and in The Old Concord the sureties had become insolvent Conceding that the court has no power to order the te-arresi of a vessel once fairly discharged upon a binding stipulation or for any cause not ex­isting at the time the stipulation was ac­cepted, I am clearly of the opinion that this power exists, whenever through mistake or fraud a stipulation has been accepted which was not binding upon the parties signing it.</p>
+                <p id="b1106-13" pgmap="1106">An order will be made for the re-arrest of the vessel.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1106" ORDERLABEL="1104" TYPE="page">
+        <fptr FILEID="tiff_00553_1"/>
+        <fptr FILEID="jp2_00553_1"/>
+        <fptr FILEID="alto_00553_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1106.3" BETYPE="IDREF" FILEID="alto_00553_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1106-4" BETYPE="IDREF" FILEID="casebody_0582"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1106.6" BETYPE="IDREF" FILEID="alto_00553_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1106-3" BETYPE="IDREF" FILEID="casebody_0582"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1106.5" BETYPE="IDREF" FILEID="alto_00553_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1106-2" BETYPE="IDREF" FILEID="casebody_0582"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1106.4" BETYPE="IDREF" FILEID="alto_00553_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1106-12" BETYPE="IDREF" FILEID="casebody_0582"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1106.18" BETYPE="IDREF" FILEID="alto_00553_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkOU" BETYPE="IDREF" FILEID="casebody_0582"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1106.7" BETYPE="IDREF" FILEID="alto_00553_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1106-9" BETYPE="IDREF" FILEID="casebody_0582"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1106.13" BETYPE="IDREF" FILEID="alto_00553_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1106-13" BETYPE="IDREF" FILEID="casebody_0582"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1106.19" BETYPE="IDREF" FILEID="alto_00553_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-Zf" BETYPE="IDREF" FILEID="casebody_0582"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1106.8" BETYPE="IDREF" FILEID="alto_00553_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1106-11" BETYPE="IDREF" FILEID="casebody_0582"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1106.15" BETYPE="IDREF" FILEID="alto_00553_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1106-10" BETYPE="IDREF" FILEID="casebody_0582"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1106.14" BETYPE="IDREF" FILEID="alto_00553_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZEm" BETYPE="IDREF" FILEID="casebody_0582"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1106.16" BETYPE="IDREF" FILEID="alto_00553_1"/>
+            <area BEGIN="BL_1106.17" BETYPE="IDREF" FILEID="alto_00553_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1106-18" BETYPE="IDREF" FILEID="casebody_0582"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1106.20" BETYPE="IDREF" FILEID="alto_00553_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0602" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="Felch v. Hooper">FELCH v. HOOPER et al.</name>
+          <docketnumber>Case No. 4,717</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1127</citation>
+          <citation category="parallel" type="bluebook">15 Alb. Law J. 333</citation>
+          <decisiondate>1877-04-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00565_0" MIMETYPE="image/tiff" CHECKSUM="e37201540c94b718a6c32b69efc58103" CHECKSUMTYPE="MD5" SIZE="29510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00565_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00565_0" MIMETYPE="image/jp2" CHECKSUM="0b4ed47da5002ce6b10fc9864e0d9cf5" CHECKSUMTYPE="MD5" SIZE="1823295">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00565_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00565_0" MIMETYPE="text/xml" CHECKSUM="ab893096a81cdb1bf2521eb662b6277d" CHECKSUMTYPE="MD5" SIZE="49281">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00565_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0602" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1127" firstpage="1127">
+              <court id="b1129-5" pgmap="1129">Circuit Court, D. Massachusetts.</court>
+              <docketnumber id="b1129-2" pgmap="1129">Case No. 4,717.</docketnumber>
+              <citation id="b1129-4" pgmap="1129">[15 Alb. Law J. 333.]</citation>
+              <parties id="b1129-3" pgmap="1129">FELCH v. HOOPER et al.</parties>
+              <decisiondate id="AmJC" pgmap="1129">April 13, 1877.</decisiondate>
+              <opinion type="majority">
+                <p id="b1129-8" pgmap="1129">[David] Hooper, one of the defendants, executed a bond to the complainant [Mark C.j Felch, conditioned for the conveyance to the complainant of certain land in Somerville, upon the payment by the obligee of a cer­tain sum, of which $150 was paid upon the delivery of the bond. Felch soon after, under verbal authority from Hooper, entered upon the land and erected a dwelling-house and made other improvements. Hooper after-­wards refused to convey. . The supreme court of Massachusetts decided that the land was charged with an implied trust hi plaintiff’s favor. 119 Mass. 52. The circuit court de­cided that, upon the facts in the case, the plaintiff was clearly entitled to a conveyance upon paying the amount due according to the conditions of the bond, and ordered a conveyance accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1129" ORDERLABEL="1127" TYPE="page">
+        <fptr FILEID="tiff_00565_0"/>
+        <fptr FILEID="jp2_00565_0"/>
+        <fptr FILEID="alto_00565_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1129.2" BETYPE="IDREF" FILEID="alto_00565_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmJC" BETYPE="IDREF" FILEID="casebody_0602"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1129.8" BETYPE="IDREF" FILEID="alto_00565_0"/>
+            <area BEGIN="BL_1129.9" BETYPE="IDREF" FILEID="alto_00565_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1129-8" BETYPE="IDREF" FILEID="casebody_0602"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1129.13" BETYPE="IDREF" FILEID="alto_00565_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1129-4" BETYPE="IDREF" FILEID="casebody_0602"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1129.6" BETYPE="IDREF" FILEID="alto_00565_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1129-5" BETYPE="IDREF" FILEID="casebody_0602"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1129.7" BETYPE="IDREF" FILEID="alto_00565_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1129-2" BETYPE="IDREF" FILEID="casebody_0602"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1129.4" BETYPE="IDREF" FILEID="alto_00565_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1129-3" BETYPE="IDREF" FILEID="casebody_0602"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1129.5" BETYPE="IDREF" FILEID="alto_00565_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0367" publicationstatus="published">
+          <court abbreviation="S.D. Fla." jurisdiction="United States">United States District Court for the Southern District of Florida</court>
+          <name abbreviation="Englehart v. The Pedro">ENGLEHART et al. v. The PEDRO</name>
+          <docketnumber>Case No. 4,489</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 718</citation>
+          <decisiondate>1879-02-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00360_1" MIMETYPE="image/tiff" CHECKSUM="5ef7d6af04ec9c5033adfd67ee956aba" CHECKSUMTYPE="MD5" SIZE="102608">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00360_1.tif"/>
+      </file>
+      <file ID="tiff_00361_0" MIMETYPE="image/tiff" CHECKSUM="ccee150d19e51459c752ef80e0a59d11" CHECKSUMTYPE="MD5" SIZE="75506">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00361_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00360_1" MIMETYPE="image/jp2" CHECKSUM="7ec7f198365a71336cd8e457dbb0c821" CHECKSUMTYPE="MD5" SIZE="3607326">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00360_1.jp2"/>
+      </file>
+      <file ID="jp2_00361_0" MIMETYPE="image/jp2" CHECKSUM="80a5cd41d39d9c16990b8939bb8fb02f" CHECKSUMTYPE="MD5" SIZE="3328553">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00361_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00360_1" MIMETYPE="text/xml" CHECKSUM="17a5820f58feb7911f03450741f2c473" CHECKSUMTYPE="MD5" SIZE="224146">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00360_1.xml"/>
+      </file>
+      <file ID="alto_00361_0" MIMETYPE="text/xml" CHECKSUM="95a60fbeed6473ea2350178a2f8f9f05" CHECKSUMTYPE="MD5" SIZE="160773">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00361_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0367" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="719" firstpage="718">
+              <court id="A_u-" pgmap="720">District Court, S. D. Florida.</court>
+              <docketnumber id="b720-8" pgmap="720">Case No. 4,489.</docketnumber>
+              <parties id="b720-9" pgmap="720">ENGLEHART et al. v. The PEDRO.<footnotemark>1</footnotemark>
+              </parties>
+              <decisiondate id="APd" pgmap="720">Feb. 24, 1879.</decisiondate>
+              <attorneys id="b720-13" pgmap="720">G. Bowne Patterson, for libellants.</attorneys>
+              <attorneys id="b720-14" pgmap="720">W. O. Maloney, Jr., for respondent</attorneys>
+              <footnote label="1">
+                <p id="b720-16" pgmap="720">1 [Not previously reported.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b720-15" pgmap="720">LOCKE, District Judge.</author>
+                <p id="AeT" pgmap="720(103) 721(309)">This is a cause-­on a contract of affreightment, brought by the consignee of cargo shipped on board the libelled vessel, for loss and damage. The libel alleges that there were shipped on board the said brig at Ponce, P. R., 280 hhds. and 85 bbls. of sugar to be carried to Queenstown, and a bill of lading signed by the master; that the vessel went into Nassau, N. P., where the master sold one hundred hogsheads of the sugar; that after leaving Nassau with the rest of the cargo lie willfully and completely de­viated from his course and brought his vessel into this port, where the voyage was aban­doned, her owners refusing to carry the cargo to its destination, whereby it has suffered loss and damage. The shipment of the cargo and the sale as alleged in Nassau is aumitted. The loss, damage and delay at this port is sought to be justified by the fact that the ves­sel was under attachment in a salvage suit [Case No. 8,995], and that the master was dispossessed of it; and it is claimed that the accounting for the proceeds of the cargo sold at Nassau is a matter of general average and not of contract, and that the master is but waiting the decision of this cause to forward the accounts to average adjusters in New York for adjustment. The admissions of the answer, without any testimony in support of the libel, are sufficient to determine the cause. It admits the sale of a hundred hogsheads of sugar, but does not offer any excuse for said sale, nor tender any account of the proceeds. From the moment of the sale the vessel and her owners became liable to the owners of the cargo for its value, and could be called upon by them to account immediately upon the ter­mination of the voyage. It is a matter of con­tract, and damage resulting therefrom, and is in no way shown by allegations or testimony to be a question of general average. It is not shown that there was any necessity for the sale, or that the proceeds were expended or used, and the burdc.n of proof rests entirely upon the carrier to justify his action. In this case nothing of the kind has been attempted, and the vessel is unquestionably liable for the full value of the cargo so sold, which has been shown to be fully four thousand dollars.</p>
+                <p id="b721-3" pgmap="721">There is no question but what, if the alle­gations of the libel in regard to an unneces­sary deviation of tlm voyage and coming in­to this port are sustained by the testimony presented, the entire damages caused by such deviation and delay would also be chargeable to the vessel; but I have considered it unnec­essary to examine that question, as by the admissions of the answer the damages re­sulting from the sale of cargo are shown to far exceed the proceeds of sale of vessel in the registry of the court, to which any judg­ment herein must be limited. This cause hav­ing been fully heard, and the court being duly advised in the premises, and the vessel hav­ing been sold upon application of the master and order of the court for the sum of one thousand nine hundred and seventy-five dol­lars, it is hereby ordered, judged and decreed that the libellant have and receive the en­tire proceeds of said sale of said vessel now remaining in the registry of the court after the payment of the costs, expenses and charges taxed and allowed against said pro­ceeds in the case of Malone v. The Pedro and Cargo [Case No. 8,995] in a cause of salvage, the amounts paid wages of crew upon peti­tion, and the costs of this suit, and that the bond filed by E. M. Stoddard in the case of Malone v. The Pedro and Cargo [supra] be cancelled and annulled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="720" ORDERLABEL="718" TYPE="page">
+        <fptr FILEID="tiff_00360_1"/>
+        <fptr FILEID="jp2_00360_1"/>
+        <fptr FILEID="alto_00360_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_720.4" BETYPE="IDREF" FILEID="alto_00360_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="721" ORDERLABEL="719" TYPE="page">
+        <fptr FILEID="tiff_00361_0"/>
+        <fptr FILEID="jp2_00361_0"/>
+        <fptr FILEID="alto_00361_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_721.6" BETYPE="IDREF" FILEID="alto_00361_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b721-3" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_721.9" BETYPE="IDREF" FILEID="alto_00361_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APd" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_720.13" BETYPE="IDREF" FILEID="alto_00360_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeT" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_720.20" BETYPE="IDREF" FILEID="alto_00360_1"/>
+            <area BEGIN="BL_720.21" BETYPE="IDREF" FILEID="alto_00360_1"/>
+            <area BEGIN="BL_721.4" BETYPE="IDREF" FILEID="alto_00361_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_u-" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_720.12" BETYPE="IDREF" FILEID="alto_00360_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b720-9" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_720.11" BETYPE="IDREF" FILEID="alto_00360_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b720-8" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_720.10" BETYPE="IDREF" FILEID="alto_00360_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b720-15" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_720.19" BETYPE="IDREF" FILEID="alto_00360_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b720-14" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_720.18" BETYPE="IDREF" FILEID="alto_00360_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b720-16" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_720.22" BETYPE="IDREF" FILEID="alto_00360_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b720-13" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_720.17" BETYPE="IDREF" FILEID="alto_00360_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

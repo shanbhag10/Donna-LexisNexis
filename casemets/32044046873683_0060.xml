@@ -1,0 +1,680 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0060" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="Durant v. Ritchie">DURANT et al. v. RITCHIE</name>
+          <docketnumber>Case No. 4,190</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 118</citation>
+          <citation category="parallel" type="bluebook">4 Mason, 45</citation>
+          <decisiondate>1825-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00060_1" MIMETYPE="image/tiff" CHECKSUM="72c5c63bb50bfbfde7ddfa1768f7af34" CHECKSUMTYPE="MD5" SIZE="66940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00060_1.tif"/>
+      </file>
+      <file ID="tiff_00061_0" MIMETYPE="image/tiff" CHECKSUM="b07d4d000694ee48871dbcda89da14ea" CHECKSUMTYPE="MD5" SIZE="8034">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00061_0.tif"/>
+      </file>
+      <file ID="tiff_00061_1" MIMETYPE="image/tiff" CHECKSUM="127a10c2192d14f30b15cbef3d4e1711" CHECKSUMTYPE="MD5" SIZE="7796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00061_1.tif"/>
+      </file>
+      <file ID="tiff_00062_0" MIMETYPE="image/tiff" CHECKSUM="ea993fd569808ee48919627515d068c9" CHECKSUMTYPE="MD5" SIZE="48816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00062_0.tif"/>
+      </file>
+      <file ID="tiff_00062_1" MIMETYPE="image/tiff" CHECKSUM="3ab30c07879b7cd38597ee16cc51b492" CHECKSUMTYPE="MD5" SIZE="116258">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00062_1.tif"/>
+      </file>
+      <file ID="tiff_00063_0" MIMETYPE="image/tiff" CHECKSUM="c0d066a49c68927c8bfd83dea722f157" CHECKSUMTYPE="MD5" SIZE="113808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00063_0.tif"/>
+      </file>
+      <file ID="tiff_00063_1" MIMETYPE="image/tiff" CHECKSUM="8e8d40202ca6b665fab06c9bf2c2da73" CHECKSUMTYPE="MD5" SIZE="114656">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00063_1.tif"/>
+      </file>
+      <file ID="tiff_00064_0" MIMETYPE="image/tiff" CHECKSUM="a96736ff40e6da8af25fc4d550f9a8c0" CHECKSUMTYPE="MD5" SIZE="111694">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00064_0.tif"/>
+      </file>
+      <file ID="tiff_00064_1" MIMETYPE="image/tiff" CHECKSUM="6c2864aef76fd61227a48e6370f68c72" CHECKSUMTYPE="MD5" SIZE="112236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00064_1.tif"/>
+      </file>
+      <file ID="tiff_00065_0" MIMETYPE="image/tiff" CHECKSUM="a7f3ecf925830464162682528b875836" CHECKSUMTYPE="MD5" SIZE="114132">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00065_0.tif"/>
+      </file>
+      <file ID="tiff_00065_1" MIMETYPE="image/tiff" CHECKSUM="4b57ee9055d78e2421fb383276c57c34" CHECKSUMTYPE="MD5" SIZE="77980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00065_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00060_1" MIMETYPE="image/jp2" CHECKSUM="a77adafb8d78ee809b3c053390969cd6" CHECKSUMTYPE="MD5" SIZE="2690886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00060_1.jp2"/>
+      </file>
+      <file ID="jp2_00061_0" MIMETYPE="image/jp2" CHECKSUM="0898b7be06acc142edcefe1dc0a3c25c" CHECKSUMTYPE="MD5" SIZE="1059447">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00061_0.jp2"/>
+      </file>
+      <file ID="jp2_00061_1" MIMETYPE="image/jp2" CHECKSUM="682f4319b7357de7880638a1e2d340c9" CHECKSUMTYPE="MD5" SIZE="1047708">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00061_1.jp2"/>
+      </file>
+      <file ID="jp2_00062_0" MIMETYPE="image/jp2" CHECKSUM="1408fe3cf6512a31e04a868e41e79423" CHECKSUMTYPE="MD5" SIZE="2133671">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00062_0.jp2"/>
+      </file>
+      <file ID="jp2_00062_1" MIMETYPE="image/jp2" CHECKSUM="faff8411dc1850e1bf349d093b0bcc5d" CHECKSUMTYPE="MD5" SIZE="3776609">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00062_1.jp2"/>
+      </file>
+      <file ID="jp2_00063_0" MIMETYPE="image/jp2" CHECKSUM="2960e6e478b91f87b588b5183801c0e2" CHECKSUMTYPE="MD5" SIZE="3758113">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00063_0.jp2"/>
+      </file>
+      <file ID="jp2_00063_1" MIMETYPE="image/jp2" CHECKSUM="c558994905ae34b979b8c0f1081a89a6" CHECKSUMTYPE="MD5" SIZE="3750982">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00063_1.jp2"/>
+      </file>
+      <file ID="jp2_00064_0" MIMETYPE="image/jp2" CHECKSUM="11cc792e2e05e55a5e0c03594ae731ec" CHECKSUMTYPE="MD5" SIZE="3779035">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00064_0.jp2"/>
+      </file>
+      <file ID="jp2_00064_1" MIMETYPE="image/jp2" CHECKSUM="f3035e740562041cb7ed22aaadbf81c4" CHECKSUMTYPE="MD5" SIZE="3752452">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00064_1.jp2"/>
+      </file>
+      <file ID="jp2_00065_0" MIMETYPE="image/jp2" CHECKSUM="2df40ad094e963acd0d3ea6df96ec68b" CHECKSUMTYPE="MD5" SIZE="3738365">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00065_0.jp2"/>
+      </file>
+      <file ID="jp2_00065_1" MIMETYPE="image/jp2" CHECKSUM="10dc37988668b3ad7a5c9f8cb03f7764" CHECKSUMTYPE="MD5" SIZE="3014163">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00065_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00060_1" MIMETYPE="text/xml" CHECKSUM="6f0576fd9ef900c9111d7874bc41602e" CHECKSUMTYPE="MD5" SIZE="141833">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00060_1.xml"/>
+      </file>
+      <file ID="alto_00061_0" MIMETYPE="text/xml" CHECKSUM="e4c91fd4159c3b3f85a29b6541c35cd6" CHECKSUMTYPE="MD5" SIZE="3482">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00061_0.xml"/>
+      </file>
+      <file ID="alto_00061_1" MIMETYPE="text/xml" CHECKSUM="524ad69764fd2f18f77e595563b85ef3" CHECKSUMTYPE="MD5" SIZE="3228">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00061_1.xml"/>
+      </file>
+      <file ID="alto_00062_0" MIMETYPE="text/xml" CHECKSUM="d8c79062c0a91b934514d7d0c92945a3" CHECKSUMTYPE="MD5" SIZE="97813">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00062_0.xml"/>
+      </file>
+      <file ID="alto_00062_1" MIMETYPE="text/xml" CHECKSUM="54ec48f90dbd82d09ac8ab21da962210" CHECKSUMTYPE="MD5" SIZE="248913">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00062_1.xml"/>
+      </file>
+      <file ID="alto_00063_0" MIMETYPE="text/xml" CHECKSUM="49c80a749c60a8b4246d4ab661a1515e" CHECKSUMTYPE="MD5" SIZE="255263">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00063_0.xml"/>
+      </file>
+      <file ID="alto_00063_1" MIMETYPE="text/xml" CHECKSUM="b483f786ff5da6cb2aa8ecebbef4f11e" CHECKSUMTYPE="MD5" SIZE="255410">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00063_1.xml"/>
+      </file>
+      <file ID="alto_00064_0" MIMETYPE="text/xml" CHECKSUM="a6a99c9c6a63375c8bcc4dccf3349de0" CHECKSUMTYPE="MD5" SIZE="264133">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00064_0.xml"/>
+      </file>
+      <file ID="alto_00064_1" MIMETYPE="text/xml" CHECKSUM="268aa633438e97a0974d912a9a34576e" CHECKSUMTYPE="MD5" SIZE="260992">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00064_1.xml"/>
+      </file>
+      <file ID="alto_00065_0" MIMETYPE="text/xml" CHECKSUM="a01d65128a6e120800a984f65a36e025" CHECKSUMTYPE="MD5" SIZE="258908">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00065_0.xml"/>
+      </file>
+      <file ID="alto_00065_1" MIMETYPE="text/xml" CHECKSUM="63a96370d6c048c6003024d82fa093f1" CHECKSUMTYPE="MD5" SIZE="168723">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00065_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0060" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="128" firstpage="118">
+              <court id="b120-16" pgmap="120">Circuit Court, D. Massachusetts.</court>
+              <docketnumber id="b120-13" pgmap="120">Case No. 4,190.</docketnumber>
+              <citation id="b120-15" pgmap="120">[4 Mason, 45.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b120-14" pgmap="120">DURANT et al. v. RITCHIE.</parties>
+              <decisiondate id="ADC" pgmap="120">Oct. Term, 1825.</decisiondate>
+              <attorneys id="b121-5" pgmap="121">Mr. Metcalf, for demandants, argued':</attorneys>
+              <attorneys id="b122-3" pgmap="122">Mr. Prescott, for tenant.</attorneys>
+              <attorneys id="b123-4" pgmap="123">Stearns, in reply.</attorneys>
+              <footnote label="1">
+                <p id="b120-21" pgmap="120">1 [Reported by William P. Mason, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b123-8" pgmap="123">STORY, Circuit Justice.</author>
+                <p id="AXJ" pgmap="123">This cause has been argued with great learning and ability, and the topics brought into discussion have been in a great measure exhausted. The question is, whether the deed of Mr. and Mrs. Ritchie was, under the laws of Massachusetts, suffi­cient to convey her estate in the land in con­troversy to the uses expressed in the deed; if it was, then the demandants are barred; if not, then they are entitled to recover as heirs at law. If this question were to be tried solely upon principles of the common law, it might be easily disposed of; for, ex­cept in some places, where peculiar customs prevail, and have been sanctioned, the wife can make no valid conveyance of her estate but by fine or common recovery, which are matters of record. In these cases she is ex­amined by the court, and her assent, without the compulsion of her husband, is ascertain­ed. When a fine or recovery of the wife’s estate is had, she may join her husband in the deed to lead or declare the uses. She cannot alone declare them; but if her husband alone declares them, it will be presumed to be with her consent. Comyn, Dig. “Baron &amp; Feme,” G 1, 2, 4; 1 Bl. Comm. 444; 2 Bl. Comm. 293, 355; Cruise, Uses, pp. 132, 133, arts. 195, 196, 198; 1 Rop. Husb. &amp; Wife, 53; Shep. Touch, p. 39.</p>
+                <p id="b123-9" pgmap="123(161) 124(68)">A feoffment or other grant, by the husband and wife, of the wife’s estate, not being mat­ter of record, is therefore held, not merely to be voidable, but absolutely void. 2 Bl. Comm. 293; Shep. Touch. 54, 200. What was the original ground, upon which this general disability of femes covert was established at the common law, it is not perhaps very easy to determine. It may have arisen from the artificial rule, that her separate existence is merged or suspended during the coverture; Co. Litt 112a, 187b; Comyn, Dig. “Baron &amp; Feme,” D.; or, what is more probable, from the fear, that her acts during the coverture might be exacted by the influence or compul­sion of her husband. The exception intro­duced in favour of fines and common recover­ies, countenances the latter supposition. For though doubtless in their origin those were presumed to be adversary suits: yet the prin­cipal reason, assigned in the books for their conclusiveness upon the estate of the wife, is, that her voluntary assent is ascertained by the secret examination of the court 2 Bl. Comm. 351, 355; 1 Bl. Comm. 444; Comyn, Dig. “Baron &amp; Feme,” G 1, 2, 4, H; Shep. Epitome, p. 734; Shep. Touch. 38. Be this as it may, the rule and the exception are equally well settled, and cannot now admit of con­troversy.</p>
+                <p id="b124-4" pgmap="124">But the present case it to be decided, not by the common law, but by the local law of Massachusetts; and this court is bound to de­cide all controversies, touching the titles and transfers of real estates, by the same rules as the judicial tribunals of the state. In this respect it administers merely the lex loci. By the law of Massachusetts a feme covert may convey her estate by deed, duly executed by herself and her husband. This is not disputed, and indeed has so long prevailed as an uncontested principle, that it would be a waste of time to trace its recognition in our courts. Fowler v. Shearer, 7 Mass. 21; Dud­ley v. Sumner, 5 Mass. 463; Osgood v. Breed, 12 Mass. 525. The origin of this principle has been matter of some discussion; and very learned minds have differed in opinion on this subject; some resolving it into a mere New England usage in very remote times; and others deeming it a just construction of the statute of conveyances of 9 Wm. III. c. 7. When our ancestors came to this country, they brought with them, and adopted so much of the common law, as was applicable to their situation. Fines, as a mode of conveyance, do not appear ever to have been adopted in the country; and common recoveries, though resorted to for other purposes, are not known to nave been used for the transfer of the es­tates of femes covert In England they could in general only be passed in the court of com­mon pleas; and neither the court of king’s bench nor exchequer were competent to en­tertain them. Shep. Touch. 8, 9, 39; Comyn, Dig. “Fine,” D; 2 Bl. Comm. 349-351; Comyn, Dig. “Courts.” C. And it is not surprising that a jurisdiction, exclusively exercised by one court there for a particular purpose, should not have found an early place in our jurisprudence. The alienation of land was, however, generally favored in the colony; and it would be matter of astonishment, • if some mode was not in practice, by which femes covert could convey their estates. No express mode is pointed out by any colonial statute; and there does not exist, even to the present day, any general statutable regula­tion on the subject.</p>
+                <p id="b124-5" pgmap="124">In 1640 the colonial legislature passed an act, declaring that no mortgage, bargain, and sale, or grant of any houses, lands, &amp;c. when the grantor remained in possession, should be of force, except against him and his heirs, unless the same should be acknowledged be­fore some magistrate, and recorded in the county court; and the recording, as provided by the act of 1041. 1042, does not seem to have been intended of the whole deed at large, but of “the names of the grantor and grantee, the thing and estate granted, together with the date thereof.” In 1652 another act was. passed, declaring, “that henceforth no sale or alienation of houses or lands, within this, jurisdiction, shall be holden good in law, ex­cept the same be done by deed in writing,, under hand and seal, and delivered, and pos­session given upon part, in the name of the whole, by the seller or his attorney, so au­thorized under hand and seal; unless the deed be acknowledged and recorded according to-­law.” Here, the first part of the enactment provides for a livery of seisin, and thereby makes the conveyance a feoffment; and the-­latter part substitutes, as an equivalent of equal notoriety and effect, the acknowledg­ment and record of the deed. So that by the latter, the conveyance becomes, as to all le­gal purposes, either a feoffment, or a convey­ance of equal power to transmute the posses­sion and title. This is the substance of the colonial legislation. After the charter of 1692, the subject was again taken up by ¿he-­legislature; and by the provincial actof9 Wm. III. c. 7, it was declared, “that henceforth all deeds or conveyances of any houses or lands within this province, signed and sealed by the party or parties granting the same, hav­ing good and lawful right or authority there­to, and acknowledged by such grantor or-­grantors before a justice of the peace, and recorded at length in the registry of the coun­ty, where such houses or lands do lie, shall be-­valid to pass the same, without any other act or ceremony in the law whatsoever.” This statute remained in force until after the-­Kevolution; and having been revised by the act of 1783, c. 37, remains in substance the present law of this commonwealth.</p>
+                <p id="b124-7" pgmap="124(221) 125(1097) 126(135)">It is observable, that this statute of 9 Wm.. III., dispenses entirely with livery of seisin, by declaring, that the deed or conveyance, duly executed, acknowledged, and recorded, shall be valid to pass the estate “without any other act or ceremony in the law whatso­ever.” See Pidge v. Tyler, 4 Mass. 541; Hig­bee v. Rice, 5 Mass. 352; Marshall v. Fisk, 6 Mass. 24. The act or ceremony, here alluded to, doubtless is livery of seisin, without which a deed of feoffment at common law was not sufficient to pass an estate of freehold. 2 Bl. Comm. 311. The statute gives no description of any particular kind of deed or conveyance, such as feoffment, bargain and sale, lease and release, &amp;e., nor does it express any­thing as to the operative words which it shall contain. Any deed, any conveyance, granting the estate by any words, expressing a clear intention to transfer the same, is sufficient. The statute looks not to the par­ticular form of the deed, but to its sub­stance, as conveying the title of the grantor; and gives it full effect by its own tran­scendent authority. It transmutes the title and possession as perfectly as it could be done by any kind of conveyance. In short, as has been observed by a very learned judge (Chief Justice Dana), to whose opin­ion I shall have occasion more fully to.re­fer hereafter, “this statute was evidently made to introduce a new mode of creating or transferring' freehold estates in corporeal hereditaments” (i. e. new to the common law), “viz. by deeds, signed, sealed, acknowledged, and recorded, as the statute mentions. It does not prescribe any particular kind of deeds or conveyances, but is general, and extends to all kinds of conveyances.” The deed operates in such manner as may best effectuate the intention of the parties. It may operate ás a feoffment, a bargain and sale, a covenant to stand seised to uses, a re­lease, or a confirmation, as the circumstances may require. This has been the uniform construction put upon the statute by our courts; and perhaps our deed of conveyance may most aptly be denominated, in the lar­gest sense of the common law, a grant. See Co. Litt. 284a, note, 1301b; Shep. Epitome, c. 93, p. 625; Dudley v. Sumner, 5 Mass. 472; Livermore v. Bagley, 3 Mass. 487; 2 Saund. 96, and note 1. In Marshall v. Fisk, 6 Mass. 24, 32, Chief Justice Parsons said, “A con­veyance of land may here be considered as any species of conveyance necessary to effect the intent of the parties, and not repugnant to the terms of it.” “It may have the effect of a feoffment, without an actual entry of the grantee.” See, also, Knox v. Jenks, 7 Mass. 488. It is farther observable, that the statute uses the expression, deeds, &amp;c. sign­ed, &amp;c. by the party, &amp;e. “having good and lawful right or authority thereto.” It was upon this clause, that the late Judge Trow-­bridge founded his opinion, that the authori­ty of the husband and wife to convey her es­tate was derived from this statute. ' The ar­gument was to this effect. By the common law, husband and wife can, by a particular mode of conveyance, viz. fine or recovery, pass her estate; they are therefore persons “having good and lawful right or authority thereto,” and consequently grantors entitled to convey within the purview of the statute, Fowler v. Shearer, 7 Mass. 14, 21. To me there appears much force in this reasoning. But Chief Justice Parsons has thought this opinion ill-founded. '“One objection to this reasoning is (says he), that according to the practical construction of the statute it proves too much. For tenant in tail can convey by common recovery; yet it was never sup­posed, that under this statute-he could con­vey, so as to bar his issue, or those in remain­der or reversion.” Id. Now the force of this objection is somewhat diminished by the con­sideration, that this construction of the stat­ute, as to tenants in tail, does not appear ever to have passed under judicial cogni­zance; and probably never became matter of controversy, as from very early times com­mon recoveries were used in the province to bar entails. It is not to be presumed, when a known and approved mode of barring en­tails was practised, that another mode, which was open to question, would be- re­sorted to. But the case of tenant in tail does not strike me to be, to all intents and pur­poses, ad idem. There are at least some dis­tinctions, which would deserve consideration, if the point were now in judgment. A feme covert, having the fee in herself, is absolute owner of the whole estate; and when she parts with it by fine or recovery, she parts with no more than her present title to the estate. But it is not exactly so in respect to tenant in tail. He is not absolute owner, but he is special owner, per formam doni. If he is of perfect capacity, and sui juris, his deed will convey no more than a base or voidable fee, and will not exclude his heirs, per formam doni. Comyn, Dig. “Estate,” B. 22, 24, 33; Id. “Discontinuance,” A 4, B; Machil v. Clark, 2 Salk. 618; Martin v. Strachan, 5 Term R. 107, note. Even a fine by a tenant in tail bars only his own issue; it does not affect subsequent remainders; but creates a base or qualified fee, deter­minable upon the failure of the issue of the person, to whom the estate was granted in tail; upon which event the remainder man may enter. 2 Bl. Comm. 355-357, and Chris­tian’s note 3; 5 Term R. 108. It is true, that if he omits to enter within five years after his title accrues, he is barred by stat­ute, if the fine be levied with proclamation. But this is true also as to strangers; and it operates by the same-reason, as other stat­utes of limitations. A common recovery by tenant in tail admits indeed of a very differ­ent consideration. A fine operates only as an extinguishment of the estate tail, and passes a base or qualified fee. But a com­mon recovery does not operate in that man­ner; for a common recovery passes not a base fee, but a full, absolute, unlimited, and rightful fee, and is to be considered as the proper conveyance of a tenant in tail, and passes the fee in the same manner, as the fee is passed by a feoffment of tenant in fee. Such is the language of Lord Chief Justice Lee, in delivering the opinion of the court in Martin v. Strachan, 5 Term R. 107, note. But this proceeds upon a fiction of law of the recompense by the recovery over against the vouchee. So that, as the same learned judge said on the same occasion, a common recovery may be considered, in several re­spects, as to a tenant in tail, and as to a re­mainder man. As to tenant in tail, it is a conveyance by consent; and as to the re­mainder it is a bar involuntary. As to ten­ant in tail it is a grant in the per; as to the remainder, it has the credit of a recovery upon title; and therefore a tenant in tail alone limits all the uses upon such recovery, and he in remainder, nolens volens, is bound. At the common law a tenant in tail had a fee simple conditional, and the donor had only a possibility. He might alienate by feoffment before issue born, and the donor could not enter for a forfeiture, and this fe-­offment barred the issue. After issue born he might alienate, and thereby bar both issue and donor. By having issue the condition was considered as performed to three pur­poses, to alienate, to charge, and to forfeit. The statute de donis took away the power of alienation; but it did not change the nature of the estate, or the course of descent Un­der that statute the judges held, that the ten­•ant in tail had not a fee simple; but they made dividual estates, a particular estate in the donee, and the reversion in the donor. But when common recoveries were intro­duced, these in effect revived the old law, and reduced the estate of the donor, or re-­mainderman, again to a mere possibility. Martin v. Strachan, 5 Term R. 107, note; Co. Litt. 19; Comyn, Dig. “Estates,” B 27.</p>
+                <p id="b126-3" pgmap="126">The cases then of tenant in tail, and feme •covert, are not necessarily to be governed by the same principle. She is, to all intents and purposes,'the absolute owner of the fee with­out any remainder in others. He has not, strictly speaking, the absolute ownership of the fee, although he has, by a common re­covery, the power of acquiring or passing it; but until such recovery he holds for the issue per formam doni, and there is a subsisting •estate in the reversioner or remainderman, whether it be esteemed an interest or a mere possibility. She is not disqualified by the ■common law from conveying; but her con­veyance is required to be by some solemn act -of record, whereby her consent, upon exam­ination, may be known to be free and volun­tary. The tenant in tail, on the other hand, though competent by the common law to nlien the fee, is, by the statute de donis, de­prived of that power; and has re-acquired it only by a fiction of law, an imaginary rec­ompense, whereby he is enabled to defeat the title of his own issue and those in re­mainder. It is not strictly the exercise of a right; but the exercise of a power, which by -consequence defeats the rights of others. Now I do not say, that a court might not, in the exercise of a liberal construction, hold a tenant in tail, within the statute of 9 Wm. HI., as a party “having good and lawful right .and authority” to grant the estate in fee, upon the ground, that the law would enable him so to do by a common recovery. But there might be considerations growing out of the peculiar nature of his estate and the rights of third persons, which might induce •a court to pause, when it might readily allow a feme covert to be within the clause. And the very circumstance, that common recov­eries have always been in use in the province to bar entails, and never to pass the estate ■of a feme covert, would go far to show, that such a distinction, lxiving some grounds to support it, had in fact prevailed. Judge Trowbridge’s opinion, as to the origin of the usage of femes covert to convey, is not there­fore overturned by the objection, that it proves too much. Chief Justice Dana evi­dently inclined to the same opinion as Judge Trowbridge. Other eminent persons have, however, entertained a different view of the subject, and resolve the usage into mere New England common law, the origin of which is unknown. Fowler v. Shearer, 7 Mass. 14, 21; Dudley v. Sumner, 5 Mass. 463; Os­good v. Breed, 12 Mass. 531. It would ill become me'to attempt the difficult task "of reconciling these diversities of judgment, magnas componere lites; nor should I have thought it necessary to enter at all into an examination of the matter, if a strong argu­ment had not been pressed for the demand-­ants, upon the ground of its being a mere usage, unauthorized by statute. If I might, however, be permitted to hazard a conjec­ture, itwould be, that the practice of femes cov­ert conveying their estates by deed prevailed antecedently to the provincial statute of Wm. HI., and possibly was grounded upon the gen­eral terms of the colonial act of 1G52; and that being then well known, the words of the statute “having lawful right, &amp;c.” were in­serted to comprehend and affirm it. But be the origin of the usage what it may, it has prevailed beyond the memory of man, and has become a common assurance in the coun­try, and cannot now be shaken without over­turning innumerable titles, and the most solemn adjudications of our courts. This is admitted by the counsel for the demandants; and it is now necessary to examine the ob­jections taken by them to the deed, under which the tenant claims.</p>
+                <p id="b126-6" pgmap="126(297) 127(105)">The first objection is, that though a feme covert may convey her estate by deed jointly with her husband; yet this is by usage mere­ly, and the usage has extended only to con­veyances to third persons, and not to convey­ances, where the uses were reserved to the husband, or the husband and wife, in the same deed; and that by the common law the husband cannot convey to the wife, nor the wife to the husband. In respect to the com­mon law, the unity of persons, which arises from the relation of husband and wife, cer­tainly prohibits a direct and immediate con­veyance from one to the other from having any legal effect. Co. Litt. 112a, Comyn, Dig. “Baron &amp; Feme,” D 1. But either may, at the common law, indirectly convey to the other through the medium of a trustee, or by any conveyance, which operates a transmutation of possession. Thus, a man may make a feoffment, or other conveyance, to the use of his wife, and the estate will be executed in her by the statute of uses of 27 Hen. 8. Co. Litt. 112a; 1 Saund. Uses, c. 2, § 5. And by a fine or recovery the husband and wife may declare the uses of the wife’s estate, either to the husband, or husband and wife, as well as to any third person. Lusher v. Banbong, 3 Dyer, 290a, and cases, note k. In short, they have as effectual power to declare the uses in such case, as any third persons can have; for the old estate is gone by the fine or recovery, and the use is a new estate hav­ing operation by the statute of uses. Cruise, Uses,p. 132, §§ 195, 190, &amp;c.; Beckwith's Case, 2 Coke, 56; Bac. Uses, 70, and note of Rowe, 150; 2 Bridg. Conv. 170. So that, so far as the objection rests on a general disability by the common, law, it is not sustained, for it does not exist. The estate of the feme covert, whenever it can be conveyed by her at all, can be conveyed to any uses whatso­ever; and as well to the use of her husband, as to any other use. And if the present con­veyance had been by fine or common recov­ery, the uses declared by the deed would have been good and effectual in law.</p>
+                <p id="b127-4" pgmap="127">Then, as to the other part of the objection in respect to the extent of the usage, it is ad­mitted, that the case must be brought within the usage. But what is the usage? It is, that the husband and wife, joining in a deed, may convey her lands so as to bar her and her heirs. It is not confined to any particu­lar kind of conveyance, or to any particular persons. Whatever is the conveyance, and whoever are the parties, if it is, in point of law, competent in other respects to pass the estate to them, the usage gives it complete validity. It is incumbent upon those who set up an exception to the generality of the usage, to establish its existence. If not established, then the court must deal with it by analogy to other well known prin­ciples. There seems to be no reason, why, if a feme covert may convey her estate to any uses whatever by fine or feoffment in Eng­land, she may not convey her estate to the like uses here by her deed. The law, in each case, gives her the general authority to convey her estate, and there is no more rea­son for restricting it in the one ease, than in the other. If indeed a restriction exists, it must be submitted to; but the usage em­bodies none in its general form; and since it leaves the wife at liberty to pass her es­tate by deed, it leaves the conditions, uses, and limitations, in like manner, at the option of the parties. Indeed, the objection itself admits, that by two separate deeds, one from the husband and wife to a stranger, and from him back to the husband and wife to uses, the estate of the wife might, consistent­ly with the usage, pass to the same uses, as are contained in the present deed. If so, then the usage admits the competency of the wife to pass her estate by deed to the use of her husband; and the question then resolves itself into this, whether the deed is in a com­petent form to pass the possession of the estate from the wife, so as to create a proper feoffee or grantee to uses. It is upon that ground, and that ground only, that the neces­sity of two deeds can, in a legal point of view, be admitted.</p>
+                <p id="b127-5" pgmap="127">And this leads me to the consideration of the objécticn made to the nature and opera­tion of the deed in the present case. It di­vides itself into two heads: 1. That in effect, upon its true construction, it is a direct con­veyance from husband and wife to the use of themselves, and therefore void. 2. That at most, it is a bargain and sale, attempting to create a use upon a use, and as this is void at law, Hr. Kitchie can take no estate by way of use; and to give effect to the deed, as a trust, would be not in furtherance, but in de­struction of the intent of the parties.</p>
+                <p id="b127-7" pgmap="127(511) 128(61)">Before proceeding to consider this objec­tion, it may be necessary to say a few words as to the doctrine of uses, and the different kinds of conveyances known to the common law. Before the statute of uses, all uses were held but as trusts and confidences an­nexed to the land; and not legal estates rec­ognized at the common law. The feoffee to-­uses was deemed the legal owner of the land; and the use, with some exceptions, in­troduced by statutes, was deemed a trust, which could be alone enforced in the court of chancery. Then came the statute of uses, which ordained, that such as had the use of lands should, to all intents and purposes, be reported and taken to be absolutely seised and possessed of the soil itself. 2 Bl. Comm. 137, 331. So that the interest of cestui que use was; by this means, changed from an equitable, into a legal estate; for the statute executed the use to the possession, and made cestui que use complete legal owner, to all intents and purposes, annihilating the inter­mediate estate of the feoffee. But the courts of common law in the construction of the statute, soon adopted a narrow and illiberal mode of interpretation, and held that a use could not be limited on a use. So that if A. made a feoffment to B. and his heirs, to the use of C. and his heirs, in trust for D. and his heirs, they held that the statute executed only the first use, and that the second was a mere nullity; thereby throwing all such trusts back again into equity. This consid­eration made it very important to examine the operation of different modes of convey­ancing upon uses. _ There are two modes of conveyancing by which uses may be raised. The first is such as operates by a transmuta­tion of the estate of the grantor, such as a fine, feoffment, recovery, or deed of lease and release. By these a seisin is immedi­ately transferred to the grantee, out of which the uses may be served. The other mode operates, not by a transmutation of the es­tate of the grantor, but the use is served out of the grantor’s seisin, and then the use is executed by the statute. Of the latter de­scription are bargains and sale, and cove­nants to stand seised to uses. Bargains and sales were introduced before the statute of uses; but they were then considered, not as a conveyance of the estate of the bargainor, but as a mere contract to convey, which cre­ated a trust in favour of the bargainee. When the statute of uses came, this trust was immediately executed, and thus the use was united to the estate in the bargainee. But no further or secondary use could be lim­ited upon such conveyance; for it was the limitation of a use upon a use, and therefore such limitation was deemed repugnant and void. 2 Bl. Comm. 335; Co. Litt. 271b; Plowd. 301; 4 Cruise, Dig. tit. 32 c. 12, § 28, p. 193. The same doctrine applies to cove­nants to stand seised, this latter conveyance being principally distinguished from a bar­gain and sale by the fact, that a bargain and sale arises upon a pecuniary consideration, and a covenant to stand seised, upon the consideration of blood or marriage.</p>
+                <p id="b128-3" pgmap="128">With these principles in view, which are indeed common learning, let us now proceed to the consideration of the objection, as to the nature and operation of the deed of Ritchie and his wife to Knapp. The object of the deed is perfectly clear. It is to con­vey the estate of the wife, so that it shall be for the use of the husband and wife during their joint lives, and for the use of the sur­vivor, in fee simple. It is not in form a di­rect conveyance between husband and wife to and for each other; but it is a conveyance to a stranger both by blood and marriage &lt;for such Knapp is agreed to be), purporting to be in consideration of the marriage, and also of a pecuniary consideration paid by Knapp to the grantors. If we hold the deed utterly void, we defeat the manifest intent of all the parties. It leaves the estate in the wife without creating any of the uses, for which the parties executed the deed. If it has any operation whatsoever, it oper­ates either to convey the estate of the wife to Knapp, as a use created by the deed, and executed in him by the statute of uses (which forms a part of the common law of our land); or as a conveyance, transmuting the posses­sion and seisin to Knapp, under our statute of conveyance, and therefore creating a seis-­in in him sufficient of itself to serve the uses of the deed. In either view it cannot be said to be a direct conveyance from Ritchie and his wife to themselves, for in both views there is a stranger, who is the grantee, and for a valuable consideration. It is said, that the deed must operate in some way known to the common law, or not at all. If by that it be meant, that it must arrange itself dis­tinctly, as one of the kinds of conveyances classed by the common law, the doctrine is not admitted. For, as has been already intim­ated, though a deed be not formally a feoff­ment, or bargain and sale, &amp;c. &amp;c.; yet if it be sufficient in legal construction to pass the estate, under our statute of conveyances, it is good, and binds all persons. In such case, if it be not a feoffment, it has an operation equivalent to it; and if it be not a bargain and sale, it has a like validity. It may be construed, if not in fact, yet in potency and substance, as any conveyance which most fully accomplishes the intention of the parties. If, however, by the argument is intended no more, than that the deed must be construed, as to its terms and effects, by the rules of the common law, that is not questioned. The deed has not been contended to be a covenant to stahd seised; and probably could not be sustained in that aspect. The difficulties are, that it has a pecuniary con­sideration, and that the grantee is a stranger both by blood and marriage. However, I desire not to be absolutely bound by this in­timation, as there really seems much reason for holding, that, where the grantee is a mere conduit or instrument for uses, which do in fact arise from blood and marriage, and he himself takes no interest, the deed shall work effectually to the use of persons included within the consideration of blood and marriage. Jackson v. Sebring, 16 Johns. 515; 2 Saund. Uses, p. 90; 3 Salk. 384; Plowd. 307; Comyn, Dig. “Covenant,” 6 3. Then again it is said, that it cannot operate as a bargain and sale, for that will be against the intention of the parties; for it will be a conveyance to the use of Knapp, and then the subsequent use to the husband and wife, being a use upon a use, will be void.</p>
+                <p id="b128-6" pgmap="128(402) 129(448)">Now in construing deeds, we must take the whole together; and if any rational exposition can be made to give effect to the deed, that exposition ought to be adopted, “ut res magis valeat, quam pere-­at.” Clanrickard’s Case, Hob. 277 ; 2 Saund. 96, and note 1. The intention here is clear to convey to Knapp; the pecuniary consideration paid by him, is sufficient to raise a use to him, and make the convey­ance a bargain and sale. Why then, since it may have this operation, ought not the court to give it? The reason assigned, is that the parties intended no use to him, but a legal use to the husband and wife. In my judgment this is assuming a partic­ular, to defeat the general intention. The parties must be presumed to know the le­gal effect of their own instrument If they meant it to be a mere bargain and sale, then the second uses to husband and wife, though void at law as uses, yet are good in equity as trusts. No one can now doubt, that it is competent to parties in this state to create fiduciary estates, and that convey­ances for this purpose are valid in law. There is no absurdity and no repugnancy to any intention expressed in the deed, in con­sidering the use to be by way of trust U is not declared, that, if the conveyance can­not operate so as to create a legal and ex­ecuted use in the grantees, the deed shall be utterly void. On the contrary, if the deed can operate only as a bargain and sale, then if the parties are to be presumed conusant of and bound by the law, they meant in fact to create a trust estate under the denomina­tion of a use; that is, they meant to create a use upon a use, which is perfectly good in equity, and not prohibited by any rule of law. In this view of the case, though the tenant could not, if he were demandant, re-­jover the land in a suit at law; yet he could maintain a suit in equity to enforce the trust; and the title of the demandants by descent would be completely cut off. So that, at all events, they would not be entitled to recover in the present suit. If I were driven to con­strue the present deed a mere bargain and •sale, I should not entertain the slightest doubt of its validity, and that it passed the ■estate by an executed use to Knapp. And whether the- uses ever could be enforced or not, as they were not illegal, they could not avoid the legal operation of the conveyance to him. It is by no means true, that be­•cause a deed cannot have operation by law to the full extent intended, it shall have no ■operation at all. On the contrary, it has been held, that if a covenant be made to ■stand seised to the use of a person related to the covenanter by blood or marriage, and •of a stranger, the whole use will vest in the relation. 2 Rolle Abr. 783, pl. 4; Id. 784, pl. 5; Comyn, Dig. “Covenant,” G 3, G 5. See also Shep. Touch. 512, 513; 3 Salk. 385; Plowd. 307; 2 Saund. Uses, 92. But in m'y judgment the present deed may well be con­strued as a feoffment; and in that view, by transmutation of the possession, Knapp be­came seised of the estate, so as to serve the subsequent uses out of his seisin, and they became, by the statute of uses, executed in Ritchie and his wife. The words of the con­veyance are, “grant, bargain, sell, and con­vey.” Now the word “grant” is nomen gen-­•eralissimum. It' concludes all sorts of conveyances. In Co. Litt. 301b, it is said, that the words “ ‘dedi’ or ‘eoncessi,’ may ■amount to a grant, a feoffment, a gift, a lease, a release, a confirmation, a surrender, &amp;c.; and "it is in the election of the party to use, to which of these purposes he will.” See, also, 2 Saund. 96, and note 1. The word “convey,” is, at least, of as general an import. No pre­cise words are necessary to a feoffment; and therefore a conveyance by other words, as well as by the word “enfeoff,” amounts to a feoffment. Comyn, Dig. “Feoff. A. 3; 2 Rolle, 73. Kven a conveyance by the words “bar­gain and sell,” if accompanied by lively of ■seisin, has been held a feoffment. Comyn, Dig. “Feoff.” A 3; C Mass. 24; 1 Deon. 25. And therefore these words, in Massachusetts, may well operate as a feoffment, if it will best effectuate the intention of the parties, • since livery of seisin is here dispensed with, and an ackno-wledgment and registry of the ■deed is substituted for it. Id. In the old ■ charters of feoffment, the word “enfeoff,” is not found; but “dedi” and “eoncessi.” 2 Bl­. Comm. 369; Id. Append, i.</p>
+                <p id="b129-8" pgmap="129">Why then shall not the present deed be eon-­•strued as a feoffment, since thereby complete effect is given to the intention of the parties ' in the very way, which avoids any trust, and • creates uses capable of being executed by the ■ statute? The only objection stated at the bar is, that, a feme covert cannot, by the common law, convey her estate by feoffment. Nei­ther could she, by bargain and sale, lease or release, or in short by any other deed in pais. 'This objection therefore, if well founded at .all, goes entirely to overthrow the established usage of the country, that a feme covert can • convey by deed, and otherwise than by fine or feoffment. The usage enables her to convey her estate, and to transmute by deed the uses in, and possession, to the grantee. She must therefore have as much right to convey by feoffment, as by any other mode of convey­ance by deed. And if even the deed be deemed anomalous, and a nondescript, still if its efficacy is, as it must be admitted to be, to transfer her estate to another, when such is the intent, it gives the grantee a complete seisin, possession, and title, and these are sufficient to serve the uses. Whether, there­fore, it operates as a feoffment, or quasi feoff­ment is immaterial. The transfer of the es­tate is the substance; the method is unimpor­tant. If transferred in fact, then by opera­tion of the well settled principles of law, the grantee may be seised to the other uses. Nay more, if it were not true, that her convey­ance may operate as a feoffment, or quasi feoffment, she could not transfer her estate, to such uses as the present, by the operation of double deeds, which power is not denied. And for myself I am free to say, that I can discern no legal difference between a single deed, which, at the same time, transfers the estate and declares the uses; and two deeds executed at the same time, one of which transfers the estate, and the other gives it back to the same uses. Both of these deeds must be construed together as parts of one transaction. If there be any distinction, it is only so far as they may be supposed to indi­cate a difference of intention; but supposing no difference of intention, then their legal effect ought to be the same. If indeed they are executed at different times, they may ad­mit of very different considerations.</p>
+                <p id="b129-14" pgmap="129(234) 130(659)">My judgment accordingly is, supposing the point to be res integra, that the present deed is effectual, and operates as a feoffment to Knapp, and raises the uses expressed there­in, so that Ritchie and his wife became seised of the estate by the execution of the uses, and in the events which have hap­pened, he is now the sole legal owner of the fee. But this is not res integra. The same questions arose, and were decided, in the case of Thatcher v. Omans, before the su­preme court in Plymouth county, in May term, 1792. The suit grew out of a deed made by Moses Gill and wife, to John Scott, in December, 1770, in all respects the same with the deed before the court (-which indeed seems to have been drawn from it), ex­cept that, in the granting part, the words “give” and “enfeoff” were added, the clause being, “do give, grant, bargain, sell, enfeoff, and convey.” The demandants claimed as heirs at law of Mrs. Gill; the tenants claimed under Moses Gill, who, by the death of his wife, was the asserted owner in fee under the deed. The cause came on, upon a special verdict, and was argued by the late Governor Sullivan and lieutenant Governor Levi Lincoln for the tenants, and by the late Chief Justice Parsons for the demandant. The court unanimously gave judgment for the tenants, affirming thereby, in the most solemn manner, the validity and sufficiency of the deed to pass the wife’s estate to the uses expressed in the deed. The grounds of this decision have been somewhat differently represented in different books. In Sulli­van’s Land Titles (pages 209, 210), a report, in some respects incorrect, is given of the case, and it is said, that the court were unan­imously of opinion, “that the conveyance to Scott was a covenant in Gill and his wife to stand seised to their own use, as joint tenants for the life of both, and in fee for the survivor, and the heirs of the survivor without limitation; by which the estate was vested in him as survivor in fee sim­ple.” In Marshall v. Fisk, 6 Mass. 24, 32, Chief Justice Parsons said, “In this state, a deed, purporting to be a bargain and sale to A. and his heirs, to the use of B. and his heirs, has been holden, in the case of Thach­er v. Omans, to be a feoffment, and not by way of use, and that the estate passed to B., by way of use, by virtue of the statute of uses.” The learned judge is not quite ac­curate in stating, that the deed purported to be a bargain and sale; it purported just as much to be a feoffment. Mr. Dane, in his Abridgement of the Law (4 Dane, Abr. 157), states the judgment to have been, that “this conveyance to Scott, to the use of Gill and wife, was good and valid; at any rate, the court held, that she parted with' her estate by her deed to Scott.” Having been furnished with a copy of the record in the case, I am enabled to say, that Mr. Dane has truly stated the judgment, which was for the tenants, and the question, as put by the jury to the court, turned altogether upon the validity of the deed to Scott. Fortunately, however, the case is not left to These gen­eral statements, though considering the very deep interest excited by the judgment, and the traditions respecting it w'ithin the memory of many counsellors yet alive, these might afford no insecure basis, on which to place our confidence. But the opinion, actu­ally delivered by the late Chief Justice Dana in the case, has been produced at the bar, in his own hand-writing, which shows, very much at large, the grounds of his own judg­ment, and probably also that of the court itself. I have perused that opinion with great care and attention. It exhibits the talents, learning, and sagacity of that emi­nent judge in a very favorable light All the leading arguments, on both sides, are stated, illustrated, and examined, in this opinion. The conclusion, to which his mind arrived, was, that the deed was to be con­sidered as a feoffment, and not a mere bar­gain and sale; that it passed the estate of the wife, and that the uses declared thereon were good and valid to vest the estate in Gill and his wife, as joint-tenants in fee.<footnotemark>2</footnotemark> From a ease so fully argued, and so well considered, which has ever since been, deemed a land-mark in our law, and has. guided the judgment, of conveyancers, I should be extremely loth to depart, even if it seemed to me not originally quite founded in accurate law. In eases of this nature I feel myself bound to administer the iocal law, and when the rules, which regulate-­titles to real estate, are once ascertained ini the state court, they are obligatory upon my judgment. In the present case I have only to say, that my judgment follows and ap­proves the reasonings of Chief Justice Dana;: and the decision in Thacher v. Omans, and others, cannot be departed from without up­rooting some of the solid foundations of the-­tlaw.</p>
+                <p id="b130-6" pgmap="130">• Upon the statement of facts judgment must be entered for the tenants.</p>
+                <footnote label="2">
+                  <p id="b130-4" pgmap="130">2 This opinion has been since printed in 3 Pick. 521, 522.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="120" ORDERLABEL="118" TYPE="page">
+        <fptr FILEID="tiff_00060_1"/>
+        <fptr FILEID="jp2_00060_1"/>
+        <fptr FILEID="alto_00060_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_120.4" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="121" ORDERLABEL="119" TYPE="page">
+        <fptr FILEID="tiff_00061_0"/>
+        <fptr FILEID="jp2_00061_0"/>
+        <fptr FILEID="alto_00061_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_121.3" BETYPE="IDREF" FILEID="alto_00061_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="122" ORDERLABEL="120" TYPE="page">
+        <fptr FILEID="tiff_00061_1"/>
+        <fptr FILEID="jp2_00061_1"/>
+        <fptr FILEID="alto_00061_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_122.4" BETYPE="IDREF" FILEID="alto_00061_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="123" ORDERLABEL="121" TYPE="page">
+        <fptr FILEID="tiff_00062_0"/>
+        <fptr FILEID="jp2_00062_0"/>
+        <fptr FILEID="alto_00062_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_123.3" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="124" ORDERLABEL="122" TYPE="page">
+        <fptr FILEID="tiff_00062_1"/>
+        <fptr FILEID="jp2_00062_1"/>
+        <fptr FILEID="alto_00062_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_124.4" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="125" ORDERLABEL="123" TYPE="page">
+        <fptr FILEID="tiff_00063_0"/>
+        <fptr FILEID="jp2_00063_0"/>
+        <fptr FILEID="alto_00063_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_125.4" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="126" ORDERLABEL="124" TYPE="page">
+        <fptr FILEID="tiff_00063_1"/>
+        <fptr FILEID="jp2_00063_1"/>
+        <fptr FILEID="alto_00063_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_126.4" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="127" ORDERLABEL="125" TYPE="page">
+        <fptr FILEID="tiff_00064_0"/>
+        <fptr FILEID="jp2_00064_0"/>
+        <fptr FILEID="alto_00064_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_127.3" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="128" ORDERLABEL="126" TYPE="page">
+        <fptr FILEID="tiff_00064_1"/>
+        <fptr FILEID="jp2_00064_1"/>
+        <fptr FILEID="alto_00064_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_128.4" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="129" ORDERLABEL="127" TYPE="page">
+        <fptr FILEID="tiff_00065_0"/>
+        <fptr FILEID="jp2_00065_0"/>
+        <fptr FILEID="alto_00065_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_129.3" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="130" ORDERLABEL="128" TYPE="page">
+        <fptr FILEID="tiff_00065_1"/>
+        <fptr FILEID="jp2_00065_1"/>
+        <fptr FILEID="alto_00065_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_130.6" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.5" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.6" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            <area BEGIN="BL_127.7" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b127-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_127.8" BETYPE="IDREF" FILEID="alto_00064_0"/>
+            <area BEGIN="BL_128.1" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b121-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_121.6" BETYPE="IDREF" FILEID="alto_00061_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.5" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADC" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.18" BETYPE="IDREF" FILEID="alto_00060_1"/>
+            <area BEGIN="BL_120.19" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-8" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.9" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b123-9" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.12" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            <area BEGIN="BL_124.1" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-5" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.6" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            <area BEGIN="BL_124.7" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-21" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.24" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.7" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            <area BEGIN="BL_129.1" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b128-3" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_128.5" BETYPE="IDREF" FILEID="alto_00064_1"/>
+            <area BEGIN="BL_128.6" BETYPE="IDREF" FILEID="alto_00064_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-8" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.5" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            <area BEGIN="BL_129.6" BETYPE="IDREF" FILEID="alto_00065_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b129-14" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_129.7" BETYPE="IDREF" FILEID="alto_00065_0"/>
+            <area BEGIN="BL_130.2" BETYPE="IDREF" FILEID="alto_00065_1"/>
+            <area BEGIN="BL_130.3" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.7" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            <area BEGIN="BL_127.1" BETYPE="IDREF" FILEID="alto_00064_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-7" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.8" BETYPE="IDREF" FILEID="alto_00062_1"/>
+            <area BEGIN="BL_125.1" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            <area BEGIN="BL_125.2" BETYPE="IDREF" FILEID="alto_00063_0"/>
+            <area BEGIN="BL_126.1" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b126-3" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_126.5" BETYPE="IDREF" FILEID="alto_00063_1"/>
+            <area BEGIN="BL_126.6" BETYPE="IDREF" FILEID="alto_00063_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b124-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_124.5" BETYPE="IDREF" FILEID="alto_00062_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-4" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.7" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b130-6" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_130.8" BETYPE="IDREF" FILEID="alto_00065_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b122-3" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_122.5" BETYPE="IDREF" FILEID="alto_00061_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXJ" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_123.10" BETYPE="IDREF" FILEID="alto_00062_0"/>
+            <area BEGIN="BL_123.11" BETYPE="IDREF" FILEID="alto_00062_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-13" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.14" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-16" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.17" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-15" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.16" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b120-14" BETYPE="IDREF" FILEID="casebody_0060"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_120.15" BETYPE="IDREF" FILEID="alto_00060_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

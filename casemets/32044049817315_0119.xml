@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0119" publicationstatus="published">
+          <court abbreviation="E.D.N.C." jurisdiction="United States">United States District Court for the Eastern District of North Carolina</court>
+          <name abbreviation="In re Jackson">In re JACKSON</name>
+          <docketnumber>Case No. 7,128</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 204</citation>
+          <citation category="parallel" type="bluebook">8 N. B. R. 424</citation>
+          <decisiondate>1874</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00103_1" MIMETYPE="image/tiff" CHECKSUM="27f77a823207c7037dff6607cc994b79" CHECKSUMTYPE="MD5" SIZE="34010">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00103_1.tif"/>
+      </file>
+      <file ID="tiff_00104_0" MIMETYPE="image/tiff" CHECKSUM="715ab00d4a00e8ac3a4c46c1f2bc6d0f" CHECKSUMTYPE="MD5" SIZE="66710">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00104_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00103_1" MIMETYPE="image/jp2" CHECKSUM="1ab21da980328e41a197ac0eb9285955" CHECKSUMTYPE="MD5" SIZE="1746720">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00103_1.jp2"/>
+      </file>
+      <file ID="jp2_00104_0" MIMETYPE="image/jp2" CHECKSUM="9c32ae9e9dce1cd45003d14d0794fdf2" CHECKSUMTYPE="MD5" SIZE="2873175">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00104_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00103_1" MIMETYPE="text/xml" CHECKSUM="06a5feb3075ad99bc92abc1945727514" CHECKSUMTYPE="MD5" SIZE="61620">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00103_1.xml"/>
+      </file>
+      <file ID="alto_00104_0" MIMETYPE="text/xml" CHECKSUM="fdfc8db7ca0de4f8e0d8e142e6d80a29" CHECKSUMTYPE="MD5" SIZE="140364">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00104_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0119" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="205" firstpage="204">
+              <court pgmap="206" id="b206-11">District Court, E. D. North Carolina.</court>
+              <docketnumber pgmap="206" id="b206-8">Case No. 7,128.</docketnumber>
+              <citation pgmap="206" id="b206-10">[8 N. B. R. 424.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="206" id="b206-9">In re JACKSON.</parties>
+              <decisiondate pgmap="206" id="A_6">1874.</decisiondate>
+              <attorneys pgmap="207" id="b207-3">J. W. Hinsdale, for creditor.</attorneys>
+              <attorneys pgmap="207" id="b207-4">B. Fuller, for bankrupt.</attorneys>
+              <footnote label="1">
+                <p pgmap="206" id="b206-19">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="207" id="b207-5">BROOKS, District Judge.</author>
+                <p pgmap="207" id="ASYm">When the bank­rupt appears before the register to take and subscribe the final oath, he may be examined by any creditor, or by the assignee in the interest of creditors, with the view to show that the requirements of the act, or some one of such requirements, have not been con­formed to. To this end any creditor may question him particularly, whether he has done or permitted any of the acts forbidden, or if he has failed or omitted to perform any of the acts specified to be done in the twenty-­ninth section of the act [of 1807 (14 Stat. 531)]. If the creditor making such examina­tion desire the questions and answers, or the examination in any form, reduced to writing by the register, such creditor must pay to the register his fees per folio — as for other depositions. This would be a service ren­dered at such creditor’s request, and would come under an express provision of the law.</p>
+                <p pgmap="207" id="b207-6">In conducting such examination the regis­ter should use that discretion which a judge is often called upon to exercise. He should not so restrict the inquiries as to keep back any pertinent truth, nor allow a useless con sumption of time, or the debtor to be merely harassed. The fees to be paid by the cred­itor would not embrace the per diem compen­sation to the register, or his fee for admin­istering the oath, or the certificate referred, as these are required to be performed if no creditor appears.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="206" ORDERLABEL="204" TYPE="page">
+        <fptr FILEID="tiff_00103_1"/>
+        <fptr FILEID="jp2_00103_1"/>
+        <fptr FILEID="alto_00103_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.4" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="207" ORDERLABEL="205" TYPE="page">
+        <fptr FILEID="tiff_00104_0"/>
+        <fptr FILEID="jp2_00104_0"/>
+        <fptr FILEID="alto_00104_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_207.5" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-4" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.8" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_6" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.16" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-6" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.12" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-5" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.9" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b207-3" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.7" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASYm" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_207.10" BETYPE="IDREF" FILEID="alto_00104_0"/>
+            <area BEGIN="BL_207.11" BETYPE="IDREF" FILEID="alto_00104_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-9" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.13" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-19" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.24" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-8" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.12" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-11" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.15" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-10" BETYPE="IDREF" FILEID="casebody_0119"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.14" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0221" publicationstatus="published">
+          <court abbreviation="D. Me." jurisdiction="United States">United States District Court for the District of Maine</court>
+          <name abbreviation="The Eliza">The ELIZA</name>
+          <docketnumber>Case No. 4,348</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 459</citation>
+          <citation category="parallel" type="bluebook">2 Ware (Dav. 316) 318</citation>
+          <decisiondate>1847-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00231_0" MIMETYPE="image/tiff" CHECKSUM="47129b203893ea7688c832881c75933a" CHECKSUMTYPE="MD5" SIZE="79572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00231_0.tif"/>
+      </file>
+      <file ID="tiff_00231_1" MIMETYPE="image/tiff" CHECKSUM="17a338790bead70037f1f7d9b70984cf" CHECKSUMTYPE="MD5" SIZE="116452">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00231_1.tif"/>
+      </file>
+      <file ID="tiff_00232_0" MIMETYPE="image/tiff" CHECKSUM="1c99706c294486b50c298c17fbf4330b" CHECKSUMTYPE="MD5" SIZE="29116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00232_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00231_0" MIMETYPE="image/jp2" CHECKSUM="230982c71e0b73db98c29cd4a4b2fd79" CHECKSUMTYPE="MD5" SIZE="3049562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00231_0.jp2"/>
+      </file>
+      <file ID="jp2_00231_1" MIMETYPE="image/jp2" CHECKSUM="acd483ba3c6eb7aa47cead53ca39c293" CHECKSUMTYPE="MD5" SIZE="3808790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00231_1.jp2"/>
+      </file>
+      <file ID="jp2_00232_0" MIMETYPE="image/jp2" CHECKSUM="39170217aca8d0c4c01bffbacc9fca95" CHECKSUMTYPE="MD5" SIZE="1796379">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00232_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00231_0" MIMETYPE="text/xml" CHECKSUM="5c1393e7f31cd8c953c38d72f4ab1649" CHECKSUMTYPE="MD5" SIZE="165496">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00231_0.xml"/>
+      </file>
+      <file ID="alto_00231_1" MIMETYPE="text/xml" CHECKSUM="e3f11291a2b10a47ef4dfc5e27f0e17c" CHECKSUMTYPE="MD5" SIZE="246486">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00231_1.xml"/>
+      </file>
+      <file ID="alto_00232_0" MIMETYPE="text/xml" CHECKSUM="926876033a2bb0e856b06346cb295f08" CHECKSUMTYPE="MD5" SIZE="51005">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00232_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0221" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="461" firstpage="459">
+              <court id="AoN7" pgmap="461">District Court, D. Maine.</court>
+              <docketnumber id="b461-7" pgmap="461">Case No. 4,348.</docketnumber>
+              <citation id="b461-9" pgmap="461">[2 Ware (Dav. 316) 318.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b461-8" pgmap="461">The ELIZA.</parties>
+              <decisiondate id="Ai8" pgmap="461">March, 1847.</decisiondate>
+              <attorneys id="b461-16" pgmap="461">Mr. Haines, for libellant</attorneys>
+              <attorneys id="b461-17" pgmap="461">Howard &amp; Leland, for owner and respond­ent</attorneys>
+              <footnote label="1">
+                <p id="b461-18" pgmap="461">1 [Reported by Edward H. Daveis, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b462-2" pgmap="462">WARE, District Judge.</author>
+                <p id="Acdp" pgmap="462">The fact, that a ■contract of affreightment was made and the ■cargo taken on board in pursuance of the ■contract is admitted. The controversy is, what were the terms of the contract? The libellant contends that it was a contract in the ordinary and usual terms of such en­gagements, to receive the cargo on board and to proceed on the voyage without un­necessary delay. The owners allege that it was conditional; that it was to receive the cargo on board where the schooner lay, and drop down to the lower ferry, and then to proceed on the voyage as soon as a master •and crew could be obtained to navigate her; the vessel being small, and the voyage at that season being hazardous, that their en­gagement to perform the voyage was made subject to the condition that a master and crew could be obtained, and that they have made all reasonable efforts to procure a master and have not been able to succeed. It is proved that they applied to several masters to take charge of the vessel, who •all, for various reasons, declined; but not particularly on account of the dangers of the voyage.</p>
+                <p id="b462-3" pgmap="462">The question then, which is before us at this time, is this, What were the terms of the contract? Was it absolute or condition­al? It was not reduced to writing, and no witness appears to have been present when it was concluded. The terms cannot there­fore be learnt from direct evidence. One witness has been examined, who was pres­ent when the application was first made by Davis, the libellant, to Gilpatrick, one of the owners. He says he went with Davis and introduced him to Gilpatrick, and that Gil-­patriek offered him the vessel for $100 for the run. No condition was annexed to the offer, and nothing was said about a master. The contract was not made at this time, but the witness went with Davis to examine the vessel. Ellis, another witness, was pres­ent at a subsequent conversation on the first of December, and at this time it ap­pears that the contract had been made, or that it was then made, for the price was mentioned which was to be paid for the run. At this time, Gilpatrick stated to Davis that he had no master or crew, that his clerk was to be absent, and that he could not attend to loading her that day. To which Davis replied that he had men whom he could employ, and that he, Davis, would assist in loading, and the cargo was in fact put on. board that day, in part by men employed by the owner, and in part by Davis. The testimony of this witness brings us nearer to the contract than any ■other part of the evidence, as it seems prob­able that the bargain was then concluded. But, unfortunately, he heard biit part of the ■conversation. He says that Davis offered eighty dollars for the run — the sum that was finally agreed — and this, connected with the remark of the owner that he had no master engaged, renders it highly probable that the bargain was not concluded before. Why was this difficulty interposed by the owner, that is, the want of a master and crew? The circumstances, I think, easily and naturally explain it The vessel was lying at some distance up the river, and it was about time for the navigation to be closed by the ice. If the- schooner was to perform the voyage, she must be ready im­mediately, or the voyage would be prevented by the ice. The cargo must be taken on board at once. The owner, therefore, ob­jected that he had no master and crew; and to obviate it, Davis replied that men might be employed for that purpose, and that he would himself assist; and the vessel was in fact loaded that day. It seems, therefore, altogether probable that the want of a master and crew was mentioned in ref­erence to the necessity of immediately put­ting the cargo on board, and not to the ultimate performance of the voyage, if she could be loaded and carried down to the head of winter navigation before the river closed. There is other testimony that bears more or less on this matter, the want of a master; but taken altogether, it does not materially vary the posture of the case as it is left by the testimony of this witness.</p>
+                <p id="b462-6" pgmap="462(297) 463(88)">The conclusion to which I am brought by the evidence is, that the contract was not made dependent on a condition that a mas­ter and crew could be found, but that it was, as charged in the libel, in the ordinary form, that the vessel should proceed on her voyage without unnecessary delay. It is true that every engagement to perform a future act is, in one sense, conditional. If it becomes impossible by any event not im­putable to the party who is bound to per­form it, unless he assumes the risk of all contingencies, he is excused. The law com­pels no one to impossibilities. Poth. Oblig. 148; 6 Toull. 227. Those events called acci­dents of major force, or fortuitous events, or the acts of God, always constitute an implied condition, in every engagement, for a future act. If the vessel had been burnt by an accidental fire, or destroyed by a tempest, this would have been a valid ex­cuse. But the difficulty of obtaining a mas­ter and crew is not one of those contin­gencies implied in a contract of affreight­ment, to excuse a non-performance of the contract It is not unusual for an owner to engage a vessel for a voyage before he has engaged a master, and a crew is rarely engaged until the voyage is determined upon and the vessel nearly ready for sea. These contingencies the owner takes on himself. I do not mean to say that the difficulty of obtaining a master and crew to navigate a vessel may not be such as to amount to an impossibility, and thus come within the class of fortuitous events that will excuse a party from performing his engagement. But the circumstances must be very extraor­dinary to amount to a justification. It is proved by the testimony, that the owner made efforts to obtain a master. Five dif­ferent persons were applied to without success. But others might have been found, if not in Saco, in some of the neighboring towns. And I do not think that any such extreme case is proved, as will excuse the owner from his engagement, under the no­tion that it has become impossible by a fortuitous event or an accident of major force. Decree for libellant.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="461" ORDERLABEL="459" TYPE="page">
+        <fptr FILEID="tiff_00231_0"/>
+        <fptr FILEID="jp2_00231_0"/>
+        <fptr FILEID="alto_00231_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_461.2" BETYPE="IDREF" FILEID="alto_00231_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="462" ORDERLABEL="460" TYPE="page">
+        <fptr FILEID="tiff_00231_1"/>
+        <fptr FILEID="jp2_00231_1"/>
+        <fptr FILEID="alto_00231_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_462.3" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="463" ORDERLABEL="461" TYPE="page">
+        <fptr FILEID="tiff_00232_0"/>
+        <fptr FILEID="jp2_00232_0"/>
+        <fptr FILEID="alto_00232_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_463.6" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-9" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.11" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-8" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.10" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-6" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.9" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_463.3" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Acdp" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.5" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_462.6" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-7" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.9" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoN7" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.12" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-2" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.4" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b462-3" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_462.7" BETYPE="IDREF" FILEID="alto_00231_1"/>
+            <area BEGIN="BL_462.8" BETYPE="IDREF" FILEID="alto_00231_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ai8" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.13" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-18" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.21" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-17" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.20" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b461-16" BETYPE="IDREF" FILEID="casebody_0221"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_461.19" BETYPE="IDREF" FILEID="alto_00231_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

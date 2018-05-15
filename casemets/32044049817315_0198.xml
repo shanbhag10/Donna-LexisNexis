@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0198" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Jane Campbell">The JANE CAMPBELL</name>
+          <docketnumber>Case No. 7,205</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 341</citation>
+          <citation category="parallel" type="bluebook">20 Leg. Int. 125</citation>
+          <decisiondate>1862-02-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00172_0" MIMETYPE="image/tiff" CHECKSUM="feb474d805f3ac26e44360c38f59a0e3" CHECKSUMTYPE="MD5" SIZE="31478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00172_0.tif"/>
+      </file>
+      <file ID="tiff_00172_1" MIMETYPE="image/tiff" CHECKSUM="a2bbc221920e5c9f9295d492877304bc" CHECKSUMTYPE="MD5" SIZE="119542">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00172_1.tif"/>
+      </file>
+      <file ID="tiff_00173_0" MIMETYPE="image/tiff" CHECKSUM="cd0f902249d5cb5d33305cbed2ec37b6" CHECKSUMTYPE="MD5" SIZE="116276">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00173_0.tif"/>
+      </file>
+      <file ID="tiff_00173_1" MIMETYPE="image/tiff" CHECKSUM="fe628f4518d64941f342fc919a3076a8" CHECKSUMTYPE="MD5" SIZE="88848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00173_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00172_0" MIMETYPE="image/jp2" CHECKSUM="8ede5c8bcec9f98e37c8cd70ddf79134" CHECKSUMTYPE="MD5" SIZE="2128046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00172_0.jp2"/>
+      </file>
+      <file ID="jp2_00172_1" MIMETYPE="image/jp2" CHECKSUM="cdea05a4e3c170bdb25c1d40155eab7e" CHECKSUMTYPE="MD5" SIZE="3885773">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00172_1.jp2"/>
+      </file>
+      <file ID="jp2_00173_0" MIMETYPE="image/jp2" CHECKSUM="3215ffe8fd6594665182342e64800029" CHECKSUMTYPE="MD5" SIZE="3867196">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00173_0.jp2"/>
+      </file>
+      <file ID="jp2_00173_1" MIMETYPE="image/jp2" CHECKSUM="dcebd185d376dd696dbb88aa925b0c9e" CHECKSUMTYPE="MD5" SIZE="3364216">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00173_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00172_0" MIMETYPE="text/xml" CHECKSUM="3b71e36d6c21f864c4a5d6605b5759db" CHECKSUMTYPE="MD5" SIZE="61869">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00172_0.xml"/>
+      </file>
+      <file ID="alto_00172_1" MIMETYPE="text/xml" CHECKSUM="d298422dafa2293bae8533353c6561dc" CHECKSUMTYPE="MD5" SIZE="235013">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00172_1.xml"/>
+      </file>
+      <file ID="alto_00173_0" MIMETYPE="text/xml" CHECKSUM="92f088e42ad5b384667e0b6bb8a26c36" CHECKSUMTYPE="MD5" SIZE="240892">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00173_0.xml"/>
+      </file>
+      <file ID="alto_00173_1" MIMETYPE="text/xml" CHECKSUM="8ccb2751706dc91e45087ed2bfb90da3" CHECKSUMTYPE="MD5" SIZE="185323">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00173_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0198" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="344" firstpage="341">
+              <court pgmap="343" id="A_o">District Court, S. D. New York.</court>
+              <docketnumber pgmap="343" id="b343-33">Case No. 7,205.</docketnumber>
+              <citation pgmap="343" id="AcMG">20 Leg. Int. 125.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="343" id="AFR7">The JANE CAMPBELL.</parties>
+              <decisiondate pgmap="343" id="AIIX">Feb. 25, 1862.</decisiondate>
+              <p pgmap="343" id="AqJ">[Blatchf. Pr. Cas. 101;</p>
+              <footnote label="1">
+                <p pgmap="343" id="b343-49">1 [Reported by Samuel Blatchford, Esq. 20 Leg. Int. 125, contains only a partial report.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="343" id="b343-48">BETTS, District Judge.</author>
+                <p pgmap="343(89) 344(316)" id="AKy">This vessel and cargo were seized at sea, off the port of Beaufort, North Carolina, on the 14th of December, 1861, by the United States steam­ship of war State of Georgia, and sent into this port as prize, and libelled by the United States and her captors, January 3, 1862. Several other vessels-of-war were, at the time, present at the same station. On the 21st of January, George Campbell interven­ed and claimed the vessel and cargo, as sole owner of both. The claim of the owner and the protest .of -the ‘ owner arid .master set forth with. :great;'.particularity the. grounds upon which the rightfulness of the seizure is contested, and these particulars are reiter­ated in substance on the' examination in pre-­.paratorio of-those parties. No exception is-­taken by the. libellants to that mode of de-: fence. The main grounds upon which the ■ arrest is maintained, oh the part of the 11-' bellants; are that the -vessel and cargo were ' really enemy property, though simulated as neutral; that both were procured fraudu­lently,- and with intent to violate the block­ade of the port of.Beaufort, North Carolina; and that the voyage had been prosecuted’: for that purpose, • up, to the time of their seizure in , the immediate vicinity of that • port The vessel and cargo belonged whol-; )y to the’ .claimant, and were taken posses-' sion of when approaching a blockaded port, under circumstances which justified a sus­picion that the object was to enter tbe port without- lawful authority or justifiable cause. But a . preliminary question is raised by .the •defence, impeaching the regularity of the proceedings of the captors, which, in itself, it is alleged takes away all legal justification for the arrest. This irregularity is charged to have been the breaking open and spolia­tion of the- cargo by the captors, after the seizure of the vessel; not bringing into port : the master and officers; wrongfully separat­ing the members of the ship’s company from the' vessel, after her capture, and • treating them harshly and unjustly afterwards -and then sending the prize into' the remote port : of New York without them, under the .charge of an incompetent crew; and carry- ; ing the English flag, under which she had been captured lowered, and -the American flag hoisted over it, on her passage and when brought into this port .</p>
+                <p pgmap="344" id="b344-4">The settled rule of prize courts is to re­quire the captors to bring in, for examina­tion before the judge ór commissioners, the master and principal officers and some of the crew of the-captured vessel, and the exam­ination must be confined to them, unless special permission of the court is obtained to examine others. 1 Wheat. [14 U. S.] Ap­pend.; Story, J., note, page 496. Prize law, as administered in the English. American, and French tribunals, also inhibits, under the disallowance of the right of prize to cap­tors, -and the positive infliction of punish­ment by penalties and costs adjudged against them, any irregularities against the property seized or the captured crews, espe­cially where the latter are neutral. 2 Wheat. [15 U. S.] Append, pp. 5-7, and notes, and authorities- there collected. The general principle declared and enforced is that- captors are held responsible for any gross irregularity or wanton impropriety to­wards the property seized or the ship’s com­pany arrested with it, and a satisfactory rea­son will be exacted for any deviation by the captors from the regular course of pro­ceedings'in prize cases.' These doctrines' are recognized and vigorously applied in the French ordinances (Id. note), and by mutual acquiescence among maritime nations,--they supply the restraint which accompany the exercise of belligerent rights under the im­proved administration of prize law.</p>
+                <p pgmap="344(456) 345(356)" id="b344-6">Before considering the countervailing evi­dence, and assuming the proofs to be that the vessel and cargo are neutral property, seized only because of a design and attempt by the vessel to violate-the blockade of the •port of Beaufort, and- that the Blockade was at the time an efficient one, the question arises whether the conduct of the captors after the capture was of a character to de­stroy the legality of the" arrest, and to sub­ject the ' captors, - personally, to punishment for the infringement of the-laws of mari­time warfare. If this was so, it will be im­material to inquire into -the reality of the neutral ownership set up, because such mis­conduct, if established, operates with equal force against the libellants, though the prop­erty seized belongs wholly to the enemy; for the right of seizure by the belligerent captors is dependent upon -the lawful use of that power - by the captors at sea, when made under the authority of the general prize law alone. The first object will, there­fore, be, to fix the character of the miscon­duct ascribed to the libellants, and see whether it was accompanied by circumstan­ces of excuse or mitigation. The evidence as to these charges comes wholly from the claimants. No testimony is furnished on the part of the libellants, nor do they ask permission to put in further proofs in denial or extenuation of the misconduct charged against them, in the' claim .and the proofs thereon. The claim, filed under oath-by the claimant, and supported by the preparatory proofs, alleges, that when the schooner was arrested by the United States ship-of-war State of Georgia* her papers were examined by the boarding officer, and pronounced to be all right; that the schooner was then towed to the anchorage of the United States squadron, to be furnished the repairs she needed; that her cargo was also examined, and the crew of the seizing vessel permitted to help themselves to anything they could get; that the captain of the Albatross, (an­other United States ship-of-war in company,) in the presence and with the assent of the prize master, took from the prize schooner eight muskets, with cartridges and caps, the private property of the claimant, carried on board of the schooner for her protection, none of which have ever been restored to the claimant or the vessel; that the claimant, who was on board of the schooner for the voyage, her mate and three seamen, were wrongfully removed from the vessel, with­out their consent, and were sent by other conveyances to Baltimore, and were there left on shore, without provision or means to reach New York, other than at their own ex­pense; and that the schooner was sent to that port in charge of a prize-master, who was not capable of navigating the vessel to ■New :York, and had to rely on the seaman­ship of her master. The claimant also makes his own and the master’s public protest, at­tested to on the 20th of January, 1862, and annexed to the claim as a part thereof. That sets up and avers, that the prize mas­ter, in bringing the schooner into the port of -New York, when off Barnegat, caused the American flag to be hoisted over the British colors upon her, and the same thing again done when off the Highlands of Neversink, and had these colors so kept up thereafter until , she arrived in port at the navy yard at Brooklyn. The burden is always laid upon captors to prove the existence of an overruling necessity justifying the spoliation of property found on the prize, or the sep­aration of the officers or crew from the cap­tured vessel, or the omission to send them •into port with the prize, for examination. Arnold v. Del Col [Case No. 556]; S. C. 8 Dall. [3 U. S.] 333. The captors will be made personally responsible for goods so em­bezzled [The Concordia, 2 C. Bob. Adm. 103), unless they were properly out of the ac­tual possession of the captors at the time of the spoliation. The Maria, 4 C. Bob. Adm. 352. So, also, if a proper place or proper means are not adopted for bringing the cap­tured property in, for prompt trial. The Washington, 6 C. Bob. Adm. 275. The claim or protests cannot be regarded as affirmative proof in the cause against the libellants, espe­cially those who made the capture, but they sufficiently indicate the exceptions which will be urged on the hearing against the va­lidity of the capture, and should have pla­ced the libellants on their diligence to sup­ply other-proof enabling the court to under­stand correctly the facts of the case, if they have been wrongfully stated or disclosed in the preparatory proofs given.</p>
+                <p pgmap="345" id="b345-4">The evidence, as it stands, in my judg­ment, fastens upon the libellants unjustifiable conduct towards the crew and property on the prize after her- arrest, for which mis­behavior the captors are responsible in dam­ages -to the parties affected thereby, it be­ing in no way excused, or shown to have been, reasonably required by any exigencies of the case. The occurrence may very prob­ably become the subject of diplomatic notice between Great Britain and this country, par­ticularly as to the reprehensible treatment of the English flag; but the claimants are entitled personally to compensation through the authority of the court, for injuries sus­tained by them from unlawful acts of the captors, perpetrated under the seizure, if duly proved on the trial. Although the li-­bellants did not proceed to make the capture of the schooner absolute until seven days after she was in their possession, yet I think the circumstances surrounding her, disclosed in the proof, afforded reasonable grounds of •suspicion that the voyage was set on foot and prosecuted with intent to violate the blockade at Beaufort, North Carolina. The officers of - the vessel, and the owner of the vessel and cargo, who accompanied the voy­age, well knew, before entering upon' it, that a blockade had been imposed at that port. Moreover they had been long resi­dents at that place, or engaged in business there. The schooner was American-built, and was purchased and laden at that port, by the claimants, after the war, with a cargo procured there, and immediately after ar­riving at Liverpool she fitted out, and under­took this voyage, upon which she was ar­rested. But these grounds of suspicion are virtually displaced by the .evidence contain­ed in the papers found on board of the ves­sel, and gathered orally in the preparatory testimony, showing that the vessel was neu­tral property, and was pursuing her voyage, on a proper route, to Cuba, until she was compelled by accidents happening at sea, to seek an intermediate port or resource for im­mediate repairs to render her seaworthy and navigable. The capturing squadron was sat­isfied of the actual necessity for such re­pairs, and attempted to supply them at their anchorage; but, on ascertaining the nature of her lading, her own origin, and the ante­cedent history of her owner, the captors were well justified in arresting her, and referring her to the judicial tribunals to determine whether her original destination was not fraudulently intended for the blockaded port. Had the vessel been captured, at the place of her arrest, .in the course of her naviga­tion as documented, and without evidence of a reasonable necessity for her being placed in such vicinity to a blockaded port, here would be cogent reasons for regarding the voyage as concocted and in execution for the purpose of violating the blockade! But the material disasters she had incurred at sea seem to me to remove the force of that sus­picion, and to place the case before the court as it appeared to the captors on her giving herself into their charge, namely, that her position was reasonably accounted for by her crippled condition, and her ina­bility to pursue and complete the voyage specified upon her papers. The court, on the proofs before it, must regard the owner as a neutral and the ship and cargo as neutral property, regularly documented and destined to a neutral port, and adapted to the trade and commerce of that port. No application having been made on the part of the libel-­lants, to offer further testimony as to the integrity or culpability of the voyage, the general decree must be entered that the ves­sel and cargo be restored to the claimants, but without costs, there being probable cause shown on the proofs for her seizure.</p>
+                <p pgmap="345(29) 346(278)" id="b345-6">The practical method of granting the rem­edy befitting the case has not been discussed or designated before me. Beparation is de­manded by the counsel for the defence against the captors. My first impression is that no formula de novo need be adopted in order to obtain relief for the wrong, büt that the matter may be disposed of as an incident to the suit. All parties entitled to contest the subject are before the court, un­der its cognizance in the original action. This impression will not be regarded as con­clusive of the question in any subsequent case, but for the present purpose I consider it to be at the discretion of the court to order a reference to commissioners or as­sessors, if prayed for, to ascertain and de­termine the amount of damages sustained by the claimant and the crew from the al­leged illegal acts of the captors after the capture, as an incident to the pending suit, or to admit the parties to proceed by plead­ings and proofs anew, and have the charges settled by a more formal method of proceed­ings. There seems to be no necessity for framing a formal issue, upon allegations and counter allegations, when the matter for relief is, in effect, pleaded in the claim, and thus the case is open alike to both parties. The Maria, Spinks, Prize Cas. 321. If no motion is addressed to the court by either party to require the interposition of plead­ings to the point of damages, an order will be entered, if demanded, that the prize com­missioners be appointed to ascertain and re­port to the court the damages sustained by the ship’s company, or any of them, by means of the alleged misconduct of the captors towards them or their property after the capture.</p>
+                <p pgmap="346" id="b346-3">March 6, 1862, on motion of the libellants, they were allowed to put in further proof, within twenty days as to the actual Inten­tion of the claimant to violate the blockade, and the claimant was permitted to give, within the same period further proof of his honesty of purpose. [See Case No. 7206.]</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="343" ORDERLABEL="341" TYPE="page">
+        <fptr FILEID="tiff_00172_0"/>
+        <fptr FILEID="jp2_00172_0"/>
+        <fptr FILEID="alto_00172_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_343.5" BETYPE="IDREF" FILEID="alto_00172_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="344" ORDERLABEL="342" TYPE="page">
+        <fptr FILEID="tiff_00172_1"/>
+        <fptr FILEID="jp2_00172_1"/>
+        <fptr FILEID="alto_00172_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_344.4" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="345" ORDERLABEL="343" TYPE="page">
+        <fptr FILEID="tiff_00173_0"/>
+        <fptr FILEID="jp2_00173_0"/>
+        <fptr FILEID="alto_00173_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_345.4" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="346" ORDERLABEL="344" TYPE="page">
+        <fptr FILEID="tiff_00173_1"/>
+        <fptr FILEID="jp2_00173_1"/>
+        <fptr FILEID="alto_00173_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_346.4" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcMG" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.53" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-6" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.7" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            <area BEGIN="BL_346.1" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-33" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.50" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqJ" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.52" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKy" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.67" BETYPE="IDREF" FILEID="alto_00172_0"/>
+            <area BEGIN="BL_343.68" BETYPE="IDREF" FILEID="alto_00172_0"/>
+            <area BEGIN="BL_344.1" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-48" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.66" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b343-49" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.69" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFR7" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.51" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b345-4" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_345.5" BETYPE="IDREF" FILEID="alto_00173_0"/>
+            <area BEGIN="BL_345.6" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_o" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.54" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-3" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.5" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-6" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.7" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            <area BEGIN="BL_345.1" BETYPE="IDREF" FILEID="alto_00173_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b344-4" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_344.5" BETYPE="IDREF" FILEID="alto_00172_1"/>
+            <area BEGIN="BL_344.6" BETYPE="IDREF" FILEID="alto_00172_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIIX" BETYPE="IDREF" FILEID="casebody_0198"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_343.55" BETYPE="IDREF" FILEID="alto_00172_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

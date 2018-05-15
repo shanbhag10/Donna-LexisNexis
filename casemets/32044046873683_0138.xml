@@ -1,0 +1,257 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0138" publicationstatus="published">
+          <court abbreviation="C.C.E.D. Pa." jurisdiction="United States">United States Circuit Court for the Eastern District of Pennsylvania</court>
+          <name abbreviation="Eckert v. Bauert">ECKERT v. BAUERT et al.</name>
+          <docketnumber>Case No. 4,266</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 288</citation>
+          <citation category="parallel" type="bluebook">4 Wash. C. C. 370</citation>
+          <decisiondate>1823-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00145_1" MIMETYPE="image/tiff" CHECKSUM="7b44ac6bf7306ba7565e8c2743acd941" CHECKSUMTYPE="MD5" SIZE="44576">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00145_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00145_1" MIMETYPE="image/jp2" CHECKSUM="242bed5c4b2fddd48877e0589a09630f" CHECKSUMTYPE="MD5" SIZE="2393729">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00145_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00145_1" MIMETYPE="text/xml" CHECKSUM="f82edcaac7afc0f2a9a7de7ffb7321ee" CHECKSUMTYPE="MD5" SIZE="92260">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00145_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0138" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="288" firstpage="288">
+              <court id="b290-6" pgmap="290">Circuit Court, E. D. Pennsylvania.</court>
+              <docketnumber id="b290-3" pgmap="290">Case No. 4,266.</docketnumber>
+              <citation id="b290-5" pgmap="290">[4 Wash. C. C. 370.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b290-4" pgmap="290">ECKERT v. BAUERT et al.</parties>
+              <decisiondate id="AnO" pgmap="290">April Term, 1823.</decisiondate>
+              <footnote label="1">
+                <p id="AXjG" pgmap="290">1 [Originally published from the MSS. óf Hon. Bushrod Washington, Associate Justice of the Supreme Court of the United Slates, under the supervision of Richard Peters, Jr., Esq.)</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b290-14" pgmap="290">WASHINGTON, Circuit Justice.</author>
+                <p id="ABh" pgmap="290">This court has never, to my recollection, made this order, except in injunction cases, to stay pro­ceedings on a judgment at law, and in cross suits, where the plaintiff at law in the first, and the plaintiff in equity in the second case, resides beyond the jurisdiction of the court In the case of Hitner v. Suckley [Case No. 6,543], decided in this court at the April term 1810, a motion was made that the service of a subpoena upon an injunction bill to stay waste, upon the attorney of the defendant in an action of law depending in this court against the plaintiff in equity, for slandering his title to the land, which formed the sub­ject of the bill, should be considered as good service. The court then laid down the gen­eral rule as to injunction cases to stay pro­ceedings on a judgment of law; but denied the motion in that case; being of opinion that the attorney of the defendant at law, could not be considered as representing him in equity, and that the subjects in- contro­versy in the two suits were totally uncon­nected. I understand the practice of this court to conform to that of the English court of chancery. Motion overruled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="290" ORDERLABEL="288" TYPE="page">
+        <fptr FILEID="tiff_00145_1"/>
+        <fptr FILEID="jp2_00145_1"/>
+        <fptr FILEID="alto_00145_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_290.4" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-3" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.6" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-5" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.8" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-4" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.7" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-6" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.9" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXjG" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.20" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            <area BEGIN="BL_290.21" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnO" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.10" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            <area BEGIN="BL_290.11" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b290-14" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.17" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABh" BETYPE="IDREF" FILEID="casebody_0138"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_290.18" BETYPE="IDREF" FILEID="alto_00145_1"/>
+            <area BEGIN="BL_290.19" BETYPE="IDREF" FILEID="alto_00145_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

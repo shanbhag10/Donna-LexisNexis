@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0483" publicationstatus="published">
+          <court abbreviation="C.C.D.N.J." jurisdiction="United States">United States Circuit Court for the District of New Jersey</court>
+          <name abbreviation="Jones v. Miller">JONES v. MILLER</name>
+          <docketnumber>Case No. 7,482</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 994</citation>
+          <citation category="parallel" type="bluebook">17 N. B. R. 316; 1 N. J. Law J. 113</citation>
+          <decisiondate>1877</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00498_1" MIMETYPE="image/tiff" CHECKSUM="d8d33e31dc079fa130803daf7cc67ee9" CHECKSUMTYPE="MD5" SIZE="100880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00498_1.tif"/>
+      </file>
+      <file ID="tiff_00499_0" MIMETYPE="image/tiff" CHECKSUM="7634f7e0d9035e7aedf55757ea1d1253" CHECKSUMTYPE="MD5" SIZE="47830">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00499_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00498_1" MIMETYPE="image/jp2" CHECKSUM="ad6330577c1b34bf9501fa2a04e12693" CHECKSUMTYPE="MD5" SIZE="3541714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00498_1.jp2"/>
+      </file>
+      <file ID="jp2_00499_0" MIMETYPE="image/jp2" CHECKSUM="712d4babdb6c7cc0ff4feef5fc40e3f8" CHECKSUMTYPE="MD5" SIZE="2237630">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00499_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00498_1" MIMETYPE="text/xml" CHECKSUM="3729b3006fd332194ed6a6df77ed913b" CHECKSUMTYPE="MD5" SIZE="219454">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00498_1.xml"/>
+      </file>
+      <file ID="alto_00499_0" MIMETYPE="text/xml" CHECKSUM="3d8ad1484456571705b17067113066b7" CHECKSUMTYPE="MD5" SIZE="95075">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00499_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0483" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="995" firstpage="994">
+              <court pgmap="996" id="ADN">Circuit Court, D. New Jersey.</court>
+              <docketnumber pgmap="996" id="b996-3">Case No. 7,482.</docketnumber>
+              <citation pgmap="996" id="b996-5">[17 N. B. R. 316; <footnotemark>1</footnotemark> 1 N. J. Law J. 113.]</citation>
+              <parties pgmap="996" id="b996-4">JONES v. MILLER.</parties>
+              <decisiondate pgmap="996" id="Au3A">1877.</decisiondate>
+              <attorneys pgmap="996" id="b996-10">J. Whitehead and T. N. McCarter, for plain-, tiff in error.</attorneys>
+              <attorneys pgmap="996" id="b996-11">C. Borcberling and A. Q. Keasbey, for de­fendant in error.</attorneys>
+              <footnote label="1">
+                <p pgmap="996" id="b996-13">1 [Reprinted from 17 N. B. R. 316, by per­mission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="996" id="b996-12">McKENNAN. Circuit Judge.</author>
+                <p pgmap="996" id="AJyN">The plain­tiff in error was sued in the court below, in trover, by the defendant in error, as assignee of Kauffman &amp; Houck, bankrupts, to recover the value of certain goods of the bankrupts, alleged to have been wrongfully converted to his use. He was the holder of a chattel mortgage executed in December, 1871, by the bankrupts, upon their personal property, consisting chiefly of lager-beer, malt, hops and coal. In August, 1874, he took posses­sion of this mortgaged property and appro­priated it to his own use. Several months after this, proceedings in bankruptcy were commenced against the mortgagors, which resulted in an adjudication against them, and an assignment of all their property, etc., to the defendant in error. This action of trover was then brought by the assignee, and, at the trial, the only evidence of conversion was proof of the possession of the mortgaged chat­tels taken and appropriated to his own use by the defendant in August, 1874. The plain­tiff in error thereupon asked the court to in­struct the jury, “that the assignee could not recover in this form of action, for any prop­erty which was not in actual existence at the time his title accrued.” This request the court refused, and instructed the jury that, •“if they believed the mortgage was given to hinder, delay and defraud the creditors •of the mortgagors, it conveyed no title to the mortgagee, and that by the express provisions •of section 5046 of the Revised Statutes of the United States, the title and right of posses­sion of the mortgaged chattels vested at once in the assignee by virtue-of the deed of the register or district judge, and that an action in trover is the usual and proper remedy to recover the value of the goods thus wrong­fully converted by the defendant to his own use.”</p>
+                <p pgmap="996" id="b996-14">To entitle a plaintiff to maintain an action of trover it is essential that he should be in­vested, at the time of the conversion, with a complete property, either general or special, in the chattels sued for, and with the actual possession or a right to the immediate posses­sion of them. So well settled is this prin­ciple, that Mr. Justice Strong, in Overton v. Williston, 7 Casey (31 Pa. St.) 155, says of it: “Now, if there be any principle beyond dispute, it is that, in an action of trover, the plaintiff must have had a right to the posses­sion of the goods at the time of the conver­sion.” And it is equally true that goods wtongfully transferred and delivered must be regarded as converted as of the date of their delivery, and that the mere adverse and continued enjoyment of them will not give a right of action in trover against the tort feasor to third persons afterwards acquiring a lawful title to them. Overton v. Williston, supra; Garland v. Carlisle, 4 Clark &amp; F. 693. At common law, then, it is clear that the plaintiff below could not maintain trover, for the obvious reason that, at the time of the conversion proved he had no title whatever to the property converted, so that there could be no such invasion of his right of possession to it as an action in this form would be ap­propriate to redress.</p>
+                <p pgmap="996" id="b996-15">It is argued, however, that the bankrupt law [of 1867 (14 Stat. 517)] so defines the interest of the assignee in the property upon which the assignment operates, as to render an action of trover a proper remedy in a case like this, and upon this hypothesis the in­struction complained of seemed to be found­ed. This is claimed to be the effect of the 14th section of that act (Rev. St § 5046). That section enacts that: “All property con­veyed by the bankrupt in fraud of his cred­itors; all rights in equity, choses in action, patent rights and copyrights, all debts due him or any person for- his use, and all liens and securities therefor, and all his rights of action for property or estate, real or per­sonal, and for any cause of action which he had against any person arising from con­tract or from the unlawful taking or deten­tion, or injury to the property of the bank­rupts, and all his rights of redeeming such property or estate; together with the like right, title, power, and authority to sell, man­age, dispose of, sue for, recover or defend the same, as the bankrupt might have had if no assignment had been made, shall, in virtue of the adjudication of bankruptcy and the appointment of his assignee, but subject to the exceptions stated in the preceding sec­tion, be at once vested in such assignee.”</p>
+                <p pgmap="996(63) 997(354)" id="b996-16">This section invests the assignee with a double character. All the property of the bankrupt, in possession or in action, and all property fraudulently conveyed by him. are vested in the assignee; and for either of these classes of property he may maintain a suit in his own name. As the successor of the bank­rupt, he has all the bankrupt’s rights per-­■taming to the property which belonged to him at the date of the bankruptcy proceed­ings ;* as the representative of the creditors he has all their rights, which the bankrupt ■could not assert, touching any- property of which the bankrupt has fraudulently dis­possessed himself. Whatever title the bank­rupt had, or his creditors might acquire, to any species of property which ought to be ap­plied to the payment of the bankrupt’s debts, the assignee is invested with. This is the whole scope and purport of the section. But it does not provide any special remedy or in­dicate any method by which the rights of prop­erty vested in him may be enforced. By neces­sary implication, he may employ any remedy, within the whole range of legal or equitable procedure, which may be appropriately in­voked to give effect to such rights; but he is not authorized to adopt an incongruous one. Unless, therefore, the form of action resorted to is, in its general nature, adapted to the plaintiff's complaint, its exceptional employ­ment is not warranted by the statute. Now it is plain that, at common law, the assignee ■could not maintain this action in virtue of .any right derived from the bankrupts, be­cause they had voluntarily transferred their property in the mortgaged chattels, and had conclusively assented to the conversion of them. Nor could he, as the representative of ■creditors, because his own right of possession accrued only at the date of the bankruptcy proceedings, and a creditor could not ac­quire any title to the mortgaged chattels, by means of which their value could be recover­ed in an action of trover, resting upon a con­version before he had acquired legal owner­ship of them. In neither of the rights, then, •with which the assignee was invested, and in no aspect of the case, as it was presented in the evidence, could he recover, in this form of action, and the defendant below was en­titled to an instruction to the jury to that ef­fect. The judgment is reversed, and a new trial awarded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="996" ORDERLABEL="994" TYPE="page">
+        <fptr FILEID="tiff_00498_1"/>
+        <fptr FILEID="jp2_00498_1"/>
+        <fptr FILEID="alto_00498_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_996.3" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="997" ORDERLABEL="995" TYPE="page">
+        <fptr FILEID="tiff_00499_0"/>
+        <fptr FILEID="jp2_00499_0"/>
+        <fptr FILEID="alto_00499_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_997.7" BETYPE="IDREF" FILEID="alto_00499_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADN" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.7" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-15" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.20" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Au3A" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.8" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-3" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.4" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-5" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.6" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-4" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.5" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-11" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.14" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-10" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.13" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-16" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.21" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_997.5" BETYPE="IDREF" FILEID="alto_00499_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-14" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.19" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-12" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.15" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b996-13" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.18" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJyN" BETYPE="IDREF" FILEID="casebody_0483"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_996.16" BETYPE="IDREF" FILEID="alto_00498_1"/>
+            <area BEGIN="BL_996.17" BETYPE="IDREF" FILEID="alto_00498_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

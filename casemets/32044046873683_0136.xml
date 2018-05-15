@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0136" publicationstatus="published">
+          <court abbreviation="D. Me." jurisdiction="United States">United States District Court for the District of Maine</court>
+          <name abbreviation="The Echo">The ECHO</name>
+          <docketnumber>Case No. 4,264</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 285</citation>
+          <citation category="parallel" type="bluebook">3 Ware, 289</citation>
+          <decisiondate>1861-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00144_0" MIMETYPE="image/tiff" CHECKSUM="43242f612f040c7cc60d8c36d885d7bd" CHECKSUMTYPE="MD5" SIZE="89376">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00144_0.tif"/>
+      </file>
+      <file ID="tiff_00144_1" MIMETYPE="image/tiff" CHECKSUM="1a83ab62e4bb4b2996db06465845f552" CHECKSUMTYPE="MD5" SIZE="90578">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00144_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00144_0" MIMETYPE="image/jp2" CHECKSUM="4a51568f62fee69172731192f3f11665" CHECKSUMTYPE="MD5" SIZE="3686812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00144_0.jp2"/>
+      </file>
+      <file ID="jp2_00144_1" MIMETYPE="image/jp2" CHECKSUM="60dcaf63e56021bc5a91380e1980ec11" CHECKSUMTYPE="MD5" SIZE="3290956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00144_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00144_0" MIMETYPE="text/xml" CHECKSUM="6e886f8b8d2c82d37abf23be91fb1cdf" CHECKSUMTYPE="MD5" SIZE="202149">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00144_0.xml"/>
+      </file>
+      <file ID="alto_00144_1" MIMETYPE="text/xml" CHECKSUM="1d37ac3e32fcd96be8ed89f108e4acc7" CHECKSUMTYPE="MD5" SIZE="193347">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00144_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0136" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="286" firstpage="285">
+              <court id="b287-7" pgmap="287">District Court, D. Maine.</court>
+              <docketnumber id="b287-4" pgmap="287">Case No. 4,264.</docketnumber>
+              <citation id="b287-6" pgmap="287">[3 Ware, 289.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b287-5" pgmap="287">The ECHO.</parties>
+              <decisiondate id="A9s" pgmap="287">Nov., 1861.</decisiondate>
+              <attorneys id="b287-14" pgmap="287">Mr. Pox. for libellant.</attorneys>
+              <attorneys id="b287-15" pgmap="287">Mr. O'Donnell, for claimant.</attorneys>
+              <footnote label="1">
+                <p id="b287-20" pgmap="287">1 [Reported by George F. Emery, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b287-16" pgmap="287">WARE. District Judge.</author>
+                <p id="ASg" pgmap="287">A collision took place in Portland harbor between the Echo, a fishing schooner of about 54 tons burthen, on the night of Nov. 2, and the Nettle. Neither vessel had a man on board at the time of the accident. The Nettle, which was used as a pilot boat, was safely moored at her usual anchorage and fitted with every­thing requisite for her employment. In the course of the trial no- fault has been found with this vessel. She remained in her place and was sunk by the Echo, where she was anchored, and she is acquitted of all blame. The Echo was a fishing schooner, and ar­rived from a trip to the shore fishery Friday about 8 o’clock in the evening. She had a crew of four men and a boy, and these all remained on board from Friday evening un­til Saturday at three o’clock p. m. Then the weather being threatening they let go an additional anchor, and all went ashore. The crew dispersed to their several places of resi-­deuce, and the master. Wallace, a young man, at eight o’clock Saturday evening left his residence for the purpose of going on board the vessel and remaining through the night But such at that time was the state of the weather, that, though he made the attempt, he was unable to succeed in getting on board, and after making fruitless attempts to get assistance, he could find no one who was willing to trust himself in the boat, and finally gave up the attempt. He re­mained on the wharf until 11 o’clock and then went to his house. He returned as soon as it was light the next morning. In the meantime the Echo had dragged her anchor and the mischief was done.</p>
+                <p id="b287-19" pgmap="287(418) 288(9)">The first fault found with the Echo is. that she was left through the night with no one aboard. But it was proved at the trial, that in this port it is customary to leave fishing vessels at anchor over night without a man on board. Some masters, of more than ordinary vigilance, may have at all times some one aboard to look after and take care of the vessel; but in good weather this is not the general custom. But this custom extends to, and can only be justified in or­dinary weather, and at this time a storm had commenced and the elements were threatening. A more than ordinary care was therefore required. But this vessel was not finally abandoned. The master only left it temporarily for his supper, intending to return on board himself and to remain. He returned about eight o’clock, but in the mean time the wind, had increased and he was unable to reach it. I am satisfied from the evidence, that Wallace acted in good faith when he left the Echo and when he at­tempted to return, and was only prevented by the elements; and that he made every exertion that could reasonably be expected. In my opinion his leaving for the short time, though the weather was in a critical state, was not a great fault on his part, not such an one that all the misfortune of the night ought to be borne by him. He stated very plainly in his examination, that if he had been aboard he should have given more scope to the anchors; and that they had not more is one of the complaints against this vessel. Though the evidence on this subject is some­what contradictory, as to the sufficiency of the scope, I am satisfied, that if more had been given, the vessel would have rode out the storm with more" safety and ease. But the real question in this case is not what ought to be given for the purpose of encoun­tering one of the' severest gales we ever have, but whether it was sufficient for the time the master intended to be absent The cables were measured after the gale, and one had eighteen fathoms and a fraction and one had twenty-one This, though the weather was threatening, was, I think, suffi­cient for the time the master intended to be absent. If the master could be justified in-­leaving for a short time, I think he could also be justified in leaving the anchors as they were.</p>
+                <p id="b288-3" pgmap="288">This brings us to the last complaint which has been made against this vessel, the origi­nal insufficiency of the ground tackle, and on this I have found more difficulty in coming to a satisfactory conclusion, than on any other. The weight of anchors for a vessel employed in the fisheries, according to her tonnage, is not precisely determined. But, on two points, there seems to be a general agreement confirmed by practice and experience. The first is, that the ground tackle for a fishing vessel need not be so heavy as for a vessel of like tonnage employed in the coasting trade. In the latter, from whatever cause it may be, vessels have heavier anchors and a longer scope to their cables. The second is, that there is now commonly used, in even fishing vessels, a heavier ground tackle than formerly. Experience has taught those who are engaged in this branch of industry, that they began their trade with too light anchors and they have gradually increased their weight The Echo was a schooner of 64 tons burthen, and it seems to be agreed that for a sheet anchor to a vessel of that tonnage, 200 pounds weight is the smallest that is allowed, and a somewhat lighter one for a second an­chor, to be used in ordinary weather. And accordingly, the whole current of testimony, on the part of the claimant, has been to bring up the weight to that amount, the smallest that experience would allow for a vessel of that tonnage. But we have the account of Mr. Thurston who sold that anchor for the vessel, and at the time it was nor a new, but a secondhand one. It was not weighed but was estimated and sold for 170 pounds. This agrees very nearly with the estimated weight from an imperfect weighing after the accident took place, that being 1G9 pounds. The second anchor, which was sufficient for ordinary -weather, by usage as -well as reason, might be a little lighter. This was also im­perfectly weighed after the accident, with the wooden stock and the end of the cable that held it, and they, together, weighed 165 pounds. It would be a liberal estimate that would bring this up to 130 pounds. The whole weight of her anchors would be but about 300 pounds. Now, according to the whole testimony in the case, for a vessel of this tonnage the anchors, together, ought to weigh nearly 400 poupds. My opinion is, therefore, that the ground tackle of the Echo was too light, being nearly one quarter light­er than that allow'ed by usage for such a ves­sel. and that she was in fault for not being sufficiently provided for such a gale.</p>
+                <p id="b288-4" pgmap="288">I am not insensible that it is the duty of every one, according to his abilities and op­portunities, especially in this part of the coun­try, to encourage the fisheries. Fishermen are a most useful and meritorious class of men. They furnish those who have more easy means of living, a luxury in peace, and to all an ornament and safeguard in war. They follow an occupation full of danger and hardships, and they follow it for a spar­ing profit. It is an old remark of nolitical economists, that employments like fishing anl hunting, that are pursued, for the pleasur­able excitement they afford, by persons in easy circumstances, are the hardest of any for those who are destined to gain their liv­ing by them. Their labor and sufferings are greatest, and their gains are smallest. The government patronizes them by an exclusive privilege of salt bounty in their favor. But with this they are obliged to practice the ut­most economy, and to indulge themselves in the fewest luxuries. It cannot be a matter of surprise, though it may be of regret, that in fitting out a fishing vessel, this economy should be not only pushed to the greatest extreme, but sometimes beyond what can be allowed by law. Whatever standard that has affixed, such is human nature, and, it may be added, human necessity,. that at times it will be passed. When so, while those bound only by the common obligation of hu­manity, may pardon the transgressor, courts of law are hardly excusable in departing from what usage and reason have prescribed as the rule for this ease. It is with some re­gret that I pronounce for the condemnation of the Echo in this case. But I do it without costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="287" ORDERLABEL="285" TYPE="page">
+        <fptr FILEID="tiff_00144_0"/>
+        <fptr FILEID="jp2_00144_0"/>
+        <fptr FILEID="alto_00144_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_287.3" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="288" ORDERLABEL="286" TYPE="page">
+        <fptr FILEID="tiff_00144_1"/>
+        <fptr FILEID="jp2_00144_1"/>
+        <fptr FILEID="alto_00144_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_288.7" BETYPE="IDREF" FILEID="alto_00144_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-15" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.18" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-14" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.17" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-16" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.19" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-4" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.9" BETYPE="IDREF" FILEID="alto_00144_1"/>
+            <area BEGIN="BL_288.10" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9s" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.11" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b288-3" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_288.8" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-20" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.24" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-19" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.23" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            <area BEGIN="BL_288.4" BETYPE="IDREF" FILEID="alto_00144_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASg" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.20" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            <area BEGIN="BL_287.21" BETYPE="IDREF" FILEID="alto_00144_0"/>
+            <area BEGIN="BL_287.22" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-5" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.8" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-4" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.7" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-7" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.10" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b287-6" BETYPE="IDREF" FILEID="casebody_0136"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_287.9" BETYPE="IDREF" FILEID="alto_00144_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,275 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0287" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Ellithorp v. Robertson">ELLITHORP v. ROBERTSON</name>
+          <docketnumber>Case No. 4,410</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 567</citation>
+          <citation category="parallel" type="bluebook">1 MacA. Pat. Cas. 634</citation>
+          <decisiondate>1859-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00285_0" MIMETYPE="image/tiff" CHECKSUM="f24b24fa97e8a2b033b25d7917e28887" CHECKSUMTYPE="MD5" SIZE="91876">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00285_0.tif"/>
+      </file>
+      <file ID="tiff_00285_1" MIMETYPE="image/tiff" CHECKSUM="515a7d491c853a46f7a2fb093c98ad3f" CHECKSUMTYPE="MD5" SIZE="87680">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00285_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00285_0" MIMETYPE="image/jp2" CHECKSUM="94036b6ae9b9467162aa476b4d97e786" CHECKSUMTYPE="MD5" SIZE="3376945">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00285_0.jp2"/>
+      </file>
+      <file ID="jp2_00285_1" MIMETYPE="image/jp2" CHECKSUM="3ac6a1719bff55e27bb0f5546788d3b8" CHECKSUMTYPE="MD5" SIZE="3240871">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00285_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00285_0" MIMETYPE="text/xml" CHECKSUM="342316b526a99817965405bd2f9e877b" CHECKSUMTYPE="MD5" SIZE="193408">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00285_0.xml"/>
+      </file>
+      <file ID="alto_00285_1" MIMETYPE="text/xml" CHECKSUM="29968058f1e68d88b2db3ba5246f6cac" CHECKSUMTYPE="MD5" SIZE="196877">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00285_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0287" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="568" firstpage="567">
+              <court id="b569-12" pgmap="569">Circuit Court, District of Columbia.</court>
+              <docketnumber id="b569-9" pgmap="569">Case No. 4,410.</docketnumber>
+              <citation id="b569-11" pgmap="569">[1 MacA. Pat. Cas. 634.]</citation>
+              <parties id="b569-10" pgmap="569">ELLITHORP v. ROBERTSON.</parties>
+              <decisiondate id="AYAO" pgmap="569">April, 1859.</decisiondate>
+              <attorneys id="b569-17" pgmap="569">Low &amp; Haskell, for appellant</attorneys>
+              <opinion type="majority">
+                <author id="b569-18" pgmap="569">MORSELL, Circuit Judge.</author>
+                <p id="AYtY" pgmap="569(43) 570(185)">The points de­cided by me on the 28th of September, 1858 [Case No. 4,409], in a case of appeal from the decision of the commissioner of patents be­tween the above-named parties for an “im­provement in sewing machines,” it appears to me, are involved in the issue in this case. The objection in that case to granting a pat­ent to the appellant was the great lapse of time which had been suffered to occur be­tween the discovery of the applicant’s inven-­tan and the time of his application, and of its being suffered to go into public use in the interval. The circuinstances which were offered to prove this 1 was satisfied were-suf­ficient. The invention claimed in this case is of the same date, and the facts and circum­stances in that case are applicable to this. There is, however, evidence offered in this case to excuse the delay. I have carefully examined it, and should have been glad to have discovered in it enough for that pur­pose, but have not Upon further deliberation upon the questions of law as settled by me upon the particular case then before me, I have found no reason to change my opinion. I think, therefore, the decision of the commis­sioner in this case is correct, and ought to be affirmed, which is accordingly done.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="569" ORDERLABEL="567" TYPE="page">
+        <fptr FILEID="tiff_00285_0"/>
+        <fptr FILEID="jp2_00285_0"/>
+        <fptr FILEID="alto_00285_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_569.5" BETYPE="IDREF" FILEID="alto_00285_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="570" ORDERLABEL="568" TYPE="page">
+        <fptr FILEID="tiff_00285_1"/>
+        <fptr FILEID="jp2_00285_1"/>
+        <fptr FILEID="alto_00285_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_570.4" BETYPE="IDREF" FILEID="alto_00285_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYtY" BETYPE="IDREF" FILEID="casebody_0287"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_569.23" BETYPE="IDREF" FILEID="alto_00285_0"/>
+            <area BEGIN="BL_569.24" BETYPE="IDREF" FILEID="alto_00285_0"/>
+            <area BEGIN="BL_570.1" BETYPE="IDREF" FILEID="alto_00285_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b569-10" BETYPE="IDREF" FILEID="casebody_0287"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_569.12" BETYPE="IDREF" FILEID="alto_00285_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b569-11" BETYPE="IDREF" FILEID="casebody_0287"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_569.13" BETYPE="IDREF" FILEID="alto_00285_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b569-12" BETYPE="IDREF" FILEID="casebody_0287"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_569.14" BETYPE="IDREF" FILEID="alto_00285_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b569-17" BETYPE="IDREF" FILEID="casebody_0287"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_569.21" BETYPE="IDREF" FILEID="alto_00285_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b569-18" BETYPE="IDREF" FILEID="casebody_0287"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_569.22" BETYPE="IDREF" FILEID="alto_00285_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b569-9" BETYPE="IDREF" FILEID="casebody_0287"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_569.11" BETYPE="IDREF" FILEID="alto_00285_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYAO" BETYPE="IDREF" FILEID="casebody_0287"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_569.15" BETYPE="IDREF" FILEID="alto_00285_0"/>
+            <area BEGIN="BL_569.16" BETYPE="IDREF" FILEID="alto_00285_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

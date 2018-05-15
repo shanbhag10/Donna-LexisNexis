@@ -1,0 +1,551 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0031" publicationstatus="published">
+          <court abbreviation="E.D. Pa." jurisdiction="United States">United States District Court for the Eastern District of Pennsylvania</court>
+          <name abbreviation="In re Dunkle">In re DUNKLE et al.</name>
+          <docketnumber>Case No. 4,161</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 65</citation>
+          <citation category="parallel" type="bluebook">7 N. B. R. 107</citation>
+          <decisiondate>1871-04-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00034_0" MIMETYPE="image/tiff" CHECKSUM="c1e5daa5573f4f39ade5706069b72d45" CHECKSUMTYPE="MD5" SIZE="67600">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00034_0.tif"/>
+      </file>
+      <file ID="tiff_00034_1" MIMETYPE="image/tiff" CHECKSUM="1010715f34a9af16174349432cc63178" CHECKSUMTYPE="MD5" SIZE="7004">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00034_1.tif"/>
+      </file>
+      <file ID="tiff_00035_0" MIMETYPE="image/tiff" CHECKSUM="2f25239d49228eea569f6df936ce205e" CHECKSUMTYPE="MD5" SIZE="6154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00035_0.tif"/>
+      </file>
+      <file ID="tiff_00035_1" MIMETYPE="image/tiff" CHECKSUM="8809127647fbfc588fb048dd04a9cfe0" CHECKSUMTYPE="MD5" SIZE="6216">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00035_1.tif"/>
+      </file>
+      <file ID="tiff_00036_0" MIMETYPE="image/tiff" CHECKSUM="843e4ec56c4b1de2cb7ddac0ce7193b5" CHECKSUMTYPE="MD5" SIZE="7220">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00036_0.tif"/>
+      </file>
+      <file ID="tiff_00036_1" MIMETYPE="image/tiff" CHECKSUM="1f9df212b3f45a673b34d729a9c66c67" CHECKSUMTYPE="MD5" SIZE="71698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00036_1.tif"/>
+      </file>
+      <file ID="tiff_00037_0" MIMETYPE="image/tiff" CHECKSUM="55091bd398bc3c10994e234a36599134" CHECKSUMTYPE="MD5" SIZE="111810">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00037_0.tif"/>
+      </file>
+      <file ID="tiff_00037_1" MIMETYPE="image/tiff" CHECKSUM="246e941428805c0ed72ef64122342af4" CHECKSUMTYPE="MD5" SIZE="92374">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00037_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00034_0" MIMETYPE="image/jp2" CHECKSUM="c0422f16e3fa975323d4a46f847361ec" CHECKSUMTYPE="MD5" SIZE="2779899">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00034_0.jp2"/>
+      </file>
+      <file ID="jp2_00034_1" MIMETYPE="image/jp2" CHECKSUM="fc970094cea5c80b005c9db2d7f7a03a" CHECKSUMTYPE="MD5" SIZE="902434">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00034_1.jp2"/>
+      </file>
+      <file ID="jp2_00035_0" MIMETYPE="image/jp2" CHECKSUM="7b1eb30b360f4c1e540aa5bcf8014ee8" CHECKSUMTYPE="MD5" SIZE="1004959">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00035_0.jp2"/>
+      </file>
+      <file ID="jp2_00035_1" MIMETYPE="image/jp2" CHECKSUM="81103934d237dc56f59f28e3a6086915" CHECKSUMTYPE="MD5" SIZE="946706">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00035_1.jp2"/>
+      </file>
+      <file ID="jp2_00036_0" MIMETYPE="image/jp2" CHECKSUM="b8526459b93e62f95c71af3f0070569e" CHECKSUMTYPE="MD5" SIZE="1116864">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00036_0.jp2"/>
+      </file>
+      <file ID="jp2_00036_1" MIMETYPE="image/jp2" CHECKSUM="e53861b2b0477383b9e5f631c671267e" CHECKSUMTYPE="MD5" SIZE="2666378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00036_1.jp2"/>
+      </file>
+      <file ID="jp2_00037_0" MIMETYPE="image/jp2" CHECKSUM="c3477d0a5c8cdfc83801d0abf4e6781e" CHECKSUMTYPE="MD5" SIZE="3792993">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00037_0.jp2"/>
+      </file>
+      <file ID="jp2_00037_1" MIMETYPE="image/jp2" CHECKSUM="718e6433ec721486cd717b8921acf6d7" CHECKSUMTYPE="MD5" SIZE="3373602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00037_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00034_0" MIMETYPE="text/xml" CHECKSUM="00e1be970fad7709d5e486a689fc4f02" CHECKSUMTYPE="MD5" SIZE="139090">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00034_0.xml"/>
+      </file>
+      <file ID="alto_00034_1" MIMETYPE="text/xml" CHECKSUM="e2c0400f854cfe7eee0fc7b9baa1d5e1" CHECKSUMTYPE="MD5" SIZE="1996">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00034_1.xml"/>
+      </file>
+      <file ID="alto_00035_0" MIMETYPE="text/xml" CHECKSUM="9334c8be78599722516783256999139b" CHECKSUMTYPE="MD5" SIZE="1909">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00035_0.xml"/>
+      </file>
+      <file ID="alto_00035_1" MIMETYPE="text/xml" CHECKSUM="863019291280e2cf54fc96ecf8e6c312" CHECKSUMTYPE="MD5" SIZE="1997">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00035_1.xml"/>
+      </file>
+      <file ID="alto_00036_0" MIMETYPE="text/xml" CHECKSUM="ec7a4db8edd8ad764e0cf1a9d58c77f3" CHECKSUMTYPE="MD5" SIZE="2002">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00036_0.xml"/>
+      </file>
+      <file ID="alto_00036_1" MIMETYPE="text/xml" CHECKSUM="069fe45dc892faf82538afe84de9557d" CHECKSUMTYPE="MD5" SIZE="142533">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00036_1.xml"/>
+      </file>
+      <file ID="alto_00037_0" MIMETYPE="text/xml" CHECKSUM="647bdaa9b66bc40de09e261437811888" CHECKSUMTYPE="MD5" SIZE="237781">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00037_0.xml"/>
+      </file>
+      <file ID="alto_00037_1" MIMETYPE="text/xml" CHECKSUM="f3604f3824ed5941af1e960d09e757f1" CHECKSUMTYPE="MD5" SIZE="202563">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00037_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0031" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="72" firstpage="65">
+              <court id="b67-20" pgmap="67">District Court, E. D. Pennsylvania.</court>
+              <docketnumber id="b67-17" pgmap="67">Case No. 4,161.</docketnumber>
+              <citation id="b67-19" pgmap="67">[7 N. B. R. 107.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b67-18" pgmap="67">In re DUNKLE et al.</parties>
+              <decisiondate id="Ax1" pgmap="67">April 19, 1871.</decisiondate>
+              <footnote label="1">
+                <p id="b67-24" pgmap="67">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b72-6" pgmap="72">CADWALADER, District Judge.</author>
+                <p id="AOQ" pgmap="72">The reg­ister’s view of the question is correct in the abstract, but, I think, inapplicable to the pe­culiar case of a transaction, which, as the prior conversation and form of the notes originally tendered, apprised Mr. Bush, con­cerned capital of one partner, and was un­connected with current business of the firm. His own reasoning, rather than any prudent inquiry, convinced him that he might get the partnership paper, and induced Dunkle to commit a fraud upon his partner, in giving it. Mr. Bush, if he did not wilfully shut his eyes, adopted a course by which they were closed; - and although he may have intended no wrong, is the party who should suffer.. The exceptions are sustained. But the effect of the agreement of dissolution as to the-­notes, which it specifies, requires considera­tion. Through the decision that the excep­tions are sustained, Mr. Dreisbach has not suffered any injury from the frauds of Dun-­kle. At all events none is now apparent. If none has been suffered, his engagement to-­pay two of the notes may be in force. This-­the register will consider. It may be neces­sary, perhaps, to give a two-fold effect to the-' agreement; first, as a ratification pro tanto, of the notes otherwise not binding the firm,, and secondly as an independent, separate en­gagement of Mr. Dreisbach. On these points, no positive opinion is expressed.</p>
+                <p id="b72-8" pgmap="72">To the foregoing decision an appeal was, on the twenty-ninth day of April, eighteen hundred and seventy-one, taken to the circuit court by Van Camp Bush, and is still de­pending in said court.</p>
+                <p id="b72-9" pgmap="72">Report of the register as to the effect off the agreement of dissolution of partnership, upon the portion of the claim of Van Camp Bush, represented by two certain notes:</p>
+                <p id="b72-10" pgmap="72">I, the undersigned register, to whom the above matter was referred, in pursuance of the opinion of the court of April nineteenth, eighteen hundred and seventy-one, referring to my consideration the effect of the agree-' ment of dissolution of partnership between the said bankrupts upon the claim of Van Camp Bush, by virtue of two notes, one for one thousand dollars and the other for one thousand one hundred and thirty-seven dol­lars and twenty-six cents, more particularly set forth in the deposition for his proof of-­claim, would respectfully report:</p>
+                <p id="b72-11" pgmap="72(205) 73(202)">That I am of opinion that the effect of said agreement was the assumption by said Wil­liam Dreisbach of the payment of said notes, in consideration of the relinquishment of Dunkle’s interest in the copartnership at that time. The said agreement of dissolution of partnership was made on the twenty-eighth' day of July, eighteen hundred and sixty-nine,, said Dreisbach, appearing “from the fifteenth to the twentieth of July,” to have first learned of the issuing of any notes by Dunkle in the partnership name, for the purpose of providing for the payment of his (Dunkle’s&gt; original interest in the firm, and was as fol­lows: Dunkle, in consideration of the pay­ment by Dreisbach of three thousand one hundred and forty-eight dollars and twenty-­eight cents, viz: by the payment by Dreis-­bach of the two notes before referred to, and the balance of said sum on or before January-­first, eighteen hundred and seventy, sold to-­Dreisbach all his interest in the firm, he, Dunkle, agreeing by good and sufficient se­curity, to secure Dreisbach against the pay­ment of any and all notes, bills of exchange or other obligations given by him. Dunkle, in the firm name for any individual debt, and that he would1 not engage in the retail dry goods business in the city of Philadelphia, nor be employed in any dry goods store in said city for the period of two years, two thou­sand dollars being agreed upon as stipulated damages for the violation of said last men­tioned agreement of Dunlcle not to engage in the dry goods business, &amp;c. 1 Dreisbaeh also thereby agreed to pay all the partnership debts, and by good and sufficient security to indemnify said Duhkle therefrom, except such partnership notes, bills or other obliga­tions not therein specified, that had been or ■might be given by said Dunkle for his indi­vidual debts. The securities stipulated for in this agreement were not given by either party thereto, there being a dispute as' to the sureties, Dreisbaeh having tendered a bond with his father as surety and Dunkle one with a person as surety whom Dreisbaeh was not willing to accept alleging that Dun-­kle had agreed to procure certain other per­sons as sureties. After this, however, Dreis-­baeh appears to have had full control of the business and assets of the said partnership, and Dunkle appears to have relinquished all right thereto.</p>
+                <p id="b73-3" pgmap="73">By the opinion of the court referred to, no other such notes, indemnity against which was promised by Dunkle, had been allowed as claims either against Dreisbach’s separ­ate estate or the partnership estate in bank­ruptcy, and therefore there has been, in fact, no failure of consideration for the agree­ment of dissolution upon the part of Dunkle. I do not think that said agreement of dissolu­tion can be considered as a ratification by Dreisbaeh of the act of Dunlcle in issuing these two notes as an act binding the firm; for it in terms prescribes that the price of the interest of Dunlcle in the firm as then ascer­tained, was to be used by Dreisbaeh in the payment of these notes. They must now be considered as having been, at the time of the dissolution, separate debts of Dunkle, and if the agreement had accomplished the purpose for which it was intended, all the assets would have vested in Dreisbaeh as his sepa­rate estate, and perhaps this may be the case, notwithstanding the adjudication of bankruptcy (Ex parte Williams, 11 Ves. £), and the only effect it could have as to these notes, would be that already stated, viz: an engagement on the part of Dreisbaeh to pay them as separate debts of Dunkle. in consid­eration of the transfer of his interest in the firm. They are therefore not partnership debts of Dunkle &amp; Dreisbaeh, but provable as separate debts of each partner against their respective separate estates.'</p>
+                <p id="b73-4" pgmap="73">■ For a fuller statement of the circumstances attending the dissolution and the object of Dreisbaeh in making it, I refer to my report as to the claims of Martin and Elizabeth Dreisbaeh in this matter, filed November, twenty-first, eighteen hundred and seventy.— May 29th, 1871.</p>
+                <p id="b73-5" pgmap="73">Exceptions to the foregoing report were made both by Van Camp Bush and the as-­signee.</p>
+                <p id="b73-8" pgmap="73">(July 7, 1871.)</p>
+                <author id="b73-9" pgmap="73">OADW ALADEE, District Judge.</author>
+                <p id="AEgP" pgmap="73">Lord Wensleydale, when considering certain rela­tions of the law of partnership said, in veiy general words, that it is a branch of the law of principal and agent 8 H. L. Cas. 312. Partners have often been called agents, each of the other. They are more accurately desig­nated as each an agent of the partnership, to administer its proper affairs. Story. Tartu., cited by Lord Wensleydale, ubi supra, and Code Nap. art. 1859, No. 1.</p>
+                <p id="b73-10" pgmap="73(417) 74(340)">The principal’s ratification of an unauthor-­ised act of an agent, validates it retroactively, and requires no new consideration. The like rule applies to a partner’s unqualified adop­tion of an act of his copartner which was originally unauthorised. Thus, if Mr. Dreis-­baeh had simply recognised the two notes in question as acts of tiie firm, or had promised to pay them as such, though he might have at the same time declared them to have been at first wrongfully issued, the ratification would have so inured to the benefit of Mr. Bush, the holder, as to render them partner­ship debts from their date. But, in the actual case, Mr. Dreisbach's only recognition of the notes was by the agreement of dissolution. 1 say “only” recognition, because the sub­sequent conversation must be understood as referential to that agreement. The provisions of the agreement, on the subject are special and qualified. The value, a liquidated sum, of Mr. Dunkle’s interest in the firm, was to be paid to him as retiring partner. The agree­ment shows that this conventionally ascer­tained value exceeded the amount of the two notes in question, which he had unauthor-­isedly issued in the name of the firm for his individual account. The language of the agreement indicates no less clearly that if the excess had been the other way, Mr. Dreis-­baeh would not have engaged to pay the notes, or, at all events, would not have engaged to pay any part of such excess. In equity, these two notes, being together of less amount than Mr. Dunkle’s interest in the firm, were, as against him, rightfully payable out of that interest. His interest in the firm was, there­fore, appropriated by the agreement for their payment, that is to say, they were expressly made payable out of it. But as all the assets were at once transferred to Mr. Dreisbaeh, he assumed the payment of the two notes to their holder as a payment of so much of the interest of Dunkle. Neither more nor less than thisappears to have been intended by the agreement. Now if it had contained no such express appropriation, and such an appropria­tion had, by a distinct act, been afterwards made by Mr. Dunkle of part of the money which he was thus to receive from Mr. Dreis-­baeh, the case would in principle have been the same. In that case, wo\dd the notes in question have been thereby partnership debts 7 Justly, they could not have been with rela­tion to other partnership creditors, because, with relation to the firm, such creditors ought to have been paid in full before Mr. Dunkle could receive any payment on account of his share; and Mr. Bush, representing Dunkle, should not stand on any better footing. There­fore, the notes, which otherwise were not partnership debts, did not become such through this special agreement of Mr. Dreis-­bach to pay them. The» effect of the agree­ment was to make him in equity a separate debtor from its date for their amount to their holder, without any merger of the former re­lation of Dunkle, who until their payment, continues to be also a separate debtor. To this conclusion as to Dreisbach it is for him objected that the frauds of Dunkle in isstiing paper in the name of the firm for his individ­ual account, prevent the engagement of Dreis-­bach in the agreement for dissolution from being obligatory upon him. To this objection the answer is that Mr. Dreisbach has not sus­tained any injury from the fraud, either as to the two notes particularly in question, or as to any other such paper, and therefore the consideration of his engagement has not, in whole or in part failed. That “fraud without damage gives no cause of action, but both must concur,” may be considered an estab­lished rule or maxim of both law and equity. In its application, there has occasionally, for centuries, been more or less difficulty. In the present case, it is urged that although circum­stances have precluded and will preclude any successful assertion of a joint liability upon any of the notes, yet their fraudulent issue by Dunkle was of injurious effect in creating a moral necessity for the dissolution of the firm, and that all or many of the unfortunate occurrences chronicled in this case were sec­ondary consequences. If so, the damage or injury is too abstract or too remotely conse­quential for judicial cognisance.</p>
+                <p id="b74-3" pgmap="74">The case is recommitted to the register, whose report is confirmed, so far as may con­sist. with these views. The exceptions are overruled, so far as they do not consist with the same views. I adhere to m.v former opin­ion that Mr. Bush does not stand on the foot­ing of a holder of negotiable paper who re­ceived it without notice that it was wrong­fully issued.</p>
+                <p id="b74-4" pgmap="74">From this decision an appeal was. on the seventeenth day of July, eighteen hundred and seventy-one, taken to the circuit court by Van Camp Bush, and is still depending therein. ÍThe circuit afterwards reversed the order, disallowed the exceptions to the register’s re­port, and confirmed the same. See Bush v. Crawford, Case No. 2,224.] Since the provi­sional order of the court upon the register’s report as to the claims of Martin and Eliza­beth Dreisbach, no further action has (at this date. July fifth, eighteen hundred and seven­ty-two) been taken either by the court or the claimants iu regard thereto.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="67" ORDERLABEL="65" TYPE="page">
+        <fptr FILEID="tiff_00034_0"/>
+        <fptr FILEID="jp2_00034_0"/>
+        <fptr FILEID="alto_00034_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_67.5" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="68" ORDERLABEL="66" TYPE="page">
+        <fptr FILEID="tiff_00034_1"/>
+        <fptr FILEID="jp2_00034_1"/>
+        <fptr FILEID="alto_00034_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_68.4" BETYPE="IDREF" FILEID="alto_00034_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="69" ORDERLABEL="67" TYPE="page">
+        <fptr FILEID="tiff_00035_0"/>
+        <fptr FILEID="jp2_00035_0"/>
+        <fptr FILEID="alto_00035_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_69.4" BETYPE="IDREF" FILEID="alto_00035_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="70" ORDERLABEL="68" TYPE="page">
+        <fptr FILEID="tiff_00035_1"/>
+        <fptr FILEID="jp2_00035_1"/>
+        <fptr FILEID="alto_00035_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_70.4" BETYPE="IDREF" FILEID="alto_00035_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="71" ORDERLABEL="69" TYPE="page">
+        <fptr FILEID="tiff_00036_0"/>
+        <fptr FILEID="jp2_00036_0"/>
+        <fptr FILEID="alto_00036_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_71.3" BETYPE="IDREF" FILEID="alto_00036_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="72" ORDERLABEL="70" TYPE="page">
+        <fptr FILEID="tiff_00036_1"/>
+        <fptr FILEID="jp2_00036_1"/>
+        <fptr FILEID="alto_00036_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_72.4" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="73" ORDERLABEL="71" TYPE="page">
+        <fptr FILEID="tiff_00037_0"/>
+        <fptr FILEID="jp2_00037_0"/>
+        <fptr FILEID="alto_00037_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_73.3" BETYPE="IDREF" FILEID="alto_00037_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="74" ORDERLABEL="72" TYPE="page">
+        <fptr FILEID="tiff_00037_1"/>
+        <fptr FILEID="jp2_00037_1"/>
+        <fptr FILEID="alto_00037_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_74.5" BETYPE="IDREF" FILEID="alto_00037_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.9" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.12" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-6" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.7" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-24" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.29" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.7" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-20" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.23" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-3" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.5" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-18" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.21" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-19" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.22" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b67-17" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.20" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-9" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.10" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-11" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.14" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            <area BEGIN="BL_73.1" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b74-3" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_74.6" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-10" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.13" BETYPE="IDREF" FILEID="alto_00037_0"/>
+            <area BEGIN="BL_74.2" BETYPE="IDREF" FILEID="alto_00037_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ax1" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_67.24" BETYPE="IDREF" FILEID="alto_00034_0"/>
+            <area BEGIN="BL_67.25" BETYPE="IDREF" FILEID="alto_00034_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOQ" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.8" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            <area BEGIN="BL_72.9" BETYPE="IDREF" FILEID="alto_00036_1"/>
+            <area BEGIN="BL_72.10" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-5" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.7" BETYPE="IDREF" FILEID="alto_00037_0"/>
+            <area BEGIN="BL_73.8" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-10" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.13" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b73-4" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.6" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEgP" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_73.11" BETYPE="IDREF" FILEID="alto_00037_0"/>
+            <area BEGIN="BL_73.12" BETYPE="IDREF" FILEID="alto_00037_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b72-8" BETYPE="IDREF" FILEID="casebody_0031"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_72.11" BETYPE="IDREF" FILEID="alto_00036_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

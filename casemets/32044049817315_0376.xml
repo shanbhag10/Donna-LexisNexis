@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0376" publicationstatus="published">
+          <court abbreviation="C.C.D. Ark." jurisdiction="United States">United States Circuit Court for the District of Arkansas</court>
+          <name abbreviation="Johnson v. Byrd">JOHNSON et al. v. BYRD</name>
+          <docketnumber>Case No. 7,376</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 735</citation>
+          <decisiondate>1841-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00369_0" MIMETYPE="image/tiff" CHECKSUM="00c9cb84db4bb91f8e233be54a567a29" CHECKSUMTYPE="MD5" SIZE="87812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00369_0.tif"/>
+      </file>
+      <file ID="tiff_00369_1" MIMETYPE="image/tiff" CHECKSUM="18c83684e43e3b0bad58b13a502943e3" CHECKSUMTYPE="MD5" SIZE="103386">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00369_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00369_0" MIMETYPE="image/jp2" CHECKSUM="70c40a4c08d1069a570fc8ce6ad3fb12" CHECKSUMTYPE="MD5" SIZE="3332521">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00369_0.jp2"/>
+      </file>
+      <file ID="jp2_00369_1" MIMETYPE="image/jp2" CHECKSUM="e01d6d075896834c99e565801ffd62cc" CHECKSUMTYPE="MD5" SIZE="3640392">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00369_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00369_0" MIMETYPE="text/xml" CHECKSUM="1ca010ae41852aa44ee87ce4646883bd" CHECKSUMTYPE="MD5" SIZE="191187">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00369_0.xml"/>
+      </file>
+      <file ID="alto_00369_1" MIMETYPE="text/xml" CHECKSUM="dc623df570369409244f04277808a0bd" CHECKSUMTYPE="MD5" SIZE="225531">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00369_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0376" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="736" firstpage="735">
+              <court pgmap="737" id="AWft">Circuit Court, D. Arkansas.</court>
+              <docketnumber pgmap="737" id="b737-8">Case No. 7,376.</docketnumber>
+              <parties pgmap="737" id="AyGi">JOHNSON et al. v. BYRD.</parties>
+              <decisiondate pgmap="737" id="AKKQ">June, 1841.</decisiondate>
+              <attorneys pgmap="737" id="b737-18">Chester Ashley and George C. Watkins, for plaintiffs.</attorneys>
+              <attorneys pgmap="737" id="b737-19">P. W. Trapnall and John W. Cocke, for defendant.</attorneys>
+              <p pgmap="737" id="A0Pc">[Hempst. 434.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="737" id="b737-21">1 [Reported by Samuel H. Hempstead, Esq.)</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="737" id="b737-20">JOHNSON. District Judge.</author>
+                <p pgmap="737(151) 738(429)" id="AAB">This is an ac­tion of assumpsit brought by the plaintiffs against the defendant upon two promissory notes, signed by ‘TI. C. Byrd &amp; Co.;” the plaintiffs averring that the company con­sisted of the defendant and one Sterling H. Tucker. A plea in abatement has been filed by the defendant for the non-joinder of Sterling H. Tucker, averring that he is liv­ing and resident within this state. The plain­tiffs have demurred to this plea, and the sole question is, Can this action be maintained against the defendant alone? According to the principles of the common law the plain­tiff is compellable to sue all the partners upon a note executed in the name of the copartnership, and cannot maintain it against a part of them only, if others are living. 7 Term R. 263; 1 H. Bl. 236. But a statute of this State has changed the eom-­mon law upon that subject. Two provisions, incompatible it is true, are contained in the Revised Statutes. Under the title of “Prac­tice at Law” (section 64), the following pro­vision will be found: “Every person who may have cause of action against several persons, and entitled by law to but one sat­isfaction therefor, may bring suit jointly against all, or as many of them as he may think proper.” This act is approved De­cember IS, 1S37. Under the title “Abate­ment” (section 3), will be found the fol­lowing provision: “When one or more of the partners of any company or association of individuals, shall be sued, and the person or persons so sued shall plead in abatement, that all the parties are not joined in the suit, such suit for that cause shall not abate, if the plaintiff forthwith sue out a sum­mons against the other partners named in such plea, and on the return of such sum­mons, the names of the other partners named in such plea may be inserted in the declaration, and the suit shall proceed in other respects thereafter as if the partner named in such plea had been included in the original suit.” Rev. St. 58. This act was approved December Oth, 1S37. That there is an incongruity and incompatibility in the provisions just recited, seems to me mani­festly clear. One declares that any person who may have cause of action against sever­al persons and entitled to but one satisfac­tion, may bring suit jointly against all, or as many of them as he may think proper. The other 'provides, that when one partner of a company shall be sued, he may, by plea in abatement, compel the plaintiff to join the other partners in the suit, and upon his failure to do so, his suit shall be abated.­By one enactment of the legislature the plaintiff on a joint cause of action is per­mitted to sue all or as many as he may think proper. By the other he is compellable to sue all the joint contractors. These pro­visions, in my judgment, cannot stand to­gether. They are repugnant and inconsist­ent, one with the other. If by one enact­ment the plaintiff has a right to sue one only of several joint contractors, can it be affirmed to be consistent and compatible with the right to allow the defendant to meet him with a plea in abatement for his failure to do that which by law he was not bound to do?</p>
+                <p pgmap="738" id="b738-3">If the plaintiff is permitted by law to sue one joint contractor, the defendant surely cannot, by the same law, be permitted to defeat his action, because he refuses to sue all joint contractors. In this rejugnancy between the two enactments, one must yield to the other, as they cannot both stand and be reconciled. It is a well-settled principle that between repugnant and inconsistent en­actments the latter law repeals the former. The provision conferring the right to sue one joint contractor was approved subse­quently to the provision giving the right to one partner, if sued alone, to plead it in abatement. The latter, therefore, is impli­edly repealed by the former. The demurrer is sustained.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="737" ORDERLABEL="735" TYPE="page">
+        <fptr FILEID="tiff_00369_0"/>
+        <fptr FILEID="jp2_00369_0"/>
+        <fptr FILEID="alto_00369_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_737.3" BETYPE="IDREF" FILEID="alto_00369_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="738" ORDERLABEL="736" TYPE="page">
+        <fptr FILEID="tiff_00369_1"/>
+        <fptr FILEID="jp2_00369_1"/>
+        <fptr FILEID="alto_00369_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_738.4" BETYPE="IDREF" FILEID="alto_00369_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWft" BETYPE="IDREF" FILEID="casebody_0376"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_737.13" BETYPE="IDREF" FILEID="alto_00369_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b737-18" BETYPE="IDREF" FILEID="casebody_0376"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_737.21" BETYPE="IDREF" FILEID="alto_00369_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAB" BETYPE="IDREF" FILEID="casebody_0376"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_737.24" BETYPE="IDREF" FILEID="alto_00369_0"/>
+            <area BEGIN="BL_737.25" BETYPE="IDREF" FILEID="alto_00369_0"/>
+            <area BEGIN="BL_738.1" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b737-21" BETYPE="IDREF" FILEID="casebody_0376"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_737.26" BETYPE="IDREF" FILEID="alto_00369_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b737-20" BETYPE="IDREF" FILEID="casebody_0376"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_737.23" BETYPE="IDREF" FILEID="alto_00369_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKKQ" BETYPE="IDREF" FILEID="casebody_0376"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_737.14" BETYPE="IDREF" FILEID="alto_00369_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0Pc" BETYPE="IDREF" FILEID="casebody_0376"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_737.12" BETYPE="IDREF" FILEID="alto_00369_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AyGi" BETYPE="IDREF" FILEID="casebody_0376"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_737.11" BETYPE="IDREF" FILEID="alto_00369_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b737-19" BETYPE="IDREF" FILEID="casebody_0376"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_737.22" BETYPE="IDREF" FILEID="alto_00369_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b737-8" BETYPE="IDREF" FILEID="casebody_0376"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_737.10" BETYPE="IDREF" FILEID="alto_00369_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b738-3" BETYPE="IDREF" FILEID="casebody_0376"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_738.5" BETYPE="IDREF" FILEID="alto_00369_1"/>
+            <area BEGIN="BL_738.6" BETYPE="IDREF" FILEID="alto_00369_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

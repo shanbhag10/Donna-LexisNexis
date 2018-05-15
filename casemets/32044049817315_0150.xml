@@ -1,0 +1,401 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0150" publicationstatus="published">
+          <court abbreviation="E.D. Tex." jurisdiction="United States">United States District Court for the Eastern District of Texas</court>
+          <name abbreviation="In re Jacobs">In re JACOBS</name>
+          <docketnumber>Case No. 7,159</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 271</citation>
+          <citation category="parallel" type="bluebook">18 N. B. R. (1879) 48</citation>
+          <decisiondate>1859</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00137_0" MIMETYPE="image/tiff" CHECKSUM="356217cf0dcfd9618d23e87228fe2eba" CHECKSUMTYPE="MD5" SIZE="97574">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00137_0.tif"/>
+      </file>
+      <file ID="tiff_00137_1" MIMETYPE="image/tiff" CHECKSUM="fd07ebda857fc9eaf3c6a98ce3dfc837" CHECKSUMTYPE="MD5" SIZE="18608">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00137_1.tif"/>
+      </file>
+      <file ID="tiff_00138_0" MIMETYPE="image/tiff" CHECKSUM="655f075a4a95d40e6af153fe12d3db94" CHECKSUMTYPE="MD5" SIZE="112640">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00138_0.tif"/>
+      </file>
+      <file ID="tiff_00138_1" MIMETYPE="image/tiff" CHECKSUM="4a89651030a71e86ed0a659911c26832" CHECKSUMTYPE="MD5" SIZE="101520">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00138_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00137_0" MIMETYPE="image/jp2" CHECKSUM="555847341227a834405344a73b74008a" CHECKSUMTYPE="MD5" SIZE="3477512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00137_0.jp2"/>
+      </file>
+      <file ID="jp2_00137_1" MIMETYPE="image/jp2" CHECKSUM="65469ffae4b5d44333a8cc3585303ae4" CHECKSUMTYPE="MD5" SIZE="1203207">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00137_1.jp2"/>
+      </file>
+      <file ID="jp2_00138_0" MIMETYPE="image/jp2" CHECKSUM="bad19885a652e3c10e75c4a3fa47dd84" CHECKSUMTYPE="MD5" SIZE="3830467">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00138_0.jp2"/>
+      </file>
+      <file ID="jp2_00138_1" MIMETYPE="image/jp2" CHECKSUM="ea4aefa647e0d28e9addbd6ac11b23b6" CHECKSUMTYPE="MD5" SIZE="3640887">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00138_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00137_0" MIMETYPE="text/xml" CHECKSUM="b9764f7677f7c20d2292c7c4f6ae0b71" CHECKSUMTYPE="MD5" SIZE="201662">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00137_0.xml"/>
+      </file>
+      <file ID="alto_00137_1" MIMETYPE="text/xml" CHECKSUM="171c0ffa1e9f0d81b0ac7f81c554ff84" CHECKSUMTYPE="MD5" SIZE="22390">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00137_1.xml"/>
+      </file>
+      <file ID="alto_00138_0" MIMETYPE="text/xml" CHECKSUM="b8735bab1ef92ab9b07dc91bf87c9ab0" CHECKSUMTYPE="MD5" SIZE="243670">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00138_0.xml"/>
+      </file>
+      <file ID="alto_00138_1" MIMETYPE="text/xml" CHECKSUM="fdd63f5e1679aad991c5c07f727a691d" CHECKSUMTYPE="MD5" SIZE="210198">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00138_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0150" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="274" firstpage="271">
+              <court pgmap="273" id="AoMA">District Court, E. D. Texas.</court>
+              <docketnumber pgmap="273" id="b273-10">Case No. 7,159.</docketnumber>
+              <citation pgmap="273" id="b273-12">[18 N. B. R. (1879) 48.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="273" id="b273-11">In re JACOBS.</parties>
+              <footnote label="1">
+                <p pgmap="273" id="b273-17">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="274" id="b274-12">BY ARTHUR W. ANDREWS, Register:</author>
+                <p pgmap="274(80) 275(268)" id="AGg7">I desire most respectfully to submit the fol­lowing as my opinion of the law applicable to the foregoing state of facts, and as to what decision the court is called upon to ren­der upon a submission of the whole case as directed. The power of this court as a court of bankruptcy was invoked by the petition­ing creditors, under the provisions of section 5021 of the Revised Statutes, defining what are acts of bankruptcy. The special aver­ment relied upon by the petitioners is stop­page of payment of commercial paper, made and passed by the debtor in the course of his business as a .tradesman, or retail dealer, and failure to resume payment for a period of forty days. Under these averments the debtor was by the court adjudged bankrupt on the 6th day of May, A. D. 1878. Under a further provision of section 5021, any pay­ment made by a debtor, he being bankrupt or insolvent or in contemplation of bank­ruptcy, with intent to delay or defeat the operation of the bankrupt act, is a sufficient ground for adjudging a debtor bankrupt, and, if fraudulently made, of preventing his discharge under the fifth clause of section 5110 of the Revised Statutes. Fraud under the bankrupt act has been clearly defined. “The act was designed to secure an equal dis­tribution of the property among the cred­itors, and any transfer made with a view to secure the property or any part of it to one, and thus prevent such equal distribution, is a transfer in fraud of the act.” Martin v. Toof [Case No. 9,167]; Toof v. Martin, 13 Wall. [80 U. S.] 40; In re Kingsbury [Case No. 7,816]: “When a merchant or trader * * * has shown his inability to meet his engagements, one creditor cannot, by col­lusion with him, * * * obtain a prefer­ence to the injury of others.” Beattie v. Gardner [Id. 1,195]; Smith v. Buchanan [Id. 13,016]; Buchanan v. Smith, 16 Wall. [83 U. S.] 277; Sage v. Wynkoop [Case No. 12,215].</p>
+                <p pgmap="275" id="Ay0S">The foregoing statement of facts is con­clusive that certain preferences were made to creditors whose relationship to the business and family of the debtor advised them fully of the insolvency of the debtor, and this fact is admitted by one of them. They held his commercial paper which was not paid at ma­turity. “Insolvency means an inability to pay debts as they mature and become due and payable.” In re Bininger [Case No. 1,-­420]. “The term ‘insolvency’ imports a pres­ent inability to pay.” In re Oregon B. Printing Co. [Id. 10,559]. They had sold him his original stock in trade; one of them was his salesman, and the other conducted busi­ness in the same, or in an adjacent building.</p>
+                <p pgmap="275" id="b275-4">Within the sixty days preceding the pro­test of his commercial paper, and within the four months next preceding the commence­ment of bankruptcy proceedings, his cash account, admitted to be correct by him, shows payments to A. &amp; M. Kory to the amount of four thousand eight hundred and ten dollars and ten cents, beside other pay­ments to non-resident members of his family, in aggregate six thousand seven hundred and sixty dollars and ten cents. “Every person of a sound mind is presumed to intend the necessary, natural, or legal consequence of his deliberate act.” In re Smith [Case No. 12,974]. “When the probable consequence of an act is to give a preference, the debtor will be conclusively presumed to have intended to give such preference.” In re Drummond [Id. 4,093]; Samson v. Burton [Id. 12,285]; Traders’ Nat. Bank v. Campbell, 14 Wall. [81 U. S.] 87; Campbell v. Traders’ Nat. Bank [Case No. 2,370].</p>
+                <p pgmap="275" id="b275-7">The last payments made to his home and family creditors were made on the 28th day of December, 1877. One of them was made to A. Kory; the seventh day thereafter his commercial paper, held by a Northern cred­itor, went to protest. To make a preference absolutely void under section 5130, the same must have been made within two months of the date of the filing the petition for adjudi­cation against him. Sixty days thereafter, or on or about the date of the expiration of this limitation of time, bankrupt proceedings are commenced, the debtor accepting service of petition, and waiving copy of order to show cause. Secured by this supposed stat­utory aegis, the debtor invokes the power of the court of the United States, .sitting as a court of bankruptcy, to coerce such minority of his creditors as may object to the ac­ceptance of such proposition in composition as may be proposed by him, and offers one of the preferred creditors as indorser for his deferred payments therein. “The principle of the bankrupt laws being the equal distri­bution of the property and effects of a bank­rupt among his creditors, acts which are done with the object of preventing an equal distribution of the property and effects of a bankrupt among his creditors, are fraudu­lent within the meaning of those laws.” Kerr, Fraud &amp; M. 280.</p>
+                <p pgmap="275" id="b275-8">It is contended by those in favor of en­forcing the terms of the composition offered and accepted by the requisite number of cred­itors in these proceedings, that whatever vio­lations of the principle or letter of the law may be brought to the notice of the court, “it is powerless unless it shall appear that the interest of the creditors will not be pro­moted by the terms of composition.” In re Allen [Case No. 210]. Such construction car­ries us to this result: “That the court must consider that the 17th section of the bank­rupt act, as amended, operates to supersede or repeal, at least in part, the very section of the Revised Statutes through which the court obtained jurisdiction of the subject matter, to wit, section 5011. “Reason is the soul of the law” (4 Coke, 48); “and the an­cient maxim ought rather to obtain, ‘Lex citius tolerare vult privatum damnum quam publicum malum.’ ” It is better that a pres­ent personal loss should be sustained than that the court should create a precedent that would operate to give full authority to all debtors to do that which bankrupt laws were especially devised to prevent. But it appears to me the whole law may be construed har­moniously.</p>
+                <p pgmap="275(44) 276(201)" id="b275-9">“It is an established rule in the exposition of statutes, that the intention of the lawgiver is to be deduced from a view of the whole and every part of the statute taken and com­pared together. * * * ‘Scire leges non hoc-­est verba earum tenere, sed vim ¿c potest-­atem,’ and the reason and intention of the law will control the .strict letter of the law when the latter would lead to palpable In­justice, contradiction, and absurdity.” 1 Kent, Comm. 462; Cannon v. Vaughan, 12 Tex. 399. The legislative intent in framing the 17th section of the bankrupt act as passed June 22, 1874 [18 Stat. 182], as stated by Justice Miller, “was to mitigate in favor of the debtor the rigor of the act of 1807 [14 Stat 517].” In re Scott [Case No. 12,519]. It is derived from the British act of 1868, but contains this clause not found in the English law: “Every such composition shall, subject to priorities declared in said act, provide for a pro rata payment or satisfaction in money *to the creditors of such debtor.” It therefore appears that the leading principle upon which all bankrupt acts are founded is espe­cially recognized. This section also provides that upon hearing the court shall determine whether the accepted composition is for the best interest of all concerned, and also that the court may set aside the composition if it cannot proceed without injustice to creditors.</p>
+                <p pgmap="276" id="b276-4">It is urged in particular that the requisite number of creditors having by their signa­tures confirmed a resolution to accept a com­position, the court has no discretion under the statute whatever fraudulent preferences may have been brought to the notice of the court, but must recognize the act of such creditors as determining the best interest of all con­cerned. That in fact the court sits .at a -hearing in composition chiefly to determine a mathematical result; given the aggregate of the debtor’s liabilities, and the entire num­ber of his creditors, has a sufficient body of his creditors, in number and amount, accept­ed his terms? Such has not heretofore been the ruling of this court. In re Fox [Case No. 5,006]; In re Cramer [Id. 3,344]. It would seem a better construction of the composi­tion act to consider it a part and parcel of the bankrupt law, and that the debtor who would profit by its privileges must be sub­ject to its general provisions, and that the discretion accorded to the court in this mat­ter is the discretion accorded to a court of equity. “Nothing can call forth this court Into activity but conscience, good faith, and reasonable diligence.” Story, Eq. Jur. 1520. In the absence of fraud, the determination of the creditors is, under the English deci­sions, final as to the quantum of composi­tion. “The only exception we would recog-. nize,” says Judge Emmons, “is where it man­ifestly appears there was some fraud, acci­dent, or mistake, — -such a contingency as would incline the court, ex mero motu, to refuse to proceed.” In re Weber Furniture Co. [Case No. 17,331]. Being therefore of the opinion that the payments made to A. and M. Kory during the months of November and December, 1877, were made out of the proceeds of goods for the most part recently purchased and unpaid for, and were made in contemplation of bankruptcy, and that the persons so preferred received the same know­ing the insolvency of the debtor, and that such payments were made in fraud of the bankrupt act, notwithstanding the same were made sixty days prior to the filing the peti­tion for adjudication of bankruptcy against said debtor, in my opinion no proposal in composition ought to receive the approval of the court unless the pro rata offered to all the creditors should be equal to such amount as they otherwise would be entitled to re­ceive if no such preference had been made, taking the present estimated assets of the bankrupt and the thirty per cent now of­fered in composition as the basis of such cal­culation, following in principle the decisions heretofore rendered by the honorable the judge of this court. In re Cramer; In re Fox, supra. I am therefore of the opinion that the composition of thirty per cent, pro­posed by the bankrupt should not be com ficmed. All of which is most respectfully submitted.</p>
+              </opinion>
+              <opinion type="concurrence">
+                <author pgmap="276" id="b276-7">MORRILL, District Judge.</author>
+                <p pgmap="276" id="AxB">I concur in the opinion and conclusion of the register, and order accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="273" ORDERLABEL="271" TYPE="page">
+        <fptr FILEID="tiff_00137_0"/>
+        <fptr FILEID="jp2_00137_0"/>
+        <fptr FILEID="alto_00137_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_273.3" BETYPE="IDREF" FILEID="alto_00137_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="274" ORDERLABEL="272" TYPE="page">
+        <fptr FILEID="tiff_00137_1"/>
+        <fptr FILEID="jp2_00137_1"/>
+        <fptr FILEID="alto_00137_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_274.4" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="275" ORDERLABEL="273" TYPE="page">
+        <fptr FILEID="tiff_00138_0"/>
+        <fptr FILEID="jp2_00138_0"/>
+        <fptr FILEID="alto_00138_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_275.3" BETYPE="IDREF" FILEID="alto_00138_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="276" ORDERLABEL="274" TYPE="page">
+        <fptr FILEID="tiff_00138_1"/>
+        <fptr FILEID="jp2_00138_1"/>
+        <fptr FILEID="alto_00138_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_276.4" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-4" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.5" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            <area BEGIN="BL_276.6" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b276-7" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.7" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoMA" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.15" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ay0S" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.5" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGg7" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.14" BETYPE="IDREF" FILEID="alto_00137_1"/>
+            <area BEGIN="BL_275.1" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-9" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.11" BETYPE="IDREF" FILEID="alto_00138_0"/>
+            <area BEGIN="BL_276.1" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-8" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.10" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-7" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.9" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b275-4" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_275.6" BETYPE="IDREF" FILEID="alto_00138_0"/>
+            <area BEGIN="BL_275.7" BETYPE="IDREF" FILEID="alto_00138_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b274-12" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_274.13" BETYPE="IDREF" FILEID="alto_00137_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-17" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.20" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-12" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.14" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-11" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.13" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b273-10" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_273.12" BETYPE="IDREF" FILEID="alto_00137_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxB" BETYPE="IDREF" FILEID="casebody_0150"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_276.8" BETYPE="IDREF" FILEID="alto_00138_1"/>
+            <area BEGIN="BL_276.9" BETYPE="IDREF" FILEID="alto_00138_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

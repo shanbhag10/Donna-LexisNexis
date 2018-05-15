@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0108" publicationstatus="published">
+          <court abbreviation="D. Mich." jurisdiction="United States">United States District Court for the District of Michigan</court>
+          <name abbreviation="Ives v. The Buckeye State">IVES v. The BUCKEYE STATE</name>
+          <docketnumber>Case No. 7,117</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 184</citation>
+          <decisiondate>1856</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00093_1" MIMETYPE="image/tiff" CHECKSUM="7d7430852ba1527f03eafda81d184e00" CHECKSUMTYPE="MD5" SIZE="51602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00093_1.tif"/>
+      </file>
+      <file ID="tiff_00094_0" MIMETYPE="image/tiff" CHECKSUM="f9415b3585a7c4cdc3ec7a6a7f36de8d" CHECKSUMTYPE="MD5" SIZE="47262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00094_0.tif"/>
+      </file>
+      <file ID="tiff_00094_1" MIMETYPE="image/tiff" CHECKSUM="d77c0ff319a86830d0f0c99698264a6d" CHECKSUMTYPE="MD5" SIZE="78664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00094_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00093_1" MIMETYPE="image/jp2" CHECKSUM="06d8f02dafacd46256f3dfb3506eaee1" CHECKSUMTYPE="MD5" SIZE="2283496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00093_1.jp2"/>
+      </file>
+      <file ID="jp2_00094_0" MIMETYPE="image/jp2" CHECKSUM="ada884d4e85a638fe1bac3f284ddd63f" CHECKSUMTYPE="MD5" SIZE="2089016">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00094_0.jp2"/>
+      </file>
+      <file ID="jp2_00094_1" MIMETYPE="image/jp2" CHECKSUM="5b1d831866d6cf0c5cbd781cc652725a" CHECKSUMTYPE="MD5" SIZE="3167389">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00094_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00093_1" MIMETYPE="text/xml" CHECKSUM="fc3ca562178630cca3b9164b1dc1e122" CHECKSUMTYPE="MD5" SIZE="100300">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00093_1.xml"/>
+      </file>
+      <file ID="alto_00094_0" MIMETYPE="text/xml" CHECKSUM="4fa06d225e9829c88613abb898939a95" CHECKSUMTYPE="MD5" SIZE="96684">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00094_0.xml"/>
+      </file>
+      <file ID="alto_00094_1" MIMETYPE="text/xml" CHECKSUM="ee5b2e2af632093c3883ff7d5d831a85" CHECKSUMTYPE="MD5" SIZE="164259">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00094_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0108" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="186" firstpage="184">
+              <court pgmap="186" id="b186-12">District Court, D. Michigan.</court>
+              <docketnumber pgmap="186" id="b186-9">Case No. 7,117.</docketnumber>
+              <parties pgmap="186" id="b186-10">IVES v. The BUCKEYE STATE.</parties>
+              <decisiondate pgmap="186" id="AJs">1856.</decisiondate>
+              <attorneys pgmap="187" id="A4b">G. T. Sheldon and John S. Newberry, for libelant.</attorneys>
+              <attorneys pgmap="187" id="b187-8">Lothrop &amp; Duffield, for claimant.</attorneys>
+              <p pgmap="186" id="b186-11">[Newb. 69.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="186" id="b186-18">1 [Reported by John S. Newberry, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="187" id="Axy">TVILKINS, District Judge.</author>
+                <p pgmap="187" id="Axp">The libel was filed in this case on a bill for dockage and repairs. The court does not deem as ten­able, the principal matters set up as de-­fence to the libelant’s demand, and for these reasons: 1st, as a question of fact, it does not satisfactorily appear, that the loss sus­tained by the claimant, if any, was the con­sequence of the negligence of the libelant. The boat was not detained beyond the time requisite for the repairs ordered: 2dly, as a question of law, the court is not prepared to adopt the rule, to the extent contended for, viz: that an estimate of probable profits for the time lost by the steamer is to be deduct­ed as a set-off, from the bill of the libelant, 'When such a rule shall be enforced by this court, it will be on the clearest and the most unquestionable testimony. 3d. The other matter of defence, that the work was not performed in a workmanlike manner, is re­futed by the preponderance of the evidence. Bloomer, Atkinson and Johnston are conclu­sive upon this point.</p>
+                <p pgmap="187" id="A49">Thus disposing of the defence, the ques­tion arises, has the libelant established his account by satisfactory proof? It is not for the court to determine, without proof, wheth­er or not a bill is exorbitant. The first item is for dockage, which, being the pecuniary compensation, for the use of a dock, while a vessel is undergoing repairs, is subject solely to the will of the proprietor. It is in the nature of rent, and the owner of a dry dock, has a right to demand from those who seek its use, whatever he considers a fair compensation, uncontrolled by the custom of other docks, in other places. House rent in Buffalo or Cleveland, is not to govern land­lords in Detroit; although where there is no sjjecial agreement touching the subject, the usual rent of similar buildings in the same locality, would enlighten the judgment of a court as to what such property was worth.</p>
+                <p pgmap="187(40) 188(236)" id="Aj_q">From the testimony of John Ives, it ap­pears there was a special agreement in this ease between Mr. Philips (the owner of the Buckeye), and the libelant, when the vessel was brought iuto dock, as to what the latter would charge for dockage. He says: “Cap­tain Philips applied for the dockage of the Buckeye State, saying that she would have to be .in three or four days. We told him that the dockage was fifty cents per ton. She was taken in on the 20th; my brother and the captain superintended taking her in: she was in dock until the 1st of November.” This witness also testified to a printed tariff of charges to be made by the dock of the libelant, in which appears the charge of two shillings a ton, for the four days succeeding the first four days, and that he, as clerk, al­ways made the half dockage charge; but it is not clear, that this tariff was brought to the knowledge of Philips or his captain,, so as to bind him to an extra charge over the fifty cents per ton, agreed upon before the steam­er was taken in, provided her repairs should occupy a longer time than was then antici­pated. The charge for dockage, is $637, and if the item for half dockage be superadded, it would make the rent of the dock, for eleven days, $955.50; a sum so improbable for the mere use of the dock, independent of repairs, that, without more direct proof, I cannot consider the charge for half dockage, as having been contemplated by the parties. This item is, therefore, rejected.</p>
+                <p pgmap="188" id="b188-3">It is in proof, that but eighteen shillings per day was paid to the men hired to do the work, while twenty shillings is charged in the bill. On no principle of justice, can the court sanction this charge. The libelant is responsible for the actual wages of the men employed, but no more. This additional charge, over and above what was paid to each man, cannot be considered in the light of compensation for the libelant’s time, for he charges for his own superintendence at the rate of $4 per day, for nine and a half days. The charge, therefore, for 215% days’ work, at twenty shillings, amounting to $538.75, must be reduced by subtracting this extra charge of two shillings per day, which amounts to $52.75, and makes the item prop­erly chargeable, $486. The clerk will revise this calculation, and correct the amount ac­cordingly. On the same principle, the addi­tional four shillings advance on the articles purchased and used in repairing the vessel, cannot be allowed. Why should the libelant be allowed'to charge more than the market price for the articles used in the repairs? He paid $6 per bale for oakum, and charges $6.50. He paid $5.50 per barrel for pitch, and charges $6.50. These additional sums must be deducted from the several charges. The deductions thus directed, reduce the li-­belant’s bill to $867.89, for which amount, with interest, let decree be entered. Decree for $940 and costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="186" ORDERLABEL="184" TYPE="page">
+        <fptr FILEID="tiff_00093_1"/>
+        <fptr FILEID="jp2_00093_1"/>
+        <fptr FILEID="alto_00093_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_186.6" BETYPE="IDREF" FILEID="alto_00093_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="187" ORDERLABEL="185" TYPE="page">
+        <fptr FILEID="tiff_00094_0"/>
+        <fptr FILEID="jp2_00094_0"/>
+        <fptr FILEID="alto_00094_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_187.3" BETYPE="IDREF" FILEID="alto_00094_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="188" ORDERLABEL="186" TYPE="page">
+        <fptr FILEID="tiff_00094_1"/>
+        <fptr FILEID="jp2_00094_1"/>
+        <fptr FILEID="alto_00094_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_188.13" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axy" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.9" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Axp" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.10" BETYPE="IDREF" FILEID="alto_00094_0"/>
+            <area BEGIN="BL_187.11" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b187-8" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.8" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJs" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.18" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-12" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.17" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-11" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.16" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-9" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.14" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A49" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.12" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj_q" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.13" BETYPE="IDREF" FILEID="alto_00094_0"/>
+            <area BEGIN="BL_188.10" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-18" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.24" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b188-3" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_188.14" BETYPE="IDREF" FILEID="alto_00094_1"/>
+            <area BEGIN="BL_188.15" BETYPE="IDREF" FILEID="alto_00094_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b186-10" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_186.15" BETYPE="IDREF" FILEID="alto_00093_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4b" BETYPE="IDREF" FILEID="casebody_0108"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_187.7" BETYPE="IDREF" FILEID="alto_00094_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

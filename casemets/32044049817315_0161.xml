@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0161" publicationstatus="published">
+          <court abbreviation="C.C.D. Ill." jurisdiction="United States">United States Circuit Court for the District of Illinois</court>
+          <name abbreviation="Jacquette v. Hugunon">JACQUETTE v. HUGUNON</name>
+          <docketnumber>Case No. 7,169</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 283</citation>
+          <citation category="parallel" type="bluebook">2 McLean, 129</citation>
+          <decisiondate>1840-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00143_0" MIMETYPE="image/tiff" CHECKSUM="5a563c4ec70c34a76e5353a58ed394c7" CHECKSUMTYPE="MD5" SIZE="50116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00143_0.tif"/>
+      </file>
+      <file ID="tiff_00143_1" MIMETYPE="image/tiff" CHECKSUM="3fe51725182e847444c160c3ce4faa73" CHECKSUMTYPE="MD5" SIZE="94722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00143_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00143_0" MIMETYPE="image/jp2" CHECKSUM="a737a657e13a395a4b652fb35ea908c3" CHECKSUMTYPE="MD5" SIZE="2377851">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00143_0.jp2"/>
+      </file>
+      <file ID="jp2_00143_1" MIMETYPE="image/jp2" CHECKSUM="f37e468812ac7611c53013fd1bb66dba" CHECKSUMTYPE="MD5" SIZE="3435199">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00143_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00143_0" MIMETYPE="text/xml" CHECKSUM="def451e8bc7a248672e54393a5707de3" CHECKSUMTYPE="MD5" SIZE="101578">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00143_0.xml"/>
+      </file>
+      <file ID="alto_00143_1" MIMETYPE="text/xml" CHECKSUM="77a8d2937ecbb92184fce93935135772" CHECKSUMTYPE="MD5" SIZE="202753">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00143_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0161" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="284" firstpage="283">
+              <court pgmap="285" id="b285-15">Circuit Court, D. Illinois.</court>
+              <docketnumber pgmap="285" id="b285-12">Case No. 7,169.</docketnumber>
+              <citation pgmap="285" id="b285-14">[2 McLean, 129.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="285" id="b285-13">JACQUETTE v. HUGUNON.</parties>
+              <decisiondate pgmap="285" id="A3-">June, 1840.</decisiondate>
+              <attorneys pgmap="285" id="b285-26">Mr. Butterfield, for plaintiff.</attorneys>
+              <attorneys pgmap="285" id="b285-27">Mr. Spring, for defendant.</attorneys>
+              <footnote label="1">
+                <p pgmap="285" id="b285-29">1 [Reported by Hon. John McLean, Circuit Justice.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p pgmap="285(146) 286(63)" id="b285-28">OPINION OP THE COURT. This suit is brought on the record of a judgment obtained in the state of New York. The defendant filed the pleas of nul tiel record and nil debet, and the question is whether the latter plea can be pleaded to an action on a judgment. Under the constitution and laws of the United States a judgment obtained in one state has the same effect in every other state. It is conclusive of the subject matter of con­troversy, and no plea can be filed which con­tradicts the record. The statute of limita­tions of the state where the suit is brought may be pleaded, also a release or payment, but the plea of nil debet which controverts the judgment, cannot be pleaded. Armstrong v. Carson [Case No. 543]; Mills v. Duryee, 7 Cranch [11 U. S.] 481; Hampton v. Mc-­Connel, 3 Wheat. [16 U. S.] 234; McElmayle v. Cohen, 13 Pet. [38 U. S.] 324. The plea of nul tiel record is the proper and the only plea that brings' before the court the validity of the record, and the description of it as set forth in the declaration. The demurrer to the. plea of nil debet, considered as filed, is sustained.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="285" ORDERLABEL="283" TYPE="page">
+        <fptr FILEID="tiff_00143_0"/>
+        <fptr FILEID="jp2_00143_0"/>
+        <fptr FILEID="alto_00143_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_285.5" BETYPE="IDREF" FILEID="alto_00143_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="286" ORDERLABEL="284" TYPE="page">
+        <fptr FILEID="tiff_00143_1"/>
+        <fptr FILEID="jp2_00143_1"/>
+        <fptr FILEID="alto_00143_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_286.4" BETYPE="IDREF" FILEID="alto_00143_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-29" BETYPE="IDREF" FILEID="casebody_0161"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.34" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-28" BETYPE="IDREF" FILEID="casebody_0161"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.33" BETYPE="IDREF" FILEID="alto_00143_0"/>
+            <area BEGIN="BL_286.1" BETYPE="IDREF" FILEID="alto_00143_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3-" BETYPE="IDREF" FILEID="casebody_0161"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.20" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-27" BETYPE="IDREF" FILEID="casebody_0161"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.32" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-26" BETYPE="IDREF" FILEID="casebody_0161"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.31" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-12" BETYPE="IDREF" FILEID="casebody_0161"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.16" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-13" BETYPE="IDREF" FILEID="casebody_0161"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.17" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-14" BETYPE="IDREF" FILEID="casebody_0161"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.18" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b285-15" BETYPE="IDREF" FILEID="casebody_0161"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_285.19" BETYPE="IDREF" FILEID="alto_00143_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

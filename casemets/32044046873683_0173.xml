@@ -1,0 +1,511 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0173" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="The Edwin">The EDWIN</name>
+          <docketnumber>Case No. 4,300</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 358</citation>
+          <citation category="parallel" type="bluebook">1 Spr. 477; 22 Law Rep. 198</citation>
+          <decisiondate>1859-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00180_1" MIMETYPE="image/tiff" CHECKSUM="9cdc9b8262ab215ef7b9008a6852da6e" CHECKSUMTYPE="MD5" SIZE="44128">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00180_1.tif"/>
+      </file>
+      <file ID="tiff_00181_0" MIMETYPE="image/tiff" CHECKSUM="b0a22d57127e5ca78216ef8f7c1d1d5b" CHECKSUMTYPE="MD5" SIZE="89582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00181_0.tif"/>
+      </file>
+      <file ID="tiff_00181_1" MIMETYPE="image/tiff" CHECKSUM="3a661d469723118e0f5dd96e00f8666f" CHECKSUMTYPE="MD5" SIZE="113740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00181_1.tif"/>
+      </file>
+      <file ID="tiff_00182_0" MIMETYPE="image/tiff" CHECKSUM="70060758ab4447bb6b6dcb14a6ebb405" CHECKSUMTYPE="MD5" SIZE="60698">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00182_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00180_1" MIMETYPE="image/jp2" CHECKSUM="6784fcf621f4ab22997ef458ce62e699" CHECKSUMTYPE="MD5" SIZE="2069119">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00180_1.jp2"/>
+      </file>
+      <file ID="jp2_00181_0" MIMETYPE="image/jp2" CHECKSUM="8fc8c67a66e0b79a78b2ec6b72e6682f" CHECKSUMTYPE="MD5" SIZE="3278830">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00181_0.jp2"/>
+      </file>
+      <file ID="jp2_00181_1" MIMETYPE="image/jp2" CHECKSUM="a3d70d0e28f5021322d09df29256b152" CHECKSUMTYPE="MD5" SIZE="3800730">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00181_1.jp2"/>
+      </file>
+      <file ID="jp2_00182_0" MIMETYPE="image/jp2" CHECKSUM="c0ebce7cd40f4ea1b68dce162bbd20a4" CHECKSUMTYPE="MD5" SIZE="2567760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00182_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00180_1" MIMETYPE="text/xml" CHECKSUM="d94ad33be396d3e6d3b84eb9dceb04fe" CHECKSUMTYPE="MD5" SIZE="82668">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00180_1.xml"/>
+      </file>
+      <file ID="alto_00181_0" MIMETYPE="text/xml" CHECKSUM="0ae8d4a4b9d8862d0ec57bba8342331b" CHECKSUMTYPE="MD5" SIZE="198338">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00181_0.xml"/>
+      </file>
+      <file ID="alto_00181_1" MIMETYPE="text/xml" CHECKSUM="3b88807550ef562924d45f2968af365c" CHECKSUMTYPE="MD5" SIZE="252147">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00181_1.xml"/>
+      </file>
+      <file ID="alto_00182_0" MIMETYPE="text/xml" CHECKSUM="8637da55973919c53c2086f3dc748ca3" CHECKSUMTYPE="MD5" SIZE="123233">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00182_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0173" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="361" firstpage="358">
+              <court id="b360-11" pgmap="360">District Court, D. Massachusetts.</court>
+              <docketnumber id="b360-8" pgmap="360">Case No. 4,300.</docketnumber>
+              <citation id="b360-10" pgmap="360">[1 Spr. 477;<footnotemark>1</footnotemark> 22 Law Rep. 198.]</citation>
+              <parties id="b360-9" pgmap="360">The EDWIN.</parties>
+              <decisiondate id="ATzU" pgmap="360">May, 1859.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys id="b361-3" pgmap="361">Milton Andros, for libellants.</attorneys>
+              <attorneys id="b361-4" pgmap="361">F. C. Loring, for claimant</attorneys>
+              <footnote label="1">
+                <p id="b360-15" pgmap="360">1 [Reported by F. B. Parker, Esq., assisted by Charles Francis Adams, Jr., Esq., and here re­printed by permission.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="b360-16" pgmap="360">2 [Affirmed by circuit court in Case No. 4,-­301. Decree of the circuit court affirmed by su­preme court in 24 How. (65 U. S.) 386.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b361-5" pgmap="361">SPRAGUE, District Judge.</author>
+                <p id="A8K" pgmap="361">It is contend­ed by the counsel for the claimant: first, that the bill of lading has no validity, as it was signed after the disaster; second, that the libellants cannot sue upon the original con­tract because that was merged in the bill of lading; third, that no lien ever existed up­on the vessel; and fourth, that there was no liability, if the steamer was fit and suitable.</p>
+                <p id="b361-6" pgmap="361">The first position is sustained. The mas­ter could not, after the loss had occurred, create a liability by signing the bill of lad­ing. The rights of the parties had been pre­viously fixed, and the bill of lading was whol­ly inoperative.</p>
+                <p id="b361-7" pgmap="361">The second objection cannot be sustained. The claimant himself having repudiated the bill of lading, and successfully denied that it has any validity, cannot at the same time set it up, as an instrument of sufficient efficacy to merge or supersede the prior contract.</p>
+                <p id="b361-8" pgmap="361">The third objection is that which has been most relied upon, and requires the greatest • consideration.</p>
+                <p id="b361-9" pgmap="361">The master, acting within the scope of his authority, made a contract of affreightment for the transportation of a cargo of cotton from Mobile to Boston. By the usage which was imported into this contract, and made a part of it, the master was to receive the cot­ton at the mill, which, it is verbally agreed, was on a wharf, and so situated that the cot­ton could be taken therefrom on board of a ■lighter. Pursuant to this contract, the mas­ter procured such lighter or boat as he saw .fit, and received the hundred bales of cotton on board thereof, and, by his agent, gave a receipt therefor to the libellants, and it was conveyed, under the master’s direction and authority, a distance of some miles, to the ship; but while alongside, and before the cotton had been taken on board, the boiler exploded, and the damage occurred. Now, it is insisted in behalf of the claimant, that in­asmuch as the cotton was never actually on board of the ship, no lien upon her ever ex­isted, and the opinions of the supreme court in The Freeman, 18 How. [59 U. S.] 188, and The Yankee Blade [Vanderwater v. Mills] 19 How. [60 U. S.] 90, are cited in support of this position. And it must be admitted that 'it is covered by the language used arguendo, in the opinions of the court in those cases. In the first, it is said: “Under the maritime law of the United States, the vessel is bound to the cargo, and the cargo to the vessel, for the performance of a contract of affreight­ment: but the law creates no lien on a vessel as a security for the performance of a con­tract to transport cargo, until some lawful contract of affreightment is made, and a car­go shipped under it.” And in the second, it is said: “If the cargo be-not placed on board, it is not bound to the vessel, and the vessel cannot be in default for the non-delivery, in good order, of goods never received on board; consequently, if the master or owner refuses to perform his contract, or for any other rea­son the ship does not receive cargo and de­part on her voyage according to contract, the charterer has no privilege or maritime lien on the ship, for such breach of the contract by the owners, but must resort to his person­al action for'damages, as in other cases.”</p>
+                <p id="b361-12" pgmap="361">These, however, are only dicta, not deci­sions, the cases not calling for them. The first was where the master had been induced by fraud to sign a bill of lading for goods never shipped, and never intended to be put on board. And it was held that the master had no authority to sign the bill of lading, and that neither the vessel nor the general owner was bound thereby. The case of The Yankee Blade was only a contract in the nature of a partnership, as the court viewed it, by which an owner of one steamer agreed with the owner of another.steamer, that each should put his boat on a certain line of travel, to make connecting links for the transporta­tion of passengers. The remarks of the court, therefore, which have been cited, al­though entitled to great deference, are not of binding authority.</p>
+                <p id="b361-13" pgmap="361(84) 362(51)">The language of the court is general. The cases did not require any careful considera­tion of limitations or conditions, or of ex­planations of what should be deemed the lading of goods on board, or equivalent thereto, and looking at the whole scope of their observations, it is not to be inferred that they would have applied the language which has been quoted, to a case like the present In these opinions, stress is laid up­on the necessity of reciprocity between the merchandize and the ship. In [Vanderwater v. Mills] 19 How. [60 U. S.] 90, it is said: “The obligation is mutual and reciprocal. The merchandize is bound or hypothecated to the vessel for freight and charges, (unless released by the covenants of the charter party,) and the vessel to the cargo.”</p>
+                <p id="b362-4" pgmap="362">I cannot but think that the language of the court was intended to apply to contracts purely executory, and not to those which had been executed in part Here the mer­chandize had been delivered to the master, and by him conveyed by water the distance of several miles, in execution of his contract. And he certainly could have held it, even as against the owner, until paid what he had a right to demand; in other words, he had a lien thereon.</p>
+                <p id="b362-5" pgmap="362">The merchandize, then, was holden to the owner of the ship, which is all that is meant by saying that it is bound to the ship; and why then, was the ship not bound to the owners of the goods ? The latter being held, reciprocity requires that the former also should be bound. Such a taking on board and transportation by the lighter is, in legal contemplation, equivalent to taking on board of the ship. The contract of affreightment was for the employment of the ship; and the use of the boat was merely subsidiary, and in execution of that contract Suppose a master taking his cargo at the wharf or shore, uses the ship’s boats to transport it to her, while lying in the roads, would not the possession of the goods in the boats be the same, in effect, as taking them on board of the ship ? and can it make any difference, whether the boats so used have been pur­chased, or only hired for a term of time, as for a year, or a voyage, or for the occasion? It is the substitute for the ship. Whether a vessel may be subject to a tacit hypotheca­tion fora breach of a contract of affreightment, where the merchandize has not been deliver­ed to the carrier, is a question which deserves careful consideration, before.it is answered in the negative.</p>
+                <p id="b362-6" pgmap="362">In The Flash [Case No. 4,857], Judge Betts held, that such a lien might exist; but sub­sequently, in July, 1857, according to a news­paper report, he made a contrary decision, not because he had changed his own views, but in submission to the opinions in 18 How. [59 U. S.] and 19 How. [60 U. S.]. These cases, however, as we have already seen, decide no such question. The cases of More­wood v. Pollok, 1 El. &amp; Bl. 743, and Salmon Falls Manuf’g Co. v. The Tangler [Case No. 12,265], have been cited to show that goods in a lighter, or on a wharf, although in the custody of the carrier, are not deemed to be on board of the ship. The question there decided arose under the statute of 26 Geo. III. c. 86, and the act of congress of March 3, 1851 (9 Stat. 635), exempting the carrier from liability for goods taken on board of his vessel, if burnt by fire occurring in, or on board of, the vessel; and the decisions were, that the court would not extend the exemption beyond the language of the stat­utes. It was merely the construction of a positive enactment, and cannot aid us in de­termining what should be the rule ■ of lia­bility' deduced from the principles of mari­time law. The exemption created by these statutes may well be said to be strict! juris, and such was, in effect, the decision of the court in refusing to extend it beyond the im­port of the words used by the legislature. I am aware that it has of late been repeatedly said by high authority (see [Vanderwater v. Mills] 19 How. [60 U. S.] 89) that liens cre­ated by the common maritime law are strict! juris; but I have seen very little explana­tion of the meaning of that phrase. Where a right is created by statute, it is not to be extended beyond a fair construction of the language of the positive enactment But where it is given by the common law, it is co­extensive with the reason and principle upon which it rests, and is not to be restricted to the precise facts of the cases in which it hap­pens to have been heretofore presented, nor even to the phraseology which the court may have used in upholding the right in particular cases. A court does not create the right, and their attention is drawn only to the facts of the case in which they assert it, and to these their language should properly be referred. A statute right of exemption may be said to be strict! juris, and not to be extended by analogy to other cases, although we might suppose that it would have been reasonable for the legislature to have embraced them. But to apply the rule by which we construe a statute to judicial decisions of a common law right which rests upon reason and jus­tice, or even to the language of the court in giving their opinion upon special circum­stances, would be to deprive the common law, whether of the land or sea, of the glory of being a code of principles capable of such expansion and adaptation as to comprehend and govern the infinite variety of novel facts and circumstances growing out of the ad­vance of civilization, and new branches and complications of business.</p>
+                <p id="b362-8" pgmap="362(142) 363(140)">Pardessus, 3 Droit Com. 597, is the authori­ty cited for the proposition, that maritime liens are of strict right 19 How. [60 U. S.] 89. But he is there reasoning upon the Code de Commerce. Having stated, that by article 191, a lien is given on ships for the premium of insurance on ships, he raises the question, whether it is to be inferred by analogy, that there is a lien on goods for the premium of insurance on goods. And after saying that, from the silence of the legisla­ture as to the latter, it may be inferred that it did not intend to embrace them, he goes on argumentatively to give other reasons, why such privilege does not extend to goods, and says that liens are stricti juris, that they are exceptions from the general rule of equality of right in creditors, and are not to he extended, hy analogy, from one case to another. All this is fairly to be taken to have reference to the liens upon which he has been com­menting, which were created by positive enactment. The reasoning of Pardessus seems to have no application to privileges given by the common maritime law. His language shows that he is speaking of the written, and not of the unwritten law. He says: “An exception ought to be expressly stated, and to be confined to its terms; it does not extend, by logical consequence, from one case to another.” But he is here •only stating the argument against the lien for premium of insurance on goods. He sub­sequently states the argument on the other side, to which, in conclusion, he seems to give the preference.</p>
+                <p id="b363-4" pgmap="363">The first time, as far as I recollect, that this citation from Pardessus is to be found in our reports, is in The Kearsarge [Case No. 7,633]. But there the subject-matter was a lien created by a statute of the state of Maine. It rested wholly upon positive enact­ments.</p>
+                <p id="b363-5" pgmap="363">The case of The Tangier is a direct authority for the proposition, that a vessel may be sub­ject to a lien for damage to goods, when not on board of her. There the merchandize had been transported to the port of destina­tion, unlivered, and placed upon the wharf. But being still in the custody of the carrier, the vessel was held responsible for its loss. This is somewhat stronger than if the goods bad been destroyed in being transported in the lighter from the ship to the shore; and, if in such case the vessel is subject to the hypothecation, why not, where the goods were destroyed in being transported in a lighter to the ship? In both, they are in the •custody of the carrier, who is responsible for, and actually conveying them, in per­formance of his contract* Why should the same circumstances carry with them a lia­bility, when occurring at one end of the voy­age, and not when arising at the other?</p>
+                <p id="b363-6" pgmap="363">The fourth ground of defence is that, if the steamboat was suitable for the purpose ■of conveying this cotton, there is no liability -on the part of the carrier. This cannot be sustained. The carrier is not exempted from liability, merely because the boat or ship which he employs is seaworthy; that is, fit and suitable for the voyage. It is not con­tended that the explosion, in this case, was a. peril of the sea, or of navigation, within the meaning of those terms, as used in bills •of lading and other maritime contracts.</p>
+                <p id="b363-7" pgmap="363">Decree for the libellants for $7,000 and costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="360" ORDERLABEL="358" TYPE="page">
+        <fptr FILEID="tiff_00180_1"/>
+        <fptr FILEID="jp2_00180_1"/>
+        <fptr FILEID="alto_00180_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_360.7" BETYPE="IDREF" FILEID="alto_00180_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="361" ORDERLABEL="359" TYPE="page">
+        <fptr FILEID="tiff_00181_0"/>
+        <fptr FILEID="jp2_00181_0"/>
+        <fptr FILEID="alto_00181_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_361.3" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="362" ORDERLABEL="360" TYPE="page">
+        <fptr FILEID="tiff_00181_1"/>
+        <fptr FILEID="jp2_00181_1"/>
+        <fptr FILEID="alto_00181_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_362.4" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="363" ORDERLABEL="361" TYPE="page">
+        <fptr FILEID="tiff_00182_0"/>
+        <fptr FILEID="jp2_00182_0"/>
+        <fptr FILEID="alto_00182_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_363.4" BETYPE="IDREF" FILEID="alto_00182_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-12" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.15" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-5" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.6" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-13" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.16" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            <area BEGIN="BL_362.1" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-5" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.7" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8K" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.8" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            <area BEGIN="BL_361.9" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-9" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.13" BETYPE="IDREF" FILEID="alto_00181_0"/>
+            <area BEGIN="BL_361.14" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATzU" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.15" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-3" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.5" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-4" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.6" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-5" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.7" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-6" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.10" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-7" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.11" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-15" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.19" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-16" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.20" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-11" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.14" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-10" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.13" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b361-8" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_361.12" BETYPE="IDREF" FILEID="alto_00181_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-4" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.5" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-6" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.8" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-7" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.9" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b363-4" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_363.6" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-8" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.9" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            <area BEGIN="BL_363.2" BETYPE="IDREF" FILEID="alto_00182_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-9" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.12" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b360-8" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_360.11" BETYPE="IDREF" FILEID="alto_00180_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b362-6" BETYPE="IDREF" FILEID="casebody_0173"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_362.7" BETYPE="IDREF" FILEID="alto_00181_1"/>
+            <area BEGIN="BL_362.8" BETYPE="IDREF" FILEID="alto_00181_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0533" publicationstatus="published">
+          <court abbreviation="C.C.S.D. Ga." jurisdiction="United States">United States Circuit Court for the Southern District of Georgia</court>
+          <name abbreviation="In re Joseph">In re JOSEPH</name>
+          <docketnumber>Case No. 7,532</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1124</citation>
+          <citation category="parallel" type="bluebook">2 Woods, 390</citation>
+          <decisiondate>1875-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00563_1" MIMETYPE="image/tiff" CHECKSUM="99d65db96f4cf4651b95ab4ae53f83ad" CHECKSUMTYPE="MD5" SIZE="86372">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00563_1.tif"/>
+      </file>
+      <file ID="tiff_00564_0" MIMETYPE="image/tiff" CHECKSUM="fdabb4b0439db05f9d7f0574259fd058" CHECKSUMTYPE="MD5" SIZE="113842">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00564_0.tif"/>
+      </file>
+      <file ID="tiff_00564_1" MIMETYPE="image/tiff" CHECKSUM="35dcdaa95bdb68e3e3d0b8e5ed8cec98" CHECKSUMTYPE="MD5" SIZE="69074">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00564_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00563_1" MIMETYPE="image/jp2" CHECKSUM="fbd7895c7a7acb0eabd627f49f17502c" CHECKSUMTYPE="MD5" SIZE="3299488">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00563_1.jp2"/>
+      </file>
+      <file ID="jp2_00564_0" MIMETYPE="image/jp2" CHECKSUM="a562dbcc39f5257961d4de53c181127c" CHECKSUMTYPE="MD5" SIZE="3809928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00564_0.jp2"/>
+      </file>
+      <file ID="jp2_00564_1" MIMETYPE="image/jp2" CHECKSUM="d7140801e3b5b62993c29b79d4dbe1d5" CHECKSUMTYPE="MD5" SIZE="2824170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00564_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00563_1" MIMETYPE="text/xml" CHECKSUM="3d4201d254d01a2e9825b121ee12320e" CHECKSUMTYPE="MD5" SIZE="183335">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00563_1.xml"/>
+      </file>
+      <file ID="alto_00564_0" MIMETYPE="text/xml" CHECKSUM="d75d1bfc43283d099092adb525f5e2e7" CHECKSUMTYPE="MD5" SIZE="251280">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00564_0.xml"/>
+      </file>
+      <file ID="alto_00564_1" MIMETYPE="text/xml" CHECKSUM="dc220181961e2a42e84abf0fb1921f60" CHECKSUMTYPE="MD5" SIZE="143760">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00564_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0533" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1126" firstpage="1124">
+              <court pgmap="1126" id="b1126-11">Circuit Court, S. D. Georgia.</court>
+              <docketnumber pgmap="1126" id="b1126-8">Case No. 7,532.</docketnumber>
+              <citation pgmap="1126" id="b1126-10">[2 Woods, 390.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1126" id="b1126-9">In re JOSEPH.</parties>
+              <decisiondate pgmap="1126" id="AQqb">June Term. 1875.</decisiondate>
+              <judges pgmap="1126" id="b1126-20">Before BRADLEY, Circuit Justice, and WOODS, Circuit Judge.</judges>
+              <attorneys pgmap="1126" id="b1126-18">H. R. Jackson, A. R. Lawton, and W. S. Basinger, for the motion.</attorneys>
+              <attorneys pgmap="1126" id="b1126-19">Charles N. West, contra.</attorneys>
+              <footnote label="1">
+                <p pgmap="1126" id="b1126-15">1 [Reported by Hon. William B. Woods. Cir­cuit Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1126" id="b1126-21">WOODS, Circuit'Judge.</author>
+                <p pgmap="1126" id="A48l">E. Waitzfelder &amp; Co., claiming to be creditors of the bank­rupt, proved their debt before the register. Cochran, McLean &amp; Co., who it is was con­ceded were bona fide creditors of the bank­rupt, moved the register to expunge the proof of the claim of Waitzfelder &amp; Co., and testimony having been taken by both parties, the register, by agreement, referred the mat­ter to the judge of the district court. After hearing the evidence, the district judge re­fused to grant the motion to expunge. There­upon, Cochran, McLean &amp; Co. filed their petition under the second section of the bankrupt act, alleging that they were ag­grieved by the decision of the district judge, and praying a review and reversal of his or­der. The revision sought was upon the same motion and evidence as that submitted to the district judge. Waitzfelder &amp; Co. now move this court to dismiss the petition on the ground that the case is not within the revisory jurisdiction of the circuit court, and this motion presents the question now to be determined. The second section of the bank­rupt act (Rev. St. § 4986), declares that “the circuit court for each district shall have &amp; general superintendence and jurisdiction of all cases and questions arising in the dis­trict court for such district when sitting as a court of ba nkruptey * * * and, except when special provision is otherwise made, may upon bill, petition, or other proper pro­cess of any party aggrieved, hear and de­termine the case as in a court of eiuity.” Two points are presented by this section for solution: (1) Whether one creditor, is au­thorized to make a case or question by op­posing the allowance of the debt of another creditor, and (2), if the bankrupt court has overruled his opposition and allowed the-­debt, whether any "special provision is oth­erwise made” except by petition of review, by which he can take the case or question to-­the circuit court for revision.</p>
+                <p pgmap="1126(41) 1127(467)" id="b1126-22">Upon the first point, it seems clear that one creditor may oppose the allowance of the claim of any other creditor. There is a fixed amount of assets, out of which tho creditors are to be paid pro rata. Each one is interested in diminishing the claim of every other, for the less the claims of oth­ers, the greater will be his own dividend. And the bankrupt act makes direct provision for the intervention of one creditor against the claim of another. Section 22 (Rev. St. § 58S1) provides that “the court may, upon ap­plication of the assignee, or of any creditor, or of the bankrupt, examine upon oath the bankrupt, or any person tendering, or who has made proof of a claim, and may sum­mon any person capable of giving evidence concerning such proof, or concerning the debt sought to be proved, and shall reject all claims not duly proved, or where the proof shows the claim to be founded in fraud, il­legality or mistake.” Here is ample warrant for a creditor to intervene and contest the allowance by the district court of the claim of any other creditor. His intervention and opposition raise a case or question in the bankrupt court, and of such ease or ques tion the circuit court has revisory jurisdic­tion by bill, petition, or other proper process, unless special provision is otherwise made therefor. Is provision otherwise made in the case where one creditor, without the concur­rence of the assignee, opposes the allowance of the claim of another creditor? Section 8 (Rev. St. § 4980) of the bankrupt act fur­nishes the only special provisions for the re­moval of causes or questions in bankruptcy from the district to the circuit court. It pro­vides that appeals may be taken from the district to the circuit courts in all cases in equity, and writs of error, from the circuit courts to the district courts, may be allowed in cases at law arising under the jurisdiction created by the bankrupt act, when the debt or damages claimed amount to more than five hundred dollars; and any supposed creditor whose claim is wholly or in part re­jected, or an assignee who is dissatisfied with the allowance of a claim, may appeal from the decision of the district court to the cir­cuit court for the same district. Here is no provision for any appeal or other revisory proceeding by á creditor who is dissatisfied with the allowance of a claim. The assignee may appeal, but a contesting creditor cannot. When a creditor opposes a claim, he raises a case or question. If it is decided against him, the circuit court has jurisdiction to re­vise it by bill or petition, unless special pro­vision is otherwise made. But, as we have seen, there is no special provision made for such a case, and it follows that the case or question must be reviewed, if at all, by bill, petition, or other proper process under the second section.</p>
+                <p pgmap="1127" id="b1127-4">The policy and express provision of the bankrupt act is, to allow a review by the circuit court of every case .or question not lodged exclusively in the discretion of the district court, arising in the administration of the bankrupt act by the district court, ex­cept where provision has been made for an appeal or writ of error. No more compre­hensive language could be found, to embrace every controversy arising in the course ot the bankrupt proceedings, than that used in the section conferring revisory power upon the circuit court. I am of opinion, therefore, that the opposition by. one creditor to the allowance of the claim of another creditor, makes a case or question under the bank­rupt act; that if the claim is allowed in spite of the opposition of the contesting creditor, no appeal is allowed him, nor other special provision for removing the case or question to the circuit court, and that he may, there-­fore, by virtue of the provisions of the sec­ond section, take the case or question to the circuit court by bill, petition, or other proper process.</p>
+                <p pgmap="1127" id="b1127-6">In opposition to the views expressed, we have been cited to the following cases: In re Troy Woolen Co. [Case No. 14,202]; In re Place [Id. 11,200]. In the first case the as-­signee joined with a creditor in contesting the claim of another creditor, and as the as-­signee refused to appeal from the allowance of the claim, as he might have done, the court decided that the creditor could not re­sort to his petition of review. It must be ad­mitted that this case is in point against the views expressed, and that the opinion of the court by which it was decided is entitled to great respect The case just mentioned ap­pears to involve the same controversy, in a somewhat different shape, that was decided by the United States supreme court in Bank v. Cooper, 20 Wall. [87 U. S.] 171. The pro­ceeding appealed from was a bill filed in the circuit court by the creditor to contest the allowance of the claim of another creditor made by the district court. The supreme court held that, as an original bill, it was without equity. It was then suggested that it might be good as a petition under the sec­ond section of the bankrupt act. The court declined to decide whether the ease made by the bill presented a proper one for review under that section. But although the bill was demurred to for want, of jurisdiction, the court did not decide that a creditor con­testing the claim of another creditor could not review by petition in the circuit court, the allowance of the claim by the district court. The other case cited, namely, In re Place [supra], only decides that when the claim of a creditor is disallowed, he must take the case to the circuit court by appeal, and not by petition, of review.</p>
+                <p pgmap="1127(100) 1128(70)" id="b1127-7">Basing my decision upon the express words of the bankrupt act, I am of opinion that under the facts of this case, Cochran, Mc­Lean &amp; Co. had the right to take the decision of the district court allowing the claim of Waitzfelder &amp; Co. to the circuit court, by petition of review. It has occurred to me that as the assignee has the right to appeal, and the opposing creditor to proceed by peti­tion of review to have the allowance of the claim of another creditor reversed, it is pos­sible that both these remedies might be re­sorted to at the same time, and thereby pre­sent the same controversy to the circuit court in two different forms, and involving differ­ent methods of trial. But this difficulty, if it should ever arise, may be avoided by the ex­ercise of the discretion of the circuit court in determining which form of proceeding should be retained. Practically, I think no embarrassment could arise from the case supposed.</p>
+                <p pgmap="1128" id="b1128-4">The result of these views is, that the mo­tion to dismiss must be overruled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1126" ORDERLABEL="1124" TYPE="page">
+        <fptr FILEID="tiff_00563_1"/>
+        <fptr FILEID="jp2_00563_1"/>
+        <fptr FILEID="alto_00563_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1126.4" BETYPE="IDREF" FILEID="alto_00563_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1127" ORDERLABEL="1125" TYPE="page">
+        <fptr FILEID="tiff_00564_0"/>
+        <fptr FILEID="jp2_00564_0"/>
+        <fptr FILEID="alto_00564_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1127.3" BETYPE="IDREF" FILEID="alto_00564_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1128" ORDERLABEL="1126" TYPE="page">
+        <fptr FILEID="tiff_00564_1"/>
+        <fptr FILEID="jp2_00564_1"/>
+        <fptr FILEID="alto_00564_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1128.4" BETYPE="IDREF" FILEID="alto_00564_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQqb" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.15" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-10" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.13" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-11" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.14" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-18" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.22" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-19" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.23" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-15" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.19" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A48l" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.26" BETYPE="IDREF" FILEID="alto_00563_1"/>
+            <area BEGIN="BL_1126.27" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1127-4" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1127.5" BETYPE="IDREF" FILEID="alto_00564_0"/>
+            <area BEGIN="BL_1127.6" BETYPE="IDREF" FILEID="alto_00564_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-8" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.11" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-9" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.12" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1127-7" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1127.8" BETYPE="IDREF" FILEID="alto_00564_0"/>
+            <area BEGIN="BL_1128.1" BETYPE="IDREF" FILEID="alto_00564_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1127-6" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1127.7" BETYPE="IDREF" FILEID="alto_00564_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-21" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.25" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-20" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.24" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1128-4" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1128.5" BETYPE="IDREF" FILEID="alto_00564_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-22" BETYPE="IDREF" FILEID="casebody_0533"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.28" BETYPE="IDREF" FILEID="alto_00563_1"/>
+            <area BEGIN="BL_1127.1" BETYPE="IDREF" FILEID="alto_00564_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

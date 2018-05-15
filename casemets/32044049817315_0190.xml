@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0190" publicationstatus="published">
+          <court abbreviation="E.D.N.Y." jurisdiction="United States">United States District Court for the Eastern District of New York</court>
+          <name abbreviation="The James McMahon">The JAMES McMAHON</name>
+          <docketnumber>Case No. 7,197</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 334</citation>
+          <citation category="parallel" type="bluebook">10 Ben. 103</citation>
+          <decisiondate>1878-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00168_1" MIMETYPE="image/tiff" CHECKSUM="11edb7bc0e50d1bb6065a8bf2505dfaa" CHECKSUMTYPE="MD5" SIZE="65200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00168_1.tif"/>
+      </file>
+      <file ID="tiff_00169_0" MIMETYPE="image/tiff" CHECKSUM="7e52cb7ccba8101de273123ac3616b69" CHECKSUMTYPE="MD5" SIZE="100212">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00169_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00168_1" MIMETYPE="image/jp2" CHECKSUM="d844883702b7881293e683381e53a515" CHECKSUMTYPE="MD5" SIZE="2715992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00168_1.jp2"/>
+      </file>
+      <file ID="jp2_00169_0" MIMETYPE="image/jp2" CHECKSUM="80f3a87b6ea15d7589be3faa2ceec059" CHECKSUMTYPE="MD5" SIZE="3612840">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00169_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00168_1" MIMETYPE="text/xml" CHECKSUM="95f9f1d0c67cff8468a0a5bb6cc4874b" CHECKSUMTYPE="MD5" SIZE="143605">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00168_1.xml"/>
+      </file>
+      <file ID="alto_00169_0" MIMETYPE="text/xml" CHECKSUM="84339bccd99066b394f9192b0e11b18e" CHECKSUMTYPE="MD5" SIZE="237174">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00169_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0190" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="335" firstpage="334">
+              <court pgmap="336" id="ANx">District Court, E. D. New York.</court>
+              <docketnumber pgmap="336" id="b336-19">Case No. 7,197.</docketnumber>
+              <citation pgmap="336" id="AHr">[10 Ben. 103.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="336" id="Aag3">The JAMES McMAHON.</parties>
+              <decisiondate pgmap="336" id="AWzI">Sept., 1878.</decisiondate>
+              <attorneys pgmap="336" id="b336-25">T. C. Campbell, for libellant.</attorneys>
+              <attorneys pgmap="336" id="b336-26">E. D. McCarthy, for claimant.</attorneys>
+              <footnote label="1">
+                <p pgmap="336" id="b336-29">1 [Reported by Robert D. Benedict, Esq., and Benj. Lincoln Benedict, Esq., and here re­printed by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="336" id="b336-27">BENEDICT, District Judge.</author>
+                <p pgmap="336" id="AE1e">This case comes before the court upon an exception to the libel, upon the ground that the facts stated do not make out a case of liability on the part of the vessel proceeded against. The averments of the libel are, in substance, that on a day named, the master and owners of the tow-boat James McMahon made a con­tract with the owner of the canal boat Mars, wherein it was agreed that the James Mc­Mahon. then in the port of New York, should tow the boat Mars, upon a voyage from New York to Troy, for the sum of $15 tow-­age. That thereupon the owner of the Mars paid to the owner of the James McMahon the towage agreed on, and thereafter the James McMahon entered upon and perform­ed the voyage from New York to Troy, but refused to give the Mars a place in her tow and wholly neglected to tow the Mars as agreed, although the Mars was waiting at the place agreed on and ready to be towed on the voyage in question, whence damage was caused to the owner of the Mars.</p>
+                <p pgmap="336(32) 337(21)" id="b336-28">These facts, as the claimant contends, make the case one of an executory contract, not binding upon the tow-boat, and out of a re­fusal to perform which no lien attaches to the tow-boat. In support of the exception, reference is made to the case of The Gen­eral Sheridan [Case No. 5,319],</p>
+                <p pgmap="337" id="b337-3">As I view the case it differs from the case of The General Sheridan in several impor­tant particulars. First. — In this case the con­tract was performed so far as the canal boat was concerned. The towage was paid and the boat ready at the appointed place to be taken in tow according to the agreement. Second. — The voyage upon which it was ■agreed the canal boat should be taken in tow was entered upon. The tow-boat, as had been agreed, took a tow from New York to Troy at the time specified, but did not take the Mars in that tow as it had been ¡agreed she should -do.</p>
+                <p pgmap="337" id="b337-4">It is not therefore the case of a contract purely executory. When the breach of the contract occurred, the tow-boat was in the .-act of making the voyage agreed on. The canal boat was waiting to be taken in tow •and the towage had already been paid. ■ I .am aware of no authority for holding that In such a case the vessel is not liable for the •damages caused by the breach stated. • .</p>
+                <p pgmap="337" id="b337-5">It will be observed that the contract set forth In the libel was made by the master •of the tow-boat, who was also her owner, and, as the libel avers, was in the usual course of the employment in which the tow­boat was then engaged. There is, there­fore, no question of want of authority to bind the vessel, as was the case in Grant v. Norway, 18 Eng. Law &amp; Eq. 561, and in The Freeman, 18 How. [59 U. S.] 182. Neither Is this the case of an agreement to make a maritime contract, as was the ease of The Pauline [Case No. 10,848].</p>
+                <p pgmap="337" id="b337-6">The contract sued on is the maritime con­tract itself — maritime because it was an ¡agreement to transport a vessel upon navi­gable waters, and perfected as a contract by the payment and receipt of the towage money. No other payment was to be made, nothing further was to be done by the canal boat and no other contract was contemplat­•ed. The liability of the owner was complete. An action in personam in the admiralty, founded upon the contract as it stands, ■could undoubtedly be maintained. It was a •contract for the benefit of the tow-boat, to enable her to earn towage, and it in fact brought her towage to the amount agreed, viz: §15. If, then, the contract had be­come binding on the owners of the tow­'.boat. why should not the boat herself be bound, being as it was for the benefit of the tow-boat? No reason is seen for exempting •the vessel from liability in such a case, if vessels are ever to be held bound by con­tracts of affreightment.</p>
+                <p pgmap="337" id="b337-7">It is supposed that the case of Vandewater v. Mills, 19 How. [60 U. S.] 90, referred to in ¡the case of The General Sheridan [supra], •as authority for the decision in that case, is an authority adverse to the libellant’s claim in this case. But for the reasons above stated, I am of the opinion that the facts in this case already alluded to take it out of the scope of any rule declared in the case of Vandewater v. Mills [supra]. Moreover, this latter case is commented upon, by the supreme court itself, in the case of Bulkley v. Naumkeag Steam Cotton Co., 24 How. [65 U. S.] 392, and pains apparently is there taken to limit its effect, for it is treated as laying down no different rule from that de­clared in Grant v. Norway, and The Free­man, 18 How. [59 U. S.] 182, in which cases the action in rem failed, for want of authori­ty in the master to bind the vessel for the contract sued on, and as belonging to a class of cases where, as the court say: “There was no contract of affreightment binding be­tween the parties, as there had been no ful-­filment on the part of the shipper, namely, the delivery of the cargo.” Here the con­tract is a towage contract, which does not look to the delivery of a cargo on board the ship by a shipper thereof, but to a taking a boat to be part of a tow, on a voyage which was not abandoned, but made; and this contract had become binding on the owners of the tow-boat and been fulfilled by the other party.</p>
+                <p pgmap="337" id="b337-10">In the case last referred to, from the de­cisions of the supreme court—[Bulkley v. Naumkeag Steam Cotton Co.] 24 How. [65 U. S.] 392—the court go on to announce that it is too narrow and limited a view of the liability of the vessel to require a physical connection with the vessel as a foundation for the lia­bility in rem.</p>
+                <p pgmap="337" id="b337-11">In this case, then, it is a mistake to sup­pose that the fact that the canal boat was never taken hold of by the tow-boat, is sufficient to exempt the tow-boat from lia­bility. That fact is not material in a case like this, where the tow-boat agreed to come and take the canal boat and tow her to Troy, on a certain voyage, and where the towage agreed on was paid, and the voy­age not abandoned, but made; the canal boat not being taken, simply because the tow-boat neglected to stop for her. In such a state of facts, the liability of the tow-boat was complete from the moment of her omis­sion to stop for the Mars, and she is liable to be proceeded against in rem for the dam­ages resulting from such violation of the contract. The exception is therefore over­ruled, and a decree given in favor of ■ the libellant, with leave to the claimant to file an answer upon payment of costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="336" ORDERLABEL="334" TYPE="page">
+        <fptr FILEID="tiff_00168_1"/>
+        <fptr FILEID="jp2_00168_1"/>
+        <fptr FILEID="alto_00168_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_336.4" BETYPE="IDREF" FILEID="alto_00168_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="337" ORDERLABEL="335" TYPE="page">
+        <fptr FILEID="tiff_00169_0"/>
+        <fptr FILEID="jp2_00169_0"/>
+        <fptr FILEID="alto_00169_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_337.5" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-3" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.7" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-4" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.8" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-5" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.9" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-6" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.10" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-7" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.11" BETYPE="IDREF" FILEID="alto_00169_0"/>
+            <area BEGIN="BL_337.12" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANx" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.25" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHr" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.24" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AE1e" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.33" BETYPE="IDREF" FILEID="alto_00168_1"/>
+            <area BEGIN="BL_336.34" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aag3" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.23" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-10" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.13" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b337-11" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_337.14" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWzI" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.26" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-28" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.35" BETYPE="IDREF" FILEID="alto_00168_1"/>
+            <area BEGIN="BL_337.3" BETYPE="IDREF" FILEID="alto_00169_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-29" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.36" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-26" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.31" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-27" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.32" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-25" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.30" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b336-19" BETYPE="IDREF" FILEID="casebody_0190"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_336.22" BETYPE="IDREF" FILEID="alto_00168_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

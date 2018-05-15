@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0253" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Ellen Tobin">The ELLEN TOBIN</name>
+          <docketnumber>Case No. 4,379</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 517</citation>
+          <citation category="parallel" type="bluebook">8 Ben. 446</citation>
+          <decisiondate>1876-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00260_0" MIMETYPE="image/tiff" CHECKSUM="dd70dc755f70add65ad1adf225beea9e" CHECKSUMTYPE="MD5" SIZE="100070">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00260_0.tif"/>
+      </file>
+      <file ID="tiff_00260_1" MIMETYPE="image/tiff" CHECKSUM="8681f0327f41020e342d7f89a4b8e884" CHECKSUMTYPE="MD5" SIZE="89292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00260_1.tif"/>
+      </file>
+      <file ID="tiff_00261_0" MIMETYPE="image/tiff" CHECKSUM="2127b8c22ed68710cc8c32c8e8fb4b25" CHECKSUMTYPE="MD5" SIZE="116070">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00261_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00260_0" MIMETYPE="image/jp2" CHECKSUM="ce4bdc2cf816ff07712db9d6b70071b7" CHECKSUMTYPE="MD5" SIZE="3586488">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00260_0.jp2"/>
+      </file>
+      <file ID="jp2_00260_1" MIMETYPE="image/jp2" CHECKSUM="6d048a573d29de8125b33e57dbe9c09b" CHECKSUMTYPE="MD5" SIZE="3235375">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00260_1.jp2"/>
+      </file>
+      <file ID="jp2_00261_0" MIMETYPE="image/jp2" CHECKSUM="a23442bbb6e0bfed1196827781c29fba" CHECKSUMTYPE="MD5" SIZE="3872409">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00261_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00260_0" MIMETYPE="text/xml" CHECKSUM="a08fc86431eb36615ef7abfd4f2c8c06" CHECKSUMTYPE="MD5" SIZE="219236">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00260_0.xml"/>
+      </file>
+      <file ID="alto_00260_1" MIMETYPE="text/xml" CHECKSUM="63f0c5a27edceff115ba189a88f05f9c" CHECKSUMTYPE="MD5" SIZE="195500">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00260_1.xml"/>
+      </file>
+      <file ID="alto_00261_0" MIMETYPE="text/xml" CHECKSUM="28cf469a15d556daea8dd95b959fd217" CHECKSUMTYPE="MD5" SIZE="259782">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00261_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0253" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="519" firstpage="517">
+              <court id="b519-17" pgmap="519">District Court, S. D. New York.</court>
+              <docketnumber id="b519-14" pgmap="519">Case No. 4,379.</docketnumber>
+              <citation id="b519-16" pgmap="519">[8 Ben. 446.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b519-15" pgmap="519">The ELLEN TOBIN.</parties>
+              <decisiondate id="AQp" pgmap="519">June, 1876.</decisiondate>
+              <attorneys id="b520-7" pgmap="520">W. G. Choate, for libellants.</attorneys>
+              <attorneys id="b520-8" pgmap="520">D. McMahon, for claimants.</attorneys>
+              <footnote label="1">
+                <p id="b519-20" pgmap="519">1 [Reported by Robert D. Benedict, Esq., and Benj. Lincoln Benedict, Esq., and here reprint­ed by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b520-9" pgmap="520">BLATCHFOBD, District Judge.</author>
+                <p id="A8x" pgmap="520">This is a libel filed by the owners of the schooner S.T. Wines and one of her crew, and the owners of the cargo she was carrying, to recover against the schooner Ellen-Tobin the damages sustained by the libellants through a collision which took place between the two vessels shortly after midnight of the 7th of May, 1875, in the Atlantic ocean, off the coast of New Jersey, whereby the Wines and her cargo were sunk and totally lost The Tobin was bound down the coast and the Wines was bound up. The night was such that lights could be seen without diffi­culty.</p>
+                <p id="b520-11" pgmap="520">The libel avers, that, at the time of the collision, the wind was about east half-south, a fresh breeze; that, at and before the col­lision, the Wines was heading about north­east, sailing by the wind, close-hauled, with her lights set and burning, and a good look­out kept, and going about four knots an hour; that the Tobin’s port-light was first observed from the Wines on her lee bow, the Tobin having the wind free and going at the rate of 8 or 9 knots an hour; that, when very near to the Wines and still to the leeward of her, the Tobin luffed and attempted to cross the bows of the Wines, and immediately after her stem struck the Wines on the lee bow forward of the forerig-­ging; and that the collision was caused by the negligence of those in charge of the Tobin, in luffing and attempting to pass on the starboard side of the Wines, and in not porting and passing on the port side of the Wines, and in not keeping a good lookout, and in not keeping out of the way of the Wines.</p>
+                <p id="b520-14" pgmap="520">The answer avers, that the Tobin had her lights set and burning brightly; that, just before the collision, she was heading south-­south-west, with all her sails set and her main boom swinging to starboard, and was going about 8 knots an hour, the wind being from east-south-east to south-east and grad­ually hauling to the southward; that .it was nearer to south-east at the time of the col­lision; that she was sailing with the wind about two points free; that her lookout for­ward signalled a vessel about two points off her lee bow; that the mate took his glasses and made out a green light burning dimly in that direction; that the port light of the vessel, which proved to be the Wines, could not be observed at that time, nor up to the time of the collision; that none was burning on the Wines; that the mate then ordered the man at the wheel of the Tobin to haul to the wind half a point and exhibit more clearly the green light of the Tobin; that this was done and was the proper course; that, as the vessels approached each other, the Wines suddenly put her wheel down hard to port, when they were about 100 yards apart, and while she was under the lee of the Tobin, and threw herself directly across the bows of the Tobin, and made the collision unavoidable; that the Wines was not close-hauled but had the wind fully as free as the Tobin; and that the collision was caused by the negligence of those on the Wines, (1) in not having a proper lookout stationed forward; (2) in not properly watch­ing the lights of the Tobin, which vessel exhibited to the Wines her green light prior to and up to the time of the collision, and at no time exhibited to the Wines her red light; (3) in a hard-a-porting her helm just before the collision, and throwing herself square across the Tobin’s bow; (4) in at­tempting, when off the lee bow of the Tobin, to cross the Tobin’s bows; (5) in general negligence of those on the Wines, in not keeping a proper watch, in bad seamanship and lack of proper judgment just before the collision, and poor green light, and no port light.</p>
+                <p id="b520-15" pgmap="520(131) 521(824)">As the Tobin confessedly had the wind on her port side and was not close-hauled but was running free, it was her duty to keep out of the way of the Wines. Such was her duty, whether the Wines was running close-­hauled or free. It was, of course, under such circumstances, the duty of the Wines to keep her course, and not to change it in the presence of the Tobin and thus embar­rass the Tobin in the discharge of her duty of avoiding the Wines. It is claimed for the Tobin that she did what was necessary to avoid the Wines and that the Wines changed her course and brought about the collision. The stories of the libel and the answer, as narrated therein, are irreconcilable. If the Tobin was heading south-south-west and the Wines was heading north-east, and the green light of the Wines was seen from the Tobin two points off the starboard bow of the Tobin, it was impossible for the red light of the Tobin to have been seen from the Wines off the port bow of the Wines; and, if the red light of the Tobin was seen from the Wines off the port bow of the Wines, it was impossible for the green light of the Wines to have been seen from the Tobin two points off the starboard bow of the Tobin. If the story of the libel is true, and the Tobin was to the leeward of the Wines, showing only her red light to the Wines, the collision could have happened' as it did, the stem of the Tobin striking the port bow of the Wines, only by the movement of the Tobin, by star-­boarding, towards and across the course of the Wines. It is admitted by the answer that the Tobin did starboard, and those on the Wines testify that, just before the col­lision, the red light of the Tobin was shut in and her green light came into view, and then the vessels struck. If the Wines had been porting, and, from being to the leeward of the Tobin, had run across her bows, the ap­pearance to those on the Wines would have been that the green light of the Tobin would have gone out of view and her red light would have come into view. Where a light of one color is in view, and the vessel bearing it is on a swing towards another vessel, the time comes when both lights are in view' for a moment, and their colors are contrasted, and the color first in view disappears, and the other color remains in view. Under such circumstances, there is not much probability of a mistake in color, or of a mistake as to what the vessel beaming the lights is doing. Not only is the contrast of colors sharply presented, but the motions of the two lights in coming into and going out of view indicate clearly the motion of the vessel. On the testimony of those on the Wines, such a view of the lights of the Tobin was presented to them. They, for some time before the collision, saw only her red light, then her green light came into view and was visible with her red light for a brief time, and then her red light disappeared and her green light remained in view, and then the vessels struck. Such an appearance could not have resulted from any porting by the Wines but could have resulted from the starboarding of the Tobin. No such swinging of the lights of the Wines is testified to by those on the Tobin. They say they saw only the green light of the Wines. They do not say that the red light of the Wines then came into view, and that both lights were visible for a time, and that then the green light of the Wines disappeared, leaving the red light in view. If the Wines ported when to the lee­ward of the Tobin, that must have been the appearance to the Tobin if the Wines had a red light as well as a green one. To meet this difficulty, it is contended for the Tobin that the Wines had no red light I am satis­fied, on the evidence, that the wines had a red light as well as a green one, both of them properly set and burning. The only possible explanation of how this collision occurred, is, that the Tobin was to the leeward of the Wines; that the Wines saw the red light of the Tobin off the port bow of the Wines; that the light on the Wines which the' Tobin saw was not the green light of the Wines, but was the red light of the Wines; that its position was mistaken and it was not seen at all on the starboard bow of the Tobin, but was seen nearly ahead or on the port bow of the Tobin; that the actual circum­stances were such as to make porting by the Tobin the proper movement, and not starboarding; that the starboarding of the Tobin threw her towards the Wines; that their mutual approach was aided by the leeway made by the Wines, resulting from her being close hauled; and that those on the Tobin, resting on the conclusion that it was the green light of the Wines they saw, and having starboarded, paid no attention to the light, until suddenly, when the vessels were close together, it was seen that the Tobin was running into the Wines, and then the conclusion was jumped at, on the Tobin, that the Wines must have ported and changed her course.</p>
+                <p id="b521-5" pgmap="521">Much criticism was made on the character and seamanship and nautical attainments of those on the Wines, and on the place where the lookout was stationed, and on the effi­ciency of the lookout kept; but it is sufficient to say that it is satisfactorily shown that the red light of the Tobin was seen from the Wines for some time before the collision, and was kept in view, and that, in reference to it, the course of the Wines was kept and was not changed. Indeed,-the change alleged is that the Wines ported; and it was elaborate­ly argued, that the Wines was steering by the wind and not by the compass, and that the wind was hauling more to the southward all the time, and that the Wines followed it, and kept porting more and more. The only consequence of this would have been, that, with the red light of the Tobin off the port bow of the Wines, that red light would have opened more and more, and a collision would have been impossible.</p>
+                <p id="b521-6" pgmap="521">With the duty imposed on the Tobin of keeping out of the way of the Wines, the burden of proof is on her to show an excuse for not doing so, and to show that the Wines changed her course. The great preponder­ance of proof is with the Wines. In addition to this, the lookout and the man at the wheel on the Tobin are not called as witnesses for her. Though their absence may be excus­able, it cannot be assumed that, if present, they would confirm the story of the Tobin.</p>
+                <p id="b521-7" pgmap="521">There must be a decree for the libellants, with costs, with a reference to a commission­er to ascertain the damages sustained by them.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="519" ORDERLABEL="517" TYPE="page">
+        <fptr FILEID="tiff_00260_0"/>
+        <fptr FILEID="jp2_00260_0"/>
+        <fptr FILEID="alto_00260_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_519.4" BETYPE="IDREF" FILEID="alto_00260_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="520" ORDERLABEL="518" TYPE="page">
+        <fptr FILEID="tiff_00260_1"/>
+        <fptr FILEID="jp2_00260_1"/>
+        <fptr FILEID="alto_00260_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_520.4" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="521" ORDERLABEL="519" TYPE="page">
+        <fptr FILEID="tiff_00261_0"/>
+        <fptr FILEID="jp2_00261_0"/>
+        <fptr FILEID="alto_00261_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_521.4" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-5" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.6" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8x" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.11" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            <area BEGIN="BL_520.12" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-7" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.8" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-11" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.13" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            <area BEGIN="BL_520.14" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-20" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.22" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-15" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.16" BETYPE="IDREF" FILEID="alto_00260_1"/>
+            <area BEGIN="BL_521.1" BETYPE="IDREF" FILEID="alto_00261_0"/>
+            <area BEGIN="BL_521.2" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-17" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.18" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-16" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.17" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-15" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.16" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b519-14" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.15" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQp" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_519.19" BETYPE="IDREF" FILEID="alto_00260_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b521-6" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_521.7" BETYPE="IDREF" FILEID="alto_00261_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-7" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.8" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-9" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.10" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-8" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.9" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b520-14" BETYPE="IDREF" FILEID="casebody_0253"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_520.15" BETYPE="IDREF" FILEID="alto_00260_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

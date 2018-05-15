@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0176" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="James v. The Sarah A. Boice">JAMES et al. v. The SARAH A. BOICE</name>
+          <docketnumber>Case No. 7,183</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 318</citation>
+          <citation category="parallel" type="bluebook">2 Int. Rev. Rec. (1865) 45</citation>
+          <decisiondate>1874</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00160_1" MIMETYPE="image/tiff" CHECKSUM="7230a71265bbb8cd59cfdccffe7f135c" CHECKSUMTYPE="MD5" SIZE="27852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00160_1.tif"/>
+      </file>
+      <file ID="tiff_00161_0" MIMETYPE="image/tiff" CHECKSUM="45cf6a7d50bb45b7dceccaba66716e9c" CHECKSUMTYPE="MD5" SIZE="77334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00161_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00160_1" MIMETYPE="image/jp2" CHECKSUM="9a35cba8070edb837b69af07fb67f21c" CHECKSUMTYPE="MD5" SIZE="1644223">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00160_1.jp2"/>
+      </file>
+      <file ID="jp2_00161_0" MIMETYPE="image/jp2" CHECKSUM="04962f5accc5f5f78d952bf106ef9153" CHECKSUMTYPE="MD5" SIZE="3031019">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00161_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00160_1" MIMETYPE="text/xml" CHECKSUM="6c4d39f64990171bbbd0497283fb8305" CHECKSUMTYPE="MD5" SIZE="50134">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00160_1.xml"/>
+      </file>
+      <file ID="alto_00161_0" MIMETYPE="text/xml" CHECKSUM="e0a2138149ef8c324a7098d28944a7b1" CHECKSUMTYPE="MD5" SIZE="162094">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00161_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0176" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="319" firstpage="318">
+              <court pgmap="320" id="AGsD">District Court, S. D. New York.</court>
+              <docketnumber pgmap="320" id="b320-4">Case No. 7,183.</docketnumber>
+              <citation pgmap="320" id="AqCY">[2 Int. Rev. Rec. (1865) 45.]</citation>
+              <parties pgmap="320" id="ACK">JAMES et al. v. The SARAH A. BOICE.</parties>
+              <opinion type="majority">
+                <p pgmap="320(66) 321(638)" id="b320-13">HELD BY THE OOUBT: That the libel is only for salvage, and that to maintain it as such, it must be supported by proof that the motives and proceedings of the libelants were in all respects lawful, in good conscience, and meritorious. The maritime code in re­spect to the allowance of compensation for salvage-services is based upon principles of universal equity and integrity. The law takes under its own authority of administra­tion property rescued from peril by the aid of strangers, and compels' it to satisfy them by a reasonable reward for an honest effort to save it from peril; but it shows no coun­tenance or favor to plunderers. A seizure of wrecked property for culpable plunder, con­stitutes no lawful salvage. That when the libelants first fell in with the schooner in a helpless state, apparently abandoned and derelict, instead of approaching her with the manifestation of a desire to afford her relief, the whole purpose evinced was to embezzle, confiscate, and appropriate to themselves the ruins of the vessel and her effects, and no evidence is furnished that one individual of the multitude which flocked around the wreck evinced the slightest purpose to save her for the unfortunate proprietors. That the presumption is most forcible that all the libelants who engaged in that wrongful dep­redation and plunder, were well aware that she was not then a derelict, that her owners resided across the bay, in an adjacent state, and scarcely out of eyesight, and had been the victims of a sudden predatory seizure of their property. That it comports in no sense with the semblance of an honest and fair purpose to save and restore to its true own­ers a vessel discovered, as this one was by the libelants, to have thereafter followed its remains from day to day, as it floated on a smooth sea and in calm weather, making prey of anything that could be picked from it, till the vessel grounded on the bar. It is suspiciously late for them then to arrogate the position of rightful salvors in possession •of the wreck, and claim to be entitled to in­voke the law to authorize and confirm to them such a privilege. That on strict rules of pleading, therefore, the action would be dismissible, because there is no proof pro­•duced under the libel which sustains the only right averred and claimed by the libelants; "but as the owners on demanding that the ves­sel should be delivered up to them by the li-­belants avowed a willingness to compensate them for the value of the services rendered by them, as work and labor, to the tifiie when the surrender was demanded, and even to continue the services of James and some oth­ers of the libelants, the court sees no objec­tion to considering the case as so opened in its legal issues by that assent, as to permit an account to be taken on a reference as to :a quantum meruit allowable to the libelants for such work and labor. Had the respond­ents elected to put the same to trial upon the single issue of the pleadings upon the rec­ord, the decree of the "court would logically and justly have been in their favor. But .having recognized, on their part, that James :and some of his associates had rendered serv­ices to the • vessel before and after the re­spondents claimed her surrender to them­selves as owners, and having called for the particulars of these services, with an offer to satisfy charges in that respect, which were just, and thus acquiesced in making a rea­sonable compensation to them; and being persuaded that it is competent to the court to regard the proceedings of the libelants, after the vessel grounded on the bar, or in aid of her reaching that point, to have been work and labor for the benefit of the own­ers, the court considers it equitable to allow such an amount as may be reported by a commissioner as due them therefor, but with­out costs, except that the fees of the refer­ence shall be taxed half and half to each party. Order accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="320" ORDERLABEL="318" TYPE="page">
+        <fptr FILEID="tiff_00160_1"/>
+        <fptr FILEID="jp2_00160_1"/>
+        <fptr FILEID="alto_00160_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_320.4" BETYPE="IDREF" FILEID="alto_00160_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="321" ORDERLABEL="319" TYPE="page">
+        <fptr FILEID="tiff_00161_0"/>
+        <fptr FILEID="jp2_00161_0"/>
+        <fptr FILEID="alto_00161_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_321.4" BETYPE="IDREF" FILEID="alto_00161_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b320-4" BETYPE="IDREF" FILEID="casebody_0176"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_320.7" BETYPE="IDREF" FILEID="alto_00160_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACK" BETYPE="IDREF" FILEID="casebody_0176"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_320.8" BETYPE="IDREF" FILEID="alto_00160_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGsD" BETYPE="IDREF" FILEID="casebody_0176"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_320.10" BETYPE="IDREF" FILEID="alto_00160_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqCY" BETYPE="IDREF" FILEID="casebody_0176"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_320.9" BETYPE="IDREF" FILEID="alto_00160_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b320-13" BETYPE="IDREF" FILEID="casebody_0176"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_320.15" BETYPE="IDREF" FILEID="alto_00160_1"/>
+            <area BEGIN="BL_321.1" BETYPE="IDREF" FILEID="alto_00161_0"/>
+            <area BEGIN="BL_321.2" BETYPE="IDREF" FILEID="alto_00161_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

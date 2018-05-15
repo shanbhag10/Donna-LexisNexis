@@ -1,0 +1,678 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0528" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="In re Farez">In re FAREZ</name>
+          <docketnumber>Case No. 4,644</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1001</citation>
+          <citation category="parallel" type="bluebook">7 Blatchf. 34</citation>
+          <decisiondate>1869-11-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00502_0" MIMETYPE="image/tiff" CHECKSUM="360825693c775ca71b0f807d141200fd" CHECKSUMTYPE="MD5" SIZE="64826">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00502_0.tif"/>
+      </file>
+      <file ID="tiff_00502_1" MIMETYPE="image/tiff" CHECKSUM="f57ab20b6b8a1c31d500d148ccbc827a" CHECKSUMTYPE="MD5" SIZE="118978">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00502_1.tif"/>
+      </file>
+      <file ID="tiff_00503_0" MIMETYPE="image/tiff" CHECKSUM="e6b0017a7a41ba67d65eda3479800326" CHECKSUMTYPE="MD5" SIZE="117580">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00503_0.tif"/>
+      </file>
+      <file ID="tiff_00503_1" MIMETYPE="image/tiff" CHECKSUM="a4d335ba32f0230b4d6e0eb3dd55615d" CHECKSUMTYPE="MD5" SIZE="119492">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00503_1.tif"/>
+      </file>
+      <file ID="tiff_00504_0" MIMETYPE="image/tiff" CHECKSUM="16c79c90b10dac9a7c671cb9c2b85b47" CHECKSUMTYPE="MD5" SIZE="116556">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00504_0.tif"/>
+      </file>
+      <file ID="tiff_00504_1" MIMETYPE="image/tiff" CHECKSUM="3c70c66ada97a67639411898e7476360" CHECKSUMTYPE="MD5" SIZE="116722">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00504_1.tif"/>
+      </file>
+      <file ID="tiff_00505_0" MIMETYPE="image/tiff" CHECKSUM="94bec4b73bb033cf94822507daf92b5c" CHECKSUMTYPE="MD5" SIZE="39852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00505_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00502_0" MIMETYPE="image/jp2" CHECKSUM="052c1f79eabb68dc91260c225f554c93" CHECKSUMTYPE="MD5" SIZE="2751130">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00502_0.jp2"/>
+      </file>
+      <file ID="jp2_00502_1" MIMETYPE="image/jp2" CHECKSUM="5d8f6fc28f707eb2409340c07930e3fd" CHECKSUMTYPE="MD5" SIZE="3863785">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00502_1.jp2"/>
+      </file>
+      <file ID="jp2_00503_0" MIMETYPE="image/jp2" CHECKSUM="ae9dc1510ede41b3d706ae65536d8469" CHECKSUMTYPE="MD5" SIZE="3858312">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00503_0.jp2"/>
+      </file>
+      <file ID="jp2_00503_1" MIMETYPE="image/jp2" CHECKSUM="6d812b63454fa50d08f5a091561e41b8" CHECKSUMTYPE="MD5" SIZE="3799059">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00503_1.jp2"/>
+      </file>
+      <file ID="jp2_00504_0" MIMETYPE="image/jp2" CHECKSUM="fa647c14131aaf4301f07cc43932c9e4" CHECKSUMTYPE="MD5" SIZE="3823808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00504_0.jp2"/>
+      </file>
+      <file ID="jp2_00504_1" MIMETYPE="image/jp2" CHECKSUM="7b1df64a1605445b4e195e2a66dca89c" CHECKSUMTYPE="MD5" SIZE="3799960">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00504_1.jp2"/>
+      </file>
+      <file ID="jp2_00505_0" MIMETYPE="image/jp2" CHECKSUM="8bf125daa76a7e3fe948eba957ee5454" CHECKSUMTYPE="MD5" SIZE="2089428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00505_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00502_0" MIMETYPE="text/xml" CHECKSUM="8113f40445fb4a2817417f7bc673674a" CHECKSUMTYPE="MD5" SIZE="128166">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00502_0.xml"/>
+      </file>
+      <file ID="alto_00502_1" MIMETYPE="text/xml" CHECKSUM="33e73b675eab7bb3632ec44e1b29c4e6" CHECKSUMTYPE="MD5" SIZE="243970">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00502_1.xml"/>
+      </file>
+      <file ID="alto_00503_0" MIMETYPE="text/xml" CHECKSUM="45000aefb491d21a0fc13295a54a69d7" CHECKSUMTYPE="MD5" SIZE="246858">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00503_0.xml"/>
+      </file>
+      <file ID="alto_00503_1" MIMETYPE="text/xml" CHECKSUM="369a101b13cffc03e4fb6f3194b30eb0" CHECKSUMTYPE="MD5" SIZE="242135">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00503_1.xml"/>
+      </file>
+      <file ID="alto_00504_0" MIMETYPE="text/xml" CHECKSUM="b83ba421b3f95b057e5c5ff1edb959a1" CHECKSUMTYPE="MD5" SIZE="246647">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00504_0.xml"/>
+      </file>
+      <file ID="alto_00504_1" MIMETYPE="text/xml" CHECKSUM="5e81736aa2e529a71444c7533298879c" CHECKSUMTYPE="MD5" SIZE="245351">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00504_1.xml"/>
+      </file>
+      <file ID="alto_00505_0" MIMETYPE="text/xml" CHECKSUM="058367c4c4912d1c336379204356b8bf" CHECKSUMTYPE="MD5" SIZE="74243">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00505_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0528" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1007" firstpage="1001">
+              <court id="b1003-5" pgmap="1003">Circuit Court, S. D. New York.</court>
+              <docketnumber id="b1003-2" pgmap="1003">Case No. 4,644.</docketnumber>
+              <citation id="b1003-4" pgmap="1003">[7 Blatchf. 34.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1003-3" pgmap="1003">In re FAREZ.</parties>
+              <decisiondate id="AMP" pgmap="1003">Nov. 17, 1869.</decisiondate>
+              <attorneys id="b1003-25" pgmap="1003">Francis R. Coudert, for petitioner.</attorneys>
+              <attorneys id="b1003-28" pgmap="1003">Henry D. Dapaugh, for Swiss Confedera­tion.</attorneys>
+              <footnote label="1">
+                <p id="b1003-26" pgmap="1003">1 [Reported by Hon. Samuel Blatehford, Dis­trict Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1003-29" pgmap="1003">BLATCHFORD, District Judge.</author>
+                <p id="ADgQ" pgmap="1003">On . the 6th of November, 1869, a writ of habeas cor­pus was allowed by me, directed to the mar­shal of the United States for this district, and returnable before this court on the 10th of November, 1869; at 11 o’clock a. m., com­manding the marshal to produce the body of Frangois Farez at that time before this court, together with the time and cause of his im­prisonment and detention. This writ was issued on .a petition, signed and verified by Farez, which sets forth that he has been, since the 15th of October, 1869, detained, and imprisoned and restrained of his lib­erty by the said marshal, on a warrant, a copy of which is annexed to the petition, issued by Charlés W. Newton, Esq.,- describ­ed in said warrant as “a commissioner ap­pointed by the circmt court of the United States for the southern district of New York, being a magistrate,” under pretext of the provisions of the general convention of friend­ship, reciprocal establishments, commerce, and for the surrender of fugitive criminals, between the United States of America and the Swiss Confederation, concluded and sign­ed at the city of Berne, on the 25th of No­vember, 1850, against the petitioner, as a person charged with one or more of the of-­fences named in the provisions of the said convention, having fled from the jurisdiction of the Swiss Confederation. The petition alleges that the imprisonment is illegal, for want of jurisdiction in the said commissioner over the person of the petitioner, or the sub­ject-matter aforesaid.</p>
+                <p id="b1003-30" pgmap="1003(213) 1004(167)">The warrant referred to is dated on the 8th of October, 1869. It does not describe the official position of the commissioner is­suing it, except as before stated, nor does It contain any statement that any requisition has been made, under the authority of the Swiss Confederation, upon the government of the United States, for the apprehension and committal of Farez, or that any authori­ty has been given by the government of the United States for that purpose. The war­rant recites that, in accordance with the said convention, complaint has been made, un­der oath, by the Honorable Louis Philippe de Luze, consul of the Swiss Confederation at New York, before the said commissioner, and by him, the said consul, presented to the said commissioner, charging Farez with having, in the course of the year 1869, or heretofore, and after the date of the said convention, committed, within the jurisdic­tion of the Swiss Confederation, the crimes of forgery, the emission of forged papers, and the utterance thereof; that said crimes, and each and every of them, are contrary to the laws of the said Swiss Confederation, and by such laws subject to infamous punish­ment and to punishment by imprisonment in the state prison; that the said Farez has. since the commission- of the said crimes, fled from the jurisdiction of the Swiss Confedera­tion; that he is now within, and will be found within, the territories or -limits of the United States of America; and that the feaid crimes; and each and every of them, are enumerated and provided for in the said convention. The warrant is directed to the marshals of the United States, respectively, for any district, and to their deputies, or to the deputies of any of said marshals, or to any of said deputies, and' commands them, and each and every of them, in the name of the presidentof the Unit­ed States, to apprehend the said-Farez, and bring him forthwith before the said commis­sioner, at the city of New York, or before some other magistrate, to the end that the evidence of the criminality of the said Farez may be heard and considered, pursuant to the said convention, and the acts of congress in such case made and provided.</p>
+                <p id="b1004-6" pgmap="1004">The marshal made a written return to the • said writ at the time appointed, as follows: “In return to the within writ, I hereby pro­duce the within named Francois Farez, and I hereby certify, that he is in my custody • and detention by virtue of the' two warrants. - issued by • the commissioner, Charles W. Newton, and which are herewith also pro­duced; and that the said Farez was arrested by me under one of the said warrants, dated. October 8th, 1869, on the 15th of said Octo-! • ber,' and on the other warrant, dated No- ' vember 9th, 1869, on the 10th of said Novem­ber. November 10th, 1869, S. K,' Harlow, "U. S. Marshal.”</p>
+                <p id="b1004-12" pgmap="1004">The warrant dated November 9th, 1869, is • issued, like the first one, in the name of the; president, and is addressed in the same man-' ' ner. It differs from the first warrant, in de­scribing the commissioner issuing it, as “a commissioner appointed by the circuit court, of the United States for the southern district of New York, being a magistrate and a com­missioner specially appointed to execute the act of congress, entitled, ‘An act for giving effect to certain treaty stipulations' between this and foreign governments, for the appre­hension and delivery up of certain offenders,’ approved August 12th, 1848 [9 Stat. 302], and the act entitled, ‘An act to amend an act for giving effect to certain treaty stipulations be-. tween this and foreign governments, for the apprehension and delivery up of certain of­fenders,’ approved June 22d, 1860” [12 Stat. 84]. It also recites, that the complaint made by the consul to the commissioner charges Farez with having committed the crimes in ques­tion, with intent to obtain gain for himself, and also with the intent to cheat, injure,' and defraud the Swiss Confederation, and some person and persons to him, the said consul, unknown; that the forged papers emitted were forged commercial papers, and were to the amount of 30,000 francs, or thereabouts; and that, heretofore, pursuant to the 13th and 14th articles of the said convention, John Hitz, Esq., political agent and consul general of Switzerland,.the Swiss Confedera­tion, appointed and accredited to the govern­ment of the United States, made application to the said government for the arrest of said Farez, charged with the said crimes of for- ' gery, the emission of forged commercial pa­pers and the utterance thereof, committed, within the jurisdiction of the Swiss Confed­eration, and an alleged fugitive from the-­justice of said Confederation, and who is be­lieved to be within the jurisdiction of the United States, and that, upon the said ap­plication, the government of the United States did, on the 28th of October, 1869, is­sue under the hand of the secretary of «late of the United States, and under the seal of the- department of state affixed, a mandate directed to any justice of the supreme court of the United States, any judge of the district court of the United States in any district, any judge of the supreme or superior court in any state, or to any commissioner specially appointed to execute the acts of congress-­..aforesaid, reciting, that it appears proper that the said Farez should be apprehended and the case examined in the mode provided by the acts of congress aforesaid, and author­izing the said officers, or any of them, to whom the same is directed, of whom the said .commissioner is one, to cause the necessary proceedings to be- had in pursuance of the said acts of congress, in order that the evi­dence of the criminality of the said Farez may be. heard and considered, and, if deemed sufficient to sustain the charge, that the same may be certified, together with a copy of all the proceedings, to the secretary of state, ■ that a warrant may issue for his surrender, pursuant to the said convention. In all oth­er respects the second warrant recites the-­■complaint- made before the commissioner,, and the proceedings preliminary to the issu­ing-of-such warrant, in the same terms in which they are recited in the first warrant. The mandatory part of the second warrant is substantially the same as that of the first warrant</p>
+                <p id="b1004-16" pgmap="1004(152) 1005(165)">The return of the marshal was traversed by the petitioner. The traverse avers, that the-­warrant of November 9th, 1869, was served on the petitioner while he was in custody under this writ of habeas- corpus, and that such service was, therefore, void and of' no effect It also avers, that the said last-­named warrant is void for the following-­reasons: (1) The magistrate had no juris­diction to issue the warrant, because no-­sufficient complaint had been presented to him at the time the warrant was is­sued; (2) the complaint does not make-­out a case against Farez, giving jurisdiction to the commissioner; (3) the complaint is-­based entirely on a warrant, or pretended warrant, of arrest, issued by one Brossard, which last-named warrant is entirely insuffi­cient in law to authorize any proceedings against Farez; (4) the said warrant of said Brossard shows that Farez has not been -.charged with any of the offences enumerated! in the convention,- and it appears on the face of -the said last-named warrant, that there: was no charge made against him of having committed forgery, or any other offence for which he could be extradited; (5) there being no wanant of arrest issued against Farez in' the country where the alleged crimes were committed, there was and is no jurisdiction on the .part of the commissioner to issue the said warrants, or either of them, issued by him. The traverse further avers, that the only warrant 'issued against Farez in such country is the said warrant of said Bros-­sard, and is the same warrant referred to by the Swiss consul in his complaint and is now in the possession of the said consul, and is referred to as a part of the’ traverse, and the consul is called upon to produce the said warrant and also the complaint on which the commissioner issued his two warrants.</p>
+                <p id="b1005-4" pgmap="1005">-, To this traverse the Swiss consul made a1 written reply, denying, (1) that the warrant . of November 9th was served on Farez while he was in custody under the -writ of habeas' corpus, or that the service of-said warrant’ - was void, or that the said warrant is void . for any of the reasons averred in the tra­verse, or that the magistrate had no juris­diction to issue the said warrant; (2) that the complaint does not make out a case against .- Farez, giving jurisdiction to the commission­.er; (3) that the complaint is based entirely ■on a warrant of arrest issued by one Bros-­sard, or that said warrant is insufficient in law to authorize any proceedings against Farez; (4) that the said warrant-of said Bros- , sard shows that Farez has not been charged with any of the offences enumerated in the treaty, or that it appears on the face of the warrant that there was no charge made against Farez of having committed forgery, or any other offence for which he could be extradited; (5) that there was no warrant of arrest issued against Farez in the country where the alleged crimes were committed, or that there was or is on that account no jurisdiction on the part of the commissioner to issue the -two warrants issued by him, or either of them, or that the only order or war­rant issued against Farez in said country is the said warrant of saidBrossard. Thereply avers, that a sufficient complaint was present­ed to the magistrate at the time the warrant of November 9th was issued; that one of the warrants issued against Farez is a warrant of said Brossard; and that said last-mentioned warrant is the warrant of arrest, or a war­rant- of arrest, referred to by the Swiss con­sul in his complaint, and is now in his pos­session.</p>
+                <p id="b1005-5" pgmap="1005(564) 1006(400)">Upon the issues thus raised testimony was taken before the court. The original war­rant issued by the commissioner on the 8th of October, 1869, was put in evidence. By endorsements made on it by the commission­er, it appears that, on the 18th of October, 3869, Farez appeared before him, and the j- examination of the matter -was adjourned to • the 1st of November, 1869, and Farez was remanded in the mean time to the custody of the marshal; that Farez was again pro­duced before the commissioner on the 1st . of November, 1869, and the examination was adjourned until the 4th of November, 1869,'and Farez was remanded in the mean time to the custody of the marshal; and that, on the 8th of November, 1869, the ex­amination in the matter was adjourned to the 4th of December, 1869. No proceeding • took place under the second warrant, except ■ the arrest of Farez under it The writ of habeas corpus was served upon the marshal before he arrested Farez under the second warrant. The warrant of arrest referred to in the traverse and the reply, as issued by one Brossard, -was put in evidence. It is in French, and purports to have been issued by Justin Brossard, president of the tribunal -of the-district of Franches Montagnes, ex- - amining magistrate, on the 3d of October, . 1869.. It is headed: “Order of Arrest, and Demand of Extradition.” It orders and re­quires all public officers to arrest and take • to some prison in said district Francois ■ Farez, farrier and hotel keeper, residing at Bois, whence he lately clandestinely depart­ed, taking with him securities to a consid­erable amount, and then started for Ameri­ca, with the intention of going to New York by the vessel Atalanta, from Havre, on the 28th of September, 1869. It then avers that the said Farez is accused of fraudulent bank­ruptcy, “et de plusieurs faux en éeriture de commerce,” and has been declared bankrupt by decree of the tribunal of commerce of the 1st of October, 1869. It then says: “By virtue of the treaty of extradition between-­Switzerland and the United States of Amer­ica, dated the 25th of November,' 1850, and the 7th of January, 1856, we request the competent authorities to take the most ur­gent steps to arrest the accused Farez, who-­is accompanied by his wife and two chil­dren, before he sets foot on American terri­tory, and, after his arrest, to safely keep all the securities which shall have been found in his possession, or in the possession of any­one accompanying him. It is of great im­portance, in the interest of public policy, to have the accused brought before the under­signed judge, a great number of creditors claiming his immediate extradition.” Con­siderable testimony was given before the court as to the meaning of the French words “faux en éeriture de commerce.” The counsel for -the Swiss consul contended that the words mean forgery of commercial: writings, including bills of exchange, prom­issory notes, bills of lading, and other writ­ten commercial instruments, as well as en­tries in books of account, in which records of commercial transactions are kept. The counsel for Farez contended that the words “faux en éeriture de commerce” mean only falsifications of commercial writings, that is, falsifications of entries in books in which records of commercial transactions are kept; and that- a forgery of a bill of exchange, or ■a promissory note, or other written com­mercial instrument, is not a “faux en écriture de commerce,” but comes under the head, in the Code Napoleon, which is the Swiss law, of a “faux en écriture privée.” The complaint on which the second warrant was ■issued by the commissioner was also put in. evidence. It is made by Mr. de Luze, con­sul of the Swiss Confederation at New York, and states that Farez is charged with hav­ing, in the course of the year 1809, or here­tofore, and after the date of the said con­vention, committed, within the jurisdiction of the Swiss Confederation “the crimes of forgery, the emission of forged commercial papers, and the utterance thereof, to the amount of 30,000 francs, or thereabouts.” It also states, that the complainant, as such consul, charges Farez with having commit­ted, within the jurisdiction of the Swiss Con­federation, those crimes to that amount; that those crimes, and each and every of them, are contrary to the laws of the Swiss Confederation, and by such laws subject to infamous punishment, and punishment by imprisonment in the state prison, and are enumerated and provided for in the said convention; that a warrant of arrest against the said Farez, on account of the said crimes, has been issued by the proper and competent judicial authority for the purpose, in the ju­risdiction of the Swiss Confederation; and • that said Farez has, since the commission of the said crimes, fled from the Swiss Confed­eration to the United States, and is within and is to be found within, the territories or limits of the United States. It then sets forth the application made to the government of the United States by the political 'agent and consul general of the Swiss Confedera­tion, for the arrest of Farez, and the issuing •by the government of the United States, on the 28th of October, 1809, of the mandate before referred to. It then states that the complainant, as such consul, applies for the extradition of the said Farez, in pursuance of the said convention, and that a warrant issue for his apprehension according to the said convention and the acts of congress in said case made and provided.</p>
+                <p id="b1006-4" pgmap="1006">The convention in question, which bears date on the 25th of November, 1850, and the ratifications of which were exchanged on the 8th of November, 1855, provides as follows (11 Stat. 593): “Article 13. The United States of America, and the Swiss Confederation, on requisitions made in their name, through the agency of their respective diplomatic or con­sular agents, shall deliver up to justice per­sons who, being charged with the crimes enumerated in the following article, com­mitted within the jurisdiction of the requiring party, shall seek asylum or shall be found within the territories of the other: provided, that this shall be done only when the fact of the commission of the crime shall be si&gt; estab­lished as to justify their apprehension and commitment for trial if the crime had been committed in the country where the persons so accused shall be found.” The 14th article provides, that forgery, or the emission of forged papers, (in the French version of the treaty, “le faux, y compris remission de faux papiers,) shall be among the crimes for which, when such crimes are subject to infamous punishment, a person who is charged with any of them shall be delivered up according to the provisions of the convention. The 15th article provides that, on the part of the United States, the surrender shall be made only by. the authority of the executive there­of.</p>
+                <p id="b1006-6" pgmap="1006">The act of August 12,1848, section 1 (9 Stat. 302), provides' “that, in all cases in which there now exists, or hereafter may exist, any treaty or convention for extradition between the government of the United States and any foreign government, it shall and may be law­ful for any of the justices of the supreme court, or judges of the several district courts of the United States, and the judges of the several state courts, and the commissioners authorized so to do by any of the courts of the United States, are hereby severally vested with power, jurisdiction and authority, upon complaint made under oath or affirmation, charging any person found within the limits of any state, district, or territory, with having committed, within the jurisdiction of any such foreign government, any of the crimes enumerated or provided for by any such treaty or convention, to issue his warrant for the apprehension of the person so charged, that he may be brought before such judge or commissioner, to the end that the evidence of criminality may be heard and considered; and if, on such hearing, the evidence be deemed sufficient by him to sustain the charge, under the provisions of the proper treaty or convention, it shall be his duty to certify the same, together with a copy of all the testimony taken before him, to the secre­tary of state, that a warrant may issue, upon the requisition of the proper authorities of such foreign government, for the surrender of such person, according to the stipulations of said treaty or convention; and it shall be the duty of said judge or commissioner to issue his warrant for the commitment of the person so charged, to the proper gaol, there to re­main until such surrender shall be made.”</p>
+                <p id="b1006-7" pgmap="1006">It was contended on the hearing, by the counsel for Farez:</p>
+                <p id="b1006-8" pgmap="1006">(1) That the first warrant issued by the commissioner is void, because it does not show on its face, that the commissioner is- an officer authorized to act as a commissioner under the act of August 12, 1848;</p>
+                <p id="b1006-9" pgmap="1006(40) 1007(28)">(2) That the first warrant is void, because it does not show that a requisition has been made in the name of the Swiss Confederation, through the medium of its proper diplomatic or consular agent, upon the United Stales, for the arrest or delivery lip of Farez, or that any authority has been given hy the government of the United States for the apprehension or arrest of Farez;</p>
+                <p id="b1007-4" pgmap="1007">(3) That the second warrant is void on its face, because it does not show that a mandate for the apprehension of Farez has been issued by the president of the United States, under the great seal of the United States, but only shows that the same has been issued by the government under the hand of the secretary of state and under the seal of the department of state;</p>
+                <p id="b1007-5" pgmap="1007">(4) That the arrest of Farez by the marshal under the second warrant is void, and the second warrant is no authority for holding Farez under arrest, because it appears that he was arrested by the marshal under the sec­ond warrant after this writ of habeas corpus was served upon the marshal;</p>
+                <p id="b1007-6" pgmap="1007">(5) That the complaint upon which the sec­ond warrant was issued does not contain suf­ficient facts to authorize the issuing of such warrant;</p>
+                <p id="b1007-7" pgmap="1007">(6) That there is no sufficient description of any offence specified in the convention, in the warrant of arrest issued against Farez in the jurisdiction of the Swiss Confederation.</p>
+                <p id="b1007-8" pgmap="1007">The first warrant issued against Farez is, in my judgment, void, because it does not show, on its face, that the commissioner issu­ing it is a commissioner authorized by a court of the United States to issue such warrant. The proceeding is a special proceeding, insti­tuted under the convention and the act of August 12, 1848, and the fact that the com­missioner who issues the warrant is, within the said act, a commissioner authorized so to do by a court of the United States, is a juris­dictional fact, and should be set forth on the face of the warrant.</p>
+                <p id="b1007-9" pgmap="1007">It is the law of this circuit, that the judi­ciary possess no jurisdiction to entertain pro­ceedings, under any treaty or convention be­tween the United States and a foreign gov­ernment for the apprehension and committal of any alleged fugitive from justice, whose extradition is demanded by such foreign gov­ernment, without a previous requisition hav­ing been made, under the authority of the for­eign government, upon the government of the United States, and the authority of the latter government obtained, to apprehend such fugi­tive. Ex parte Kaine [Case No. 7,597]; In re Henrich [Id. 6,369]. In the latter case, it is said: “It would seem indispensable that a de­mand for the surrender of the fugitive should be first made upon the executive authorities of the government, and a mandate of the president be obtained, before the judiciary is called upon to act.” As the proceeding is a special proceeding, I think it is necessary, not only that the complaint made to the commis­sioner, upon which the warrant is asked, should show that such a requisition has been made upon the government of the United States and such authority obtained from it, but that those facts should also be set forth i on the face of the warrant. As the first war­rant contained no such allegation it is not valid.</p>
+                <p id="b1007-11" pgmap="1007(504) 1008(68)">The mandate recited in the second warrant and. in the complaint upon which the second warrant issued, as the authority from the government of the United States for the ar­rest of Farez, upon the application therefor made to it by the Swiss Confederation, is a sufficient mandate. The objection taken is, that the mandate is stated, in the com­plaint and the warrant, to have been issued by the government of the United States un­der the hand of the secretary of state and the seal of the department of state, and not under the hand of the president and the great seal of the United States. The execu­tive authority of the United States, particu­larly in its intercourse with foreign powers 'and in matters which concern foreign re­lations, acts through the medium of the sec­retary of state and the seal of that depart­ment; and the allegation in the complaint and the warrant, that the government of the United, States issued the mandate, under the hand of the secretary of state and the seal of the department of state, is a sufficient al­legation that the mandate was issued by the executive authority. The point taken in the case of Ex parte Kaine, was,- that the proceedings for the apprehension of the fugi­tive could not be initiated by the judicial de­partment of the government, or by any de­partment. of the government except the exec­utive. A mandate issued by the government under the hand of the secretary of state and the seal of the department of state, is issued by the executive department of the govern­ment. The practice of the executive depart­ment to act through the department of state in performing executive acts of the charac­ter of that in question, has been recognized throughout the history of the government from the earliest time. The 15th article of the convention in question provides, that the Surrender of a fugitive on the part of the United States shall be made only by the authority of the executive thereof; and yet, the act of August 12, 1848, provides that, if the magistrate who issues the warrant deems the evidence which he takes under it suffi­cient to sustain the charge under the provi­sions of the proper convention, it shall be his duty to certify the same to the secretary of state, that a warrant may issue; and the third section of the same act provides, that it shall be lawful for the secretary of state, under his hand and seal of office, to order the fugitive to be delivered to the person au­thorized by the foreign government to re­ceive him. This clearly shows the under­standing of congress, that the executive de­partment, in carrying out treaty stipulations between this government and foreign gov­ernments, for the apprehension and delivery up of alleged criminals, is to act through the instrumentality of the department of state; and, if the final order for extradition, upon which the' .party is to be taken out of the United States-into the territories of the for­eign government, can be made by the execu­tive authority of the United States through the instrumentality of the department of state, a fortiori, a preliminary mandate for the arrest of the party can be made by the executive authority of the United States through the medium of the same department.</p>
+                <p id="b1008-3" pgmap="1008">The- writ of habeas corpus having been issued on the 6th of November, commanding the marshal to produce the body of Farez on the 10th of November, at 11 o’clock a. m., Farez must be considered as being, under said writ, in the custody of the court, at least from the time the writ was served on the marshal, and the marshal had no right, aft­er that time, during the pendency of the writ, to arrest Farez upon any new warrant, ■or upon any warrant'not in his hands at the time the writ was served upon him. The return by the marshal, at the day and hour specified in the writ as the time for the re­turn thereof, states that he-arrested Farez on the 10th of November, under the war­rant dated on the 9th of November. It ap­pears in evidence, that the writ was served on the marshal prior to the time when he arrested Farez under the warrant of the 9th •of November. Such arrest on the second warrant was, therefore, illegal. Farez was entitled to have the question determined as ,to the lawfulness of his imprisonment and de­tention by virtue of the process on which he Was claimed to be held at the time the writ of habeas corpus was served on the marshal. The proceedings under the writ had relation to at least as early a period as that. When : the question of the lawfulness of the deten­tion under the first warrant should have been disposed of, then' the marshal could properly proceed to execute the second war­rant, but not before.</p>
+                <p id="b1008-4" pgmap="1008">The complaint upon which the second war-' rant was issued is defective in its charge ■of crime against Farez; and the second war­rant itself is equally defective in that par­ticular. It is not enough, in the complaint, merely to charge the party with the crime named in the convention, that is, forgery. The complaint in this case contains nothing more than a naked general charge of for­gery, without any sufficient specification of time or place, or of the nature of the forgery •or of the forged instrument or document. It merely alleges, that Farez, in the year 1869, or after the 25th of November, 1850, with the intent to obtain gain for himself, .and to cheat and defraud the Swiss Confed­eration and some person unknown, commit­ted, within the jurisdiction of the Swiss Con­federation, the crimes of forgery, the emission of forged commercial paper, and the utter­ance thereof, to the amount of 30,000 francs, ■or thereabouts. This is, under any system of criminal jurisprudence, a defective com­plaint.</p>
+                <p id="b1008-5" pgmap="1008(527) 1009(25)">In the case of In re Henrieh [supra]- this court say: “The complaint upon which a warrant of arrest is asked, should set forth' clearly, but briefly, the' substance of the ■ offence charged, so that the court can see' that one or more of the particular crimes enumerated in the treaty is alleged to have been committed. The complaint need not be drawn with the formal precision and nicety of an indictment for final trial, but should set forth the substantial, material features of the offence.” No sufficient prob­able cause of arrest is shown by the com­plaint in this case. The consul of the Swiss Confederation, in the discharge of his duty, makes the charge against Farez in the com­plaint, but does not pretend that he has any ipersonal knowledge in the .premises, and does not specify the particulars of the crime ■to an extent sufficient to authorize any war­rant of arrest to be issued. No citizen of the United States could be arrested or held upon a complaint so vague and general in its specifications, or, rather, so utterly de­void of specifications as the complaint in •this case; and it certainly never could have •been intended, by the treaty-making power, that an alleged fugitive should be arrested upon a complaint less specific than such as would be required in the case of an offence committed in the United States. The act •of 184S, in saying that the magistrates name-­■ed in it are vested with power, upon com­•plaint made under oath or affirmation, ■charging a person with having committed, ¡within the jurisdiction of a foreign govern­ment,' a crime provided for by a treaty for extradition, to issue a warrant for the ap­prehension of such person, intends that the ■warrant shall be issued upon such complaint under oath as is generally recognized, in criminal law, as a proper and adequate com­plaint. The convention with the Swiss Con­federation, in saying, in the 13th article, that the delivery up to justice of persons charged with the crimes enumerated in the 14th arti­cle. shall be done only when the fact of the commission of the crime shall be so estab­lished as to justify their apprehension and Commitment for trial, if the crime had been committed in the country where the persons so accused shall be found, intends to say, not only that the person arrested in the United States shall not be delivered up, except on such evidence as would authorize his com­mitment for trial in the United States, if the crime charged had been committed in the United States, but, also, that he shall not be apprehended or arrested except upon such prima facie evidence as would justify his apprehension and arrest, if the crime charged had been committed in the United States. It never was intended that it should be suffi­cient, in order to authorize the arrest of a fugitive from justice, to state merely that the representative of the foreign government charges the party with having committed the crime named in the treaty. I must, therefore, hold the second warrant, and the complaint on • which--it-was issued, insuffl-­•cipnt, in their specifications; of the crime charged, to justify' the holding of Farez un­der the second w-arrant.</p>
+                <p id="b1009-4" pgmap="1009">The warrant of arrest named in the com­plaint as having been; issued against. Farez in. the jurisdiction of the .Swiss Confedera­tion, was the only document presented to the ■commissioner in support of the. complaint made to him, and is, for the purposes of this case, considered as a part of such complaint. Such warrant commands the arrest of Farez as being accused of fraudulent bankruptcy, and of “plusieurs faux en écriture de com­merce.” It is defective in not specifying the time and place of the commission of the al­leged offences, and the character- of the for­geries, or of the instruments or documents in respect of which the forgeries were com­mitted; and, therefore, the complaint can de­rive no support from such document.</p>
+                <p id="b1009-5" pgmap="1009">Whether the offence of “faux en écriture -de commerce,” charged in- such foreign war-­rapt, is a crime embraced within the 14th article of the convention, is a question not necessary to. be considered in this case.</p>
+                <p id="b1009-6" pgmap="1009">It results, therefore, ¿bat Farez must be discharged from custody upon both of the warrants. named ip the return of the mar­shal.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1003" ORDERLABEL="1001" TYPE="page">
+        <fptr FILEID="tiff_00502_0"/>
+        <fptr FILEID="jp2_00502_0"/>
+        <fptr FILEID="alto_00502_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1003.2" BETYPE="IDREF" FILEID="alto_00502_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1004" ORDERLABEL="1002" TYPE="page">
+        <fptr FILEID="tiff_00502_1"/>
+        <fptr FILEID="jp2_00502_1"/>
+        <fptr FILEID="alto_00502_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1004.4" BETYPE="IDREF" FILEID="alto_00502_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1005" ORDERLABEL="1003" TYPE="page">
+        <fptr FILEID="tiff_00503_0"/>
+        <fptr FILEID="jp2_00503_0"/>
+        <fptr FILEID="alto_00503_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1005.3" BETYPE="IDREF" FILEID="alto_00503_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1006" ORDERLABEL="1004" TYPE="page">
+        <fptr FILEID="tiff_00503_1"/>
+        <fptr FILEID="jp2_00503_1"/>
+        <fptr FILEID="alto_00503_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1006.4" BETYPE="IDREF" FILEID="alto_00503_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1007" ORDERLABEL="1005" TYPE="page">
+        <fptr FILEID="tiff_00504_0"/>
+        <fptr FILEID="jp2_00504_0"/>
+        <fptr FILEID="alto_00504_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1007.3" BETYPE="IDREF" FILEID="alto_00504_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1008" ORDERLABEL="1006" TYPE="page">
+        <fptr FILEID="tiff_00504_1"/>
+        <fptr FILEID="jp2_00504_1"/>
+        <fptr FILEID="alto_00504_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1008.4" BETYPE="IDREF" FILEID="alto_00504_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1009" ORDERLABEL="1007" TYPE="page">
+        <fptr FILEID="tiff_00505_0"/>
+        <fptr FILEID="jp2_00505_0"/>
+        <fptr FILEID="alto_00505_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1009.4" BETYPE="IDREF" FILEID="alto_00505_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1003-26" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1003.26" BETYPE="IDREF" FILEID="alto_00502_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1003-25" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1003.25" BETYPE="IDREF" FILEID="alto_00502_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1007-9" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1007.10" BETYPE="IDREF" FILEID="alto_00504_0"/>
+            <area BEGIN="BL_1007.11" BETYPE="IDREF" FILEID="alto_00504_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1006-6" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1006.7" BETYPE="IDREF" FILEID="alto_00503_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1007-11" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1007.12" BETYPE="IDREF" FILEID="alto_00504_0"/>
+            <area BEGIN="BL_1008.1" BETYPE="IDREF" FILEID="alto_00504_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1003-28" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1003.27" BETYPE="IDREF" FILEID="alto_00502_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1003-29" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1003.28" BETYPE="IDREF" FILEID="alto_00502_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1006-4" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1006.5" BETYPE="IDREF" FILEID="alto_00503_1"/>
+            <area BEGIN="BL_1006.6" BETYPE="IDREF" FILEID="alto_00503_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1006-8" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1006.9" BETYPE="IDREF" FILEID="alto_00503_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1007-8" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1007.9" BETYPE="IDREF" FILEID="alto_00504_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1007-7" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1007.8" BETYPE="IDREF" FILEID="alto_00504_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1008-3" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1008.5" BETYPE="IDREF" FILEID="alto_00504_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1008-4" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1008.6" BETYPE="IDREF" FILEID="alto_00504_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1008-5" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1008.7" BETYPE="IDREF" FILEID="alto_00504_1"/>
+            <area BEGIN="BL_1008.8" BETYPE="IDREF" FILEID="alto_00504_1"/>
+            <area BEGIN="BL_1009.2" BETYPE="IDREF" FILEID="alto_00505_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1007-6" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1007.7" BETYPE="IDREF" FILEID="alto_00504_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1007-5" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1007.6" BETYPE="IDREF" FILEID="alto_00504_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1009-5" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1009.7" BETYPE="IDREF" FILEID="alto_00505_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1009-4" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1009.6" BETYPE="IDREF" FILEID="alto_00505_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1004-6" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1004.5" BETYPE="IDREF" FILEID="alto_00502_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1006-9" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1006.10" BETYPE="IDREF" FILEID="alto_00503_1"/>
+            <area BEGIN="BL_1007.1" BETYPE="IDREF" FILEID="alto_00504_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1006-7" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1006.8" BETYPE="IDREF" FILEID="alto_00503_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1007-4" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1007.5" BETYPE="IDREF" FILEID="alto_00504_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1003-30" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1003.31" BETYPE="IDREF" FILEID="alto_00502_0"/>
+            <area BEGIN="BL_1004.1" BETYPE="IDREF" FILEID="alto_00502_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1003-3" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1003.5" BETYPE="IDREF" FILEID="alto_00502_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMP" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1003.8" BETYPE="IDREF" FILEID="alto_00502_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1003-5" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1003.7" BETYPE="IDREF" FILEID="alto_00502_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1003-4" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1003.6" BETYPE="IDREF" FILEID="alto_00502_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1005-5" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1005.6" BETYPE="IDREF" FILEID="alto_00503_0"/>
+            <area BEGIN="BL_1005.7" BETYPE="IDREF" FILEID="alto_00503_0"/>
+            <area BEGIN="BL_1006.1" BETYPE="IDREF" FILEID="alto_00503_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1005-4" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1005.5" BETYPE="IDREF" FILEID="alto_00503_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1009-6" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1009.8" BETYPE="IDREF" FILEID="alto_00505_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1004-12" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1004.6" BETYPE="IDREF" FILEID="alto_00502_1"/>
+            <area BEGIN="BL_1004.7" BETYPE="IDREF" FILEID="alto_00502_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADgQ" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1003.29" BETYPE="IDREF" FILEID="alto_00502_0"/>
+            <area BEGIN="BL_1003.30" BETYPE="IDREF" FILEID="alto_00502_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1003-2" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1003.4" BETYPE="IDREF" FILEID="alto_00502_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1004-16" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1004.8" BETYPE="IDREF" FILEID="alto_00502_1"/>
+            <area BEGIN="BL_1005.1" BETYPE="IDREF" FILEID="alto_00503_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0446" publicationstatus="published">
+          <court abbreviation="C.C.D. Kan." jurisdiction="United States">United States Circuit Court for the District of Kansas</court>
+          <name abbreviation="In re Jones">In re JONES</name>
+          <docketnumber>Case No. 7,445</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 931</citation>
+          <citation category="parallel" type="bluebook">2 Dill. 343; 6 West. Jur. 71; 4 Chi. Leg. News, 66</citation>
+          <decisiondate>1871</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00467_0" MIMETYPE="image/tiff" CHECKSUM="bbc9f9564d9566fbec31200c04de5fa2" CHECKSUMTYPE="MD5" SIZE="49942">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00467_0.tif"/>
+      </file>
+      <file ID="tiff_00467_1" MIMETYPE="image/tiff" CHECKSUM="b6e5337331ff065b1d2d04b4f866db7c" CHECKSUMTYPE="MD5" SIZE="94974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00467_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00467_0" MIMETYPE="image/jp2" CHECKSUM="d3071677f3f4f742e4f26d5ea4cce6ef" CHECKSUMTYPE="MD5" SIZE="2355972">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00467_0.jp2"/>
+      </file>
+      <file ID="jp2_00467_1" MIMETYPE="image/jp2" CHECKSUM="3ad0e10b9746bf00f2c0081c17692d63" CHECKSUMTYPE="MD5" SIZE="3466141">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00467_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00467_0" MIMETYPE="text/xml" CHECKSUM="eaaf4e625854c23a093edcdae2bdffcc" CHECKSUMTYPE="MD5" SIZE="107600">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00467_0.xml"/>
+      </file>
+      <file ID="alto_00467_1" MIMETYPE="text/xml" CHECKSUM="add871bb450f6af8f748f2aa9e3078eb" CHECKSUMTYPE="MD5" SIZE="200224">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00467_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0446" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="932" firstpage="931">
+              <court pgmap="933" id="APq3">Circuit Court, D. Kansas. Nov.</court>
+              <docketnumber pgmap="933" id="b933-7">Case No. 7,445.</docketnumber>
+              <citation pgmap="933" id="Acqx">[2 Dill. 343; <footnotemark>1</footnotemark> 6 West. Jur. 71; 4 Chi. Leg. News, 66.]</citation>
+              <parties pgmap="933" id="ASfX">In re JONES.</parties>
+              <decisiondate pgmap="933" id="Asi">Term. 1871.</decisiondate>
+              <attorneys pgmap="933" id="b933-19">Mr. Britton, for assignee.</attorneys>
+              <attorneys pgmap="933" id="b933-20">Sherry &amp; Helm, for bankrupt.</attorneys>
+              <footnote label="1">
+                <p pgmap="933" id="Ax-C">1 I Reported by Hon. John F. Dillon, Circuit Ju(:.".i‘. and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="933" id="b933-21">DILLON, Circuit Judge.</author>
+                <p pgmap="933(57) 934(59)" id="AWUI">In 1S04, the laws of the state of Kansas, in which the bank­rupt had his domicile, contained and still contain the following provision in regard to the exemption of property: “Eighth, The necessary tools and implements of any me­chanic, miner, or other person, used and kept for the purpose of carrying on his trade or business, and, in addition thereto, stock in trade not exceeding four hundred dollars in value.” Exemption laws founded upon the humane policy of making provision for the support of the poor man and his family are to be liberally rather than strictly regarded. They should receive such fair construction as will best promote the beneficent intention of the legislature.</p>
+                <p pgmap="934" id="b934-3">In argument, the counsel for the assignee contends that the order under review is erro­neous, 1. Because Jones was a merchant, and not a mechanic or person such as is con­templated by the Kansas statute above quot­ed. 2. Because, conceding that Jones was entitled to the exemption, the right, although claimed before the sale, not having been rec­ognized by the assignee or established by the court, is waived or lost. S. Because the mortgage upon the stock in trade destroys the right to the exemption, not only as against the mortgagee, but the assignee.</p>
+                <p pgmap="934" id="b934-4">Neither of these positions is well taken. Jones, as a practical workman, not selling goods as merchants usually do, but manufac­turing them for customers upon special or­ders, under his own superintendence, is fair­ly within the language and clearly within the purpose of the local exemption statute. That he did not do all "the work himself, but employed workmen, makes no difference. In the reverse he has met, he has need of the provision which the law makes, as much as if he had done business on a scale so small that he did all the work with his own hands.</p>
+                <p pgmap="934" id="b934-5">As to the second position of the assignee, I remark that the exemption to the amount of $400 is a fixed and determinate right not de­pendent upon the discretion of the assignee or court. The assignee ought to have recog­nized this right when it was claimed by the bankrupt before the sale, and the right may be asserted against the proceeds of' the goods in the hands of the court for distribu­tion.</p>
+                <p pgmap="934" id="b934-6">As to the other point. The mortgagor does, as against the mortgagee, waive the exemption, but not as against the assignee, if there should be a surplus beyond the amount required to pay the mortgagee’s debt. The proposition that the mortgage absolutely de­stroyed the exemption, seems to have been the very one that was relied on in the dis­trict court. But the record here discloses the facts appearing in the statement, and it is suggested that the Leavenworth goods did not sell for enough to pay the mortgage debt, and hence there is no surplus as to those goods, and the Omaha goods having been out of the state, where the bankrupt was domi­ciled, cannot be considered as any part of his stock in trade within the meaning of the local exemption act.</p>
+                <p pgmap="934" id="b934-7">It is true that the two stocks were min­gled, and that it is impossible now to ascer­tain how much each portion brought at the sale. It does not appear from the record be­fore me whether the mortgagee is entitled to a lien on the proceeds for the amount of his debt or not. But aside from these consider­ations, which would lead to an affirmance' of the order of his honor below, I am of the opinion that the Omaha stock, having been brought into this state and mixed with the other, without any fault of the bankrupt, the two should be taken as together constituting the stock in trade of the bankrupt within the meaning of the local exemption statute, and that out of this stock in trade he is enti­tled to claim and hold as exempt the amount of $400 in value. The order complained of is affirmed. Affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="933" ORDERLABEL="931" TYPE="page">
+        <fptr FILEID="tiff_00467_0"/>
+        <fptr FILEID="jp2_00467_0"/>
+        <fptr FILEID="alto_00467_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_933.4" BETYPE="IDREF" FILEID="alto_00467_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="934" ORDERLABEL="932" TYPE="page">
+        <fptr FILEID="tiff_00467_1"/>
+        <fptr FILEID="jp2_00467_1"/>
+        <fptr FILEID="alto_00467_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_934.5" BETYPE="IDREF" FILEID="alto_00467_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ax-C" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_933.19" BETYPE="IDREF" FILEID="alto_00467_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b933-7" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_933.11" BETYPE="IDREF" FILEID="alto_00467_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b934-6" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_934.9" BETYPE="IDREF" FILEID="alto_00467_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Asi" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_933.15" BETYPE="IDREF" FILEID="alto_00467_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWUI" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_933.27" BETYPE="IDREF" FILEID="alto_00467_0"/>
+            <area BEGIN="BL_933.28" BETYPE="IDREF" FILEID="alto_00467_0"/>
+            <area BEGIN="BL_934.2" BETYPE="IDREF" FILEID="alto_00467_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b934-7" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_934.10" BETYPE="IDREF" FILEID="alto_00467_1"/>
+            <area BEGIN="BL_934.11" BETYPE="IDREF" FILEID="alto_00467_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b934-3" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_934.6" BETYPE="IDREF" FILEID="alto_00467_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APq3" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_933.14" BETYPE="IDREF" FILEID="alto_00467_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b934-5" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_934.8" BETYPE="IDREF" FILEID="alto_00467_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b934-4" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_934.7" BETYPE="IDREF" FILEID="alto_00467_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b933-19" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_933.24" BETYPE="IDREF" FILEID="alto_00467_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASfX" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_933.12" BETYPE="IDREF" FILEID="alto_00467_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Acqx" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_933.13" BETYPE="IDREF" FILEID="alto_00467_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b933-21" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_933.26" BETYPE="IDREF" FILEID="alto_00467_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b933-20" BETYPE="IDREF" FILEID="casebody_0446"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_933.25" BETYPE="IDREF" FILEID="alto_00467_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

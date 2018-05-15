@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0258" publicationstatus="published">
+          <court abbreviation="N.D. Ill." jurisdiction="United States">United States District Court for the Northern District of Illinois</court>
+          <name abbreviation="Jenkins v. Armour">JENKINS v. ARMOUR et al.</name>
+          <docketnumber>Case No. 7,260</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 453</citation>
+          <citation category="parallel" type="bluebook">6 Biss. 312; 14 N. B. R. 276; 8 Chi. Leg. News, 267; 22 Int. Rev. Rec. 169</citation>
+          <decisiondate>1875-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00228_0" MIMETYPE="image/tiff" CHECKSUM="31a069b1721b36e732c50f8c737bc1a7" CHECKSUMTYPE="MD5" SIZE="70232">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00228_0.tif"/>
+      </file>
+      <file ID="tiff_00228_1" MIMETYPE="image/tiff" CHECKSUM="c9fddbbaea88a3342d6794a74d9791df" CHECKSUMTYPE="MD5" SIZE="22370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00228_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00228_0" MIMETYPE="image/jp2" CHECKSUM="ff38d4e80c377a1a0959c9ca3656dab6" CHECKSUMTYPE="MD5" SIZE="2893313">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00228_0.jp2"/>
+      </file>
+      <file ID="jp2_00228_1" MIMETYPE="image/jp2" CHECKSUM="61b191a938caaca1b91066a8225c444a" CHECKSUMTYPE="MD5" SIZE="1557909">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00228_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00228_0" MIMETYPE="text/xml" CHECKSUM="d28c94430ecac994228a61dae82797e1" CHECKSUMTYPE="MD5" SIZE="153188">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00228_0.xml"/>
+      </file>
+      <file ID="alto_00228_1" MIMETYPE="text/xml" CHECKSUM="66fa9ffd177e4d25e14e56dc0412105b" CHECKSUMTYPE="MD5" SIZE="36919">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00228_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0258" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="454" firstpage="453">
+              <court pgmap="455" id="Ana">District Court, N. D. Illinois.</court>
+              <docketnumber pgmap="455" id="b455-4">Case No. 7,260.</docketnumber>
+              <citation pgmap="455" id="AiU">[6 Biss. 312; <footnotemark>1</footnotemark> 14 N. B. R. 276; 8 Chi. Leg. News, 267; 22 Int. Rev. Rec. 169.]</citation>
+              <parties pgmap="455" id="AzL">JENKINS v. ARMOUR et al.</parties>
+              <decisiondate pgmap="455" id="AvR7">Feb., 1875.</decisiondate>
+              <attorneys pgmap="455" id="b455-14">Hutchinson &amp; Luff, for assignee.</attorneys>
+              <attorneys pgmap="455" id="b455-15">Upton, Boutell &amp; Waterman, for Armour.</attorneys>
+              <footnote label="1">
+                <p pgmap="455" id="b455-17">1 [Reported by Josiah H. Bissell, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="455" id="b455-16">BLODGETT, District Judge.</author>
+                <p pgmap="455" id="ArA">There can be no doubt that each of these defendants, at the time of the transactions alleged, knew of the insolvency of the company, and dealt with it upon that basis. The object of each of them was to obtain payment to them­selves in full of their claims, notwithstand­ing the fact that such payment would be a withdrawal of the assets of the company from other. policy-holders; for these notes against the several defendants were in effect cash, and the amount thereof should have been paid in cash into the treasury of the company for distribution among the credit­ors. The defendants were all responsible, and the contingency having arisen when the cash was needed upon these notes to pay losses, it became their duty to pay it into the company.</p>
+                <p pgmap="455" id="b455-20">Following the law, then, as laid down in Hitchcock v. Rollo [Case No. 6,535] and Saw­yer v. Hoag [Id. 12,400], decided by Judge Drummond in this court, and in the latter case as decided in the supreme court (17 Wall. [84 U. S.] 610), [and particularly the principles laid down by Judge Drummond in Scammon v. Kimball, Case No. 12,435],<footnotemark>2</footnotemark> there can be no doubt but that such sur­renders and transfers were a fraud, and such a fraud as would be set aside by the court without special reference to the provisions of the bankrupt law [of 1867 (14 Stat. 517)]. The stock-notes were a part of the capital stock of the company, and as such were a trust fund for the creditors, and by collusion with the officers of the company, the defend­ants withdrew them from the treasury. The fact that some of the defendants were also officers of the company made no difference, and those who were only stockholders are equally liable.</p>
+                <p pgmap="455" id="b455-21">An important question, and one not easy of solution, arises as to the time when interest should begin to run on these stock-notes, whether from the date of demand by the as-­signee, or of the exchange by the stockhold­ers of these certificates for their notes. As against the company, if it had continued solvent, interest would only run from the time of a proper demand; but in these cases the liability of the defendants arises from their own acts under circumstances where they are properly chargeable as trustees. They, in fact, wrongfully converted to their own use the assets of the company at the time when they made these exchanges. They received payment of debts in full from the company when they knew it to be hope­lessly insolvent, and withdrew from the treasury of the company their notes, which were valuable assets. The effect is the same as though they had taken and converted the amount in cash from the coffers of the com­pany, and therefore they come within the rule that a trustee must pay interest from the date of conversion.</p>
+                <p pgmap="455" id="b455-22">Judgment for plaintiff in each case, with interest at six per cent, from date of with­drawal of stock-note.</p>
+                <footnote label="2">
+                  <p pgmap="455" id="b455-24">2 [From 14 N. B. R. 276.]</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="455" ORDERLABEL="453" TYPE="page">
+        <fptr FILEID="tiff_00228_0"/>
+        <fptr FILEID="jp2_00228_0"/>
+        <fptr FILEID="alto_00228_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_455.3" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="456" ORDERLABEL="454" TYPE="page">
+        <fptr FILEID="tiff_00228_1"/>
+        <fptr FILEID="jp2_00228_1"/>
+        <fptr FILEID="alto_00228_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_456.4" BETYPE="IDREF" FILEID="alto_00228_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArA" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.21" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            <area BEGIN="BL_455.22" BETYPE="IDREF" FILEID="alto_00228_0"/>
+            <area BEGIN="BL_455.23" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-15" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.19" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-22" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.27" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-14" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.18" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ana" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.10" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvR7" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.11" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-21" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.26" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-17" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.24" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-20" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.25" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzL" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.8" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-16" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.20" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AiU" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.9" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-24" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.28" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b455-4" BETYPE="IDREF" FILEID="casebody_0258"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_455.7" BETYPE="IDREF" FILEID="alto_00228_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

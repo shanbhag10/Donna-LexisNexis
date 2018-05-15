@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0326" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Joanna Ward">The JOANNA WARD</name>
+          <docketnumber>Case No. 7,328</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 643</citation>
+          <decisiondate>1862-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00323_0" MIMETYPE="image/tiff" CHECKSUM="1d53785b9f81fedb8696482c542e1244" CHECKSUMTYPE="MD5" SIZE="85616">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00323_0.tif"/>
+      </file>
+      <file ID="tiff_00323_1" MIMETYPE="image/tiff" CHECKSUM="5536110c64d6a8826c1ac6e19e48849d" CHECKSUMTYPE="MD5" SIZE="61824">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00323_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00323_0" MIMETYPE="image/jp2" CHECKSUM="8a50fa8e149317d30b4a4e1719c5d3ce" CHECKSUMTYPE="MD5" SIZE="3282282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00323_0.jp2"/>
+      </file>
+      <file ID="jp2_00323_1" MIMETYPE="image/jp2" CHECKSUM="4bf776fd09424f58323ed2d792a29877" CHECKSUMTYPE="MD5" SIZE="2574165">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00323_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00323_0" MIMETYPE="text/xml" CHECKSUM="6c814e4e7a2d78155f1325e408ddb1cf" CHECKSUMTYPE="MD5" SIZE="190314">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00323_0.xml"/>
+      </file>
+      <file ID="alto_00323_1" MIMETYPE="text/xml" CHECKSUM="b81fdd327144b7e058692d7cf5905c38" CHECKSUMTYPE="MD5" SIZE="127863">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00323_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0326" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="644" firstpage="643">
+              <court pgmap="645" id="Aeao">District Court, S. D. New York.</court>
+              <docketnumber pgmap="645" id="b645-20">Case No. 7,328.</docketnumber>
+              <parties pgmap="645" id="b645-21">The JOANNA WARD.</parties>
+              <decisiondate pgmap="645" id="ADm7">May, 1862.</decisiondate>
+              <p pgmap="645" id="b645-22">[Blatchf. Pr. Cas. 164.] <footnotemark>2</footnotemark>
+              </p>
+              <footnote label="2">
+                <p pgmap="645" id="b645-26">2 [Reported by Samuel Blatehford, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="646" id="b646-3">BETTS, District Judge.</author>
+                <p pgmap="646" id="A_pW">This vessel and cargo were captured on the 24th of Feb­ruary, 1862, off the port of St. Augustine, Fla., by the United States steamer Harriet Lane, and were sent into this port as prize. The vessel was documented January 6, 1862, as then owned, in Charleston, by Finlay &amp; Patterson, citizens of that state, and had on board a bill of sale, purporting to have been executed by the said Finlay &amp; Patterson to F. P. Salas, for said vessel, on the 11th of January, 1862, without any consideration being named or being proved to have been paid. Salas hired part of ■ the crew in Charleston, and went himself, as supercar­go, in the vessel. All on board of the ves­sel knew that Charleston and the Southern ports were blockaded; and she evaded the blockade of that port in going out, bound on a voyage to the West Indies, with a cargo, from Charleston. Her crew list was certi­fied at Charleston, January 20, 1862, and it was therein stated that the vessel was bound “from the port of Charleston to one or more ports in the West Indies, and back to a port of discharge in the Confederate States,” which, as explained in the proofs in preparatorio, meant “anywhere we could get in, at St. John’s, Femandina, or St. An­drews.” She sailed under the Confederate flag, with a cargo from Charleston, convert­ed its proceeds into another cargo at Matan-­zas, and was destined, on her return, for any point or place in the Southern States, wherever she could get in. The vessel was built and owned in Charleston, until the sale to. Salas in that place, where the bill of sale was executed to him. It is not proved that he had any other residence, nor are papers or proofs put in showing that the cargo was not owned where it was shipped.</p>
+                <p pgmap="646" id="b646-4">Upon these facts the vessel and cargo were, at the time and place of arrest, own­ed, in my judgment, by persons domiciled and carrying on the trade and commerce in Charleston, and were thus enemy property, and lawful prize; or, if that cause of sei­zure might admit of doubt, it is clear, upon the evidence, that the whole voyage from Charleston to the West Indies, and back to a Confederate port of the United States, was intentionally planned and put in prose­cution to evade the blockade of Charleston; that such blockade was in fact evaded; and that an attempt was made, by the vessel and cargo, to violate the blockade of the coast of Florida. When the capturing ves­sel approached the prize, the master and supercargo threw overboard from the vessel a bundle of papers, tied up in a canvas bag. They were taken from the cabin, with two stones fastened to the bundle to sink them, and were thus thrown overboard. Judg­ment of condemnation and forfeiture of ves­sel and cargo is rendered.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="645" ORDERLABEL="643" TYPE="page">
+        <fptr FILEID="tiff_00323_0"/>
+        <fptr FILEID="jp2_00323_0"/>
+        <fptr FILEID="alto_00323_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_645.3" BETYPE="IDREF" FILEID="alto_00323_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="646" ORDERLABEL="644" TYPE="page">
+        <fptr FILEID="tiff_00323_1"/>
+        <fptr FILEID="jp2_00323_1"/>
+        <fptr FILEID="alto_00323_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_646.8" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aeao" BETYPE="IDREF" FILEID="casebody_0326"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.30" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-20" BETYPE="IDREF" FILEID="casebody_0326"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.27" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-4" BETYPE="IDREF" FILEID="casebody_0326"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.6" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-22" BETYPE="IDREF" FILEID="casebody_0326"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.29" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b646-3" BETYPE="IDREF" FILEID="casebody_0326"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.3" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-26" BETYPE="IDREF" FILEID="casebody_0326"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.34" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_pW" BETYPE="IDREF" FILEID="casebody_0326"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_646.4" BETYPE="IDREF" FILEID="alto_00323_1"/>
+            <area BEGIN="BL_646.5" BETYPE="IDREF" FILEID="alto_00323_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADm7" BETYPE="IDREF" FILEID="casebody_0326"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.31" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b645-21" BETYPE="IDREF" FILEID="casebody_0326"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_645.28" BETYPE="IDREF" FILEID="alto_00323_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

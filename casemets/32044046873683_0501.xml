@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0501" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="The Falcon">The FALCON</name>
+          <docketnumber>Case No. 4,617</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 959</citation>
+          <citation category="parallel" type="bluebook">3 Blatchf. 64; 30 Hunt, Mer. Mag. 201</citation>
+          <decisiondate>1853-10-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00481_0" MIMETYPE="image/tiff" CHECKSUM="20a7f8bc955d4dc9e76c4fcbe255d4d1" CHECKSUMTYPE="MD5" SIZE="65142">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00481_0.tif"/>
+      </file>
+      <file ID="tiff_00481_1" MIMETYPE="image/tiff" CHECKSUM="27e0cd0dc78af0093dfab81ecb0df48e" CHECKSUMTYPE="MD5" SIZE="62732">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00481_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00481_0" MIMETYPE="image/jp2" CHECKSUM="3e29f87ac48db96e2f2cb7aaf8fdfd00" CHECKSUMTYPE="MD5" SIZE="2650419">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00481_0.jp2"/>
+      </file>
+      <file ID="jp2_00481_1" MIMETYPE="image/jp2" CHECKSUM="c4b24b6f1d9b40e217df873d59aad783" CHECKSUMTYPE="MD5" SIZE="2705487">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00481_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00481_0" MIMETYPE="text/xml" CHECKSUM="83112dca9db41faf9aab8310731e3e98" CHECKSUMTYPE="MD5" SIZE="141990">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00481_0.xml"/>
+      </file>
+      <file ID="alto_00481_1" MIMETYPE="text/xml" CHECKSUM="03484d6c05c7ca5070203c9c51cf919f" CHECKSUMTYPE="MD5" SIZE="132431">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00481_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0501" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="960" firstpage="959">
+              <court id="AcFY" pgmap="961">Circuit Court, S. D. New York.</court>
+              <docketnumber id="b961-4" pgmap="961">Case No. 4,617.</docketnumber>
+              <citation id="b961-6" pgmap="961">[3 Blatchf. 64;<footnotemark>1</footnotemark> 30 Hunt, Mer. Mag. 201.]</citation>
+              <parties id="b961-5" pgmap="961">The FALCON.</parties>
+              <decisiondate id="ADIi" pgmap="961">Oct. 6, 1853.</decisiondate>
+              <attorneys id="b961-12" pgmap="961">Erastus C. Benedict, for libellant</attorneys>
+              <attorneys id="b961-13" pgmap="961">George F. Betts, for claimants.</attorneys>
+              <footnote label="1">
+                <p id="b961-11" pgmap="961">1 [Reported by Samuel Blatchford, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b961-14" pgmap="961">NELSON, Circuit Justice.</author>
+                <p id="A131" pgmap="961">The court be­low dismissed the libel on the ground, princi­pally, that evidence of the non-delivery of the goods to S. Lea, was not sufficient to charge the carrier — that evidence should also have been given of the non-delivery to the house of Zachrisson &amp; Nelson, the other consignees. The case, as thus presented on the evidence, is undoubtedly a close one, and, if it had been before me originally, I might possibly, in weighing the evidence, have inclined to a different conclusion from that at which the court below arrived. But, as the weak point in it has not been strengthened by the addi­tional testimony in this court, and as the li-­bellant has, since the appeal, had an oppor­tunity to supply the defect, it is but right, perhaps, to conclude that the inference of the court below was the proper one.</p>
+                <p id="b961-15" pgmap="961">It seems to be well settled, that, in order to charge the carrier, some evidence.must.be given, on the part of the shipper or owner, of the non-delivery of the goods, according to the requirement of the bill of lading. Grif­fiths v. Lee, 1 Car. &amp; P. 110; Gilbart v. Dale, 5 Adol. &amp; El. 543; 2 Greenl. Ev. § 213; Ang. Carr. 470. Very slight evidence will be suffi­cient to throw upon the carrier the burden of showing that the goods have been deliv­ered. But there must be some evidence by the shipper, in the first instance, of the non­delivery.</p>
+                <p id="b961-16" pgmap="961">Now, the weak point of the case, on the part of the libellant, is this: According to the bill of lading, the box was to be delivered to S. Lea or to Zachrisson &amp; Nelson, at Chagres. Lea has been examined and proves clearly that the goods were not delivered to him. But, there is a total absence of any evidence of a non-delivery to the other con­signees. There is evidence that the box did not reach the house of Cooke, Baker &amp; Co., of San Francisco, but this affords no infer­ence, legal or logical, that it did not come to the hands of Zachrisson &amp; Nelson, of Panama.</p>
+                <p id="b961-17" pgmap="961(162) 962(27)">And, besides, the tendency of the evidence on the part of the claimants is, not that there was a delivery to Lea, but to Ramos, who was the agent of Zachrisson &amp; Nelson, at Chagres, to forward goods to them. His place of business, and the place where the goods were landed, was on the opposite side of the river from Lea’s place of business. The box had been sent there before Lea called for it on board the ship; and, if any effect is to be given to the rule of law, that the owner must give, at least, some evidence of the non-delivery, in order to charge the carrier, it seems to me, that the fair appli­cation of it, in this case, sustains the view taken by the court below. As I have al­ready said, proving that the box did not reach Cooke, Baker &amp; Co., of San Francisco, in no respect helps the case. It may have been lost in the hands of Ramos, or in the transit across the Isthmus, before it reached Zachrisson &amp; Nelson, or while in their hands at Panama,</p>
+                <p id="b962-3" pgmap="962">I admit that the point on which the case turns is a nice one, and not without its difficulties, which might have been cleared up and disembarrassed by further testimony. But, I am inclined to think, that upon the strict principles of the law governing the case, the burden lay upon the libellant to furnish the evidence. He should have given some testimony legally tending to show that the goods had not been delivered to Zachrisson &amp; Nelson, or to Ramos, their agent at Cha-­gres. I find no such evidence in the case, and must, therefore, affirm the decree below, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="961" ORDERLABEL="959" TYPE="page">
+        <fptr FILEID="tiff_00481_0"/>
+        <fptr FILEID="jp2_00481_0"/>
+        <fptr FILEID="alto_00481_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_961.3" BETYPE="IDREF" FILEID="alto_00481_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="962" ORDERLABEL="960" TYPE="page">
+        <fptr FILEID="tiff_00481_1"/>
+        <fptr FILEID="jp2_00481_1"/>
+        <fptr FILEID="alto_00481_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_962.33" BETYPE="IDREF" FILEID="alto_00481_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b961-6" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.8" BETYPE="IDREF" FILEID="alto_00481_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b961-4" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.6" BETYPE="IDREF" FILEID="alto_00481_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b961-5" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.7" BETYPE="IDREF" FILEID="alto_00481_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AcFY" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.9" BETYPE="IDREF" FILEID="alto_00481_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADIi" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.10" BETYPE="IDREF" FILEID="alto_00481_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b962-3" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_962.4" BETYPE="IDREF" FILEID="alto_00481_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A131" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.20" BETYPE="IDREF" FILEID="alto_00481_0"/>
+            <area BEGIN="BL_961.21" BETYPE="IDREF" FILEID="alto_00481_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b961-17" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.24" BETYPE="IDREF" FILEID="alto_00481_0"/>
+            <area BEGIN="BL_962.1" BETYPE="IDREF" FILEID="alto_00481_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b961-14" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.19" BETYPE="IDREF" FILEID="alto_00481_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b961-15" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.22" BETYPE="IDREF" FILEID="alto_00481_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b961-16" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.23" BETYPE="IDREF" FILEID="alto_00481_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b961-11" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.16" BETYPE="IDREF" FILEID="alto_00481_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b961-12" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.17" BETYPE="IDREF" FILEID="alto_00481_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b961-13" BETYPE="IDREF" FILEID="casebody_0501"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_961.18" BETYPE="IDREF" FILEID="alto_00481_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

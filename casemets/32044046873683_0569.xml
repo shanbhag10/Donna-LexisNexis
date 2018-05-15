@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0569" publicationstatus="published">
+          <court abbreviation="N.D. Cal." jurisdiction="United States">United States District Court for the Northern District of California</court>
+          <name abbreviation="Farrell v. Mayers">FARRELL et al. v. MAYERS et al.</name>
+          <docketnumber>Case No. 4,685</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1082</citation>
+          <decisiondate>1859-04-22</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00542_1" MIMETYPE="image/tiff" CHECKSUM="e7bdaf5589539ef515e4de0575b26e49" CHECKSUMTYPE="MD5" SIZE="79572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00542_1.tif"/>
+      </file>
+      <file ID="tiff_00543_0" MIMETYPE="image/tiff" CHECKSUM="d61f2e78f1c875f09c2a0fbf5fac2d34" CHECKSUMTYPE="MD5" SIZE="104004">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00543_0.tif"/>
+      </file>
+      <file ID="tiff_00543_1" MIMETYPE="image/tiff" CHECKSUM="c55f05ee22becaba3b0c3d01003a8fd6" CHECKSUMTYPE="MD5" SIZE="33552">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00543_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00542_1" MIMETYPE="image/jp2" CHECKSUM="e6514d85ea63c9f6845862be54a104b5" CHECKSUMTYPE="MD5" SIZE="3115067">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00542_1.jp2"/>
+      </file>
+      <file ID="jp2_00543_0" MIMETYPE="image/jp2" CHECKSUM="42baa1ee026cd5d09e7c1efabd7fcad9" CHECKSUMTYPE="MD5" SIZE="3548480">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00543_0.jp2"/>
+      </file>
+      <file ID="jp2_00543_1" MIMETYPE="image/jp2" CHECKSUM="7ec07f0118e745b20245a7b4fd3b5b66" CHECKSUMTYPE="MD5" SIZE="1850260">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00543_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00542_1" MIMETYPE="text/xml" CHECKSUM="b5adb514089bebaf9e0393a13aeeb071" CHECKSUMTYPE="MD5" SIZE="165810">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00542_1.xml"/>
+      </file>
+      <file ID="alto_00543_0" MIMETYPE="text/xml" CHECKSUM="5b1a378dca34993a574290c551298f4a" CHECKSUMTYPE="MD5" SIZE="231386">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00543_0.xml"/>
+      </file>
+      <file ID="alto_00543_1" MIMETYPE="text/xml" CHECKSUM="374210e76832ac5a281984ca48cd6913" CHECKSUMTYPE="MD5" SIZE="64583">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00543_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0569" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1084" firstpage="1082">
+              <court id="b1084-21" pgmap="1084">District Court, N. D. California.</court>
+              <docketnumber id="b1084-18" pgmap="1084">Case No. 4,685.</docketnumber>
+              <parties id="b1084-19" pgmap="1084">FARRELL et al. v. MAYERS et al.</parties>
+              <decisiondate id="Ats" pgmap="1084">April 22, 1859.</decisiondate>
+              <attorneys id="b1085-5" pgmap="1085">E. H. Hodges,.for libellants.</attorneys>
+              <attorneys id="b1085-6" pgmap="1085">T. R. Wise, for respondents.</attorneys>
+              <p id="b1084-20" pgmap="1084">[Hoff. Op. 445.]</p>
+              <opinion type="majority">
+                <author id="b1085-7" pgmap="1085">HOFFMAN, District Judge.</author>
+                <p id="A4zb" pgmap="1085">The libel in this case has been filed in personam to re­cover wages due the libellants as seamen. The libeEants were duly shipped in the Swiss Boy, on a voyage from this port to Port Orch­ard and back. The vessel safely arrived at Port Orchard, but was voluntarily stranded and lost on the return voyage. It is claimed that this loss was the consequence of the un­seaworthiness of the vessel, and that there­fore the men are entitled to wages for the whole voyage, or until their return to this city. It is contended on the part of the re­spondents that no wages are due, the vessel and freight having been totally lost What would be the legal effect of loss of the vessel in consequence of her own unseaworthinuss, by fault of the owners, it is unnecessary to consider, for it has not appeared to me that the proofs are sufficient to sustain the allega­tion. That the vessel was leaky is un­doubted. But the libellants seem to have been aware of her condition before or when they shipped, and the voyage on which she was bound and the nature of her proposed cargo rendered the use of such a vessel prop­er, when under [other] circumstances it might have been clearly the reverse. The leaks which induced the master to strand his vessel, seem to have arisen in part at least from the violence of the elements and the proximate cause of the loss of the vessel was the capture by the Indians and not the stranding — which was done for the purpose of repairing her. The captain expresses the opinion that had it not been for the capture, he could have caulked and repaired his ves­sel, and there seems much reason to believe that with a cargo of lumber she might have been put in a condition to make the short voyage contemplated with safety. But I think it clear on the other hand that the libel-­lants are entitled to their wages on the out­ward voyage, and for half the time spent at the port of destination.</p>
+                <p id="b1085-8" pgmap="1085">The general principle is that where the ves­sel is lost on the homeward voyage wages are due for the outward voyage and one-half the time spent at the port of delivery — provided freight was or might have been earned on the outward voyage. The wages for the outward voyage are earned by the arrival at the port of delivery of the outward cargo, and the port of destination is in general to be deemed a port of delivery as respects wages, though the vessel may have gone there in ballast. 3 Kent, Comm. M. p. 190; Giles v. The Cynthia [Case No. 5,424]; The Two Catherines [Id. 14,288]; Thompson v. Faussat [Id. 13,954]; Pitman v. Hooper [Id. 11,186]. In The Cynthia, Judge Peters says: “There can be no distinction in rea­son or law, whether the freight or hire be actually paid by one for the use or char­tering of the vessel of another; or whether he sends his own vessel for or with a cargo to a designated port, which cargo is to be obtained by funds and credit there, goods, money, and bills sent in with the ship. The services of the seamen entitle them to their wages for the portion of the voyage they have so far completed. A port of destina­tion it will be seen is, in this respect, the same as a port of actual delivery. And it matters not that the vessel did not carry thither any goods, but went in ballast. She earns her freight, and the wages are due out of it, as much in legal contemplation as if she had been fully laden.” “There can be no difference in principle whether the ves­sel go empty to a destined port for a cargo, or return under disappointment without one.” Id. This decision seems precisely applicable to the case at bar.</p>
+                <p id="b1085-11" pgmap="1085(289) 1086(213)">The vessel left this port for Port Orchard to obtain a "cargo of lumber, she in fact took no cargo and was paid no freight for her outward voyage, but she might have done so; and it appeared in proof 'that she and other vessels in the trade were in the habit of taking such outward freight as may be offered, and that sometimes they carried as much as twelve or fifteen tons. She reached her port of destination in good safety and the seamen's right to wages is not to be affected by the circumstance, that for the few articles carried in her, no freight was asked; nor by the accident that no cargo was offered. The rule, as we have seen, affirms the right of the seamen to their wages even when the vessel goes in bal­last, a portion ought by that right to be maintained in the present case, when it appears that the vessel did carry some arti­cles “out of courtesy” upon which freight might have been charged. The case of The Lady Durham, 3 Hagg. Adm. 196, is relied on by the advocate for the respondents to maintain his position. But in that case the vessel was bound “on a trading voyage to the coast of Africa and back to Liverpool.”­She was lost in the course of this voyage, and wages were refused. But in this case, the voyage was from its nature and objects entire; the [no?] port of destination was mentioned, and the court regards it “as one transaction, quite as much as a Greenland fishery voyage.” But the distinction be­tween such voyages and that in the case at bar is adverted to by Judge Peters in The •■Cynthia, already cited. “Whaling and seal­ing voyages, and those on coasts where the ■cargo is to be obtained in a similar way, and not at a port of usual entry, as an article of "traffic or purchase, are to be considered in ;a similar predicament Possibly a voyage 'to cut wood and reclaim it from a state - of nature, might be compared in its principles "to the case in Burrows." Hernaman v. Ba­den, 3 Burrows, 1844. In the case at bar the vessel clears for a specified port, with the intention of thence obtaining a cargo. She. arrives in safety. She would have car­ried cargo, had any offered. She might have ■demanded freight for several articles actu­ally carried and delivered. The outward ■and homeward voyages are, as relates to -wages, clearly divisible, and T am unable to ■discover on what ground I could refitse wages in this case, without denying it in •every instance where the vessel goes empty •or in ballast to an outward port whether she does so by the will of the owner, or by "being accidentally disappointed in obtaining a. cargo. A decree must be entered for wages during the outward voyage, and for one half -the time spent at the port of destination.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1084" ORDERLABEL="1082" TYPE="page">
+        <fptr FILEID="tiff_00542_1"/>
+        <fptr FILEID="jp2_00542_1"/>
+        <fptr FILEID="alto_00542_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1084.4" BETYPE="IDREF" FILEID="alto_00542_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1085" ORDERLABEL="1083" TYPE="page">
+        <fptr FILEID="tiff_00543_0"/>
+        <fptr FILEID="jp2_00543_0"/>
+        <fptr FILEID="alto_00543_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1085.3" BETYPE="IDREF" FILEID="alto_00543_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1086" ORDERLABEL="1084" TYPE="page">
+        <fptr FILEID="tiff_00543_1"/>
+        <fptr FILEID="jp2_00543_1"/>
+        <fptr FILEID="alto_00543_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1086.6" BETYPE="IDREF" FILEID="alto_00543_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4zb" BETYPE="IDREF" FILEID="casebody_0569"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1085.10" BETYPE="IDREF" FILEID="alto_00543_0"/>
+            <area BEGIN="BL_1085.11" BETYPE="IDREF" FILEID="alto_00543_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ats" BETYPE="IDREF" FILEID="casebody_0569"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.29" BETYPE="IDREF" FILEID="alto_00542_1"/>
+            <area BEGIN="BL_1084.30" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1085-11" BETYPE="IDREF" FILEID="casebody_0569"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1085.14" BETYPE="IDREF" FILEID="alto_00543_0"/>
+            <area BEGIN="BL_1086.3" BETYPE="IDREF" FILEID="alto_00543_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1084-18" BETYPE="IDREF" FILEID="casebody_0569"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.25" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1084-19" BETYPE="IDREF" FILEID="casebody_0569"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.26" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1085-8" BETYPE="IDREF" FILEID="casebody_0569"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1085.12" BETYPE="IDREF" FILEID="alto_00543_0"/>
+            <area BEGIN="BL_1085.13" BETYPE="IDREF" FILEID="alto_00543_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1085-5" BETYPE="IDREF" FILEID="casebody_0569"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1085.7" BETYPE="IDREF" FILEID="alto_00543_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1085-7" BETYPE="IDREF" FILEID="casebody_0569"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1085.9" BETYPE="IDREF" FILEID="alto_00543_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1085-6" BETYPE="IDREF" FILEID="casebody_0569"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1085.8" BETYPE="IDREF" FILEID="alto_00543_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1084-21" BETYPE="IDREF" FILEID="casebody_0569"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.28" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1084-20" BETYPE="IDREF" FILEID="casebody_0569"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1084.27" BETYPE="IDREF" FILEID="alto_00542_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

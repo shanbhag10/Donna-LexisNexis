@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0222" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Eliza &amp; Abby">The ELIZA AND ABBY</name>
+          <docketnumber>Case No. 4,349</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 461</citation>
+          <decisiondate>1834-05-24</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00232_0" MIMETYPE="image/tiff" CHECKSUM="1c99706c294486b50c298c17fbf4330b" CHECKSUMTYPE="MD5" SIZE="29116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00232_0.tif"/>
+      </file>
+      <file ID="tiff_00232_1" MIMETYPE="image/tiff" CHECKSUM="0dd5df2bab64d4bbdca15d7e58147a7b" CHECKSUMTYPE="MD5" SIZE="115392">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00232_1.tif"/>
+      </file>
+      <file ID="tiff_00233_0" MIMETYPE="image/tiff" CHECKSUM="b43586d0b99f7f024f22c155566bef14" CHECKSUMTYPE="MD5" SIZE="74146">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00233_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00232_0" MIMETYPE="image/jp2" CHECKSUM="39170217aca8d0c4c01bffbacc9fca95" CHECKSUMTYPE="MD5" SIZE="1796379">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00232_0.jp2"/>
+      </file>
+      <file ID="jp2_00232_1" MIMETYPE="image/jp2" CHECKSUM="aa34c83217334cec75ceb7a3d45b80c2" CHECKSUMTYPE="MD5" SIZE="3830283">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00232_1.jp2"/>
+      </file>
+      <file ID="jp2_00233_0" MIMETYPE="image/jp2" CHECKSUM="42a5b8e6a69cb2e0bb2467ed8dd9baeb" CHECKSUMTYPE="MD5" SIZE="2941111">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00233_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00232_0" MIMETYPE="text/xml" CHECKSUM="926876033a2bb0e856b06346cb295f08" CHECKSUMTYPE="MD5" SIZE="51005">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00232_0.xml"/>
+      </file>
+      <file ID="alto_00232_1" MIMETYPE="text/xml" CHECKSUM="1a2c5b4c17e7c9ec24e8ddab04be5f34" CHECKSUMTYPE="MD5" SIZE="237135">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00232_1.xml"/>
+      </file>
+      <file ID="alto_00233_0" MIMETYPE="text/xml" CHECKSUM="fb37f26f26e0e0b01b6521305e114542" CHECKSUMTYPE="MD5" SIZE="154639">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00233_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0222" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="463" firstpage="461">
+              <court id="b463-9" pgmap="463">District Court, S. D. New York.</court>
+              <docketnumber id="b463-6" pgmap="463">Case No. 4,349.</docketnumber>
+              <parties id="b463-7" pgmap="463">The ELIZA AND ABBY.</parties>
+              <decisiondate id="ADs" pgmap="463">May 24, 1834.</decisiondate>
+              <attorneys id="b463-22" pgmap="463">Edwin Burr, for libellants.</attorneys>
+              <attorneys id="b463-23" pgmap="463">Daniel Lord, Jr., and Charles Walker, for claimant.</attorneys>
+              <p id="b463-8" pgmap="463">[Blatchf. &amp; H. 435.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p id="b463-20" pgmap="463">1 [Reported by Samuel Blatchford, Esq., and Francis Howland, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b463-24" pgmap="463">BETTS, District Judge.</author>
+                <p id="AQLk" pgmap="463(67) 464(251)">The libellants charge upon the Eliza and Abby carelessness and mismanagement in various respects. Itis urged, that the state of the weather rendered it improper for her to attempt to go to sea, and that raising one anchor, where she .lay. was improvident and negligent management. The opinions and judgments of witnesses given after the event, cannot be relied upon to determine whetbcr tne conuuct of the master of the Eliza and Abby, previous to the squall, or under its exigencies, was jus­tifiable or prudent. Whether he was guilty of culpable negligence in either respect, must be decided upon the circumstances before him at the moment. The squall was from the northwest It seems, that in this harbor a southeast wind is usyally followed by one from the northwest and that the changes are not uncommonly abrupt and violent. Nothing more was discernible at the time, on circumspect and careful observation, than the common signs of a change of wind from its then point to the opposite one. Expe­rienced navigators, not connected with the vessel, give their opinion upon the facts, that the conduct of the pilot was sufficiently guarded and prudent in that state of the wind, in heaving up the anchors and getting himself in readiness for putting the vessel under way. An extreme caution and appre­hensiveness might have induced a pilot to wait until the weather had- assumed a set­tled character; yet, there seems to have been no want of ordinary precaution in pro­ceeding upon the then state of the wind and atmosphere, without preparation against a sudden and dangerous change. Officers in charge of a vessel must rely essentially upon their own judgment, in adopting or reject­ing measures of mere precaution as to mak­ing sail or coming to. The law exacts of them, in so doing, no higher responsibility than the exercise of ordinary foresight and skill.</p>
+                <p id="b464-4" pgmap="464">It is, however, strongly insisted, that if he was justified in proceeding with his prep­arations to get under way, still, when the squall broke upon him, he was culpably neg­ligent in not paying out cable and dropping the kedge anchor, which had been raised; and many suggestions and hypotheses have been urged to show that the two anchors would have held the Eliza and Abby in her position. In respect to the arguments and inferences upon this topic, it is to be ob­served, that there is no proof that .the Eliza and Abby dragged her main anchor at all. The position in which the two vessels struck would strongly countenance the supposition of the master and pilot of the Eliza and Abby, that both vessels had run over their anchors with great velocity, and, being then suddenly checked in that direction, were drawn backwards, but diagonally, and on lines converging towards each other, and in that manner were brought into collision, without the anchor of either having dragged. Upon that supposition, the additional aid of the kedge was not required to hold the Eliza and Abby at her anchorage, and would have been of no service unless so dropped as to hold and bring up the ship before she reached, on her course, the point of her check and recoil by the main cable. There is no evidence enabling the court to form an opinion as to the justness of that hypothesis, nor as to the sufficiency of the kedge to hold the vessel without the aid of the main an­chor.</p>
+                <p id="b464-6" pgmap="464">But, admitting that the small anchor, if let go in due time, might have averted the collision, it does not follow that the omission to do that particular act casts upon the claimant any responsibility for the conse­quences which ensued. The witnesses rep­resent that the coming on of the gust was sudden and violent in the extreme, and that the two vessels were brought together within three minutes after it struck them. That interval evidently allowed no opportunity for selecting or putting in execution means to avoid any particular disaster. The nat­ural apprehension, when the blast struck the vessels, must have been, that each of them was itself in instant and imminent peril of destruction. It is not to be expected that the measures which might afterwards have been deemed most appropriate, would have occurred to the minds of the master or pilot of the Eliza and Abby, in the confusion and alarm naturally attendant upon a peril of the kind. Their exertions would be first put forth for the safety of their own vessel and crew, without regard to the situation of others. The Attieus was, at the same time, flying with like velocity before the gale, without any apparent restraint from her an­chor; and, if any attention had been given to her, it would have been reasonable to suppose that both vessels were driving with their anchors, and would continue to run in the same direction. They came into danger­ous proximity only when, after being brought up by their anchors, they were carried in a new direction, veering towards each other. Neither that movement, nor the cause of it, could be foreseen or was to be expected. It appears to me, then, that the collision was the result of an inevitable casualty, and was owing to no fault or negligence on the part of the Eliza and Abby, and that each party must, accordingly, bears its own loss. The authorities supporting this doctrine are nu­merous. Abb. Shipp. 354; Story, Bailm. §§ 514, 608; The Woodrop Sims, 2 Hods. 85; The Dundee, 1 Hagg. Adm. 120.</p>
+                <p id="b464-7" pgmap="464(145) 465(280)">The libellants'further insist, that if no legal blame is imputable to the Eliza and Abby for the act of collision, she is responsible for the consequent damages, because, with rea­sonable skill and exertion on her part, all those injuries might have been prevented. It was urged that, as she was the windward vessel, and had come last into the position leading to the collision, and was ready for sea, and was therefore better prepared to manage herself when adrift, it was incum­bent upon her to slip her cable and thus free the two ships from their dangerous eonti-­guity. The proof is clear, that such a pro­cedure would necessarily have involved great exposure and danger to the vessel which should let go her anchor. She would have been carried stem foremost towards a lee shore, but a few hundred yards distant, with­out anchors to stay her; and, if the violence of the gale had continued, the use of sails for her government would have been impracti­cable, and she must inevitably have been cast ashore. The witnesses on both sides consid­er, that the exposure would have been so great from slipping the cables of the vessels in their then situation, that, as a measure of the last extremity, it would have been war­ranted only to avoid instant and certain de­struction from the concussion of the vessels. Bach vessel would properly have struggled to the last against taking a step so perilous to herself, and have left the hazard to her companion. There is some difference of opin­ion as to which vessel could have done it most readily, and with the least risk. But that is matter of conjecture alone, and not to be weighed or determined by judicial deci­sion. There was no paramount obligation on the claimant to assume the peril, since it was .not his fault which produced the exigency; ■and, the Eliza and Abby not being legally .responsible for the collision itself, no obliga­tion was imposed on her, in this respect, that did not equally rest on the Atticus. Each officer, looking first to the preservation •of his own vessel, was also bound to do ev­ery thing the circumstances of the case would .permit, for the safety of the other; and I do not perceive in the proofs, or in the judgment of skilful experts upon the facts, cause for imputing any blamable misconduct to the Eli­:za and Abby, which should render her liable for the injuries the other ship sustained.</p>
+                <p id="b465-3" pgmap="465">It has been further urged,- that the Eliza «nd Abby was improperly worked the night previous, and was allowed to drift from her anchorage and come into dangerous proxim­ity to the Atticus. Had injuries been re­ceived from the Eliza and Abby that night, in the progress of her movement or in the manner of her coming to, there would have •been color for holding her chargeable for such injury, because of careless or unskilful man­agement. But she had been brought to a •safe anchorage, and had taken a berth at a suitable distance from the Atticus, and in no way threatening to the latter vessel. It is true, that the accident would probably not have happened, had the Eliza and Abby re­tained the situation at which she was an­chored the night before. So, it may be said, it would not have happened if she had re­mained at the New-York wharf. Her shift­ing her anchorage was not the proximate ■cause of the collision. It was, undoubtedly, in one sense, connected with it and the cause ••of it, but so indirectly and remotely as not to ■subject her to the consequences. If, when she first anchored, she had taken the berth at which she finally brought up, and had re­mained there till the occurrence of the gale .in the morning, there would be no ground, upon the proofs, to charge her with fault or .negligence in coming to at that point. The 'libellants cannot invoke, in support of their .action, any antecedent misconduct of the claimant’s vessel, not necessarily and direct­ly connected with the injury they afterwards sustained.</p>
+                <p id="b465-6" pgmap="465">The libel must be dismissed. But, as the libellants sustained serious injury, without fault on their side, and as, under the circum­stances known to them at the time, there was strong probable cause of action, I shall not impose costs on them. Libel dismissed, without costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="463" ORDERLABEL="461" TYPE="page">
+        <fptr FILEID="tiff_00232_0"/>
+        <fptr FILEID="jp2_00232_0"/>
+        <fptr FILEID="alto_00232_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_463.6" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="464" ORDERLABEL="462" TYPE="page">
+        <fptr FILEID="tiff_00232_1"/>
+        <fptr FILEID="jp2_00232_1"/>
+        <fptr FILEID="alto_00232_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_464.4" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="465" ORDERLABEL="463" TYPE="page">
+        <fptr FILEID="tiff_00233_0"/>
+        <fptr FILEID="jp2_00233_0"/>
+        <fptr FILEID="alto_00233_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_465.4" BETYPE="IDREF" FILEID="alto_00233_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADs" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.12" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQLk" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.26" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            <area BEGIN="BL_463.27" BETYPE="IDREF" FILEID="alto_00232_0"/>
+            <area BEGIN="BL_464.1" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-9" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.11" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-8" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.10" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-6" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.8" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-7" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.9" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-6" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.8" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-6" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.7" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-7" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.8" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            <area BEGIN="BL_465.2" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b464-4" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_464.5" BETYPE="IDREF" FILEID="alto_00232_1"/>
+            <area BEGIN="BL_464.6" BETYPE="IDREF" FILEID="alto_00232_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b465-3" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_465.6" BETYPE="IDREF" FILEID="alto_00233_0"/>
+            <area BEGIN="BL_465.7" BETYPE="IDREF" FILEID="alto_00233_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-24" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.25" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-20" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.22" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-22" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.23" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b463-23" BETYPE="IDREF" FILEID="casebody_0222"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_463.24" BETYPE="IDREF" FILEID="alto_00232_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

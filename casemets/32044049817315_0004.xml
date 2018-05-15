@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0004" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Independence">The INDEPENDENCE</name>
+          <docketnumber>Case No. 7,013</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 5</citation>
+          <citation category="parallel" type="bluebook">9 Ben. 395; 55 How. Pr. 205</citation>
+          <decisiondate>1878-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:25Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00004_0" MIMETYPE="image/tiff" CHECKSUM="65c436461536a0b42c66cc1f3e874ac1" CHECKSUMTYPE="MD5" SIZE="75416">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00004_0.tif"/>
+      </file>
+      <file ID="tiff_00004_1" MIMETYPE="image/tiff" CHECKSUM="fd39df54924808ad4b23233d868d044c" CHECKSUMTYPE="MD5" SIZE="105954">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00004_1.tif"/>
+      </file>
+      <file ID="tiff_00005_0" MIMETYPE="image/tiff" CHECKSUM="a37595ffa048fe2cd8cff6ef5dc5c542" CHECKSUMTYPE="MD5" SIZE="71618">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00005_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00004_0" MIMETYPE="image/jp2" CHECKSUM="4aa1c50e9fd9f1a13b011e88412c21a2" CHECKSUMTYPE="MD5" SIZE="3256197">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00004_0.jp2"/>
+      </file>
+      <file ID="jp2_00004_1" MIMETYPE="image/jp2" CHECKSUM="6dcd1ca0551ad804843aac4ee49d3be0" CHECKSUMTYPE="MD5" SIZE="3696716">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00004_1.jp2"/>
+      </file>
+      <file ID="jp2_00005_0" MIMETYPE="image/jp2" CHECKSUM="01bcf83da8458077c5d6055ad88f1145" CHECKSUMTYPE="MD5" SIZE="2877386">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00005_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00004_0" MIMETYPE="text/xml" CHECKSUM="e5f972703ab7be1d15167e503d646699" CHECKSUMTYPE="MD5" SIZE="155763">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00004_0.xml"/>
+      </file>
+      <file ID="alto_00004_1" MIMETYPE="text/xml" CHECKSUM="072cd1f95218ea05199ca8e108d307ee" CHECKSUMTYPE="MD5" SIZE="243779">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00004_1.xml"/>
+      </file>
+      <file ID="alto_00005_0" MIMETYPE="text/xml" CHECKSUM="29ddc385c01a75937760ab43587fb4de" CHECKSUMTYPE="MD5" SIZE="156852">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00005_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0004" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="7" firstpage="5">
+              <court pgmap="7" id="b7-20">District Court, S. D. New York.</court>
+              <docketnumber pgmap="7" id="b7-17">Case No. 7,013.</docketnumber>
+              <citation pgmap="7" id="b7-19">[9 Ben. 395; <footnotemark>1</footnotemark> 55 How. Pr. 205.]</citation>
+              <parties pgmap="7" id="b7-18">The INDEPENDENCE.</parties>
+              <decisiondate pgmap="7" id="AS">March, 1878.</decisiondate>
+              <attorneys pgmap="8" id="b8-3">Beebe, Wilcox' &amp; Hobbs, for libellant.</attorneys>
+              <attorneys pgmap="8" id="b8-4">M. M. Budlong. for claimants.</attorneys>
+              <footnote label="1">
+                <p pgmap="7" id="AKp">1 [Reported by Robert D. Benedict, Esq., and Benj. Lincoln Benedict, Esq., and here reprint-­od by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="8" id="b8-5">BLATCHFORD. District Judge.</author>
+                <p pgmap="8" id="Asu">On the evidence I am of opinion that there is a considerable sum of money still due to E. Remington &amp; Sons on the mortgage, and that the notes given to them in March. 1874. were not given in settlement or discharge of the mortgage. Prima facie, the claimants are entitled to retain possession of the canal-boat under the mortgage.</p>
+                <p pgmap="8" id="b8-6">The provisions of the act of April 2S, 1801 (Laws N. Y. 1864, p. 993), in regard to filing in the office of the auditor of the canal de­partment a mortgage on a canal-boat, and refiling in the same office a copy thereof, with a statement of interest, within thirty days next preceding the expiration of one year from the original filing of the original mortgage, are the same as the provisions in the act of April 29, 1833 (Laws N. Y. 1833, p. 402), in regard to filing, in the of­fice of a register, a county clerk, or a town clerk, a mortgage on goods and chattels, and refiling in the same office a copy thereof, with a statement of interest, within thirty days next preceding the expiration of one year from the original filing of the original mortgage. It was the law of this state, under the act of 1S33 (Newell v. Warren, 44 N. Y. 244), that no filing after the original filing of the mortgage and the first filing of the copy, with the proper statement, was necessary in order to make the mortgage a continuing security, and that there not be a subsequent refiling. The same rule must apply to the canal-boat statute. By the act of May 13, 1873 (Laws N. Y. 1873, p. 767). the act of 1833 was so amended as to re­quire a copy of a mortgage on goods and chattels, with a statement of interest, to be again filed within thirty days next preced­ing the expiration of each and every term of one year “after the filing of such mortgage.” The construction in Newell v. Warren, made in 1S70, was thus recognized, but no similar amendment was made to the act of 1804. In the present case the act of 1804. as thus construed, was complied with.</p>
+                <p pgmap="8(669) 9(96)" id="b8-7">It is urged, for the libellant, that it was necessary, in addition, to file the mortgage, and renew it by refiling, in accordance with the act of 1833, because, although the mort­gaged property was a canal-boai. it was also goods and chattels, and the mortgagor resided, when the mortgage was executed, in this state, in the town of Mohawk, Her-­kimer county. I am not referred to any decision of the courts of the state directly upon the point, but the general practice. I understand, has been to file mortgages on canal-boats only in the office of the auditor of the canal department. The act of 18(14 was a substitute for the act of April 15. 185S (Laws N. Y. 1838, p. 396. The act of 1S3S provided that any person having any lien or incumbrance on aony canal-boat, by a chattel mortgage, “duly filed,” could file in the office of the auditor a statement of the date, circumstances, nature, and amount of his claim, with an affidavit thereto; and that “all claims and liens by chattel mortgage, a statement of which shall be filed as herein provided, shall, from the time of such filing, have preference and priority over all other claims and liens, in the'same manner and to the like extent of claims and liens aris­ing on chattel mortgages filed and entered in towns where the mortgagor resides, but shall not have tiny priority over existing liens and claims.” The act of 1858 was based on the idea of a double filing. It was only where a chattel mortgage had been “duly filed” — that is, filed under the act of 1833 — that the statement and affidavit could be filed in the office of the auditor, under the act of 1S58. When both filings had taken place, then, under the act of 18DS, the lien by the mortgage was to have preference and priority over all other claims on the canal-­boat, except existing claims, to the same extent that claims under mortgages on other property, filed under the act of 1833, would have, under that act. as to such other prop­erty, preference and priority. In other words, as to canal-boats, there was made necessary, by the act of 183S. a double filing, and, until it had taken place, mort­gages on canal-boats could not acquire the standing which mortgages on other goods and chattels acquired by a compliance with the act of 1S33 alone. Then came the act of 1SG4, superseding the act of 1858 and its provisions, and providing for a single filing in the case of canal-boats, and that in the office of the auditor, on the same plan, as to filing and refiling, as that of the act of 1S35 in regard to other goods and chattels. Still more, the net of 18(14 went on to provide as follows: “All claims and liens by chat­tel mortgage, which shall be filed as here­in provided, shall, from the time of such filing, have preference and priority over all other claims and liens, but shall not have any priority over existing claims and liens." This enactment strikes out the words, “in the same manner and to the like extent of claims and liens arising on chattel mort­gages filed and entered in towns where the mortgagor resides,” and manifests an in­tention, in connection with the other pro­visions of the act, to dissever the filing of mortgages on canal-boats from the act of 1S35. and leave them to depend wholly on the act of 1SU4. It is enacted, that, when they are filed, as provided in the act of 18 14 (which is a filing in the auditor’s office alone, and not, as in the net of 1S5S. a filing of something in the auditor’s office in conjunc­tion with a previous filing of something else elsewhere), they shall, from the time of such filing in the auditor's office, have preference over all claims but existing claims, and. of course, preference over the claims of sub­sequent purchasers and mortgagees. If some other filing elsewhere is necessary, ef­fect cannot be given to the enactment that the filing under the act of 1S64 gives the preference and priority. This makes the provisions of the act of 1833 repugnant to those of the act of 1864. so far as canal-­boats are concerned, and makes it neces­sary to hold, that the provisions of the act of 1S83, so far as they apply to canal-boats, are superseded and replaced by those of the act of 1804.</p>
+                <p pgmap="9" id="b9-3">E.- Remington &amp; Sons complied, therefore, with all the provisions of law required to make their mortgage a valid continuing se­curity, as against the libellant, even if he was a purchaser in good faith. A person is not a purchaser in good faith, within the meaning of the statute in question, -when he purchases with notice of the prior mort­gage. Hill v. Beebe, 13 N. Y. 556. In the present case, the libellant claims to have purchased the boat from his mother, who was the owner and the mortgagor. He testi­fies that heaskedber if there were any claims against the boat; that she said the parties of whom she bought the boat were owing her; and that she said nothing about hav­ing given a mortgage on the boat. The mortgage was given to E. Remington &amp; Sons for the purchase money of the boat, when the libellant's mother bought it. The libellant’s father and mother testify to the same conversation between him and his mother. After such conversation the libel-­lant went to the auditor’s office at Albany, and enquired if there were any claims against the canal-boat. The person in charge took down a book, and, after consulting it, replied that there had not been since 1S74. The libellant left without inquiring further. All this was sufficient notice to the libel-­lant. He was bound to inquire further. He had notice that the persons who sold the boat to his mother had had a mortgage on the boat, and that such mortgage had been filed in the auditor's office, and that his mother claimed that the mortgage had been paid. He was bound to seek out those parties, whose names were on the book, which, through the clerk, he was consulting, and ascertain from them whether they re­garded the mortgage as paid. If he had done so. he would have learned that the mortgage was. in fact, not paid. Jackson v. Post, 15 Wend. 588. His conduct shows that he knew he was bound to inquire, and that he was advised there had been a mortgage filed, but lie' evidently relied on the view that the mortgage had run out be­cause not refiled from year to year. He had notice enough to put him on inquiry, and he was bound to follow up his in­quiry by going to E. Remington &amp; Sons, who were stated in the record before him to be the mortgagees. This was notice to him of everything to which such inquiry would have reasonably led. Carr v. Hilton, [Case No. 2,437]. The libel is dismissed, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="7" ORDERLABEL="5" TYPE="page">
+        <fptr FILEID="tiff_00004_0"/>
+        <fptr FILEID="jp2_00004_0"/>
+        <fptr FILEID="alto_00004_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_7.10" BETYPE="IDREF" FILEID="alto_00004_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="8" ORDERLABEL="6" TYPE="page">
+        <fptr FILEID="tiff_00004_1"/>
+        <fptr FILEID="jp2_00004_1"/>
+        <fptr FILEID="alto_00004_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_8.3" BETYPE="IDREF" FILEID="alto_00004_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="9" ORDERLABEL="7" TYPE="page">
+        <fptr FILEID="tiff_00005_0"/>
+        <fptr FILEID="jp2_00005_0"/>
+        <fptr FILEID="alto_00005_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_9.3" BETYPE="IDREF" FILEID="alto_00005_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b9-3" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_9.5" BETYPE="IDREF" FILEID="alto_00005_0"/>
+            <area BEGIN="BL_9.6" BETYPE="IDREF" FILEID="alto_00005_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b8-7" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_8.11" BETYPE="IDREF" FILEID="alto_00004_1"/>
+            <area BEGIN="BL_8.12" BETYPE="IDREF" FILEID="alto_00004_1"/>
+            <area BEGIN="BL_9.1" BETYPE="IDREF" FILEID="alto_00005_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b7-20" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_7.20" BETYPE="IDREF" FILEID="alto_00004_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b8-5" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_8.7" BETYPE="IDREF" FILEID="alto_00004_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b8-4" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_8.6" BETYPE="IDREF" FILEID="alto_00004_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b8-3" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_8.5" BETYPE="IDREF" FILEID="alto_00004_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b7-18" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_7.18" BETYPE="IDREF" FILEID="alto_00004_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKp" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_7.28" BETYPE="IDREF" FILEID="alto_00004_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b7-17" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_7.17" BETYPE="IDREF" FILEID="alto_00004_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AS" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_7.21" BETYPE="IDREF" FILEID="alto_00004_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b7-19" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_7.19" BETYPE="IDREF" FILEID="alto_00004_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Asu" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_8.8" BETYPE="IDREF" FILEID="alto_00004_1"/>
+            <area BEGIN="BL_8.9" BETYPE="IDREF" FILEID="alto_00004_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b8-6" BETYPE="IDREF" FILEID="casebody_0004"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_8.10" BETYPE="IDREF" FILEID="alto_00004_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

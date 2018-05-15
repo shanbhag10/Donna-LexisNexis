@@ -1,0 +1,391 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0213" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Eledona">The ELEDONA</name>
+          <docketnumber>Case No. 4,340</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 440</citation>
+          <citation category="parallel" type="bluebook">2 Ben. 31</citation>
+          <decisiondate>1867-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00221_1" MIMETYPE="image/tiff" CHECKSUM="0b7500f8adc4d7d68d497434f803b71f" CHECKSUMTYPE="MD5" SIZE="30320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00221_1.tif"/>
+      </file>
+      <file ID="tiff_00222_0" MIMETYPE="image/tiff" CHECKSUM="80da03a17888c0e209fcd917d7344e2f" CHECKSUMTYPE="MD5" SIZE="116700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00222_0.tif"/>
+      </file>
+      <file ID="tiff_00222_1" MIMETYPE="image/tiff" CHECKSUM="9e37298136f1a95c3c5c1af64726ab3d" CHECKSUMTYPE="MD5" SIZE="101008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00222_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00221_1" MIMETYPE="image/jp2" CHECKSUM="9005926cc93e9a2530849cefcc6e9100" CHECKSUMTYPE="MD5" SIZE="1804392">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00221_1.jp2"/>
+      </file>
+      <file ID="jp2_00222_0" MIMETYPE="image/jp2" CHECKSUM="4e6b5e2d8103ccca7659f4f39db0b438" CHECKSUMTYPE="MD5" SIZE="3844849">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00222_0.jp2"/>
+      </file>
+      <file ID="jp2_00222_1" MIMETYPE="image/jp2" CHECKSUM="6870887084b1b6d2890491949d649712" CHECKSUMTYPE="MD5" SIZE="3534893">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00222_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00221_1" MIMETYPE="text/xml" CHECKSUM="1d8b655023b9f24cb4c2df0c0b632b69" CHECKSUMTYPE="MD5" SIZE="62950">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00221_1.xml"/>
+      </file>
+      <file ID="alto_00222_0" MIMETYPE="text/xml" CHECKSUM="0c7bd91bb5b3b15ed532d7e54009e5df" CHECKSUMTYPE="MD5" SIZE="258608">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00222_0.xml"/>
+      </file>
+      <file ID="alto_00222_1" MIMETYPE="text/xml" CHECKSUM="ab3873257428382125db58f17727b9b2" CHECKSUMTYPE="MD5" SIZE="217316">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00222_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0213" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="442" firstpage="440">
+              <court id="AYh9" pgmap="442">District Court, S. D. New York.</court>
+              <docketnumber id="ALkh" pgmap="442">Case No. 4,340.</docketnumber>
+              <citation id="AQb" pgmap="442">[2 Ben. 31.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="AxIu" pgmap="442">The ELEDONA.</parties>
+              <decisiondate id="A7y" pgmap="442">Dec., 1867. <footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys id="AfF" pgmap="442">A. F. Smith, for libellant</attorneys>
+              <attorneys id="AfI" pgmap="442">C. Donohue, for claimant</attorneys>
+              <footnote label="1">
+                <p id="AJWb" pgmap="442">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="Acz" pgmap="442">2 [Affirmed in Case No. 4,341.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="A3t" pgmap="442">BLATCHFORD, District Judge.</author>
+                <p id="Ad1H" pgmap="442(206) 443(129)">On the facts in this case, the libellant claims a lien on the vessel, for the value of the mast — one hundred and fifty dollars. It is urged, on his part, that, in order to give a lien on a vessel to a material man, for supplies or re­pairs furnished or made to the vessel, it is only requisite to show that a necessity ex­isted for the supplies or repairs, and that they were furnished or made to the vessel in a foreign port; and it is claimed that the eases of Thomas v. Osborn, 19 How. [60 U. S.] 22, and Pratt v. Reed, Id. 359, decided at the December term, 1856, so far as they es­tablished a different rule, were a departure from prior well established principles, and have been since overruled by the reenactment by the supreme court, at the December term, 1858, of so much of the twelfth rule in admi­ralty as relates to suits by material men for supplies or repairs or other necessaries for a foreign ship, or for a ship in a foreign port, and by the decision in the case of The St. Lawrence, 1 Black [66 U. S.] 522. It is also urged, that Mr. justice Nelson, who deliv­•ered the opinion of the court in Pratt v. Reed, has since, in cases adjudged by him, given to the decision in that case a construc­tion which will admit of the existence of a lien on the vessel in this case in favor of the libellant, on the facts in proof. The claim •on the part of the libellant comes to this, that, inasmuch as the contract in this case under which he furnished the mast was a maritime contract, and the mast was fur­nished for a foreign vessel, and was in fact necessary for her, he has a right, under the twelfth rule in admiralty, to proceed against the vessel in rem, to recover the value of the mast.</p>
+                <p id="b443-3" pgmap="443">There was nothing new in the decisions in Thomas v. Osborn and Pratt v. Reed [supra]. They merely applied and enforced the well settled principles of admiralty and maritime law, established for the protection of ship­owners whose vessels are found in foreign ports, as well as for the security of parties furnishing necessaries to sucn vessels. In Thomas v. Osborn, it was held, that the mas­ter of a vessel has power, in a foreign port, to hypothecate the vessel for necessary supplies and repairs furnished and made to her, either hy an express hypothecation of her, as by a bottomry bond, or by an implied hypotheca­tion of ha-, by obtaining such supplies and re­pairs on her credit, in a case of necessity; but that his authority so to hypothecate her is limited to cases where there is a necessity for obtaining the supplies or repairs on her ■credit, as well as a necessity for having them at all; that the person furnishing the sup­plies or repairs must see to it that apparently such necessities, both of them, exist, before he can claim that the vessel is hypothecated to him; and that this limitation on the au­thority of the master, and this duty imposed •on the furnisher, are as ancient and well es­tablished as such authority itself. It was al­so held, in that case, that, to constitute a case of apparent necessity, not only must the sup­plies and repairs be needful, but it must be -apparently necessary for the master to have -a credit to procure them; that if the master has funds which he ought to apply to pay for the supplies and repairs, then no case of actual necessity for a credit exists; and that, if the furnisher knows these facts, or has the means, by the use of due diligence, to ascer­tain them, then no case of apparent necessity •exists to have a credit, and the act of the master in procuring a credit does not bind the vessel. The ease of Pratt v. Reed only -enforced the decision in Thomas v. Osborn, by holding again, that to create an implied hypothecation of a vessel for supplies fur­nished to her in a foreign port, not only must -a real or apparent necessity exist, at the time, for the supplies, but a real or apparent neces­sity must also exist, at the time, for giving a ■credit upon the vessel in order to procure them.</p>
+                <p id="b443-4" pgmap="443">So much of the twelfth rule in admiralty as Is invoked in behalf of the libellant was in force in the same language, when these de­cisions were made, that is found in the twelfth rule, as amended at the December term, 185S. That rule, in saying that, “in all suits by material men for supplies or repairs, or other necessaries, for a foreign ship, or for a ship in a foreign port, the libellant may proceed against the ship and freight in rem, or against the master or own­er alone in personam,” only means, that, where a material man has a right to sue for supplies, repairs, or necessaries for such a ship, he may, if he has a right to sue the ship in rem, and the freight in rem, join them in one suit in rem, but that he cannot join the master and the owner, or either of them, as a respondent, in personam, in the same suit with such proceedings in rem; and that, if he has a right to sue the master in per-­sonam, and the owner in personam, he can­not sue them both in one suit in personam, but may sue either of them in personam. But the question of the right to sue ship, or freight, or master, or owner, in a court of admiralty, for the particular supplies,- re­pairs, or necessaries, does not depend at all on the twelfth rule, but depends on the gen­eral admiralty and maritime law.</p>
+                <p id="b443-7" pgmap="443(313) 444(187)">Nor has the ancient rule been at all relaxed since the decisions in Thomas v. Osborn and Pratt v. Reed. The case of The St. Law­rence, 1 Black [60 U. S.] 522 contains noth­ing to affect those decisions; and, in the circuit courts within the second circuit, their authority has been upheld and applied, in very recent cases, by Mr. Justice Nelson. In the case of Youngfall v. The James Guy [Case No. 18,184], in the circuit court for the eastern district of New York, on appeal (Sept. 1867), Judge Nelson upholds the sound­ness of the decision in Pratt v. Reed, as above defined, and holds that, in every case, the question of the necessity for the repairs or supplies, as well as the question of the necessity for creating a lien on the vessel for them, must depend on the facts and cir­cumstances of the case. Again, in the case of Ross v. The Neversink [Id. 12,079], in the circuit court for this district, on appeal (Nov. 1867), Judge Nelson refers to the cases of Thomas v. Osborn and Pratt v. Reed¡ and says, in regard to those cases, that the de­cisions in them were placed upon ancient and settled authority; that those decisions extend no rule beyond its ancient strictness, and lay down the principles which are to govern eases of the kind; that no fixed rulé can be laid down in advance as to what will be sufficient proof of an apparent necessity for giving credit to a vessel, but the question must rest in the sound judgment of the tribunal before which the proof is presented; that good faith and fair dealing must be exacted, in every case, on the part of the person furnishing the supplies or repairs; and that the absent owner ought to be guarded against any collusion of the master with the material man or the furnisher of supplies, and against an unnecessary tacit incumbrance upon his vessel. In that case, Judge Nelson upheld the lien on the vessel, because the supplies were furnished at a place where the owners of the vessel were not present, and, in the sense of the maritime law, in a foreign jurisdiction, and because the master had no means wherewith to pay for the supplies. He held, therefore, that there was an apparent necessity for a credit to the vessel. In the case of Bickford v. The Caroline [Id. 1,385], in the district court for the district of Massachusetts (Nov. 1867), it was held, by Judge Lowell, on the author­ity of Pratt v. Reed, that the material man had no lien on the vessel for the supplies, the evidence .being, that the supplies were furnished to her at Boston, she being a for­eign vessel, on the order of her master, who was also her owner, under circumstances not sufficient to satisfy the court that the supplies could be obtained only upon a pledge of the credit of the vessel.</p>
+                <p id="b444-3" pgmap="444">Now, in the present case, the mast was necessary for the vessel, but there was clear­ly no real necessity, and not even an appar­ent necessity, for pledging the credit of the vessel to procure the mast. The master had the money to pay for the mast, and did pay for it. On the evidence, he paid the party who furnished it to him, and, although the libellant has not been paid for the mast, yet his own negligence is the cause. He could have learned, by the exercise of due dili­gence, that the master had the means of paying for the mast, and that there was no necessity for pledging the credit of the ves­sel to pay for it But he made no inquiry on that subject It may be that the conduct and language of the master were such, on his interview with the libellant, as to make the master personally liable to the libellant for the value of the mast; but neither the owner nor the vessel is liable. This case is one fully illustrating the propriety of adhering strictly to the rule laid down in‘Thomas v. Osborn and in Pratt v. Reed. The master had the money to pay for the mast, and did pay for it to the party with whom he con­tracted for it, and who procured it from the libellant; and, although it may have been furnished by the libellant, under circum­stances which led him to suppose that he was furnishing it to the vessel on the direct order of the master to him for it, yet no facts existed which authorized the master to pledge the credit of the vessel to the libellant for the mast To allow the lien in this case would be to create an unnecessary incum-­brance on the vessel, and to open the door for collusion between masters and material men — evils which the law, as expounded in the cases referred to, aims to cure.</p>
+                <p id="b444-4" pgmap="444">The libel must be dismissed, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="442" ORDERLABEL="440" TYPE="page">
+        <fptr FILEID="tiff_00221_1"/>
+        <fptr FILEID="jp2_00221_1"/>
+        <fptr FILEID="alto_00221_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_442.3" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="443" ORDERLABEL="441" TYPE="page">
+        <fptr FILEID="tiff_00222_0"/>
+        <fptr FILEID="jp2_00222_0"/>
+        <fptr FILEID="alto_00222_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_443.3" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="444" ORDERLABEL="442" TYPE="page">
+        <fptr FILEID="tiff_00222_1"/>
+        <fptr FILEID="jp2_00222_1"/>
+        <fptr FILEID="alto_00222_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_444.5" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYh9" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.7" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQb" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.6" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfF" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.18" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfI" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.19" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3t" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.20" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7y" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.8" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALkh" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.4" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-4" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.7" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJWb" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.15" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-3" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.6" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ad1H" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.21" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            <area BEGIN="BL_442.22" BETYPE="IDREF" FILEID="alto_00221_1"/>
+            <area BEGIN="BL_443.1" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-3" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.5" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Acz" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.16" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-4" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.6" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            <area BEGIN="BL_443.7" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-7" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.8" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            <area BEGIN="BL_444.2" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxIu" BETYPE="IDREF" FILEID="casebody_0213"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_442.5" BETYPE="IDREF" FILEID="alto_00221_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

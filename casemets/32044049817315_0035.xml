@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0035" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="Ingraham v. Albee">INGRAHAM v. ALBEE</name>
+          <docketnumber>Case No. 7,044</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 49</citation>
+          <citation category="parallel" type="bluebook">1 Blatchf. &amp; H. 289</citation>
+          <decisiondate>1832-03-19</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:25Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00026_0" MIMETYPE="image/tiff" CHECKSUM="4fe1ba16b84bc320a3dd05a111c7b790" CHECKSUMTYPE="MD5" SIZE="21082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00026_0.tif"/>
+      </file>
+      <file ID="tiff_00026_1" MIMETYPE="image/tiff" CHECKSUM="fe631a6350e68ff180f51b26fd74e0a3" CHECKSUMTYPE="MD5" SIZE="87278">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00026_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00026_0" MIMETYPE="image/jp2" CHECKSUM="dbe4b1d64a02b6859595ba6519658a83" CHECKSUMTYPE="MD5" SIZE="1733225">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00026_0.jp2"/>
+      </file>
+      <file ID="jp2_00026_1" MIMETYPE="image/jp2" CHECKSUM="f31aeb5b2fc724a96fbfd39e87454df6" CHECKSUMTYPE="MD5" SIZE="3121792">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00026_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00026_0" MIMETYPE="text/xml" CHECKSUM="38808f3458df7057a5b9c9d320b88abf" CHECKSUMTYPE="MD5" SIZE="37374">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00026_0.xml"/>
+      </file>
+      <file ID="alto_00026_1" MIMETYPE="text/xml" CHECKSUM="e596d18ae89d9b4de72934c2e2d1484a" CHECKSUMTYPE="MD5" SIZE="183550">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00026_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0035" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="50" firstpage="49">
+              <court pgmap="51" id="b51-26">District Court, S. D. New York.</court>
+              <docketnumber pgmap="51" id="b51-23">Case No. 7,044.</docketnumber>
+              <citation pgmap="51" id="b51-25">[1 Blatchf. &amp; H. 289.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="51" id="b51-24">INGRAHAM v. ALBEE.</parties>
+              <decisiondate pgmap="51" id="Ar5">March 19, 1832.</decisiondate>
+              <attorneys pgmap="51" id="b51-33">Edwin Burr and Erastus C. Benedict, for libellant.</attorneys>
+              <attorneys pgmap="51" id="b51-34">John Oleaveland and William W. Camp­bell, for respondent.</attorneys>
+              <footnote label="1">
+                <p pgmap="51" id="b51-35">1 [Reported by Samuel Blateliford, Esq., and Francis Howland, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="52" id="b52-2">BETTS, District Judge.</author>
+                <p pgmap="52" id="ANN">If the libellant has forfeited his wages by leaving the vessel, and continuing absent in Havana, such forfeiture would have been remitted by the consent of the master to receive him on board and over­look his conduct. Or, even if no condo-na­tion of that offence had been shown, it is very questionable whether the previous deviation of the vessel, and her performing a voyage not named in the articles, would not have excused the libellant in leaving her on arriv­ing at Havana. As the case stands, no for­feiture of wages is established. The evi­dence offered by the respondent shows clearly that the libellant was not an able seaman, nor a competent cook; and, had the respond­ent refused to receive him back into his serv­ice, and defended this action upon the ground of the libellant’s incapacity to perform the duty he contracted to do, I should have thought it a fair case for a reduction of wa­ges, and should not have been willing to al­low the rate stipulated by the articles, for any portion of the time. The master was a better judge of the value of the libellant’s services to the vessel than any of the-wit­nesses the latter has called; and the master’s acts in reinstating the libellant counteraci this branch of the defence, at least when sel up by himself. His taking the libellant back, in Havana, under the original contract, without any stipulation for a change of wages, must now be deemed conclusive, as against him, that he was satisfied with the libellant’s services, and was to allow him the same rate of compensation, to the completion of the voyage. I do not think, however, on the whole evidence, that the libellant is en­titled to more than the agreed wages. His occasional services as cook were not of a character to raise an equity to increased pay. Wages are accordingly decreed at fifteen dol­lars a month for the voyage (four months and three days), deducting the period of twenty-­two days for the libellant’s absence in Ha­vana. The answer alleges, that the libel-­lant’s absence continued from the 16th of September to the 11th of October, a period of twenty-five days; but no evidence is fur­nished fixing the dates with certainty. The master claims a credit of $2102, the amount charged the libellant for board in Havana. The proof being that the price at the house where he boarded was usually one dollar per day, that is sufficient evidence of an absence correspondent to that charge; and, without noticing the fraction, I shall allow a deduc­tion of wages for twenty-two days. The master claims the amount of this board bill as having been paid by him. The fact is stated in the answer, but the allegation is not responsive to the libel in a way to render it, of itself, evidence in the respondent’s fa­vor; and there is no direct proof that he paid the bill. There are circumstances, how­ever, raising so strong a presumption in the master’s favor, that if the payment is not admitted by the libellant, I shall allow the re­spondent a reasonable time to furnish further proof of the fact. It is proved that the li-­bellant offered to ship on board of another vessel, for the purpose of having his bill sat­isfied; that it is usual for masters of vessels to advance the board bills of seamen on such occasions; that the respondent did so with reference to two of his seamen; and that the libellant said he did not know whether it had been done for him or not. That declaration is a plain admission that he had not paid it himself, and would probably justify my mak­ing the allowance at once, but for a declara­tion of the master in Havana, proved by one of the seamen, “that he would not pay for the libellant, and, if his landlord said anything about it, he would put him in prison for har­boring the libellant.” This leaves the point in so questionable a state, that I think it proper to demand further proofs. The mas­ter will be allowed ninety days to prove this payment, on his filing an affidavit that he has actually made it at the libellant’s request, and, at the same time, taking out a commis­sion or a dedimus potestatem to obtain the testimony. Decree accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="51" ORDERLABEL="49" TYPE="page">
+        <fptr FILEID="tiff_00026_0"/>
+        <fptr FILEID="jp2_00026_0"/>
+        <fptr FILEID="alto_00026_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_51.4" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="52" ORDERLABEL="50" TYPE="page">
+        <fptr FILEID="tiff_00026_1"/>
+        <fptr FILEID="jp2_00026_1"/>
+        <fptr FILEID="alto_00026_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_52.4" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-34" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.52" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b52-2" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.5" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-35" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.53" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANN" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_52.6" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            <area BEGIN="BL_52.7" BETYPE="IDREF" FILEID="alto_00026_1"/>
+            <area BEGIN="BL_52.8" BETYPE="IDREF" FILEID="alto_00026_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-23" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.39" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ar5" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.43" BETYPE="IDREF" FILEID="alto_00026_0"/>
+            <area BEGIN="BL_51.44" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-33" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.51" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-26" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.42" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-25" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.41" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b51-24" BETYPE="IDREF" FILEID="casebody_0035"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_51.40" BETYPE="IDREF" FILEID="alto_00026_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

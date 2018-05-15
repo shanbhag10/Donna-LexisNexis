@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0435" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="the John Wurts">The JOHN WURTS</name>
+          <docketnumber>Case No. 7,434</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 903</citation>
+          <citation category="parallel" type="bluebook">16 Hunt, Mer. Mag. 383</citation>
+          <decisiondate>1847-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00453_0" MIMETYPE="image/tiff" CHECKSUM="ef7fda1983175a34be6baf4cd78b7a1d" CHECKSUMTYPE="MD5" SIZE="56296">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00453_0.tif"/>
+      </file>
+      <file ID="tiff_00453_1" MIMETYPE="image/tiff" CHECKSUM="93d518439deda392b7aca49d0769496f" CHECKSUMTYPE="MD5" SIZE="7116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00453_1.tif"/>
+      </file>
+      <file ID="tiff_00454_0" MIMETYPE="image/tiff" CHECKSUM="0cbfc11ac36b202074fb51815950689d" CHECKSUMTYPE="MD5" SIZE="46790">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00454_0.tif"/>
+      </file>
+      <file ID="tiff_00454_1" MIMETYPE="image/tiff" CHECKSUM="bf2c8ef8a79420f3c2a9f5386af3b6dd" CHECKSUMTYPE="MD5" SIZE="113336">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00454_1.tif"/>
+      </file>
+      <file ID="tiff_00455_0" MIMETYPE="image/tiff" CHECKSUM="f6e41816959cbfda3f7de53ef4bfdcb5" CHECKSUMTYPE="MD5" SIZE="79546">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00455_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00453_0" MIMETYPE="image/jp2" CHECKSUM="649577c3fa9867d56e5ad522eb4b5d1b" CHECKSUMTYPE="MD5" SIZE="2661637">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00453_0.jp2"/>
+      </file>
+      <file ID="jp2_00453_1" MIMETYPE="image/jp2" CHECKSUM="ec825a015e6526c951afa7c3c9445651" CHECKSUMTYPE="MD5" SIZE="1037632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00453_1.jp2"/>
+      </file>
+      <file ID="jp2_00454_0" MIMETYPE="image/jp2" CHECKSUM="42a34077466f819ad7c34fb88f7749cd" CHECKSUMTYPE="MD5" SIZE="2119644">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00454_0.jp2"/>
+      </file>
+      <file ID="jp2_00454_1" MIMETYPE="image/jp2" CHECKSUM="b2d4caf65a5be4dbb4b7b02b484cfc86" CHECKSUMTYPE="MD5" SIZE="3834931">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00454_1.jp2"/>
+      </file>
+      <file ID="jp2_00455_0" MIMETYPE="image/jp2" CHECKSUM="c32f8988cb08cfef8c689152cbc157dd" CHECKSUMTYPE="MD5" SIZE="3152782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00455_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00453_0" MIMETYPE="text/xml" CHECKSUM="b2777602a010810279281ed2966feff6" CHECKSUMTYPE="MD5" SIZE="116687">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00453_0.xml"/>
+      </file>
+      <file ID="alto_00453_1" MIMETYPE="text/xml" CHECKSUM="d751cd48a3f7c0812225806dcc2480bd" CHECKSUMTYPE="MD5" SIZE="1997">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00453_1.xml"/>
+      </file>
+      <file ID="alto_00454_0" MIMETYPE="text/xml" CHECKSUM="b0f69c23b9663d55eafae174aee9ab8e" CHECKSUMTYPE="MD5" SIZE="92697">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00454_0.xml"/>
+      </file>
+      <file ID="alto_00454_1" MIMETYPE="text/xml" CHECKSUM="d6c652bb957723f12f37231e8546a1fe" CHECKSUMTYPE="MD5" SIZE="237596">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00454_1.xml"/>
+      </file>
+      <file ID="alto_00455_0" MIMETYPE="text/xml" CHECKSUM="4d2d50a0b91840da1ab16e996a9df4d3" CHECKSUMTYPE="MD5" SIZE="171630">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00455_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0435" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="907" firstpage="903">
+              <court pgmap="905" id="AkYM">District Court, S. D. New York.</court>
+              <docketnumber pgmap="905" id="b905-19">Case No. 7,434.</docketnumber>
+              <citation pgmap="905" id="AF2">16 Hunt, Mer. Mag. 383.]</citation>
+              <parties pgmap="905" id="AOQn">The JOHN WURTS.</parties>
+              <decisiondate pgmap="905" id="AJTm">Feb., 1847.</decisiondate>
+              <attorneys pgmap="907" id="b907-5">J. C. Hart, for libellants, Curtis and others.</attorneys>
+              <attorneys pgmap="907" id="b907-6">Burr &amp; Benedict, for Jones and his asso­ciates.</attorneys>
+              <attorneys pgmap="907" id="b907-7">J. M. Mason, for claimants.</attorneys>
+              <p pgmap="905" id="AQiE">[Olc. 462; <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="905" id="b905-31">1 [Reported by Edward R. Olcott, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="907" id="b907-8">BETTS, District Judge.</author>
+                <p pgmap="907" id="Alom">Upon the facts in this case the claim of Jones and owners of the Excelsior to salvage cannot be allowed. It lacks the indispensable ingredient of a salvage service: that of having contributed immediately to the preservation or rescue of the property in peril at sea. The circumstan­ces in proof do not demand of the court a de­cision upon the point, how far a person must be directly employed aiding the recovery of a wreck to constitute him a salvor. Nor.am I disposed to lay down the rule that he must make it certain the property was saved by his assistance; but I am not aware of any principle which invests him with the rights and privileges of a salvor, until it is rendered reasonably probable upon the evidence that his labor or skill have contributed towards protecting property exposed to instant peril at sea from ultimate loss or further damage. An impression seems to have obtained, that one who finds derelict property under water or afloat, acquires a right to it by discovers-, which can be maintained by a kind of con­tinued claim, without keeping it in posses­sion or applying constant exertions for its preservation and rescue. There is no founda­tion for such notion.</p>
+                <p pgmap="907(147) 908(146)" id="b907-9">The right of a salvor results from the fact that he has held in actual possession or has kept near what was lost or abandoned by the owner or placed in dangerous exposure to destruction, with the means at command to preserve and save it, and that he is actually employing those means to that end. The finder thus becomes the legal possessor, and acquires a privilege against the property for his salvage services which takes pre­cedence of all other title. Lewis v. The Elizabeth &amp; Jane [Case No. 8,321]; The Bee [Id. 1,219]; Wilkie v. Two Hundred and Five Boxes of Sugar [Id. 17,662], The law will protect him against all interference by others, even the true owners, until he is adequately rewarded or opportunity is allowed to bring the property to a place of safety, and have his compensation secured him by the judg­ment of the proper tribunals. The fact that property is found at sea or on the coast in peril, without the presence of any one to protect it, gives the finder a right to take it in his possession; and the law connects with such right the obligation to use the means he has at control, and with all reasonable promptitude, to save it for the owner. He can therefore be no otherwise clothed with the character of salvor than whilst he is in the occupancy of the property, and em­ploying the necessary means for saving it. Notorious possession, with the avowal of the object of such possession, are cardinal req­uisites to the creation or maintenance of the privileges of a salvor; where they do not exist, any other person may take the prop­erty with all the advantages of the first find­er.</p>
+                <p pgmap="908" id="b908-4">This is the clear policy of the law. It re­wards with liberal generosity a meritorious salvor, but counts first in the order of his meritorious acts a prompt use of sufficient means, both in getting at property needing relief and abiding with it until its salvage is completed. The value of his services is enhanced and their compensation augmented proportionally to the danger and loss to the salvor accompanying such exertions and their benefit to the owner. No one of these cardinal qualities appears in support of this claim. The most that is proved in favor of the owners of the Excelsior is, that being in port after having left the wreck, they di­rected apparatus to be prepared here to aid in raising it. A fortnight or three weeks were consumed awaiting such preparations, the wreck in the mean time being left desert­ed, with the exception that the Excelsior and crew were once alongside of it for about twelve hours. Under those circumstances, any other persons going to the wreck and effecting its saving would have been enti­tled to the rights of sole salvors. The claim becomes infinitely weaker, when set up aft­er the wreck had been forced from the place where it grounded, and was driven by the winds and waves for nearly a month to and fro out at sea, and along the coasts. I ac­cordingly pronounce against the claim of the owners of the Excelsior, and only refrain im­posing costs on them because of the loss and expense incurred by them in making their preparations and efforts, amounting to $120 or $130, independent of the time employed by the Excelsior and her crew in their fruitless efforts. If they have any right to compensa­tion for services rendered prior to the written agreement, it cannot be enforced in this ac­tion. They must look to the owner personal­ly on his contract with them. The right of the other libellants to a reasonable reward is not denied by the owner; but he seeks by his defense to prove that one or two hundred dollars would be a full compensation for the time occupied and assistance given by the libellants on the occasion.</p>
+                <p pgmap="908" id="b908-5">It is unnecessary to repeat the principles entering into the determination of a salvage reward; they have been too often discussed and stated in the decisions of maritime courts' to leave any important illustration of the doctrines unexplained. There can be no-­doubt of the rightful authority of the court to regulate the awaz-d of compensation very-­much at discretion; but all judicial tribunals find fixed rules of adjudication, when at all applicable to the subject, more useful and satisfactory in operation than mere discre-­tionaz-y allowances, however discreetly- they-­may be allotted. Tyson v. Prior [Case No. 14,319]. Accordingly, maritime courts, when not governed by positive law in this respect, have.' by a kind of common concurrence, fa­vored -an allowance, if in cases of derelict, of from one-third to three-quarters of the-­salved property to the salvors, varying the amount between these points by regard to the special nature of the services, the peril and toil incurred and value of property saved, and hazard to property employed in making the salvage. The Jubilee, 3 Hagg. Adm. 43, note; Abb. Shipp. (Story’s Ed. 1829) p. 398. The growing preference, however, to deter-­mínate rules of compensation in salvage cases, has so far settled upon a moiety as the proper rate of division in cases of absolute-­dei-elict, that it may almost be termed the habit of courts to give that proportion when no imperative consideration induces them to&gt; deviate from it. The Henry Ewbank [Case No. 6,376]; Bond v. The Cora [Id. 1,620]. The extraordinary merit of the services may-­augment the share awarded, or the large-­value of the property saved diminish the al­lowance. No sagacity could hope to select a fixed amount, which would in every- instance be an appropriate compensation. A moiety, however, approximates sufficiently near to-­accomplish most of the important benefits which salvage rewards were designed to sub-­serve, comprehending the general interest of maritime commerce and a reasonable parti­tion of the imperiled property between the owner and the party instrumental in recover­ing and restoring it. Courts accordingly are inclined to countenance that method of fix­ing the reward, unless special circumstances call for a discriminating valuation. The Wa­terloo [Id. 17.257]; The Galaxy [Id. 5,168]. I think none such exists in this case, nor on a careful estimate of the services rendered, with a view to the small value of the prop­erty saved, and the probability that little or nothing could be realized from the adventure- and the actual benefit to the owner, do I, regard six or seven hundred dollars a dis­proportionate compensation to be specifically-­awarded the libellants for what was perform­ed by them.</p>
+                <p pgmap="908(48) 909(31)" id="b908-12">I therefore decree in their favor the costs of suit, first to be paid out of the proceeds-­in court, and then, that they receive the-­moiety of the residue for the salvage services rendei-ed in this case. Unless the mode of distribution between the libellants is adjust­ed amongst themselves, it must ha referred to a commissioner to ascertain and report the proportion payable to each, and to each ves­sel employed in rendering the salvage serv­ice.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="905" ORDERLABEL="903" TYPE="page">
+        <fptr FILEID="tiff_00453_0"/>
+        <fptr FILEID="jp2_00453_0"/>
+        <fptr FILEID="alto_00453_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_905.3" BETYPE="IDREF" FILEID="alto_00453_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="906" ORDERLABEL="904" TYPE="page">
+        <fptr FILEID="tiff_00453_1"/>
+        <fptr FILEID="jp2_00453_1"/>
+        <fptr FILEID="alto_00453_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_906.5" BETYPE="IDREF" FILEID="alto_00453_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="907" ORDERLABEL="905" TYPE="page">
+        <fptr FILEID="tiff_00454_0"/>
+        <fptr FILEID="jp2_00454_0"/>
+        <fptr FILEID="alto_00454_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_907.4" BETYPE="IDREF" FILEID="alto_00454_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="908" ORDERLABEL="906" TYPE="page">
+        <fptr FILEID="tiff_00454_1"/>
+        <fptr FILEID="jp2_00454_1"/>
+        <fptr FILEID="alto_00454_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_908.4" BETYPE="IDREF" FILEID="alto_00454_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="909" ORDERLABEL="907" TYPE="page">
+        <fptr FILEID="tiff_00455_0"/>
+        <fptr FILEID="jp2_00455_0"/>
+        <fptr FILEID="alto_00455_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_909.3" BETYPE="IDREF" FILEID="alto_00455_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b905-31" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.38" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQiE" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.25" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b908-4" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_908.5" BETYPE="IDREF" FILEID="alto_00454_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOQn" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.24" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkYM" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.27" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Alom" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.10" BETYPE="IDREF" FILEID="alto_00454_0"/>
+            <area BEGIN="BL_907.11" BETYPE="IDREF" FILEID="alto_00454_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b907-7" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.8" BETYPE="IDREF" FILEID="alto_00454_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b907-6" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.7" BETYPE="IDREF" FILEID="alto_00454_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b907-5" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.6" BETYPE="IDREF" FILEID="alto_00454_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b907-9" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.12" BETYPE="IDREF" FILEID="alto_00454_0"/>
+            <area BEGIN="BL_908.1" BETYPE="IDREF" FILEID="alto_00454_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b907-8" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_907.9" BETYPE="IDREF" FILEID="alto_00454_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b905-19" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.23" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b908-12" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_908.8" BETYPE="IDREF" FILEID="alto_00454_1"/>
+            <area BEGIN="BL_909.1" BETYPE="IDREF" FILEID="alto_00455_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AF2" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.26" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJTm" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_905.28" BETYPE="IDREF" FILEID="alto_00453_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b908-5" BETYPE="IDREF" FILEID="casebody_0435"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_908.6" BETYPE="IDREF" FILEID="alto_00454_1"/>
+            <area BEGIN="BL_908.7" BETYPE="IDREF" FILEID="alto_00454_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

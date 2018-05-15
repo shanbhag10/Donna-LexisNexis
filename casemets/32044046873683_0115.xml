@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0115" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="In re Earle">In re EARLE</name>
+          <docketnumber>Case No. 4,244</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 251</citation>
+          <citation category="parallel" type="bluebook">3 N. B. R. 304</citation>
+          <decisiondate>1869-11-15</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00127_0" MIMETYPE="image/tiff" CHECKSUM="a0422fa308e634c3d4127de6a506ac4f" CHECKSUMTYPE="MD5" SIZE="86812">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00127_0.tif"/>
+      </file>
+      <file ID="tiff_00127_1" MIMETYPE="image/tiff" CHECKSUM="c748b14e1ba1564373190be7c81b2033" CHECKSUMTYPE="MD5" SIZE="70966">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00127_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00127_0" MIMETYPE="image/jp2" CHECKSUM="3d45602d73854517e92f66b0d1952212" CHECKSUMTYPE="MD5" SIZE="3637943">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00127_0.jp2"/>
+      </file>
+      <file ID="jp2_00127_1" MIMETYPE="image/jp2" CHECKSUM="78de443de06d36748925532ac5d8e5e5" CHECKSUMTYPE="MD5" SIZE="2853083">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00127_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00127_0" MIMETYPE="text/xml" CHECKSUM="6edf71c3e7b41290ee16b96980145808" CHECKSUMTYPE="MD5" SIZE="191227">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00127_0.xml"/>
+      </file>
+      <file ID="alto_00127_1" MIMETYPE="text/xml" CHECKSUM="7671eec249b9582e16f6962c2706528e" CHECKSUMTYPE="MD5" SIZE="151170">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00127_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0115" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="252" firstpage="251">
+              <court id="b253-14" pgmap="253">District Court, S. D. New York.</court>
+              <docketnumber id="b253-11" pgmap="253">Case No. 4,244.</docketnumber>
+              <citation id="b253-13" pgmap="253">[3 N. B. R. 304 (Quarto, 81).]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b253-12" pgmap="253">In re EARLE.</parties>
+              <decisiondate id="Ad1" pgmap="253">Nov. 15, 1869.</decisiondate>
+              <footnote label="1">
+                <p id="b253-25" pgmap="253">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b253-24" pgmap="253">BLATCHFORD, District Judge.</author>
+                <p id="As8R" pgmap="253(9) 254(97)">The fore­going matter contained in questions 75 and 76, and the answers thereto, having been re­ferred to me by the register, under section 7 •of the act, I decide that the witness must an­swer all proper questions on matters relating to his trade and dealings with the bankrupt prior to the commencement of the proceed­ings in bankruptcy, and that if, to answer properly and fully and truthfully any such question it is necessary that the witness should produce a copy of any transaction of his with the bankrupt, as contained in any book of the witness’s, such copy must be pro­duced.</p>
+                <p id="b254-3" pgmap="254">The clerk will certify this decision to the register, Edgar Ketchum, Esq.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="253" ORDERLABEL="251" TYPE="page">
+        <fptr FILEID="tiff_00127_0"/>
+        <fptr FILEID="jp2_00127_0"/>
+        <fptr FILEID="alto_00127_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_253.3" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="254" ORDERLABEL="252" TYPE="page">
+        <fptr FILEID="tiff_00127_1"/>
+        <fptr FILEID="jp2_00127_1"/>
+        <fptr FILEID="alto_00127_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_254.4" BETYPE="IDREF" FILEID="alto_00127_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-14" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.16" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-11" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.13" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-12" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.14" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-13" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.15" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b254-3" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_254.5" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="As8R" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.28" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            <area BEGIN="BL_253.29" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            <area BEGIN="BL_254.1" BETYPE="IDREF" FILEID="alto_00127_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ad1" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.17" BETYPE="IDREF" FILEID="alto_00127_0"/>
+            <area BEGIN="BL_253.18" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-25" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.30" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b253-24" BETYPE="IDREF" FILEID="casebody_0115"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_253.27" BETYPE="IDREF" FILEID="alto_00127_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

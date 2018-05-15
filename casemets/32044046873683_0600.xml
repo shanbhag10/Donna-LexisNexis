@@ -1,0 +1,420 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0600" publicationstatus="published">
+          <court abbreviation="D. Me." jurisdiction="United States">United States District Court for the District of Maine</court>
+          <name abbreviation="In re Feeny">In re FEENY</name>
+          <docketnumber>Case No. 4,715</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1124</citation>
+          <citation category="parallel" type="bluebook">1 Hask. 304; 4 N. B. R. 233</citation>
+          <decisiondate>1870-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00563_1" MIMETYPE="image/tiff" CHECKSUM="8a56222e0b17fa1b655aefd0bd89aa61" CHECKSUMTYPE="MD5" SIZE="46900">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00563_1.tif"/>
+      </file>
+      <file ID="tiff_00564_0" MIMETYPE="image/tiff" CHECKSUM="2ff4820d5b25e32122d50b907cdea564" CHECKSUMTYPE="MD5" SIZE="114582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00564_0.tif"/>
+      </file>
+      <file ID="tiff_00564_1" MIMETYPE="image/tiff" CHECKSUM="948421e1015cb37d5e3dcaaacb1529db" CHECKSUMTYPE="MD5" SIZE="31532">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00564_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00563_1" MIMETYPE="image/jp2" CHECKSUM="8db00bfce4721ed3ba6a3b522676ae4d" CHECKSUMTYPE="MD5" SIZE="2062300">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00563_1.jp2"/>
+      </file>
+      <file ID="jp2_00564_0" MIMETYPE="image/jp2" CHECKSUM="998ac9966898c5ead2c43f2d9a629b2a" CHECKSUMTYPE="MD5" SIZE="3815609">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00564_0.jp2"/>
+      </file>
+      <file ID="jp2_00564_1" MIMETYPE="image/jp2" CHECKSUM="ca6fe73f951b790b5be1e1af66aaa9ae" CHECKSUMTYPE="MD5" SIZE="1754023">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00564_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00563_1" MIMETYPE="text/xml" CHECKSUM="ead376d364a8f686ed00bb6d18965784" CHECKSUMTYPE="MD5" SIZE="91845">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00563_1.xml"/>
+      </file>
+      <file ID="alto_00564_0" MIMETYPE="text/xml" CHECKSUM="ccd0689ad019b91795185c14570eca97" CHECKSUMTYPE="MD5" SIZE="248907">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00564_0.xml"/>
+      </file>
+      <file ID="alto_00564_1" MIMETYPE="text/xml" CHECKSUM="bf16c2e0c2ed84ac9b26434e3d48709d" CHECKSUMTYPE="MD5" SIZE="54091">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00564_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0600" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1126" firstpage="1124">
+              <court id="Are" pgmap="1126">District Court, D. Maine.</court>
+              <docketnumber id="b1126-8" pgmap="1126">Case No. 4,715.</docketnumber>
+              <citation id="b1126-10" pgmap="1126">[1 Hask. 304;<footnotemark>1</footnotemark> 4 N. B. R. 233 (Quarto, 69).]</citation>
+              <parties id="b1126-9" pgmap="1126">In re FEENY.</parties>
+              <decisiondate id="AXqT" pgmap="1126">Oct., 1870.</decisiondate>
+              <attorneys id="b1126-16" pgmap="1126">William L. Putnam, for petitioner.</attorneys>
+              <attorneys id="b1126-17" pgmap="1126">Bion Bradbury, for respondent</attorneys>
+              <footnote label="1">
+                <p id="b1126-20" pgmap="1126">1 [Reported by Thomas Hawes Haskell, Esq.,, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1126-18" pgmap="1126">FClX, District Judge.</author>
+                <p id="AVg5" pgmap="1126">This is a petition by-­James Hurley, the assignee in bankruptcy,, “that one Peter Smith may be adjudged guilty of a contempt, in violating the order of this court, passed on the 25th day of Dec., last, enjoining him from foreclosing a mort­gage on the stock in trade of said bankrupt, or from commencing or prosecuting any suit for or on account of any claim by virtue of said mortgage, or from taking possession of said stock until the further order of the-­court.” Notice of this petition has been giv­en to said Smith, and he has filed a written, answer thereto, admitting that he has com­menced an action of replevin for the stock,, but averring that the order of injunction had not been served upon him at the time-­he instituted the suit, and that he was not thereby in contempt.</p>
+                <p id="b1126-19" pgmap="1126(149) 1127(14)">On the hearing, it was shown that a peti­tion was filed by said Hurley on the seventh, of December last against said Feeny, pray­ing that he might be adjudged a bankrupt,, “for that he had given a preference to said Smith in fraud of the act [of 1867 (14 Stat. 517)], by mortgaging to him, Oct. 27, 1869, his stock in trade to secure sundry of his-­notes then overdue and held by said Smith.” A trial was had before the jury on this peti­tion, and on the morning of Dec. 25th, a verdict was rendered in favor of the peti­tioner, and Feeny was thereupon adjudged a bankrupt. Smith was a witness at the trial,, was well aware of the cause for which Feeny-­was decreed bankrupt, and had previously consulted counsel in relation to it, Mr. Free­man of Cherryfield, where both parties re­■sided. Freeman was also a witness in the trial of the petition against Feeny.</p>
+                <p id="b1127-4" pgmap="1127">Freeman, having learned that a petition for an injunction had been or would be pre. •sented to the district court to restrain Smith from commencing any suit in the state court for the mortgaged property, or from taking it into his possession, on the morning of Dec. 25th advised Smith that they were endeavor­ing to serve notice upon him of the petition for injunction, that he might be summoned to appear before the court, and that he had better commence his suit of replevin at once in the state court, before the injunction should be served upon him; and it was agreed that Freeman should leave that noon for Cherryfield, to sue out and complete serv­ice of the replevin writ as soon as prac­ticable.</p>
+                <p id="b1127-5" pgmap="1127">The marshal was unable to find Smith, to make service upon him of notice of the ap­plication for an injunction, and the court being satisfied that he was endeavoring to avoid service of the notice, and that he was fully advised of the pendency of the petition, on the same day, under authority of the provisions of the 40th sec. of the bankrupt act, granted the injunction as prayed for, to continue until the further order of the court Smith remained in Portland until noon of Dec. 27th, and from his own testimony, I find that he believed no injunction had been obtained against him Dec. 25th, and he therefore avoided the marshal who endeav­ored to find him to make service of the order upon him, and it was not legally served by the marshal, by a copy of the order, until Dec. 31st, at Cherryfield, at which time and place he was in possession of the mortgaged property, having taken the same on his writ of replevin issued Dec. 28, 1809.</p>
+                <p id="b1127-6" pgmap="1127">The assignee, in March, obtained an order for the sale of the goods and demanded the same of Smith, who refused to surrender them unless his demand against Feeny was paid. The assignee then petitioned the court for an order on Smith for the delivery of them, and after notice to Smith of this peti­tion, on the 2Gth of April a warrant issued to the marshal to take possession of the prop­erty and deliver the same to the assignee, which warrant has been executed and the goods since sold at public auction. Ex­penses have been incurred by the assignee in thus obtaining possession of the goods from Smith, and in the defense of the action of replevin.</p>
+                <p id="b1127-7" pgmap="1127">The respondent was informed of the appli­cation for the injunction, and on the same day was satisfied and believed it had been ordered, and subsequently, he sued out his writ of replevin, took possession of the prop­erty, and retained the same from the assignee until the last of April, when it was surren­dered by him to the officer. His counsel apparently have supposed that there was no virtue or effect in an order for injunction until the same was legally served on the party by the marshal, and that-if he could, secrete himself and avoid service of the order until the replevin writ could be obtained, that he would be justified in so doing, al­though he knew or believed the injunction had been ordered. This is a very grave mistake; and the rights of the assignee to an indemnity for the damages occasioned by the breach of the injunction cannot be in any way affected by the fact that the respondent acted under the advice of counsel. Hawley v. Bennett, 4 Paige, 163.</p>
+                <p id="b1127-9" pgmap="1127">It was decided in the time of Ld. Hard­wicke (Skip v. Harwood, 3 Atk. 565), that when a person is present in court and has notice of the decree, if he does any act in contravention of the decree, he is guilty of a contempt, and is punishable for it, notwith­standing the order is not drawn up. In Osborne v. Tenant, 14 Ves. 136, the defend­ant and his attorney were present in court when the motion was made for the injunc­tion, but were absent when the order was granted. Ld. Eldon said, “I cannot attend to a distinction so thin as that persons stand­ing here until the moment the Ld. Chancellor is about to pronounce the order, which from all that passed they must know will be pro­nounced, can, by getting out of the hall at that instant, avoid all its consequences.” ' In Kimpton v. Eve, 2 Ves. &amp; B. 349, an order for injunction was granted, the defendant by his affidavit admitted his belief that the order had been made, alleging that he acted by the advice of his counsel, who conceived ■ that mere notice, without service of the injunction or order, had no effect Ld. El­don said, “In this case, the party admitting that he believed the order was made, the principle is the same, as if his belief was formed from information short of actual service.” The party was adjudged guilty of contempt, and required to pay the costs. The same principle was again re-affirmed by Ld. Eldon in Vansandau v. Rose, 2 Jac. &amp; W. 264, so that the rule in England now is, that a party is liable for breach of an in­junction after notice of its having been ob­tained, although the order has not been served upon him.</p>
+                <p id="b1127-10" pgmap="1127">This rule is equally well established in this country. It was adopted by the court in Hull v. Thomas, 3 Edw. Ch. 236; Waffle v. Vanderheyden, 8 Paige, 45; Haring v. Kauff­man, 2 Beas. [13 N. J. Eq.] 399. In this latter case it is stated: “All that is required to enable the court to enforce obedience to its process, is that the defendant should have knowledge of the order for the injunc­tion. The court may punish the violation of the order, though the injunction be not served, if it appear that the defendant knew of its existence.” Hil. Inj. 141-143; 1 Smith, Ch. Pr. 623.</p>
+                <p id="b1127-11" pgmap="1127(29) 1128(85)">This respondent is clearly guilty of con­tempt by instituting his replevin suit after he believed the injunction had been ordered, and in taking and retaining the possession of the property; by thus proceeding he has sub­jected the assignee to costs and expenses, to which he would not otherwise have been subject, and the assignee is entitled to an indemnity. If the parties cannot agree on the amount, it will be referred to the clerk to determine it. The only course at present is to adjudge the respondent in contempt, and leave -the amount of fine open until the actual loss and cost to the assignee by reason of the misconduct is ascertained.</p>
+                <p id="b1128-3" pgmap="1128">The claim for damages, by reason of the detention and loss of seasonable market of the goods, is not sustained by the evidence, and is not'allowed. The replevin suit having been discontinued, ,ae only indemnity which should be allowed on that account is the expense the assignee has incurred in defend­ing against it Decree accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1126" ORDERLABEL="1124" TYPE="page">
+        <fptr FILEID="tiff_00563_1"/>
+        <fptr FILEID="jp2_00563_1"/>
+        <fptr FILEID="alto_00563_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1126.5" BETYPE="IDREF" FILEID="alto_00563_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1127" ORDERLABEL="1125" TYPE="page">
+        <fptr FILEID="tiff_00564_0"/>
+        <fptr FILEID="jp2_00564_0"/>
+        <fptr FILEID="alto_00564_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1127.3" BETYPE="IDREF" FILEID="alto_00564_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1128" ORDERLABEL="1126" TYPE="page">
+        <fptr FILEID="tiff_00564_1"/>
+        <fptr FILEID="jp2_00564_1"/>
+        <fptr FILEID="alto_00564_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1128.12" BETYPE="IDREF" FILEID="alto_00564_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-20" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.28" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1127-11" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1127.12" BETYPE="IDREF" FILEID="alto_00564_0"/>
+            <area BEGIN="BL_1128.9" BETYPE="IDREF" FILEID="alto_00564_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-19" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.27" BETYPE="IDREF" FILEID="alto_00563_1"/>
+            <area BEGIN="BL_1127.1" BETYPE="IDREF" FILEID="alto_00564_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-18" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.24" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-17" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.23" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-16" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.22" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-10" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.14" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1127-5" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1127.6" BETYPE="IDREF" FILEID="alto_00564_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1127-6" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1127.7" BETYPE="IDREF" FILEID="alto_00564_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1127-7" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1127.8" BETYPE="IDREF" FILEID="alto_00564_0"/>
+            <area BEGIN="BL_1127.9" BETYPE="IDREF" FILEID="alto_00564_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVg5" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.25" BETYPE="IDREF" FILEID="alto_00563_1"/>
+            <area BEGIN="BL_1126.26" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Are" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.15" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1127-9" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1127.10" BETYPE="IDREF" FILEID="alto_00564_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1128-3" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1128.13" BETYPE="IDREF" FILEID="alto_00564_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1127-4" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1127.5" BETYPE="IDREF" FILEID="alto_00564_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-8" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.12" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1126-9" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.13" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXqT" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1126.16" BETYPE="IDREF" FILEID="alto_00563_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1127-10" BETYPE="IDREF" FILEID="casebody_0600"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1127.11" BETYPE="IDREF" FILEID="alto_00564_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

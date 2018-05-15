@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0056" publicationstatus="published">
+          <court abbreviation="C.C.N.D.N.Y." jurisdiction="United States">United States Circuit Court for the Northern District of New York</court>
+          <name abbreviation="In re Iron Mountain Co.">In re IRON MOUNTAIN CO.</name>
+          <docketnumber>Case No. 7,065</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 97</citation>
+          <citation category="parallel" type="bluebook">9 Blatchf. 320; 4 N. B. R. 645</citation>
+          <decisiondate>1872-01-16</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00050_0" MIMETYPE="image/tiff" CHECKSUM="1bc8272712188c4e3ac45d43bfd2dba8" CHECKSUMTYPE="MD5" SIZE="81182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00050_0.tif"/>
+      </file>
+      <file ID="tiff_00050_1" MIMETYPE="image/tiff" CHECKSUM="8bed195b82959c1e7c65afaafa14c39c" CHECKSUMTYPE="MD5" SIZE="39974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00050_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00050_0" MIMETYPE="image/jp2" CHECKSUM="235fc62cf220170068855d7a3706269b" CHECKSUMTYPE="MD5" SIZE="3084535">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00050_0.jp2"/>
+      </file>
+      <file ID="jp2_00050_1" MIMETYPE="image/jp2" CHECKSUM="2cd13c3c1b6fc9d39a640ca90f0bbbe3" CHECKSUMTYPE="MD5" SIZE="1895994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00050_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00050_0" MIMETYPE="text/xml" CHECKSUM="3518412457a2a2868104f01abbf1e8c1" CHECKSUMTYPE="MD5" SIZE="171636">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00050_0.xml"/>
+      </file>
+      <file ID="alto_00050_1" MIMETYPE="text/xml" CHECKSUM="66c4f52ed64f52a510ee8d85b10f12bd" CHECKSUMTYPE="MD5" SIZE="75695">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00050_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0056" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="98" firstpage="97">
+              <court pgmap="99" id="b99-9">Circuit Court, N. D. New York.</court>
+              <docketnumber pgmap="99" id="b99-6">Case No. 7,065.</docketnumber>
+              <citation pgmap="99" id="b99-8">[9 Blatchf. 320; <footnotemark>1</footnotemark> 4 N. B. R. 645.]</citation>
+              <parties pgmap="99" id="b99-7">In re IRON MOUNTAIN CO.</parties>
+              <decisiondate pgmap="99" id="Ah9">Jan. 16, 1872.</decisiondate>
+              <attorneys pgmap="99" id="b99-21">William C. Holbrook, for bankrupt.</attorneys>
+              <attorneys pgmap="99" id="b99-22">C. T. Ostrander and» S. M. Ostrander, for Smith.</attorneys>
+              <footnote label="1">
+                <p pgmap="99" id="b99-16">1 [Reported by Hon. Samuel Blnrchford. Dis­trict Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="99" id="b99-23">WOODRUFF, Circuit Judge.</author>
+                <p pgmap="99" id="Aap">The bank­rupt seeks, by petition of review, to reverse an order of the district court, which, by the dissolution of an injunction, permits the re­spondent, Samuel C. Smith, to continue a sujt brought in the state court for the fore­closure of a mortgage upon certain lands of the bankrupt, which suit was commenced aft­er the filing of the petition whereon the Iron Mountain Company [of Lake Champlain] was adjudged bankrupt, and after the appoint­ment of an assignee, and the conveyance to him of all the estate of the bankrupt [Case unreported.] It appeared, by uncontradicted evidence, that the mortgaged premises were worth less than one-half the amount of the mortgage, so that it was quite clear that the equity of redemption is of no value whatever. There was no proof that the mortgage is not in all respects valid, and it was given long before the bankruptcy of the company.</p>
+                <p pgmap="99" id="b99-24">There is no doubt whatever of the power of the district court, in bankruptcy, to take the administration of the entire estate, and as­certain and liquidate liens thereon, and to res­train the holder of a mortgage or other lien from proceeding in any suit to enforce such lien; and, where the value of the property ex­ceeds the amount secured by such mortgage or lien, it will, in general, be proper to do so, in order to preserve to the assignee his right, secured by the twentieth section of the bank­rupt law [of .1867 (14 Stat. 526)], to receive the excess in value, and release the right of redemption, or to sell the property subject to the mortgage, or to invoke the power of the court to first liquidate and settle the amount of the lien. So, it will be proper to restrain the proceeding in any other court, where the amount or the validity of the lien is in doubt. This may often be necessary to tlie full protection of the general creditors, who are entitled to such protection in the court in bankruptcy, where they are to look for the fund to be distributed to them. In all such eases, it would be the duty of the assignee to apply to the court in bankruptcy, to assist him in bringing all the assets into that court, to be applied and disposed of according to the rights and interests of all concerned, whether holders of liens or general creditors.</p>
+                <p pgmap="99(64) 100(148)" id="b99-25">But, where no advantage can result to the estate of the bankrupt. I see no reason why the court should interfere, when neither the assignee nor any creditor invokes such in­terference, and it appears, without contradic­tion, that the equity of redemption is of no. value. There is no excess of value to be paid to the assignee .on his releasing the right of redemption. There is nothing to he sold subject to the mortgage, which will yield anything; and any action of the district court, for the liquidation and settlement of the amount of the lien, and for the sale of the property to satisfy it. would be a mere expense to the estate, producing nothing. Un­der those circumstances, the court may. I think, properly exercise a discretion on the subject, and may decline interference. The case should be clear, and the proof that noth­ing can be saved to the estate should be sat­isfactory; and, if the court can see that any prejudice to the interests ot creditors may happen, it should not permit those interests to be put at hazard by a proceeding to which the general creditors are not parties, and in respect to which they have no protection but through the proceedings in bankruptcy.</p>
+                <p pgmap="100" id="b100-4">Upon the uncontradicted facts in this case, nothing can be gained, and expenses charge­able upon the estate would be incurred, by any interference in the matter. Whether the property, when sold in foreclosure, shall pro­duce one-half, or only one-fourth, of the amount of the mortgage, is not of tne least moment. The claimants of the lien, by elect­ing to pursue the mortgaged premises, will deprive themselves of any right to prove their debt in bankruptcy, for the deficiency, (section 20,) and, in that view, it may be greatly for the interest of the. general cred­itors to permit such election to be carried into effect, and thereby enhance the divi­dends to be made to them.</p>
+                <p pgmap="100" id="b100-5">The order of the district court was a proper one, and must be affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="99" ORDERLABEL="97" TYPE="page">
+        <fptr FILEID="tiff_00050_0"/>
+        <fptr FILEID="jp2_00050_0"/>
+        <fptr FILEID="alto_00050_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_99.5" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="100" ORDERLABEL="98" TYPE="page">
+        <fptr FILEID="tiff_00050_1"/>
+        <fptr FILEID="jp2_00050_1"/>
+        <fptr FILEID="alto_00050_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_100.6" BETYPE="IDREF" FILEID="alto_00050_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aap" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.28" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_99.29" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-4" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.7" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b100-5" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_100.8" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-8" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.11" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-9" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.12" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-6" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.9" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-7" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.10" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-25" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.31" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_100.3" BETYPE="IDREF" FILEID="alto_00050_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-24" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.30" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-23" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.27" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-22" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.26" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-21" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.25" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ah9" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.13" BETYPE="IDREF" FILEID="alto_00050_0"/>
+            <area BEGIN="BL_99.14" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b99-16" BETYPE="IDREF" FILEID="casebody_0056"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_99.21" BETYPE="IDREF" FILEID="alto_00050_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

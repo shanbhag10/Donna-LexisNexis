@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0178" publicationstatus="published">
+          <court abbreviation="C.C.D. Pa." jurisdiction="United States">United States Circuit Court for the District of Pennsylvania</court>
+          <name abbreviation="James v. Stookey">JAMES v. STOOKEY</name>
+          <docketnumber>Case No. 7,185</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 320</citation>
+          <citation category="parallel" type="bluebook">2 Wash. C. C. 139</citation>
+          <decisiondate>1808-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00161_1" MIMETYPE="image/tiff" CHECKSUM="0cfa7d15a2b2e1f49e3df16386fb42a9" CHECKSUMTYPE="MD5" SIZE="76518">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00161_1.tif"/>
+      </file>
+      <file ID="tiff_00162_0" MIMETYPE="image/tiff" CHECKSUM="120f87e2df65bf757e839d63567ed6b6" CHECKSUMTYPE="MD5" SIZE="72150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00162_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00161_1" MIMETYPE="image/jp2" CHECKSUM="83d47a0e1c11de437bde85b7642ab3ab" CHECKSUMTYPE="MD5" SIZE="2978581">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00161_1.jp2"/>
+      </file>
+      <file ID="jp2_00162_0" MIMETYPE="image/jp2" CHECKSUM="f422b042764ad5d0617dc563e15e91f6" CHECKSUMTYPE="MD5" SIZE="2867806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00162_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00161_1" MIMETYPE="text/xml" CHECKSUM="986f3631b21fab6127e3b9ef1957e88c" CHECKSUMTYPE="MD5" SIZE="156061">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00161_1.xml"/>
+      </file>
+      <file ID="alto_00162_0" MIMETYPE="text/xml" CHECKSUM="5802c2014be520b845bf202ca5291e94" CHECKSUMTYPE="MD5" SIZE="147420">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00162_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0178" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="321" firstpage="320">
+              <court pgmap="322" id="AWV">Circuit Court D. Pennsylvania.</court>
+              <docketnumber pgmap="322" id="b322-13">Case No. 7,185.</docketnumber>
+              <citation pgmap="322" id="AFsm">[2 Wash. C. C. 139.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="322" id="AQ8Q">JAMES v. STOOKEY.</parties>
+              <decisiondate pgmap="322" id="AKIs">April Term, 1808.</decisiondate>
+              <footnote label="1">
+                <p pgmap="322" id="b322-21">1 [Originally published from the MSS. of Hon. Bushrod Washington, Associate Justice of the Supreme Court of the United States, under the supervision of Richard Peters, Jr., Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="323" id="A7U">WASHINGTON, Circuit Justice,</author>
+                <p pgmap="323" id="A541">charged the jury that the recital, in the warrant of 1762, to Hockley, was, as between these par­ties, no evidence that a warrant had issued, and been surveyed in 1755; yet, taken in con-­nexion with the antiquity of the marks on the line and corner trees; and the call made by course and distance, of one of the lines of this tract, as Hockley’s land, in Croghan’s survey, made in 1755; the jury might con­sider the existence of Hockley’s warrant in 1755. as proved; particularly, as the burning of the surveyor general’s house accounts for the non-production of the papers, and for the issuing of the second warrant, on the 10th of July, 1762. Should this be the opinion of the jury, then they ought to find for the plaintiff; since the defendant does not set up a title which commences earlier than the 7th of July, 1762. Should the jury not feel themselves warranted in considering the plaintiff’s title to have commenced before the 10th of July, 1702, which is three days later than that set up by the defendant; they will then inquire whether the location of the tract under the warrant of the 7th of July, interferes or not with that of Hock-­ley’s warrant. To the court, it appears that the survey did not interfere; and if this should be the opinion of the jury, their ver­dict will, on this ground, be for the lessor of the plaintiff, for an undivided moiety of the land in the declaration mentioned.</p>
+                <p pgmap="323" id="b323-6">■Verdict for plaintiff for a moiety.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="322" ORDERLABEL="320" TYPE="page">
+        <fptr FILEID="tiff_00161_1"/>
+        <fptr FILEID="jp2_00161_1"/>
+        <fptr FILEID="alto_00161_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_322.5" BETYPE="IDREF" FILEID="alto_00161_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="323" ORDERLABEL="321" TYPE="page">
+        <fptr FILEID="tiff_00162_0"/>
+        <fptr FILEID="jp2_00162_0"/>
+        <fptr FILEID="alto_00162_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_323.4" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWV" BETYPE="IDREF" FILEID="casebody_0178"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.20" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A7U" BETYPE="IDREF" FILEID="casebody_0178"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.6" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFsm" BETYPE="IDREF" FILEID="casebody_0178"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.19" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-13" BETYPE="IDREF" FILEID="casebody_0178"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.17" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQ8Q" BETYPE="IDREF" FILEID="casebody_0178"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.18" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A541" BETYPE="IDREF" FILEID="casebody_0178"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.7" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            <area BEGIN="BL_323.8" BETYPE="IDREF" FILEID="alto_00162_0"/>
+            <area BEGIN="BL_323.9" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AKIs" BETYPE="IDREF" FILEID="casebody_0178"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.21" BETYPE="IDREF" FILEID="alto_00161_1"/>
+            <area BEGIN="BL_322.22" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b323-6" BETYPE="IDREF" FILEID="casebody_0178"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_323.11" BETYPE="IDREF" FILEID="alto_00162_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b322-21" BETYPE="IDREF" FILEID="casebody_0178"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_322.27" BETYPE="IDREF" FILEID="alto_00161_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

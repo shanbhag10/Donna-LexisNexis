@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0522" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Jordan v. Sawyer">JORDAN v. SAWYER</name>
+          <docketnumber>Case No. 7,521</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1101</citation>
+          <citation category="parallel" type="bluebook">2 Cranch, C. C. 373</citation>
+          <decisiondate>1823-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00552_0" MIMETYPE="image/tiff" CHECKSUM="09d5b0c9b7ea83261275f166e52858fb" CHECKSUMTYPE="MD5" SIZE="74558">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00552_0.tif"/>
+      </file>
+      <file ID="tiff_00552_1" MIMETYPE="image/tiff" CHECKSUM="cf64733b03a7c613438aca889f4c4f6d" CHECKSUMTYPE="MD5" SIZE="90222">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00552_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00552_0" MIMETYPE="image/jp2" CHECKSUM="ae47543c2cf75dcd0a62b985c62fc47d" CHECKSUMTYPE="MD5" SIZE="3046632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00552_0.jp2"/>
+      </file>
+      <file ID="jp2_00552_1" MIMETYPE="image/jp2" CHECKSUM="a372dd5ee852beade8ef175933dfc0b9" CHECKSUMTYPE="MD5" SIZE="3322710">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00552_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00552_0" MIMETYPE="text/xml" CHECKSUM="4618de982df9b4c3652f788bd72d9e2b" CHECKSUMTYPE="MD5" SIZE="164991">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00552_0.xml"/>
+      </file>
+      <file ID="alto_00552_1" MIMETYPE="text/xml" CHECKSUM="d40187ec28bb7f1ebf7dae1c18bab31e" CHECKSUMTYPE="MD5" SIZE="197102">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00552_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0522" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1102" firstpage="1101">
+              <court pgmap="1103" id="b1103-6">Circuit Court, District of Columbia.</court>
+              <docketnumber pgmap="1103" id="b1103-3">Case No. 7,521.</docketnumber>
+              <citation pgmap="1103" id="b1103-5">[2 Cranch, C. C. 373.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1103" id="b1103-4">JORDAN v. SAWYER.</parties>
+              <decisiondate pgmap="1103" id="AGgb">April Term, 1823.</decisiondate>
+              <judges pgmap="1103" id="A6Np">(THRUSTON, Circuit Judge, absent)</judges>
+              <attorneys pgmap="1103" id="b1103-17">Mr. Hay, for defendant,</attorneys>
+              <attorneys pgmap="1103" id="b1103-18">Cox &amp; Key, for plaintiff,</attorneys>
+              <footnote label="1">
+                <p pgmap="1103" id="b1103-22">1 [Reported by Hon. William Craneh, Chief J udge.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1103" id="b1103-19">THE COURT</author>
+                <p pgmap="1103" id="AAd">said that when a demurrer to evi­dence is joined, the court is to draw all the inferences of fact which a jury could reason­ably draw; and that a party cannot be com­pelled to join in the demurrer, unless the par­ty demurring will admit all the facts which .the jury could reasonably infer from the evi­dence.</p>
+                <p pgmap="1103" id="b1103-20">THE COURT was of opinion that the jury, from the evidence, might infer that the peti­tioner was imported “for sale,” and refused to compel him to join in the demurrer unless the defendant would admit that fact.</p>
+                <p pgmap="1103" id="b1103-21">Mr. Hay. for defendant, took a bill of ex­ceptions to the court’s refusal to compel the petitioner to join in demurrer. Mr. - Hay, then contended that this county was not a part of the state of Maryland in 1796, when the act was passed, so that it was never in force here, and therefore could not con­tinue in force here under the act of con^ gress of the 27th of February, 1S01 (1 Stat. 103). This part of the District was ceded by Maryland to the United States, on the 19th of December, 1791, and ceased to be a part of that state.</p>
+                <p pgmap="1103" id="b1103-25">THE COURT (THRUSTON, Circuit Judge, absent) stopped Mr. Hay, and told him that the question had been long settled, both by this court and the courts of Maryland, that the jurisdiction of Maryland continued until congress provided by law for the government of the District, which did not take place till the 27th of February. 1801, and that the Maryland act of 1790 (chapter 67), was adopt­ed with the other laws of Maryland, by the act of congress of 27th February, 1801 (1 Stat. 103). That this court would not now undertake to overrule all the decisions which have been had upon those points, and declin­ed hearing any further argument thereon.</p>
+                <p pgmap="1103" id="b1103-26">Mr. Key, for petitioner, then moved the court to instruct the jury, that if they be­lieve from the evidence, that Valentine Pey-­ton brought the petitioner from Wheeling, in Virginia, into this county, in the beginning of the last winter, and that in March last, some time after such importation, the said Peyton determined and intended to sell the petitioner in this county, and did actually sell him therein to the defendant, then the petitioner is entitled to recover, unless the de­fendant can prove that the said Peyton came into this county with a bona fide intention of settling therein, and had resided there three year; before such sale, or that he came with­in tae provisions' contained in the 2d,-4th, 7th, 8th, 9th, or 11th sections of the act of 1796.</p>
+                <p pgmap="1103" id="b1103-27">But THE COURT refused to give the in­struction, being of opinion that in order to give a right of freedom to a slave on the ground of importation, he must have been brought in “for sale or to reside.”</p>
+                <p pgmap="1103" id="b1103-28">Mr. Key, for petitioner, then prayed the court to instruct the jury that if they should be satisfied by the evidence, that Peyton brought the petitioner here from Virginia in March last, and sold him here, he is entitled to freedom.</p>
+                <p pgmap="1103" id="b1103-29">Mr. Key cited the case of Dunbar v. Ball [Case No. 4,128], in this court, at October term, 1821, in which he contended this point was directly decided by the court. He cited also the case of Lanna v. Pumphry [unre­ported], decided at the last term in this court (C-RANCH, Chief Judge, absent).</p>
+                <p pgmap="1103" id="b1103-30">Mr. Hay submitted the question without ar­gument.</p>
+                <p pgmap="1103(39) 1104(253)" id="b1103-31">THE COURT (THRUSTON. Circuit Judge, absent) said that the Maryland act was very obscure. The first is the only section which gives freedom to the slave, and it gives it only when the slave is imported “for. sale or to reside within the state.” The 2d section provides, that citizens of the United States, who may come into the state with a bona fide intention of settling therein, may, at the time of their removal, or within one year thereafter, bring in the slaves owned by them at the time of their removal. But the 3d sec­tion provides, that nothing therein contained .shall be construed to enable them to sell such slaves, unless they shall have resided in the state three whole years next preceding such sale. The 4th section provides that nothing in the act shall be construed to affect the right of persons travelling or sojourning with .any slave; such slave not being sold, or oth­erwise disposed of, in the state, but carried, by the owner, out of the state, or attempted to be carried. The 4th section does not give .any penalty for selling; and such sale is not within the first section, unless the traveller brought the slave “for sale or to reside.” Yet it seems to be the intention of the legis­lature to prohibit such sale. If such was their intent, we must construe the 4th sec­tion to mean that such a sale must be consid­ered as conclusive evidence that the slave was imported for sale; and such we are in­clined to think must be the construction, if, to bring a person under the penalty of the 1st .section, it be necessary that the importer .should bring him in “for sale.”</p>
+                <p pgmap="1104" id="b1104-3">. The jury found a special verdict, stating -the following facts: — That the petitioner, ■early in January, 1823, was brought into this county, .from Wheeling, in Virginia, by Val­entine Peyton, who never has been a resident of this county or district, and who sold the petitioner to the defendant in this county some time in ■ March, :1823. ■ That it was .agreed between the seller and the purchaser, (the defendant,) that the petitioner should be .sent by the defendant, forthwith, to Norfolk in Virginia, which was done; and that when he was put on board the steamboat for Nor­folk, the purchase-money was paid by the de­fendant. That the petitioner returned in the steamboat, and filed his petition. That Pey-­ton was not a person coming into this county to reside therein; but as a sojourner or trav-­eller, and that he did not carry the petitioner with him when he went away, without sell­ing him, or attempting to carry him away without selling him. And that there is no ■evidence from which the jury can find that the said Peyton brought the petitioner into this county under any of the circumstances set forth in the provisos contained in the 7th, ;Sth, 9th, 10th, and 11th sections of the act of ■1796 (chapter 67).</p>
+                <p pgmap="1104" id="b1104-4">THU COURT (MORSELL, Circuit Judge, contra) was of opinion, that upon this special verdict,, the law was for the defendant, be­cause the jury had not found that the peti­tioner was brought in “for sale or to reside.”</p>
+                <p pgmap="1104" id="b1104-5">But at the request of Mr. Key, in the ab­sence of Mr. Hay, THE COURT suspended the judgment until the next term, when the case was settled by the parties.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1103" ORDERLABEL="1101" TYPE="page">
+        <fptr FILEID="tiff_00552_0"/>
+        <fptr FILEID="jp2_00552_0"/>
+        <fptr FILEID="alto_00552_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1103.3" BETYPE="IDREF" FILEID="alto_00552_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1104" ORDERLABEL="1102" TYPE="page">
+        <fptr FILEID="tiff_00552_1"/>
+        <fptr FILEID="jp2_00552_1"/>
+        <fptr FILEID="alto_00552_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1104.11" BETYPE="IDREF" FILEID="alto_00552_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-20" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.32" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGgb" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.9" BETYPE="IDREF" FILEID="alto_00552_0"/>
+            <area BEGIN="BL_1103.10" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-25" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.37" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-26" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.38" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-21" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.33" BETYPE="IDREF" FILEID="alto_00552_0"/>
+            <area BEGIN="BL_1103.34" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-28" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.40" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-29" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.41" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-27" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.39" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-22" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.35" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-31" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.43" BETYPE="IDREF" FILEID="alto_00552_0"/>
+            <area BEGIN="BL_1104.5" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1104-4" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1104.8" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAd" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.30" BETYPE="IDREF" FILEID="alto_00552_0"/>
+            <area BEGIN="BL_1103.31" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1104-3" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1104.7" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-19" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.27" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-18" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.24" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-5" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.7" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-4" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.6" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-3" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.5" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1104-5" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1104.9" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6Np" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.28" BETYPE="IDREF" FILEID="alto_00552_0"/>
+            <area BEGIN="BL_1103.29" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-30" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.42" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-6" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.8" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-17" BETYPE="IDREF" FILEID="casebody_0522"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.21" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

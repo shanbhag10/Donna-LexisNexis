@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0354" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Empress">The EMPRESS</name>
+          <docketnumber>Case No. 4,476</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 691</citation>
+          <decisiondate>1862-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00347_0" MIMETYPE="image/tiff" CHECKSUM="b2628cde1165bdf6d52bccea5775da1a" CHECKSUMTYPE="MD5" SIZE="82156">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00347_0.tif"/>
+      </file>
+      <file ID="tiff_00347_1" MIMETYPE="image/tiff" CHECKSUM="2258cbe17451832267fddd186dbb34c6" CHECKSUMTYPE="MD5" SIZE="94992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00347_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00347_0" MIMETYPE="image/jp2" CHECKSUM="2f43b9a5dc83ccf7033729386589aa1c" CHECKSUMTYPE="MD5" SIZE="3182325">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00347_0.jp2"/>
+      </file>
+      <file ID="jp2_00347_1" MIMETYPE="image/jp2" CHECKSUM="44212c720a51f4394ac5bffc7c2f09f8" CHECKSUMTYPE="MD5" SIZE="3425170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00347_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00347_0" MIMETYPE="text/xml" CHECKSUM="c4230380b2f5acacd7aeaaae9e926961" CHECKSUMTYPE="MD5" SIZE="180693">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00347_0.xml"/>
+      </file>
+      <file ID="alto_00347_1" MIMETYPE="text/xml" CHECKSUM="ea2bb6890e42156d0dcfc245d842181a" CHECKSUMTYPE="MD5" SIZE="202475">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00347_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0354" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="692" firstpage="691">
+              <court id="b693-15" pgmap="693">District Court, S. D. New York.</court>
+              <docketnumber id="b693-12" pgmap="693">Case No. 4,476.</docketnumber>
+              <parties id="b693-13" pgmap="693">The EMPRESS.</parties>
+              <decisiondate id="ANx" pgmap="693">April, 1862.</decisiondate>
+              <p id="b693-14" pgmap="693">[Blatchf. Pr. Cas. 146.]<footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p id="b693-28" pgmap="693">1 [Reported by Samuel Blatchford, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b693-27" pgmap="693">BETTS, District Judge.</author>
+                <p id="A0i" pgmap="693(73) 694(45)">A libel was filed in this suit, January 22, 1862, alleging that the vessel and cargo were captured, as law­ful prize, in the Gulf of Mexico, off the mouth of the Mississippi, by the United States sloop-of-war Vincennes, November 21, 1861, Captain Marcy, of the navy, command­ing; that the prize had been brought into this port, and is now within the jurisdic­tion of the court; that, by reason of the premises, all such property has become lia­ble to condemnation and forfeiture, as law­ful prize to the libellants; and that, there­fore, process of the court is prayed against the captured property, and a condemnation thereof, as prize, by the decree of the court</p>
+                <p id="b694-3" pgmap="694">This is a regular and adequate method of pleading on the part of the libellants, and legally exacts all the answer which can be propounded to the charge that the property captured is lawful prize. Mariatt, Formula, 150, 211; The Fortuna, 1 Dod. 81; 2 Wheat Append. [15 U. S.] 19. The true form of libel- ought to be a mere general allegation of prize, and such as is used in undoubted cases of hostile property. “Prize,” by Judge Story, 10 Am. &amp; Eng. Enc. Law, p. 304, § 15; The Adeline, 9 Cranch [13 U. S.] 244, 284, 285; Hal. Int. Law, c. 31, §§ 20, 22,- 24.</p>
+                <p id="b694-4" pgmap="694">By the general practice in prize proceed­ings, a party entitled to claim the property captured may file his claim, accompanied by an-affidavit stating briefly the facts respect­ing it, and averring tile verity of the claim. A valid interest must subsist in the claimant. A mere stranger will not be permitted to in­terpose a claim, to speculate upon the chan­ces of an acquittal. Nor, as a general fact, are parties permitted to examine the ship's papers or the preparatory proofs, in order to shape their claims, for that might lead to great abuses. But the court, on special ap­plication and sufficient evidence, will allow so many of the papers to be inspected as may be necessary to ascertain the particu­lars which should be embraced in the claim intended to be filed. This, however, would not import that the defence was, in form, to be shaped in reference to particulars. Its only effect would be to enable a claimant, before interposing a suit, to become inform­ed whether his interests would be embraced within the scope of the libel and his claim. The general doctrine with respect to the structure of the claim is readily gathered from the general principles which govern the line of defence allowed to claimants, and which are very clearly indicated by Judge Story in his treatise on Prize Proceedings. 10 Am. &amp; Eng. Enc. Law, art “Prize,” and especially article 15. See, also, 1 Wheat. Append. [14 U. S.] 500, 501; 2 Wheat [15 U. S.] Append. 20, 21; The Aina, 1 Spinks, Pr. Cas. 11; The Abo, Id. 47. It is plain that the court, in adopting the prize rules regulating the practice of the court (rule 24, May term, 1801), understood that while the defence to be exhibited on the claim filed was simply a contestation of the allegations contained in the libel (district court rule in admiralty, 189), and merely authorized the party to appear in court, and make opposi­tion to a decree, on the allegations and proofs, on the first hearing, that hearing is' limited to the inquiry, whether, upon the proofs drawn from the ship’s company and her papers, with concomitant facts of which the court must take judicial cognizance equally with the principles and the rules of law, the captured .property is prize of war or not. The Amiable Isabella, 6 Wheat [19 U. S.] 1.</p>
+                <p id="b694-7" pgmap="694">I think that all other matters than the test oaths subjoined to the claims filed by Pearson, Hopkins, and Jackson are sur-­plusage and irregular in practice. They are inadmissible as evidence on the trial, and cannot be made the foundation for further proof by either party in the present stage of the suit; nor without a special order of the court to that end could they be so used in any future form of proceeding between the parties.</p>
+                <p id="b694-8" pgmap="694">The claim interposed by Moore and De Castro is unexceptionably brief in its form, but it is nugatory and irrelevant because it presents no issues for trial before the court, and on file before the claim was interposed, even were it competent for the parties to raise, on a first hearing in a prize court, a triable issue of facts to be supported by proof outside of those in preparatorio, or found on the vessel. It is also vitally de­fective and irregular, because the right of the parties to intervene is not supported by test oaths, nor arc the allegations set forth in that pleading either demurrers or pleas in bar to the action. The libellants might have excepted to these modes of pleading, but they are also entitled to a remedy more summarily, by motion, because of the palpa­ble inaptitude and irregularity of these modes of proceedings in a prize suit</p>
+                <p id="b694-9" pgmap="694">The motion on the part of the libellants is accordingly granted. The parties are now entitled only to file claims verified by test oaths, establishing the interests they set up to the property captured. Order accord­ingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="693" ORDERLABEL="691" TYPE="page">
+        <fptr FILEID="tiff_00347_0"/>
+        <fptr FILEID="jp2_00347_0"/>
+        <fptr FILEID="alto_00347_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_693.8" BETYPE="IDREF" FILEID="alto_00347_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="694" ORDERLABEL="692" TYPE="page">
+        <fptr FILEID="tiff_00347_1"/>
+        <fptr FILEID="jp2_00347_1"/>
+        <fptr FILEID="alto_00347_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_694.5" BETYPE="IDREF" FILEID="alto_00347_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b693-14" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_693.16" BETYPE="IDREF" FILEID="alto_00347_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANx" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_693.18" BETYPE="IDREF" FILEID="alto_00347_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b693-12" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_693.14" BETYPE="IDREF" FILEID="alto_00347_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b693-13" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_693.15" BETYPE="IDREF" FILEID="alto_00347_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b694-3" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_694.6" BETYPE="IDREF" FILEID="alto_00347_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b694-7" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_694.9" BETYPE="IDREF" FILEID="alto_00347_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b694-4" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_694.7" BETYPE="IDREF" FILEID="alto_00347_1"/>
+            <area BEGIN="BL_694.8" BETYPE="IDREF" FILEID="alto_00347_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b694-9" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_694.11" BETYPE="IDREF" FILEID="alto_00347_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b693-28" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_693.33" BETYPE="IDREF" FILEID="alto_00347_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b693-27" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_693.30" BETYPE="IDREF" FILEID="alto_00347_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b693-15" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_693.17" BETYPE="IDREF" FILEID="alto_00347_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0i" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_693.31" BETYPE="IDREF" FILEID="alto_00347_0"/>
+            <area BEGIN="BL_693.32" BETYPE="IDREF" FILEID="alto_00347_0"/>
+            <area BEGIN="BL_694.2" BETYPE="IDREF" FILEID="alto_00347_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b694-8" BETYPE="IDREF" FILEID="casebody_0354"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_694.10" BETYPE="IDREF" FILEID="alto_00347_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

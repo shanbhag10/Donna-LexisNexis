@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0022" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Infanta">The INFANTA</name>
+          <docketnumber>Case No. 7,031</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 39</citation>
+          <decisiondate>1848-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:25Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00021_0" MIMETYPE="image/tiff" CHECKSUM="b50446b4b928e998c9cfd2f162f32b93" CHECKSUMTYPE="MD5" SIZE="70052">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00021_0.tif"/>
+      </file>
+      <file ID="tiff_00021_1" MIMETYPE="image/tiff" CHECKSUM="d5589c9745deba64f25698f197a546fb" CHECKSUMTYPE="MD5" SIZE="87370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00021_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00021_0" MIMETYPE="image/jp2" CHECKSUM="3c7718b7730a7b19c0f1ac6f1bd32048" CHECKSUMTYPE="MD5" SIZE="2844551">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00021_0.jp2"/>
+      </file>
+      <file ID="jp2_00021_1" MIMETYPE="image/jp2" CHECKSUM="7b9e5800ebfb3b6089882f6c291cc467" CHECKSUMTYPE="MD5" SIZE="3172228">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00021_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00021_0" MIMETYPE="text/xml" CHECKSUM="7346ab5ad4590e76f8896225314e72b4" CHECKSUMTYPE="MD5" SIZE="139506">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00021_0.xml"/>
+      </file>
+      <file ID="alto_00021_1" MIMETYPE="text/xml" CHECKSUM="a128680da1c28739fd3f7ab20024f9d3" CHECKSUMTYPE="MD5" SIZE="179648">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00021_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0022" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="40" firstpage="39">
+              <court pgmap="41" id="b41-14">District Court, S. D. New York.</court>
+              <docketnumber pgmap="41" id="b41-11">Case No. 7,031.</docketnumber>
+              <parties pgmap="41" id="b41-12">The INFANTA.</parties>
+              <decisiondate pgmap="41" id="AHq">July, 1848.</decisiondate>
+              <attorneys pgmap="41" id="b41-21">J. Larocque, for the motion.</attorneys>
+              <attorneys pgmap="41" id="b41-22">Wm. Wordsworth, opposed.</attorneys>
+              <p pgmap="41" id="b41-13">[Abb. Adm. 327.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="41" id="AHs">1 [Reported by Abbott Brothers.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="41" id="b41-23">BETTS. District Judge.</author>
+                <p pgmap="41(119) 42(170)" id="A9l">In suits in the admiralty courts, each party is required to give security apud acta, in open court, or by bail or stipulation out of court, on initiating an action or defence. Dist. Ct. Rule 44; Sup. Ot. Rule 0. This proceeding was at­tended with much formality under the an­cient practice, and became a branch of crit­ical learning, and of no inconsiderable per­plexity. The topic is ably investigated by Judge Ware, in Lane v. Townsend [Case No. 8,054], and the methods pursued are pointed out in Clarke, Praxis, Adm. tit. 4-12; 2 Browne, Civ. &amp; Adm. Law, 356. The sub­ject is now one rather of curious inquiry than of practical importance in this court, because It Is here fully regulated by tbe standing rules of this and the supreme court, at least in so far as the points arising under these motions are concerned. To ef­fectuate the appeal so as to suspend execu­tion on the decree in this court, it was nec­essary for the libellants to give security by stipulation within ten days after the decree was rendered (Dist. Ct. Rule 153), and also to serve upon the claimant four days’ notice of the names of the sureties proposed, and of the time and place of giving the stipulation. Rule 154. The libellants, if resident within the district, must execute the stipula­tion personally, with at least one surety resident therein. Non-resident parties must supply at least two sureties. Rule 59. This seems to be the usual course of practice in the American courts of admiralty, and the formal steps for carrying out the regula­tions are indicated in the elementary books. Dunl. Adm. Prac. 155, 156; Betts, Adm. 25, 26.</p>
+                <p pgmap="42" id="b42-4">The allegations set forth in the papers, up­on which this motion is founded and attest­ed to on the part of the claimants, are con­tradicted and repelled by the greater weight of evidence given in behalf of the libellants, except that both libellants are not proved to have been residents of this district at the time the stipulations were executed. They were transient seamen, employed backwards and forwards in voyages between New York, the West Indies, and Portland in Maine.</p>
+                <p pgmap="42" id="b42-5">The sole defect or irregularity established by the proofs, then, is that two sureties were not furnished in the stipulations ob­jected to. All the proceedings excepted to by the claimant took place with his full knowledge in May last, but he has forborne applying for relief against the alleged irreg­ularities until the present term of July.</p>
+                <p pgmap="42" id="b42-6">It is the settled practice of this, and it is believed of all other courts, that irregulari­ties of proceeding, known to the party con­cerned, must be objected to at the first legal opportunity in court, after the time of its occurrence. If the fraction of the May term remaining after the steps had been taken by the stipulators to justify their suf­ficiency might be disregarded by the claim­ant, yet he was bound to make his objec­tions to the stipulations at the June term, or he will be held to have waived all excep­tions to matters of irregularity.</p>
+                <p pgmap="42" id="b42-7">One surety is sufficient in the stipulations, where the principal is a resident within the district, and it is not indispensable to the validity of a stipulation in any case, that it be executed by two sureties. It is a privi­lege of the party, which he may enforce or not, at his option. Dist. Ct. Rule 59. It would be grossly inequitable to suffer the claimant to stand by and witness the signa­ture of the stipulations by one surety only, without objecting to it. and subsequently permit him to vacate the act for irregular­ity. The signatures of two sureties are not vital to the stipulation. It is a formality only, which the opposite party may waive, and which, under the facts, the court will deem him to have done in this instance. This would be done on general principles; but there are additional reasons why the most liberal intendments and presumptions should be applied in favor of seamen, to up­hold their acts, and prevent sharp practice to their disadvantage, in litigations for the recovery of their wages. The claimants may have now selected a time to exact their present execution of the stipulations, when they are absent on foreign voyages, and their present inability to fulfill that formal­ity might bar their seeking relief by appeal from the decisions made in this court against their demands; and the addition of their names to the stipulations may usually be regarded as the emptiest formality, for it is not to be supposed that the personal responsibility of men of their class can sup­ply any aid to the obligations, or any pecun­iary advantage to the claimant. Independ­ent of the laches of the claimant, in delay­ing his application to the court for a period of six weeks after notice of this informality, if it be one, I hold that the claimant must be deemed to have intentionally waived the execution of the stipulations by the libel-­lants. The motions are accordingly both de­nied. Order accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="41" ORDERLABEL="39" TYPE="page">
+        <fptr FILEID="tiff_00021_0"/>
+        <fptr FILEID="jp2_00021_0"/>
+        <fptr FILEID="alto_00021_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_41.4" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="42" ORDERLABEL="40" TYPE="page">
+        <fptr FILEID="tiff_00021_1"/>
+        <fptr FILEID="jp2_00021_1"/>
+        <fptr FILEID="alto_00021_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_42.4" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-22" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.23" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-23" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.24" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-21" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.22" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-6" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.7" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-7" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.8" BETYPE="IDREF" FILEID="alto_00021_1"/>
+            <area BEGIN="BL_42.9" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-4" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.5" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b42-5" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_42.6" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-13" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.13" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-12" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.12" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-11" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.11" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b41-14" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.14" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHs" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.27" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHq" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.15" BETYPE="IDREF" FILEID="alto_00021_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9l" BETYPE="IDREF" FILEID="casebody_0022"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_41.25" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            <area BEGIN="BL_41.26" BETYPE="IDREF" FILEID="alto_00021_0"/>
+            <area BEGIN="BL_42.1" BETYPE="IDREF" FILEID="alto_00021_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,492 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0260" publicationstatus="published">
+          <court abbreviation="C.C.D. Ky." jurisdiction="United States">United States Circuit Court for the District of Kentucky</court>
+          <name abbreviation="Ellicott v. Pearl">ELLICOTT et al. v. PEARL</name>
+          <docketnumber>Case No. 4,386</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 532</citation>
+          <citation category="parallel" type="bluebook">1 McLean, 206</citation>
+          <decisiondate>1834-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00267_1" MIMETYPE="image/tiff" CHECKSUM="172f2f77c95b0071758086a3af7f8a83" CHECKSUMTYPE="MD5" SIZE="59242">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00267_1.tif"/>
+      </file>
+      <file ID="tiff_00268_0" MIMETYPE="image/tiff" CHECKSUM="cd36605376efe1863818aa49913527de" CHECKSUMTYPE="MD5" SIZE="115562">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00268_0.tif"/>
+      </file>
+      <file ID="tiff_00268_1" MIMETYPE="image/tiff" CHECKSUM="616d3a135f0ae5a6a648e3de9f0fa317" CHECKSUMTYPE="MD5" SIZE="115138">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00268_1.tif"/>
+      </file>
+      <file ID="tiff_00269_0" MIMETYPE="image/tiff" CHECKSUM="f97f972d30fc417ba3b51dca38e2105a" CHECKSUMTYPE="MD5" SIZE="115302">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00269_0.tif"/>
+      </file>
+      <file ID="tiff_00269_1" MIMETYPE="image/tiff" CHECKSUM="0865e269a7b5373dc1fbe47f4f001c02" CHECKSUMTYPE="MD5" SIZE="66892">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00269_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00267_1" MIMETYPE="image/jp2" CHECKSUM="c1dbca741577ad4a13ced0f94d8fd039" CHECKSUMTYPE="MD5" SIZE="2667507">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00267_1.jp2"/>
+      </file>
+      <file ID="jp2_00268_0" MIMETYPE="image/jp2" CHECKSUM="b075ec4ef54000b46208aae36487d0a6" CHECKSUMTYPE="MD5" SIZE="3876467">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00268_0.jp2"/>
+      </file>
+      <file ID="jp2_00268_1" MIMETYPE="image/jp2" CHECKSUM="78384b51cb142c8ea9ad9a5878eccfb6" CHECKSUMTYPE="MD5" SIZE="3822254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00268_1.jp2"/>
+      </file>
+      <file ID="jp2_00269_0" MIMETYPE="image/jp2" CHECKSUM="8c613d72b60b77f89c70571e6edac1c4" CHECKSUMTYPE="MD5" SIZE="3858911">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00269_0.jp2"/>
+      </file>
+      <file ID="jp2_00269_1" MIMETYPE="image/jp2" CHECKSUM="2fbf25a4a4992c4b79e31b00c9c8b725" CHECKSUMTYPE="MD5" SIZE="2875310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00269_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00267_1" MIMETYPE="text/xml" CHECKSUM="d2b0ea0419a2a898969bfc9188bf6203" CHECKSUMTYPE="MD5" SIZE="119138">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00267_1.xml"/>
+      </file>
+      <file ID="alto_00268_0" MIMETYPE="text/xml" CHECKSUM="b717e411577231ff0f22d9c87616089a" CHECKSUMTYPE="MD5" SIZE="241719">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00268_0.xml"/>
+      </file>
+      <file ID="alto_00268_1" MIMETYPE="text/xml" CHECKSUM="053e07a367d26bf9e03027a286868c00" CHECKSUMTYPE="MD5" SIZE="239986">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00268_1.xml"/>
+      </file>
+      <file ID="alto_00269_0" MIMETYPE="text/xml" CHECKSUM="f8cbf9e4552322f420f114bd3e901c0c" CHECKSUMTYPE="MD5" SIZE="239064">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00269_0.xml"/>
+      </file>
+      <file ID="alto_00269_1" MIMETYPE="text/xml" CHECKSUM="db6fcdda8f58a522faea1c5072bb015a" CHECKSUMTYPE="MD5" SIZE="133340">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00269_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0260" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="536" firstpage="532">
+              <court id="b534-15" pgmap="534">Circuit Court, D. Kentucky.</court>
+              <docketnumber id="b534-12" pgmap="534">Case No. 4,386.</docketnumber>
+              <citation id="b534-14" pgmap="534">[1 McLean, 206.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b534-13" pgmap="534">ELLICOTT et al. v. PEARL.</parties>
+              <decisiondate id="Avi" pgmap="534">May Term, 1834.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys id="b534-33" pgmap="534">Mr. Wickliffe, for demandants.</attorneys>
+              <attorneys id="b534-34" pgmap="534">Mr. Ously, for defendant</attorneys>
+              <footnote label="1">
+                <p id="b534-23" pgmap="534">1 [Reported by Hon. John McLean, Circuit Justice.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="b534-24" pgmap="534">2 [Affirmed in 10 Pet. (35 U. S.) 412. See note at end of case.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p id="b534-35" pgmap="534">OPINION OP THE COURT. This Is a writ of right brought to recover three thou­sand acres of land. The issue being joined, the plaintiff introduced a patent to James Kincaid for two thousand acres, and for one thousand acres, and deeds through various persons to the demandants. The survey of the two thousand acres is on the east fork of Rockcastle, in Lincoln county. The survey of the one thousand acres is on the waters of Rockcastle in the same county. The de-­mandants’ counsel also read certain surveys made by one McNeal, one of which was made out in this case, and the other in the action of ejectment lately pending in this, court; between the same parties. A great number of depositions were read, and other evidence to prove the locality, surveys, &amp;c., of the demandants’ claim. The tenants claim under a patent from the state of Virginia to Jacob Remy of twenty thousand acres of land, dated the 15th of July, 1789, and lying on the waters of Rockcastle. Thirteen thou­sand four hundred acres of the same tract were conveyed by Remy on the 20th Novem­ber, 1799, to William Edwards. And the 20th December following, Edwards conveyed sev­en thousand acres of the same tract, by metes and bounds to Pearl, under whom all the other tenants claim. This conveyance covers the land in controversy, and also in­cludes the land covered by Kincaid’s patent.</p>
+                <p id="b534-36" pgmap="534(67) 535(263)">The evidence conduces to prove that in 1800 Pearl entered into the possession claim­ing the land conveyed to him, and he and others claiming under him, have held pos­session ever since. There is evidence con­ducing to prove that McCammon either in the year 1800 or 1801, entered on the land under a purchase from Pearl, and that aft-­erwards McCammon exchanged his first pur­chase with Pearl for some other part of the same tract, and Pearl took possession of McCammon’s first improvement. Witnesses have been examined to show that Remy’s patent under which Pearl claims, should be located on Pond creek, and which would pre­vent any interference with Kincaid’s patent. And the demandants offer to prove that one of the chain carriers, by the name of Moore, in making Remy’s survey, was dead: and that he attended with the witness offered, about twenty-four or five years ago when a surveyor Charles Smith, Davis Caldwell and -Moore, when said Moore, in the hear­ing of Camp Mullen, the witness, stated that he was one of the original chainmen; that they started at the mouth of Pond creek, and run south until the surveyor told them the distance called for in Remy’s patent was out; and they then turned out to hunt for the corner; that he found a white oak standing near to where the course and distance ended plainly and anciently marked as a corner tree. That he recollected it was marked on the north and west sides, but could not say whether it was marked on the south side or not; that the white oak was of a common cabin log and that near to the tree lay the trunk of a white oak not quite so large, &amp;e.; that they then run north, and on the course of Remy’s patent saw line trees plainly marked, &amp;e. This evidence is objected to and the question as to its competency is now to be considered.</p>
+                <p id="b535-3" pgmap="535">The statement of Moore as detailed by the witness is mere hearsay. It was made a long time after the survey of Remy was executed, and relates to mere facts, such as that the beginning corner of Remy’s survey was at a particular place, and that certain trees were marked,' &amp;c. This then is an attempt not to prove what exists in public reputation, but a fact known, perhaps, only to Moore, and his mere statement, not under oath, not made at the time the transaction occurred, but a long time afterwards, is to establish the fact. Now if this were a case in which hearsay would be admissible, still the testimony offered would be incompetent. In the case of Mima v. Hepburn, 7 Cranch [11 U. S.] 290, the supreme court say, “hear­say evidence is not competent to establish any specific fact, which is, in its nature, susceptible of being proved by witnesses who speak from their own knowledge.” This rale is founded in reason and propriety. Whatever is known to the public, as a mat­ter of reputation, must be known to many persons besides the individual called to prove it; and consequently other witnesses may be called to contradict or explain his testi­mony. But if what a deceased person has said in regard to a particular fact, not under oath, shall be received as evidence, how is the party against whom the fact is to op­erate, to rebut it. If the deceased person were alive and should state the fact, under examination as a witness, he would make the statement under .the solemnity of an oath, and would be responsible to the law, if he swore falsely; but his statements not under oath are made without responsibility of any kind, and they may have been drawn out by the person most interested in them. What security would, there be against fraud and corruption, in procuring such evidence?</p>
+                <p id="b535-6" pgmap="535">In cases of pedigree the remarks of persons intimately connected in the family, such as father, mother, brother, &amp;c. are admissible to show the relationship of an individual. But this rule is established from the neces­sity of the case, and embraces only state­ments made prior to the controversy pend­ing. It is true, hearsay is made up of re­marks or statements of individuals, but when circulated abroad, and discussed as such matters usually are, in the community, if the facts stated be unfounded, the error will be likely to be exposed and corrected. There is therefore this security as to public reputation when it is received as evidence. In matters of public right this evidence is necessarily admitted. In England, where a vast number of rights are founded on pre­scription, this is the only evidence by which they can be sustained. The same may be said of particular customs, which in fact, depend upon prescription. In cases of pedi­gree above remarked, and also in the estab­.lishment of boundaries of counties, &amp;e. in which the public are interested, where the matters proved extend beyond the memory of living witnesses, they must of course, if proved by parol, be proved by general repu­tation. But this is wholly different from, the establishment of a private right, by hear­say proof of a particular fact In this coun­try reputation as to boundaries has been ad­mitted, though such boundaries relate merely to private controversies. And this is un­doubtedly an extension of the English rule. But, it is not believed that any court in this country has permitted a specific fact to be proved as hearsay, under the rule as ex­tended. In no sense could such proof be called reputation, for the proof would not be what was known to the public, but what was said by an individual, and of which the public had no knowledge. A principle that would admit such evidence would break down the well established rule on the sub­ject, and place the most important rights at the disposal of the vicious and unprincipled part of the community. There are cases in which the remarks of a surveyor, being em­ployed to make a survey, made while thus engaged, as explanatory of what he is doing, may be proved as evidence. But these are received as a part of the res gestae, which tend to explain the survey. Barclay v. Howell’s Lessee, 6 Pet. [31 U. S.] 504. We are clearly of opinion that the evidence offered is incompetent, and it cannot, therefore, be admitted.</p>
+                <p id="b535-7" pgmap="535(13) 536(260)">The deposition of .Tames Kincaid, having been read by the demandants, which proved various facts, the defendant called Mershon, Smith, and others, to discredit Kincaid, and who state, there being no objection, that he declared Perry’s survey was made by him at the mouth of Raccoon creek, when it was his interest to place it at Pond creek, &amp;e. which is in contradiction to the facts stated in his deposition. And the demandants, with a view to sustain Kincaid, offered to prove his statements at other times, made subsequently to the statements proved by the defendant, and which would go to support the statements in his deposition; and the question is as to the competency of this proof. There are cases in which the statements of a witness may be proved to sustain his evi­dence; but this is never admitted except under peculiar circumstances: as where vio­lence has been committed on a female, and she discloses the facts immediately after-­wards. And in some cases the rule has been extended beyond this; but these eases are believed not to be sustained on principie or authority. The tenant has proved that the witness made statements which contradict his deposition, and it is proposed to show that subsequently he made other statements different from those proved by the defend­ant, and corroborative of those in his depo­sition. These statements are not evidence, except to discredit the witness. At best they are mere hearsay, and of course they-­are inadmissible. They are not offered or used by the defendant as evidence on the merits of the case, but merely to discredit the witness.</p>
+                <p id="b536-3" pgmap="536">Now suppose the demandants could prove that subsequently the witness made differ­ent statements, would not this tend to show that no reliance could be placed in his state­ments? And how are such subsequent state­ments to weigh as evidence, or support the facts sworn to? Must his contradictory re­marks on the subject be proved for years? and must we then strike the balance to as­certain the truth? This mode of arriving at the truth would be as novel as it would be dangerous. It would enable a party to manufacture evidence at pleasure, and to do away the effect of the truth confessed by a repetition of falsehoods. Where a wit­ness is impeached by jjroving that he made statements contradictory of what he has sworn to, no witness can be called to prove other statements made by him, which go to support his evidence, except in the case named, or others which come within the rule applicable to that case. This is the rule observed in the Berkeley Peerage Case [4 Camp. 401], and is believed to be sus­tained by authority. 1 Phil. Ev. 307; 1 Starkie, Ev. 187.</p>
+                <p id="b536-4" pgmap="536">The defendant has given in evidence the original survey of Remy’s entry, as made by Kincaid, showing the lines, corners, &amp;e. and to counteract this evidence the demandants offered in evidence a survey made by Mc-­Neal. in a case between the same parties, and of the making of which the defendant had due notice. On this plat the surveyor has noted that the “chops” are ancient, “John Forbes, Jun, states that he cut the same letters and figures,” “on the east side, the chops appear to have been marked with a larger axe, than the chops on the begin­ning tree.” To the introduction of this plat as evidence, the defendant objects on account of these remarks of the surveyor, and for other reasons. McNeal has been examined by the demandants as a witness in this case, and if this plat, with its notes be offered to sup­port his evidence, it is clearly inadmissible under the rule, that the statements of a witness cannot be received to support his evidence. And if the object be to contra­dict and discredit the witness, it cannot be done by the demandants, he being their own witness, but they may prove that he was mistaken. The most decisive objection, however, to the plat as offered is, that the notes by the survejor are not of facts, which he was required or authorized to as certain in the discharge of his duty. So far as he noted the corner trees, the streams of water crossed, the courses and distances run, they are matters which he must know in making the survey, and which are evi­dence in proper cases. But whether the chops are ancient or modern, or whether they appear to have been made by a large axe or a small one, or what John Forbes, jun. may have said, is a matter of which the surveyor can know no more than any other witness; and consequently what he has stated on the plat respecting these things, is mere hearsay and not evidence. As the survey was made in another suit between the same parties, and on due notice, no objection is perceived to receiving the plat as evidence, so far as the objects noted come strictly within the duty of the surveyor. The plat shows a survey of the land in con­troversy, and may cast some light on some of the controverted points in the case. We will, therefore, admit it as evidence, after erasing the above objectionable notes by the surveyor.</p>
+                <p id="b536-7" pgmap="536(150) 537(199)">The evidence being closed, the demandants moved the court to instruct the jury, that if they believe from the evidence that the survey of Jacob Remy, and the adjoining survey of George Thompson, were, in point of fact, made at the mouth of Pond creek, by beginning at or near 'the letter L, on the plat, that the law locates the patent on the ground where it was actually surveyed, not­withstanding the call or reference in said patents, or of either of them, to the mouth of Raccoon creek; and if they find that the patent of Remy, as surveyed, does not in­terfere with the claim of the plaintiffs, that they ought to find for the plaintiffs, unless they find that the defendants have had possession by an actual residence or fence, within the patent of plaintiffs thirty years or more next before the bringing of this and the other suits. This instruction pre-sup-­poses that there can be no possession of land, which shall enable a party to claim the benefit of the statute of limitations, except by actual residence or by a fence. It is ad­mitted that the occasional occupancy of land for a temporary purpose, such as making sugar, may not amount to an adverse pos­session, within the statute, but it is clear that building an enclosure or fence, or actu­ally residing on the land is not the only mode of possession which will enable the tenant to claim under the statute. A piece of ground may be so situated as to be cultivable without a fence or artificial en­closure. There are many improvements which give notice to the public of occupancy and ownership, as fully as a fence. The construction of a dwelling or other house connected with other improvements, may show as clearly an appropriation of the land as to enclose it by a fence. We therefore decline giving the instruction as asked; but will give it on striking out the word “fence,” and inserting in lieu thereof the words, “im­provements with intention of taking pos­session.”</p>
+                <p id="b537-3" pgmap="537">The demandants then moved the court to instruct the jury, that the settlement of Wil­liam Pearl at or near the figure 11, as desig­nated on the plat in 1800, outside of the patents under which the demandants claim, does not give any defence or limitation to the demandants’ rights to recover, though he settled within what he supposed to be Remy’s claim; unless they find that Remy’s survey as actually made, and on which his patent issued, includes said settlement and the patent under which demandants claim. No objection is perceived to this instruction. A settlement outside of Remy’s survey and patent, though believed at the time it was made to be within it, cannot limit the de-­mandants’ right beyond the actual occupan­cy. For in such case, there in nothing to show the extent of the adverse claim beyond the actual possession. Where an individual enters under a title, there being no adverse possession, he is in possession to the extent of his boundaries.</p>
+                <p id="b537-4" pgmap="537">The demandants further requested the court to instruct the jury “that unless they find Remy’s survey covers the patents un­der which the plaintiffs claim, that the set­tlement of McCammon within the two thou­sand acres, does not give a claim to a posses­sion within the one thousand acre patent, nor does the possession within the one thou­sand acre patent give any possession within the two thousand acres.” “That as to the two thousand acres, the statute runs as to that from the time a possession was taken by an actual residence, or by fencing, and the same as to the one thousand; consequent­ly, that if they find that one has been thus possessed adversely for thirty years next before the bringing of this suit, and the other not; that as to the other not so held, they should find against such defendants as were within such patent at the date of the de-­mandants’ writ, provided their settlements are not included in Remy or Thompson’s, as originally surveyed.” This instruction is re­fused. There in no evidence to show the ex­tent of McCammon’s claim. Pearl had a conveyance for seven thousand acres, which covered the two thousand acre tract, and also the one thousand. His entry then under the rule above stated, there being no adverse possession, would be to the extent of his boundaries. And McCammon entered under Pearl, though the extent of his claim is not shown. If he purchased a part of the origin­al tract, his entry would be limited by such purchase. But, if he entered under Pearl, without designation of limits, he would be in possession of the extent of Pearl’s claim. These principles are well settled in this state, and it is believed that they give the correct rule on this subject</p>
+                <p id="b537-7" pgmap="537">Without then, some evidence of the limit of MeCammon’s claim, how can the court instruct the jury that his entry was limited by any thing short of the original boundaries of the seven thousand acres under which Pearl seems to have entered? If the facts existed in the case as assumed in the instruc­tion, and the entry was limited to the tract specified, it might be given; but to give it in the face of other and contradictory facts, could only tend to embarrass and mislead the jury. The whole instruction is framed in reference to the limits of the demandants’ claim, and not in reference to the title under which the entry was made. And the court instructed the jury on the motion of the de-­mandants, “that if they find from the evi­dence that James Kincaid, the surveyor of Remy and Thompson did in point of fact make these surveys or cause them to be made, and the patents issued thereon, be­ginning at or near the mouth of Pond creek, as designated on the connected plat, and that after he returned the certificate of sur­vey and patents issued thereon, marked or caused to be marked surveys with lines or corners to correspond with the calls of the patents at Raccoon creek, that such marking or surveying is utterly void and vests no title whate\er in Remy, or his alienee; notwith­standing such surveys or marking may in­clude the land in contest.” And also, “that if they find Kincaid’s beginning corner as represented on the plat, that then, as to this controversy, his surveys are properly laid down.”</p>
+                <p id="b537-8" pgmap="537(77) 538(191)">The defendant then moved the court to instruct the jury “that if they find, from the evidence that Remy’s patent does ngt cover the land in contest, yet if they find that the tenants or any of them, or those claiming under them, or any of them, have had possession of the land in contest for thirty years next before the commencement of the demandants’ suits they must find for the tenants.” The general language of this instruction was used, under an agreement- to embrace other suits pending, between the demandants and other tenants, involving the same title which should be determined by the decision in this case. The instruction might have been more definite as to the ex­tent of possession by reference to the title under which the possession was held; but as this may be considered as included in the word possession, if it extend beyond the actual occupancy, agreeably to the rule laid down in this case, the instruction as asked is given. And the court instructed the jury also, “that to enable the demandants to re­cover, they must have proved to the satis­faction of the jury, that they, or those under whom they claim, have had seisin of the land in contest within thirty years next be­fore the commencement of their suits.” And also, “that if they find from the evidence that Remy’s patent includes the land in contest, they must find for the tenants.” The jury found that the tenants have better right than the demandants, to the land in con­troversy; on which verdict judgment is en­tered.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="534" ORDERLABEL="532" TYPE="page">
+        <fptr FILEID="tiff_00267_1"/>
+        <fptr FILEID="jp2_00267_1"/>
+        <fptr FILEID="alto_00267_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_534.3" BETYPE="IDREF" FILEID="alto_00267_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="535" ORDERLABEL="533" TYPE="page">
+        <fptr FILEID="tiff_00268_0"/>
+        <fptr FILEID="jp2_00268_0"/>
+        <fptr FILEID="alto_00268_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_535.3" BETYPE="IDREF" FILEID="alto_00268_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="536" ORDERLABEL="534" TYPE="page">
+        <fptr FILEID="tiff_00268_1"/>
+        <fptr FILEID="jp2_00268_1"/>
+        <fptr FILEID="alto_00268_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_536.4" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="537" ORDERLABEL="535" TYPE="page">
+        <fptr FILEID="tiff_00269_0"/>
+        <fptr FILEID="jp2_00269_0"/>
+        <fptr FILEID="alto_00269_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_537.3" BETYPE="IDREF" FILEID="alto_00269_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="538" ORDERLABEL="536" TYPE="page">
+        <fptr FILEID="tiff_00269_1"/>
+        <fptr FILEID="jp2_00269_1"/>
+        <fptr FILEID="alto_00269_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_538.5" BETYPE="IDREF" FILEID="alto_00269_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-3" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.5" BETYPE="IDREF" FILEID="alto_00268_0"/>
+            <area BEGIN="BL_535.6" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-7" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.8" BETYPE="IDREF" FILEID="alto_00268_0"/>
+            <area BEGIN="BL_536.1" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b535-6" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_535.7" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-7" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.8" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-3" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.5" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-4" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.6" BETYPE="IDREF" FILEID="alto_00269_0"/>
+            <area BEGIN="BL_537.7" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-3" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.5" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-7" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.8" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            <area BEGIN="BL_537.1" BETYPE="IDREF" FILEID="alto_00269_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b536-4" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_536.6" BETYPE="IDREF" FILEID="alto_00268_1"/>
+            <area BEGIN="BL_536.7" BETYPE="IDREF" FILEID="alto_00268_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avi" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.24" BETYPE="IDREF" FILEID="alto_00267_1"/>
+            <area BEGIN="BL_534.25" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-14" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.22" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b537-8" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_537.9" BETYPE="IDREF" FILEID="alto_00269_0"/>
+            <area BEGIN="BL_538.2" BETYPE="IDREF" FILEID="alto_00269_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-34" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.41" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-35" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.42" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-36" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.43" BETYPE="IDREF" FILEID="alto_00267_1"/>
+            <area BEGIN="BL_535.1" BETYPE="IDREF" FILEID="alto_00268_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-15" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.23" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-33" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.40" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-12" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.20" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-13" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.21" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-23" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.31" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b534-24" BETYPE="IDREF" FILEID="casebody_0260"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_534.32" BETYPE="IDREF" FILEID="alto_00267_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0269" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="Elliott v. The Leah H. Miller">ELLIOTT v. The LEAH H. MILLER</name>
+          <docketnumber>Case No. 4,393a</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 542</citation>
+          <citation category="parallel" type="bluebook">3 Betts, D. C. MS. 74</citation>
+          <decisiondate>1843-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00272_1" MIMETYPE="image/tiff" CHECKSUM="09500d9628ca1646b046b0faa21e1fd3" CHECKSUMTYPE="MD5" SIZE="104952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00272_1.tif"/>
+      </file>
+      <file ID="tiff_00273_0" MIMETYPE="image/tiff" CHECKSUM="10c55e165dfbed40d6599cc9df418f80" CHECKSUMTYPE="MD5" SIZE="93548">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00273_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00272_1" MIMETYPE="image/jp2" CHECKSUM="a44d19fe0a7dc58d30b9eff58e432493" CHECKSUMTYPE="MD5" SIZE="3624587">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00272_1.jp2"/>
+      </file>
+      <file ID="jp2_00273_0" MIMETYPE="image/jp2" CHECKSUM="73c3103ea3dee75ae5f5e6eea057f9a5" CHECKSUMTYPE="MD5" SIZE="3460730">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00273_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00272_1" MIMETYPE="text/xml" CHECKSUM="9677d13f517e4279965c3b9f5a2bbc41" CHECKSUMTYPE="MD5" SIZE="224108">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00272_1.xml"/>
+      </file>
+      <file ID="alto_00273_0" MIMETYPE="text/xml" CHECKSUM="073a555488b661fe4eadcc6d9b43d8c5" CHECKSUMTYPE="MD5" SIZE="204543">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00273_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0269" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="543" firstpage="542">
+              <court id="b544-10" pgmap="544">District Court, S. D. New York.</court>
+              <docketnumber id="b544-7" pgmap="544">Case No. 4,393a.</docketnumber>
+              <citation id="b544-9" pgmap="544">[3 Betts, D. C. MS. 74.]</citation>
+              <parties id="b544-8" pgmap="544">ELLIOTT v. The LEAH H. MILLER.</parties>
+              <decisiondate id="A-Gr" pgmap="544">June, 1843.</decisiondate>
+              <judges id="b544-14" pgmap="544">Before BETTS, District Judge.</judges>
+              <opinion type="majority">
+                <author id="b544-15" pgmap="544">PER CURIAM.</author>
+                <p id="Aqie" pgmap="544(95) 545(229)">On the 28th of March last the court decreed on the pleadings and proofs that the libellant should recover $120 for his services on board the vessel, but no costs were allowed him. The counsel for the li-­bellant at the first opportunity thereafter, and during the term, moved a reargument of the case on the point of costs. The coun­sel for the claimants contended that the court had no power to grant a review of the for­mer decisions, unless for error manifest up­on the face of the decree, or because of newly discovered evidence. Both counsel al­so discussed the subject of costs on the mer­its of the case. The application now before the court does not involve in any way the question whether a case can be opened and heard de novo after a final decision render­ed, and at a term subsequent to the term in which the decision is given. The whole matter was still within the control of the eourt when this motion was made, and it is in consonance with the practice of all courts to hear re-arguments upon new or difficult questions at the instance of parties, or for the court itself to direct them ad libitum un­til the matter passes into final judgment It is less usual to allow the privilege of a further argument after the opinion of the ■court has been pronounced, and for obvious ■reasons, for if the court had felt serious •doubts it would have called for further dis­cussion and the disadvantage of contending against the nature and declared opinion of the court on a point examined, is so palpa­ble as that counsel will rarely be induced to solicit the undertaking. Still there is noth­ing in principle preventing a reconsideration ■of the subject by the court, and a modifica­tion or change of its opinion, during the term in which the proceedings are had.</p>
+                <p id="b545-3" pgmap="545">The rehearing allowed in this case is not •granted because of errors manifest on the face of the decree, nor on account of newly discovered evidence, but to examine under further lights a particular feature in the controversy, and accordingly the whole case Is re-opened in so far as any particular in it can be made to bear upon the question of. costs. Though costs do not appertain to de­cree in admiralty courts as necessary inci­dents ([Canter v. American &amp; Ocean Ins. Co.] 3 Pet [28 U. S.] 319), yet the usage of those courts unquestionably is, to award costs to the successful party pretty much as a matter of course (Betts, Pr. 123), particu­larly when the recovery is of a debt or pe­cuniary demand (1 Hopk. 344). The decision in his favor is accepted as satisfactory evi­dence that inequitable impediments were placed in the way of his recovering his rights, or demands of an inequitable charac­ter were pursued against him, and that ac­cordingly he is entitled to be in part remu­nerated therefor by the recovery of costs. This is more especially .so in respect to de­cisions on the merits where full contestation ■of suit has been had between the parties. But common law courts equally with chan­cery and civil law tribunals, exercise a broad discretion in allowing or denying costs, when the shape of the proceedings brings the court necessarily to weigh all the equities affect­ing the subject, and the party who substan­tially prevails will thus often be refused costs. 2 Wend. 631; 5 Wend. 78. And equi­ty or admiralty tribunals, ■ proceeding ex aequo et bono, regard costs as a substantial •part of the equity of the case, and grant and •withhold them without any necessary de­pendence upon the decision of the main sub­ject of contestation. [Canter v. American &amp; Ocean Ins. Co.] 3 Pet. [28 U. S.] 319; The Ulpiano [Case No. 14,326]; 1 Johns. Ch. 77; Id. 166; 12 Johns. 500; [Riddle v. Mandeville] 6 Cranch [10 U. S.] 86; 3 Johns. Ch. 69; Id. 147.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="544" ORDERLABEL="542" TYPE="page">
+        <fptr FILEID="tiff_00272_1"/>
+        <fptr FILEID="jp2_00272_1"/>
+        <fptr FILEID="alto_00272_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_544.4" BETYPE="IDREF" FILEID="alto_00272_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="545" ORDERLABEL="543" TYPE="page">
+        <fptr FILEID="tiff_00273_0"/>
+        <fptr FILEID="jp2_00273_0"/>
+        <fptr FILEID="alto_00273_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_545.3" BETYPE="IDREF" FILEID="alto_00273_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b544-10" BETYPE="IDREF" FILEID="casebody_0269"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_544.12" BETYPE="IDREF" FILEID="alto_00272_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b544-15" BETYPE="IDREF" FILEID="casebody_0269"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_544.18" BETYPE="IDREF" FILEID="alto_00272_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b544-14" BETYPE="IDREF" FILEID="casebody_0269"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_544.17" BETYPE="IDREF" FILEID="alto_00272_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-Gr" BETYPE="IDREF" FILEID="casebody_0269"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_544.13" BETYPE="IDREF" FILEID="alto_00272_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqie" BETYPE="IDREF" FILEID="casebody_0269"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_544.19" BETYPE="IDREF" FILEID="alto_00272_1"/>
+            <area BEGIN="BL_544.20" BETYPE="IDREF" FILEID="alto_00272_1"/>
+            <area BEGIN="BL_545.1" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b545-3" BETYPE="IDREF" FILEID="casebody_0269"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_545.5" BETYPE="IDREF" FILEID="alto_00273_0"/>
+            <area BEGIN="BL_545.6" BETYPE="IDREF" FILEID="alto_00273_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b544-9" BETYPE="IDREF" FILEID="casebody_0269"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_544.11" BETYPE="IDREF" FILEID="alto_00272_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b544-8" BETYPE="IDREF" FILEID="casebody_0269"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_544.10" BETYPE="IDREF" FILEID="alto_00272_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b544-7" BETYPE="IDREF" FILEID="casebody_0269"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_544.9" BETYPE="IDREF" FILEID="alto_00272_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

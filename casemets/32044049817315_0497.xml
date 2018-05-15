@@ -1,0 +1,419 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0497" publicationstatus="published">
+          <court abbreviation="D. Me." jurisdiction="United States">United States District Court for the District of Maine</court>
+          <name abbreviation="Jones v. Sleeper">JONES v. SLEEPER</name>
+          <docketnumber>Case No. 7,496</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1030</citation>
+          <citation category="parallel" type="bluebook">2 N. Y. Leg. Obs. 131</citation>
+          <decisiondate>1843</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00516_1" MIMETYPE="image/tiff" CHECKSUM="618a43392e2259cb8bce9c282d08edae" CHECKSUMTYPE="MD5" SIZE="55230">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00516_1.tif"/>
+      </file>
+      <file ID="tiff_00517_0" MIMETYPE="image/tiff" CHECKSUM="de827ce37fe2489a7e1d9d8970c8129d" CHECKSUMTYPE="MD5" SIZE="112806">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00517_0.tif"/>
+      </file>
+      <file ID="tiff_00517_1" MIMETYPE="image/tiff" CHECKSUM="7baba1eaf7701ea8277ed3c3e451903b" CHECKSUMTYPE="MD5" SIZE="116758">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00517_1.tif"/>
+      </file>
+      <file ID="tiff_00518_0" MIMETYPE="image/tiff" CHECKSUM="ee3fa69a7e90dff28b933f2d4ea43456" CHECKSUMTYPE="MD5" SIZE="105958">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00518_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00516_1" MIMETYPE="image/jp2" CHECKSUM="f643c943ae0d1a35c559e8feb7a354af" CHECKSUMTYPE="MD5" SIZE="2395158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00516_1.jp2"/>
+      </file>
+      <file ID="jp2_00517_0" MIMETYPE="image/jp2" CHECKSUM="22678741badfbd2905152962be60b5ae" CHECKSUMTYPE="MD5" SIZE="3841613">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00517_0.jp2"/>
+      </file>
+      <file ID="jp2_00517_1" MIMETYPE="image/jp2" CHECKSUM="6beb4f1b38dbe58f1b084b9a6c2da72f" CHECKSUMTYPE="MD5" SIZE="3850936">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00517_1.jp2"/>
+      </file>
+      <file ID="jp2_00518_0" MIMETYPE="image/jp2" CHECKSUM="b02a3f84acbda203b2defd2fd1bc659c" CHECKSUMTYPE="MD5" SIZE="3702276">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00518_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00516_1" MIMETYPE="text/xml" CHECKSUM="4959c41d653e87648a4817df442f54e0" CHECKSUMTYPE="MD5" SIZE="107941">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00516_1.xml"/>
+      </file>
+      <file ID="alto_00517_0" MIMETYPE="text/xml" CHECKSUM="7d459a1b0df3e2fc22b8eb959be83029" CHECKSUMTYPE="MD5" SIZE="257534">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00517_0.xml"/>
+      </file>
+      <file ID="alto_00517_1" MIMETYPE="text/xml" CHECKSUM="992421d26cc74bc6167e19946d72a7a7" CHECKSUMTYPE="MD5" SIZE="249053">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00517_1.xml"/>
+      </file>
+      <file ID="alto_00518_0" MIMETYPE="text/xml" CHECKSUM="99d0d7736dd540075309196baa93ca77" CHECKSUMTYPE="MD5" SIZE="237757">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00518_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0497" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1033" firstpage="1030">
+              <court pgmap="1032" id="b1032-13">District Court, D. Maine.</court>
+              <docketnumber pgmap="1032" id="b1032-10">Case No. 7,496.</docketnumber>
+              <citation pgmap="1032" id="b1032-12">[2 N. Y. Leg. Obs. 131.]</citation>
+              <parties pgmap="1032" id="b1032-11">JONES v. SLEEPER.</parties>
+              <decisiondate pgmap="1032" id="A4M">1843.</decisiondate>
+              <attorneys pgmap="1033" id="b1033-2">S. Fessenden and Mr. Willis, for petitioner.</attorneys>
+              <attorneys pgmap="1033" id="b1033-3">Mr. Preble, for respondent.</attorneys>
+              <opinion type="majority">
+                <author pgmap="1033" id="b1033-4">WARE, District Judge.</author>
+                <p pgmap="1033" id="AmJj">The first act re­lied upon as an act of bankruptcy is the con­veyance in mortgage made Oct. 7, 1841, to Ralph C. Johnson. This was a conveyance of all his stock of goods in the store he then occupied and in the cellar under it, to secure a debt of $5,288. This mortgage, it is con­tended, was made in contemplation of bank­ruptcy, and for the purpose of giving John­son a preference over the other creditors. The second section of the act [of 1841 (5 Stat. 442)] declares that all future payments, se­curities and conveyances thus made shall be deemed void, and a fraud upon the act, and they are without doubt acts of bank­ruptcy rendering the debtor liable to be pro­ceeded against' by his creditors under the act. It has been decided by an authority binding on this court that “future” in this section of the act refers to the time of the passage of the act, and not to the time when it was to go into operation generally. In re re Chadwick [Case No. 2,569]. The mortgage then falls within the terms of the act in point of time.</p>
+                <p pgmap="1033" id="b1033-5">It has long been settled upon the construc­tion of the English statutes of bankruptcy, that if a person engaged in trade makes a conveyance of all his property, it is in itself an act of bankruptcy, as being a fraud up­on the law, although it is for the benefit of all his creditors without preferences. It is an attempt to defeat the operation of the, law to a certain extent, by appointing his own administrator, instead of leaving the admin­istration to the .law. Nor will a colorable exception of a small part of his property from the conveyance exclude the application of the principle. Eden, Bankr. Law, pp. 28, 29; Kettle v. Hammond, Cooke, Bankr. Law, c. 4, § 1; Eckehardt v. Wilson, 8 Term R. 140; Ex parte Bourne, 16 Ves. 148; Dutton v. Morrison, 17 Ves. 199. But where the conveyance is of but part of the debtor’s property, to render it void as a fraud upon the law, it must be made in contemplation of bankruptcy, and with the intention to give a preference. The legal effects of the act de­pend on the quo animo; and this is a fact which must be shown by direct proof, or made out as a presumption from the circum­stances of the case. The real state of the debtor’s mind, his hopes or expectations, are known only to himself, or so far as he may choose to disclose them to others. If his ob­ject is to take the benefit of the' act, and to give a preference, he will not be likely to avow it, as that would be a certain mode of defeating his object. The intention must therefore ordinarily, as in other cases where it is unlawful, be inferred from the circum­stances under which the act is done. When a debtor is deeply insolvent, and meaning to wind up his business, and bring it to a close at once, makes a conveyance, to secure a favorite creditor of a part of his property, his intention to give such creditor a prefer­ence will be inferred. It will be taken as a presumption of law that he intends what is the necessary and unavoidable effect of his own act</p>
+                <p pgmap="1033(503) 1034(196)" id="b1033-8">In this case, as there is no direct evidence bearing on this fact, the quo animo, from which the legal fraud arises, it must be in­ferred as a presumption of law from the oth­er facts in the case. What, then, are the facts from which it may be fairly and justly inferred that the mortgage of the 7th of Oc­tober, 1841, was made in contemplation of bankruptcy, and with the intention of giving to Johnson, a preference over the other cred­itors. It is in evidence that Johnson and Sleeper, in September, 1836, entered into a copartnership for carrying on the business of a retail store in Belfast. By the articles of copartnership, it was agreed that Johnson should furnish a capital of $5,000, without interest, and that Sleeper should be the ac­tive man in carrying on the business, his services to be considered as equivalent to the interest of the capital furnished by Johnson, the other expenses to be a common charge and the profits to be divided equally. The copartnership was continued till Sept, 1840j when it was dissolved by mutual consent. Sleeper took the stock and continued the business and gave Johnson his note for $5,-­000, for his interest in the property, and mortgaged the whole stock as collateral se­curity for the purchase money. This was therefore in fact a sale by Johnson of the stock and a mortgage of the same back. The note remaining unpaid on the 7th of October, 1840, a new mortgage was made of the stock at that time in the store, to secure the same debt, and also another note of $288.34. This last mortgage was regularly recorded, pur­suant to the laws of the state, in the records of the town clerk of the town of Belfast, on the 14th of the same month. This is the conveyance which is insisted upon as an act of bankruptcy. Now what are the facts in proof, from which the court can infer that this conveyance was made in contemplation of bankruptcy, and for the purpose of giving to Johnson a preference over the other cred­itors. It was in substance but a continua­tion of the prior mortgage of 1840. The stock in the store when that was given hav­ing been sold by the mortgagee, a new mort­gage was taken on the new stock, and there. was in fact a clause in the mortgage of 1840 that new stock, which should be added as the old was disposed of, should be held and covered by the mortgage to the amount of what was then in the store. Now admit­ting that the mortgage was in law inopera­tive on goods subsequently purchased, it is still true that the conveyance of 1841, was merely carrying out the intention of the par­ties in the first mortgage. Then it was not a conveyance of the whole nor of the major part of the property of the debtor. The tes­timony of the witnesses proves that he, at that time, was the owner of a small vessel, the Three Sisters, of about 80 tons burthen; that he had merchandise, as molasses and other wet goods, to the amount of $5,000, in another store in Belfast,, lumber on the wharf of the value of $1,600, and goods which he had purchased in Boston to the amount of between three and four thousand dollars, which were then on their way to Belfast, and were received on the 16th of the month. Here was then personal property openly and visibly in the possession of Sleeper, free from any incumbrance, to the amount of more than $10,000. He continued his busi­ness as before, and during the winter and spring, shipped two or three cargoes of lum­ber to the West Indies and brought back re­turn cargoes; shipped one cargo of potatoes to Baltimore and purchased .a return cargo of flour and corn, and continued to carry on his business, selling his stock, purchasing new goods, and paying his creditors, until the August following, when his business was brought to a close by suits and attachments of his property.</p>
+                <p pgmap="1034" id="b1034-4">On these facts it appears to me to be ex­tremely difficult for the court to say that the' mortgage of 1841 was made in contemplation of bankruptcy. Precisely the opposite seems to me to be not only the fair but the neces­sary inference. This doctrine of contempla­tion in cases of bankruptcy, it has been said ought not to be pressed too far, as there is nothing either in the common or statute law to show what it is. Fidgeon v. Sharpe, 5 Taunt. 539; McMenomy v. Roosevelt, 3 Johns. Ch. 458. It is a fact to be proved, and though it may be inferred as a presump­tion from other facts, yet it ought to be made out not merely as a balance or prepon­derance of probability, but by such circum­stances, reasonings and considerations, as leave the mind satisfied that the fact is so.</p>
+                <p pgmap="1034" id="b1034-5">Now what evidence is there on record, not only to overcome the natural and reasonable presumption arising out of the facts here stated, but to bring the mind in opposition to them, to a satisfactory conclusion, that the debtor at that time actually contemplated bankruptcy. I admit that if Sleeper had then been deeply insolvent and had so considered himself, that it would be quite natural that he should wish to favour a creditor with whom he had been connected in business and to whom he was under personal obliga­tions. But, allow the statement of his in­solvency in all the strength in which it is made, that he in fact owed three or four thousand dollars more than the whole amount of his free and unincumbered property, and if it be further conceded, which is not in proof, that he was fully aware of the condi­tion of his affairs, and it will by no means follow that he contemplated bankruptcy. He might have thought that a year of prosper­ous business would relieve him from his embarrassments. In the ease of Arnold v. Maynard [Case No. 561], Judge Story says: “I agree that the mere fact of a man’s be­ing insolvent and knowing the fact does not necessarily establish that he means to stop business and break up his establishment; for he may hope and believe that he can still carry it on, and perhaps redeem himself from insolvency. But when he is deeply in debt, and intending to .fail and break up his whole business at once, and makes a con­veyance to a particular creditor, to give him a preference over all the rest, it seems to me irresistible evidence that he does the act In contemplation of bankruptcy.” Now Sleep­er, so far from intending to fail and break up his business at once, actually continued it for ten months; and though he might have been insolvent, it does not appear by the evidence in the case that he was so deeply insolvent but that he might have believed that he should be able to extricate himself from his difficulties. I cannot think that this was a transfer in contemplation of bank­ruptcy within the meaning of the law.</p>
+                <p pgmap="1034" id="b1034-7">It is then contended that the transfer, al­though good between the parties, is void at common law against creditors, for the want of a sufficient description of the prop­erty. The description words are, “The fol­lowing goods and chattels, viz.: all the stock in trade, wares and merchandise, now in the store, No. 3, in Phoenix Row, occupied by me, and in the cellar under the same, of the value by estimation of six thousand dol­lars.” The objection is that there is no par­ticular description of the goods, nor any statement of the quantity or kind of goods, nor of the value but by a general estimate. A conveyance by such a general description, it is argued, is not binding on the rights of creditors. But the description is sufficiently certain to convey a title between the par­ties when the contract is followed by de­livery, and the record of the mortgage, pur­suant to the statute, is in law equivalent to a delivery. Bullock v. Williams, 16 Pick. 33. If there were other circumstances tend­ing to impeach the fairness of the transac­tion, and to indicate a design to cover prop­erty and keep it from creditors, the want of greater particularity in the description might fairly be urged as a circumstance of sus­picion. But there is no doubt that the mort­gage was made on an adequate considera­tion; the transaction was open, and as no­torious as tue public record could make it; and the ■ want of particular specification of the articles will not alone make it fraudu­lent.</p>
+                <p pgmap="1034(68) 1035(333)" id="b1034-8">The other act relied upon as an act of bankruptcy, is that .Sleeper made a fraudu­lent agreement with Johnson to have a cer­tain suit defaulted and judgment entered, so that Johnson might obtain a preference over his other creditors. The facts applica­ble to this part of the case are these: In August, 1S-12. one Eaton commenced a suit against Sleeper and attached the stock in iiis store. F. H. Sleeper, a clerk in the store, was put in possession of the goods as keep­er, under the officer who made the attach­ment. Three days afterwards, Johnson gave .an accountable receipt for the goods to the amount of $300, Johnson at the same time claiming a right in them under his mortgage, and he sued out a writ, and attached the same goods, and the officer put them into his possession as keeper. Previous to the com­mencement of Eaton’s suit, the same officer had attached other property of Sleeper on a written favor of one Wingate. And soon after the attachment on Johnson’s suit an action was commenced by R. C. Johnson, Jr., and two by Jones, the petitioning cred­itor, on which the goods in the store were at­tached. These actions, sis in number, were all entered at the September term of the court. Eaton’s was settled, neither party ap­pearing, and the others were defaulted on the first calling of the docket, except John­son’s, which was defaulted about two weeks after. Before the sitting of the court. Sleep­•er applied to Alden &amp; Crosby, as attor-­nies, to get the suits against him continued, and their names were entered on the docket in all the actions except those in favor of Jones, in which they were attornies for the plaintiff. But he afterwards directed them to withdraw their appearance, and allow the actions to be defaulted. On the 30th of Sep­tember, he gave his consent in writing for the default of -the action in favor of John­son; and on the 4th of October, Alden &amp; Crosby applied to the court by petition, as the attornies of Jones, for leave to ¿some in and defend that action, in his interest as a subsequent attaching creditor. On a hear­ing leave was refused by the court. It is this written consent to be defaulted that is relied on as an act of bankruptcy.</p>
+                <p pgmap="1035" id="b1035-4">I infer from the evidence on the record, although it is not expressly stated by the witnesses, that at this time Sleeper’s busi­ness was entirely broken up, and all his visi­ble property was under attachment. Cer­tainly here is a case in which the bankrupt law ought to apply and make an equal and -equitable division of the property among the creditors, for it is a case of open and no­torious insolvency; and an amendment pro­posed by the committee of the senate, at the late session of congress, provides for such a case. But the law as it stands does not reach it, unless the single act of Sleep­er, his agreement in writing to be defaulted, was an act of bankruptcy. The words of the statute are, “shall willingly or fraud­ulently procure himself to be arrested, or his goods and chattels, lands or tenements, to be attached, distrained, sequestered, or taken in execution.” It is not enough that be is passive, and does nothing to prevent a creditor from taking his goods in execu­tion. The words of the act can be satisfied with nothing short of a positive agency, an active co-operation. To be passive merely, and do nothing, is not to procure an act to be done. It is not to aid, co-operate, or ad­vise. Though the whole of a man’s prop­erty is attached and taken in execution by creditors, if he does not procure it to be done, if he does nothing by the way of ad­vice, or aid and assistance, this will not constitute an act of bankruptcy, however notorious his insolvency may be. The court can make nothing an act of bankruptcy which has not been declared to be such by the legislature. That part of a statute which enumerates the acts of bankruptcy, is in the nature of a penal statute, and to be con­strued strictly. It cannot be enlarged by construction to include acts that are within the reason of the lqw or the mischiefs -in­tended to be provided against, but which are not within the words of the statute ac­cording to their fair and reasonable con­struction. There is no principle more firm- : ly established than this in the administration of the English statute of bankruptcy. Eden, Bankr. Law, 12; Dutton v. Morrison, 17 Ves. 198.</p>
+                <p pgmap="1035" id="b1035-6">It is not pretended that the attachment of Johnson was made in consequence of any advice or suggestion of Sleeper. The whole case is narrowed down to the single ground of the written consent to be defaulted. Can this be considered as an active co-operation on the part of Sleeper, a procuring his goods to be taken in execution. I can see nothing more in it than a determination to remain passive, and leave the plaintiff to take his own course. If no such agreement or con­sent had been given, the result would have been the same. A default, according to the usual course of the court, would have been entered, as it was in the other action against him. If it could be shown that a default would not have been entered but for the written agreement, then Sleeper might be considered as actively co-operating. But without this, if there had been no appear­ance, a default would have followed on the motion of the plaintiff. It appears to me that it is impossible to maintain that this act, which left the matter entirely to the ; pleasure of the plaintiff, was a procuring i his goods to be taken in execution, within j the meaning of the statute. My opinion on I the whole is, no act of bankruptcy was com­mitted, and the petition must be dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1032" ORDERLABEL="1030" TYPE="page">
+        <fptr FILEID="tiff_00516_1"/>
+        <fptr FILEID="jp2_00516_1"/>
+        <fptr FILEID="alto_00516_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1032.10" BETYPE="IDREF" FILEID="alto_00516_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1033" ORDERLABEL="1031" TYPE="page">
+        <fptr FILEID="tiff_00517_0"/>
+        <fptr FILEID="jp2_00517_0"/>
+        <fptr FILEID="alto_00517_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1033.2" BETYPE="IDREF" FILEID="alto_00517_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1034" ORDERLABEL="1032" TYPE="page">
+        <fptr FILEID="tiff_00517_1"/>
+        <fptr FILEID="jp2_00517_1"/>
+        <fptr FILEID="alto_00517_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1034.4" BETYPE="IDREF" FILEID="alto_00517_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1035" ORDERLABEL="1033" TYPE="page">
+        <fptr FILEID="tiff_00518_0"/>
+        <fptr FILEID="jp2_00518_0"/>
+        <fptr FILEID="alto_00518_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1035.3" BETYPE="IDREF" FILEID="alto_00518_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1033-4" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1033.5" BETYPE="IDREF" FILEID="alto_00517_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1035-4" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1035.5" BETYPE="IDREF" FILEID="alto_00518_0"/>
+            <area BEGIN="BL_1035.6" BETYPE="IDREF" FILEID="alto_00518_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1035-6" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1035.7" BETYPE="IDREF" FILEID="alto_00518_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4M" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1032.16" BETYPE="IDREF" FILEID="alto_00516_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1034-8" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1034.9" BETYPE="IDREF" FILEID="alto_00517_1"/>
+            <area BEGIN="BL_1035.1" BETYPE="IDREF" FILEID="alto_00518_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1032-12" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1032.14" BETYPE="IDREF" FILEID="alto_00516_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1032-13" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1032.15" BETYPE="IDREF" FILEID="alto_00516_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1032-10" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1032.12" BETYPE="IDREF" FILEID="alto_00516_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1032-11" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1032.13" BETYPE="IDREF" FILEID="alto_00516_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1033-5" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1033.8" BETYPE="IDREF" FILEID="alto_00517_0"/>
+            <area BEGIN="BL_1033.9" BETYPE="IDREF" FILEID="alto_00517_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1033-8" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1033.11" BETYPE="IDREF" FILEID="alto_00517_0"/>
+            <area BEGIN="BL_1034.1" BETYPE="IDREF" FILEID="alto_00517_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1033-3" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1033.4" BETYPE="IDREF" FILEID="alto_00517_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1033-2" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1033.3" BETYPE="IDREF" FILEID="alto_00517_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmJj" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1033.6" BETYPE="IDREF" FILEID="alto_00517_0"/>
+            <area BEGIN="BL_1033.7" BETYPE="IDREF" FILEID="alto_00517_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1034-4" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1034.5" BETYPE="IDREF" FILEID="alto_00517_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1034-5" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1034.6" BETYPE="IDREF" FILEID="alto_00517_1"/>
+            <area BEGIN="BL_1034.7" BETYPE="IDREF" FILEID="alto_00517_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1034-7" BETYPE="IDREF" FILEID="casebody_0497"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1034.8" BETYPE="IDREF" FILEID="alto_00517_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

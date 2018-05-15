@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0330" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="The Emily">The EMILY</name>
+          <docketnumber>Case No. 4,452</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 653</citation>
+          <citation category="parallel" type="bluebook">1 Blatchf. 236; 6 N. Y. Leg. Obs. 340</citation>
+          <decisiondate>1847-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00328_0" MIMETYPE="image/tiff" CHECKSUM="6a9996458922264b767003f5b901c8a8" CHECKSUMTYPE="MD5" SIZE="82786">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00328_0.tif"/>
+      </file>
+      <file ID="tiff_00328_1" MIMETYPE="image/tiff" CHECKSUM="34b8322b31139abddbe3f5213f4e42ed" CHECKSUMTYPE="MD5" SIZE="83804">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00328_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00328_0" MIMETYPE="image/jp2" CHECKSUM="3eaa534b15529047e8e36c676b2300fa" CHECKSUMTYPE="MD5" SIZE="3194330">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00328_0.jp2"/>
+      </file>
+      <file ID="jp2_00328_1" MIMETYPE="image/jp2" CHECKSUM="45bdbcb48e11ebd8b58183fa2730806b" CHECKSUMTYPE="MD5" SIZE="3173821">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00328_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00328_0" MIMETYPE="text/xml" CHECKSUM="f0b69d493a8a4e0bcc23dbc046e9ebc6" CHECKSUMTYPE="MD5" SIZE="188634">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00328_0.xml"/>
+      </file>
+      <file ID="alto_00328_1" MIMETYPE="text/xml" CHECKSUM="3ac005f35040ec130303ce3f897a43ee" CHECKSUMTYPE="MD5" SIZE="182907">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00328_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0330" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="654" firstpage="653">
+              <court id="b655-10" pgmap="655">Circuit Court, S. D. New York.</court>
+              <docketnumber id="b655-7" pgmap="655">Case No. 4,452.</docketnumber>
+              <citation id="b655-9" pgmap="655">[1 Blatchf. 236;<footnotemark>1</footnotemark> 6 N. Y. Leg. Obs. 340.]</citation>
+              <parties id="Az_" pgmap="655">The EMILY.</parties>
+              <decisiondate id="AUD" pgmap="655">April Term, 1847.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys id="b655-16" pgmap="655">Washington Q. Morton and Alexander Hamilton, Jr., for libellants.</attorneys>
+              <attorneys id="b655-17" pgmap="655">Francis B. Cutting, for claimant.</attorneys>
+              <footnote label="1">
+                <p id="b655-21" pgmap="655">1 [Reported by Samuel Blatehford, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="b655-23" pgmap="655">2 [Affirming Case No. 4,453.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b655-18" pgmap="655">NELSON, Circuit Justice.</author>
+                <p id="Av2J" pgmap="655">I have studied the facts in this case, which are voluminous, with a great deal of attention, and though the case is not without difficulty, owing to the serious conflict of the evidence in respect to almost all the material facts upon which the decision must depend, I am bound to say, that my examination has led me to the con­clusion that, according to the weight of the evidence, the Emily was in fault.</p>
+                <p id="b655-19" pgmap="655">1. The Virginian was to the windward, and the Emily to the leeward, the former heading along the shore, north or north by west, and the latter, south by east or south-­south-east; and the two vessels were half a mile or a mile distant from each other, when the Emily was first been by the- hands on board the Virginian.</p>
+                <p id="b655-20" pgmap="655(58) 656(12)">2. The Virginian at no time changed her course more to the cast, or in the direction of the Emily; on the contrary, immediately on discovering danger of collision, she bore far­ther up into the wind, which was west-north­west She was not only not in fault at any time, but appears to have received and obey­ed the only order that could have availed her in the emergency.</p>
+                <p id="b656-3" pgmap="656">3. If the Emily had followed her course, much more, if she had fallen off before the wind, which she might readily have done, the collision could not have occurred. It is, I think, reasonably certain, that the mis­taken order of the mate to the man at the wheel, in connection with the derangement of the running rigging of the vessel, and the confusion on board among the hands, on ac­count of the vessel's having misstayed a few minutes before, led to a change of course, and the consequent collision.</p>
+                <p id="b656-4" pgmap="656">It is apparent, also, that the hands on board the Emily failed to keep a proper look­out; for, if they had done so, the Virginian might, according to the weighty of the evi­dence, have been seen before the accident at the distance of some half a mile; and, from the relative position of the vessels, a proper precaution on the part of the Emily at that distance, or even at a less distance, would have prevented the disaster.</p>
+                <p id="b656-5" pgmap="656">The facts, beyond all doubt, bring the case down to the simple question, whether the collision occurred by accident or by the fault of the Emily. It is a most unfortunate case for the parties concerned, in any aspect in which it can be viewed, or upon any con­clusion that may be arrived at; but I feel bound to say that, according to the weight of the evidence, the Emily was in fault. She might have avoided the collision by the use of proper caution, skill, and vigilance. De­cree affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="655" ORDERLABEL="653" TYPE="page">
+        <fptr FILEID="tiff_00328_0"/>
+        <fptr FILEID="jp2_00328_0"/>
+        <fptr FILEID="alto_00328_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_655.3" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="656" ORDERLABEL="654" TYPE="page">
+        <fptr FILEID="tiff_00328_1"/>
+        <fptr FILEID="jp2_00328_1"/>
+        <fptr FILEID="alto_00328_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_656.4" BETYPE="IDREF" FILEID="alto_00328_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-18" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.21" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-19" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.24" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-23" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.27" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-10" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.11" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-16" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.19" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-17" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.20" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b656-3" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_656.5" BETYPE="IDREF" FILEID="alto_00328_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Av2J" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.22" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            <area BEGIN="BL_655.23" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b656-5" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_656.7" BETYPE="IDREF" FILEID="alto_00328_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-21" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.26" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-7" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.8" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-9" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.10" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b656-4" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_656.6" BETYPE="IDREF" FILEID="alto_00328_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUD" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.12" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            <area BEGIN="BL_655.13" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Az_" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.9" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-20" BETYPE="IDREF" FILEID="casebody_0330"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.25" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            <area BEGIN="BL_656.1" BETYPE="IDREF" FILEID="alto_00328_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

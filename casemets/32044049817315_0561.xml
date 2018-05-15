@@ -1,0 +1,312 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0561" publicationstatus="published">
+          <court abbreviation="E.D. Va." jurisdiction="United States">United States District Court for the Eastern District of Virginia</court>
+          <name abbreviation="In re Judkins">In re JUDKINS. Ex parte FERGUSON</name>
+          <docketnumber>Case No. 7,560</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1193</citation>
+          <citation category="parallel" type="bluebook">2 Hughes, 401</citation>
+          <decisiondate>1875-02-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00598_0" MIMETYPE="image/tiff" CHECKSUM="c24ef6305de33cb06eed1acf6664d199" CHECKSUMTYPE="MD5" SIZE="97534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00598_0.tif"/>
+      </file>
+      <file ID="tiff_00598_1" MIMETYPE="image/tiff" CHECKSUM="df51260bd87b5c9da6dfdc96393e4348" CHECKSUMTYPE="MD5" SIZE="30050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00598_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00598_0" MIMETYPE="image/jp2" CHECKSUM="66c9d01e1ff499ec04ec722931960387" CHECKSUMTYPE="MD5" SIZE="3442447">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00598_0.jp2"/>
+      </file>
+      <file ID="jp2_00598_1" MIMETYPE="image/jp2" CHECKSUM="4a1049785e9db299c8b6345d0b90f548" CHECKSUMTYPE="MD5" SIZE="3006283">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00598_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00598_0" MIMETYPE="text/xml" CHECKSUM="7b2e457d7c176a7dffa7a3973584c61f" CHECKSUMTYPE="MD5" SIZE="214020">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00598_0.xml"/>
+      </file>
+      <file ID="alto_00598_1" MIMETYPE="text/xml" CHECKSUM="3358046cc3d6796692b0b208fef881b5" CHECKSUMTYPE="MD5" SIZE="56405">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00598_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0561" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1194" firstpage="1193">
+              <court pgmap="1195" id="b1195-7">District Court, E. D. Virginia.</court>
+              <docketnumber pgmap="1195" id="b1195-3">Case No. 7,560.</docketnumber>
+              <citation pgmap="1195" id="b1195-6">[2 Hughes, 401.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1195" id="b1195-4">In re JUDKINS. Ex parte FERGUSON.</parties>
+              <decisiondate pgmap="1195" id="AnW6">Feb. 2, 1875.</decisiondate>
+              <footnote label="1">
+                <p pgmap="1195" id="b1195-14">1 [Reported by Hon. Robert W. Hughes. Dis­trict Judge, and here leprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1195" id="b1195-13">HUGHES, District Judge.</author>
+                <p pgmap="1195" id="A1Qv">W. H. Judkins, the bankrupt in this case, applied in June last for the setting apart of a homestead exemp­tion to him, and observed, in doing so, the special rules of this court directing the prop­er proceedings to be pursued for securing out of the assets in bankruptcy the homestead exemption allowed by the laws of Virginia. The exemption was duly allowed him, but he did not state in his schedule of debts that those due to certain of his creditors (among others, that due E. F. Ferguson, the peti­tioner) contained on the face of the bonds or notes evidencing such debts a waiver of the homestead. Nor was personal notice of his application for the homestead exemption given to the holders of such notes and bonds. The order of this court granting the home­stead exemption was made without personal notice to the holders of such paper, who of course were unknown to the court. Since then, on the petition of one of these creditors and a rule upon the bankrupt to show cause against it. the said Judkins has been ordered to pay the amount of a homestead-waiving promissory note to the holder of it, and in the event of his not doing so, the assignee in­structed to sell enough of the exempted prop­erty to pay the note. Now, again, the holder of a bond containing a waiver of homestead petitions for the satisfaction of the amount due upon it, not having had personal notice of the bankrupt’s petition for the homestead exemption. The bankrupt answers that the petitioner was a schedule creditor, and had notice as such (constructive notice) of the petition for the exemption and the order grant­ing it. As the principle on which such peti­tions are allowed is not clearly understood by bankrupts, I will state it in this ease.</p>
+                <p pgmap="1195" id="b1195-15">The question is, whether the proceedings for obtaining the homestead exemption are so strictly a part of the proceedings in bank­ruptcy as to bind all the world, without person­al notice being given to those creditors who are affected by the exemption. ‘ Proceedings in bankruptcy, strictly of that character, are so nearly akin to proceedings in rem that they may practically be regarded as such, and, provided the rules of practice prescribed by the bankrupt law [of 1867 (14 Stat. 517)] are strictly observed, these proceedings bind all the world as to the res or assets in bank­ruptcy. What proceedings are of this de­scription hardly admit of strict definition. Generally, they are those which affect the res only, without affecting property or rights which are but incidentally connected with tlie res. All proceedings which affect merely the res bind the res against the world, such as the publication of notices in newspapers, tne serving of notices by mail, etc., etc. As against such proceedings it will avail nothing to the creditor or other person whose in­terests are affected to come into court and to say that he had no notice of this or that order or proceeding. For illustration, take the case of land surrendered by the bankrupt in his schedules. If the land be not bound in any way by lien in the form of judgment, deed of trust, or otherwise, then the sale of the land by the assignee under the powers conferred, and upon the notice required by the bankrupt law and the rules of the bank­rupt court, is in the nature of a proceeding in rem, and conveys the title to the purchaser against the world. So, if the land be bound by lien in any form, the sale merely of the bankrupt’s interest in it, in the manner re­quired by the bankrupt law, and rules of court, is a proceeding, in rem, and binds the whole-world. But if the bankrupt court un­dertakes to authorize a sale of the land free of incumbrances, that is to say, undertakes a sale of the fee of land bound by liens, then the proceeding, so far as it affects the lien-­holder, is not a proceeding in rem. Personal notice' must be given to lienholders; they must have a day in court to show cause against the sale, and the rule can only be valid upon full notice after a hearing. The proceeding, as to the interest of the bank­rupt, is part of the proceeding in rem, while that against the lienholder is not, but must be had after personal notice and a hearing in court. It would be more regular for this latter proceeding to be by plenary bill in chancery, but it has become the practice of the bankrupt- court to permit it to be done by summary petition in bankruptcy, on personal notice to the lienholders.</p>
+                <p pgmap="1195(52) 1196(174)" id="b1195-16">The question arising upon this petition of the creditor whose bond contains a waiver of homestead is, whether the proceedings which were taken to obtain the setting apart of a homestead were such as bind all the world, especially this petitioner, who had no personal notice of them. I am clearly of opinion that they were not. The homestead is conferred by the laws of Virginia, and these laws define the circumstances under which and the mode by which the home­stead is to be set apart. Those laws are ob­served by this court as far as practicable; and the proceedings incidental to those in bank­ruptcy for setting it apart are not proceedings in rem. In order that these incidental pro­ceedings for ascertaining and setting apart the homestead shall bind a creditor who has a claim superior to the homestead, the creditor must have personal notice of them, and a hear­ing in court. If the bankrupt does not set forth such creditor’s rights in his petition for the homestead, and the creditor does not in some regular way receive the benefit of personal notice of the petition, and does not have the opportunity of being heard against it, he is not bound, and the homestead may at any time be subjected by the court to the pay­ment of such creditor’s claims.</p>
+                <p pgmap="1196" id="b1196-5">In this case no notice was given to the creditor. The court, in granting the home­stead, had no knowledge that the homestead had been waived in this bond. The home­stead, therefore, is not good against the bond, and the amount due upon the bond must be paid by the bankrupt or else the homestead sold for its payment.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1195" ORDERLABEL="1193" TYPE="page">
+        <fptr FILEID="tiff_00598_0"/>
+        <fptr FILEID="jp2_00598_0"/>
+        <fptr FILEID="alto_00598_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1195.3" BETYPE="IDREF" FILEID="alto_00598_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1196" ORDERLABEL="1194" TYPE="page">
+        <fptr FILEID="tiff_00598_1"/>
+        <fptr FILEID="jp2_00598_1"/>
+        <fptr FILEID="alto_00598_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1196.5" BETYPE="IDREF" FILEID="alto_00598_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1195-3" BETYPE="IDREF" FILEID="casebody_0561"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1195.4" BETYPE="IDREF" FILEID="alto_00598_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1195-15" BETYPE="IDREF" FILEID="casebody_0561"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1195.19" BETYPE="IDREF" FILEID="alto_00598_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1195-6" BETYPE="IDREF" FILEID="casebody_0561"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1195.7" BETYPE="IDREF" FILEID="alto_00598_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1195-7" BETYPE="IDREF" FILEID="casebody_0561"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1195.8" BETYPE="IDREF" FILEID="alto_00598_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1195-4" BETYPE="IDREF" FILEID="casebody_0561"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1195.5" BETYPE="IDREF" FILEID="alto_00598_0"/>
+            <area BEGIN="BL_1195.6" BETYPE="IDREF" FILEID="alto_00598_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1195-16" BETYPE="IDREF" FILEID="casebody_0561"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1195.20" BETYPE="IDREF" FILEID="alto_00598_0"/>
+            <area BEGIN="BL_1196.1" BETYPE="IDREF" FILEID="alto_00598_1"/>
+            <area BEGIN="BL_1196.2" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1196-5" BETYPE="IDREF" FILEID="casebody_0561"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.6" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1195-13" BETYPE="IDREF" FILEID="casebody_0561"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1195.15" BETYPE="IDREF" FILEID="alto_00598_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1Qv" BETYPE="IDREF" FILEID="casebody_0561"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1195.16" BETYPE="IDREF" FILEID="alto_00598_0"/>
+            <area BEGIN="BL_1195.17" BETYPE="IDREF" FILEID="alto_00598_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnW6" BETYPE="IDREF" FILEID="casebody_0561"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1195.9" BETYPE="IDREF" FILEID="alto_00598_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1195-14" BETYPE="IDREF" FILEID="casebody_0561"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1195.18" BETYPE="IDREF" FILEID="alto_00598_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

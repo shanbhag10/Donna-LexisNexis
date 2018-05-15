@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0432" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The John Tucker">The JOHN TUCKER</name>
+          <docketnumber>Case No. 7,431</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 900</citation>
+          <citation category="parallel" type="bluebook">5 Ben. 366</citation>
+          <decisiondate>1871-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00451_1" MIMETYPE="image/tiff" CHECKSUM="b1fec7a3c6d02853516637f8cf41ee67" CHECKSUMTYPE="MD5" SIZE="88256">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00451_1.tif"/>
+      </file>
+      <file ID="tiff_00452_0" MIMETYPE="image/tiff" CHECKSUM="558a22bcef1b4425d9d23b9573381b7b" CHECKSUMTYPE="MD5" SIZE="108994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00452_0.tif"/>
+      </file>
+      <file ID="tiff_00452_1" MIMETYPE="image/tiff" CHECKSUM="179e20e146783457eeb7d12687ea25cb" CHECKSUMTYPE="MD5" SIZE="45182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00452_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00451_1" MIMETYPE="image/jp2" CHECKSUM="ec7f23ca7bd0d14f5c6225b910cdfbcc" CHECKSUMTYPE="MD5" SIZE="3717127">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00451_1.jp2"/>
+      </file>
+      <file ID="jp2_00452_0" MIMETYPE="image/jp2" CHECKSUM="73835ed86961c069d904afc3c854fe84" CHECKSUMTYPE="MD5" SIZE="3796577">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00452_0.jp2"/>
+      </file>
+      <file ID="jp2_00452_1" MIMETYPE="image/jp2" CHECKSUM="2b6a368d59fccb17115487e096a35e00" CHECKSUMTYPE="MD5" SIZE="2158714">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00452_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00451_1" MIMETYPE="text/xml" CHECKSUM="183d3b9bbbd8d1f92df52b2e48a1b78d" CHECKSUMTYPE="MD5" SIZE="198493">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00451_1.xml"/>
+      </file>
+      <file ID="alto_00452_0" MIMETYPE="text/xml" CHECKSUM="13541579c4ceba5076cf1249e1245e35" CHECKSUMTYPE="MD5" SIZE="262690">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00452_0.xml"/>
+      </file>
+      <file ID="alto_00452_1" MIMETYPE="text/xml" CHECKSUM="455ce050727a4e397ce0ab7040c4b8f3" CHECKSUMTYPE="MD5" SIZE="89178">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00452_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0432" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="902" firstpage="900">
+              <court pgmap="902" id="ALqQ">District Court, S. D. New York.</court>
+              <docketnumber pgmap="902" id="b902-5">Case No. 7,431.</docketnumber>
+              <citation pgmap="902" id="AFoF">[5 Ben. 366.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="902" id="A4OC">The JOHN TUCKER.</parties>
+              <decisiondate pgmap="902" id="Aa3-">Nov., 1871.</decisiondate>
+              <attorneys pgmap="902" id="AkQ">Benedict &amp; Benedict, for libellants.</attorneys>
+              <attorneys pgmap="902" id="b902-18">Abbott Bros., for claimants.</attorneys>
+              <footnote label="1">
+                <p pgmap="902" id="b902-20">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="902" id="b902-19">BLATCHFORD, District Judge.</author>
+                <p pgmap="902" id="ALxub">The libel in this case alleges, that, on the night of the 11th and 12th of February, 1871, the steam­boat Sylvan Glen, owned by the libellants, was, lying at the lower side of pier 24, East river, that being her regular pier of landing on the East river, properly and se­curely made fast for the night, with her stern as far in' the slip as she could get, with her fan-tail close against the vessel lying at her stern, and with her bow heading out of the slip, though a long distance in­side of the end of pier 24; that, while she was lying in that position, the ship John Tucker was towed to the slip for the pur­pose of coming in between piers .23 and 24, to be made fast in the slip; that, when her purpose was observed by those in charge of the Sylvan Glen, she was hailed by them, and informed that there was not room for ■her in the slip, and that, if she came there and made fast, there was danger of her do­ing damage to the vessels already moored therein; that, notwithstanding such remon­strances, the John Tucker was brought into the slip, with her bow heading in, and made fast outside of two vessels lying at the up­per side of pier 23, she being the third ves­sel from the pier; that, when the John Tucker had been made fast, her stern pro­jected out into the river some thirty feet be­yond the end of pier 24; that, at the time she came into the slip, a large quantity of ice was moving with the tide up and down the river, so that it was extremely danger­ous for a vessel to lie with her stern pro­jecting beyond the end of the pier, and her master wras informed that, when the ebb tide made, the ship would be caught by the ice, and would do the steamboat serious in­jury; that, at about half past four o’clock on the morning of the 12th of February, and at the strength of the ebb tide, a large quantity of the floating ice in the river caught the stern of the ship, which was pro­jecting out into the river beyond-the end of pier 24, and slewed her stem around, and broke her fastenings, and brought her bow around violently against the steamboat, so that the flying jib-boom of the ship swept over the steamboat, carrying away her pilot­house. and doing other damage to her; that such damage resulted from the want of care and negligence of those in charge of the ship, in coming into a slip already crowded with vessels, and where there was no room for her, against the remonstrances of those on board of the steamboat, and when she could have gone to some other pier in the port, where there were many that she could moor at in perfect safety, and in lying in the slip with her stem projecting out into the river beyond the end of pier 24, exposed to the full sweep of the tide and the ice, and in not being made fast securely and prop­erly; and that such damage was not caused by any fault or negligence of those on board of, and in eharge of, the steamboat, she being entirely helpless in the slip, and un­able to move.</p>
+                <p pgmap="902(149) 903(275)" id="b902-22">The answer denies that the steamboat was lying with her stem as far in the slip as she could get. and that her fan-tail was close against the vessel lying at her stem, and that it was dangerous for a vessel to lie in the position in which the ship was made fast. It alleges, that, when the ship was made fast, her stern did not project over ten feet beyond the end of pier 24; that, about half-past three o’clock on the morning of the 12th of February, a large cake of floating ice in the river struck the ship on her quainter, and caused her to haul the bitts or break the bitts out of the chock of the ship next to her to which she was fastened, and swing suddenly around, so that her flying jib-boom came in contact with the steamboat, carrying away her pilot­house; that the ship was engaged for up­wards of two hours, on the night of the 11th, in searching for a proper berth, although the large quantity of floating ice in the river rendered it difficult and dangerous so to do; that the rapidly increasing quantity ■of ice in the river made it impossible longer to continue such search; that no other berth was found where the ship could be moored for the night; that the steamboat could eas­ily have been hauled much further into the slip, so as to enable the ship to haul fur­ther in, and wholly away from the force of the tide and the ice floating in the river at the time, and so that the steamboat would be out of reach of, or danger from, the ship; that the persons on board of, and in charge of, the ship, requested those on board of, and in charge of, the steamboat, to have the steam­boat hauled further into the slip, and offexmed to assist them in so doing; that those in charge of the steamboat refused so to do, or to allow those in charge of the ship to assist them in so doing; and that the collision was caused by the fault and negligence of those on board of, and in charge of, the steamboat, in lying in the slip so as to block up the same, and prevent the ship from wholly coming into the slip, and in not haul­ing out of the reach of the ship when re­quested so to do, by those on board of, and in charge of, the ship.</p>
+                <p pgmap="903" id="b903-4">On the issues raised by the libel and the answer, the case is, on the proofs, wholly with the libellants. The ship came into the slip and was moored while the tide was run­ning flood. Everything was safe while the tide continued to run flood. But pier 24 did not project, into the river as far as pier 23, and the stern of the ship, which did not pro­ject substantially beyond the end of pier 23, and was thus protected by it from the running of the flood tide, did project so far beyond the end of pier 24, that, when the tide changed and ran ebb, the floating ice was borne by such ebb tide against the starboard quarter of the ship with such force as to throw her stern towards pier 23. and break away her fastenings, and throw her bow towards the steamboat, and do the mis­chief that was done. This probable condi­tion of things was called to the attention of those on board of the ship, while they were mooring her, by those on board of the steam­boat, but, notwithstanding that, she was moored so as to have her jib-boom project some feet over the deck of the steamboat, and run between the smoke-stack of the steamboat and her pilot-house.</p>
+                <p pgmap="903" id="b903-5">The only defence set up in the answer, namely, that the steamboat could have mov­ed further into the slip and refused to do so, fails. The weight of the evidence is, that the steamboat had backed as far into the slip as 'she could, not only with refer­ence to her proximity to other vessels in her rear, but with reference to the packed con­dition of the ice in her rear, and to safety to her rudder. She had made, before the ship came there, • a vigorous effort, by the aid of steam, to back into the slip as far as possible, and had backed in to the ex­tent of her power.</p>
+                <p pgmap="903" id="b903-7">On the trial, the case was sought by the claimants to be put on the ground of in­evitable accident, arising out of the perils of navigation — a view not suggested in the an­swer. But the circumstances do not bring it within the category of a case of inevitable accident. Union Steamship Co. v. New York &amp; V. Steamship Co., 24 How. [65 U. S] 307; The Morning Light, 2 Wall. [69 U. S] 550; The Louisiana, 3 Wall. [70 U. S] 164; Vantine v. The Lake [Case No. 16,878]; The Moxey [Id. 9,894]; The Brook­lyn [Id. 1,939]; The Baltic [Id. 823]. The movement of the ice, with the ebb tide, which was the cause of the damage, was not a thing that arose suddenly and unexpected­ly. but was to be anticipated and guarded against by the ship, even if her attention had not been specially called to it by the steamboat. It was not a vis major, in the sense of the rule. The ship was .bound to secure herself so that her fastenings would not be broken or torn away, when the tide should change.</p>
+                <p pgmap="903(332) 904(62)" id="b903-8">As to the point, not raised in the answer, but urged on the trial, that the steamboat was in fault in lying with her head towards the outer end of the pier, and in not lying with her head towards the inner end of the pier, in violation of rule 7 of the rules and regulations of the board of harbor masters of the port of New York, of May 3d, 1870. which requires all vessels lying at the wharves or piers, or in the basins or slips, to lie, unless otherwise directed, with their heads up the docks, I do not think it can avail the claimant. The view urged is. that, if the steamboat had been lying with her stern towards the outer end of the pier, the jib-boom of the ship would have pro­jected over the hurricane deck of the steam­boat, into an unobstructed space, and would not have hit the pilot-house. In addition to the considerations growing out of the ruling in the case of The Russia [Case No. 12,168], that it is shown by the evidence that it was customary for the steamboat to lie with her head towards the outer end of the pier that she was in her proper berth, that her lying as she did was not forbidden by any state law or city ordinance, that it is not shown that those in charge of her had been notified of the regulation in question, or directed by the harbor masters not to lie as she did, that it is not shown that it was unsafe or improper, as respected the navigation or movements of other vessels for her to lie as she did at the time, and that, under the terms of rule 7, it is proper to presume that she had been allowed, and thus, in sub­stance. directed, by the harbor masters, to lie with her head down the dock — in addi­tion to these considerations, I think that the ship, by mooring herself as she did, with the steamboat lying as she did, made her­self responsible for all damage which should come to the steamboat in her then actual predicament, arising from any fault on the part of the ship, and cannot impute it as a fault to the steamboat, that the steamboat was, in fact, in such predicament.</p>
+                <p pgmap="904" id="b904-3">The ship was in fault, and, such fault not being excused, and no fault being shown on the part of the steamboat, there must be a decree for the libellants, with costs, with a reference to a commissioner to as­certain the damages sustained by the libel-­lants.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="902" ORDERLABEL="900" TYPE="page">
+        <fptr FILEID="tiff_00451_1"/>
+        <fptr FILEID="jp2_00451_1"/>
+        <fptr FILEID="alto_00451_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_902.4" BETYPE="IDREF" FILEID="alto_00451_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="903" ORDERLABEL="901" TYPE="page">
+        <fptr FILEID="tiff_00452_0"/>
+        <fptr FILEID="jp2_00452_0"/>
+        <fptr FILEID="alto_00452_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_903.3" BETYPE="IDREF" FILEID="alto_00452_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="904" ORDERLABEL="902" TYPE="page">
+        <fptr FILEID="tiff_00452_1"/>
+        <fptr FILEID="jp2_00452_1"/>
+        <fptr FILEID="alto_00452_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_904.4" BETYPE="IDREF" FILEID="alto_00452_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALqQ" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.10" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-20" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.25" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b903-5" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_903.6" BETYPE="IDREF" FILEID="alto_00452_0"/>
+            <area BEGIN="BL_903.7" BETYPE="IDREF" FILEID="alto_00452_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aa3-" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.11" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkQ" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.19" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b904-3" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_904.5" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b903-8" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_903.9" BETYPE="IDREF" FILEID="alto_00452_0"/>
+            <area BEGIN="BL_904.1" BETYPE="IDREF" FILEID="alto_00452_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b903-7" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_903.8" BETYPE="IDREF" FILEID="alto_00452_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-22" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.26" BETYPE="IDREF" FILEID="alto_00451_1"/>
+            <area BEGIN="BL_903.1" BETYPE="IDREF" FILEID="alto_00452_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-18" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.20" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-19" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.21" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b903-4" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_903.5" BETYPE="IDREF" FILEID="alto_00452_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b902-5" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.7" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFoF" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.9" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALxub" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.22" BETYPE="IDREF" FILEID="alto_00451_1"/>
+            <area BEGIN="BL_902.23" BETYPE="IDREF" FILEID="alto_00451_1"/>
+            <area BEGIN="BL_902.24" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4OC" BETYPE="IDREF" FILEID="casebody_0432"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_902.8" BETYPE="IDREF" FILEID="alto_00451_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

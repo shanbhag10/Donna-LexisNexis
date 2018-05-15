@@ -1,0 +1,432 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0046" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="The Invincible">The INVINCIBLE</name>
+          <docketnumber>Case No. 7,055</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 78</citation>
+          <citation category="parallel" type="bluebook">1 Lowell. 225</citation>
+          <decisiondate>1868-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00040_1" MIMETYPE="image/tiff" CHECKSUM="73d01307bf1868555e175b688392de23" CHECKSUMTYPE="MD5" SIZE="65378">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00040_1.tif"/>
+      </file>
+      <file ID="tiff_00041_0" MIMETYPE="image/tiff" CHECKSUM="2e041638c5fc0a038f00df60fe0ab3d7" CHECKSUMTYPE="MD5" SIZE="112940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00041_0.tif"/>
+      </file>
+      <file ID="tiff_00041_1" MIMETYPE="image/tiff" CHECKSUM="9b509f3052ab9434c4dc881dca7fd2fc" CHECKSUMTYPE="MD5" SIZE="103428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00041_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00040_1" MIMETYPE="image/jp2" CHECKSUM="19ee4f8e2e494052245e5263afb060b0" CHECKSUMTYPE="MD5" SIZE="2688937">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00040_1.jp2"/>
+      </file>
+      <file ID="jp2_00041_0" MIMETYPE="image/jp2" CHECKSUM="fc846e426a5eeda2f59f99e8ced14d97" CHECKSUMTYPE="MD5" SIZE="3786538">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00041_0.jp2"/>
+      </file>
+      <file ID="jp2_00041_1" MIMETYPE="image/jp2" CHECKSUM="9c8f39d892234da7cdf7aba5ec5ade51" CHECKSUMTYPE="MD5" SIZE="3608090">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00041_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00040_1" MIMETYPE="text/xml" CHECKSUM="59008da9465176a3b8bcf2adf68c7c74" CHECKSUMTYPE="MD5" SIZE="137589">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00040_1.xml"/>
+      </file>
+      <file ID="alto_00041_0" MIMETYPE="text/xml" CHECKSUM="f17cdd84eba99b6d2fc6a0c2440c778e" CHECKSUMTYPE="MD5" SIZE="252035">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00041_0.xml"/>
+      </file>
+      <file ID="alto_00041_1" MIMETYPE="text/xml" CHECKSUM="486a806b0579343c9cea25fdd768cac4" CHECKSUMTYPE="MD5" SIZE="229258">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00041_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0046" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="80" firstpage="78">
+              <court pgmap="80" id="b80-8">District Court, D. Massachusetts.</court>
+              <docketnumber pgmap="80" id="b80-5">Case No. 7,055.</docketnumber>
+              <citation pgmap="80" id="b80-7">[1 Lowell. 225.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="80" id="b80-6">The INVINCIBLE.</parties>
+              <decisiondate pgmap="80" id="ANX">Feb., 1868.</decisiondate>
+              <attorneys pgmap="80" id="b80-20">T. Iv. Lothrop and W. W. Orapo (J. H. Clifford with them), for libellants.</attorneys>
+              <attorneys pgmap="80" id="b80-21">S.Bartlett. R. H. Dana, Jr., and D. A. Gleason, for claimants.</attorneys>
+              <footnote label="1">
+                <p pgmap="80" id="b80-15">1 [Reported by Hon. John Lowell, LL. D., District Judge, and here reprinted by permis-­tión.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="80" id="b80-22">LOWELL, District Judge.</author>
+                <p pgmap="80" id="A1O">Three libels against this ship have by consent of parties been heard together. This consolidation is highly convenient, and might have been or- . dered by the court upon motion of either par­ty. Rich v. Lambert, 12 How. [53 U. S.] 353. The libels are brought by the owners of three several lots of oil shipped from San Fran­cisco to Boston, in November, 1863, by this ship and at the same time. Bills of lading were given to two of the shippers, and one was tendered to the third and refused. It is agreed, however, for the purposes of this trial, that the contracts with the three ship­pers were precise^- alike; and that if the contracts have been broken the libellants have a lien upon the ship, notwithstanding the charter-party. It is further conceded that the clause of the bill of lading exempting the ship from loss by leakage does not extend to leakage arising from bad stowage or other negligence of the carriers; and finally, that the allegation in the libels of a contract .or usage requiring the oil to be kept wet during the voyage was inadvertently made and is not to be regarded.</p>
+                <p pgmap="80" id="b80-23">Upon the arrival of the vessel early in the year 1804, it was found that a very serious loss by leakage had been sustained, amount­ing in value to twelve thousand dollars or more, and the question is, upon wh»m shall it fall?</p>
+                <p pgmap="80" id="b80-24">The general rule is, that under the or­dinary contract of affreightment, the acknowl­edgment by the carrier that the goods were received in good order throws upon him the burden of proving that any damage which they may show upon arriving at the place of delivery did in fact exist before, or was occasioned by some peril or other cause for which he is not responsible. Nelson v. Wood­ruff. 1 Black [66 U. S.] 160, and cases there cited.</p>
+                <p pgmap="80(113) 81(341)" id="b80-25">In Clark v. Barnwell, 12 How. [53 U. S.] 272. this general rule is recognized, with the addition that if an- excepted peril is shown, which is adequate to have occasioned the loss, the burden of proof shifts, and the ship­per is required to show that it was not oc­casioned by that peril, but by some negli­gence of the carrier, which rendered the peril efficient, or co-operated with it, or brought it about without any connection with the sea peril. The bill of lading here contains the printed clause “Ship not responsible for rust, leakage, or shrinkage.” Leakage is shown in this case; the casks all arrived, but had lost a. very considerable part of their oil by leak­ing. It seems to me that by analogy to the rule adopted in the ease last cited, the ship­per is bound to show that this leakage was caused by the negligence of the officers or ■crew of the vessel. It may be that the ex­ception amounts to no more than the law would imply, namely, that the carrier does not warrant against loss arising to certain articles by the operation of time and the or­dinary accidents of navigation; but as it expressly recognizes the probability of loss by these causes, and excepts them in terms, it is for the shipper to make out that their loss is owing to other causes. It is not enough to show that it exceeds the average leakage, because it is not that alone which is excepted, but any leakage unless caused, in fact, by negligence on the part of the ship. I have always understood that this was the true and only effect of such stipulation. In the well known case, arising out of the burn­ing of the steamer Lexington, it appeared that the transportation company had con­tracted with Mr. Harnden, through whom the libellants claimed, that Harnden alone should be responsible for the loss of any goods. The supreme court refused to construe this con­tract as exonerating the respondents from losses caused by their own negligence or that of their servants, but said that it changed the burden of proof, and that the libellants must show the negligence. New Jersey Steam Nav. Co. v. Merchants’ Bank, 6 How. 147 U. S.] 384. See Czech v. General Steam Nav. Co., L. R. 3 C. P. 14, and cases cited. So here leakage is excepted, and although leakage by negligence is not included in the exception, it is for the libellants to show the negligence. I do not rely much on the word •“shrinkage,” because I doubt whether the shrinkage of casks causing a leak is intend­ed by that word.</p>
+                <p pgmap="81" id="b81-3">The evidence here establishes that the oil was well bedded, chocked, and dunnaged, and that no damage appeared to have arisen from its shifting; two or three casks may have moved, but if so there was no reason to suppose that any loss was occasioned thereby. In this state of the case it is un­necessary to inquire whether a more perfect mode of stowage is known to whalemen.</p>
+                <p pgmap="81" id="b81-4">It is not seriously disputed that the loss was occasioned by shrinkage of the casks, and that this was caused by heat and dry­ness, but whether by the heat necessarily encountered in passing twice through the tropics, or by the heating and drying char­acter of the dry hides, rags, and wool, which formed a considerable part of the cargo, or partly by the one and partly by the other, is not so clear. The libellants say that the lat­ter was the main efficient cause, and that it was one which might and should have been avoided. The oil was stowed partly in the lower hold and partly in the lower between-­decks; mainly in a single tier, and where double, the second tier was oil; it was stow­ed amidships, and the hides, rags, and wool, were at either end. A careful examination of the losses from the different casks seems to show that the leakage was much greater in the between-decks than in the hold. The dry hides. &amp;c., were not stowed in actual contact with the oil in any place. The only important questions which a fair review of the evidence raises, are, whether the objec­tionable articles ought to have been carried on this voyage; and if proper to be carried, whether they were properly stowed in rela­tion to the oil; and. lastly, whether all the oil should have been put into the lower hold.</p>
+                <p pgmap="81" id="A4U">The evidence tends to show that dry hides, wool, and rags are thought to have a drying and heating effect; and that this injurious effect would be likely to be aggravated by stowing them upon the oil. But the testi­mony is clear and uneontradicted, that some one or more of these articles form part of the cargo of almost every general ship on such a voyage as this; and that it is not unusual to carry all three of them. There is reason to believe that the masters of the three whaling vessels shipping this oil were aware that such would be the case here, and impliedly assented to it. But whether so or not, their assent is conclusively presumed, if the course of trade is proved, and they did not expressly dissent, which they did not; and I do not know that a dissent would have been of much consequence, excepting as evidence of a new and different contract. Clark v. Barnwell, 12 How. [53 U. S.) 272; Rich v. Lambert, Id. 347.</p>
+                <p pgmap="81" id="b81-8">The preponderance of evidence is, that neither hides nor any other cargo was stow­ed on the oil itself; and this being so, it would seem that the whole duty of the steve­dore -was performed. There is an intimation from some of the witnesses, that a bulkhead should be put up between these goods and the oil. One says it is usually done in order to save the cargo from being wet with oil; and another, that it is done to save it from water, where the contract requires the oil to be wet down; many of the witnesses are not specially interrogated on this point, either of the fact in this case or its necessity; and I have not been able to satisfy myself, by a careful study of the evidence, that this cargo was stowed differently from usual in these respects, nor that if it was, the dif­ference was of any importance. The pre­ponderance of the evidence, such as there is, seems to be that there was a bulkhead forward, both in the hold and in the be­tween-decks, but none aft; but it is not shown that the presence or absence of a bulkhead had any bearing upon the shrink­age of these casks, or that it is one of the proper precautions in such cases.</p>
+                <p pgmap="81(43) 82(135)" id="b81-9">An examination of the question of the place of storage results in a similar way. The wit­nesses are not called on to say that the be­tween-decks was not a proper place; and it was not until the argument that the fact was distinctly brought out that the leakage had been much greater there. It would seem probable that the heat would be greater there, because it was probably in whole or in part above the water line; but whether there was room for all the oil in the hold, and whether it is commonly considered a safer and batter place does not appear. It does appear that the master of the Abigail stipulated that his oil should be stowed in the hold, and that it was stowed there; and that the others were aware that their oil would most or all of it be placed between decks, and made no objection. Under these circumstances, and there being no single ex­pert who has said that this stowage was not usual and proper, I must support it</p>
+                <p pgmap="82" id="b82-3">The general evidence upon the whole case is very strong that the cargo was of the kind ordinarily carried in a general ship, and that it was well stowed. And this general proof of good stowage must include all par­ticulars to which the attention of the wit­nesses was not specially directed by the li-­bellants, because they do not point out in their libel the particulars which they rely on, but only that the oil was badly stowed generally, and was unskilfully stowed “with other cargo.” This allegation calls attention in a very general way to the cargo carried with the oil, and perhaps to its being in im­mediate contact with it, or even in the same hold with it, but not to the part of the vessel in which the oil should be placed, nor to any special. protection or precautions which might be thought essential to its safety. The allegation would be fully satisfied by showing that too much weight had been placed on the oil, or that they were so stow­ed relatively to other goods that they would not ride well or make safe stowage.</p>
+                <p pgmap="82" id="b82-4">Much, of the evidence was upon the ac­tual cause of the great leakage and shrink­age in this case. It is shown that shippers of oil for such a voyage much prefer to have it wet down as often as twice a week, and are willing to pay for the great labor which is necessary to’ do this faithfully. There have been some cases in this court arising out of such contracts. This fact seems to show that there is always a considerable risk of leakage If this precaution It not taken. On the other hand, there was evi­dence that the loss here far exceeds what would ordinarily be expected in such cases. I have not found it necessary to make up my mind upon this point, because upon the whole evidence I am satisfied that this loss did not arise from the fault of the ship itself, nor from the want of care and skill of the claimants’ agents in stowing or navigating her, but from the operation of causes whi'-h, whether common to all such voyages or not, were common to all in which the vessel hap­pened to have such a cargo, and that such a cargo is not uncommon, but usual and proper, and that the ship was stowed in the usual and proper manner. Libel dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="80" ORDERLABEL="78" TYPE="page">
+        <fptr FILEID="tiff_00040_1"/>
+        <fptr FILEID="jp2_00040_1"/>
+        <fptr FILEID="alto_00040_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_80.6" BETYPE="IDREF" FILEID="alto_00040_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="81" ORDERLABEL="79" TYPE="page">
+        <fptr FILEID="tiff_00041_0"/>
+        <fptr FILEID="jp2_00041_0"/>
+        <fptr FILEID="alto_00041_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_81.3" BETYPE="IDREF" FILEID="alto_00041_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="82" ORDERLABEL="80" TYPE="page">
+        <fptr FILEID="tiff_00041_1"/>
+        <fptr FILEID="jp2_00041_1"/>
+        <fptr FILEID="alto_00041_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_82.4" BETYPE="IDREF" FILEID="alto_00041_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.6" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4U" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.8" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-9" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.10" BETYPE="IDREF" FILEID="alto_00041_0"/>
+            <area BEGIN="BL_82.1" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.9" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-21" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.24" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-20" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.23" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-23" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.28" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-15" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.20" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-4" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.6" BETYPE="IDREF" FILEID="alto_00041_0"/>
+            <area BEGIN="BL_81.7" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b81-3" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_81.5" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-22" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.25" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1O" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.26" BETYPE="IDREF" FILEID="alto_00040_1"/>
+            <area BEGIN="BL_80.27" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b82-3" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_82.5" BETYPE="IDREF" FILEID="alto_00041_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANX" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.12" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-25" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.30" BETYPE="IDREF" FILEID="alto_00040_1"/>
+            <area BEGIN="BL_81.1" BETYPE="IDREF" FILEID="alto_00041_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-8" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.11" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-24" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.29" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-5" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.8" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-6" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.9" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b80-7" BETYPE="IDREF" FILEID="casebody_0046"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_80.10" BETYPE="IDREF" FILEID="alto_00040_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

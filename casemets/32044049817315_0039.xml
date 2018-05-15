@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0039" publicationstatus="published">
+          <court abbreviation="C.C.D.R.I." jurisdiction="United States">United States Circuit Court for the District of Rhode Island</court>
+          <name abbreviation="Inman v. Barnes">INMAN v. BARNES</name>
+          <docketnumber>Case No. 7,048</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 62</citation>
+          <citation category="parallel" type="bluebook">2 Gall. 315</citation>
+          <decisiondate>1814-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00032_1" MIMETYPE="image/tiff" CHECKSUM="abe168cab4e11f1945f31422f6fe3585" CHECKSUMTYPE="MD5" SIZE="47988">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00032_1.tif"/>
+      </file>
+      <file ID="tiff_00033_0" MIMETYPE="image/tiff" CHECKSUM="8f7f466608210779079c9d2023b9f801" CHECKSUMTYPE="MD5" SIZE="97010">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00033_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00032_1" MIMETYPE="image/jp2" CHECKSUM="76bd49dd9d75008b3292d975e66a429d" CHECKSUMTYPE="MD5" SIZE="2232583">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00032_1.jp2"/>
+      </file>
+      <file ID="jp2_00033_0" MIMETYPE="image/jp2" CHECKSUM="f27e3e6a2f2bb8a3692f1a85044b9f6e" CHECKSUMTYPE="MD5" SIZE="3488661">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00033_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00032_1" MIMETYPE="text/xml" CHECKSUM="81bf08dbcd24b6b14c85fe626730f9a9" CHECKSUMTYPE="MD5" SIZE="93256">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00032_1.xml"/>
+      </file>
+      <file ID="alto_00033_0" MIMETYPE="text/xml" CHECKSUM="078e7730205072ce2c60e8717621c73a" CHECKSUMTYPE="MD5" SIZE="212913">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00033_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0039" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="63" firstpage="62">
+              <court pgmap="64" id="b64-13">Circuit Court, D. Rhode Island.</court>
+              <docketnumber pgmap="64" id="b64-10">Case No. 7,048.</docketnumber>
+              <citation pgmap="64" id="b64-12">[2 Gall. 315.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="64" id="b64-11">INMAN v. BARNES.</parties>
+              <decisiondate pgmap="64" id="A4D">Nov. Term, 1814.</decisiondate>
+              <attorneys pgmap="64" id="b64-24">Bridgham &amp; Searle, for demandant</attorneys>
+              <attorneys pgmap="64" id="b64-25">Bowen &amp;.Burrill, for tenants.</attorneys>
+              <footnote label="1">
+                <p pgmap="64" id="b64-22">1 [Reported by John Gallison, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="64" id="b64-26">STORY, Circuit Justice.</author>
+                <p pgmap="64(321) 65(182)" id="Ag9">Without enter­ing into any consideration of the accuracy of the pleadings .in this case (respecting which I wish distinctly to be understood as giving no opinion) I shall proceed to the only question, which has been argued by the parties, viz. whether twenty years’ posses­sion, under the statute, be a good bar to an action of formedon in descender, the said term having run against a former tenant in tail before the descent cast. At least as early as the year 1700, if not before, the statutes of limitations of 32 Hen. VIII. c. 2, and of 21 Jac. I. c. 16, were adopted in the colony of Rhode Island (see Act April 30, 1700), and in 1749 they were formally de­clared to be the law of the land, and have ever since continued in fo^ce within that colony and state. See Colony Laws 1749, 1700, 1766, p. 55. and also Digest of the Laws in 179S, p. 78. The act for quieting posses­sions and avoiding suits at law (Rhode Is­land Acts Dig. 179S, p. 405) was first passed in 1711, without the proviso set forth in the replication, and that proviso was added in 172S; and in the revision in 1700, the whole was moulded into one act, in the shape it now assumes in the printed statute. All these statutes, therefore, may be considered as having a concurrent existence and opera­tion for nearly a century. The second sec­tion of the act, stated in the bar, provides, “That where any person or persons, or oth­ers, from whom he or they derive their titles, either by themselves, tenants, or lessees, shall have been, for the space of twenty years, in the uninterrupted, quiet, peaceable and actual seisin and possession; of any lands, tenements or hereditaments within this state, for and during the said timé?, claiming the same as his, her or their proís­er, sole and rightful estate in fee-simple, such actual seisin and possession shall he allowed to give and make a good and rightful title to such person or persons, their heirs or assigns forever. And this act being plead­ed in bar to any action, that shall hereafter be brought for such lands, tenements and hereditaments, and such actual seisin and possession being duly proved, shall be al­lowed to be good, valid and effectual in the law for barring the same.” And the pro­viso stated in the replication is as follows, “Provided further, that nothing above con­tained shall extend, or be construed, or ■deemed to extend, to bar any person or per­sons having any estate in reversion or re­mainder expectant or depending in any lands, tenements or hereditaments, after the ■end or determination of the estate for years, life, or lives, such person or persons pursu­ing his or their title, by due course of law, within ten years after his or their right of action shall accrue, any thing in this act to the contrary notwithstanding.”</p>
+                <p pgmap="65" id="b65-4">It has been argued by the demandant’s counsel, that actions of formedon are not within the purview of the statute of pos­session, inasmuch as the limitation of those actions is expressly provided for by the stat­ute of 21 Jac. I. c. 10; and if construed to ap­ply to the same actions, they would be re­pugnant to each other. But it seems to me, that the statutes may well stand to­gether. The statute of James regulates and limits the time, within which actions of formedon may be brought, and therefore simply operates by way of bar to the rem­edy of the demandant. The statute of pos­session, on the other hand, makes twenty years’ seisin and possession, under a claim of title in fee, in favor of parties and priv­ies, a good and rightful title in fee forevefi; and therefore it operates as a bar of the right of every other party. In this respect, it is like the statute of 4 Hen. VII., of fines. The statutes are therefore made diverso in-­tuitu, and the one may take effect, as a bar to the remedy, without the other’s attach­ing as a bar to the right. If, for instance, the party entitled shall omit to bring his formedon within the twenty years limited-­by the statute of limitations, he is barred of his action; and the tenant may well plead it in his defence. But. although the twenty years have elapsed, yet the tenant cannot plead the statute of possession in his de-­fence, unless he has held, or claims under those who have held, the seisin and posses­sion during the same time, as tenants in fee. The argument also involves this further diffi­culty, that if it be well founded, it equally applies to the actions limited by the statute of 32 Hen. VIII. c. 2; and then it would fol­low, in effect, that neither writs of right, nor writs of entry, nor indeed any real actions in modern use touching the fee, were within the purview of the statute of possession. But the language of the act itself is decisive against this argument, for it expressly de­clares, that such seisin and possession shall be a good, valid and effectual bar ‘‘to any action that shall thereafter be brought for such lands, tenements or hereditaments.” Were it otherwise, I am not aware how it would help the demandant’s case; for, at all events, he would, upon the -facts alleged in the plea, be barred by the statute of James, for the present action was not brought until more than twenty years had elapsed after the right of the former tenant in tail to an action for the ouster had first accrued. And I take it to be well settled, that if the time limited has once run against any tenant in tail, it is a good bar not only against him, but also against all persons claiming in the descent per formam doni through him. 3 Cruise, Dig. 541; Dow v. Warren, 6 Mass. 328.</p>
+                <p pgmap="65" id="b65-6">We are now led to the second point made by the demandant’s counsel, which is, that if actions of formedon be within the statute of possession, the present action is saved by the proviso. It is a rule applica­ble to this, as well as other statutes limit­ing or barring rights, that a party, who would extract himself from the enacting clause by any proviso, must bring his case strictly within the exceptions. It is plain that a formedon in descender is not within the letter of the proviso. That applies mere­ly to persons entitled to reversions or re­mainders expectant upon estates for life or years. In the case at bar, the tenant in tail, claiming in the descent, is neither a re-­versioner nor a remainder-man, whose estate is expectant upon any particular estate.— It not being within the letter, I know of no principle, which would authorize the court to construe it within the equity of the pro­viso. My judgment therefore is, that the plea in bar is good, and that the replication contains no matter sufficient in law to avoid it. Replication adjudged bad.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="64" ORDERLABEL="62" TYPE="page">
+        <fptr FILEID="tiff_00032_1"/>
+        <fptr FILEID="jp2_00032_1"/>
+        <fptr FILEID="alto_00032_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_64.6" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="65" ORDERLABEL="63" TYPE="page">
+        <fptr FILEID="tiff_00033_0"/>
+        <fptr FILEID="jp2_00033_0"/>
+        <fptr FILEID="alto_00033_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_65.3" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-26" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.32" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-25" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.31" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-24" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.30" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-22" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.35" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-13" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.19" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-6" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.7" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b65-4" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_65.5" BETYPE="IDREF" FILEID="alto_00033_0"/>
+            <area BEGIN="BL_65.6" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ag9" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.33" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            <area BEGIN="BL_64.34" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            <area BEGIN="BL_65.1" BETYPE="IDREF" FILEID="alto_00033_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-12" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.18" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4D" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.20" BETYPE="IDREF" FILEID="alto_00032_1"/>
+            <area BEGIN="BL_64.21" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-10" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.16" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b64-11" BETYPE="IDREF" FILEID="casebody_0039"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_64.17" BETYPE="IDREF" FILEID="alto_00032_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

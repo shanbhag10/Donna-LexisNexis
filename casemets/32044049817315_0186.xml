@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0186" publicationstatus="published">
+          <court abbreviation="E.D. Mich." jurisdiction="United States">United States District Court for the Eastern District of Michigan</court>
+          <name abbreviation="The James D. Parker">The JAMES D. PARKER</name>
+          <docketnumber>Case No. 7,193</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 330</citation>
+          <citation category="parallel" type="bluebook">23 Int. Rev. Rec. (1877) 66; 2 Mich. Lawy. 14</citation>
+          <decisiondate>1879</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00166_1" MIMETYPE="image/tiff" CHECKSUM="f7384533f2fdcce69a2b9c200b9563fa" CHECKSUMTYPE="MD5" SIZE="64764">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00166_1.tif"/>
+      </file>
+      <file ID="tiff_00167_0" MIMETYPE="image/tiff" CHECKSUM="6df86dda7aee7751c1ac42ff9505977b" CHECKSUMTYPE="MD5" SIZE="89406">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00167_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00166_1" MIMETYPE="image/jp2" CHECKSUM="a95c5be62e4d8c061b9098efa8fabe7a" CHECKSUMTYPE="MD5" SIZE="2652761">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00166_1.jp2"/>
+      </file>
+      <file ID="jp2_00167_0" MIMETYPE="image/jp2" CHECKSUM="291726b1a3a0bdc7d3b70540994075a2" CHECKSUMTYPE="MD5" SIZE="3516113">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00167_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00166_1" MIMETYPE="text/xml" CHECKSUM="33639e83ed294a33822ad05bc45f3291" CHECKSUMTYPE="MD5" SIZE="137828">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00166_1.xml"/>
+      </file>
+      <file ID="alto_00167_0" MIMETYPE="text/xml" CHECKSUM="20f9b177ce7f2830db82d6773875de16" CHECKSUMTYPE="MD5" SIZE="193734">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00167_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0186" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="331" firstpage="330">
+              <court pgmap="332" id="A2N">District Court, E. D. Michigan.</court>
+              <docketnumber pgmap="332" id="b332-6">Case No. 7,193.</docketnumber>
+              <citation pgmap="332" id="ABM">[23 Int. Rev. Rec. (1877) 66; 2 Mich. Lawy. 14.]</citation>
+              <parties pgmap="332" id="ASK">The JAMES D. PARKER.</parties>
+              <attorneys pgmap="332" id="b332-13">W. W. Murray, Dist. Atty., for the United States.</attorneys>
+              <attorneys pgmap="332" id="b332-14">Mr. Warriner, for claimants.</attorneys>
+              <opinion type="majority">
+                <author pgmap="332" id="b332-15">BROWN, District Judge.</author>
+                <p pgmap="332(241) 333(267)" id="AlZ">Upon the argu­ment it was insisted that the government had no right to institute a proceeding in rem. for the recovery of the penalty pro­vided for the violation of section 4 of the act of Feb. 28,-1871. No exception was taken, to the information upon that ground, but as the objection involved the jurisdiction of the court, and as the district attorney did not insist upon the failure of the claimant to put the objection upon record, I think it may, with propriety, be considered in this, opinion. The clause upon which the infor­mation is based provides that “refined pe­troleum which will not ignite at a tempera­ture of less than 110 deg. of Fahrenheit ther­mometer may be carried on board such steamers upon routes where there is no oth­er practical mode of transporting it. and under such regulations as shall be prescribed by the board of supervising inspectors, with the approval of the secretary of the treas­ury.” An earlier clause of the section for­bids the carrying of crude or refined pe­troleum or any other like explosive burning fluids as freight or used as stores on any steamer carrying passengers. Section 4 it­self contains no penal clause, but it is in­sisted by the district attorney that under section 1 the owner was subject to a for­feiture of five hundred dollars, for which amount the steamboat was liable. This sec­tion provides that “no license, register or enrolment shall he granted, or other papers' issued, by any collector or other chief of-' ficer of the customs, to any vessel propelled in whole or in part by steam until he shall have satisfactory evidence that all the pro­visions of this act have been fully complied with; and if any such vessel shall be navi­gated without complying with the terms of this act, the owner or owners thereof shall forfeit and pay,” etc., “for which sum the steamboat or vessel so engaged shall be li­able, and may be seized,” etc. Section 68 provides that the penalty for the violation of any provision of this act not otherwise provided for shall be a fine of five hundred dollars. The act is entitled “An act to pro­vide for the better security of life on board of vessels propelled in whole or in part by steam, and for other purposes;” and its main object is to require that steamboats carry­ing passengers shall be provided with the proper equipments for the preservation of life and property in case of disaster. The obvious import of the 1st section is that no enrolment shall be granted by the collector to any steamboat until he shall have satis­factory evidence that such vessel is provided with the proper pipes, fire pumps, hose, life boats, buckets, axes, etc., required by the terms of the act, and if any such vessel shall be navigated without complying with these terms the forfeiture shall be incurred, for which a proceeding in rem. may be taken.</p>
+                <p pgmap="333" id="b333-3">The provision in question has received ju­dicial construction in but one case, viz., U. S. v. The C. B. Church [Case No. 14,762], in which the same construction was given to this section, and it was held that the penalty for a violation of the fourth sec­tion could not be recovered by a proceeding in rem., an action of debt against the of­fending parties being the proper remedy. I fully concur in this opinion, and deem an ex­tended argument unnecessary, as it would be a mere repetition of the opinion of the learned judge in that ease. Section 1 evi­dently points to affirmative acts, “compli-­ances” with the law, something to be done by the owner, and not to a prohibition of the carrying of dangerous articles. It is the failure to provide and keep on board the ap­pliances which are made by law, conditioned and preliminary to' the issuing of the en-­rolment and license, which this section is designed to reach. It provides a penalty for the omission of statutory duty, not for the commission of a positive offence. Section 68 establishes the penalty for a violation of the provision in question, and the personal ac­tion is the only remedy. But it is further claimed, by the government that the recital of the date of the act is immaterial, and that the action may be sustained under sec­tion 4472 of the Revised Statutes, a sub­stantial re-enactment of section 4 of the act of 1S71, and section 4499, which provides that “if any steam vessel be navigated with­out complying with the terms of the title-, the owner shall be liable in a penalty of five hundred dollars, for which the vessel may be seized.” This and the preceding section are substantial re-enactments of the first section of the earlier act. The transporta­tion, however, is alleged to have'occurred in April, 1874, while the Revised Statutes were not enacted until June 22, 1874. It is true that section 5596 repeals all acts passed prior to Dec. 1, 1S73, any portion of which is em­braced in the revision, and that section 5601 provides that the enactment of the revision is not to effect the repeal of any act passed after Dec. 1, 1873, but as the Revised Stat­utes themselves were not enacted until June, no proceeding under them prior to that date can be sustained, without giving the revision a retroactive effect. Section 5598 provides that all offences committed and all penalties incurred prior to the repeal, may be prose­cuted and punished in the same manner, and with the same effect, as if the repeal had not been made, and as the Revised Stat­utes did not take effect as a repealing act until June 22, 1874, the law of 1871 was still in force when this offence was committed. As before observed under that statute, this action cannot be sustained.</p>
+                <p pgmap="333" id="b333-6">An order will be entered dismissing the information.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="332" ORDERLABEL="330" TYPE="page">
+        <fptr FILEID="tiff_00166_1"/>
+        <fptr FILEID="jp2_00166_1"/>
+        <fptr FILEID="alto_00166_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_332.5" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="333" ORDERLABEL="331" TYPE="page">
+        <fptr FILEID="tiff_00167_0"/>
+        <fptr FILEID="jp2_00167_0"/>
+        <fptr FILEID="alto_00167_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_333.3" BETYPE="IDREF" FILEID="alto_00167_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASK" BETYPE="IDREF" FILEID="casebody_0186"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.8" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-13" BETYPE="IDREF" FILEID="casebody_0186"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.15" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2N" BETYPE="IDREF" FILEID="casebody_0186"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.10" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-15" BETYPE="IDREF" FILEID="casebody_0186"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.17" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-14" BETYPE="IDREF" FILEID="casebody_0186"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.16" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlZ" BETYPE="IDREF" FILEID="casebody_0186"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.18" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            <area BEGIN="BL_332.19" BETYPE="IDREF" FILEID="alto_00166_1"/>
+            <area BEGIN="BL_333.1" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABM" BETYPE="IDREF" FILEID="casebody_0186"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.9" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-3" BETYPE="IDREF" FILEID="casebody_0186"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.5" BETYPE="IDREF" FILEID="alto_00167_0"/>
+            <area BEGIN="BL_333.6" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b333-6" BETYPE="IDREF" FILEID="casebody_0186"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_333.7" BETYPE="IDREF" FILEID="alto_00167_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b332-6" BETYPE="IDREF" FILEID="casebody_0186"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_332.7" BETYPE="IDREF" FILEID="alto_00166_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

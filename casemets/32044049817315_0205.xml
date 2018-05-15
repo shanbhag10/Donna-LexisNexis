@@ -1,0 +1,307 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0205" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="In re Janney">In re JANNEY</name>
+          <docketnumber>Case No. 7,209</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 349</citation>
+          <citation category="parallel" type="bluebook">1 MacA. Pat. Cas. 86</citation>
+          <decisiondate>1847-12-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00176_0" MIMETYPE="image/tiff" CHECKSUM="ff8ee0b2eed97247a38c3863961951f8" CHECKSUMTYPE="MD5" SIZE="27410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00176_0.tif"/>
+      </file>
+      <file ID="tiff_00176_1" MIMETYPE="image/tiff" CHECKSUM="9b27763d0d61ae323d52cc5aba78131b" CHECKSUMTYPE="MD5" SIZE="89500">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00176_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00176_0" MIMETYPE="image/jp2" CHECKSUM="9268fb9fa89b7300056edde4063ed90a" CHECKSUMTYPE="MD5" SIZE="2025433">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00176_0.jp2"/>
+      </file>
+      <file ID="jp2_00176_1" MIMETYPE="image/jp2" CHECKSUM="63f7cf4c956f9b53b3f649cd9754987a" CHECKSUMTYPE="MD5" SIZE="3354681">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00176_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00176_0" MIMETYPE="text/xml" CHECKSUM="bb800c0d37854413ce3b71c55991bcc8" CHECKSUMTYPE="MD5" SIZE="51877">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00176_0.xml"/>
+      </file>
+      <file ID="alto_00176_1" MIMETYPE="text/xml" CHECKSUM="61e3430d11e4127a7b47f1bdb998d1e0" CHECKSUMTYPE="MD5" SIZE="200818">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00176_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0205" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="350" firstpage="349">
+              <court pgmap="351" id="An-">Circuit Court, District of Columbia.</court>
+              <docketnumber pgmap="351" id="b351-4">Case No. 7,209.</docketnumber>
+              <citation pgmap="351" id="AlVz">[1 MacA. Pat. Cas. 86;</citation>
+              <parties pgmap="351" id="Amq0">In re JANNEY.</parties>
+              <decisiondate pgmap="351" id="AqQd">Dec. 13, 1847.</decisiondate>
+              <attorneys pgmap="351" id="b351-25">J. J. Greenough, for appellant.</attorneys>
+              <attorneys pgmap="351" id="b351-26">W. P. N. Fitzgerald, for commissioner.</attorneys>
+              <p pgmap="351" id="AYO-">Cranch, Pat. Dec. 143.]</p>
+              <opinion type="majority">
+                <author pgmap="351" id="b351-27">CRANCH, Chief Judge.</author>
+                <p pgmap="351(141) 352(53)" id="AQE">The last applica­tion for a patent was made on the 27th of October, ÍS47. some small amendment hav­ing been made in the specification not af­fecting the merits of the claim, so that it was, in effect, an application to the present com­missioner to revise and revoke the two de­cisions made by Mr. Ellsworth, the former commissioner. His refusal so to revise and revoke these decisions is not a ground of appeal under the acts of 1836 and 1839. The act of 1839 gives the right of appeal to the judge only in cases where an appeal was by the previous act allowed from the de­cision of the commissioner to a board of examiners, and then only when a patent was refused. In the present case he has not refused a patent. He decides only that he will not examine the merits of the. claim, which has been twice rejected after a full examination by his predecessor in office. This refusal was not a ground for appeal to examiners under the seventh section of the act of 1836, and therefore is not a ground of appeal to the judge.</p>
+                <p pgmap="352" id="b352-3">Having no jurisdiction of such an appeal, it is not for me to say whether the refusal under the circumstances of the case was right or wrong. There is no limit of time as to the appeal, and I do not perceive any rea­son why Mr. Janney may not now appeal from the decision of Mr. Ellsworth, and have the merits -of his invention decided. I un­derstand the merits of both applications are alike. Having no jurisdiction of this appeal, I suppose it must be considered as dismissed.-</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="351" ORDERLABEL="349" TYPE="page">
+        <fptr FILEID="tiff_00176_0"/>
+        <fptr FILEID="jp2_00176_0"/>
+        <fptr FILEID="alto_00176_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_351.4" BETYPE="IDREF" FILEID="alto_00176_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="352" ORDERLABEL="350" TYPE="page">
+        <fptr FILEID="tiff_00176_1"/>
+        <fptr FILEID="jp2_00176_1"/>
+        <fptr FILEID="alto_00176_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_352.4" BETYPE="IDREF" FILEID="alto_00176_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b351-27" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.32" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Amq0" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.8" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b351-26" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.31" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b351-25" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.30" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQE" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.33" BETYPE="IDREF" FILEID="alto_00176_0"/>
+            <area BEGIN="BL_351.34" BETYPE="IDREF" FILEID="alto_00176_0"/>
+            <area BEGIN="BL_352.1" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqQd" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.12" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b352-3" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_352.5" BETYPE="IDREF" FILEID="alto_00176_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYO-" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.10" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b351-4" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.7" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlVz" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.9" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="An-" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_351.11" BETYPE="IDREF" FILEID="alto_00176_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

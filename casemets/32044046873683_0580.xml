@@ -1,0 +1,389 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0580" publicationstatus="published">
+          <court abbreviation="D. Wis." jurisdiction="United States">United States District Court for the District of Wisconsin</court>
+          <name abbreviation="The Favorite">The FAVORITE</name>
+          <docketnumber>Case No. 4,696</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1101</citation>
+          <citation category="parallel" type="bluebook">1 Biss. 525</citation>
+          <decisiondate>1866-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00552_0" MIMETYPE="image/tiff" CHECKSUM="e6707f9b0bfd49d00f827ddf5b3b6d16" CHECKSUMTYPE="MD5" SIZE="76034">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00552_0.tif"/>
+      </file>
+      <file ID="tiff_00552_1" MIMETYPE="image/tiff" CHECKSUM="3e372c82c30cb815bc89a4e8712b3a64" CHECKSUMTYPE="MD5" SIZE="106082">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00552_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00552_0" MIMETYPE="image/jp2" CHECKSUM="7005e27dacbe2a8f1b9cea9df6104367" CHECKSUMTYPE="MD5" SIZE="2941107">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00552_0.jp2"/>
+      </file>
+      <file ID="jp2_00552_1" MIMETYPE="image/jp2" CHECKSUM="5d2e0b11ba9bd1bf6d1aa8352685dd5c" CHECKSUMTYPE="MD5" SIZE="3687196">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00552_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00552_0" MIMETYPE="text/xml" CHECKSUM="df527179d8ca599994d53b2aeeb1714c" CHECKSUMTYPE="MD5" SIZE="159422">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00552_0.xml"/>
+      </file>
+      <file ID="alto_00552_1" MIMETYPE="text/xml" CHECKSUM="a700b67ab9b409977d57d18f6c33e4e8" CHECKSUMTYPE="MD5" SIZE="225833">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00552_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0580" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1102" firstpage="1101">
+              <court id="b1103-12" pgmap="1103">District Court, D. Wisconsin.</court>
+              <docketnumber id="b1103-9" pgmap="1103">Case No. 4,696.</docketnumber>
+              <citation id="b1103-11" pgmap="1103">[1 Biss. 525.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1103-10" pgmap="1103">The FAVORITE.</parties>
+              <decisiondate id="AAVR" pgmap="1103">Sept. Term, 1866.</decisiondate>
+              <attorneys id="b1103-22" pgmap="1103">E. Mariner, for libellants.</attorneys>
+              <attorneys id="b1103-23" pgmap="1103">J. W. Cary, for respondent</attorneys>
+              <footnote label="1">
+                <p id="b1103-25" pgmap="1103">1 [Reported by Josiah H. Bissell, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1103-24" pgmap="1103">MIDLER, District Judge.</author>
+                <p id="Abts" pgmap="1103(116) 1104(57)">Prior to the 23d of October, 1862, libellants were partners, do­ing business in Milwaukee. D. It. Reynolds bad been engaged in business as a dealer in grain, buying in St. Paul, and consigning and shipping to libellants at Milwaukee, transmit­ting bills of lading, and drawing on them. Being the owner of four hundred and twenty sacks of wheat of the value of one thousand and seventy-five dollars, on the aforesaid day, at St. Paul, in the state of Minnesota, they made a contract with the captain of the steam­boat Favorite,- to carry on board from that port to La Crosse, on the Mississippi river, the said bags of wheat, and there to deliver them to an agent of the La Crosse and Mil­waukee Railroad Company, to be forwarded to libellants in Milwaukee. The wheat was delivered to the captain of the boat, who gave to the shipper bills of lading. Reynolds transmitted one of the bills to libellants, and drew on them for one thousand dollars, which they paid.</p>
+                <p id="b1104-3" pgmap="1104">The wheat was not put on board the steam­er, but on a barge; and the steamer having the barge in tow, encountered rough weather on Lake Pepin, which caused the barge to sink. The loss was a total loss; and it is alleged that the boat is liable, as the carrier did not, in the bill of lading, reserve the right to lighter, or convey on barges. Subsequent shipments by Reynolds to libellants reduced the balance against him to about eight hun­dred and seventy-five .dollars on the first .of November, 1862. The loss occurred on the 27th day of October, of that year, and this libel was brought August 18th, 1865.</p>
+                <p id="b1104-4" pgmap="1104">It is pleaded in the answer, that the said D. R. Reynolds, in the month of December, 1862, for a valuable consideration, assigned and transferred all his interest in the wheat, and all his claim of damages for its loss, to J. S. Reynolds, who, in April, 1863, com­menced a suit by attachment in his own name, against the steamboat Favorite, in a court of the state of Minnesota, under the laws of that state, and that said cause is pending. The record of that suit shows that the boat had been discharged upon bail, ac­cording to the state law.</p>
+                <p id="b1104-5" pgmap="1104">It is' unnecessary to enter upon the subject of libellants’ right to bring this libel, as con­signees of the wheat, until that matter of the answer is disposed of. This libel is' brought upon the bill of lading forwarded to libellants. The -attachment suit is founded on the bill retained by the shipper.</p>
+                <p id="b1104-6" pgmap="1104">• The lien created by the shipment and loss of goods, is not in any manner a lien of rec­ord, or by possession. Admiralty or marine contracts do. not create an indefeasible lien on the ship. Such lien vests no absolute, in­defeasible interest in the ship or vessel. There is no statute of limitations in regard to such contracts, nor any fixed time for liens to expire. Demands against boats or vessels should not be delayed, as they may become inequitable. The preferred lien of seamen is not to be delayed after the termination of the voyage on the high seas, unless proceedings against the vessel have been interrupted by her sudden departure, or by some fraud or de­vice. Courts of admiralty are chancery courts for the seas, and dispose of marine demands against vessels upon principles of equity. And it is considered inequitable to enforce outstanding claims, to the embarrassment of commerce, and to the prejudice of other cred­itors, or subsequent bona fide purchasers of vessels. Such claims or demands are charges in rem, having priority to contracts on shore, and are to be seasonably enforced, or else great fraud may be worked on the communi­ty. See Fland. Shipp, pp. 340, 341, and note. Marine contracts become stale and void by omission to enforce them within a reason­able time. Delay amounts to a waiver in favor of other creditors. A claim arising up­on a contract of affreightment is not a pre­ferred hen in admiralty. It is secondary'to seamen’s wages, or bottomry bonds; hence the greater necessity for prompt proceedings in rem. The holder of a bottomry bond, hav­ing suffered the ship to make several voyages, without asserting his lien, executions being levied upon the ship by other creditors, loses his lien as against those executions, which were served prior to the monition issued upon the libel brought to enforce the collection of the bond. Blaine v. The Charles Carter, 4 Cranch [8 U. S.] 328.</p>
+                <p id="b1104-9" pgmap="1104">Libellants delayed proceedings upon their alleged claim, from October, 1862, to August, 1865, — two years and ten months. There should be no condemnation of the boat, under the circumstances, on this libel, after this long delay — and subsequent shipments between the parties reducing the claim of libellants. This libel is subsequent to the attachment suit, and is not entitled to be preferred on the principle that libellants became first the as­signees of the bill of lading upon which they made advances.</p>
+                <p id="b1104-10" pgmap="1104">It is contended, that the release of the bond from the attachment, by the sheriff upon bail, according to the law of the state of Minneso­ta, should open the way for the service of the monition in this case. Whether the boat was discharged from all further arrest on the part of plaintiff in the case, or of the sureties to the sheriff’s bond, is not to be here deter­mined. Those sureties have a right to look to the boat for their indemnity, and probably they may hold some written security or pledge to that effect</p>
+                <p id="b1104-11" pgmap="1104">When the property is delivered on bond, it is too much to contend, that the rights of the court over it can be increased or diminished by that circumstance. Every person so bail­ing the property is considered as holding it subject to all legal dispositions of the court. Rex v. Holland, 4 Term R. 457; The Harmony [Case No. 6,081]; Newell v. Norton, 3 Wall. [70 U. S.] 257-266.</p>
+                <p id="b1104-12" pgmap="1104">Suffice it, that libellants having delayed proceedings in rem for two years and ten months, and until a bona fide assignee of the shipper’s bill of lading had seized the boat in a lawful proceeding, this libel must be dis­missed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1103" ORDERLABEL="1101" TYPE="page">
+        <fptr FILEID="tiff_00552_0"/>
+        <fptr FILEID="jp2_00552_0"/>
+        <fptr FILEID="alto_00552_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1103.5" BETYPE="IDREF" FILEID="alto_00552_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1104" ORDERLABEL="1102" TYPE="page">
+        <fptr FILEID="tiff_00552_1"/>
+        <fptr FILEID="jp2_00552_1"/>
+        <fptr FILEID="alto_00552_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1104.5" BETYPE="IDREF" FILEID="alto_00552_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-25" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.31" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1104-12" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1104.14" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-22" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.26" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-10" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.12" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-11" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.13" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-12" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.14" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Abts" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.29" BETYPE="IDREF" FILEID="alto_00552_0"/>
+            <area BEGIN="BL_1103.30" BETYPE="IDREF" FILEID="alto_00552_0"/>
+            <area BEGIN="BL_1104.2" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1104-3" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1104.6" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1104-5" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1104.8" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1104-4" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1104.7" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1104-9" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1104.11" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1104-6" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1104.9" BETYPE="IDREF" FILEID="alto_00552_1"/>
+            <area BEGIN="BL_1104.10" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-23" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.27" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1104-10" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1104.12" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-9" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.11" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1104-11" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1104.13" BETYPE="IDREF" FILEID="alto_00552_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAVR" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.15" BETYPE="IDREF" FILEID="alto_00552_0"/>
+            <area BEGIN="BL_1103.16" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1103-24" BETYPE="IDREF" FILEID="casebody_0580"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1103.28" BETYPE="IDREF" FILEID="alto_00552_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

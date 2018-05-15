@@ -1,0 +1,445 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0096" publicationstatus="published">
+          <court abbreviation="E.D.N.Y." jurisdiction="United States">United States District Court for the Eastern District of New York</court>
+          <name abbreviation="Dyer v. National Steamship Co.">DYER et al. v. NATIONAL STEAMSHIP CO.</name>
+          <docketnumber>Case No. 4,226</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 213</citation>
+          <citation category="parallel" type="bluebook">7 Ben. 395</citation>
+          <decisiondate>1874-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00108_0" MIMETYPE="image/tiff" CHECKSUM="32d089c572ba8a08b5f8406288549623" CHECKSUMTYPE="MD5" SIZE="60064">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00108_0.tif"/>
+      </file>
+      <file ID="tiff_00108_1" MIMETYPE="image/tiff" CHECKSUM="9e5243b486ad84c7cf7f7328bd06d134" CHECKSUMTYPE="MD5" SIZE="86528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00108_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00108_0" MIMETYPE="image/jp2" CHECKSUM="b509850447513ffd71f8aea5cb3395ba" CHECKSUMTYPE="MD5" SIZE="2898609">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00108_0.jp2"/>
+      </file>
+      <file ID="jp2_00108_1" MIMETYPE="image/jp2" CHECKSUM="9f42501b0e5f628a1ed05e848d1f63dd" CHECKSUMTYPE="MD5" SIZE="3187896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00108_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00108_0" MIMETYPE="text/xml" CHECKSUM="97609d46be9f71c6bf7fb4415e6401bf" CHECKSUMTYPE="MD5" SIZE="129882">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00108_0.xml"/>
+      </file>
+      <file ID="alto_00108_1" MIMETYPE="text/xml" CHECKSUM="df28ba03a90cb372c348d098fe6abdc0" CHECKSUMTYPE="MD5" SIZE="191788">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00108_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0096" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="214" firstpage="213">
+              <court id="b215-9" pgmap="215">District Court, E. D. New York.</court>
+              <docketnumber id="b215-6" pgmap="215">Case No. 4,226.</docketnumber>
+              <citation id="b215-8" pgmap="215">[7 Ben. 395.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b215-7" pgmap="215">DYER et al. v. NATIONAL STEAMSHIP CO.</parties>
+              <decisiondate id="ABT" pgmap="215">July, 1874.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys id="b215-16" pgmap="215">Scudder &amp; Carter, R. D. Benedict, and W. G. Choate, for libellants.</attorneys>
+              <attorneys id="b215-17" pgmap="215">John Chetwood and T. C. Stillman, for respondents.</attorneys>
+              <footnote label="1">
+                <p id="b215-14" pgmap="215">1 [Reported by Robert D. Benedict. Esq., and B. Lincoln Benedict. Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="b215-15" pgmap="215">2 [Modified and affirmed in Case No. 4,223.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b215-18" pgmap="215">BENEDICT, District Judge.</author>
+                <p id="AGd" pgmap="215">This action was instituted to -recover of the owner of the steamship Scotland, the amount of dam­ages caused by the sinking of the ship Kate Dyer by the steamer Scotland, in a collision which occurred near the entrance of New York harbor. At the hearing upon the ques­tion of liability, an interlocutory decree was rendered — directing that the • libellants re­cover of the owners of the Scotland, the amount of damages by them sustained by reason of the collision in the pleadings men­tioned, and a reference to a commissioner was directed to ascertain and report the amount of such damages. [See Case No. 4,224.]</p>
+                <p id="b215-19" pgmap="215">Pending the reference, the commissioner died, and by order of court the hearing of the case upon the question of damages was thereupon directed to be continued before the court</p>
+                <p id="b215-20" pgmap="215">Under that order, the hearing of the case has been continued before the court upon the question of damages, — the evidence taken be­fore the commissioner being by consent read as evidence taken in court.</p>
+                <p id="b215-21" pgmap="215">In this manner the case has, during the present month, been presented to me to de­termine the amount of the damages which the libellants sustained by the collision re­ferred to.</p>
+                <p id="b215-22" pgmap="215">The evidence shows a total loss of the ship Kate Dyer and her cargo, by reason of the collision in question. The owners of the ship, the libellants, are entitled therefore to recover her value at the time and place of loss. Upon this item, the testimony of the master appears to me to afford the best evidence in the case by which to determine the value of the ship, at the time and place of loss, and upon that testimony I determine the loss sustained by the owners of the ship to be $56,000, on which sum interest at 6# from the date of the collision to the date of the final decree herein is also allowed them.</p>
+                <p id="b215-23" pgmap="215">The evidence shows damages sustained by one Henry H. Rollins, who is also a co-libel-­lant, in the loss of his personal effects on board the ship at the time of the collision, including $5,000 in gold coin. The testimony fixes the value of this property in currency at $7,625. No objection is made to this amount, and the decree will accordingly award him that sum with interest @ 6# from the date of the collision to the date of the final decree.</p>
+                <p id="b215-24" pgmap="215(56) 216(123)">The republic of Peru is also a co-libellant, and has been decreed to be entitled to re­cover for the cargo of the vessel, which was wholly lost with the ship. This cargo con­sisted of 1,668 tons of Peruvian guano, be­longing to the Peruvian government, at the time of the collision being transported from tlie Chincha islands via Callao to New York. The imano deposit on the Chincha islands (exhausted since the commencement of this action) belonged to the government of Peru. That government exported the guano to for­eign countries, and there sold it for account of the government Its exportation by any other parties was prohibited, and it was not bought and sold in Peru as an article of commerce. What was there used was given to the Peruvian subjects who might go to the islands, and dig it, to be used in Peru alone. Some of the little so given away was sold in Peru at $12 00 a ton, in gold, but sub­ject to the above stated limitations as to its use.</p>
+                <p id="b216-4" pgmap="216">The cargo in question, if it had arrived in New York, would there have sold for $60 00 a ton, gold. When destroyed it was very near to, but not within, the harbor of New York. Upon this state of facts, the government of Peru claims to be entitled to recover the value of this cargo at the time and place of loss; and it is contended that, upon the evidence, the only proper mode of ascertain­ing that value is to take the market price of the article in New York, less all costs and charges that would have been incurred from the time of the loss till it could have been placed in New York ready for sale.</p>
+                <p id="b216-5" pgmap="216">The claimants contend that the value of the cargo to the Peruvian government must be taken to be simply the cost of preparing the guano for shipment, and charges incident to shipment, according to which method the Peruvian government would recover $1,-­424 20 for the loss of this cargo.</p>
+                <p id="b216-6" pgmap="216">As between these two positions, my judg­ment is with the libellants. It is not nec­essary, in order to support this determina­tion, to discuss the correctness and justice of the result which has been sometimes ar­rived at by the application of the rule which gives to the owner of cargo damaged by collision the market value of his goods at the place of shipment as a complete indem­nity for his loss. While it may be conceded that experience has shown this rule to be the best one that can be resorted to in most cases, I do not understand that, as matter of law, the rule is always to be applied. The principle of indemnity to the extent of the loss sustained is the unquestioned law of every case; and to this higher law every rule of convenience must be subject, not excepting the one here sought to be applied by the respondents. The result Of the ap­plication of such a rule to the present case indicates at once that no principle of justice will permit its adoption here. Resort to. it is in truth impossible here, for it is based upon the existence, at the place of shipment, of the market price for the merchandise lost. But there never was a market price for guano at the Chincha islands.</p>
+                <p id="b216-7" pgmap="216">The article, owing to peculiar circum­stances. had neither market price nor ascer­tainable cost at the place of shipment.</p>
+                <p id="b216-8" pgmap="216">Yet it was then an article of value; and-­this particular cargo of it on board the ship. Kate Dyer, at the time and place when it was destroyed, could have been exchanged for gold at a large price and without diffi­culty. The facts then forbidding resort to a market price of this cargo at the place of' shipment, by which to determine the value, it becomes necessary to- find some other method whereby to ascertain its value at tha time and place of loss. No other method seems more likely to work out the desired result than to take the market price of such guano at the near and controlling market of New York, whither the cargo was bound, and where, at the time of destruction, it could have been sold to arrive. The value of the cargo, calculated at this price, less tile costs and charges, will represent with much accuracy the real loss sustained by its owners in its destruction.</p>
+                <p id="b216-9" pgmap="216">The items of costs and charges properly to-­be deducted in a calculation thus based appear not to be in dispute; nor is there any dispute in respect to the freight I, there­fore, leave to the parties the computation of the amounts, in accordance with the views here expressed, with leave to settle the de­cree before me, if any dispute arises.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="215" ORDERLABEL="213" TYPE="page">
+        <fptr FILEID="tiff_00108_0"/>
+        <fptr FILEID="jp2_00108_0"/>
+        <fptr FILEID="alto_00108_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_215.5" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="216" ORDERLABEL="214" TYPE="page">
+        <fptr FILEID="tiff_00108_1"/>
+        <fptr FILEID="jp2_00108_1"/>
+        <fptr FILEID="alto_00108_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_216.9" BETYPE="IDREF" FILEID="alto_00108_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-8" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.10" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-9" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.11" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-8" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.14" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGd" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.22" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            <area BEGIN="BL_215.23" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ABT" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.12" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-6" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.8" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-7" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.9" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-16" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.19" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-17" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.20" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-14" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.17" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-15" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.18" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-18" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.21" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-19" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.24" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-22" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.27" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-21" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.26" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-20" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.25" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-24" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.29" BETYPE="IDREF" FILEID="alto_00108_0"/>
+            <area BEGIN="BL_216.6" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-7" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.13" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-6" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.12" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-5" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.11" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b215-23" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_215.28" BETYPE="IDREF" FILEID="alto_00108_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-9" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.15" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b216-4" BETYPE="IDREF" FILEID="casebody_0096"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_216.10" BETYPE="IDREF" FILEID="alto_00108_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

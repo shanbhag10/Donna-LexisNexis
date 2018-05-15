@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0165" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Jamaica">The JAMAICA</name>
+          <docketnumber>Case No. 7,173</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 289</citation>
+          <citation category="parallel" type="bluebook">11 N. Y. Leg. Obs. 242</citation>
+          <decisiondate>1853</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00146_0" MIMETYPE="image/tiff" CHECKSUM="461c2470bf220d3ebe008fa914931d15" CHECKSUMTYPE="MD5" SIZE="55924">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00146_0.tif"/>
+      </file>
+      <file ID="tiff_00146_1" MIMETYPE="image/tiff" CHECKSUM="463d2dc2dc5c016d3ad8d0ca19114a54" CHECKSUMTYPE="MD5" SIZE="64570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00146_1.tif"/>
+      </file>
+      <file ID="tiff_00147_0" MIMETYPE="image/tiff" CHECKSUM="1b14e54f4a6d2899c4abddbbe9ec2e31" CHECKSUMTYPE="MD5" SIZE="86234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00147_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00146_0" MIMETYPE="image/jp2" CHECKSUM="1c5cbf3cb2006d075d413ea8696a4b05" CHECKSUMTYPE="MD5" SIZE="2440511">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00146_0.jp2"/>
+      </file>
+      <file ID="jp2_00146_1" MIMETYPE="image/jp2" CHECKSUM="86f9652e110f08f298da9e1b483165e0" CHECKSUMTYPE="MD5" SIZE="2572182">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00146_1.jp2"/>
+      </file>
+      <file ID="jp2_00147_0" MIMETYPE="image/jp2" CHECKSUM="316bea45a77f23e9d93d0750fabed499" CHECKSUMTYPE="MD5" SIZE="3368303">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00147_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00146_0" MIMETYPE="text/xml" CHECKSUM="20964540fa213f30bce0c698bce9daf7" CHECKSUMTYPE="MD5" SIZE="115305">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00146_0.xml"/>
+      </file>
+      <file ID="alto_00146_1" MIMETYPE="text/xml" CHECKSUM="ce6263f40eb3045f2f3a317021e92183" CHECKSUMTYPE="MD5" SIZE="139627">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00146_1.xml"/>
+      </file>
+      <file ID="alto_00147_0" MIMETYPE="text/xml" CHECKSUM="f0d208638ae48cda0a8281804dce7bbd" CHECKSUMTYPE="MD5" SIZE="188294">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00147_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0165" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="291" firstpage="289">
+              <court pgmap="291" id="Ai1">District Court, S. D. New York.</court>
+              <docketnumber pgmap="291" id="b291-9">Case No. 7,173.</docketnumber>
+              <citation pgmap="291" id="A9x">[11 N Y. Leg. Obs. 242.]</citation>
+              <parties pgmap="291" id="ANI1">The JAMAICA.</parties>
+              <decisiondate pgmap="291" id="A-o">1853.</decisiondate>
+              <attorneys pgmap="292" id="b292-3">E. Ketchum and W. Q. Morton, for libel-­lants.</attorneys>
+              <attorneys pgmap="292" id="b292-4">J. P. Rolfe and William Rockwell, for the Jamaica,</attorneys>
+              <opinion type="majority">
+                <author pgmap="292" id="b292-5">HALL, District Judge.</author>
+                <p pgmap="292" id="A-J">The collision In this case occurred at midday in a channel about two thousand feet in width, and which was at the. time unobstructed, except by the vessels which came in collision. The sloop Atlas was proceeding down Buttermilk Channel, on a trip to the southeastern shore of Staten Island, and those in charge of the steam ferry-boat Jamaica were probably aware that the master of the sloop was in­tending to pass through the channel, and to take the Governor’s Island side, with a view of keeping as far to the windward as practi­cable, in order easily to clear the point at Red Hook. The steamer’s course .was across the channel (but heading up against the ebb-­tide), from the foot of Hamilton avenue to her landing at Whitehall, and both wind and tide were favorable to the perfect control of the steamer, in attempting to pass to the right and under the stern of the sloop. It was easy for the steamer to do so at the time she left her dock, and such was her obvious course and duty. But if there had been the least doubt of her being able to pass at a safe distance under the stern of the sloop at the time the Jamaica was about to leave her dock, she should have delayed for a single minute, during which time the sloop (at the rapid rate she was then run­ning) would have been much below the line over which the steamer was ordinarily run before the latter could have crossed the track of the Atlas. But there was no need of de­lay. The steamer, with wind and tide favor­able to its perfect command, might with or­dinary care have easily avoided the collision, and it was the right of the sloop to keep her course, and the clear duty of the steamer to avoid her. The sloop had, before the col­lision occurred, passed much below the line of the'steamer’s usual course, and it is im­possible to resist the conclusion that there was culpable negligence, or want of skill, on the part of those in charge of the steamer. They seem to have acted upon the supposi­tion, that it was the duty of the sloop to change her course to avoid the collision; and it was urged on the hearing that she should have done so immediately before the collision occurred, and should have run in still nearer to Governor’s Island, for the pur­pose 'of avoiding the steamer. The sloop was then as near to the island as her mas­ter deemed it prudent to go; and, consider­ing the width of the channel, the relative position and course of the respective vessels, and the fact that one had the advantage of steam power, with a favorable wind aud tide, I deem it quite certain that it was not the duty of those on board the sloop to change her course, as contended for by the respondents.</p>
+                <p pgmap="292(63) 293(219)" id="b292-8">It was also urged, on the part of the re­spondents, that the sloop had not a suf­ficient lookout, and that if a sufficient look­out had been kept, she might have luffed, and thus avoided the collision. From the testimony of the master and crew of the .sloop, I am quite satisfied that after the probability of collision became apparent, the sloop could not have luffed without danger of running aground; a risk which, under the circumstances of the case, it was not the duty of the master of the sloop to encounter. The master of the sloop appears to have re­lied upon those navigating the steamer to take the measures necessary to avoid a col­lision, and his lookout seems to have been kept solely with a view to guard against danger from the windward. He was run­ning near to the shore, for the' purpose of keeping as far as practicable to the wind­ward of Red'Hook, and he appears to have "thought it necessary to guard against the -dangers of the reef at the southwesterly yjoint of Governor’s Island (a reef he was then rapidly approaching), rather than -against the danger of collision with the steamer on the opposite side, when it was the obvious duty of those in charge of the steamer to take efficient means to render a -collision impossible. He had seen the stea­mer, and assured himself that she had ample room in the wide and unobstructed channel, and had, I think, a right to assume that the steamer would follow the rule of navigation applicable to the circumstances, and pass at a safe distance to the right and under his stern.</p>
+                <p pgmap="293" id="b293-4">After a careful consideration of the case, I am not able to say that the omission of the master of the sloop to sustain a lookout to the leeward was a fault requiring an ap­portionment or division of the damages in this case. The duty of those in charge of -the steamer was so clear and palpable, it was so obvious that the exertion of ordinary care -on their part would certainly prevent all danger of collision, that the master of the sloop was justified in directing his atten­tion to the shore and reef on the opposite side of his vessel, and in leaving to the master of the steamer the whole duty of avoiding a collision between the sloop and steamer. .If the pilot of the steamer saw that the sloop was a bad steering vessel, or was uncer­tain of her course, he should have given her .a wider berth by heading up the channel, instead Of allowing the steamer to float with the tide until there was danger of a col­lision, and then heading her on to the sloop .as much as possible, that the steamer’s side might be secured against the impending blow. I am unable to perceive that the mas­ter of the sloop had any reason to apprehend -that an attempt would be made to run the .steamer out of her accustomed course, and incur the hazard of passing across the bows of the sloop (which, with a fresh wind and favoring tide, was running at a very rapid rate, and about crossing the steamer’s track), when it was apparent that the steamer could pass under the stern of the sloop with great -ease and perfect safety.</p>
+                <p pgmap="293" id="b293-5">In my judgment, the libellants are entitled to a decree for their damages and costs, and •the usual order for a reference, to ascertain -the amount of such damages will be entered.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="291" ORDERLABEL="289" TYPE="page">
+        <fptr FILEID="tiff_00146_0"/>
+        <fptr FILEID="jp2_00146_0"/>
+        <fptr FILEID="alto_00146_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_291.6" BETYPE="IDREF" FILEID="alto_00146_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="292" ORDERLABEL="290" TYPE="page">
+        <fptr FILEID="tiff_00146_1"/>
+        <fptr FILEID="jp2_00146_1"/>
+        <fptr FILEID="alto_00146_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_292.4" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="293" ORDERLABEL="291" TYPE="page">
+        <fptr FILEID="tiff_00147_0"/>
+        <fptr FILEID="jp2_00147_0"/>
+        <fptr FILEID="alto_00147_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_293.4" BETYPE="IDREF" FILEID="alto_00147_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9x" BETYPE="IDREF" FILEID="casebody_0165"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.12" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-8" BETYPE="IDREF" FILEID="casebody_0165"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.11" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            <area BEGIN="BL_293.1" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-4" BETYPE="IDREF" FILEID="casebody_0165"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.6" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b291-9" BETYPE="IDREF" FILEID="casebody_0165"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.10" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-3" BETYPE="IDREF" FILEID="casebody_0165"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.5" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-5" BETYPE="IDREF" FILEID="casebody_0165"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.6" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-J" BETYPE="IDREF" FILEID="casebody_0165"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.8" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            <area BEGIN="BL_292.9" BETYPE="IDREF" FILEID="alto_00146_1"/>
+            <area BEGIN="BL_292.10" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b292-5" BETYPE="IDREF" FILEID="casebody_0165"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_292.7" BETYPE="IDREF" FILEID="alto_00146_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANI1" BETYPE="IDREF" FILEID="casebody_0165"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.11" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ai1" BETYPE="IDREF" FILEID="casebody_0165"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.13" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-o" BETYPE="IDREF" FILEID="casebody_0165"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_291.14" BETYPE="IDREF" FILEID="alto_00146_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b293-4" BETYPE="IDREF" FILEID="casebody_0165"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_293.5" BETYPE="IDREF" FILEID="alto_00147_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

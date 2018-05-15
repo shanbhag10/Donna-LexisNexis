@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0146" publicationstatus="published">
+          <court abbreviation="E.D.N.Y." jurisdiction="United States">United States District Court for the Eastern District of New York</court>
+          <name abbreviation="The Jacob E. Ridgway">The JACOB E. RIDGWAY</name>
+          <docketnumber>Case No. 7,155</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 265</citation>
+          <citation category="parallel" type="bluebook">8 Ben. 179</citation>
+          <decisiondate>1875-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00134_0" MIMETYPE="image/tiff" CHECKSUM="9c15e5d2f1cbe8c4c5374f33e9f67b51" CHECKSUMTYPE="MD5" SIZE="94928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00134_0.tif"/>
+      </file>
+      <file ID="tiff_00134_1" MIMETYPE="image/tiff" CHECKSUM="d65e59bc6d980b04389106b9e8714a64" CHECKSUMTYPE="MD5" SIZE="89784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00134_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00134_0" MIMETYPE="image/jp2" CHECKSUM="80f191242a7ffb5c74702bd1c7c1e27e" CHECKSUMTYPE="MD5" SIZE="3524110">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00134_0.jp2"/>
+      </file>
+      <file ID="jp2_00134_1" MIMETYPE="image/jp2" CHECKSUM="36b0777237b9417afec2ff1bb4823399" CHECKSUMTYPE="MD5" SIZE="3283285">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00134_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00134_0" MIMETYPE="text/xml" CHECKSUM="07ed1231352229e3aed88460c534a062" CHECKSUMTYPE="MD5" SIZE="216883">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00134_0.xml"/>
+      </file>
+      <file ID="alto_00134_1" MIMETYPE="text/xml" CHECKSUM="eb4345dfc3244c4ce844d62a6fa1ec24" CHECKSUMTYPE="MD5" SIZE="184850">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00134_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0146" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="266" firstpage="265">
+              <court pgmap="267" id="b267-12">District Court, E. D. New York.</court>
+              <docketnumber pgmap="267" id="b267-9">Case No. 7,155.</docketnumber>
+              <citation pgmap="267" id="b267-11">[8 Ben. 179.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="267" id="b267-10">The JACOB E. RIDGWAY.</parties>
+              <decisiondate pgmap="267" id="APJ">June, 1875.</decisiondate>
+              <attorneys pgmap="267" id="b267-18">Benedict, Taft &amp; Benedict, for libellant.</attorneys>
+              <attorneys pgmap="267" id="b267-19">R. H. Huntley, for claimant.</attorneys>
+              <footnote label="1">
+                <p pgmap="267" id="b267-24">1 [Reported by Robert D. Benedict, Esq., and Benj. Lincoln Benedict, Esq., and here reprint­ed by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="267" id="b267-20">BENEDICT, District Judge.</author>
+                <p pgmap="267" id="AqG">This action is brought to recover the sum of $500, claim­ed to have been agreed to be paid by the mate of the schooner Jacob E. Ridgway, when in charge of that vessel, she being at the time in danger of taking fire, as she lay at a pier in the East river, from a burn­ing vessel that was on the opposite side of the pier.</p>
+                <p pgmap="267" id="b267-21">It is not denied that the libellant’s tug took hold of the schooner and towed her out into the stream from the upper side of the pier, at a time when the steamboat River Belle was burning on the opposite side of the pier; but it is denied that the mate, who was in charge, ever employed the libellant’s ves­sel at the price of $500, or any other price. And it is also denied that the schooner was in peril.</p>
+                <p pgmap="267(26) 268(78)" id="b267-22">Upon the question of fact, as to the em­ployment of the tug, the weight of evidence is with the libellant. The mate, it is true, denies making any agreement with the tug; but he has a strong motive to make the denial, and his manner upon the stand, cou­pled with the fact that no other person is produced from the schooner, although three other persons were on board, lead me to doubt his testimony, and I conclude that he did request the tug to tow him out into the river, and did agree to the price demanded for such services, viz., $500.</p>
+                <p pgmap="268" id="b268-3">Nevertheless, the service rendered was a salvage service, being performed for the sole purpose of removing the schooner from a position of danger; and contracts made for such services, arid under such circum­stances, are always scrutinized by a court of admiralty. Those courts, while they en­deavor to encourage the rendering of servi­ces to vessels in distress by giving liberal awards, are also careful to protect vessels against the effects of improvident agree­ments made under such circumstances. The admiralty courts are courts of equity, and the power to relieve from such contracts has been frequently exercised. The present ap­pears to be a case justifying resort to this power.</p>
+                <p pgmap="268" id="b268-4">The contract upon which the libellant re­lies, was entered into when the vessel was actually in no great peril, for the weight of the evidence is that steam fire engines were upon the dock, which proved able to prevent the dock shed from catching fire, and which were able to have preserved the schooner even if the shed had caught fire. There was, nevertheless, apparent peril, suf­ficient to affect the judgment of the mate in charge and to justify a desire to move the schooner.</p>
+                <p pgmap="268" id="b268-5">The risk run by the tug in towing the schooner into the stream was insignificant. The time occupied in the service did not ex­ceed fifteen or twenty minutes. No extraor­dinary labor was required, and no injury sustained. For such a service the demand of $500 appears to me exorbitant. The cir­cumstances did not justify the making of such a demand, nor the acquiescence in it by the mate.</p>
+                <p pgmap="268" id="b268-6">The amount should be reduced to one hun­dred dollars. For that sum, with the tax­able fees of his witnesses, the libellant may have a decree.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="267" ORDERLABEL="265" TYPE="page">
+        <fptr FILEID="tiff_00134_0"/>
+        <fptr FILEID="jp2_00134_0"/>
+        <fptr FILEID="alto_00134_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.3" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="268" ORDERLABEL="266" TYPE="page">
+        <fptr FILEID="tiff_00134_1"/>
+        <fptr FILEID="jp2_00134_1"/>
+        <fptr FILEID="alto_00134_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_268.4" BETYPE="IDREF" FILEID="alto_00134_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-22" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.27" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            <area BEGIN="BL_268.1" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-24" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.28" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-4" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.6" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-21" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.26" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-18" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.21" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-19" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.22" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-12" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.15" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-10" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.13" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-11" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.14" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-5" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.7" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqG" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.24" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            <area BEGIN="BL_267.25" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APJ" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.16" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-6" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.8" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b268-3" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_268.5" BETYPE="IDREF" FILEID="alto_00134_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-20" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.23" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-9" BETYPE="IDREF" FILEID="casebody_0146"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.12" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

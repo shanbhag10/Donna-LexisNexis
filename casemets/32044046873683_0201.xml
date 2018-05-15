@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0201" publicationstatus="published">
+          <court abbreviation="N.D. Ill." jurisdiction="United States">United States District Court for the Northern District of Illinois</court>
+          <name abbreviation="In re Eldred">In re ELDRED</name>
+          <docketnumber>Case No. 4,328</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 407</citation>
+          <citation category="parallel" type="bluebook">3 N. B. R. 256 (Quarto, 61); 1 Chi. Leg. News, 389</citation>
+          <decisiondate>1869</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00205_0" MIMETYPE="image/tiff" CHECKSUM="cd48a46138fdeccf0d1430bf09c1a8d8" CHECKSUMTYPE="MD5" SIZE="57154">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00205_0.tif"/>
+      </file>
+      <file ID="tiff_00205_1" MIMETYPE="image/tiff" CHECKSUM="07a25d424b65f5b6dfc3d519d11792a0" CHECKSUMTYPE="MD5" SIZE="49478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00205_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00205_0" MIMETYPE="image/jp2" CHECKSUM="088d330f9090789a8ba5531986fa0e14" CHECKSUMTYPE="MD5" SIZE="2501649">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00205_0.jp2"/>
+      </file>
+      <file ID="jp2_00205_1" MIMETYPE="image/jp2" CHECKSUM="dbf250e5fed22110f60da1da1ad73d6c" CHECKSUMTYPE="MD5" SIZE="2212116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00205_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00205_0" MIMETYPE="text/xml" CHECKSUM="ad08a640d2715321a6c8f190273135fe" CHECKSUMTYPE="MD5" SIZE="121652">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00205_0.xml"/>
+      </file>
+      <file ID="alto_00205_1" MIMETYPE="text/xml" CHECKSUM="326abb0bfc4e41b4e802464d20628d53" CHECKSUMTYPE="MD5" SIZE="97311">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00205_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0201" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="408" firstpage="407">
+              <court id="b409-15" pgmap="409">District Court, N. D. Illinois.</court>
+              <docketnumber id="b409-12" pgmap="409">Case No. 4,328.</docketnumber>
+              <citation id="b409-14" pgmap="409">[3 N. B. R. 256 (Quarto, 61); 1 Chi. Leg. News, 389.) <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b409-13" pgmap="409">In re ELDRED.</parties>
+              <decisiondate id="A1R" pgmap="409">1869.</decisiondate>
+              <footnote label="1">
+                <p id="b409-20" pgmap="409">1 [Reprinted from 3 N. B. R. 256 (Quarto, 61), by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b409-18" pgmap="409">DRUMMOND, District Judge,</author>
+                <p id="AmDl" pgmap="409">in delivering the opinion of the court in substance said:</p>
+                <p id="b409-19" pgmap="409(216) 410(133)">The only property or money so' far as we know, which Mrs. Eldred obtained, inde­pendent of her husband, by which this prop­erty was purchased, was what was obtained from her son; he also, however, indorsed the notes that were given for the vessel. One of the embarrassments of the case arises out of the relation in which the party who made these advances, or gave this assistance, stands to the person who, it is claimed, made the purchase, and to the bankrupt, he being the son of both the parties. If the money had come from a party not connected with the others, the difficulty of such a case would be less. It is, therefore, proper to consider what had appeared in evidence, to wit: the advance made by the father to the son at a time when it was claimed he was insol­vent, and could not, in honor, make such an advance. If there was a free gift, having no sort of connection with what the father had done for him, then the mother would be entitled to the full benefit growing out of such a circumstance, but otherwise not, as then the father’s pecuniary relation would have entered into the transaction. For while the statute gives to a married woman the right, independent of her husband, to control and manage her own property, not coming from her husband, it is clear that it never contemplated that a married woman should be made use of as an instrument by which the pecuniary interest of the husband should be protected as against his creditors. So that while it is just and right that whatever the wife acquires diming coverture from an independent source, should be kept for her protection and support, it is also just that that which comes indirectly from her husband should not be sequestered and ex­cluded from his creditors. In this case what­ever went into the property as a gift, pure and simple, with which the money of the father had nothing to do, in that the wife should be protected.</p>
+                <p id="b410-4" pgmap="410">When a man is in embarrassed circum­stances, and insolvent, he cannot make use of his wife, directly or indirectly, to cover up any of his property, or any of his earn­ings, or his skill. So far as she gets prop­erty of her own, independent of him, she is to be protected; but he cannot make use of her as an instrument to gather about her his means, skill, or labor, or anything that is connected with him. Thus, a man has no right to go to his wife and say, This is a good bargain; make this purchase; give your notes for this property, that property, or the other; and make the purchase, and then escape the responsibility of transaction, so far as he is a debtor, if there is nothing proceeds from his wife as a consideration of the purchase. That is his transaction, the result of his skill and judgment, and his creditors are entitled to it, and he cannot in that way cover up the interest which he may have in that property, w’hich Is the fruit of his skill and his judgment, from his creditors. If, on the other hand, there is a consideration proceeding from the wife, be­longing to her, money or property with which he is unconnected, then she should be protected in the property.</p>
+                <p id="b410-5" pgmap="410">The bankrupt was found not guilty under the specifications. The matter stands on a new trial, made by Rae &amp; Mitchell, for the opposing creditor.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="409" ORDERLABEL="407" TYPE="page">
+        <fptr FILEID="tiff_00205_0"/>
+        <fptr FILEID="jp2_00205_0"/>
+        <fptr FILEID="alto_00205_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_409.3" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="410" ORDERLABEL="408" TYPE="page">
+        <fptr FILEID="tiff_00205_1"/>
+        <fptr FILEID="jp2_00205_1"/>
+        <fptr FILEID="alto_00205_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_410.5" BETYPE="IDREF" FILEID="alto_00205_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-4" BETYPE="IDREF" FILEID="casebody_0201"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.7" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-13" BETYPE="IDREF" FILEID="casebody_0201"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.17" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-12" BETYPE="IDREF" FILEID="casebody_0201"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.16" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-15" BETYPE="IDREF" FILEID="casebody_0201"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.19" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-14" BETYPE="IDREF" FILEID="casebody_0201"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.18" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1R" BETYPE="IDREF" FILEID="casebody_0201"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.20" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-19" BETYPE="IDREF" FILEID="casebody_0201"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.27" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_410.3" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-18" BETYPE="IDREF" FILEID="casebody_0201"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.24" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b409-20" BETYPE="IDREF" FILEID="casebody_0201"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.28" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b410-5" BETYPE="IDREF" FILEID="casebody_0201"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_410.8" BETYPE="IDREF" FILEID="alto_00205_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmDl" BETYPE="IDREF" FILEID="casebody_0201"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_409.25" BETYPE="IDREF" FILEID="alto_00205_0"/>
+            <area BEGIN="BL_409.26" BETYPE="IDREF" FILEID="alto_00205_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

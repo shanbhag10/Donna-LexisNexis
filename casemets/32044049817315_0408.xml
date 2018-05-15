@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0408" publicationstatus="published">
+          <court abbreviation="C.C.D. Mich." jurisdiction="United States">United States Circuit Court for the District of Michigan</court>
+          <name abbreviation="Johnson v. Price">JOHNSON et al. v. PRICE</name>
+          <docketnumber>Case No. 7,407</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 793</citation>
+          <citation category="parallel" type="bluebook">13 N. B. R. (1876) 523</citation>
+          <decisiondate>1857</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00398_0" MIMETYPE="image/tiff" CHECKSUM="2b535a752e470552f73c6b5aad0b9ae4" CHECKSUMTYPE="MD5" SIZE="91318">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00398_0.tif"/>
+      </file>
+      <file ID="tiff_00398_1" MIMETYPE="image/tiff" CHECKSUM="56aad0250aa056ddddacb96202104fb8" CHECKSUMTYPE="MD5" SIZE="66398">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00398_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00398_0" MIMETYPE="image/jp2" CHECKSUM="97ad01867dd6cede07bcec8281765bc0" CHECKSUMTYPE="MD5" SIZE="3371833">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00398_0.jp2"/>
+      </file>
+      <file ID="jp2_00398_1" MIMETYPE="image/jp2" CHECKSUM="ea824b7bba126cb4415c22f69ab0902e" CHECKSUMTYPE="MD5" SIZE="2681978">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00398_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00398_0" MIMETYPE="text/xml" CHECKSUM="fead7eda9a7fd7852f1ac38fd0799dc4" CHECKSUMTYPE="MD5" SIZE="199115">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00398_0.xml"/>
+      </file>
+      <file ID="alto_00398_1" MIMETYPE="text/xml" CHECKSUM="8b8972dae410c1e8e982fd2cbb53dc13" CHECKSUMTYPE="MD5" SIZE="129580">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00398_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0408" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="794" firstpage="793">
+              <court pgmap="795" id="AqqK">Circuit Court, E. D. Michigan.</court>
+              <docketnumber pgmap="795" id="b795-5">Case No. 7,407.</docketnumber>
+              <citation pgmap="795" id="AWlP">[13 N. B. R. (1876) 523.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="795" id="A2uQ">JOHNSON et al. v. PRICE.</parties>
+              <attorneys pgmap="795" id="b795-12">H. E. Bowen, for complainant.</attorneys>
+              <attorneys pgmap="795" id="b795-13">Don M. Dickinson, for defendant.</attorneys>
+              <footnote label="1">
+                <p pgmap="795" id="b795-16">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="795" id="b795-14">BROWN, District Judge.</author>
+                <p pgmap="795" id="A3jO">If there is any jurisdiction in the circuit court to entertain this bill, it is conferred by section 4979 of the Revised Statutes, which provides “that the several circuit courts shall have, within cac-h district, concurrent jurisdiction with the district court, * * * of all suits at law and in equity, brought by an assignee in bankruptcy, against any person claiming an adverse interest, or by any such person against an assignee, touching any property or rights of the bankrupt, transferable to, or vested in, such assignee.” This bill being brought by creditors of the bankrupt, and not by the assignee, is clearly not within the letter of the section. Although bills of this kind have, in a few cases, been entertained by the circuit court, I find no case where the question of jurisdiction was raised and de­cided in favor of such jurisdiction. The ques­tion was not alluded to by the court, in the case of Hood v. Karper [Case No. 6,664], re­lied upon by complainants’ counsel in this case. On the other hand, ,the intimations of the supreme court, in two or three cases, have been decidedly adverse to such jurisdic­tion. In the case of Morgan v. Thornhill, 11 Wall. [78 U. S.] 65, the supreme court ob­served: “Controversies, in order that they may be cognizable, under that clause of sec­tion 4979, either in the circuit court or dis­trict court, must have respect to some prop­erty or rights of property of the bankrupt, transferable to, or vested in, such assignee; and the suit, whether it be a suit at law or in equity, must be in the name of one of the two parties' described in that clause, and against the other.” Similar language is used by the same court in Smith v. Mason, 14 Wall. [81 U. S.] 419, 431; and also by the judge who delivered the opinions in these cases in Knight v. Cheney [Case No. 7,883].</p>
+                <p pgmap="795(323) 796(60)" id="b795-18">As suits of this nature have been frequent­ly entertained by creditors before the ap­pointment of the assignee; and as it has been held, in at’least two cases, by the su­preme court that such suits must be plenary in their character, I had at first some doubt as to whether a denial of jurisdiction in this case would not virtually deprive the credit­ors of the power of instituting any suit of this kind. Upon careful examination of the statute, however, I am satisfied that section 4979 was not intended to limit the jurisdic­tion of the district court, and that such juris­diction is conferred by section 4972. This section is very general in its character, and provides that the jurisdiction conferred upon the district courts as courts of bankiuptcy, shall extend to almost every controversy re­specting the collection, distribution, and set­tlement of the bankrupt’s estate. No method is pointed out how this jurisdiction shall be exercised; and although it is more frequent­ly, perhaps, exercised in a summary way, I see no objection whatever to a plenary suit at law or in equity. In the case of In re Alexander [Case No. 160], Mr. Chief Justice Chase intimates that, although no jurisdic­tion of cases at law or in equity is expressly given to the district court elsewhere than in the third clause of the second section, it may well enough be held to be included in the general grant of the first section (4972). See, also, In re Kerosene Oil Co. [Case No. 7,726]; Jones v. Leach [Id. 7,475]; In re Fendley [Id. 4,725]. In this last case, the petitioning creditors filed a bill to restrain the disposal of property, on the ground of fraudulent transfer by the alleged bankrupt; and it was held that, under the provisions of the act, the district court had jurisdiction both in law and in equity, and the motion to dismiss was denied. Sherman v. Bingham [Id. 12,762]; Goodall v. Tuttle [Id. 5,533], In this case, the court remarks: “The second section does not profess or attempt to confer or regulate the jurisdiction of district courts. That relates exclusively to circuit courts; but it may with propriety be said to assume the existence of this jurisdiction in the district courts.”</p>
+                <p pgmap="796" id="b796-4">I think the proceedings in this case should have been taken by bill in the district court, and the demurrer must* be sustained, and the bill dismissed for want of jurisdiction.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="795" ORDERLABEL="793" TYPE="page">
+        <fptr FILEID="tiff_00398_0"/>
+        <fptr FILEID="jp2_00398_0"/>
+        <fptr FILEID="alto_00398_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_795.4" BETYPE="IDREF" FILEID="alto_00398_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="796" ORDERLABEL="794" TYPE="page">
+        <fptr FILEID="tiff_00398_1"/>
+        <fptr FILEID="jp2_00398_1"/>
+        <fptr FILEID="alto_00398_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_796.4" BETYPE="IDREF" FILEID="alto_00398_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b795-18" BETYPE="IDREF" FILEID="casebody_0408"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_795.22" BETYPE="IDREF" FILEID="alto_00398_0"/>
+            <area BEGIN="BL_796.1" BETYPE="IDREF" FILEID="alto_00398_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3jO" BETYPE="IDREF" FILEID="casebody_0408"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_795.18" BETYPE="IDREF" FILEID="alto_00398_0"/>
+            <area BEGIN="BL_795.19" BETYPE="IDREF" FILEID="alto_00398_0"/>
+            <area BEGIN="BL_795.20" BETYPE="IDREF" FILEID="alto_00398_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWlP" BETYPE="IDREF" FILEID="casebody_0408"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_795.9" BETYPE="IDREF" FILEID="alto_00398_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b795-12" BETYPE="IDREF" FILEID="casebody_0408"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_795.15" BETYPE="IDREF" FILEID="alto_00398_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b795-13" BETYPE="IDREF" FILEID="casebody_0408"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_795.16" BETYPE="IDREF" FILEID="alto_00398_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b795-14" BETYPE="IDREF" FILEID="casebody_0408"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_795.17" BETYPE="IDREF" FILEID="alto_00398_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b795-16" BETYPE="IDREF" FILEID="casebody_0408"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_795.21" BETYPE="IDREF" FILEID="alto_00398_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqqK" BETYPE="IDREF" FILEID="casebody_0408"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_795.10" BETYPE="IDREF" FILEID="alto_00398_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b796-4" BETYPE="IDREF" FILEID="casebody_0408"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_796.5" BETYPE="IDREF" FILEID="alto_00398_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b795-5" BETYPE="IDREF" FILEID="casebody_0408"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_795.7" BETYPE="IDREF" FILEID="alto_00398_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2uQ" BETYPE="IDREF" FILEID="casebody_0408"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_795.8" BETYPE="IDREF" FILEID="alto_00398_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

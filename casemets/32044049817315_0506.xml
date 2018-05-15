@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0506" publicationstatus="published">
+          <court abbreviation="C.C.D. Ohio" jurisdiction="United States">United States Circuit Court for the District of Ohio</court>
+          <name abbreviation="Jones v. Vanzandt">JONES v. VANZANDT</name>
+          <docketnumber>Case No. 7,505</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1057</citation>
+          <citation category="parallel" type="bluebook">5 McLean, 214</citation>
+          <decisiondate>1851-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00530_0" MIMETYPE="image/tiff" CHECKSUM="28e2c88cc84a32e0ea194ed7a2a60c3e" CHECKSUMTYPE="MD5" SIZE="71422">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00530_0.tif"/>
+      </file>
+      <file ID="tiff_00530_1" MIMETYPE="image/tiff" CHECKSUM="c923a68caa102be7661bcf4c30c4fa09" CHECKSUMTYPE="MD5" SIZE="102454">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00530_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00530_0" MIMETYPE="image/jp2" CHECKSUM="d759f68ca3476876c1a4688fa37ff72b" CHECKSUMTYPE="MD5" SIZE="2889159">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00530_0.jp2"/>
+      </file>
+      <file ID="jp2_00530_1" MIMETYPE="image/jp2" CHECKSUM="c7588428a7220ada18fa0c6673660546" CHECKSUMTYPE="MD5" SIZE="3629156">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00530_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00530_0" MIMETYPE="text/xml" CHECKSUM="515de28388390c9e24f36da735d16dc0" CHECKSUMTYPE="MD5" SIZE="158591">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00530_0.xml"/>
+      </file>
+      <file ID="alto_00530_1" MIMETYPE="text/xml" CHECKSUM="3f36ad3e124077edea0dbcc74a1095cb" CHECKSUMTYPE="MD5" SIZE="230416">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00530_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0506" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1058" firstpage="1057">
+              <court pgmap="1059" id="b1059-8">Circuit Court, D. Ohio.</court>
+              <docketnumber pgmap="1059" id="b1059-5">Case No. 7,505.</docketnumber>
+              <citation pgmap="1059" id="b1059-7">[5 McLean, 214.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1059" id="b1059-6">JONES v. VANZANDT.</parties>
+              <decisiondate pgmap="1059" id="AxN9">April Term. 1851.</decisiondate>
+              <attorneys pgmap="1059" id="b1059-20">Mr. Fox, for plaintiff.</attorneys>
+              <attorneys pgmap="1059" id="b1059-21">Mr. Chase, for defendant.</attorneys>
+              <footnote label="1">
+                <p pgmap="1059" id="b1059-16">1 [Reported by Hon. John McLean, Circuit Justice.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p pgmap="1059" id="b1059-22">OPINION OF THE COURT. This 'cause was tried in December, 1842. A verdict be­ing found for the plaintiff, a motion was made for a new trial, and also in arrest of judgment The motion for a new trial was granted, at the costs of the defendant, and an intimation was given that certain counts in the declaration were defective, but there was no decision on the motion in arrest. [Case No. 7,502.] The case was certified to the supreme court, on points of division of opinion between the judges, which, and the death of the defendant, have delayed the de­cision of the case until this time. The deci­sion of the supreme court, on the points cer-­tilled, being favorable to the plaintiff, the mo­tion in arrest &lt;5f judgment has again been argued.</p>
+                <p pgmap="1059(246) 1060(77)" id="b1059-23">As before remarked, this court at the for­mer term, did not' decide this motion, al­though its views were expressed in regard to the third and fourth counts in the declara­tion, which are the only ones that were not abandoned before' the verdict was rendered. It was intimated by the court that there was a defect in these counts, in stating the place to which the fugitives escaped. The words of the law are: “When a person held to labor in any of the United States, &amp;e., under the laws thereof, shall escape into any other of the said states,” &amp;c. And the court remarked, the allegation in these counts is, “that the slaves escaped from Boone county, and the state of Kentucky, and came to the defend­ant, at Hamilton county, in the state and district-aforesaid.” And they say, “What state and district? The grammatical refer­ence is, to the state and district last above named in the count; and the words, Hamil­ton county, áre not a sufficient designation. The direct reference then, is, to the state of Kentucky, which, by the law, is a district; and in this view, there is no escape alleged within the statute.” It is also said: “I en­tertain great doubts whether the reference to-­the preceding counts, as regards the escape, makes good the third and fourth counts. At: least there is great uncertainty in the refer­ence.” And in the conclusion of the opinion the court said: “As a motion for a new trial was first in order, and as the third and fourth counts, on which the jury found their verdict, claim only compensation for the loss of the services of the slaves for sis days, and an indemnity for the espenses to which the plaintiff had been subjected,” &amp;c., the new trial was granted at the costs of the defend­ants, which was not accepted by their coun­sel.</p>
+                <p pgmap="1060" id="b1060-4">A more mature consideration which I have since given to the case has convinced me that, after verdict, the counts may be sustained. In the caption of the declaration, the district of Ohio is stated; and in the first count the district of Ohio is again stated as the place of venue. In the second count it is averred that the slaves, against the will of the plain­tiff, “departed and went away from the plain­tiff, and out of his service, at said Boone county, and came to the defendant at Ham­ilton county, in the state of Ohio, and the district aforesaid.” And in the third count it is alleged that “unlawfully, wrongfully, and unjustly, the slaves departed and went away from and out of the service of the plaintiff at Boone county, and the state of Kentucky, and came to the defendant at Hamilton county, in the state and district aforesaid.” In the fourth count the aver­ment is, that the fugitives “came to the de­fendant at said Hamilton county, in the dis­trict aforesaid.”</p>
+                <p pgmap="1060" id="b1060-5">The first • and second counts have been abandoned, and are consequently inoperative as the foundation of a recovery; yet, they are not, in every sense, to be considered as stricken from the record. A reference in subsequent counts to the venue as laid in those counts, or to fix the place where .the act complained of was done, may be held to be sufficient. There is no other district than that of Ohio named in the caption of the declara­tion, or in the first and second counts, and a reference in the third and fourth counts to the state and district aforesaid, must be held to refer to the state and district of Ohio. This is not a strained construction, and is called for by the import of the terms used in the declaration, especially after verdict.</p>
+                <p pgmap="1060" id="b1060-6">The other defect noticed in the fourth count was the want of averment, that the offense charged in the declaration, was con­trary to the statute. In considering this ob­jection formerly, the court said: “That it may not be necessary to adopt the formal conclu­sion, as is held to be necessary where the ac­tion is brought on a penalty; but it seems to me that the declaration must’ refer to the statute as an essential part of the plaintiff’s right. I have had no time to look into the authorities extensively on this point, but, I think, from analogy, and the reason of things, the fourth count is defective in this particular.” When the case was before the supreme court on certified points, the court say. in regard to the sufficiency of the dec­laration: “No specific point, not otherwise designated, has been called to our attention, except that all the acts alleged in the declara­tion, are not said to be contrary to the stat­ute. This last expression, they say, follows the concluding portion of the count, and this expression may be necessary in a penal ac­tion.” This point was certified in the action against the defendant for the penalty, but the action before us is one for secreting the fugi­tives, by reason of which their services were lost to the plaintiff. The remark of the court would seem to imply that although the aver­ment may be necessary in a penal action, it is not necessary where the action is not for the penalty. In one or two cases it has since been held, in an action for the value of the fugitives, that the above averment is not nec­essary. Had there been no provision in the constitution or act of congress on the subject, it is clear there could be no reclamation of fugitives from a free state, nor damages re­covered for secreting them. This right, as has often been decided, must depend, as be­tween slave states and free ones, upon treaty stipulations, or upon some general law equal­ly binding upon states, as the constitution of the United States, or the acts of congress. The proviso in the act of congress, that a re­covery of the penalty should not bar an ac­tion by the master for damages, would seem to recognize such a remedy as existing at common law. The form of the action is found in the common law, but the right arises under the constitution and act of congress. As these laws are general throughout the Union, the court, I suppose, are bound to take notice of them without any special reference to them in the declaration.</p>
+                <p pgmap="1060" id="b1060-9">Upon the whole, I feel h to be my duty to say that the suggestions formerly made, in relation to the defectiveness of the fourth count, on further examination, are not sus­tained. A decision was not made, nor in­tended to be made, on either of the above counts. The intimations were hastily thrown out that the defects, if eonsiuered important, might be remedied at a future stage of the proceeding by amendments.</p>
+                <p pgmap="1060" id="b1060-10">The motion in arrest is overruled, and a judgment entered upon the verdict.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1059" ORDERLABEL="1057" TYPE="page">
+        <fptr FILEID="tiff_00530_0"/>
+        <fptr FILEID="jp2_00530_0"/>
+        <fptr FILEID="alto_00530_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1059.4" BETYPE="IDREF" FILEID="alto_00530_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1060" ORDERLABEL="1058" TYPE="page">
+        <fptr FILEID="tiff_00530_1"/>
+        <fptr FILEID="jp2_00530_1"/>
+        <fptr FILEID="alto_00530_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1060.5" BETYPE="IDREF" FILEID="alto_00530_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1060-9" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1060.10" BETYPE="IDREF" FILEID="alto_00530_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1060-10" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1060.11" BETYPE="IDREF" FILEID="alto_00530_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxN9" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.11" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-8" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.10" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-20" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.23" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-7" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.9" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-6" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.8" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-5" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.7" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-16" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.20" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1060-6" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1060.8" BETYPE="IDREF" FILEID="alto_00530_1"/>
+            <area BEGIN="BL_1060.9" BETYPE="IDREF" FILEID="alto_00530_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1060-5" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1060.7" BETYPE="IDREF" FILEID="alto_00530_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1060-4" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1060.6" BETYPE="IDREF" FILEID="alto_00530_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-21" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.24" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-22" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.25" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-23" BETYPE="IDREF" FILEID="casebody_0506"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.26" BETYPE="IDREF" FILEID="alto_00530_0"/>
+            <area BEGIN="BL_1060.2" BETYPE="IDREF" FILEID="alto_00530_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

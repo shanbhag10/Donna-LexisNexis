@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0100" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Dyson v. Gambrill">DYSON v. GAMBRILL et al.</name>
+          <docketnumber>Case No. 4,230</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 222</citation>
+          <citation category="parallel" type="bluebook">3 App. Com’r Pat. 472</citation>
+          <decisiondate>1861-07-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00112_1" MIMETYPE="image/tiff" CHECKSUM="a3458a5a574dab245fce8cfebabd74ee" CHECKSUMTYPE="MD5" SIZE="89430">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00112_1.tif"/>
+      </file>
+      <file ID="tiff_00113_0" MIMETYPE="image/tiff" CHECKSUM="d7af33cecc8c9b1c8e1769ae2f5df146" CHECKSUMTYPE="MD5" SIZE="60546">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00113_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00112_1" MIMETYPE="image/jp2" CHECKSUM="94f2cf81d9e4c572a5bd47c3c70ea3a8" CHECKSUMTYPE="MD5" SIZE="3297417">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00112_1.jp2"/>
+      </file>
+      <file ID="jp2_00113_0" MIMETYPE="image/jp2" CHECKSUM="a767b089f7a6a654303b7ac377d3cf74" CHECKSUMTYPE="MD5" SIZE="2976642">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00113_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00112_1" MIMETYPE="text/xml" CHECKSUM="dc34efe32883b383f5da3799d57a368b" CHECKSUMTYPE="MD5" SIZE="186497">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00112_1.xml"/>
+      </file>
+      <file ID="alto_00113_0" MIMETYPE="text/xml" CHECKSUM="22c05d0a784be07e820f608016c38a9d" CHECKSUMTYPE="MD5" SIZE="132170">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00113_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0100" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="223" firstpage="222">
+              <court id="b224-16" pgmap="224">Circuit Court, District of Columbia.</court>
+              <docketnumber id="b224-13" pgmap="224">Case No. 4,230.</docketnumber>
+              <citation id="b224-15" pgmap="224">[3 App. Com’r Pat. 472.]</citation>
+              <parties id="b224-14" pgmap="224">DYSON v. GAMBRILL et al.</parties>
+              <decisiondate id="ARB" pgmap="224">July 9, 1861.</decisiondate>
+              <opinion type="majority">
+                <author id="b224-23" pgmap="224">DUNLOP, Chief Judge.</author>
+                <p id="APt" pgmap="224">When this case was before me, in September, 1860, on the ex parte application of Mr. Dyson for the re­issue of his patent of the 20th February, IS 19, so as to embrace in the reissue the dif­ferential motion of the stripper to his card­ing machine [see Ex parte Dyson, Case No. 4,228] I said in my opinion of the 21st Sep­tember, 1800, at page six of the printed copy: “It is said the office may be deceived, and made the innocent instrument of deception by granting patents for the like invention to subsequent claimants. When this is so, the office, has only to declare one inter­ference, and the truth can be brought out. At all events, the subsequent patentee can then bring his adversary face to face, and cross-examine his witness, and offer evi­dence on’his own part,” &amp;e. And again, at page ten of the same printed opinion, I say: “If there be no claimant, or subsequent un­expired patent, for the same invention claimed on this reissue by Mr. Dyson, then I think Jeptha Dyson, the appellant, is en­titled, on the proof, to his reissue as claimed by him; but, if there be such claimant, or subsequent unexpired patent, then I think an interference ought to be declared, and the parties litigant, heard on proof before the office.” After the return of my opinion and judgment of the 21st September, 1S00, to the office, it seems an interference v’as declared between Mr. Dyson, on his reissue claim and the unexpired patent of Gambrill and Burgee of the 27th February, 1S55, and reissued No­vember 17th, 1S57. The principle of the improvement embraced in these interfering claims is doubtless the same, and the office, conforming to my decision, rightly declared the interference.</p>
+                <p id="b224-24" pgmap="224(87) 225(289)">The four witnesses on whose ex parte evi­dence I relied in my opinion of the 21st Sep­tember last on Dyson’s ex parte application for reissue have not been examined on the present interference. Gambrill and Burgee have had no opportunity to cross-examine them, — a right asserted by me in my former opinion, at page six, to belong to them. This evidence therefore is not in the present interference, and cannot be looked at or re­garded by me now, and is so admitted by Judge Mason in his argument for Dyson. The evidence in this present interference, giving to it its most favorable aspect for Dyson, does not show Mr. Dyson to be the inventor of the improvement in controversy at a period earlier than the year 1851. Mr. Dyson fails, therefore, on this interference, to show himself entitled to the reissue pat­ent claimed by him. Nothing is more cer­tain than that you can only embrace in a reissue what was invented before or at the time of the grant of the original patent, what was invented and omitted to be put in the original by accident or mistake, and without any fraudulent or deceptive inten­tion, and only such invention is by law the subject of a reissue. It is urged, however, that the sole issue between the parties to this interference, and now before me, is who of the two parties was the first in­ventor. That is not so. There is no dif­ference, so fax as I can see, between this and any other interference. Gambrill &amp; Burgee were no parties to the former pro­ceeding. and had no opportunity to be heard, and my former decision reserved all their rights. In the case of Loveridge v. Dutch­er [Case No. 8,553], decided by me the 24th May, 1861, I considered this question, whether priority of invention was the sole issue in interference cases; and I held it was not. I said; “My authority is to de­termine which or whether either of the ap­plicants is entitled to a patent as prayed for;” and again: “My duty therefore is to inquire into all the facts and circumstances given in evidence which go to invalidate Dutcher’s claim.”</p>
+                <p id="b225-3" pgmap="225">So in this case my duty is to inquire into all the circumstances, which invalidate Mr. Dyson’s claim to the reissue asked for by him. It is not sufficient for Mr. Dyson to prove that he invented the improvement be­fore Gambrill and Burgee. To get his re­issue, he must prove the invention to have ■been made by him before the date of his •original patent, the 20th February, 1849. I must therefore overrule the appellant's 2nd •and 5th reasons of appeal, and I do, this 9th day of July. 1801, affirm the decision of the commissioner of patents of date 19th .March. 1861, refusing Mr. Dyson a reissue patent, as claimed, for the reasons above stated by me. I return herewith all the papers, models, and drawings with this, my opinion and judgment, this 9th day July, 1SG1.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="224" ORDERLABEL="222" TYPE="page">
+        <fptr FILEID="tiff_00112_1"/>
+        <fptr FILEID="jp2_00112_1"/>
+        <fptr FILEID="alto_00112_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_224.5" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="225" ORDERLABEL="223" TYPE="page">
+        <fptr FILEID="tiff_00113_0"/>
+        <fptr FILEID="jp2_00113_0"/>
+        <fptr FILEID="alto_00113_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_225.3" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-15" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.17" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-23" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.27" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-13" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.15" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-24" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.30" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            <area BEGIN="BL_225.1" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-16" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.18" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APt" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.28" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            <area BEGIN="BL_224.29" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b225-3" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_225.5" BETYPE="IDREF" FILEID="alto_00113_0"/>
+            <area BEGIN="BL_225.6" BETYPE="IDREF" FILEID="alto_00113_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b224-14" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.16" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ARB" BETYPE="IDREF" FILEID="casebody_0100"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_224.19" BETYPE="IDREF" FILEID="alto_00112_1"/>
+            <area BEGIN="BL_224.20" BETYPE="IDREF" FILEID="alto_00112_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

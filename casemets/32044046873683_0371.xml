@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0371" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Ennis v. Holmead">ENNIS v. HOLMEAD</name>
+          <docketnumber>Case No. 4,492</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 722</citation>
+          <citation category="parallel" type="bluebook">5 Cranch, C. C. 509</citation>
+          <decisiondate>1838-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00362_1" MIMETYPE="image/tiff" CHECKSUM="22f48fa5a64b47816c8ff6dccb254d0b" CHECKSUMTYPE="MD5" SIZE="79244">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00362_1.tif"/>
+      </file>
+      <file ID="tiff_00363_0" MIMETYPE="image/tiff" CHECKSUM="da88f9f1d098f6927b7ca90f5b9b04a5" CHECKSUMTYPE="MD5" SIZE="105596">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00363_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00362_1" MIMETYPE="image/jp2" CHECKSUM="28e1a2f1a20fbf6b755e04f6ab90b695" CHECKSUMTYPE="MD5" SIZE="3209880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00362_1.jp2"/>
+      </file>
+      <file ID="jp2_00363_0" MIMETYPE="image/jp2" CHECKSUM="c31b5f7dcf43216ade2b5933c76dcdb8" CHECKSUMTYPE="MD5" SIZE="4110298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00363_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00362_1" MIMETYPE="text/xml" CHECKSUM="38e004863b098ca28402a5b82282e657" CHECKSUMTYPE="MD5" SIZE="164451">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00362_1.xml"/>
+      </file>
+      <file ID="alto_00363_0" MIMETYPE="text/xml" CHECKSUM="3b8087bbcbfd7c3d981c2ce35bb2f994" CHECKSUMTYPE="MD5" SIZE="225915">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00363_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0371" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="723" firstpage="722">
+              <court id="b724-23" pgmap="724">Circuit Court, District of Columbia.</court>
+              <docketnumber id="b724-20" pgmap="724">Case No. 4,492.</docketnumber>
+              <citation id="b724-22" pgmap="724">[5 Cranch, C. C. 509.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b724-21" pgmap="724">ENNIS v. HOLMEAD.</parties>
+              <decisiondate id="A20" pgmap="724">Nov. Term, 1838.</decisiondate>
+              <judges id="b724-29" pgmap="724">CRANCH, Chief Judge, dissented.</judges>
+              <footnote label="1">
+                <p id="b724-32" pgmap="724">1 [Reported by Hon. William Cranch, Chief Judge.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b724-28" pgmap="724">THE COURT</author>
+                <p id="AV05" pgmap="724">affirmed the judgment, which was for $40, “with interest from date;” meaning, probably, the date of the judg­ment, namely, April 14th. 1S38, and costs, one dollar and ten cents.</p>
+                <p id="Aba" pgmap="724">The question is whether a justice of the peace has jurisdiction in suits against executors and administrators where the debt and dam­ages do not exceed the sum of fifty dollars, exclusive of costs. It seems to me very clear that justices of the peace had no jurisdiction in causes against executors and administra­tors under the Maryland act of 1791 (chap­ter 68).</p>
+                <p id="b724-30" pgmap="724">1st. Because they were not liable to arrest; and the only process given by that statute to bring the defendant before a justice of the peace, was a warrant of arrest in the na­ture of a capias ad respondendum.</p>
+                <p id="b724-31" pgmap="724(16) 725(56)">2d. Because an executor or administrator is not a debtor. He is always charged in the detinet only, not in the debet; and the act gives jurisdiction only to a justice of the county “wherein the debtor doth reside;” and he is “to hear and determine the matter in controversy between the creditor and debtor,” “and if need be, charge the consta­ble with the body of the debtor in execu­tion.”</p>
+                <p id="b725-4" pgmap="725">3d. Because the justice of the peace has no authority to ascertain the amount of as­sets, and the debts due to other persons, so as to render judgment only for the plaintiff’s proportion of the assets, according to the Ma­ryland act of 1798 (chapter 101); nor to ap­point an auditor to ascertain the sum for which judgment shall be given; nor to give judgment for such further sum as the court should thereafter assess on discovery of fur­ther assets.</p>
+                <p id="b725-5" pgmap="725">This point was decided by this court in the case of Ritchie v. Stone [Case No. 11,864], in October, 1821. This construction was also given by the courts of Maryland, and it was found necessary to pass a statute, after 1801, to give the necessary powers to justices of the peace, to enable them to exercise juris­diction in such eases. But it is said that the act of congress of the 1st of March, 1823, authorizes the justice of the peace “to try, hear, and determine the matter in controver­sy between the creditor and debtor, their executors and administrators,” and that as the jurisdiction is given, all the means nec­essary for the exercise of that jurisdiction, must be given also. But the question arises, whether the words, “creditor and debtor, their executors and administrators,” give the justice of the peace jurisdiction of cases •against executors and administrators. There can be no objection to the justice’s jurisdic­tion in cases where executors or administra­tors are plaintiffs, and such • jurisdiction would be sufficient to give effect to the words, “‘their executors and administrators,” in that clause of the statute. It seems to me evi­dent that the legislature of Maryland, by the act of 1791 (chapter 6S), intended to give jurisdiction to a single magistrate, only in the simple case of contract; and did not trust him with cases of tort or trespass, sounding in damages, or in cases against ex­ecutors and administrators, where the plea •of plene administravit might be pleaded, and the administration account examined and settled; involving questions of property to a vast amount, and questions of law of great •importance. The Maryland act of 1798, c. 101, subc. 8 (sections 6-9), provides, that no executor or administrator “shall be compell­ed to put in special bail;” nor “to plead plene administravit, or any thing relative to the assets;” “and when the debtor damages which the deceased (if he or she were alive,) ought to pay, shall be ascertained by verdict, or confession, or otherwise, the court, before whom the action was brought, shall there­upon assess the sum which the executor or administrator ought to pay, regard being had to the amount of assets in his ■ hands, and the debts due to other persons;” or, the court may “refer the matter to an auditor, to as­certain the sum for which judgment shall be given; and in case the judgment shall be for a sum inferior to the real debt, or dam­ages and costs, it shall go on and say that the plaintiff shall be entitled to such further sum as the court shall hereafter assess on discovery of further assets in the hands of the defendant; and the court at any time afterwards, when applied to by the plaintiff, on three days’ notice to the defendant, or his attorney, may assess and give judgment for such further proportionable sum as the plaintiff shall appear entitled to, regard be­ing had, as aforesaid, to the amount of the debt and other claims.”</p>
+                <p id="b725-7" pgmap="725">From the purview of these provisions, it is evident that they are applicable only to courts of general jurisdiction; courts having power to appoint an auditor, and to compel the settlement of an administration account. No such power is given, by the Maryland act of 1791 (chapter 68), nor by the act of congress of the 1st of March, 1823 (3 Stat. 743), to a justice of the peace. The jurisdic­tion of this court (the circuit court) is gen­eral, with the exception only of cases within the jurisdiction of a justice of the peace. If the justice has not jurisdiction of cases against executors and administrators, this court has; so that there will be no failure of remedy.</p>
+                <p id="b725-8" pgmap="725">Although the act of congress of March 1, 1823 (3 Stat. 743), authorizes a justice of the peace to try, hear, and determine the matter in controversy “between the creditor and debtor, their executors and administrators,” yet it is to be “in the same manner, and under the same rules and regulations, to all intents and purposes, as such justices of the peace are now authorized and empowered to do, when the debt or damages do not exceed the sum of $20, exclusive of costs.” The ob­ject of this act was to extend the jurisdic­tion of the justices of the peace from 820 to 850, and to exercise that extended jurisdic­tion “in the same manner, and under the same rules and regulations, to all intents and purposes,” as they were then authorized to do, when the debt or damages did not exceed 820. It does not alter the nature or character of the causes submitted to their jurisdiction, but only the value of the mat­ter in controversy. For these reasons, I think the justices of the peace have not ju­risdiction of causes against executors or ad­ministrators.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="724" ORDERLABEL="722" TYPE="page">
+        <fptr FILEID="tiff_00362_1"/>
+        <fptr FILEID="jp2_00362_1"/>
+        <fptr FILEID="alto_00362_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_724.4" BETYPE="IDREF" FILEID="alto_00362_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="725" ORDERLABEL="723" TYPE="page">
+        <fptr FILEID="tiff_00363_0"/>
+        <fptr FILEID="jp2_00363_0"/>
+        <fptr FILEID="alto_00363_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_725.6" BETYPE="IDREF" FILEID="alto_00363_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-4" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.8" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-5" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.9" BETYPE="IDREF" FILEID="alto_00363_0"/>
+            <area BEGIN="BL_725.10" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-7" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.11" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b725-8" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_725.12" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A20" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.29" BETYPE="IDREF" FILEID="alto_00362_1"/>
+            <area BEGIN="BL_724.30" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-20" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.25" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-21" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.26" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-22" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.27" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AV05" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.35" BETYPE="IDREF" FILEID="alto_00362_1"/>
+            <area BEGIN="BL_724.36" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-31" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.41" BETYPE="IDREF" FILEID="alto_00362_1"/>
+            <area BEGIN="BL_725.4" BETYPE="IDREF" FILEID="alto_00363_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-30" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.40" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-28" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.34" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-29" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.37" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aba" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.38" BETYPE="IDREF" FILEID="alto_00362_1"/>
+            <area BEGIN="BL_724.39" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-23" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.28" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b724-32" BETYPE="IDREF" FILEID="casebody_0371"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_724.42" BETYPE="IDREF" FILEID="alto_00362_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

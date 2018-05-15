@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0307" publicationstatus="published">
+          <court abbreviation="C.C.D. Cal." jurisdiction="United States">United States Circuit Court for the District of California</court>
+          <name abbreviation="Ely v. Elliott">Ely et al. v. ELLIOTT et al.</name>
+          <docketnumber>Case No. 4,429a</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 600</citation>
+          <citation category="parallel" type="bluebook">14 Reporter, 513; 28 Int. Rev. Rec. 370</citation>
+          <decisiondate>1882</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00301_1" MIMETYPE="image/tiff" CHECKSUM="434c220cc3b8934c61689ee310eb35d4" CHECKSUMTYPE="MD5" SIZE="81746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00301_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00301_1" MIMETYPE="image/jp2" CHECKSUM="3b46db9241052bf5cb8c59223dfa8f6b" CHECKSUMTYPE="MD5" SIZE="3035238">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00301_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00301_1" MIMETYPE="text/xml" CHECKSUM="e000aca1a428ef3f80da2d53a90263ba" CHECKSUMTYPE="MD5" SIZE="170162">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00301_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0307" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="600" firstpage="600">
+              <court id="AJF" pgmap="602">Circuit Court, D. California.</court>
+              <docketnumber id="b602-2" pgmap="602">Case No. 4,429a.</docketnumber>
+              <citation id="b602-4" pgmap="602">[14 Reporter, 513;<footnotemark>1</footnotemark> 28 Int. Rev. Rec. 370.]</citation>
+              <parties id="b602-3" pgmap="602">Ely et al. v. ELLIOTT et al.</parties>
+              <decisiondate id="AJ6" pgmap="602">1882.</decisiondate>
+              <attorneys id="b602-7" pgmap="602">Cope &amp; Boyd and W. W. Crane, for com­plainants.</attorneys>
+              <attorneys id="b602-8" pgmap="602">Flournoy &amp; Mhoon, for defendants.</attorneys>
+              <footnote label="1">
+                <p id="b602-10" pgmap="602">1 I Reprinted from 14 Reporter, 513, by per­mission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b602-9" pgmap="602">FIELD, Circuit Justice,</author>
+                <p id="AGAO" pgmap="602">in delivering the opinion of the court said: The case present­ed by the bill in equity is sufficient to justify the court in directing a stay of proceedings in the action at law until the plaintiffs there­in appear to the suit and until it is heard and determined. It is brought in aid of the defence to that action, and if the complain­ants are entitled to a correction of the deed executed to their grantor in 185C, or to a con­veyance from the defendants, as purchasers with notice of their equity, it would be in­equitable to preclude them from showing the fact and obtaining the relief prayed. In the state courts the complainants here could, as defendants in the action at law, set up in their answer their equitable defence and ob­tain a decree upon it before the trial of the issue at law. Arguello v. Edinger, 10 Cal. 159; Weber v. Marshall, 19 Cal. 447. The plaintiffs in that action are allowed by rea­son of their citizenship in another state to institute their action in the circuit court of the United States, but they ought not to be permitted for that reason to deprive the de­fendants therein, the complainants here, of any just defence to which they are entitled under the laws of the state, although, by reason of the separate systems of law and equity in the federal courts, they are obliged to seek their relief through the more cum­bersome and laborious proceeding of an in­dependent suit. The complainants will be allowed to serve a subpoena upon the attor­neys of the plaintiffs in the action at law, and an order will be entered granting an in­junction staying proceedings in that action until the hearing and determination of this suit, or the further order of the court, upon the complainants filing a bond in the usual form in such cases for damages if it should be ultimately determined that they are Dot entitled to the relief prayed, or the suit should be dismissed — the bond to be approv­ed in form and amount by the circuit judge. Although the attorneys of theplaintifls in the action at law are not specially authorized, as stated by them, to appear for the plaintiffs in any other case, their original authority is deemed to extend to such proceedings as immediately affect the right to recover the property in controversy. The power of a court of equity to authorize substituted serv­ice in suits instituted in aid of the defence to an action at law, where the plaintiffs in such action are non-residents and absent from the state, is well established. Says Daniell. in his treatise on Chancery Pleading and Practice, which is a work of approved merit: “The jurisdiction is most frequently exerted where actions at law are brought by persons resident abroad to enforce demands, which, although they have, strictly speak­ing, a legal right to make, it is against the principles of equity to permit. In such cases the court will interfere by injunction served upon the attorney employed in this country to conduct the proceedings at law to restrain the further prosecuting of such proceedings until his employer has submitted himself to the jurisdiction. In order to accomplish this purpose it is permitted to the plaintiff in eq­uity, in the first instance, to obtain an order, directing that service of the subpoena upon the attorney employed in the cause at law shall be deemed good service. (2d Am. Ed.) 518. See, also, Burke v. Vickars, 3 Brown, Ch. 23; 4 Ves. 359; 3 Madd. 550; Hitner v. Suckley [Case No. 6,543]; Read v. Consequa [Id. 11,606].</p>
+                <p id="b602-13" pgmap="602">Order for injunction on bill, and for serv­ice of subpoena on attorneys, granted.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="602" ORDERLABEL="600" TYPE="page">
+        <fptr FILEID="tiff_00301_1"/>
+        <fptr FILEID="jp2_00301_1"/>
+        <fptr FILEID="alto_00301_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_602.3" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-4" BETYPE="IDREF" FILEID="casebody_0307"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.6" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJF" BETYPE="IDREF" FILEID="casebody_0307"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.7" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-2" BETYPE="IDREF" FILEID="casebody_0307"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.4" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-3" BETYPE="IDREF" FILEID="casebody_0307"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.5" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-8" BETYPE="IDREF" FILEID="casebody_0307"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.13" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-9" BETYPE="IDREF" FILEID="casebody_0307"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.14" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGAO" BETYPE="IDREF" FILEID="casebody_0307"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.15" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            <area BEGIN="BL_602.16" BETYPE="IDREF" FILEID="alto_00301_1"/>
+            <area BEGIN="BL_602.17" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJ6" BETYPE="IDREF" FILEID="casebody_0307"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.8" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-13" BETYPE="IDREF" FILEID="casebody_0307"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.19" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-10" BETYPE="IDREF" FILEID="casebody_0307"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.18" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b602-7" BETYPE="IDREF" FILEID="casebody_0307"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_602.12" BETYPE="IDREF" FILEID="alto_00301_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0212" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Electra">The ELECTRA. The NIAGARA</name>
+          <docketnumber>Case No. 4,339</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 438</citation>
+          <citation category="parallel" type="bluebook">7 Ben. 344</citation>
+          <decisiondate>1874-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00220_1" MIMETYPE="image/tiff" CHECKSUM="3d6721ca9fc1c251b331a5bc10337d41" CHECKSUMTYPE="MD5" SIZE="79816">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00220_1.tif"/>
+      </file>
+      <file ID="tiff_00221_0" MIMETYPE="image/tiff" CHECKSUM="37b08f199994d9fb63e2cc635685752d" CHECKSUMTYPE="MD5" SIZE="113694">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00221_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00220_1" MIMETYPE="image/jp2" CHECKSUM="eb76ff318cc72d926e72be814dc8c0fe" CHECKSUMTYPE="MD5" SIZE="3035208">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00220_1.jp2"/>
+      </file>
+      <file ID="jp2_00221_0" MIMETYPE="image/jp2" CHECKSUM="ded82987f601592340ddf1d37659cbf0" CHECKSUMTYPE="MD5" SIZE="3826550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00221_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00220_1" MIMETYPE="text/xml" CHECKSUM="e3a0252ccdccaf1ccc8c9c79b76cef10" CHECKSUMTYPE="MD5" SIZE="179489">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00220_1.xml"/>
+      </file>
+      <file ID="alto_00221_0" MIMETYPE="text/xml" CHECKSUM="4c54a5e7ab95a144b579fe7790fa4c93" CHECKSUMTYPE="MD5" SIZE="247225">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00221_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0212" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="439" firstpage="438">
+              <court id="b440-6" pgmap="440">District Court, S. D. New York.</court>
+              <docketnumber id="b440-2" pgmap="440">Case No. 4,339.</docketnumber>
+              <citation id="b440-5" pgmap="440">[7 Ben. 344.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b440-3" pgmap="440">The ELECTRA. The NIAGARA.</parties>
+              <decisiondate id="Aae" pgmap="440">June, 1874.</decisiondate>
+              <attorneys id="b440-15" pgmap="440">W. R. Beebe, for the Niagara and the Carrie Reed.</attorneys>
+              <attorneys id="b440-16" pgmap="440">E. C. Benedict and R. D. Benedict, for the Electra.</attorneys>
+              <footnote label="1">
+                <p id="b440-18" pgmap="440">1 [Reported by Robert D. Benedict, Esq., and B. Lincoln Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b440-17" pgmap="440">BLATCHFORD, District Judge.</author>
+                <p id="AnkZ" pgmap="440">On the 12th of June, 1S72, at a quarter past 7 o’clock a. m., c thereabouts, the ship Car­rie Reed, owned by Samuel G. Reed, the libellant in the first above entitled suit, was lying with her stern out towards the river, and her stem towards the shore, at the east or upper side of a pier at Harbeck’s stores, in the city of Brooklyn, in the East river, and parallel with the length of said pier. She was not loaded, and, with a view to transport her to a pier on the opposite side of the river, to be loaded, the steamtug Niagara and the steamtug President came to her, to tow her. The Niagara, which is the vessel sued in the second above entitled suit, was lashed with her starboard side against the port side of the Carrie Reed, her stem pointing the same way with the stem of the Carrie Reed. The President took a line from the Carrie Reed, from the starboard quarter aft of the Carrie Reed to the stern bitts of the President, the stem of the President heading towards across the river, with a view, as the' Niagara should back, to have the President go ahead, and by pulling on said line, keep the side of the Carrie Reed which was next to the pier from unduly pressing against the pier, as she was backed out The Niagara backed and the President pulled until the Carrie Reed had gone out a certain distance, when the President swung around, still holding fast by said line, with a view to lash herself along the starboard side of the Carrie Reed, with her stem pointing the same way with the stem of the Carrie Reed. While the Car­rie Reed and the tugs were in this position, the steamer Electra, the vessel sued in the first above entitled suit, owned by the libel-­lants in the second above entitled suit, came down the East river from the eastward, on a trip from Providence to New York; and she and the Carrie Reed came into collision. The port side of the Electra, at some distance aft from her stem, came into contact with the stern of the Carrie Reed. On the part of the Carrie Reed, $10,000 damages are claimed, and on the part of the Electra «$1,500.</p>
+                <p id="b440-21" pgmap="440">The Carrie Reed charges that the collision was the fault of the Electra, in not keeping a course down the middle of the river, in run­ning too close to the Brooklyn shore, in run­ning at too great a rate of speed, in not changing her course so as to avoid the Carrie Reed, and in not slowing, stopping and back­ing in time to avoid the collision. It is con­tended for the Carrie Reed, that, at the time of the collision, her stem was just clear of the outer end of the pier, and that the plec­tra came along at a full rate of speed, im­properly close to the Brooklyn shore, and did not stop, back or change her course.</p>
+                <p id="b440-22" pgmap="440(177) 441(325)">The case set up on the part of the Electra is, that, as she was coming from the east­ward, and approached the Fulton Ferry slip on the Brooklyn side, she saw in the river to the west of or below the Fulton Ferry, a boat towing some spars, a lighter which apparently was bound to New York, and a schooner which was heading towards New York; that the only proper and safe course for the Electra was to go under the stern of the schooner and between her and the Brooklyn shore; that it was not prudent for her to attempt to go nearer the New York shore than she did; that she also saw the Carrie Reed being towed out stern foremost by the Niagara fastened alongside of her; that the Electra blew one blast of her whis­tle, as a signal to the Niagara not to come out so far into the river as to interfere with the passage of the Electra; that the Niagara did not pay any attention to the said whistle. and did not take proper measures to avoid the Eleetra, as it was her duty to do, but towed the Carrie Reed so far out into the stream, that, before the Eleetra could pass by the Carrie Reed and the Niagara, the Car­rie Reed was carried stern foremost against the side of the Eleetra, striking her nearly amidships; that it was not possible for the Eleetra to have sheered further to starboard, by reason of the fact, that, when the said schooner, which was nearly ahead of the Eleetra’s course, had passed slightly to the starboard of that course, she suddenly changed her course, which would otherwise have carried her far over towards the New York shore, and headed directly up the East river, on a course nearly parallel with the .course of the Eleetra; that, as soon as that change of the schooner’s course was seen, the helm of the Eleetra was slightly star-­boarded, until her course was such as to en­able her to clear the said schooner, when her helm was again changed, in order to give as much room as possible to the Niagara with the Carrie Reed in tow; that the collision was occasioned by the fault of the Niagara, in that she paid no attention to the whistle of the Eleetra. and in that she had not a proper and sufficient lookout, and in that she failed to avoid the Eleetra, which was on her starboard hand, and whose course was crossing hers, and in that she failed to stop in time, or to change the direction of the Carrie Reed from a backward to a forward motion in time, and thus carry her clear of the course of the Eleetra, when there was abundant room between the tug and the piers for the tug to have done so; and that the collision could not have been avoided by any action on the part of the Eleetra.</p>
+                <p id="b441-3" pgmap="441">The evidence shows, that the Eleetra dis­tinctly saw, from a point a long distance up the river, that the Carrie Reed was being backed out into the river from the piers, stern foremost, by a tug which was herself proceeding stern foremost, and was inter­posed between the Carrie Reed and the Eleetra. Yet, confessedly, the Eleetra, see­ing in the river between the Carrie Reed and the New York shore, the lighter, the tow of spars and the schooner, kept on without slacking her speed, or stopping and revers­ing, at any time before the collision, taking the chance of getting around the stern of the Carrie Reed before the passage by should be closed. All this time she saw, or ought to have seen, that the Carrie Reed was back­ing and moving out into the river, and upon the course of the Eleetra. She now seeks to avail herself of the principle of article 14 of the steering and sailing rules, by insist­ing that the course of the Eleetra, as one steam vessel, and the course of the Niagara and the Carrie Reed, regarded as another steam vessel, were crossing courses, and so crossing as to involve risk of collision, and that the Niagara and the Carrie Reed, as having the Eleetra on their own starboard side, were bound to keep out of the way of the Eleetra, and the Eleetra was bound, under article 18, to keep her course. But article 20 of the rules provides, that nothing therein shall exonerate any ship from the consequences of the neglect of any precau­tion which may be required by the special circumstances of the case; and article 16 provides, that every steamship, when ap­proaching another ship, so as to involve risk of collision, shall slacken her speed, or, if necessary, stop and reveise.</p>
+                <p id="b441-6" pgmap="441">A steamtug with a ship in tow, especially when both vessels are proceeding stern fore­most out of a slip or from a pier into a waterway, is in a very different situation from a steamer which is unincumbered and is moving stern foremost. The Niagara, thus incumbered, and proceeding stern fore­most, slowly and cautiously, could not turn out of her course and turn into it again without difficulty and without inconvenience. She could not, by the movement of her en­gine, control with any facility the movement backward or forward of the mass composed of herself and the Carrie Reed. The Inde­pendence, 1 Lush. 270. There were, thus, special circumstances in the case, which called on the Eleetra, seeing, as she did, at a sufficient distance off, the two vessels moving out stern foremost, to take all the precautions to avoid a collision with either of the two vessels, which such special cir­cumstances called for. An obvious precau­tion was not to keep on, as she did, with undiminished speed. The evidence shows that she could easily have avoided the col­lision if she had stopped and reversed at a sufficient distance off, as required by article 16. Risk of collision was apparent at a suf­ficient distance off to have enabled her, by stopping and reversing, to avoid the col­lision which happened. I must, therefore, hold the Eleetra to have been in fault</p>
+                <p id="b441-7" pgmap="441">In regard to fault on the part of the Ni­agara, I am not prepared to hold that a tug situated as the Niagara was, was bound, under article 14, to keep out of the way of the Eleetra. When the Niagara started to back the Carrie Reed out, the Eleetra could not have been in sight. There was a pro­jecting point on the shore above where the Niagara started, which gave to her a re­stricted view up the river. She moved out slowly. The Eleetra came down at rapid speed, without checking or slackening such speed. The Niagara, as soon as danger was or ought to have been visible to her, stopped her engine and reversed it, so as to try and give herself and the Carrie Reed motion towards the Brooklyn shore, and away from the course of the Eleetra. She did all she could do, and all she was bound to do, to avoid the collision.</p>
+                <p id="b441-8" pgmap="441">There must be a decree for the libellant in the suit against the Eleetra, and the libel in the suit against the Niagara must be dis­missed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="440" ORDERLABEL="438" TYPE="page">
+        <fptr FILEID="tiff_00220_1"/>
+        <fptr FILEID="jp2_00220_1"/>
+        <fptr FILEID="alto_00220_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_440.3" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="441" ORDERLABEL="439" TYPE="page">
+        <fptr FILEID="tiff_00221_0"/>
+        <fptr FILEID="jp2_00221_0"/>
+        <fptr FILEID="alto_00221_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_441.3" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnkZ" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.19" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            <area BEGIN="BL_440.20" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            <area BEGIN="BL_440.21" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-2" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.4" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-3" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.5" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            <area BEGIN="BL_440.6" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-5" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.7" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-6" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.8" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-16" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.17" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-17" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.18" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-15" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.16" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-18" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.22" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-22" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.24" BETYPE="IDREF" FILEID="alto_00220_1"/>
+            <area BEGIN="BL_441.1" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b440-21" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.23" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aae" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_440.9" BETYPE="IDREF" FILEID="alto_00220_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-7" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.8" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-6" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.7" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-3" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.5" BETYPE="IDREF" FILEID="alto_00221_0"/>
+            <area BEGIN="BL_441.6" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b441-8" BETYPE="IDREF" FILEID="casebody_0212"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_441.9" BETYPE="IDREF" FILEID="alto_00221_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,296 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0124" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="Eastern Ky. R. v. Slack">EASTERN KY. R. CO. v. SLACK</name>
+          <docketnumber>Case No. 4,253</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 267</citation>
+          <citation category="parallel" type="bluebook">22 Int. Rev. Rec. 247</citation>
+          <decisiondate>1876-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00135_0" MIMETYPE="image/tiff" CHECKSUM="142c45c3dc7a4125dea3e49de8d7a733" CHECKSUMTYPE="MD5" SIZE="33108">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00135_0.tif"/>
+      </file>
+      <file ID="tiff_00135_1" MIMETYPE="image/tiff" CHECKSUM="fe605aac1f4d498cc65ec70147871199" CHECKSUMTYPE="MD5" SIZE="65896">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00135_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00135_0" MIMETYPE="image/jp2" CHECKSUM="7d5425215d2fa72d12d9d96ec85b7387" CHECKSUMTYPE="MD5" SIZE="1874994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00135_0.jp2"/>
+      </file>
+      <file ID="jp2_00135_1" MIMETYPE="image/jp2" CHECKSUM="7b97ebe1458ac185e73cd483b7e0a4de" CHECKSUMTYPE="MD5" SIZE="2750359">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00135_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00135_0" MIMETYPE="text/xml" CHECKSUM="44666826ef434c8f7e04110779211363" CHECKSUMTYPE="MD5" SIZE="61823">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00135_0.xml"/>
+      </file>
+      <file ID="alto_00135_1" MIMETYPE="text/xml" CHECKSUM="c022177e4f86625e0503dac0982c5548" CHECKSUMTYPE="MD5" SIZE="144459">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00135_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0124" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="268" firstpage="267">
+              <court id="b269-5" pgmap="269">Circuit Court, D. Massachusetts.</court>
+              <docketnumber id="b269-2" pgmap="269">Case No. 4,253.</docketnumber>
+              <citation id="b269-4" pgmap="269">[22 Int. Rev. Rec. 247.]</citation>
+              <parties id="b269-3" pgmap="269">EASTERN KY. R. CO. v. SLACK.</parties>
+              <decisiondate id="ASx" pgmap="269">Jan., 1876.</decisiondate>
+              <attorneys id="b269-17" pgmap="269">F. W. Palfrey, for plaintiff.</attorneys>
+              <attorneys id="b269-18" pgmap="269">George P. Sauger, U. S. Atty., for defend­ant</attorneys>
+              <opinion type="majority">
+                <author id="b269-19" pgmap="269">CLARK, District Judge,</author>
+                <p id="AACP" pgmap="269">took the case un­der advisement, and in July, 1876, filed in writing the following opinion of the court:</p>
+                <p id="b269-20" pgmap="269(190) 270(49)">In the case of the Kentucky Improvement Company v. Slack [supra], I held that the plaintiff company'was a railroad company, and liable to the tax assessed upon the coupons of the bonds issued for building its road, and secured by a mortgage of its property and improvements, for reasons there stated. The Eastern Kentucky Rail­way Company in pursuance of authority in its charter, purchased “all the property” of the Kentucky Improvement Company “real, personal, and mixed, including its franchise, subject, however, to a certain mortgage made” by said Kentucky Improve­ment Company, August 15, 1866, to secure a certain issue of bonds by said improvement company to the amount of $500.000. The statute of July 14, 1870, § 15 (16 Stat 260), provided “that there shall be levied and collected for and during the year 1871, a tax of two and a half per centum on the amount of all interest or coupons paid on bonds,” etc., issued and payable in one or more years, etc., by any of the corporations mentioned in the section among which were .railroads. The Eastern Kentucky Railway Company having purchased the property of the Kentucky Improvement Company, in­cluding its railroad, subject to the mort­gage to secure the bonds and coupons' in question, the inference is that they were to pay said bonds and coupons, and were liable to the tax assessed. Judgment for the de­fendant and for his costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="269" ORDERLABEL="267" TYPE="page">
+        <fptr FILEID="tiff_00135_0"/>
+        <fptr FILEID="jp2_00135_0"/>
+        <fptr FILEID="alto_00135_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_269.2" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="270" ORDERLABEL="268" TYPE="page">
+        <fptr FILEID="tiff_00135_1"/>
+        <fptr FILEID="jp2_00135_1"/>
+        <fptr FILEID="alto_00135_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_270.7" BETYPE="IDREF" FILEID="alto_00135_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-17" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.19" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-19" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.21" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-18" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.20" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-20" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.24" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            <area BEGIN="BL_270.4" BETYPE="IDREF" FILEID="alto_00135_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASx" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.8" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AACP" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.22" BETYPE="IDREF" FILEID="alto_00135_0"/>
+            <area BEGIN="BL_269.23" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-3" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.5" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-2" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.4" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-5" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.7" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b269-4" BETYPE="IDREF" FILEID="casebody_0124"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_269.6" BETYPE="IDREF" FILEID="alto_00135_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0530" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="In re Farez">In re FAREZ</name>
+          <docketnumber>Case No. 4,646</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1013</citation>
+          <citation category="parallel" type="bluebook">7 Blatchf. 491</citation>
+          <decisiondate>1870-07-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00508_0" MIMETYPE="image/tiff" CHECKSUM="37faed18224dba8895892d4d95efa60b" CHECKSUMTYPE="MD5" SIZE="77564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00508_0.tif"/>
+      </file>
+      <file ID="tiff_00508_1" MIMETYPE="image/tiff" CHECKSUM="3121406d0543640efee641726a481882" CHECKSUMTYPE="MD5" SIZE="116980">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00508_1.tif"/>
+      </file>
+      <file ID="tiff_00509_0" MIMETYPE="image/tiff" CHECKSUM="465d70fdd4d216fc587bcbb0871d0513" CHECKSUMTYPE="MD5" SIZE="60606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00509_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00508_0" MIMETYPE="image/jp2" CHECKSUM="a1e48cdf29377360211c443f96f8a986" CHECKSUMTYPE="MD5" SIZE="2942135">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00508_0.jp2"/>
+      </file>
+      <file ID="jp2_00508_1" MIMETYPE="image/jp2" CHECKSUM="446d15095503c23815e9eef1184344ea" CHECKSUMTYPE="MD5" SIZE="3813676">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00508_1.jp2"/>
+      </file>
+      <file ID="jp2_00509_0" MIMETYPE="image/jp2" CHECKSUM="de26b638688248fad4166523705ca8bd" CHECKSUMTYPE="MD5" SIZE="2558059">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00509_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00508_0" MIMETYPE="text/xml" CHECKSUM="dc66009ef19305281f1ebfe6a9a70596" CHECKSUMTYPE="MD5" SIZE="159239">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00508_0.xml"/>
+      </file>
+      <file ID="alto_00508_1" MIMETYPE="text/xml" CHECKSUM="2abd7aeaeb25ffd4cefb52408982e85c" CHECKSUMTYPE="MD5" SIZE="245529">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00508_1.xml"/>
+      </file>
+      <file ID="alto_00509_0" MIMETYPE="text/xml" CHECKSUM="79727d3ea9bec2452f16f619e0685c6a" CHECKSUMTYPE="MD5" SIZE="125184">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00509_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0530" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1015" firstpage="1013">
+              <court id="b1015-12" pgmap="1015">Circuit Court, S. D. New York.</court>
+              <docketnumber id="b1015-9" pgmap="1015">Case No. 4,646.</docketnumber>
+              <citation id="b1015-11" pgmap="1015">[7 Blatchf. 491.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1015-10" pgmap="1015">In re FAREZ.</parties>
+              <decisiondate id="AhaR" pgmap="1015">July 11, 1870.</decisiondate>
+              <attorneys id="b1015-20" pgmap="1015">Francis R. Coudert, for prisoner.</attorneys>
+              <attorneys id="b1015-21" pgmap="1015">Henry- D. Lapaugh, for the Swiss govern­ment</attorneys>
+              <footnote label="1">
+                <p id="b1015-24" pgmap="1015">1 [Reported by Hon. Samuel Blatchford, Dis­trict Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1015-22" pgmap="1015">WOODRUFF, Circuit Judge (orally).</author>
+                <p id="AqP6" pgmap="1015">(1.) I find before me, on this occasion, a proceed­ing lately had in this court, involving the precise questions now raised, and by the same petitioner, in which proceeding the court made an order which it deemed to be within its jurisdiction and according to law, on the facts then before it. The papers now produced are precisely those which were then before the court, and which were the basis of the order then made. No new facts whatever appear, save that the parties are proceeding in the execution of that order. I, have also before me the additional circum­stance, that the same petitions for a habeas corpus and for a writ of certiorari, to bring up these proceedings, which were presented to me, and under which the court is now acting, had, before they were brought to me, been presented to the associate justice of the supreme court assigned to this circuit, and that he refused to allow them.</p>
+                <p id="b1015-23" pgmap="1015(7) 1016(108)">I might content myself with saying that, as nothing new has occurred to change the aspect of this proceeding since this court acted upon it and made such order as was then deemed proper,- it is hardly fit that this same tribunal should review its own pro­ceeding in the manner now attempted, be­cause another judge is now sitting, even if the judge now present entertained a doubt :as to the propriety of the order heretofore made. I think it would be a fitting exer­cise of my judicial functions to accept the judgment of the court heretofore given, and the opinion of Mr. Justice Kelson, as suffi­cient authority for remanding the prisoner,</p>
+                <p id="b1016-4" pgmap="1016">- (2.) I find, however, no reason for dis­charging this prisoner, as matter of my own independent judgment Since the petitions were presented to me, I have made some ex­amination of the questions which I supposed would arise and be presented for my con­sideration here, and I do not now find, on examination of the papers as produced, and hearing the argument, anything that I did not anticipate, or anything to change the impression which my previous examination produced.</p>
+                <p id="b1016-5" pgmap="1016">1. The mandate issued from the depart­ment of state of the United States, shows that the government of the United States has been applied to, and the performance of the stipulations of the treaty between the United States and the Swiss confederation, of the 25th of November, 1850, by the extra­dition of the prisoner, charged with forgery, has been requested; and that the govern­ment of the United States has entertained the application and certified the fact, to the end that the evidence of the prisoner’s crim­inality might be heard and examined, and, if found sufficient; might be certified, in or­der that a warrant for the surrender of the prisoner might be issued. So that we. have not merely the sanction of the government, but, in a sense, the requirement of the gov­ernment, and the requirement of the acts of congress, calling upon the officers who are charged with the duty of examining the proofs and of certifying them to the execu­tive, to perform that duty in this case.</p>
+                <p id="b1016-6" pgmap="1016">2. I find, also, that, pursuant to the acts of congress, a complaint has been made and presented to the commissioner, setting out the fact that our government has been so applied to, and has issued its mandate — a complaint charging the offence of forgery with great particularity, and declaring that it is punishable, under the laws of the Swiss confederacy, by infamous punishment, and not, (as seems to have been claimed on the argument,) resting that allegation upon the mere opinion of the complainant, but de­claring what that punishment is, in point of fact, to wit, imprisonment in the state prison. ■This complaint must be regarded as suffi­cient. In every substantial particular it meets' the requirements of our own laws. It seems to me, after a careful examination of it, that it does so with great fullness, if it does not even more than satisfy those re­quirements, as a complaint charging the pris­oner with the offence of forgery.</p>
+                <p id="b1016-8" pgmap="1016">3. That being so, there remained to the -commissioner a plain duty — a duty which he could not avoid, namely, to issue his war­rant bringing the prisoner before him, to the end that the proofs might be taken and ex­amined, so that this government might- be . able to perform the stipulations of its treaty. Under that complaint, in compliance with the mandate of the government, and in obedi­ence to the acts of congress, a warrant was issued by Commissioner Shields, who has full and express authority for that purpose, which the warrant recites, sufficiently for all the purposes of such a warrant, appro­priately referring to the acts of congress in that behalf.</p>
+                <p id="b1016-10" pgmap="1016">4. By virtue of that warrant the prisoner is now held, and the examination and tak­ing of proofs are now pending before Com­missioner White, before whom the prisoner has been brought for the taking of such proofs. I should set the acts of congress at naught, and nullify-the treaty, if I were to discharge the prisoner from that proceeding, unless the error alleged to have been com­mitted on a former examination is fatal, not only to the order declaring the crime sufficiently established, but to the entire pro­ceeding; and this, I am clearly of opinion, is not so.</p>
+                <p id="b1016-11" pgmap="1016(289) 1017(34)">5. While the proceeding is to be conducted with a cautious regard to the rights of the prisoner, it is not required, either by any just construction of the acts of congress, by any needful application of the rules of the •common law, or by any regard to the pris­oner’s rights, or his protection, that a rigid respect be paid to any special technical form. If, on the examination, error occurs, by the exclusion of testimony which was ad­missible, it may be that the proceeding in that respect can be reviewed on habeas corpus. Such was Judge Blatchford’s opin­ion. But, if that be so, the error should not and does not extend beyond the immediate order .which was based upon such examina­tion, or rather the order depending upon that examination. The prisoner sought re­lief from an order based on an examination erroneously conducted, and he has obtained such relief. The relief goes back to the error, and places him in the same situation as if no error had occurred. The prisoner stands, therefore, under arrest as before," charged and held for examination, but not committed for surrender. I find nothing in the acts of congress, or in any rule of law with which I am familiar, which made it necessary that Judge Blatchford should go one step further than he did, if, indeed, it be true that a habeas corpus can be issued at all for any such purpose. While it is clear that there is, in fact, no order of apy court, and no decision of any judge, that the prisoner is illegally held under the warrant which was issued upon the complaint in this case, so, on the other hand, under the views which I have already expressed, I, find no order of any court cr judge declaring such arrest to be illegal or improper; and it is clear that there should be no such order.</p>
+                <p id="b1017-4" pgmap="1017">The prisoner must be remanded.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1015" ORDERLABEL="1013" TYPE="page">
+        <fptr FILEID="tiff_00508_0"/>
+        <fptr FILEID="jp2_00508_0"/>
+        <fptr FILEID="alto_00508_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1015.5" BETYPE="IDREF" FILEID="alto_00508_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1016" ORDERLABEL="1014" TYPE="page">
+        <fptr FILEID="tiff_00508_1"/>
+        <fptr FILEID="jp2_00508_1"/>
+        <fptr FILEID="alto_00508_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1016.4" BETYPE="IDREF" FILEID="alto_00508_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1017" ORDERLABEL="1015" TYPE="page">
+        <fptr FILEID="tiff_00509_0"/>
+        <fptr FILEID="jp2_00509_0"/>
+        <fptr FILEID="alto_00509_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1017.3" BETYPE="IDREF" FILEID="alto_00509_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-5" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.6" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-4" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.5" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-6" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.7" BETYPE="IDREF" FILEID="alto_00508_1"/>
+            <area BEGIN="BL_1016.8" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-8" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.9" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqP6" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.24" BETYPE="IDREF" FILEID="alto_00508_0"/>
+            <area BEGIN="BL_1015.25" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-21" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.22" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-23" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.26" BETYPE="IDREF" FILEID="alto_00508_0"/>
+            <area BEGIN="BL_1016.1" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-22" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.23" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-10" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.11" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-11" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.12" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-12" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.13" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-20" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.21" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1017-4" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1017.5" BETYPE="IDREF" FILEID="alto_00509_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhaR" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.14" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-9" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.10" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-11" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.11" BETYPE="IDREF" FILEID="alto_00508_1"/>
+            <area BEGIN="BL_1017.1" BETYPE="IDREF" FILEID="alto_00509_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1016-10" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1016.10" BETYPE="IDREF" FILEID="alto_00508_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1015-24" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1015.27" BETYPE="IDREF" FILEID="alto_00508_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

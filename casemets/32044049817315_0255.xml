@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0255" publicationstatus="published">
+          <court abbreviation="E.D. Mich." jurisdiction="United States">United States District Court for the Eastern District of Michigan</court>
+          <name abbreviation="In re Jelsh">In re JELSH et al.</name>
+          <docketnumber>Case No. 7,257</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 441</citation>
+          <citation category="parallel" type="bluebook">9 N. B. R. 412</citation>
+          <decisiondate>1874-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00222_0" MIMETYPE="image/tiff" CHECKSUM="95c9dd23976702487f294997a362483a" CHECKSUMTYPE="MD5" SIZE="71404">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00222_0.tif"/>
+      </file>
+      <file ID="tiff_00222_1" MIMETYPE="image/tiff" CHECKSUM="8895b6b5c0fb5f213ee0c976dbbaa6f1" CHECKSUMTYPE="MD5" SIZE="61334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00222_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00222_0" MIMETYPE="image/jp2" CHECKSUM="ab7770255adb7f5d98e7eb93910b1ad2" CHECKSUMTYPE="MD5" SIZE="2985312">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00222_0.jp2"/>
+      </file>
+      <file ID="jp2_00222_1" MIMETYPE="image/jp2" CHECKSUM="d8f7f7078a44bb7dd852808815c15150" CHECKSUMTYPE="MD5" SIZE="2548846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00222_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00222_0" MIMETYPE="text/xml" CHECKSUM="1e42c4515dacb22ad6c009e18b7231fd" CHECKSUMTYPE="MD5" SIZE="153820">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00222_0.xml"/>
+      </file>
+      <file ID="alto_00222_1" MIMETYPE="text/xml" CHECKSUM="c8edcba7a415885f9ce73412de541068" CHECKSUMTYPE="MD5" SIZE="134455">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00222_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0255" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="442" firstpage="441">
+              <court pgmap="443" id="AElt">District Court, E. D. Michigan.</court>
+              <docketnumber pgmap="443" id="b443-5">Case No. 7,257.</docketnumber>
+              <citation pgmap="443" id="AOOt">[9 N. B. R. 412.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="443" id="Af3">In re JELSH et al.</parties>
+              <decisiondate pgmap="443" id="AV1R">Jan., 1874.</decisiondate>
+              <attorneys pgmap="443" id="b443-17">H. M. Duffield, for the motion.</attorneys>
+              <attorneys pgmap="443" id="b443-18">A. Russell, opposed.</attorneys>
+              <footnote label="1">
+                <p pgmap="443" id="b443-16">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="443" id="b443-19">LONGYEAR, District Judge.</author>
+                <p pgmap="443" id="AZju">The first ground of motion was, that the court erred in admitting the testimony of the witness. Don. M. Dickinson, as to the negotiations between the petitioning creditor and the respondents, preceding the consummation of a compromise claimed to have been made between them. On the objection being made to this testimony at the trial, the court ruled as follows: “The witness may state the entire negotiations which took place resulting in an arrangement, and the purpose for which it may be used will be decided in the charge to the jury.” The court charged the jury that they could use this testimony only as it bore upon the fact as to whether an arrangement was made, and if so, what was its character, and for no other purpose whatever. For this pur­pose it was, no doubt, competent, and there was, therefore, no error in its admission.</p>
+                <p pgmap="443" id="A8pz">The second ground of motion was, that the respondents were given the opening and closing to the jury. In the case of Steven­son v. Hamilton [Case No. 13,415], tried in the United States circuit court for this dis­trict, before myself, in the June term. 1872, this question was very fully examined, and the authorities, English and American, ana­lyzed, and the following conclusions, among others, arrived at: The question as to which has the right to begin must be determined by the record. When by the pleadings the burden is upon the defendant, and the plain­tiff need introduce no evidence to be en­titled to a verdict, the defendant has the right to begin. Out of a large number of cases examined in the case of Stevenson v. Hamilton [supra], the following are cited as more directly in point here, viz.: Hun­tington v. Conkey, 33 Barb. 221, 222, and cases there cited; Elwell v. Chamberlin. 31 N. Y. 613; 1 Phil. Ev. 810, 812; 1 Greenl. Ev. § 74, note 3; Mercer v. Whall, 5 Adol. &amp; E. [N. S.] 447, decided in 1844, and in which the rule was settled in England, as above stated. In Re Price [Case No. 11,­411] this court decided, that under the bank­rupt act [of 1867 (14 Stat. 517)], where there was a simple denial, the burden was upon the respondent to disprove the allegations of the petition, and that, if no evidence were introduced in such ease, the petition­ing creditor would be entitled to an adjudi­cation of bankruptcy. This brings the case clearly within the rule above stated, under which the defendant has the right to be­gin and close. There was therefore, no er­ror in allowing the respondents the opening and closing to the jury.</p>
+                <p pgmap="443(29) 444(393)" id="b443-21">The fourth and sixth grounds of motion relate to the partnership of the respond­ents. and will be considered together. It is contended that the conceded facts in the case established a partnership as to the debt of the petitioning creditors, and that it was error for the court to submit the ques­tion to the jury instead of charging them, as matter of law, that such partnership ex­isted; and that the jury having found ad­versely to the petitioning creditor, their ver­dict is a bar to his ever hereafter main­taining a suit against the respondents, as partners, for the recovery of his debt, in an action at law. While the court may, in a case where the facts are undisputed, take a question from the jury and dispose of it as matter of law, and will generally do so in a case entirely free from doubt, yet whether the court will do so or not, is in all cases a matter of discretion, and it is not error to send it to the jury, however clear the case may be. In this case, how­ever, the court was of opinion that the ques­tion was a proper one to go to the jury, on account of one or two facts having a bearing upon it, as to which there was some question. And, I think, the learned coun­sel is equally in fault as to the effect of the verdict upon the question of partner­ship. The matter decided is as to the act or acts of bankruptcy alleged, and that is all the verdict determines,, either by its terms or legal effect, and it could be plead­ed in bar only to a new proceeding in bank­ruptcy for the same acts. The fact of part­nership. while it was essential to the main­taining of a joint proceeding against the two, yet, like the fact of the petitioning creditor’s debt, was really but incidental to the main issue. As well might it be said that the debt itself is barred by a verdict adverse to the petitioning creditor, on an issue of bankruptcy. Therefore, even if the court erred in submitting the question of partnership to the jury, and the verdict is against the evidence in this regard, (as to which, however, it cannot be determined from the record what their finding was) no harm has come to the petitioning creditor on account of it, and it therefore consti­tutes no ground for a new trial.</p>
+                <p pgmap="444" id="b444-3">The remaining grounds of motion (3d and 5th) I have examined with some care, in connection with my minutes of the evi­dence upon the trial, and in the light of authorities cited; and while there might be some doubt as to the correctness of the rulings of the court in the instances speci­fied, in a strictly technical sense, yet I do not think the doubt is of such a character, or the errors, if they be errors, , are such as to authorize the court to grant a new trial and put the parties.to the delay, vexation and expense of a protracted litigation. As these last two grounds of motion present no questions of general interest, I shall not protract this opinion by an analysis and discussion of them, and the above brief notice must suffice. It results that the mo­tion for a new trial must be denied, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="443" ORDERLABEL="441" TYPE="page">
+        <fptr FILEID="tiff_00222_0"/>
+        <fptr FILEID="jp2_00222_0"/>
+        <fptr FILEID="alto_00222_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_443.3" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="444" ORDERLABEL="442" TYPE="page">
+        <fptr FILEID="tiff_00222_1"/>
+        <fptr FILEID="jp2_00222_1"/>
+        <fptr FILEID="alto_00222_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_444.4" BETYPE="IDREF" FILEID="alto_00222_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-16" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.19" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-5" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.7" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZju" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.23" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            <area BEGIN="BL_443.24" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8pz" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.25" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AV1R" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.11" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AElt" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.10" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-17" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.20" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOOt" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.9" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b444-3" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_444.5" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Af3" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.8" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-21" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.26" BETYPE="IDREF" FILEID="alto_00222_0"/>
+            <area BEGIN="BL_444.1" BETYPE="IDREF" FILEID="alto_00222_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-18" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.21" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b443-19" BETYPE="IDREF" FILEID="casebody_0255"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_443.22" BETYPE="IDREF" FILEID="alto_00222_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

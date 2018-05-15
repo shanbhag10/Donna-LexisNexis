@@ -1,0 +1,364 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0473" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Jones v. Kemper">JONES v. KEMPER</name>
+          <docketnumber>Case No. 7,472</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 983</citation>
+          <citation category="parallel" type="bluebook">2 Cranch, C. C. 535</citation>
+          <decisiondate>1825-05-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00493_0" MIMETYPE="image/tiff" CHECKSUM="4599b0fd18816c54260941dc7981a47c" CHECKSUMTYPE="MD5" SIZE="32488">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00493_0.tif"/>
+      </file>
+      <file ID="tiff_00493_1" MIMETYPE="image/tiff" CHECKSUM="3b1969ddc89816e3804472f927b6f33c" CHECKSUMTYPE="MD5" SIZE="96516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00493_1.tif"/>
+      </file>
+      <file ID="tiff_00494_0" MIMETYPE="image/tiff" CHECKSUM="7d37257859b02e12dfdcae785bb67cad" CHECKSUMTYPE="MD5" SIZE="88760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00494_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00493_0" MIMETYPE="image/jp2" CHECKSUM="ec7f498794ab55e77b3a5b036a19d2d7" CHECKSUMTYPE="MD5" SIZE="1943153">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00493_0.jp2"/>
+      </file>
+      <file ID="jp2_00493_1" MIMETYPE="image/jp2" CHECKSUM="56356a5ff7163e4da4954a5b1f44fb1c" CHECKSUMTYPE="MD5" SIZE="3410551">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00493_1.jp2"/>
+      </file>
+      <file ID="jp2_00494_0" MIMETYPE="image/jp2" CHECKSUM="4e09984f27ee112dd9123d6468a86c74" CHECKSUMTYPE="MD5" SIZE="3310844">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00494_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00493_0" MIMETYPE="text/xml" CHECKSUM="d919e43b6c35930946b7b6c6c917e32b" CHECKSUMTYPE="MD5" SIZE="62491">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00493_0.xml"/>
+      </file>
+      <file ID="alto_00493_1" MIMETYPE="text/xml" CHECKSUM="10e2ff517d0286ffae45c133fbafddaf" CHECKSUMTYPE="MD5" SIZE="209586">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00493_1.xml"/>
+      </file>
+      <file ID="alto_00494_0" MIMETYPE="text/xml" CHECKSUM="a62759b79cf4dd0bea18e10147723dea" CHECKSUMTYPE="MD5" SIZE="199948">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00494_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0473" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="985" firstpage="983">
+              <court pgmap="985" id="b985-21">Circuit Court, District of Columbia.</court>
+              <docketnumber pgmap="985" id="b985-18">Case No. 7,472.</docketnumber>
+              <citation pgmap="985" id="b985-20">[2 Cranch, C. C. 535.] 1</citation>
+              <parties pgmap="985" id="b985-19">JONES v. KEMPER.</parties>
+              <decisiondate pgmap="985" id="A9vO">May 5, 1825.</decisiondate>
+              <opinion type="majority">
+                <author pgmap="986" id="b986-7">CRANCH, Chief Judge</author>
+                <p pgmap="986" id="ANlg">(nem. con.). Mr.' Wallach, for the bail, moved to set aside the original judgment against Kemper, the garnishee, upon the ground that it was ir­regularly obtained: and to quash the exe­cution issued thereon. The facts and pro­ceedings appear to be as follows; On the 29th of May, 1819. Richard Jones, the plain­tiff, obtained an attachment under Act Md. 1795. c. 5(&gt;, against Burnett Moore, returnable on the first Monday of June, 1S19, which was returned, "Laid in the hands of Reuben Kemper.” To this attachment Kemper, the garnishee, appeared, and in answer to inter­rogatories, denied that he had received for Burnett Moore any money that was his at the time the garnishee received it; and that he had no money of Burnett Moore’s in his hands. He admits that he received mon­ey under a power from Moore, but received it to his own use as his own money. These interrogatories were answered on the 15th and 22d of June. 1819. On the 10th of July following the plaintiff became nonsuit in that attachment, and immediately caused another to be issued, under the same act, and upon the same cause of action, against the same defendant, Burnett Moore, containing a clause commanding the marshal to take the body of Reuben Kemper, the garnishee, "to answer to the said Richard Jones, in a plea of tres­pass on the case. &amp;c., according to the act of assembly aforesaid,” no act of assembly having been before mentioned in the writ of attachment. The warrant, however, of the justice to the clerk commands him to issue the attachment “according to the form of the statute in such case made and provided.” This attachment was returnable on the fourth Monday of December, 1819, and returned ‘‘attached credits in the hands of Reuben Kemper, and cepi. 10th July, 1S19.” On the 20th of May, 1820, the following recogni­zance of bail was filed.</p>
+                <p pgmap="986" id="b986-8">“No. 44 appearances to December. 1819. Richard Jones, plaintiff. Reuben Kemper, garnishee of. Burnett Moore, defendant. You. Joseph Gales and Philip It. Fendall. do joint­ly and severally acknowledge yourselves spe­cial bail for the said Reuben Kemper, in an action of trespass on the case brought by the said Richard Jones against the said Reu­ben Kemper, garnishee, in the circuit court of the district of Columbia, held for the coun­ty of Washington in the said district; they acknowledge themselves to be content, this 15th day of May, 1820, before R. C. Wight-­man, Joseph Forrest.”</p>
+                <p pgmap="986" id="b986-10">‘To the Honorable the Judges of the Cir­cuit Court of the District of Columbia: 1, Reuben Kemper, hereby authorize and re­quest Walter Jones, Esq. attorney-at-law, to appear for me in the above suit. Reuben Kemper.”</p>
+                <p pgmap="986" id="b986-11">It does not appear from the papers that any appearance was ever entered for Reuben Kemper, the garnishee; but it is stated in the scire facias that judgment was rendered against him at October term, 1821, whether by default or otherwise, does not appear, nor whether a ca. sa. was issued against Kemper and returned non est. The writ of scire facias against the bail does not state that any judgment was rendered in the action in which they became bail. It says that they became bail, “in a plea of trespass on the case, &amp;c., by the said Richard Jones against the said Reuben Kemper, garnishee of B. Moore”; “and that the said Richard Jones, by the judgment of the said court, recovered against the said Reuben Kemper, garnishee of the said B. Moore, as well the sum of five hundred and sixty-two dollars and eighty-two cents current money, a cer­tain debt, as the sum of eleven dollars and 'ninety-three cents, which was adjudged by the said court to the said Richard .Tones, on his assent, for his costs and charges by him about his suit in that behalf laid out and expended, whereof the said Reuben Kemper, garnishee of B. Moore, is convict as it appeareth of record.” There is no averment that this judgment was in the action in which they became bail. That was an action of trespass on the case; this seems to have been an action of debt. All the forms of scire facias against bail, which I have seen, show that the judgment against the principal was in the suit in which the bail was taken. 2 Lil. Ent. 379. 389, 380, 3S7, 395. 403, 400-­40S, 410.</p>
+                <p pgmap="986(138) 987(184)" id="b986-12">All the facts stated in this scire facias may be true, and yet it will not appear that the plaintiff ought to have execution against the bail. Therefore, if the first attachment has been discontinued, and if that discon­tinuance after the appearance and answer of the garnishee be not a bar to any further proceeding against him by the same plaintiff on the same cause of action, if the clause of capias ad respondendum in the attachment be such as is authorized by tlie statute of Mary­land; if the recognizance of bail be such as the statute authorizes; if there be such a judgment against Kemper as is set forth in the scire facias; if there could be judgment by default upon a cepi corpus before an ap­pearance; if such an action of trespass on the case by Jones against Kemper as is men­tioned in the recognizance, was instituted and pending at the time of the recognizance; if a ea. sa. against Kemper was duly issued and returned non est before the issuing of the scire facias; yet I should be of opinion that this scire facias ought to be quashed, for we cannot award execution upon it. But I am strongly inclined to think that the judgment against Kemper was irregularly obtained by •default before appearance upon the cepi cor­pus. It certainly would have been irregular. If the action had been, as the recognizance supposes, an action of trespass on the case by Jones against Kemper; and, by analogy, 1 should suppose it would be equally irregu­lar in any case where, a cepi corpus was the return. On this ground, therefore, as the bail cannot hare a writ of error, the judgment, I should think, ought to be set aside, and the •scire facias quashed. I am also inclined to think that the recognizance of bail is not such as the act of Maryland requires.</p>
+                <p pgmap="987" id="b987-4">The condition of the recognizance ought to have been, as 1 conceive, that Kemper should appear at the court, at the return of the writ, to make answers to such interrogatories in writing, as he should, by rule of court, be required to answer, touching the property of the defendant in his possession or charge, or by him owing at the time of serving such writ of attachment, or at any other time; and should render his body to prison, or pay the condemnation-money, if judgment should pass against him. See Act Md. 1795, c. 50. §§ 5, 6.</p>
+                <p pgmap="987" id="b987-5">The recognizance is not taken in the right suit. It purports to be taken in an action of trespass on the case, brought by Richard Jones against Reuben Kemper. No such ac­tion had been commenced; nor did the clause of capias in the writ of attachment warrant the justices in thus naming the ease. That clause commands the marshal "to take the body of Reuben Kemper, to answer to the said Richard Jones, in a plea of trespass on the case, &amp;c.” If this "&amp;c.” had been ex­tended, it would probably have been in these words, "brought by the said Richard Jones against the said Burnett Moore.” and not, as the justices seem to have understood it. “brought by the said Richard Jones against the said Reuben Kemper.” If it should be said that this clause of capias was the com­mencement of such an action of trespass on the case by Jones against Kemper, then it ought to have been followed by a declaration, before judgment could have been taken against Kemper by default; and upon that ground the judgment ought to be set aside. Inasmuch, then, as the recognizance is not taken in the right suit, and has not the con­dition required by the act of Maryland. I think the scire facias should be quashed.</p>
+                <p pgmap="987" id="b987-6">If the clause of capias in the writ of at­tachment is to be understood as commanding the marshal to take Kemper to answer to Jones in a plea of trespass on the case brought by Jones against Kemper, it is a clause not • warranted by the act of Maryland, which does not authorize the plaintiff to maintain an action of trespass on the case against the garnishee; and no such action would lie either at common law or upon the custom of London. The act of Maryland only author­izes a capias to bring in the garnishee to answer interrogatories, and to abide the judgment of the court; not to answer the plaintiff's original cause of action. If the clause of capias was not warranted by the act of Maryland, the recognizance of bail taken upon it, cannot support an execution. It is void. If the scire facias had stated that judgment had been rendered for the said R. Jones, against the said R. Kemper, in the said plea of trespass on the case, then these de­fendants might have pleaded “no such rec­ord,” generally. And now, I suppose, they might plead (according to the precedent in 2 Lil. Ent. 410). “that no judgment for the said It. Jones, against the said R. Kemper (after the time of the recognizance aforesaid, ac­knowledged. and before the issuing of the said writ of scire facias), in the said action in the recognizance aforesaid, mentioned in the said court here, ever existed;” and eer-­tainly no such judgment could be produced. for no such action has ever existed. Upon the whole, I think the judgment against Kemper must be set aside for irregularity,— upon the authority of Ault v. Elliot [Case No. 655], in this court. — and the writ of scire facias quashed. Judgment set aside and scire facias quashed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="985" ORDERLABEL="983" TYPE="page">
+        <fptr FILEID="tiff_00493_0"/>
+        <fptr FILEID="jp2_00493_0"/>
+        <fptr FILEID="alto_00493_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_985.6" BETYPE="IDREF" FILEID="alto_00493_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="986" ORDERLABEL="984" TYPE="page">
+        <fptr FILEID="tiff_00493_1"/>
+        <fptr FILEID="jp2_00493_1"/>
+        <fptr FILEID="alto_00493_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_986.4" BETYPE="IDREF" FILEID="alto_00493_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="987" ORDERLABEL="985" TYPE="page">
+        <fptr FILEID="tiff_00494_0"/>
+        <fptr FILEID="jp2_00494_0"/>
+        <fptr FILEID="alto_00494_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_987.3" BETYPE="IDREF" FILEID="alto_00494_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b987-6" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_987.7" BETYPE="IDREF" FILEID="alto_00494_0"/>
+            <area BEGIN="BL_987.8" BETYPE="IDREF" FILEID="alto_00494_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b985-18" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_985.26" BETYPE="IDREF" FILEID="alto_00493_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A9vO" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_985.30" BETYPE="IDREF" FILEID="alto_00493_0"/>
+            <area BEGIN="BL_985.31" BETYPE="IDREF" FILEID="alto_00493_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b986-8" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_986.11" BETYPE="IDREF" FILEID="alto_00493_1"/>
+            <area BEGIN="BL_986.12" BETYPE="IDREF" FILEID="alto_00493_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b987-5" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_987.6" BETYPE="IDREF" FILEID="alto_00494_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b987-4" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_987.5" BETYPE="IDREF" FILEID="alto_00494_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b986-12" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_986.15" BETYPE="IDREF" FILEID="alto_00493_1"/>
+            <area BEGIN="BL_987.1" BETYPE="IDREF" FILEID="alto_00494_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANlg" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_986.9" BETYPE="IDREF" FILEID="alto_00493_1"/>
+            <area BEGIN="BL_986.10" BETYPE="IDREF" FILEID="alto_00493_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b986-10" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_986.13" BETYPE="IDREF" FILEID="alto_00493_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b986-11" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_986.14" BETYPE="IDREF" FILEID="alto_00493_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b986-7" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_986.8" BETYPE="IDREF" FILEID="alto_00493_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b985-20" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_985.28" BETYPE="IDREF" FILEID="alto_00493_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b985-21" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_985.29" BETYPE="IDREF" FILEID="alto_00493_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b985-19" BETYPE="IDREF" FILEID="casebody_0473"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_985.27" BETYPE="IDREF" FILEID="alto_00493_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

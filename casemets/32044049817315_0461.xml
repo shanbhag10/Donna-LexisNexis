@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0461" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="Jones v. Davis">JONES v. DAVIS et al.</name>
+          <docketnumber>Case No. 7,460</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 952</citation>
+          <decisiondate>1849-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00477_1" MIMETYPE="image/tiff" CHECKSUM="cf64b1cc32a730bf8ba895b53d90efe2" CHECKSUMTYPE="MD5" SIZE="93226">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00477_1.tif"/>
+      </file>
+      <file ID="tiff_00478_0" MIMETYPE="image/tiff" CHECKSUM="b639e603fdf3d7c4a30b60f99b977d15" CHECKSUMTYPE="MD5" SIZE="98508">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00478_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00477_1" MIMETYPE="image/jp2" CHECKSUM="311f6364095f3d837820d5b45ee2b6e1" CHECKSUMTYPE="MD5" SIZE="3296351">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00477_1.jp2"/>
+      </file>
+      <file ID="jp2_00478_0" MIMETYPE="image/jp2" CHECKSUM="be7aab1ebc9af2bc66ab06e095e5a54e" CHECKSUMTYPE="MD5" SIZE="3581020">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00478_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00477_1" MIMETYPE="text/xml" CHECKSUM="890f956b92797079863cb6349b2a9281" CHECKSUMTYPE="MD5" SIZE="196331">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00477_1.xml"/>
+      </file>
+      <file ID="alto_00478_0" MIMETYPE="text/xml" CHECKSUM="95af22183b498c89c6275d3dc27545f7" CHECKSUMTYPE="MD5" SIZE="217566">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00478_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0461" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="953" firstpage="952">
+              <court pgmap="954" id="AvFz">District Court, S. D. New York.</court>
+              <docketnumber pgmap="954" id="b954-2">Case No. 7,460.</docketnumber>
+              <parties pgmap="954" id="A3i1">JONES v. DAVIS et al.</parties>
+              <decisiondate pgmap="954" id="A5cC">Jan., 1849.</decisiondate>
+              <p pgmap="954" id="A6y">[Abb. Adm. 446.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="954" id="b954-12">1 [Reported by Abbott Brothers.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="954" id="b954-10">BETTS, District Judge.</author>
+                <p pgmap="954" id="ACx">The libel avers that the respondents hired and engaged the libellant to take charge of the brig Fawn, owned by them, as master thereof, at the wages of a dollar a day for the time she should remain out of employment, and at. the wages of sixty-six dollars per month from and after the time of her obtaining em­ployment. That, in pursuance of the agree­ment, the libellant entered on board the brig July 17, 1848, and continued on board, in command of her, until August 2d, following, when a charter was obtained for her to St. Petersburg, and other places. That there­upon, on August 3d, he commenced loading the Fawn for the voyage, which was to be circuitous and of uncertain duration, and continued that service until the brig was loaded and fully ready for sea; when on August 14th, the respondents wrongfully and without previous notice, discharged him, and would not permit him to make the voy­age, upon the allegation that they had dis­posed of part of their interest in the vessel. The libellant avers, that by such wrongful discharge, he has sustained damages to the amount of $800, being wages, expenses and board for the probable duration of the voy­age. He prays the court to pronounce for the damages aforesaid.</p>
+                <p pgmap="954" id="b954-11">The answer explicitly denies any agree­ment with the libellant, hiring him as mas­ter of the brig, for any time or upon any terms; and also denies that the respondents were partners, or that the brig was char­tered for the voyage described, or that they gave libellant any encouragement to incur expenses of preparation to act on board of her as master for the alleged voyage. It sets forth, in detail, what the respondents assert to have been the agreement made be­tween them and libellant; but it is not necessary to advert to that portion' of the defence, as the libellant seeks no decree for services on board as ship-keeper, but sues wholly in the character of master, hired to serve as such over the vessel, both in port, while seeking freight, and afterwards at sea, and for damages for loss of wages, &amp;c. during the probable duration of the voyage for which the vessel was engaged. ‘ The an­swer, moreover, admits that on August 14th. during the lading of the brig, they agreed with one Shaw that he should go in her as master, and states that libellant was then informed in substance that a master was engaged for the voyage, and that his fur­ther services would not be required.</p>
+                <p pgmap="954" id="b954-15">No express hiring of the libellant, as charged in the libel, is proved, nor is it shown that he was put in possession of the vessel in the character of master. The argu­ment in his behalf is, that the, agreement set up is to be implied from the facts in evi­dence. The facts relied upon to raise this implication are, that the libellant was on board the vessel for some time in July and August, — that one of the respondents said to the notary who was employed to ship a crew for the voyage, that Captain Jones would superintend the selection of the men, —that the shipping articles were drawn up, and the crew hired by the notary, in the expectation that the libellant was to com­mand the vessel, — that the libellant gave orders and made arrangements on board for the voyage, in taking in cargo, supplies, &amp;c., —that upon one occasion the libellant, at the express direction of one of the respondents, signed bills of lading for part of the cargo,— and that he was also conversed with by one of the respondents, in relation to the course he would pursue in case the vessel should be detained by ice in the Baltic.</p>
+                <p pgmap="954(154) 955(47)" id="AV_0">The respondents proved a conversation had since the cause was at issue, between a wit­ness and the libellant, in which the latter stated to the witness, that the ship-keeper of the brig having left her, he, the libellant, agreed with the owners to go on board her and sleep at night, and to look for business during the day; and that respondents were to give him a dollar a day for the service. They further proved that the libellant did not sign the shipping articles, or ship the first or the second mate for the voyage.— that a provisional agreement was made by him, with the assent of the owners, with one Coffin, to go on board and assist in loading the vessel at a dollar and a half a day, with the understanding that if he was approved he should be employed for the voyage as first mate; another person was, however, shipped in that capacity, — that when the brig was ready for sea, and hauled out into the river, the libellant left her, and Captain Shaw having then become a part-owner, cleared her as master, and came on board, and made the voyage in command of her.</p>
+                <p pgmap="955" id="b955-3">Evidence was given on the part of the libellant of his general repute for skill and fidelity, and of his ample experience as ship-­master. The respondents on their part prov­ed, that they made inquiries of persons who had employed him, and that they .obtained unfavorable accounts of his qualifications.</p>
+                <p pgmap="955" id="b955-4">The facts and circumstances in evidence, are clearly consistent with the claims set up by the libellant, that after August 3d, he was employed by the respondents as master of the brig for the voyage, but they are by no means of force sufficient to exclude the presumption that he was continuing with the vessel on his original undertaking, with a hope and expectation of receiving the com­mand of the brig when she should be sent upon a voyage. Indeed, it must be conced­ed that the facts tend about equally to the support of either hypothesis.</p>
+                <p pgmap="955" id="b955-5">The circumstance which most directly sus­tains the claim of the libellant is his act of signing bills of lading in presence of one of the owners, during the time the brig was loading. This being one of the functions of a master, very strongly imports that libel-­lant was at that time clothed with a mas­ter’s authority. It must be remarked, how­ever, that the appointment and employment of masters is wholly at the discretion of owners (Abb. Shipp. 156; 3 Kent, Comm. 161), and, that there is no incompatibility in assigning a person to that agency in a home port, for the purpose of loading and fitting out a vessel, although he is not to act as master for the voyage. Advantages may re­sult to owners and* to commerce from placing this home service in the hands of men of experience and dispatch in the business of inspecting, taking in and storing cargo, or selecting the men, who no longer go abroad as navigators, or may not possess proper qualifications for that duty. Such employ­ment of a master in port might also be de­sirable for the purpose of satisfying owners of his competency to take charge of the ship or manage her business upon her voyage. The owner and ship would stand charged by his acts as master pro hac vice, without respect to the fact of actual command at sea. A transaction which occurred in load­ing this vessel illustrates this principle. It appears that Coffin applied for the office of first mate, which was vacant, and he was recommended by the libellant as a proper person to fill it. He was taken into service to assist in loading the vessel, with a view to his engagement as first mate, if he should be approved of. The fact of his being on the vessel, and acting in port as her first mate, does not accordingly determine that he was shipped for the voyage in that capacity. The auxiliary fact of his having signed the shipping articles would certainly be required, in absence of oral proof of express hiring.</p>
+                <p pgmap="955" id="b955-8">It seems to me that this principle should be applied to the engagement of a master, and that it governs the present case. There would appear to be rarely any occasion to resort to implications and presumptions for the purpose of showing employment in that important capacity. The fact must almost invariably be too notorious and marked, to leave any room for question. The owners treat with masters publicly as such. The vessel is advertised for her voyage in his name. Bills are furnished to him, and cer­tified by him in that capacity, and scarcely any particular can be referred to in the em­ployment of a vessel, less likely to be want­ing in means of clear and decisive proof, than the appointment of master for a foreign voyage.</p>
+                <p pgmap="955" id="b955-9">When, therefore, a resort is had to circum­stantial evidence to establish the employ­ment of a master, the evidence required should be of a character which leaves no fair reason to doubt the fact; and must cer­tainly go further than to present a case equally consistent with the supposition of a temporary engagement in port in prepara­tion for the voyage, as with an appointment to go out in command of the vessel. I for­bear expressing any opinion upon other top­ics of importance involved in the case, the right of a master to consequential damages, because of a breach of a contract of hiring of this kind with him, or the legal measure of such damages, or the limitation, if any. of the power of an owner to displace a mas­ter from his command, or to refuse entrusting a vessel to him.</p>
+                <p pgmap="955" id="b955-10">There being no satisfactory evidence of any contract entered into between the respond­ents and libellant, engaging him as master, or corresponding in substance with the agree­ments alleged by him in his libel, 1 must pronounce against his demand for damages. Libel dismissed, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="954" ORDERLABEL="952" TYPE="page">
+        <fptr FILEID="tiff_00477_1"/>
+        <fptr FILEID="jp2_00477_1"/>
+        <fptr FILEID="alto_00477_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_954.3" BETYPE="IDREF" FILEID="alto_00477_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="955" ORDERLABEL="953" TYPE="page">
+        <fptr FILEID="tiff_00478_0"/>
+        <fptr FILEID="jp2_00478_0"/>
+        <fptr FILEID="alto_00478_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_955.4" BETYPE="IDREF" FILEID="alto_00478_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AV_0" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_954.20" BETYPE="IDREF" FILEID="alto_00477_1"/>
+            <area BEGIN="BL_955.2" BETYPE="IDREF" FILEID="alto_00478_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACx" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_954.14" BETYPE="IDREF" FILEID="alto_00477_1"/>
+            <area BEGIN="BL_954.15" BETYPE="IDREF" FILEID="alto_00477_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b954-2" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_954.4" BETYPE="IDREF" FILEID="alto_00477_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3i1" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_954.5" BETYPE="IDREF" FILEID="alto_00477_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6y" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_954.6" BETYPE="IDREF" FILEID="alto_00477_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b954-12" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_954.18" BETYPE="IDREF" FILEID="alto_00477_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvFz" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_954.7" BETYPE="IDREF" FILEID="alto_00477_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b955-8" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_955.10" BETYPE="IDREF" FILEID="alto_00478_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b955-9" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_955.11" BETYPE="IDREF" FILEID="alto_00478_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b954-11" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_954.16" BETYPE="IDREF" FILEID="alto_00477_1"/>
+            <area BEGIN="BL_954.17" BETYPE="IDREF" FILEID="alto_00477_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b954-10" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_954.13" BETYPE="IDREF" FILEID="alto_00477_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b955-4" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_955.7" BETYPE="IDREF" FILEID="alto_00478_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b955-5" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_955.8" BETYPE="IDREF" FILEID="alto_00478_0"/>
+            <area BEGIN="BL_955.9" BETYPE="IDREF" FILEID="alto_00478_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b954-15" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_954.19" BETYPE="IDREF" FILEID="alto_00477_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b955-3" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_955.6" BETYPE="IDREF" FILEID="alto_00478_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b955-10" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_955.12" BETYPE="IDREF" FILEID="alto_00478_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5cC" BETYPE="IDREF" FILEID="casebody_0461"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_954.8" BETYPE="IDREF" FILEID="alto_00477_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

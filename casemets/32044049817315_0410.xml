@@ -1,0 +1,617 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0410" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="Johnson v. Root">JOHNSON v. ROOT</name>
+          <docketnumber>Case No. 7,409</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 798</citation>
+          <citation category="parallel" type="bluebook">2 Fish. Pat. Cas. 291; 2 Cliff. 108</citation>
+          <decisiondate>1862-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00400_1" MIMETYPE="image/tiff" CHECKSUM="8317ed965a1de350c996c0453b68a305" CHECKSUMTYPE="MD5" SIZE="32100">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00400_1.tif"/>
+      </file>
+      <file ID="tiff_00401_0" MIMETYPE="image/tiff" CHECKSUM="8d3627c7a435efbd413ea380839a748b" CHECKSUMTYPE="MD5" SIZE="7858">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00401_0.tif"/>
+      </file>
+      <file ID="tiff_00401_1" MIMETYPE="image/tiff" CHECKSUM="a39941b2505b292654bae578792e1d36" CHECKSUMTYPE="MD5" SIZE="106534">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00401_1.tif"/>
+      </file>
+      <file ID="tiff_00402_0" MIMETYPE="image/tiff" CHECKSUM="a900836d581e751a9eeed044ebef8acc" CHECKSUMTYPE="MD5" SIZE="116262">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00402_0.tif"/>
+      </file>
+      <file ID="tiff_00402_1" MIMETYPE="image/tiff" CHECKSUM="aef2d368011fe9a9070ac0590e9db1fc" CHECKSUMTYPE="MD5" SIZE="117014">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00402_1.tif"/>
+      </file>
+      <file ID="tiff_00403_0" MIMETYPE="image/tiff" CHECKSUM="9ef7b54408d913d8faa18742b42da2ad" CHECKSUMTYPE="MD5" SIZE="112728">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00403_0.tif"/>
+      </file>
+      <file ID="tiff_00403_1" MIMETYPE="image/tiff" CHECKSUM="430521ec3430b20c72a3064785200f38" CHECKSUMTYPE="MD5" SIZE="114830">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00403_1.tif"/>
+      </file>
+      <file ID="tiff_00404_0" MIMETYPE="image/tiff" CHECKSUM="82aaaa7de1f8ca012700f16c455194ef" CHECKSUMTYPE="MD5" SIZE="114568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00404_0.tif"/>
+      </file>
+      <file ID="tiff_00404_1" MIMETYPE="image/tiff" CHECKSUM="9f27304049f3f5b19257e3ed191fa07f" CHECKSUMTYPE="MD5" SIZE="114050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00404_1.tif"/>
+      </file>
+      <file ID="tiff_00405_0" MIMETYPE="image/tiff" CHECKSUM="49431fa15431c776fc573ee8360d9dae" CHECKSUMTYPE="MD5" SIZE="62448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00405_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00400_1" MIMETYPE="image/jp2" CHECKSUM="67db039d6770e19c032c934f10025c19" CHECKSUMTYPE="MD5" SIZE="1832274">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00400_1.jp2"/>
+      </file>
+      <file ID="jp2_00401_0" MIMETYPE="image/jp2" CHECKSUM="8ea1c7093ddc51c74bcfbb34b0273a13" CHECKSUMTYPE="MD5" SIZE="1122570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00401_0.jp2"/>
+      </file>
+      <file ID="jp2_00401_1" MIMETYPE="image/jp2" CHECKSUM="2247c0d6557452e838fcbb5fa1f207b6" CHECKSUMTYPE="MD5" SIZE="3685570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00401_1.jp2"/>
+      </file>
+      <file ID="jp2_00402_0" MIMETYPE="image/jp2" CHECKSUM="5c5503d7061a36de0c3f99ebaafda42a" CHECKSUMTYPE="MD5" SIZE="3812153">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00402_0.jp2"/>
+      </file>
+      <file ID="jp2_00402_1" MIMETYPE="image/jp2" CHECKSUM="1b67e4564833ea4be35ef26fca7fb39a" CHECKSUMTYPE="MD5" SIZE="3810547">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00402_1.jp2"/>
+      </file>
+      <file ID="jp2_00403_0" MIMETYPE="image/jp2" CHECKSUM="2aa7a76fe9b863ad40b858e3ce0ca854" CHECKSUMTYPE="MD5" SIZE="3805937">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00403_0.jp2"/>
+      </file>
+      <file ID="jp2_00403_1" MIMETYPE="image/jp2" CHECKSUM="4d700a796fa406dd92df863551f55c10" CHECKSUMTYPE="MD5" SIZE="3825637">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00403_1.jp2"/>
+      </file>
+      <file ID="jp2_00404_0" MIMETYPE="image/jp2" CHECKSUM="fcae81273b5640f833dcd1e95c9acb5c" CHECKSUMTYPE="MD5" SIZE="3826152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00404_0.jp2"/>
+      </file>
+      <file ID="jp2_00404_1" MIMETYPE="image/jp2" CHECKSUM="a22228fd90e29ae711e22184122c39b2" CHECKSUMTYPE="MD5" SIZE="3708798">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00404_1.jp2"/>
+      </file>
+      <file ID="jp2_00405_0" MIMETYPE="image/jp2" CHECKSUM="e11f456f41942750e108db8f4d4f4db4" CHECKSUMTYPE="MD5" SIZE="2630296">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00405_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00400_1" MIMETYPE="text/xml" CHECKSUM="6b03fadbb4d6a4711dea6ade2ee385a5" CHECKSUMTYPE="MD5" SIZE="62910">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00400_1.xml"/>
+      </file>
+      <file ID="alto_00401_0" MIMETYPE="text/xml" CHECKSUM="acd336081804bae7b4d8f36d56ae1f60" CHECKSUMTYPE="MD5" SIZE="4981">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00401_0.xml"/>
+      </file>
+      <file ID="alto_00401_1" MIMETYPE="text/xml" CHECKSUM="afd96f8cec94b3566d37ed07a8c4d47f" CHECKSUMTYPE="MD5" SIZE="220151">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00401_1.xml"/>
+      </file>
+      <file ID="alto_00402_0" MIMETYPE="text/xml" CHECKSUM="807bb83c455b1933056ea4db10962946" CHECKSUMTYPE="MD5" SIZE="243641">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00402_0.xml"/>
+      </file>
+      <file ID="alto_00402_1" MIMETYPE="text/xml" CHECKSUM="aa2bd9879dfb1327ff836b8dab94128a" CHECKSUMTYPE="MD5" SIZE="245821">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00402_1.xml"/>
+      </file>
+      <file ID="alto_00403_0" MIMETYPE="text/xml" CHECKSUM="f91b1e4fef6d9ad454813e0017395dc9" CHECKSUMTYPE="MD5" SIZE="251562">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00403_0.xml"/>
+      </file>
+      <file ID="alto_00403_1" MIMETYPE="text/xml" CHECKSUM="6e6cbb4fc0d92c55a48123db0dc1280c" CHECKSUMTYPE="MD5" SIZE="248807">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00403_1.xml"/>
+      </file>
+      <file ID="alto_00404_0" MIMETYPE="text/xml" CHECKSUM="38498831be97dcb895a709c0ca5caf90" CHECKSUMTYPE="MD5" SIZE="242933">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00404_0.xml"/>
+      </file>
+      <file ID="alto_00404_1" MIMETYPE="text/xml" CHECKSUM="1fb2e887c70cff9a878e2d44196b489b" CHECKSUMTYPE="MD5" SIZE="238448">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00404_1.xml"/>
+      </file>
+      <file ID="alto_00405_0" MIMETYPE="text/xml" CHECKSUM="fcbf136997da33e8ba22de1539521823" CHECKSUMTYPE="MD5" SIZE="135029">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00405_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0410" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="807" firstpage="798">
+              <court pgmap="800" id="A3G">Circuit Court, D. Massachusetts.</court>
+              <docketnumber pgmap="800" id="b800-4">Case No. 7,409.</docketnumber>
+              <citation pgmap="800" id="AtEN">[2 Fish. Pat. Cas. 291; 2 Cliff. 108;</citation>
+              <parties pgmap="800" id="AecW">JOHNSON v. ROOT.</parties>
+              <decisiondate pgmap="800" id="ATmQ">Oct. Term, 1862.</decisiondate>
+              <attorneys pgmap="800" id="b800-30">
+                <footnotemark>2</footnotemark> [B. R. Curtis and C. B. Potter, for the defence and in behalf of the motion.</attorneys>
+              <attorneys pgmap="801" id="b801-5">[W. Whiting and A. C. Washburn, for plaintiff and against the motion.</attorneys>
+              <p pgmap="800" id="Ad5K">Merw. Pat. Inv. 704.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="800" id="b800-16">1 [Reported by Samuel S. Fisher. Esq., and by William Henry Clifford. Esq., and here compiled and reprinted by permission.]</p>
+              </footnote>
+              <footnote label="2">
+                <p pgmap="800" id="b800-32">2 LFrom 2 Cliff. 108.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="802" id="b802-4">CLIFFORD, Circuit Justice.</author>
+                <p pgmap="802" id="AdK0">This was an action of trespass on the case for an al­leged infringement of certain letters pat­ent. Letters patent were granted to the plaintiff on March 7, 1S54, for a new and useful improvement in sewing machines; but the- original patent was subsequently surrendered and canceled, and on February 26, 1856, a new patent was issued to him on an amended specification, to continue for the term of fourteen years from the date of the original patent. Suit was com­menced on April 28, 1S56, and the plaintiff alleged that the defendant, on March 4, in the same year, and at divers other times before the date of the writ, did unlawfully and wrongfully, and without the consent of the plaintiff, make, use, and vend to others to be used, the improvement se­cured to him in his reissued letters patent. Defendant pleaded that he was not guilty, and filed, under the act of congress [5 Stat. 117], certain specifications of defense, de­nying that the machine he sold infringed the plaintiff’s patent, or that the plaintiff was the original and first inventor of any thing embodied in his, the defendant’s ma­chine, and on that issue the parties, on March 26, 1861, went to trial, Testimony was introduced on both sides, and under the instruction of the court the jury re­turned their verdict in favor of the plain­tiff, assessing damages in the sum of five hundred dollars. [Case No. 7,410.] Motion for new trial was duly filed by the defend­ant, for the following reasons: First. Be­cause the verdict is against the law and the evidence. Second. That the verdict is against the evidence and the weight of the evidence. Third. That the jury have neg­lected and refused to apply the instructions given them by the court, respecting the thing patented, in the third claim of the patent declared on in the case; as well upon the question, whether the plaintiff was the original and first inventor of the thing patented, as upon the question, wheth­er the defendant had infringed thereon. Fourth. That the damages found by the-­jury are grossly excessive, and in plain contravention of the explicit and repeated instructions of the court to allow nominal damages. Another reason assigned, is the refusal of the court to instruct the jury as requested by the defendant; but in the view taken of the case it will not be neces­sary to consider it, and it is therefore omit­ted. Representations in writing, and under oath, were subsequently made to the court by the defendant, as a foundation for a further motion for new trial. Those rep­resentations were in substance and effect as follows: 1. That the plaintiff, during the progress of the trial, and before the ver­dict had been rendered, and while the court was not in session, and out of the presence and hearing of the defendant and of his counsel, by himself and his agents, made communications to, and received communi­cations from, jurors impaneled in the case, touching the merits thereof. 2. That the plaintiff, by himself and his agents, did un­duly and unlawfully influence and bias the minds of jurors impaneled to try said cause, by acts, conduct, and declarations, done and made with that unlawful intent, while the court was not in session, and out of the presence and hearing of the defendant and his counsel. 3. That jurors impaneled to try the cause, privately declared, and made known to the plaintiff and his agents, that they had determined to render a verdict in favor of' the plaintiff, and so declared and made known such determination, be­fore the testimony on the part of the de­fendant had been all exhibited, and before the counsel of the defendant bad been heard, and before the jury had received the instruction of the court, and before the ease had been com­mitted to them. 4. That the trial was not by an impartial jury, such as the defend­ant had a constitutional and lawful right to have. Leave was granted to the defend­ant to make proper proofs of the respective representations, upon giving due notice to the plaintiff or his counsel, it appearing that all the matters set forth had come to the knowledge of the defendant and his counsel since the last adjournment of the court. Testimony was accordingly taken by both parties in open court, on October 17, 1861, and the same by agreement, was duly reported for the consideration of the court. Parties were duly heard during the same term, upon the several matters involved in the respective motions, and the case has been held under advisement to the present time. Some brief reference to the positions assumed by the respective parties at the trial will be indispensable, in order that the precise nature of the questions presented under the first motion, may be clearly and fully understood. When the case came on for trial, the plaintiff proposed to open his whole case to the jury, as well such mat­ters as were in reply to the defenses stated in the specifications of defense, as those which were immediately necessary to make out a prima facie case, and no objection being made by the defendant, the parties were allowed, perhaps unadvisedly, to pro­ceed in that way.</p>
+                <p pgmap="802(40) 803(1043) 804(1053) 805(232)" id="b802-7">Application for a patent was filed by the plaintiff on March 31, 1853, but his original patent was not issued until March 7 in the following year. His charge against the de­fendant was that he had infringed the third claim of the reissued patent as already ex­plained. Omitting the first and second claims as unimportant in this investigation, it reads as follows: “What I claim as my invention and desire to secure by letters patent is: Third. The feeding of the material to be sewn, by means of a vibrating piercing in­strument, whether said instrument be the needle itself,, or an independent instrument in the immediate vicinity thereof, substan­tially as herein described.” To maintain the issue on his part, he introduced his reissued letters patent, together with the model of the patented machine furnished to the patent office. He also introduced the machine which he alleged the defendant sold, and which he claimed was a violation of the exclusive right secured to him, and upon the introduction of the machine, the defendant admitted that he sold the machine at the time and place alleged in the declaration, but denied that the machine infringes the third claim of the plaintiff, or that the plaintiff was the original and first inventor of any thing embodied in that machine. Two questions, therefore, were presented: First. Whether the plain­tiff was the original and first inventor of any thing embodied in the machine sold by the defendant, called machine K. Second. Wheth­er the machine sold by the defendant, and given in evidence by the plaintiff, infringed the third claim of the plaintiff’s reissued let­ters patent. Defendant set up that the ma­chine sold by him was constructed under certain patents granted to A. B. Wilson, or to his assigns, and that the invention of 'Wil­son was prior to that of the plaintiff’s, which was one of the important questions in the case. Wilson made the application for his first patent on March 18,1850, and the patent was issued on November 12, in the same year. His second application was on July S, 1851, and the second patent was issued Aug­ust 12, in the following year. Patentee as­signed his interest to Wheeler, Wilson, War­ren, and Woodruff, before the date of the third application, which was made on Feb­ruary 7,1852, and the third patent was issued on June 15, in the same year. Other patents subsequently issued to A. B. Wilson, or his assigns were also admitted, as showing that the three inventions already mentioned, were still under the protection of subsisting pat­ents, and had not become public property. Letters patent to Grover &amp; Baker, dated June 22, 1S52, together with the disclaimer accom­panying the same, dated December 11, 1S54, were also admitted as showing that the claim of Wilson to the four-motion feed, in his ap­plication of June 15, 1852, was withdrawn by mistake as to the date of the invention. Two of the patents, to wit: the first and the third, were reissued, but it is unnecessary to de­scribe the new patents, or to refer to the as­signments under which they were reissued, except to say that the machine introduced by the plaintiff, as the machine sold by the defendant, was constructed under the patent reissued to W. P. N. Fitzgerald, dated De­cember 19, 1854, and it is admitted that it was sold by the defendant, as &gt;.ne agent of the Wheeler &amp; Wilson Manufacturing Com­pany, to which the patent had previously been assigned. Assuming the facts to be so, then it clearly appeared that the machine of the defendant was constructed under an in­vention made and patented prior to the ap­plication of the plaintiff for his original pat­ent. Unless, therefore, he could overcome those facts, he could not prevail in any view of the case, because if the machine sold was substantially the same as that described in the plaintiff’s patent, then the inference was a clear one that the plaintiff was not the original and first inventor of his supposed improvement. And if the two machines were not substantially the same in principle and mode of operation, then there was no in­fringement, and the verdict must be for the defendant. Such formidable difficulties could not be evaded, but they must be met and overcome by proof, and consequently it became of vital importance, on the part of the plaintiff, .to show that his invention was actually made and reduced to practice as an operative machine, at some time prior to the invention by A. B. Wilson, to which refer­ence has already been made. Full proof was exhibited that machines like that of the de­fendant, and not distinguishable from it in any respect, material to this investigation, were constructed, and in the market for sale, before the time when the plaintiff completed his model for the patent office, and several months before he made his application for his original patent. Undeniable proof to that effect was introduced by the defendant, and both parties, it is believed, so understood it, and it was so understood by the court, and must have been so understood by the jury. Evidence to repel this inference was intro­duced by the plaintiff in the opening, and it was upon that evidence that he relied in his close to overcome the difficulty. Beyond question, his patent was prima facie evidence that he is the original and first inventor of what he has described therein as his inven­tion, and when taken in connection with his original application is prima facie evidence that the invention was made at the time the application was filed. Presumptions were in favor of the plaintiff to that extent; but when he proposed to show that his invention was of a date prior to his original applica­tion, he took the burden upon himself; and to maintain that theory, it was incumbent upon him to prove by competent and suffi­cient evidence that he made the invention at the period suggested, and that he reduced the same to practice in the form of an oper­ative machine, and if he failed to prove ei­ther of the elements of the proposition, then the verdict should have been for the defend­ant. Judge Story said, in Bedford v. Hunt [Case No. 1,217], that “the intent of the stat­ute was to guard against defeating patents, by the setting up of a prior invention which had never been reduced to practice. If it were the mere speculation of a philosopher or mechanician, which had never been tried by the test of experience, and never put in actual operation by him, the law would not deprive a subsequent inventor, who had em­ployed his labor and his talents in putting it into practice, of the reward due to his ingen­uity and enterprise.” Language equally ex­plicit is employed by Mr. Justice Nelson, in the case of Parkhurst v. Kinsman [Id. 10,757], wherein he says, “it is not enough to defeat a patent already issued, that another con­ceived the possibility of effecting what the patentee accomplished. To constitute a prior invention, the party alleged to have produced it must have proceeded so far as to have reduced his idea to practice, and embodied it in some distinct form.” “It must,” says the learned judge, “have been carried into prac­tical operation; for he is entitled to a patent, who, being an original inventor, has first per­fected the invention and adapted it to prac­tical use. Crude and imperfect experiments, equivocal in their results, and then given up for years, can not be permitted to prevail against an original inventor, who has per­fected his improvement and obtained his pat­ent.” Plaintiff claimed at the trial that the feeding apparatus described by him, in the third claim of his patent, was invented by him, and reduced to practice in the form of an operative machine, as early as1 October 27, 1848, and that the same feeding apparatus was embodied in his original letters patent. Every branch of the proposition was contro­verted by the defendant. He denied that the plaintiff invented any such feeding appar­atus at so early a period, or at any time prior to the date of the application for his original patent, or that he ever reduced the same to practice in the form of an operative machine, or that the feeding apparatus which he al­leges he invented and reduced to practice at that period of time, is now embodied in the third claim of his reissued letters patent. Reference to the third claim of the patent will show what the feeding apparatus is in the reissued letters patent on which the suit is brought, and it may be well to refer briefly to the instructions given by the court to the jury upon that subject, before stating the evidence introduced by the plaintiff to prove that he invented the apparatus, and reduced it to practice, before the application for his original patent. Such brief portions only of the instructions will be referred to as appear to be material to the point under considera­tion. After reciting the claim, the jury were instructed that the third claim of the plain­tiff's patent was for his described means of feeding the cloth, or other material, to be sewed in a sewing machine. Feeding the cloth, or material, was defined as signifying such a regular, progressive advance of the material as would space the stitches of the seam regularly, so that the stitches would be of equal length. Responsive to the argument of the plaintiff, that the feeding instrument was' distinct from the devices for holding the cloth or material to be sewed, the jury were told that there was included in the claim, as part of his mode of operation, not only the vibrating, piercing instrument, sub­stantially as described, but also whatever parts necessarily act in connection therewith, to feed the material to be sewed in a sewing machine, so far as any function they per­formed modified the action of the feeding instrument. As explanatory of that instruc­tion, the jury were told that there must be a table, or some equivalent mechanical device, to keep the cloth in position, so that it would resist the thrust of the piercing instrument while it was making the perforation, after the pressure of the holder upon it was re­lieved to permit the needle, as it vibrated, to move forward the cloth a sufficient distance for the succeeding perforation. In this con­nection, the jury were also told that the ver­tical bar, or holder, when held down upon the cloth by the spring, was quite necessary to the proper operation of the feeding arrange­ment, and were accordingly instructed to the effect that the surface below the material, called the table, which supported the cloth when it was pressed by the vertical bar, or holder, so as to keep the cloth from slipping as the needle descended and perforated it, and also the cloth holder, which exerted its pressure for that purpose, were included in the claim as necessary to the plaintiff's mode of operation in feeding the material to be sewn, so far as the functions performed by those devices modified the action of the feed­ing instrument. To show that he invented this feeding apparatus, and reduced it to practice within the meaning of those terms, the plaintiff introduced. the “old red” ma­chine, as it was called throughout the trial. Parties are competent witnesses by the local law, and accordingly the plaintiff was very fully examined upon this subject. According to the testimony of the plaintiff, his first step toward constructing a sewing machine was taken in July, 184S, when he made certain patterns for needle bars, and he states that needle bars were subsequently made from the patterns by his directions. He arranged them in a temporary frame, and got some gearings made, but they proved not to be of a character to answer any purpose, except as a basis of calculation for another set of pat­terns, and he states that he did not attempt to sew with the machine. Having made his calculations, he constructed a new set of pat­terns and sketches, and employed a mechanic to make another set of needle holders and apparatus for a machine. They were made in August, 184S, and after they were com­pleted. the plaintiff took them, together with the shafting and gearing which he had pro­vided. to a cabinet maker, and employed him to make the frame. That machine had the straight clamp, or what was called the “wooden holder,” during the trial, and the witness states that he did sewing enough with the machine to satisfy himself that it ■“was going to be a good practical thing.” Intending to reconstruct the machine more thoroughly, with a view to apply for a pat­ent, he toQk the needle holders out of the frame and carried them back to the machin­ist, in order to have another set made with certain additions and alterations. After the needle holders were completed, and the shaft­ing and gearing had been somewhat im­proved, he then had a new frame made for the machine, and put the whole in working -order, using for that purpose the third set of needle holders. About the same time he also had a ratchet clamp made, but as it was not fully completed, and the arrangement to re­ceive it was not finished, except on one side •of the machine, it could not be used. Cast­ings were also made by the plaintiff for a rotary clamp holder, but they proved to be too heavy and were never finished, so that the only device ever used by him, before he went to Washington with the machine, was &amp; straight clamp, or wooden holder, like the one produced at the trial, but that was not carried to Washington, and the identical de­vice was not produced at the trial.</p>
+                <p pgmap="805(848) 806(1068) 807(227)" id="b805-4">On cross-examination the witness testified in substance and effect that he used the -straight clamp to try the machine and see what the effect would beas a feeder, and that he afterward arranged the wheel or circular •clamp to make the machine automatic, and that the other was given up, adding, in the same connection, that he did not consider that the straight clamp was very curious or patentable. Short pieces of canvas and pad­ding were sewed by the plaintiff in the ma­chine before he went to Washington, and he •states that he used the straight clamp or wooden holder for that purpose, and that he sometimes sewed the length of the piece, and then around the edge, and back again in various forms. He started for Washing­ton on October 27, 1S4S, having completed the machine a few days before, taking with him the patterns for the rotary clamp, but leaving behind the castings and the wooden holder. After his arrival in Washington, he •employed a patent solicitor, and soon learned that some parts of his invention had been .anticipated by others, and that his model was too large, and would not be received at the patent office on account of its size. For­warded as this machine was, by the mer­chandise train, he arrived in Washington several days before the machine came to hand, and during that period he constructed .a rotary clamp, which was made of ma­hogany. Injury had been done to the ma­chine on the route, but he repaired it and fitted in the rotary clamp for the first time. Up to that period of time he had never used any other than the straight clamp or wood­en holder, and, in point of fact, could not do so because he had not constructed any rotary clamp, and one of the necessary ar­rangements for the ratchet clamp had not been completed. Having fitted in the rotary clamp, he says he operated the machine in the presence of his patent solicitor, but he does not state that he used it to sew seams. When he found he could not patent the machine, he decided, under the advice of his solicitor, to file a caveat, and his solicitor also pre­pared another paper, in the nature of a petition for a patent, but it was never pre­sented at the patent office. His patent so­licitor prepared the caveat, and it was duly executed and filed on November 7, 1848, and was accompanied with a drawing to illustrate the invention. Nothing further was done by him toward procuring a patent. On the contrary, having executed those pa­pers, and filed the caveat, he took the ma­chine out of the frame, leaving the frame there, put the parts of the machine into a trunk, which he purchased for the purpose, and on the same afternoon left Washington to return to his home. All those parts of the machine remained in the trunk, in his house at New Hartford, until he removed to Gran-­ville, when he put them into a box, and, with the exception of some few parts, which he afterward used in- other machines, they re­mained in the box until the first part of January, 1858. During the period, from No­vember 7, 1848, when he left Washington, to the last of December, 1852, or the first part of January, 1853, he did nothing to perfect or construct any needle-feed apparatus for feeding the material to be sewn in a sewing machine. Taking his own statement as true, he commenced soon after he returned frofu Washington to make the preparatory investi­gation to accomplish what is called the Grover &amp; Baker stitch, and, in the course of that month, or the month following,- he made a model. While he was at work on the mod­el, and within eight or ten days after he returned, he wrote to his patent solicitor re­specting the same, stating, among other things, that “the needles cross each other and catch the thread from each needle, in the same manner as they do when both pass through the cloth, the object being to have all the looping on one side, and on the other side leave but one thread the same as in common back stitching by hand.” In the same letter he also stated that “the only disadvantage (if it may be called a disadvantage) in this arrangement of the needles, will be in the necessity of moving the wheel, on which the work is placed, by means of a feeder, as I had designed to move the bar, which is very easily done.” Some time in January follow­ing he sent a rough model of that machine to his patent solicitor, and it remained in his possession till October or November, 1S52. Little or nothing was done by him after that toward constructing any model or machine, except to make some patterns, till June or July, 1S52, when he went to Springfield and had some gearings, castings,, and shafting made for a sewing machine, and shortly afterward went to Granville and employed a mechanic to help him make the machine. Both parties conceded that these were models of what is called the Grover &amp; Baker stitch, with a rotary clamp, and the witness stated that he completed the invention in Septem­ber, 1852, and carried the model to Washing­ton and filed an application in the patent office, with a view to patent the invention. But a patent had been issued to Grover &amp; Baker for the same stitch, on February 11, 1851, and they had an application pending, or one was shortly afterward presented, for a reissue of the patent Upon the presenta­tion of the application an interference was declared by the patent office, and notice was given to the applicants. Whereupon they sent their agent to adjust the controversy with the plaintiff. They first met at Hart­ford, and there the plaintiff saw and examin­ed the Grover &amp; Baker machine. Two or three other interviews were had, and an ar­rangement was made whereby the plaintiff assigned to the agent of the other parties all his interest and claim in the stitch, and perhaps in the needles. Under the arrange­ment, the patent for the stitch, etc., was to issue in the name of Mr. Bates, and it was accordingly granted to him on February 22, 1S53, and on the twelfth day of April fol­lowing, a patent issued to the plaintiff for the rotary clamp. None of these transac­tions had any relation to any apparatus for feeding the material to be sewn in a sewing machine, and they are of but little import­ance in the case, except as showing the na­ture of the plaintiff’s employment, and that he had an opportunity to examine the Grover &amp; Baker machine. Drawings for a needle feed were commenced by the plaintiff about January 3, 1853, and in the spring of that year he had the frame of the old red machine constructed, as it was exhibited at the trial. Some changes, however, were made in the parts of the machinery, as, for example, the cams are not the same, and other needles have been supplied. Most of the parts, as the plaintiff states, are the ones that he brought back from Washington, but the crank and one pulley he had used in getting up one of the other models, and the rotary clamp and the fly wheel are also new. His application for a patent was filed March 31, 1853, and on March 7, of the following year, the original patent was issued. To account for the delay, from November 7, 1S48, when he left Washington, until January 3, 1853, when he commenced to restore the machine, he introduced testimony tending to show that during a part, or all of that time, he was in poor health, and that he was somewhat em­barrassed in his circumstances. On the other hand, the defendant introduced testimony tending to show that his general health was not seriously impaired, and that his pecuni­ary circumstances were such that he was able to purchase a farm worth some fifteen hundred dollars, and that he had about the usual amount of stock on the farm. Noth­ing need be said respecting the caveat, as the statement of the case already exhibited, shows that it expired without any thing be­ing done to restore the machine. On this state of the case the jury were( instructed, that if the plaintiff did not make any such invention as is described in the third claim of his reissued letters patent in 184S, or if he did, that he did not reduce the same to practice, in the form of an operative sew­ing machine, then they were not authoriz­ed to find that his patented invention takes date prior to the time when he filed his ap­plication for his original patent. Two other instructions, applicable to this state of the case, were also given by the court, which it becomes important to notice. Of these the first was, that if the jury find that the plain­tiff invented the needle feed, which is in the old red machine, in 1S4S, embodying the same in a machine, of which the old red is a true representation (excluding the rotary clamp), and operated it with the stationary holder, as he has described in his testimony, and carried it to Washington, leaving the stationary holder at home, and there cou-­structed, and fitted in the rotary clamp, and operated it there, as he has stated in his testimony, and on November 7, 1848, filed his caveat in the patent office, still, if they also find that the plaintiff, on the same day that he filed the caveat, took the machinery out of the frame in Washington, and brought the parts home, leaving the frame there, and laid them aside as something incomplete, and requiring more thought and experiment be­fore he restored the invention in the form of an operative machine, although not with a definite intention of abandoning what he had accomplished, yet not with any determinate intention of resuming the same, but really for the purpose of preserving the parts, to be used by him, or not. as he might there­after determine, and suffered his caveat to expire, and did nothing to restore the inven­tion in the form of an operative machine, or to mature the needle feed, from the time he left Washington to the last of December, 1S52, when he commenced to make a model with a view to apply for a patent, and, in the mean time. A. B. Wilson, without knowl­edge of what the plaintiff had accomplished, invented the same thing, and reduced the same to practice, in the form of an operative machine, filed his application for a patent after the plaintiff’s caveat had expired, and then obtained letters patent for the same, and that A. B. Wilson, or his assigns, manu­factured machines under that patent for prac­tical use as sewing machines containing the same feed, and that the machines so manu­factured were sold in the market and went into practical use before the plaintiff com­menced to restore his invention, or to make his model with a view of obtaining his original patent, then the jury are instructed that if the defendant’s machine was made under the Wilson patent, and the defendant sold the same by the authority of Wilson or his assigns, the plaintiff- cannot carry back his invention to any period prior to the time he commenced to make the model for his original patent, provided the jury also find that the Wilson patent embodies the same needle feed as that of the plaintiff’s patent­ed invention. Secondly, they were also in­structed that if they found that the plaintiff, after having taken the machinery out of the frame, in Washington, and brought it home, leaving the frame there, laid the machinery aside as something incomplete, and requir­ing more thought and experiment, and never intending to reconstruct the machine, or to restore the needle feed in the form of an operative sewing machine, without material modifications or alterations, but only to pre­serve the parts to be used in other inventions as circumstances might arise, then the jury were instructed that they would be fully war­ranted in finding that he deserted and aban­doned the invention so far as respects the nee­dle feed, provided they also found that he did nothing to restore the needle feed in the form of an operative machine, from Novem­ber 7, 1S48, to the last of December, 1852, or the first of January, 1853.</p>
+                <p pgmap="807" id="b807-3">I. Extended argument upon the several propositions, arising out of the proper ap­plication of these instructions to the evidence in the case, will not be attempted; as I am of the opinion that the jury erred in respect to them all; and that if they had properly applied any one of them to the evidence, their verdict must have been for the defend­ant. They were told, in addition to the first instruction referred to, that it was necessary for them to inquire and determine what if any thing, the plaintiff invented and reduced to practice in the form of an operative sew­ing machine, so far as respected the feeding apparatus, prior to his application for his original patent, and if any thing, whether the same, or a substantial and material part of the same, was embodied in the reissued letters patent, as construed and defined by the court. As already appears, the court had construed the third claim of the reissued letters patent, and instructed the jury that there was included in it, not only the vibrat­ing piercing instrument, substantially as de­scribed, but, also, whatever other parts nec­essarily acted in connection therewith, to feed the material to be sewed in .a sewing machine, so far as the functions performed by such other parts modified the action of the feeding instrument. Applying those in­structions to the evidence, it is obvious that the jury must have found as follows: First. That the plaintiff invented and reduced to practice in .1848, an operative sewing ma­chine, which contained embodied therein a needle feed, which is the same, or substan­tially the same, as that described in the third claim of his reissued letters patent. Sec­ond. That the old red machine, made in 1848, was an operative sewing machine, and that it contained the needle feed described in the third claim of the plaintiff’s reissued patent as construed and defined by the court, in­cluding the pressure foot and table, or equivalent devices. Third. They must have found that the plaintiff, on his return from Washington, did not lay aside the parts of the machine brought home as something in­complete, and requiring more thought and experiment, before he attempted to restore the invention in the form of an operative machine, as that element of the instruction, in the main aspect of the case, was the only one that properly admitted of any dispute. Fourth. They must have found that the plaintiff did not desert and abandon the in­vention, so far as respects the needle feed, and, consequently, that after having taken the machinery out of the frame and brought the parts home, leaving the frame in Wash­ington, he did not lay the machinery aside as something incomplete, and requiring more thought and experiment, but that he laid it aside without any intention of abandoning the same, and with the intention of con­structing a new frame, and of restoring the invention, including the needle feed, in the form of an operative machine. 1. Giving full effect to all the testimony of the plaintiff, it does not show, and in the judment of the court does not tend to show, that he invented in 1848, and reduced to practice in the form of an operative machine, any needle feed which included a pressure foot and table, or any equivalent devices, and unless the needle feed included these devices, the jury were not authorized, under the instructions of the court, to find a verdict in favor of the plain­tiff. His own testimony shows indubitably, that the straight clamp or wooden holder was a mere experiment, and as such,' was left at home, when he went to Washing­ton, with a view to apply for a patent; and in point of fact, the clamp was never re­stored until near the close of the first trial to the jury. Argument upon that subject is unnecessary, as the testimony of the plaintiff upon the point is full and explicit. He never completed the ratchet clamp, and it will hardly be pretended that the rotary clamp is, or can be to any practical extent, an equivalent for the pressure foot and table, to be found in the patented invention. Un­finished and incomplete as the machine was, it is impossible to hold, on the evidence ex­hibited, that it was reduced to practice in the form of an operative machine, without de­parting from the well settled rules of law, uniformly recognized and approved in all the courts of the United States. Gavler v. Wilder, 10 How. [51 U. S.] 498; Reed v. Cut­ter [Case No. 11,045]; Curt. Pat. § 43; Wood­cock v. Parker [Case No. 17,971]; Washburn v. Gould [Id. 17,214].</p>
+                <p pgmap="807(15) 808(74)" id="b807-6">II. Further explanations are not necessary to show that the verdict could not have been for the plaintiff, unless the jury found that the old red machine was an operative sew­ing-machine, and that it included the equiv­alents of the pressure foot and table, so far as those devices in the patented machine modified the action of the feeding instru­ment. Evidently the finding of the jury on that point is against the evidence, as already explained, or it is entirely opposed to the charge of .the court.</p>
+                <p pgmap="808" id="b808-3">III. Taliing the uncontradicted testimony of the plaintiff as true, he did nothing during the period, from the seventh day of Novem­ber, 1848, to the last day of December, 1852, or the first part of January, 1853, to construct or perfect any needle feed apparatus, for feeding the material to be sewn in a sewing machine. Evidence explanatory of the delay was wholly wanting at the time, except that offered as to the health of the plaintiff and his pecuniary condition, and the evidence on that point was conflicting, and the plain­tiff’s own testimony showed that he was able, and found the means to work at .other inventions within that period. Considering all the circumstances, and giving them all due weight, still the inference was a clear one that the plaintiff, on his return from Washington, had laid aside the materials as something incomplete, and which required more thought and experiment before he at­tempted to restore the invention. Regarding the inference to that effect as a clear one, and wholly unopposed by other evidence of any importance, I am of the opinion that the verdict, in this view of the case, was clearly against the evidence. Wilkinson v. Greely [Case No. 17,671].</p>
+                <p pgmap="808" id="b808-4">IV. When the plaintiff returned from Washington, he laid the parts of the ma­chine, brought home, aside, as before ex­plained, and never attempted to restore the invention until an opportunity was afforded him to examine the Grover &amp; Baker ma­chine.</p>
+                <p pgmap="808" id="b808-5">Prior to that time, there is not, in the view of the court, a circumstance in the case that does not appear to indicate that he had ut­terly deserted and abandoned the old red ma­chine. He had devoted all of his time and attention to the construction of models for other inventions; and as circumstances had rendered it convenient and useful, he had appropriated a certain portion of those ma­terials to other machines. Except the fact that he did ultimately reproduce the ma­chine, or a representation of it, there does not appear to be the slightest evidence to warrant the conclusion, that when he laid the materials aside, he had any expectations whatever that he would ever attempt to restore the invention. For these reasons, I am of the opinion that the finding of the jury on this point was undeniably against the weight of the evidence.</p>
+                <p pgmap="808" id="b808-6">V. Nominal damages only were claimed by the plaintiff in the opening of his case, and the evidence showed that the defendant sold but one machine, and that was admitted by the defendant at an early stage of the trial. When the subject of damages was alluded to in the closing argument, it was again stated that the plaintiff only claimed nom­inal damages. Such damages only being claimed, and there being no sufficient evi­dence to show that more than one machine was sold, the court instructed the jury if their verdict was in favor of the plaintiff, to find nominal damages; but they returned a verdict in his favor assessing damages in the sum of five hundred dollars. Errors of this description may sometimes be obviated by allowing the prevailing party to remit the excess, and that course is frequently adopted in cases where the court is satisfied that the error has resulted from oversight or mere inadvertence; but where, as in this case, the finding is not only contrary to the evidence, but in direct contravention of the charge of the court, the difficulty can not in general be remedied in that way. Parties have a right to an impartial trial according to law; and where it appears to the court that the requirement of the law in that be­half has not been fulfilled, it is the duty of the court, on motion to that effect, to set the verdict aside and grant a new trial.</p>
+                <p pgmap="808(294) 809(200)" id="b808-9">VI.Misconduct of the party and of the jury is also alleged; but having already reached the conclusion, upon grounds con­nected with the merits of the controversy, that a new trial must be granted, it is not deemed necessary to reproduce the evidence offered by the defendant in support of the motion. Irregularity on the part of the party charged, or of the jury, must be satisfacto­rily proved in order to lay the foundation for the interposition of the court; but when the irregular conduct is established, it is not necessary that it should certainly appear that it influenced the jury. In that state of the case, it is sufficient that the irregularity appears to be of such a character that it might have affected the impartiality of the proceedings. Such was the rule laid down in Com. v. Roby, 12 Pick. 520, and it appears to be correct. In that case the court says that “where there is an irregularity which may affect the impartiality of the proceed­ings, as where meat and drink, or other re­freshments have been furnished by a party, or where the jury have been exposed to the effect of such influence, as where they have improperly separated themselves, or have had communications not authorized, there, inasmuch as there can be no certainty that the verdict has not been improperly influenced, the proper and appropriate mode of correction or relief is by undoing what is thus improperly and may have been cor­ruptly done.” Text writers usually state the rule as follows: “That whenever it is made satisfactorily to appear that the jury were influenced by improper motives, or that they acted corruptly or under a mistake, or it clearly appears that a fair trial has not been had, the verdict will be set aside and a new trial granted.” Any improper inter­ference with the jurors may afford sufficient ground for granting such a motion, and it is not necessary that the attempt to influ­ence the jurors should be made by one of the parties, nor even by his agent. It is sufficient if it clearly appear that it was' done in his behalf, and it is never necessary to show that the misconduct controlled or determined the verdict, provided it was of a character that it might have had an undue influence. Taken as a whole the evidence shows very unusual and, in the opinion of the court, culpable conduct on the part of Thomas J. Herring, which can not but be regarded as an irregularitj, and which, in point of fact, affords strong grounds to con­clude, that he must have learned from some one of the jury the result of their delibera­tions, before that result was announced in court. Strong ground to conclude, also, that the plaintiff knew what the result would be several days before the verdict was ren­dered, is also furnished by the testimony taken in the motion.</p>
+                <p pgmap="809" id="b809-3">Those facts and circumstances must be weighed, in connection with the conduct of the jury, in disregarding the instructions of the court in respect to the merits of the con­troversy; and when viewed in that connec­tion, they produce full conviction, in the mind of the court, that the parties have not had an impartial trial according to law. Courts of the United States have power to grant new trials in cases where there has been a trial by jury, for reasons for which new trials have usually been granted in courts of common law; and where, as in this case, it is fully made to appear that the trial has not been ah impartial one, it is the duty of the court to exercise the power con-, ferred by the judiciary act. Yerdict set aside and new trial granted.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="800" ORDERLABEL="798" TYPE="page">
+        <fptr FILEID="tiff_00400_1"/>
+        <fptr FILEID="jp2_00400_1"/>
+        <fptr FILEID="alto_00400_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_800.4" BETYPE="IDREF" FILEID="alto_00400_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="801" ORDERLABEL="799" TYPE="page">
+        <fptr FILEID="tiff_00401_0"/>
+        <fptr FILEID="jp2_00401_0"/>
+        <fptr FILEID="alto_00401_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_801.4" BETYPE="IDREF" FILEID="alto_00401_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="802" ORDERLABEL="800" TYPE="page">
+        <fptr FILEID="tiff_00401_1"/>
+        <fptr FILEID="jp2_00401_1"/>
+        <fptr FILEID="alto_00401_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_802.4" BETYPE="IDREF" FILEID="alto_00401_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="803" ORDERLABEL="801" TYPE="page">
+        <fptr FILEID="tiff_00402_0"/>
+        <fptr FILEID="jp2_00402_0"/>
+        <fptr FILEID="alto_00402_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_803.4" BETYPE="IDREF" FILEID="alto_00402_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="804" ORDERLABEL="802" TYPE="page">
+        <fptr FILEID="tiff_00402_1"/>
+        <fptr FILEID="jp2_00402_1"/>
+        <fptr FILEID="alto_00402_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_804.5" BETYPE="IDREF" FILEID="alto_00402_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="805" ORDERLABEL="803" TYPE="page">
+        <fptr FILEID="tiff_00403_0"/>
+        <fptr FILEID="jp2_00403_0"/>
+        <fptr FILEID="alto_00403_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_805.3" BETYPE="IDREF" FILEID="alto_00403_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="806" ORDERLABEL="804" TYPE="page">
+        <fptr FILEID="tiff_00403_1"/>
+        <fptr FILEID="jp2_00403_1"/>
+        <fptr FILEID="alto_00403_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_806.5" BETYPE="IDREF" FILEID="alto_00403_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="807" ORDERLABEL="805" TYPE="page">
+        <fptr FILEID="tiff_00404_0"/>
+        <fptr FILEID="jp2_00404_0"/>
+        <fptr FILEID="alto_00404_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_807.3" BETYPE="IDREF" FILEID="alto_00404_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="808" ORDERLABEL="806" TYPE="page">
+        <fptr FILEID="tiff_00404_1"/>
+        <fptr FILEID="jp2_00404_1"/>
+        <fptr FILEID="alto_00404_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_808.4" BETYPE="IDREF" FILEID="alto_00404_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="809" ORDERLABEL="807" TYPE="page">
+        <fptr FILEID="tiff_00405_0"/>
+        <fptr FILEID="jp2_00405_0"/>
+        <fptr FILEID="alto_00405_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_809.3" BETYPE="IDREF" FILEID="alto_00405_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b800-16" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_800.22" BETYPE="IDREF" FILEID="alto_00400_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b808-6" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_808.8" BETYPE="IDREF" FILEID="alto_00404_1"/>
+            <area BEGIN="BL_808.9" BETYPE="IDREF" FILEID="alto_00404_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3G" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_800.12" BETYPE="IDREF" FILEID="alto_00400_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b800-30" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_800.30" BETYPE="IDREF" FILEID="alto_00400_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b805-4" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_805.5" BETYPE="IDREF" FILEID="alto_00403_0"/>
+            <area BEGIN="BL_805.6" BETYPE="IDREF" FILEID="alto_00403_0"/>
+            <area BEGIN="BL_806.1" BETYPE="IDREF" FILEID="alto_00403_1"/>
+            <area BEGIN="BL_806.2" BETYPE="IDREF" FILEID="alto_00403_1"/>
+            <area BEGIN="BL_807.1" BETYPE="IDREF" FILEID="alto_00404_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b800-4" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_800.7" BETYPE="IDREF" FILEID="alto_00400_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b802-7" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_802.10" BETYPE="IDREF" FILEID="alto_00401_1"/>
+            <area BEGIN="BL_803.1" BETYPE="IDREF" FILEID="alto_00402_0"/>
+            <area BEGIN="BL_803.2" BETYPE="IDREF" FILEID="alto_00402_0"/>
+            <area BEGIN="BL_804.1" BETYPE="IDREF" FILEID="alto_00402_1"/>
+            <area BEGIN="BL_804.2" BETYPE="IDREF" FILEID="alto_00402_1"/>
+            <area BEGIN="BL_805.1" BETYPE="IDREF" FILEID="alto_00403_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b801-5" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_801.6" BETYPE="IDREF" FILEID="alto_00401_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtEN" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_800.9" BETYPE="IDREF" FILEID="alto_00400_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b808-9" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_808.10" BETYPE="IDREF" FILEID="alto_00404_1"/>
+            <area BEGIN="BL_809.1" BETYPE="IDREF" FILEID="alto_00405_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ad5K" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_800.10" BETYPE="IDREF" FILEID="alto_00400_1"/>
+            <area BEGIN="BL_800.11" BETYPE="IDREF" FILEID="alto_00400_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b809-3" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_809.5" BETYPE="IDREF" FILEID="alto_00405_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdK0" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_802.6" BETYPE="IDREF" FILEID="alto_00401_1"/>
+            <area BEGIN="BL_802.7" BETYPE="IDREF" FILEID="alto_00401_1"/>
+            <area BEGIN="BL_802.8" BETYPE="IDREF" FILEID="alto_00401_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b807-3" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_807.5" BETYPE="IDREF" FILEID="alto_00404_0"/>
+            <area BEGIN="BL_807.6" BETYPE="IDREF" FILEID="alto_00404_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b808-5" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_808.7" BETYPE="IDREF" FILEID="alto_00404_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b808-4" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_808.6" BETYPE="IDREF" FILEID="alto_00404_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b808-3" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_808.5" BETYPE="IDREF" FILEID="alto_00404_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b802-4" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_802.5" BETYPE="IDREF" FILEID="alto_00401_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATmQ" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_800.13" BETYPE="IDREF" FILEID="alto_00400_1"/>
+            <area BEGIN="BL_800.14" BETYPE="IDREF" FILEID="alto_00400_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b800-32" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_800.32" BETYPE="IDREF" FILEID="alto_00400_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b807-6" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_807.7" BETYPE="IDREF" FILEID="alto_00404_0"/>
+            <area BEGIN="BL_808.1" BETYPE="IDREF" FILEID="alto_00404_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AecW" BETYPE="IDREF" FILEID="casebody_0410"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_800.8" BETYPE="IDREF" FILEID="alto_00400_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

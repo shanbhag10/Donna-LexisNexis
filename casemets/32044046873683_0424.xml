@@ -1,0 +1,553 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0424" publicationstatus="published">
+          <court abbreviation="D. Me." jurisdiction="United States">United States District Court for the District of Maine</court>
+          <name abbreviation="The Etna">The ETNA</name>
+          <docketnumber>Case No. 4,542</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 803</citation>
+          <citation category="parallel" type="bluebook">1 Ware (462) 474</citation>
+          <decisiondate>1838-11-20</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00403_0" MIMETYPE="image/tiff" CHECKSUM="a0cc88731d79a0025df2fb7a23e9b441" CHECKSUMTYPE="MD5" SIZE="63972">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00403_0.tif"/>
+      </file>
+      <file ID="tiff_00403_1" MIMETYPE="image/tiff" CHECKSUM="6db3817336747e3223e314b387920862" CHECKSUMTYPE="MD5" SIZE="109458">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00403_1.tif"/>
+      </file>
+      <file ID="tiff_00404_0" MIMETYPE="image/tiff" CHECKSUM="0e6a3e6a7abbe0b8df6f64d1e5026eee" CHECKSUMTYPE="MD5" SIZE="123572">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00404_0.tif"/>
+      </file>
+      <file ID="tiff_00404_1" MIMETYPE="image/tiff" CHECKSUM="51f2f9d0e48132dbf9beff10284df089" CHECKSUMTYPE="MD5" SIZE="121280">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00404_1.tif"/>
+      </file>
+      <file ID="tiff_00405_0" MIMETYPE="image/tiff" CHECKSUM="ff9ecac3ddcc94ad61f8cb5bffee76f5" CHECKSUMTYPE="MD5" SIZE="114046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00405_0.tif"/>
+      </file>
+      <file ID="tiff_00405_1" MIMETYPE="image/tiff" CHECKSUM="3fe68fda467b6a13df43f7e1067a1fd7" CHECKSUMTYPE="MD5" SIZE="115870">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00405_1.tif"/>
+      </file>
+      <file ID="tiff_00406_0" MIMETYPE="image/tiff" CHECKSUM="a2ce4e0de57419f4680a328c660b5597" CHECKSUMTYPE="MD5" SIZE="89600">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00406_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00403_0" MIMETYPE="image/jp2" CHECKSUM="44b33f48f3ce5c62b10afb665379ca91" CHECKSUMTYPE="MD5" SIZE="2717419">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00403_0.jp2"/>
+      </file>
+      <file ID="jp2_00403_1" MIMETYPE="image/jp2" CHECKSUM="c9b0084fc0365d2035ff42538161add5" CHECKSUMTYPE="MD5" SIZE="3686298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00403_1.jp2"/>
+      </file>
+      <file ID="jp2_00404_0" MIMETYPE="image/jp2" CHECKSUM="9006063eb2b1bcd58007f0cc9cb7c9a7" CHECKSUMTYPE="MD5" SIZE="3929918">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00404_0.jp2"/>
+      </file>
+      <file ID="jp2_00404_1" MIMETYPE="image/jp2" CHECKSUM="8f51736b85b4a89b006c5938aac14fe4" CHECKSUMTYPE="MD5" SIZE="3887583">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00404_1.jp2"/>
+      </file>
+      <file ID="jp2_00405_0" MIMETYPE="image/jp2" CHECKSUM="80eb212c4f21f2eb5439282d0b7f00a6" CHECKSUMTYPE="MD5" SIZE="3828298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00405_0.jp2"/>
+      </file>
+      <file ID="jp2_00405_1" MIMETYPE="image/jp2" CHECKSUM="c9d060776d35089eb894e1e05f6ee2f9" CHECKSUMTYPE="MD5" SIZE="3821288">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00405_1.jp2"/>
+      </file>
+      <file ID="jp2_00406_0" MIMETYPE="image/jp2" CHECKSUM="172892fb5ef523ac15052f3303554359" CHECKSUMTYPE="MD5" SIZE="3530292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00406_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00403_0" MIMETYPE="text/xml" CHECKSUM="478d8af5e8db1ff61841088182485ab2" CHECKSUMTYPE="MD5" SIZE="136947">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00403_0.xml"/>
+      </file>
+      <file ID="alto_00403_1" MIMETYPE="text/xml" CHECKSUM="7b4419de697dabbb3e5d799c74707d2b" CHECKSUMTYPE="MD5" SIZE="247410">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00403_1.xml"/>
+      </file>
+      <file ID="alto_00404_0" MIMETYPE="text/xml" CHECKSUM="e130c84a6b6a7338302f430bc548cf43" CHECKSUMTYPE="MD5" SIZE="279610">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00404_0.xml"/>
+      </file>
+      <file ID="alto_00404_1" MIMETYPE="text/xml" CHECKSUM="55ef26e83db84a06a62b958bd8d9f708" CHECKSUMTYPE="MD5" SIZE="274955">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00404_1.xml"/>
+      </file>
+      <file ID="alto_00405_0" MIMETYPE="text/xml" CHECKSUM="e8b0c2d1d310ef90dbb6c298909bcab0" CHECKSUMTYPE="MD5" SIZE="260902">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00405_0.xml"/>
+      </file>
+      <file ID="alto_00405_1" MIMETYPE="text/xml" CHECKSUM="fe56520159ff0f445af966b8d593dfc4" CHECKSUMTYPE="MD5" SIZE="253162">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00405_1.xml"/>
+      </file>
+      <file ID="alto_00406_0" MIMETYPE="text/xml" CHECKSUM="bd921149c08ac3cea02750b23b8c4aa2" CHECKSUMTYPE="MD5" SIZE="191751">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00406_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0424" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="809" firstpage="803">
+              <court id="b805-13" pgmap="805">District Court, D. Maine.</court>
+              <docketnumber id="b805-10" pgmap="805">Case No. 4,542.</docketnumber>
+              <citation id="b805-12" pgmap="805">[1 Ware (462) 474.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b805-11" pgmap="805">The ETNA.</parties>
+              <decisiondate id="AJI" pgmap="805">Nov. 20, 1838.</decisiondate>
+              <attorneys id="b806-3" pgmap="806">S. Fessenden, for libellant. Mr. Haines, for respondent</attorneys>
+              <footnote label="1">
+                <p id="b805-23" pgmap="805">1 [Reported by Hon Ashur Ware, District Judge.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b806-4" pgmap="806">WARE, District Judge.</author>
+                <p id="AoF" pgmap="806">The first ques­tion, which is presented by the case, arises on the admissibility .and effect of Joseph Walker’s receipt in full for .the wages claimed in the libel. It is said that the father being entitled to the earnings of his child by virtue of his paternal power, and the wages being a debt due to him, in his own right, he had full authority to com­promise and settle the suit on such terms as he pleased, although the action was not brought in his name. As a general proposition, it is undoubtedly true that the father is entitled to the earnings of his children during their minority, nor is there any doubt that he may maintain a suit in the admiralty for their wages earned in a maritime service. Plum­mer v. Webb [Case No. 11,233]. But this is not, like the duties of a parent, a right which is indissolubly attached to the paternal rela­tion. It is a right which may be either re­nounced by the father, or forfeited. He may renounce it by voluntarily allowing his child to have the exclusive use of the fruits of his own industry; and he may forfeit his right by neglecting to perform those parental duties which are the foundation of the right. It is the duty of the father to provide for his child a home, to protect, to maintain, and to educate him according to the measure of his ability. It is to enable him to do this that the law gives to him the custody and right of control over the person of his child; and, as some compensation for it, allows him to take the fruits of his child’s labor. But this paternal power is not of the nature of a sovereign and independent power. It is subject to the restraints and regulation of law. Upon the principles of the law of nature, as well as of the municipal law of this country, it is inseparably connected with the parental obligations, and arises out of them. It is not a power granted to the par­ent for his benefit, but allowed to him for the benefit of the child, and it ceases when the faculties of the child have acquired that degree of maturity, that it may safely be trusted to its own resources. When, there­fore, the parent abuses this power, or neg­lects to fulfil the obligations from which it results, he forfeits his rights. If instead of treating his child with tenderness and af­fection, and bringing him up in habits of industry, sobriety, and virtue, he treats him with such cruelty that he cannot be safely left in his custody; or corrupts the purity and integrity of his nature and trains him up to immorality and profligacy, the protect­ing justice of the country will interpose and deprive him of the exercise of a power, which, having been allowed for the benefit of the child is perverted to his injury and per­haps his ruin. There are many cases in which the court of chancery in England has interposed its authority and taken children from the custody of their fathers who have abused their parental power, and placed them under the care of persons proper to have the control of them, and to superintend their education. 2 Story, Eq. Jur. c. 35; De Manneville v. De Manneville, 10 Ves. 52; Whitfield v. Hales, 12 Ves. 492; Wellesley v. Wellesley, 2 Bligh [N. S.] 128. I am not aware that any doubt exists that the courts in this coutry have similar authority. It would certainly be a great defect in the laws .of any civilized people, if they furnished no mode by which the innocence and helpless­ness of infancy, and the purity and ingenu­ousness of youth could be protected from the brutality of an unnatural parent The com­munity has a deep interest in preserving the rectitude of the young, and in imparting to them such an education and training them to such habits as will render them in manhood useful and not pernicious members of so­ciety. As a father may forfeit his right to the custody and control of his child's person by abusing his power, so by. neglecting to fulfil the obligations of a father, he may for­feit his right to the fruits of his child’s labor. If he provides no home for his protection, if he neither feeds nor clothes him, nor minis­ters to his wants in sickness or health, it would be a most harsh and unnatural law which authorized-the father to appropriate to himself all his child’s earnings. It would be recognizing in fathers something like that preeminent and sovereign authority which has never been admitted by the jurispru­dence of any civilized people, except that of ancient Rome, whose law held children to be the property of the father, and placed them in relation to him in the category of things instead of that of persons.<footnotemark>2</footnotemark>
+                </p>
+                <p id="b807-3" pgmap="807">Keeping these principles in view, let ns look to the facts in this case, as they have been proved by unexceptionable witnesses. A number of persons have been examined who have been acquainted with Joseph Walker and his family from one- to four years, or more, and who have testified to the kind of care which he took of his family, • to his habits, his temper, and manner of life. During that time, although constantly residing in the same town, and his place of employment, where he worked at his trade, not being more than half a mile from the residence of his wife and children, he has never lived with them except in some portion of the winter season when he was unoccu­pied in his trade. The witnesses testified that he never visited his family oftener than once a week, and seldom oftener than once a fortnight, when .he came home on Saturday nights and spent Sunday. That on these occasions hé often returned in' a state of in­toxication, when he abused his children with such excess that they have been seen, when their mother happened to be from home, fly­ing from the windows to escape from his violence, and the younger ones have been taken by a family residing in another part of the house, to save them from the brutal­ity of their father. That during this period he has done nothing towards the support of his children, except ' that he sometimes brought some small articles of provision in­to the family, but less, as the witnesses tes­tify, than he himself consumed in these fugi­tive and unwelcome visits. The whole bur­den of providing for the family has been thrown upon the mother, who has labored to the full measure of her strength to provide a support for her children and herself, aided by a part of the earnings of such of the old­er children as could get employment. For this father, while he neglected all • the du­ties of a father, was sufficiently tenacious of his supposed paternal power. When hia son was at sea he took to himself a part of his wages, but he allowed a part to go to­wards the support of the child and the rest of the family. A few days after the son sailed on this voyage, having obtained the surplus money which was distributed among the inhabitants by the city government, he immediately without allowing any part of it to his family, left this city and has not yet returned. The force of this testimony is but very slightly, if at all weakened by that produced by the respondent, while so far as respects his habits of intoxication it is fully confirmed by the unsuspicious testimony of a physician who has known him for eight years, and who testifies fully to his habits in this particular, and has been called to visit him while suffering under delirium tre-­mens from habitual intemperance.</p>
+                <p id="b807-8" pgmap="807(135) 808(435)">Is the father,- under these circumstances, entitled as a matter of right to appropriate to himself the earnings of his son? At the time when he undertook to do it, he had, as we have seen, abandoned his family. He. left the place without giving them any notice of his intentions or his purposes, and they ascertained where he had gone, not from him, but by inquiries of others. The father is bound, as has been already observed, by the dictates of natural law, to support, protect, and provide for the well-being of his children, according to the measure of his ability. And if the law invests him with a right of con­trol over their persons, it is only for the purpose of enabling him to perform more effectually and completely those duties which are enjoined, as well by the instincts of nature and the dictates of reason, as by the law of the land. The soundest and most approved expounders of the law of nature place the paternal power exclusively on this foundation. The Creator of man, in giving to him a social nature and endowing him with those qualities which fit him for the enjoyment of social life, has imposed upon the parent, as one of the conditions of his being, the obligation of providing for his offspring while they are incapable of taking care of themselves. But his children are not on that account born slaves. They do not become the property of the parent. As soon as a child is bom, he becomes a member of the human family, and is invested with all the rights of humanity. Nature has placed him under the tutelage of the parent, because this tutelage is necessary for his preservation and well-being, and has im­planted in the bosom of the parent the instinct of parental love as a pledge and security for the faithful and pious execution of the trust; and, as wherever a duty is required, a grant of the powers which are indispensable for its performance is implied, the law of nature allows him just so much authority as is nec­essary for its execution. “The power of a father,” says Puffendorff, “is that which is absolutely necessary to enable him to dis­charge the duties to his children which na­ture has imposed upon him, and consequent­ly does not extend further than is requisite for this object.” Jus Naturae et Gentium, lib. 6, c. 2, § 6; Grotius, lib. 2, c. 5, §§ 1, 7; Locke, Second Treatise on Government, c. 6; Heineccius, Jus Naturae, lib. 2, c. 3. The celebrated Hobbes, who seemed to think that children were bom to no rights, as he re­solves all right into that of the strongest, and who held that the relation of parent and child is that of master and slave, defends his doctrines not on the simple fact of gen­eration, or the relation of paternity and filia­tion, but on the fact that the child is in­debted to the parent for protection, support, and education, as it depended on his will, whether he would nurture and maintain the child or leave it to perish. If he abandons his child, he abandons at the same time his paternal power, and the right of dominion over the child passes to the first person who takes it under his protection and gives it a support.<footnotemark>3</footnotemark>
+                </p>
+                <p id="b808-5" pgmap="808(328) 809(185)">The municipal law of the country is found­ed upon and enforces the precepts of natural law; and the soundest and most esteemed commentators upon the common law ex­plain the rights and duties of the parent in •terms that correspond entirely with the dic­tates of the law of nature. “The power of parents over their children,” says Black­stone, “is derived from their duty, this au­thority being given them partly to enable the parent more effectually to perform his duty, and partly as a recompense for his care and trouble in the faithful discharge of it;” and he adds, that the parent “may have the bene­fit of his children’s labor, while they live with him, and are maintained by him.” 1 Comm. 452, 453; 1 Woodeson, Lect. 451. The language of Chancellor Kent, in his Com­mentaries, is, that “in consequence of the obligation of the father to provide for the maintenance and, in some qualified degree, for the education of his infant children, he is entitled to the custody of their persons, and the value of their labor and services.” 2 Kent, Comm. 290; Reeve, Dom. Rel. c. 9, p. 283: Id., c. 10, p. 290; Plummer v. Webb [supra]; Benson v. Remington, 2 Mass. 113; Day v. Everett, 7 Mass. 145. It may be true that the paternal power is sometimes de­scribed in terms more general, for men who are most accurate in the use of language, do not always, whether in speaking or writ­ing, annex to a general truth all the limita­tions and qualifications with which it is to be understood. It is perfectly true, as a general proposition, that the father has the right to the custody and control of the per­son of his child; and it is equally true that if he abuses this power the law will interpose and take his child from him. What degree of abuse will justify or require this interpo-­Bition is necessarily a question of discretion; •but no one will contend that a father, under ■the common law, stands in the relation of a sovereign to his child,,invested like a Roman father, with the juc. vitae et necis. So also it is not questioned as a general truth, that the father is entitled to the fruits of his child’s labor; but it is equally true, that this is a right which results directly from the fulfil­ment of his paternal obligations of providing for the well-being of his child. If these du­ties are not performed, if he abandons the care of his children, he renounces at the same time his paternal power. There is, as is justly observed by Chief Justice - Parker, no law, human or divine, short of that of absolute slavery, which can authorize the father to take to himself the fruits of his child’s industry, when he has discharged himself from the obligation to support the child, or has obliged him to support himself. Nightingale v. Withington, 15 Mass. 274; per Sedgwick, Justice, Benson v. Remington, 2 Mass. 115.</p>
+                <p id="b809-4" pgmap="809">But there is proof in' this case that the father was, from infirmity, unable to per­form the. ordinary labor of a man, having had the misfortune to lose one of his legs. Now it is not intended to be said, when a parent from sickness or any other cause be­comes unable to support his children, that they are discharged from the obligation of filial piety and reverence. These are ob­ligations which follow them through life; and these sentiments are so deeply implant­ed by nature in the human bosom, that or­dinarily no degree of neglect or unkindness on the part of a parent can entirely extin­guish them. Nor is it pretended that this ob­ligation is fully discharged by cherishing passive feelings of" gratitude and affection for a parent. When a child has arrived at that degree of maturity and strength that he is able by his industry to do more than is necessary for his own support, nature im­poses on him the obligation of contributing to the support of a sick or infirm parent. Provision is made by the laws of this state for enforcing the performance of this natural obligation. Laws Me. c. 122, § 5. But neither the law of nature, nor the law of the state applies in favor of a parent, who being able to support himself, as this one was, and to contribute something at least to the well-being of his family by the ex­hibition of feelings of paternal kindness and solicitude for their welfare, if in no other way, in the first place disturbs and disquiets them by the abuse of his paternal power, and then abandons them to the care of themselves and to the charity of their neighbors. In whatever light this case is viewed, it appears to me that Joseph Walker had neither a moral nor legal right to appro­priate to himself the libellant’s wages. If the payment then to him is a discharge of the suit, it must be on some other ground than that of his paternal prerogative of re­ceiving them to his own use.</p>
+                <p id="b809-6" pgmap="809(385) 810(14)">Is his discharge valid and conclusive on the rights of the minor if he be considered as acting in the character of prochein ami? What power or control the prochein ami or guardian ad litem has over the management •of a suit at common law, and how far his acts may be binding and conclusive on the rights of a minor, does not seem to be very precisely settled in the books.<footnotemark>4</footnotemark> Before, how­ever, he is permitted to assume the direction of the suit he must be specially admitted by the court for that purpose, and if he is guilty of any misconduct he may at the discretion of the court be removed and another appoint­ed in his place. Com. Dig. “Pleader,” 2 C. 1; Hargrave’s notes to Co. Litt. 135, C. note 220; 2 Saund. 117f, note; 1 Coke, Sec­ond Institute, 261, 390; Tidd, Pr. 50. The authority of a prochein ami to sue for an in­fant, was given originally by the statutes of 1 &amp; 2 West Edw. I., and was designed to protect the infant against the frauds of the guardian who had the legal custody of his person. Co. Litt. 135, 136, Hargrave’s note, 220; 2 Inst. 261, 290. The legal reason now, for requiring the suit to be instituted by a next friend, is to guard the rights of the mi­nor, who is not supposed to have the knowl­edge and experience requisite for the man­agement of the suit himself. But though appointed as guardian ad litem, there is re­served an ultimate guardianship to the tri­bunal, before which the suit is pending, which will at least so far be promptly ex­ercised, as to remove a guardian who is un­faithful to his trust. And although it is said that the minor cannot disavow the acts of his next friend, it would, I presume, hardly be contended that the acts of such next friend would be so far conclusive on the rights of the minor as to preclude the court from allowing him a remedy, if they weve done in bad faith, and especially if there was evidence of collusion with the adverse party. It would seem to bo, not only the right, but duty of the court to protect an in­fant against the fraudulent acts of a guard­ian appointed under its immediate authority.</p>
+                <p id="b810-4" pgmap="810">But whatever may be the power of a court of law, this is undoubtedly within the power of a court of equity. The mere filing a bill constitutes a minor, as to his interest em­braced in the bill, a ward of the court, and places him under its special protection; and, it will actively interpose to protect the inter est of a minor against the negligence or bad faith of a guardian ad litem. Story, Eq. Pl. 60; 1 Madd. Ch. Pr. 332; 2 Madd. 280; Stephens v. Van Buren, 1 Paige, 479; 2 Story, Eq. Jur. 531. A court of admiralty is not a court of general equity jurisdiction, but its course of proceedings bears more analogy to that of equity, than to that of the com­mon law. In matters falling within its juris­diction it professes to decide ex aequo et bono, and to place its decrees on the broad principles of general equity. It would, I ap­prehend, be chargeable with a neglect of its duty, if it allowed the rights of a minor to be compromitted by the negligence or bad faith of his guardian ad litem. By the civil law from which the admiralty has in a great measure borrowed its course of procedure, minors might upon general principles be re­stored to their rights, in integrum, when they had been compromitted by their tutors, even when the father acted as tutor, whether this had been done in the course of judicial pro­ceedings or otherwise. Dig. 4, 4, 29; Domat, Lois Civiles, liv. 2, tit. 1, §§ 2, 16, and liv. 4, tit. 6, §§ 2, 23, 24. “Tutor in re pupilli tunc domini loco habetur, quum tutelam ad-­ministrat, non quum pupillum spoliat” Dig. 41, 4, 7, § 3. Although the minor had a rem­edy by a personal action against his tutor or curator, he might waive that and proceed to have the act of. his tutor annulled, and the benefit of restitution to his entire rights. Code, 2, 25, 3. A court of admiralty would more readily relieve a minor when the suit is for his wages as a mariner, a class of men placed peculiarly under its protection. This court will look critically into the contracts and dealings of ship-owners, with the mari­ners themselves when of full age; and if it finds that a seaman has been surprised into any engagements that are inequitable and unreasonable, by the superior knowledge and experience in business of the merchant, and that an undue advantage has been taken of him, the court wil interpose its authority to protect him against his own ignorance and improvidence. The Juliana, 2 Dod. 504; Harden v. Gordon [Case No. 6,047]; The Minerva, 1 Hagg. Adm. 347; Brown v. Lull [Case No. 2,018]. It would then be surprising if it could not protect him when a minor, and therefore still more dependent on others, from the negligence or bad faith of a next friend, if through inadvertence an incompe­tent or unfaithful one should happen to be appointed. My opinion is that the court has the power, and is bound in proper cases to exercise it; and of course that it is not bound to receive this receipt and discharge without looking into the circumstances and considera­tion under which it was taken.</p>
+                <p id="b810-6" pgmap="810">Let ús then examine the facts of the case. It appears that the respondent was acquaint­ed with Joseph Walker and his family, and, therefore, may be presumed to have had some knowledge of the manner in which he ful­filled the duties of the father of a family. It was well known to him, that heretofore the father had claimed for his own use the wages of his son, and it was equally well known that his right to them in this case would be resisted. The fact that the suit was brought in the son’s name, was a sufficient notice of that, if he had no other. The father’s name was, indeed, rather unfortunately, as the re­sult has shown, used as prochein ami, because the forms of law required that the suit should be brought under the nominal protection of some next friend. But it was without any intention or thought of allowing him any con­trol in the management of the suit, as it was well known to all the parties that he had for months been absent, and residing at a distance of fifty or sixty miles from this place. The respondent, then, having obtained a post­ponement of the cause for the avowed pur­pose of introducing further evidence to the merits, instead of employing the time in pro­curing the evidence, seeks an interview with the prochein ami and privately settles the suit by paying to him such sum for wages as was agreed uponbetweenthem, withoutthe knowl­edge of the minor’s counsel or friends, or even of his own counsel, and after stripping his child of his four months’ earnings, discharges the action and leaves him to settle his own costs in the best «manner that he can. I imagine if he had consulted his own counsel he would have admonished him that there was sopie hazard in taking a step of this kind. If the terms of the settlement had been rea­sonable, and the costs had been provided for, the least that the court could have done, would have been to hold the action until it saw that the money was appropriated to the use of the libellant. But under the cir­cumstances of this case, the money having been so manifestly paid by the respondent in his own wrong, I think it my duty to proceed as though nothing had been done.</p>
+                <p id="b810-7" pgmap="810(114) 811(142)">If the views which I have taken of these preliminary matters are correct, the case up­on its merits may be disposed of in a few words. The libellant having signed no- ship­ping articles, claims under the act of con­gress of July 20, 1790, § 1 [supra], for the gov­ernment of seamen in the merchant service, the highest rate of wages that was paid at this place, at any time within three months before the engagement. No evidence has been introduced showing what was the high­est rate of wages for boys of- his age. Prime seamen obtained eighteen dollars a month. The libellant was, at the time of the service, about eighteen years of age, small of his age, 'but active, intelligent, and trustworthy; capa­ble of doing in some parts of the ship’s serv­ice, perhaps as much as a man, but probably in the laborious part of the service, not so much. It is a circumstance which speaks strongly in favor of his character and capaci­ty, that he was taken to sup'ply, the place ■of the mate, who had absconded. Though he was not shipped as mate, nor expected to •do a mate’s duty, it cannot be supposed that he would have been taken in such a case, unless he was capable of performing the duty ■at least of an ordinary seaman. I am satis­fied that I shall not exceed the. measure of a just compensation by pronouncing for wages at the rate of fifteen dollars a month.</p>
+                <footnote label="2">
+                  <p id="b806-7" pgmap="806(211) 807(60)">2 Gaii, Comm. Lib. 1, 55; Just. Inst. 1, 9, 2; Poth. Pand. 1, 6, 16. The law gave to a Ro­man father the same form of action for the re­covery of his goods, his cattle, or his children. In so strict a sense were they held by the prim­itive law of the state to be in the dominion of the father as property, that he might bring an action in rem (rei vindieationem) for their re­covery, alleging, as this right was peculiar- to a Roman citizen, that it was brought ex jure Quiritium (Dig. 6, 1, 1, § 2), or he might have the action of theft; and although the general language of the law was “liberi hominis nulla aestimatio est,” he recovered double damages. As a domestic judge, he had over them the power of life and death, and might sit in judg­ment and inflict upon them the last punishment, without referring the cause to the public mag­istrate. He might sell his children as he could his slaves, and what is more extraordinary, if the child by any means became free, he was ou-­thorized to retake him and sell him a second and third time. It was not until the child tic-­quired his freedom after a third sale that he be­came independent or sui juris. The legal and solemn form of emancipation was by a fictitious sale three times repeated. Dig. 47, 2, 14, § 13; 1 Huber, Prael. lib. 4, 1, 18; Gib. Hist. Rom. Emp. c. 44; Heinn. Recitationes, No. 135, 8; Antiq. Rom. L. 1, 12, 6-9.</p>
+                  <p id="A3KER" pgmap="807">Among savage and barbarous tribes the fa­ther is usually invested with an unlimited pow­er over his children. He may either put them to death or sell them into slavery, without be­ing called to an account by any public author­ity. We find traces of this paternal power in the pictures which the Bible gives of the sim­ple manners of the primitive and patriarchal ages of the world. When the sons of Jacob proposed to .take with them into Egypt their brother Benjamin, the aged patriarch objected, and to overcome his scruples, “Reuben spake unto his father, saying, Slay my two sons if 1 bring him not to thee.” Gen. xlii., 37. Nor are we to suppose that the paternal power, in the early and ruae ages of the common law, was restrained within its present limits. It is not improbable that among our Saxon ances­tors, as among other barbarians, the father was allowed an unlimited power over his children. It is certain that long after their settlement in England, they continued in the practice of sell­ing their children into bondage, and even into foreign bondage. They were publicly exposed for sale in the slave market in Rome. Gib. Hist. Rom. Emp. c. 38. But this power among barbarians is limited to the period while the children reside in the father’s family, and de­pend on him for their support. When they have attained the age of manhood and are sep­arated from the father’s family, they become independent. In the progress of civilization, and upon the institution of .a regular govern­ment. this domestic jurisdiction is restrained. The individual becomes a member of the state,- and the authority over him in all cases of grav­er importance, especially those involving life and liberty, is transferred from the father to the civil magistrate. Millar, Origin of Ranks, c. 2.</p>
+                  <p id="AoCu" pgmap="807">The Romans, from some causes not well un­derstood. formed an exception to this common law of civilization. The absolute and perpetu­al dominion which was attributed by the law to a Roman father over all his descendants, for it extended to his grand and great grandchil­dren in the line of male descent, as well as to his children, is one of the most remarkable char­acteristics of that extraordinary people. It ap­pears to have been coeval with the origin of the state, and continued in nearly its whole vigor down to the end of the commonwealth. Eulvius, one of the conspirators who fled with Catiline, upon being brought back to the city was without any form of public trial put to death by order of his father. Sallust, Bellum Catilinae. 39. And it was not until the reign of Maximian and Diocletian that the right of the father to sell his children into slavery was prohibited by law. Code, 4, 43, 1. A custom so remarkable could hardly fail to have left, deep traces of its influence on the domestic manners and habits of the people.</p>
+                </footnote>
+                <footnote label="3">
+                  <p id="b808-3" pgmap="808">3 “ ‘Socrates est homo, ergo et animal,’ ” says Hobbes, “is a self-evident proposition because ‘homo’ is, by definition, ‘animal. But ‘Sophron-­iscus Socratis pater est, ergo et dominus,’ is a just inference, but not self-evident, because ‘dominus’ is not included in the definition of ‘pater.’ ” He then proceeds to prove that the father has the same right of dominion over his children that he has over his slaves. He ob­serves that this right of dominion over property is usually founded on the paternal relation or generation. But if that is assumed as the right, it will be divided between the father and mother, as both contribute to the being of the child. Now the right of dominion is in its na­ture and essence indivisible. No one can be the servant of, and-bound to obey two wills, for if they should happen to disagree it would be impossible, and no one can be bound to an im­possibility. Thi3 right cannot, therefore, have its origin in generation. According to Hobbes, all men are naturally equal, and they are also naturally enemies, and from these facts results the law of nature, that in a conflict of wills the victor has the right of dominion over the van­quished, or over one whom he has in his pow­er. It follows that a child is the property of the first one who has the child’s life in his pow­er. This is the mother, and it is thus that it is to the mother that nature has originally as­signed this right of dominion over her children. If she supports and educates the child, she does this upon the tacit condition that the child shall not be her enemy, nor have the right of dominion over her. But every man is an en­emy to every other man, to whom he does not stand in the relation of master or slave. “Hos-­tia autem est quisque cuique, cui ñeque paret ñeque imperat.” The condition, therefore, up­on which the mother nurtures and educates her child, is, that he shall be obedient to her will, in other words her slave. This according to Hobbes is the condition of man in a state of na­ture. He then proceeds to relate how the moth­er may part with this right of dominion by her own voluntary act, or by compact, transfer it to another, or how it may be modified by the laws of society. De Cive, c. 9.</p>
+                </footnote>
+                <footnote label="4">
+                  <p id="b809-7" pgmap="809">4 Parsons v. Jones, 9 Mass. 106; Smith v. Floyd, 1 Pick. 275; Blood r. Harrington. 8 Pick. 552; Crossen v. Dryer, 17 Mass. 222; Reeve, Dom. Rel. c. 7. By a rule of the su­preme court of Massachusetts, passed in 1784, no prochein ami was allowed to prosecute any personal action in behalf of an infant, until he should have filed a bond to the commonwealth, in the probate office, for the county, with a con­dition to account to the infant or his heirs, for all sums which might be recovered. But the rule, either from doubts of the authority of the court to establish such a rule, as involving an act of legislation, or from some other cause, was never observed in practice. 9 Mass. 106. By the 53d rule of the circuit court of the Unit­ed States for the first circuit, it is provided, that no prochein ami shall be allowed to .prose­cute any action, unless at the return term he give such security as the court may direct, that the property recovered in the suit shall be faith­fully accounted for to the infant or his legal guardian.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="805" ORDERLABEL="803" TYPE="page">
+        <fptr FILEID="tiff_00403_0"/>
+        <fptr FILEID="jp2_00403_0"/>
+        <fptr FILEID="alto_00403_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_805.2" BETYPE="IDREF" FILEID="alto_00403_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="806" ORDERLABEL="804" TYPE="page">
+        <fptr FILEID="tiff_00403_1"/>
+        <fptr FILEID="jp2_00403_1"/>
+        <fptr FILEID="alto_00403_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_806.4" BETYPE="IDREF" FILEID="alto_00403_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="807" ORDERLABEL="805" TYPE="page">
+        <fptr FILEID="tiff_00404_0"/>
+        <fptr FILEID="jp2_00404_0"/>
+        <fptr FILEID="alto_00404_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_807.5" BETYPE="IDREF" FILEID="alto_00404_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="808" ORDERLABEL="806" TYPE="page">
+        <fptr FILEID="tiff_00404_1"/>
+        <fptr FILEID="jp2_00404_1"/>
+        <fptr FILEID="alto_00404_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_808.4" BETYPE="IDREF" FILEID="alto_00404_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="809" ORDERLABEL="807" TYPE="page">
+        <fptr FILEID="tiff_00405_0"/>
+        <fptr FILEID="jp2_00405_0"/>
+        <fptr FILEID="alto_00405_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_809.3" BETYPE="IDREF" FILEID="alto_00405_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="810" ORDERLABEL="808" TYPE="page">
+        <fptr FILEID="tiff_00405_1"/>
+        <fptr FILEID="jp2_00405_1"/>
+        <fptr FILEID="alto_00405_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_810.4" BETYPE="IDREF" FILEID="alto_00405_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="811" ORDERLABEL="809" TYPE="page">
+        <fptr FILEID="tiff_00406_0"/>
+        <fptr FILEID="jp2_00406_0"/>
+        <fptr FILEID="alto_00406_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_811.6" BETYPE="IDREF" FILEID="alto_00406_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b810-7" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_810.8" BETYPE="IDREF" FILEID="alto_00405_1"/>
+            <area BEGIN="BL_811.4" BETYPE="IDREF" FILEID="alto_00406_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b810-6" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_810.7" BETYPE="IDREF" FILEID="alto_00405_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b806-3" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_806.5" BETYPE="IDREF" FILEID="alto_00403_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJI" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_805.16" BETYPE="IDREF" FILEID="alto_00403_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b808-3" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_808.5" BETYPE="IDREF" FILEID="alto_00404_1"/>
+            <area BEGIN="BL_808.6" BETYPE="IDREF" FILEID="alto_00404_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b806-7" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_806.10" BETYPE="IDREF" FILEID="alto_00403_1"/>
+            <area BEGIN="BL_807.1" BETYPE="IDREF" FILEID="alto_00404_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b810-4" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_810.5" BETYPE="IDREF" FILEID="alto_00405_1"/>
+            <area BEGIN="BL_810.6" BETYPE="IDREF" FILEID="alto_00405_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoF" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_806.7" BETYPE="IDREF" FILEID="alto_00403_1"/>
+            <area BEGIN="BL_806.8" BETYPE="IDREF" FILEID="alto_00403_1"/>
+            <area BEGIN="BL_806.9" BETYPE="IDREF" FILEID="alto_00403_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3KER" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_807.2" BETYPE="IDREF" FILEID="alto_00404_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b808-5" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_808.7" BETYPE="IDREF" FILEID="alto_00404_1"/>
+            <area BEGIN="BL_809.1" BETYPE="IDREF" FILEID="alto_00405_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b805-11" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_805.13" BETYPE="IDREF" FILEID="alto_00403_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b805-10" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_805.12" BETYPE="IDREF" FILEID="alto_00403_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b805-13" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_805.15" BETYPE="IDREF" FILEID="alto_00403_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b805-12" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_805.14" BETYPE="IDREF" FILEID="alto_00403_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b807-3" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_807.7" BETYPE="IDREF" FILEID="alto_00404_0"/>
+            <area BEGIN="BL_807.8" BETYPE="IDREF" FILEID="alto_00404_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b805-23" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_805.24" BETYPE="IDREF" FILEID="alto_00403_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoCu" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_807.3" BETYPE="IDREF" FILEID="alto_00404_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b806-4" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_806.6" BETYPE="IDREF" FILEID="alto_00403_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b807-8" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_807.9" BETYPE="IDREF" FILEID="alto_00404_0"/>
+            <area BEGIN="BL_808.1" BETYPE="IDREF" FILEID="alto_00404_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b809-4" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_809.5" BETYPE="IDREF" FILEID="alto_00405_0"/>
+            <area BEGIN="BL_809.6" BETYPE="IDREF" FILEID="alto_00405_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b809-7" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_809.8" BETYPE="IDREF" FILEID="alto_00405_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b809-6" BETYPE="IDREF" FILEID="casebody_0424"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_809.7" BETYPE="IDREF" FILEID="alto_00405_0"/>
+            <area BEGIN="BL_810.1" BETYPE="IDREF" FILEID="alto_00405_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

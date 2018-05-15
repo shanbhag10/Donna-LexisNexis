@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0367" publicationstatus="published">
+          <court abbreviation="C.C.D.N.C." jurisdiction="United States">United States Circuit Court for the District of North Carolina</court>
+          <name abbreviation="In re Johnson">In re JOHNSON</name>
+          <docketnumber>Case No. 7,368</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 719</citation>
+          <decisiondate>1842-08-15</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00361_0" MIMETYPE="image/tiff" CHECKSUM="373440bd48a7fd034305f8ec95652506" CHECKSUMTYPE="MD5" SIZE="68202">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00361_0.tif"/>
+      </file>
+      <file ID="tiff_00361_1" MIMETYPE="image/tiff" CHECKSUM="e93cadde5ebe0580617c8f1007f132c7" CHECKSUMTYPE="MD5" SIZE="112818">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00361_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00361_0" MIMETYPE="image/jp2" CHECKSUM="f8fbff4794a2799fc1988ccb92f3706d" CHECKSUMTYPE="MD5" SIZE="2924206">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00361_0.jp2"/>
+      </file>
+      <file ID="jp2_00361_1" MIMETYPE="image/jp2" CHECKSUM="127a93ab7b7ca174ce10915f8a19f742" CHECKSUMTYPE="MD5" SIZE="3804230">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00361_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00361_0" MIMETYPE="text/xml" CHECKSUM="f968040ff098f8f5e858597c240a71a1" CHECKSUMTYPE="MD5" SIZE="144877">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00361_0.xml"/>
+      </file>
+      <file ID="alto_00361_1" MIMETYPE="text/xml" CHECKSUM="4ae319b00e984dd6aa9a5bd0e13cc2e3" CHECKSUMTYPE="MD5" SIZE="244060">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00361_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0367" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="720" firstpage="719">
+              <court pgmap="721" id="AE7">Circuit Court, D. Cape Fear, North Carolina.</court>
+              <docketnumber pgmap="721" id="b721-19">Case No. 7,368.</docketnumber>
+              <parties pgmap="721" id="AjQ">In re JOHNSON.</parties>
+              <decisiondate pgmap="721" id="AtM">Aug. 15, 1842.</decisiondate>
+              <p pgmap="721" id="AQS">[Betts’ Scr. Bk. 62.]</p>
+              <opinion type="majority">
+                <author pgmap="721" id="b721-27">DANIEL, Circuit Justice.</author>
+                <p pgmap="721(71) 722(136)" id="A3AQ">In this case it is stated by the district judge that the peti­tioner, having been previously decreed a bankrupt, on the 25th day of April, 1842, filed a petition for a final discharge and cer­tificate in the clerk’s office of the district court of Cape Fear, and on the 2d day of May, 1842, moved, by his attorney, in open court, that a day might be named for the hearing of the said petition before the judge of the district court, at chambers, whereso­ever he might be at the said day so to be named; and his honor being willing to hear the said petition at Fayetteville, in the said district, on the 1st Monday in August, 1842, but doubting his power, under the act of con­gress, to hear the petition for a final dis­charge and to decree a certificate at cham­bers, or at any other place than the town of Wilmington, where the stated courts for the said district are by law to be held, did there­upon. in his discretion, adjourn to circuit court for the district of North Carolina the question whether the district judge had pow­er to decree at chambers the discharge and certificate prayed for.</p>
+                <p pgmap="722" id="b722-3">By the sixth section of the act of congress [of August 19, 1S41 (5 Stat. 445)], it is de­clared that the district court in every dis­trict shall have jurisdiction in all matters and proceedings in bankruptcy arising under this act, and every other act which may hereafter be passed on the subject of bank­ruptcy; the said jurisdiction to be exercised summarily, in the nature of summary pro­ceedings in equity; and for this purpose the said district court shall always be declared to be open. One main object of the pro­vision just quoted was evidently dispatch; and with that view is the district court em­powered to hold as many sessions for hear­ing cases in bankruptcy as the exigencies of the community shall require. But, in all the proceedings directed or authorized by the statute, the character and identity of the court seem to be contemplated; it is the court by whom the requisite measures are to be taken. Some aid in interpreting this section of the act of congress may be ob­tained from the reference it contains to sum­mary proceedings in the courts of equity, for the accomplishment of which these courts are considered as always open; for instance, the awarding of writs of injunc­tion and ne exeat. Judges in chancery grant these writs summarily, and when not sitting as a court, but all subsequent proceedings upon them are had as acts of the court. By parity with this piactice in chancery, to which the act of congress probably refers, the district judge might regularly receive petitions, and perhaps order a summons or notice for the hearing of the question of bankruptcy; but the return of notices or process should be into the district court prop­er, and much more, is it thought, should the decision of every question affecting the rights of the petitioner or his creditors be be­fore the same tribunal, and regularly con­stituted and described by law. With re­spect to the place at which the proceedings in bankruptcy are either to be commenced or prosecuted, the seventh section of the act of congress gives the rule. By this section it is declared that all petitions by any bank­rupt, or by any creditor against any bank­rupt, and all proceedings in the case to the close thereof, shall be in the district court within and for the district in which the per­son supposed to be a bankrupt shall reside or have his place of business at the time when such petition is filed, except when oth­erwise provided by this act.</p>
+                <p pgmap="722" id="b722-6">There can be no question that any proceed­ings in bankruptcy, to conform to the lan­guage so plainly expressed in this section, must, from the petition down to the final decree, inclusive, take place within the dis­trict of the bankrupt’s residence, or that in which was situated his place of business at the time of the filing of his petition. The state of North Carolina, however, consti­tutes, of itself, one district, and that is sub­divided into three smaller, separate districts, distinguished by the act of congress of April 29, 1802, by certain geographical bound­aries and limits, set forth in sections 8 and 9 of the act, viz. the district of Cape Fear, of Albemarle, and of Pamlico; and it has been made a question whether the seventh section of the bankrupt law, which requires the pro­ceedings to be had in the district of the bankrupt’s residence, would be complied with by the institution and prosecution at any place within the state the subject of it be­ing a citizen and resident of that state. At first view, some ambiguity might seem to grow out of the language of the law, when compared with the arrangement of the dis­tricts within the state of North Carolina. Upon a closer consideration, however, such ambiguity is deemed rather apparent than real. The subdivision of the state was doubt­less intended for the accommodation of the inhabitants of the several districts, respec­tively. in their ordinary business in the courts. In instances of bankruptcy, when traveling and expenses of every kind are burthensome and inconvenient, these causes may be supposed to operate with augment­ed influence, and in a proportionate degree to call for such a construction of the laws as would remove or mitigate the evils which had prompted to a division of the state. The seventh section of the bankrupt law should therefore receive that interpretation which will insure, to the utmost, these de­sirable results. Such an interpretation ac­cords as well with the language as with the objects of this law. In conclusion, it is the opinion of the judge of the circuit court, up­on the matters adjourned in this case, that the district judge has not the power, out of court, either to make a decree declaring the party a bankrupt, or awarding to him a final discharge and certificate as such, but that a decree to either effect must be the act of the court, performed in court; and it is further the opinion of the judge of the cir­cuit court that the petition in this case, and all proceedings had thereon to the close thereof, should be had and prosecuted in the district of Cape Fear, in which it appears that the petitioner resided at the time of fil­ing his petition.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="721" ORDERLABEL="719" TYPE="page">
+        <fptr FILEID="tiff_00361_0"/>
+        <fptr FILEID="jp2_00361_0"/>
+        <fptr FILEID="alto_00361_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_721.3" BETYPE="IDREF" FILEID="alto_00361_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="722" ORDERLABEL="720" TYPE="page">
+        <fptr FILEID="tiff_00361_1"/>
+        <fptr FILEID="jp2_00361_1"/>
+        <fptr FILEID="alto_00361_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_722.4" BETYPE="IDREF" FILEID="alto_00361_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b721-27" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_721.36" BETYPE="IDREF" FILEID="alto_00361_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQS" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_721.29" BETYPE="IDREF" FILEID="alto_00361_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b722-6" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_722.7" BETYPE="IDREF" FILEID="alto_00361_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtM" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_721.31" BETYPE="IDREF" FILEID="alto_00361_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3AQ" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_721.37" BETYPE="IDREF" FILEID="alto_00361_0"/>
+            <area BEGIN="BL_721.38" BETYPE="IDREF" FILEID="alto_00361_0"/>
+            <area BEGIN="BL_722.1" BETYPE="IDREF" FILEID="alto_00361_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjQ" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_721.28" BETYPE="IDREF" FILEID="alto_00361_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b721-19" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_721.27" BETYPE="IDREF" FILEID="alto_00361_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AE7" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_721.30" BETYPE="IDREF" FILEID="alto_00361_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b722-3" BETYPE="IDREF" FILEID="casebody_0367"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_722.5" BETYPE="IDREF" FILEID="alto_00361_1"/>
+            <area BEGIN="BL_722.6" BETYPE="IDREF" FILEID="alto_00361_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

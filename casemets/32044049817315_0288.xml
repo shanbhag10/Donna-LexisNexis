@@ -1,0 +1,365 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0288" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Jeremiah">The JEREMIAH</name>
+          <docketnumber>Case No. 7,290</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 555</citation>
+          <citation category="parallel" type="bluebook">10 Ben. 338</citation>
+          <decisiondate>1879-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00279_0" MIMETYPE="image/tiff" CHECKSUM="dbbdcb0dad55f7d6776356200eccb4ea" CHECKSUMTYPE="MD5" SIZE="76150">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00279_0.tif"/>
+      </file>
+      <file ID="tiff_00279_1" MIMETYPE="image/tiff" CHECKSUM="fcf23b14bf34c614b97ac032440b5ab5" CHECKSUMTYPE="MD5" SIZE="110704">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00279_1.tif"/>
+      </file>
+      <file ID="tiff_00280_0" MIMETYPE="image/tiff" CHECKSUM="968f50aac0886e9508bc0dca7869f4ea" CHECKSUMTYPE="MD5" SIZE="66928">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00280_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00279_0" MIMETYPE="image/jp2" CHECKSUM="f3952f0446217d867c260879f9921ffe" CHECKSUMTYPE="MD5" SIZE="3497373">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00279_0.jp2"/>
+      </file>
+      <file ID="jp2_00279_1" MIMETYPE="image/jp2" CHECKSUM="d0456cfa8aa6600d32dd439f089b752d" CHECKSUMTYPE="MD5" SIZE="3765701">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00279_1.jp2"/>
+      </file>
+      <file ID="jp2_00280_0" MIMETYPE="image/jp2" CHECKSUM="d9c9e01e8541aa60c8ff7cf691b28ec9" CHECKSUMTYPE="MD5" SIZE="3087341">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00280_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00279_0" MIMETYPE="text/xml" CHECKSUM="cf7678aa570c2376f3864394e135e52a" CHECKSUMTYPE="MD5" SIZE="169167">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00279_0.xml"/>
+      </file>
+      <file ID="alto_00279_1" MIMETYPE="text/xml" CHECKSUM="d5e00a38b80a6a07c9792e9d41ca074a" CHECKSUMTYPE="MD5" SIZE="252808">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00279_1.xml"/>
+      </file>
+      <file ID="alto_00280_0" MIMETYPE="text/xml" CHECKSUM="1cccc65e6028b67b3ebd6e77f8eccdf3" CHECKSUMTYPE="MD5" SIZE="150645">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00280_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0288" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="557" firstpage="555">
+              <court pgmap="557" id="b557-10">District Court, S. D. New York.</court>
+              <docketnumber pgmap="557" id="b557-7">Case No. 7,290.</docketnumber>
+              <citation pgmap="557" id="b557-9">[10 Ben. 338.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="557" id="b557-8">The JEREMIAH.</parties>
+              <decisiondate pgmap="557" id="A0j">March, 1879.</decisiondate>
+              <attorneys pgmap="557" id="b557-17">W. R. Beebe, for salvors and material men.</attorneys>
+              <attorneys pgmap="557" id="b557-18">D. McMahon, for owners of schooner.</attorneys>
+              <footnote label="1">
+                <p pgmap="557" id="b557-20">1 [Reported by Robert D. Benedict, Esq., and Benj. Lincoln Benedict, Esq., and here reprint­ed by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="557" id="b557-19">CHOATE, District Judge.</author>
+                <p pgmap="557(83) 558(17)" id="A_nm">The first of these cases is a libel brought by the owners of the steam-tug H. W. Edye, to recover the sum of a thousand dollars for alleged salv­age services rendered to the brig Jeremiah, in pulling her apart from the schooner P. A. Sanders, with which vessel she was in collision [see Case No. 7,289], and afterwards in towing her into the port of New York in a crippled condition. The other cases are libels and petitions of parties having mari­time liens for supplies, towage and other services against the brig, which was a for­eign vessel.</p>
+                <p pgmap="558" id="b558-4">On the morning of the 16th of March, 1876, the brig came into collision with the schoon­er above named, about six miles off the Jersey coast, a little to the north of Barne-­gat light. The collision took place about three o'clock in the morning, and the brig was unable to disengage herself from the schooner. The tug H. W. Edye was cruis­ing about, looking for business, and seeing the vessels in collision, came up and offered assistance. An agreement was first made between the master of the tug and the master ' of the brig to pull the brig free for a hundred dollars. This was done. An attempt was then made by the tug to tow the schooner, the intention then being to tow the vessels both in together. But this intention was aban­doned, as the schooner was found very dif­ficult to tow, being full of water, but kept •afloat by her cargo of wood. The master of the tug then negotiated with the master of the brig as to the terms on which he would tow the brig back to New York, from which port she had sailed on a voyage to Cardenas. After several offers made by the master of the brig had been refused, the master of the tug finally agreed to tow her in for a thousand dollars, including the hundred dollars already agreed to be paid for pulling the vessels apart. Accordingly the tug towed her in and brought her to a pier in this harbor in ten or eleven hours after getting under way. The brig has been sold under a decree of this court to pay sea­men’s wages, and the surplus, about three thousand five hundred dollars, has been paid into the registry. The owners of the schoon­er, who claimed damages against the brig exceeding her value, by reason of the colli­sion, which was caused, as they say, by the fault of the brig, appear and defend this libel, on the ground that the amount claim­ed as salvage is greatly excessive, and they also claim that their own damages on ac­count of the collision are entitled to a.prefer­ence.</p>
+                <p pgmap="558" id="b558-5">As to the claim of the respondents that the damages on account of the collision are en­titled to preference, it is clearly unfounded. It is true that the claim had attached before the service of the tug was rendered, but surely those who have acquired a claim in rem against a vessel for a collision stand in no better position towards subsequent salvors than they would have stood if the law, in­stead of giving them a lien against the ves­sel, had by mere operation of law invested them with the absolute title to her. Clear­ly. in that case, as owners, their interest would be subject to the right and claim of the salvors.. The interest of these respond­ents has been rescued from danger and risk of loss by the salvors, as truly as if their interest were a title to the vessel instead of being merely a lien upon it.</p>
+                <p pgmap="558" id="b558-6">As to the claim for salvage, the facts were that the two colliding vessels had been to­gether half an hour, and so far had been unable to separate themselves. They were about thirty-eight miles from sandy Hook. The weather was bad, wind hi. N. E. and blowing hard, with signs of its rising. The brig, when pulled away from the schooner, was so far crippled in her sails, spars and rigging, that it was doubtful if she could get back to port without help. She was wholly disabled from prosecuting her voyage. She was within about five miles then of the Jersey shore, which was of course a lee shore. Her starboard bow port, which was within three feet of the water line, was knocked out, and every time she went down into the sea she shipped considerable water, but she did not leak otherwise and her pumps were in good order. An attempt of the crew to close up this hole had been unsuccessful. There was no other tug or vessel in sight at the time the agreement for towage was made. It is claimed by the libellants that the brig was in great danger of filling and going down on account of this injury to her bow, and that she would also have probably been unable to keep off the shore, towards which the wind and the currents were then setting her; that these' dangers were in­creased by the symptoms of heavier easterly weather then observed. From these causes the brig was undoubtedly in some danger, but, I think, upon the testimony, her posi­tion was far from being so critical as the libellants claim. Her value, when she sailed on that voyage, had been about eight thous- and dollars. After receiving repairs of tri­fling amount she sailed again for Cuba, and on her return was seized on a libel for sea­men’s wages and sold under a decree of this court for $4,025. She had no cargo at the time of the collision. The tug was in the course of her usual employment; she encountered no risk or danger in the service rendered, unless indeed it was the risk of not being able to bring the vessel in at all. which, under the circumstances, cannot be considered a risk of any appreciable amount. The usual charge for towage by such a tug. in and about the harbor of New York, is shown to have been ten dollars an hour, ami for towing vessels in from the sea there ap­pears to be no settled rate. The master of the brig testified that they always got all they could. It is the duty of the court to moderate, according to the principles of fair­ness and justice, contracts thus made with parties in distress, if they appear to be ex­tortionate. On all the evidence, I think five hundred dollars a full and fair compensa­tion for the entire service rendered to the brig, giving full force to all the evidence of the peril from which she was rescued and her value, and that the agreement to pay a thousand dollars was extorted from the mas­ter of the brig under stress of his necessities.</p>
+                <p pgmap="558(7) 559(136)" id="b558-7">The claims of the various other libellants and petitioners are for services and supplies rendered and furnished to the brig on her credit after she was brought back to Mew York, where she was repaired, and from whence she sailed on another voyage before she was libelled for the collision or for salv­age. The attempt to show that there is an­other fund, the freight, out of which they may be satisfied, was not successful. The surplus in the registery must be applied to the payment of these ■ liens, amounting to about $392, the salvage $500, and the bal­ance will go to satisfy the decree in favor of the owners of the schooner P. A. Sanders. As all these libellants and petitioners ap­peared by the same counsel and proctors, but one bill of costs will be taxed. Decree accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="557" ORDERLABEL="555" TYPE="page">
+        <fptr FILEID="tiff_00279_0"/>
+        <fptr FILEID="jp2_00279_0"/>
+        <fptr FILEID="alto_00279_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_557.4" BETYPE="IDREF" FILEID="alto_00279_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="558" ORDERLABEL="556" TYPE="page">
+        <fptr FILEID="tiff_00279_1"/>
+        <fptr FILEID="jp2_00279_1"/>
+        <fptr FILEID="alto_00279_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_558.4" BETYPE="IDREF" FILEID="alto_00279_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="559" ORDERLABEL="557" TYPE="page">
+        <fptr FILEID="tiff_00280_0"/>
+        <fptr FILEID="jp2_00280_0"/>
+        <fptr FILEID="alto_00280_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_559.4" BETYPE="IDREF" FILEID="alto_00280_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-4" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.5" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-7" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.9" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-20" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.25" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-19" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.22" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-5" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.6" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-7" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.8" BETYPE="IDREF" FILEID="alto_00279_1"/>
+            <area BEGIN="BL_559.2" BETYPE="IDREF" FILEID="alto_00280_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-6" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.7" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-18" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.21" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-10" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.12" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-8" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.10" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-9" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.11" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_nm" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.23" BETYPE="IDREF" FILEID="alto_00279_0"/>
+            <area BEGIN="BL_557.24" BETYPE="IDREF" FILEID="alto_00279_0"/>
+            <area BEGIN="BL_558.1" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A0j" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.13" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-17" BETYPE="IDREF" FILEID="casebody_0288"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.20" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

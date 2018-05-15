@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0281" publicationstatus="published">
+          <court abbreviation="E.D. Va." jurisdiction="United States">United States District Court for the Eastern District of Virginia</court>
+          <name abbreviation="Ellis v. The Katy Wise">ELLIS v. The KATY WISE</name>
+          <docketnumber>Case No. 4,404</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 555</citation>
+          <citation category="parallel" type="bluebook">3 Hughes, 589</citation>
+          <decisiondate>1879-10-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00279_0" MIMETYPE="image/tiff" CHECKSUM="a3396257291ffab7618f05a4979b5055" CHECKSUMTYPE="MD5" SIZE="41784">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00279_0.tif"/>
+      </file>
+      <file ID="tiff_00279_1" MIMETYPE="image/tiff" CHECKSUM="225b93ef590e85037c21d5240666b5b3" CHECKSUMTYPE="MD5" SIZE="95462">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00279_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00279_0" MIMETYPE="image/jp2" CHECKSUM="6450a5261ebf66a0657f60eedcb25121" CHECKSUMTYPE="MD5" SIZE="2039390">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00279_0.jp2"/>
+      </file>
+      <file ID="jp2_00279_1" MIMETYPE="image/jp2" CHECKSUM="11663116c810103804272a909bebd1fb" CHECKSUMTYPE="MD5" SIZE="3505781">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00279_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00279_0" MIMETYPE="text/xml" CHECKSUM="d5dd60a0bc390336ae17b5ac2aebec4b" CHECKSUMTYPE="MD5" SIZE="78890">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00279_0.xml"/>
+      </file>
+      <file ID="alto_00279_1" MIMETYPE="text/xml" CHECKSUM="4b87a0872465d0f4420f734a73d8767b" CHECKSUMTYPE="MD5" SIZE="204202">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00279_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0281" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="556" firstpage="555">
+              <court id="b557-5" pgmap="557">District Court, E. D. Virginia.</court>
+              <docketnumber id="b557-2" pgmap="557">Case No. 4,404.</docketnumber>
+              <citation id="b557-4" pgmap="557">[3 Hughes, 589.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b557-3" pgmap="557">ELLIS v. The KATY WISE.</parties>
+              <decisiondate id="AFs" pgmap="557">Oct. 3, 1879.</decisiondate>
+              <attorneys id="b557-16" pgmap="557">S. F.' Beach and J. M. Johnson, for libel-­lant.</attorneys>
+              <attorneys id="b557-17" pgmap="557">G. A. Mushbach, for claimant</attorneys>
+              <footnote label="1">
+                <p id="b557-13" pgmap="557">1 [Reported by Hon. Robert W. Hughes. Dis­trict Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b557-18" pgmap="557">HUGHES, District Judge.</author>
+                <p id="AmpI" pgmap="557">This collision happened in a broad, deep, straight channel, much frequented, accurately surveyed and charted, well known, and within a few miles of the ports of Alexandria, Washington city, and Georgetown. It occured in broad day­light, an hour after daybreak. There was a thick fog, but not a very dense one. Other­wise there was no vis major, and the col­lision ought not to have happened. If this collision was inevitable, then a total interdict would have to be put upon the navigation of the great river Potomac during every one of the frequent fogs that come over it. Un­doubtedly .the collision was not through in­evitable accident; it occurred through fault; and the question is, where was the fault?</p>
+                <p id="b557-19" pgmap="557">Much was said in the evidence and the argument about the want of regulation lights on the Martha Washington and the other vessels in tow of the Kate. But the libel, the answer, and the testimony concur in stat­ing that the collision happened at five o’clock in the morning, and on the 30th of April. The almanac shows that this was just three minutes before sunrise, and was consequent­ly nearly an hour after daylight. As the regulations do not require lights to be kept up in daylight, I dismiss that subject from consideration.</p>
+                <p id="b557-20" pgmap="557(49) 558(302)">My own conclusion concurs with the state­ment of Captain Graham, master of the Katy Wise, who was at the wheel at the time, as to the manner in which the collision occurred. The Katy Wise was coming down the river with the tide at the rate of eight miles an hour. On hearing: the Kate’s fog-­signal, or certainly on coming in sight of her, which was from thirty to sixty yards off, he ported his helm in compliance with the eighteenth (American) rule of naviga­tion. But he did not content himself with that manoeuvre, which would, in a distance of thirty to sixty yards, have certainly turn­ed his prow to the right, and cleared the approaching vessels; the momentum of the Katy Wise and the propelling force of the engine giving effect to the movement of the rudder. But he did more. He did just what paralyzed the action of the rudder. He stop­ped his engine; indeed, his own testimony is that he reversed it This additional ac­tion neutralized that designed to be secured by porting his helm; and the tug losing its impulsion forward, could obtain no help from the rudder to change its course; while the rudder, caught by the tide, bore the prow of the vessel to the left instead of the right, and helped to insure, if it did not cause, the collision which ensued. This is Captain Graham’s own explanation of the manner in which the collision occurred. If this case depended upon rule 18, the Katy Wise was in fault; not, indeed, by omitting to port her helm as required, but in doing what was not required by that rule, and what defeated its purpose; that is to say, in stopping and prob­ably reversing the engine which the rule implies must be kept in action. I say if this ease turned upon rule 18 the Katy Wise was in fault in doing what was not Required by that rule, and what defeated its purpose. The rule not only requires that the helm shall be ported but ported effectually.</p>
+                <p id="b558-3" pgmap="558">There is another rule of navigation which might be claimed to govern this case, if the fog was not dense, the accident having oc­curred in the daytime. Though the rule is not in the schedule of statutory regulations, it is nevertheless universally recognized by mariners, especially among navigators of rivers. Where a vessel moving down with the curent meets a vessel coming up, the vessel moving slowest is less bound to pre­caution than the other. Waring v. Clarke, 5 How. [46 U. S.] 502; The Chester, 3 Hagg. Adm. 316. It is a universal rule that where a vessel incumbered with tows, or otherwise deprived of capacity to manoeuvre at will, is met by a vessel having no vessels in tow and moving free as to wind and tide, the vessel moving free must keep out of the way of the vessel incumbered and trammelled. Especially is this the case when a steamer is approaching a tug and her tows. The Syracuse, 9 Wall. [76 U. S.] 676, and cases there cited.</p>
+                <p id="b558-4" pgmap="558">But while the two principles thus referred to undoubtedly bear upon the case at bar, I do not think that they entirely control it I think that the public interests require that I should base my decision in the present case upon a principle of more direct impor­tance to the navigation of the Potomac riv­er, liable as that river is to the frequent re­currence of such fogs as that which prevail­ed on the morning of this collision. I hold that the Katy Wise was in fault in moving in such a manner, as to speed and incaution down the river on that morning, that she could not be diverted from colliding with a vessel which she was meeting, and which she saw, at a distance of thirty or sixty yards. This collision happened in conse­quence of the fact that the Katy Wise did not, within that distance of thirty to sixty 5rards, pass far enough to the right to avoid running into the Martha Washington. If she is to be excused for doing so on the score of inevitable accident, then it will be unsafe hereafter for vessels to move at all in the Potomac river during such fogs as that not extraordinary one which prevailed on the morning of the 30th of April last A steam­er moving in a fog is required by law to go at such a moderate rate of speed as will place her headway under such easy and-­ready command that she can be stopped within any distance within which other ves­sels may be seen by her lookout; and, going at a greater rate of speed than this, is a fault on her part. The Colorado [Case No. 3,028]; McCready v. Goldsmith, 18 How. [59 U. S.] 89; The Bridgeport [Case No. 1,861]; The Pennsylvania, [Id. 10,950]; and numer­ous other cases.</p>
+                <p id="b558-7" pgmap="558">The event proved that the Katy Wise was moving without the caution required by law, and was in fault therein.</p>
+                <p id="b558-8" pgmap="558">I will sign a decree of condemnation, and referring it to the commissioner to make report of the amount of damages sustained by the libellant</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="557" ORDERLABEL="555" TYPE="page">
+        <fptr FILEID="tiff_00279_0"/>
+        <fptr FILEID="jp2_00279_0"/>
+        <fptr FILEID="alto_00279_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_557.2" BETYPE="IDREF" FILEID="alto_00279_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="558" ORDERLABEL="556" TYPE="page">
+        <fptr FILEID="tiff_00279_1"/>
+        <fptr FILEID="jp2_00279_1"/>
+        <fptr FILEID="alto_00279_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_558.4" BETYPE="IDREF" FILEID="alto_00279_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-5" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.7" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-4" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.6" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-8" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.9" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-3" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.5" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-2" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.4" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-19" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.20" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-17" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.16" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-7" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.8" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-20" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.21" BETYPE="IDREF" FILEID="alto_00279_0"/>
+            <area BEGIN="BL_558.1" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFs" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.8" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-16" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.15" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-13" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.14" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-3" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.5" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AmpI" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.18" BETYPE="IDREF" FILEID="alto_00279_0"/>
+            <area BEGIN="BL_557.19" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b557-18" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_557.17" BETYPE="IDREF" FILEID="alto_00279_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b558-4" BETYPE="IDREF" FILEID="casebody_0281"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_558.6" BETYPE="IDREF" FILEID="alto_00279_1"/>
+            <area BEGIN="BL_558.7" BETYPE="IDREF" FILEID="alto_00279_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

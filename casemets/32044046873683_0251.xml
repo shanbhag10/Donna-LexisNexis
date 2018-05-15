@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0251" publicationstatus="published">
+          <court abbreviation="S.D. Fla." jurisdiction="United States">United States District Court for the Southern District of Florida</court>
+          <name abbreviation="Baker v. The Ellen Hood">The ELLEN HOOD. BAKER et al. v. The ELLEN HOOD</name>
+          <docketnumber>Case No. 4,377</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 515</citation>
+          <citation category="parallel" type="bluebook">5 Adm. Rec. 347</citation>
+          <decisiondate>1855-06-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00259_0" MIMETYPE="image/tiff" CHECKSUM="9975a4c7e6525eb039264ed79314a975" CHECKSUMTYPE="MD5" SIZE="85760">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00259_0.tif"/>
+      </file>
+      <file ID="tiff_00259_1" MIMETYPE="image/tiff" CHECKSUM="aaaa9be0935427efd8f0dab41e478a82" CHECKSUMTYPE="MD5" SIZE="78282">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00259_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00259_0" MIMETYPE="image/jp2" CHECKSUM="f42075594a085c72192c16b712996f9e" CHECKSUMTYPE="MD5" SIZE="3140651">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00259_0.jp2"/>
+      </file>
+      <file ID="jp2_00259_1" MIMETYPE="image/jp2" CHECKSUM="990d35d7d5594c9927b9c0df4cba149d" CHECKSUMTYPE="MD5" SIZE="2923435">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00259_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00259_0" MIMETYPE="text/xml" CHECKSUM="be43de0b4530305bdfc265032027a2ac" CHECKSUMTYPE="MD5" SIZE="178932">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00259_0.xml"/>
+      </file>
+      <file ID="alto_00259_1" MIMETYPE="text/xml" CHECKSUM="a2f65cd8feb9de5b0f7d44dcf40e4dd7" CHECKSUMTYPE="MD5" SIZE="160814">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00259_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0251" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="516" firstpage="515">
+              <court id="b517-9" pgmap="517">District Court, S. D. Florida.</court>
+              <docketnumber id="b517-5" pgmap="517">Case No. 4,377.</docketnumber>
+              <citation id="b517-8" pgmap="517">[5 Adm. Rec. 347.]</citation>
+              <parties id="b517-6" pgmap="517">The ELLEN HOOD. BAKER et al. v. The ELLEN HOOD.</parties>
+              <decisiondate id="AjmA" pgmap="517">June 11, 1855.</decisiondate>
+              <attorneys id="b517-13" pgmap="517">Wm. R. Hackley, for libellants.</attorneys>
+              <attorneys id="b517-14" pgmap="517">S. R. Mallory, for respondent.</attorneys>
+              <opinion type="majority">
+                <author id="b517-15" pgmap="517">MARVIN, District Judge.</author>
+                <p id="Aza" pgmap="517">This ship, Kilby, master, bound on a voyage from Apalachicola to Liverpool, laden with three thousand and thirty-nine bales of cotton, on the sixteenth of May last was driven ashore in bad weather about twelve miles to the northward of Cape Florida light. The next day she was board­ed by Baker and others, whose assistance was accepted to lighten and get the ship off. The ship lay in fifteen and thirteen feet wa­ter, at high water, she drawing sixteen feet She was upon an exposed and perilous coast where she must inevitably have become a total wreck in a short time, had the weather continued boisterous. But soon after the ship struck, the weather moderated and con­tinued mild until she was got off, and for sev­eral days afterwards. Baker and his asso­ciates, in all eighty men, with ten vessels, some of them however of the smaller class of licensed wreckers, lightened the ship of nine hundred and sixty-one bales of cotton, and carried out her anchors and heaved the ship off. They arrived in this port with the ship, on the first of June. The ship is injured, but does not leak, and is supposed to be in a fit condition to proceed on her voyage without repairs. The value of the ship and cargo ex­ceeds that of any other ever attached for sal­vage in this court The value of The Lucy and cargo [unreported] was $159,769; The America [Case No. .279], $151,464; The Courier [Id. 3,283], $140,000. In this case the ship is valued at $45,000, and the cargo at $147,391, making the value of the ship and cargo $192,391.</p>
+                <p id="b517-16" pgmap="517(170) 518(382)">It is very clear, judging from all establish­ed facts in the case, that the master of this ship could not, unassisted, have got his ship off, without throwing overboard at least nine hundred and sixty-one bales of cotton, worth $46,608. By a jettison of this portion of the cargo I think the máster could have saved the ship and the residue of her cargo. He had an able and efficient crew;‘boats capable of carrying out anchors; the weather proved good while the ship was on shore, and for several days afterwards. The salvage in the case of The America [supra] was $17,971, but in that case the ship was lost, and a very large number of salvors were employed for several weeks in saving the cargo, a consid­erable portion of which was saved by diving. The salvage on The Lucy and cargo was $30,-­400. Here, too, a large number of salvors were employed, in very bad weather, and with considerable risk of life, and peril to the salving vessels. The case of The Courier [supra] was more like the present case. In that case $19,101 was allowed for salvage. In the present case I think that eleven per cent upon the net value of the property is a reasonable salvage. This rate will give about $20,500 salvage. It is therefore order­ed, adjudged, and decreed that the costs and expenses of this suit, the wharfage, storage, commissions, labor bills in storing and re­shipping the cotton, and all other costs and charges upon the property incurred in this port up to the time of the ship’s being ready to sail, be first ascertained and allowed by the court, and, except the respondent’s proctor fee, deducted from the aforesaid valuation of one hundred and ninety-two thousand three hundred and ninety-one dollars, and that eleven per cent, upon the residue be al­lowed the libellants for and in full compensa­tion for their services in saving said ship and cargo, and that upon the payment of said salvage, costs and charges the marshal re­store said ship and cargo to the master there­of, for and on account of whom it may con­cern. That the clerk apportion the salvage and expenses between the ship and cargo ac­cording to their respective values, taking the value of the ship to be $45,000 and the value of the cargo to be $147,391, and that he also apportion the salvage and expenses between the separate parts of the cargo, according as they may appear to be insured in the city of New York or elsewhere, or uninsured, ac­cording to the respective values of such parts, calculating the value of the cotton to be forty-­eight dollars and a half per bale, and that the respective owners or underwriters have leave to pay the salvage and expenses upon the ship and the separate parts of the cargo so as­certained as aforesaid; and that the clerk make full report of said apportionments. That the amount of the salvage and expenses being ascertained, that it be referred to Com­missioner Baldwin to divide the salvage among the several salvors according to their respective interests, and according to their eonsortships, and that he make report ac­cordingly; and that all other questions be re­served.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="517" ORDERLABEL="515" TYPE="page">
+        <fptr FILEID="tiff_00259_0"/>
+        <fptr FILEID="jp2_00259_0"/>
+        <fptr FILEID="alto_00259_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_517.4" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="518" ORDERLABEL="516" TYPE="page">
+        <fptr FILEID="tiff_00259_1"/>
+        <fptr FILEID="jp2_00259_1"/>
+        <fptr FILEID="alto_00259_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_518.4" BETYPE="IDREF" FILEID="alto_00259_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-15" BETYPE="IDREF" FILEID="casebody_0251"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.20" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-5" BETYPE="IDREF" FILEID="casebody_0251"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.7" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-6" BETYPE="IDREF" FILEID="casebody_0251"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.8" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            <area BEGIN="BL_517.9" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-9" BETYPE="IDREF" FILEID="casebody_0251"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.11" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-8" BETYPE="IDREF" FILEID="casebody_0251"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.10" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aza" BETYPE="IDREF" FILEID="casebody_0251"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.21" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            <area BEGIN="BL_517.22" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-13" BETYPE="IDREF" FILEID="casebody_0251"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.18" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjmA" BETYPE="IDREF" FILEID="casebody_0251"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.12" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-14" BETYPE="IDREF" FILEID="casebody_0251"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.19" BETYPE="IDREF" FILEID="alto_00259_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b517-16" BETYPE="IDREF" FILEID="casebody_0251"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_517.23" BETYPE="IDREF" FILEID="alto_00259_0"/>
+            <area BEGIN="BL_518.1" BETYPE="IDREF" FILEID="alto_00259_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

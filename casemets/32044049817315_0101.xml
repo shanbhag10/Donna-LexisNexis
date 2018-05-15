@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0101" publicationstatus="published">
+          <court abbreviation="E.D. Mich." jurisdiction="United States">United States District Court for the Eastern District of Michigan</court>
+          <name abbreviation="The Island Queen">The ISLAND QUEEN</name>
+          <docketnumber>Case No. 7,110</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 175</citation>
+          <decisiondate>1871-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00089_0" MIMETYPE="image/tiff" CHECKSUM="1b975e00a0fe4ecc34ad966d3d2356b3" CHECKSUMTYPE="MD5" SIZE="37014">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00089_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00089_0" MIMETYPE="image/jp2" CHECKSUM="6147fa9997cda9e9fd126c7b25143a5d" CHECKSUMTYPE="MD5" SIZE="2062626">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00089_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00089_0" MIMETYPE="text/xml" CHECKSUM="090b73a7be9da2881d5a7d480173d35b" CHECKSUMTYPE="MD5" SIZE="72096">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00089_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0101" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="175" firstpage="175">
+              <court pgmap="177" id="b177-5">District Court, E. D. Michigan.</court>
+              <docketnumber pgmap="177" id="b177-2">Case No. 7,110.</docketnumber>
+              <parties pgmap="177" id="b177-3">The ISLAND QUEEN.</parties>
+              <decisiondate pgmap="177" id="A08">Feb., 1871.</decisiondate>
+              <attorneys pgmap="177" id="b177-9">W. A. Moore, for libellant.</attorneys>
+              <attorneys pgmap="177" id="b177-10">H. B. Brown, for claimant.</attorneys>
+              <p pgmap="177" id="b177-4">[Brown, Adm. 279.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="177" id="b177-13">1 [Reported by Hon. Henry B. Brown, Dis­trict Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="177" id="b177-12">LONGYEAR, District Judge.</author>
+                <p pgmap="177" id="Arxu">The liability limitation act of March 3, 1851 (9 Stat. 635), nettles this case beyond all question against the libellants. Section 2 of that act provides as follows: “If any shipper or shippers of platina, gold, gold dust, silver, bullion, or other precious metals, coins, jewelry, bills of any bank or public body, diamonds or other precious stones, shall lade the same on board of any ship or vessel without, at the time of such lading, giving to the master, agent, owner or owners of the ship or vessel receiving the same, a note in writing of the true character and value thereof, and have the same entered on the bill of lading there­for, the master and "owner or owners of the said vessel shall not be liable, as carriers thereof, in any form or manner. Nor shall any such master or owners be liable for any such valuable goods beyond the value and according to the character thereof, so noti­fied, and entered.” There is no pretense that this law was in any manner complied with. This point being decisive of the case, it is unnecessary to consider any of the other points raised and discussed on the hearing. Libel dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="177" ORDERLABEL="175" TYPE="page">
+        <fptr FILEID="tiff_00089_0"/>
+        <fptr FILEID="jp2_00089_0"/>
+        <fptr FILEID="alto_00089_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_177.2" BETYPE="IDREF" FILEID="alto_00089_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-12" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.17" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-13" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.21" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-10" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.15" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A08" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.8" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Arxu" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.18" BETYPE="IDREF" FILEID="alto_00089_0"/>
+            <area BEGIN="BL_177.19" BETYPE="IDREF" FILEID="alto_00089_0"/>
+            <area BEGIN="BL_177.20" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-9" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.14" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-4" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.6" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-5" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.7" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-2" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.4" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b177-3" BETYPE="IDREF" FILEID="casebody_0101"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_177.5" BETYPE="IDREF" FILEID="alto_00089_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

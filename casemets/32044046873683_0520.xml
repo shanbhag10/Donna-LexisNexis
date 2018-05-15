@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0520" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="The Fanita">The FANITA</name>
+          <docketnumber>Case No. 4,636</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 989</citation>
+          <citation category="parallel" type="bluebook">14 Blatchf. 545</citation>
+          <decisiondate>1878-06-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00496_0" MIMETYPE="image/tiff" CHECKSUM="ec1a0cc3f6a26aa77d45010cc7eddc8a" CHECKSUMTYPE="MD5" SIZE="90240">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00496_0.tif"/>
+      </file>
+      <file ID="tiff_00496_1" MIMETYPE="image/tiff" CHECKSUM="180d7dc19c46fa17617779dff7c83617" CHECKSUMTYPE="MD5" SIZE="74888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00496_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00496_0" MIMETYPE="image/jp2" CHECKSUM="cc62c32cf043edb85d044ce6a8fc32cb" CHECKSUMTYPE="MD5" SIZE="3337829">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00496_0.jp2"/>
+      </file>
+      <file ID="jp2_00496_1" MIMETYPE="image/jp2" CHECKSUM="0de9a3b4e558bc3f7c97d98e7fb6e238" CHECKSUMTYPE="MD5" SIZE="2907880">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00496_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00496_0" MIMETYPE="text/xml" CHECKSUM="a1a391a0537002bd1c44aeaf0641a8e8" CHECKSUMTYPE="MD5" SIZE="200192">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00496_0.xml"/>
+      </file>
+      <file ID="alto_00496_1" MIMETYPE="text/xml" CHECKSUM="13fe11c242fd6419c4bf80acb2867591" CHECKSUMTYPE="MD5" SIZE="165458">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00496_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0520" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="990" firstpage="989">
+              <court id="b991-7" pgmap="991">Circuit Court, S. D. New York.</court>
+              <docketnumber id="b991-4" pgmap="991">Case No. 4,636.</docketnumber>
+              <citation id="b991-6" pgmap="991">[14 Blatchf. 545.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b991-5" pgmap="991">The FANITA.</parties>
+              <decisiondate id="AMkZ" pgmap="991">June 27, 1878.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys id="b991-12" pgmap="991">Franklin A. Wilcox, for libellant.</attorneys>
+              <attorneys id="b991-13" pgmap="991">John E. Parsons, for claimant</attorneys>
+              <footnote label="1">
+                <p id="b991-15" pgmap="991">1 [Reported by Hon. Samuel Blatehford, Cir­cuit Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="b991-16" pgmap="991">2 [Modifying Ca«e No. 4,635.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b991-14" pgmap="991">WAITE, Circuit Justice.</author>
+                <p id="A_9" pgmap="991(776) 992(97)">On August 20th, 1870, the libellant was the owner of the schooner Samuel G. Miles, bound on a Toy-­age from Croton landing, Hudson river, to Clott’s brickyard, in Williamsburg. Long Is­land, nearly opposite Corlaers’ Hook, New York, with a cargo of 42,000 brick, weighing about eighty-four tons. Her length was six­ty-two feet keel, her, breadth about twenty-­three feet, and she was loaded almost to the water’s edge. The schooner left Croton about four o’clock in the afternoon of that day. Her crew consisted of four men all told — one at the wheel, one on the lookout, one on deck, and the cook. After round­ing the Battery, she laid her course up the East river, from one hundred to one hundred and fifty yards from the ends of the piers on the New York shore, and, at about nine o’clock in the evening, when off pier 10, was run into and sunk by the steamer Fanita. The wind at the time was from northwest to west-northwest, blowing about an eight knot breeze, and' the tide was ebb. The schooner had her foresail, mainsail, topsail and jib all set, with the wind upon her port side, and the sails well off to starboard. Her deck load came well up to her booms, and the wheel was at her stern. The Fanita was a. steam propeller, of 432 tons burthen, and 155 or 160 feet in length, engaged in regular trade between New York and Philadelphia. She backed out of her slip, between piers 38. and 34, East river, at 8:40 o’clock, in the-­evening of that day, swung her bow down the river with the tide, while holding to the pier with a stern line, and started on her way out of the harbor. When she got straightened upon her course, she was be­tween fifty and sixty feet from the ends of the piers. On her arrival opposite the pier of the East river bridge, on the New York side, between piers 27 and 28, her master discovered a Fulton ferry-boat coming out of the slip between piers 21 and 22, and ported his wheel to go under her stern. To-­accomplish this, his course was changed from two to three points, and he passed the ferry­boat off the end of her slip, and not far from it Before passing, however, the course of the Fanita was changed somewhat to port, and, when she got by, she was running upon her starboard wheel, heading a little toward the middle of the river. Soon after, and while she was on this course, a red light was-­discovered about half a point off her star­board bow, nearly ahead, and a little dis­tance above the Battery. Upon examining it through the glass, the master of the Fanita, although no green light was seen, discovered that it was upon a schooner which was head­ed up stream, and, as he judged, keeping along the New York shore to avoid the cur­rent. When about half-way 'between the Fulton ferry slip and the Wall street ferry-­slip, which is between piers 15 and 16, the master of the Fanita gave orders to port her wheel, in order that she might go between the schooner and the New York shore. She was then about 150 yards from the ends of the piers, and there was nothing to prevent her keeping her course out into the river. Up to that time she had been running at slackened speed, but then the engine was-­hooked on and her speed increased. When the light of tlje schooner had been brought to bear somewhat over the port bow of the Fanita, she was straightened on a course which would have brought her in upon the piers before she reached the Battery, and not far above it. The man at the wheel of the schooner did not discover the steamer until, his attention was called to her by the look­out a f.ew seconds before the collision. The sails were so set as to make it impossible for him to see forward over the starboard side of his vessel. The lookout saw the white-­light of the steamer when it was supposed by him to be a quarter of a mile away, and off the starboard bow of the schooner. He gave no notice of this to the mau at the-­wheel until the collision was imminent. The wind was baffling, and the schooner was-­steering by the wind and not by compass. The schooner held her course all the time until the two vessels were within 150 feet •of each other, when she came up' somewhat into the wind, though her sails were all the time full, and, before the steamer could •change her course or slacken her speed, the •collision occurred. The stem of the steamer •struck the bluff of the starboard bow of the «ehooner, and cut into her as far as the for­ward hatch, on a line which, if extended, would have come out about ten feet from the ¡stern on the port quarter. The schooner sank immediately, and the cook, who happened to be below at the time, was drowned.</p>
+                <p id="b992-3" pgmap="992">While only a red light was seen upon the «ehooner from the Fanita, the master of the Fanita, who was watching the light through iiis glass, testifies, that, from the beginning, lie judged the vessel was passing up under the shore, to keep out of the way of the cur­rent. When discovered, the light was a lit­tle off his starboard bow, and the course he was heading, on his way out of the harbor, would necessarily have carried him outside the schooner, and well clear of her. Know­ing, as he did, that he was already crossing the course of the schooner, and must soon be entirely out of her way, it was bad judg­ment to cross back again and undertake to pass between her and the New York shore. Had he not known her course, the case would have been different, for the red light alone in view indicated that she might be crossing the river.</p>
+                <p id="b992-4" pgmap="992">But, even if this were otherwise, and he was right in changing his course, it is clear that he attempted to pass too close. The schooner kept steadily on her course until the two vessels were within 150 feet of each •other, approaching from opposite directions, ¡at a combined speed of -at least twelve miles an hour. This is a conceded fact It is ap­parent, therefore; that, with her sails full all the time, the schooner could not get much out of her course in going but little more than her length of sixty feet. The direction •of the blow, also, shows the same thing. The steamer was headed toward the New York shore, so as to strike the piers some­what above the Battery, and, the collision was off pier 10, 100 or 150 yards from the shore. The line of the blow was from the bluff of the starboard bow to a point on the port quarter, ten feet forward of the stern. The course of the schooner, therefore, could »ot vary a great way from a line parallel with the piers. It was clearly a fault in the steamer to undertake to pass, at full speed, so close to the schooner, that a variation of a few feet from their course, by either of the vessels, would cause a collision.</p>
+                <p id="b992-5" pgmap="992">The schooner was also in fault. Her look­out testifies that he saw the Fanita’s light when it was a quarter of a mile away. He may have been mistaken in his judgment as to the distance, but it was some time before the collision. He neglected entirely to report to the man at the wheel until the very mo­ment when the two vessels came together, although he knew, or ought to have known, that the light could not be seen from the . wheel. This was a plain and palpable fault.. It is as much the duty of a lookout to report what he sees to those who are to act upon his knowledge, as it is to watch. In this case, the schooner was required to keep steadily on her course. Had this light been reported , ¡to the man at the wheel, he might have pre­vented what little change of course there .was in his vessel, by watching more care­fully the effect of the baffling wind.</p>
+                <p id="b992-8" pgmap="992">. The damages should be equally divided be­tween the two vessels, and a reference may be had to one of the commissioners of this . court, to ascertain the amount</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="991" ORDERLABEL="989" TYPE="page">
+        <fptr FILEID="tiff_00496_0"/>
+        <fptr FILEID="jp2_00496_0"/>
+        <fptr FILEID="alto_00496_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_991.4" BETYPE="IDREF" FILEID="alto_00496_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="992" ORDERLABEL="990" TYPE="page">
+        <fptr FILEID="tiff_00496_1"/>
+        <fptr FILEID="jp2_00496_1"/>
+        <fptr FILEID="alto_00496_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_992.7" BETYPE="IDREF" FILEID="alto_00496_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMkZ" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.11" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-13" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.17" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-12" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.16" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_9" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.19" BETYPE="IDREF" FILEID="alto_00496_0"/>
+            <area BEGIN="BL_991.20" BETYPE="IDREF" FILEID="alto_00496_0"/>
+            <area BEGIN="BL_991.21" BETYPE="IDREF" FILEID="alto_00496_0"/>
+            <area BEGIN="BL_992.4" BETYPE="IDREF" FILEID="alto_00496_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-16" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.23" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-15" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.22" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-14" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.18" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b992-3" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_992.8" BETYPE="IDREF" FILEID="alto_00496_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-7" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.10" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-6" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.9" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-5" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.8" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b991-4" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_991.7" BETYPE="IDREF" FILEID="alto_00496_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b992-8" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_992.12" BETYPE="IDREF" FILEID="alto_00496_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b992-4" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_992.9" BETYPE="IDREF" FILEID="alto_00496_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b992-5" BETYPE="IDREF" FILEID="casebody_0520"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_992.10" BETYPE="IDREF" FILEID="alto_00496_1"/>
+            <area BEGIN="BL_992.11" BETYPE="IDREF" FILEID="alto_00496_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

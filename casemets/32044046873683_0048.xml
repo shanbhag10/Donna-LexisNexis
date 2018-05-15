@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0048" publicationstatus="published">
+          <court abbreviation="E.D. Pa." jurisdiction="United States">United States District Court for the Eastern District of Pennsylvania</court>
+          <name abbreviation="Dunn v. The Young America">DUNN v. The YOUNG AMERICA</name>
+          <docketnumber>Case No. 4,178</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 102</citation>
+          <citation category="parallel" type="bluebook">37 Leg. Int. 30; 14 Phila. 532</citation>
+          <decisiondate>1879-01-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00052_1" MIMETYPE="image/tiff" CHECKSUM="6def71289b264c82e21fe95de5532302" CHECKSUMTYPE="MD5" SIZE="98216">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00052_1.tif"/>
+      </file>
+      <file ID="tiff_00053_0" MIMETYPE="image/tiff" CHECKSUM="d9cbf93f0d793bc5ecbd58fa77036b2d" CHECKSUMTYPE="MD5" SIZE="63416">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00053_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00052_1" MIMETYPE="image/jp2" CHECKSUM="785ee86747f089fc611f1f73ed5b9534" CHECKSUMTYPE="MD5" SIZE="3439514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00052_1.jp2"/>
+      </file>
+      <file ID="jp2_00053_0" MIMETYPE="image/jp2" CHECKSUM="c1b45cb81e58939fba8aa333d2407dd3" CHECKSUMTYPE="MD5" SIZE="2690094">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00053_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00052_1" MIMETYPE="text/xml" CHECKSUM="65154aaca1919140b0c7ff98585583db" CHECKSUMTYPE="MD5" SIZE="208141">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00052_1.xml"/>
+      </file>
+      <file ID="alto_00053_0" MIMETYPE="text/xml" CHECKSUM="01322d2089bf522c99f7d0a10d9e6cff" CHECKSUMTYPE="MD5" SIZE="128992">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00053_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0048" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="103" firstpage="102">
+              <court id="b104-5" pgmap="104">District Court, E. D. Pennsylvania.</court>
+              <docketnumber id="b104-2" pgmap="104">Case No. 4,178.</docketnumber>
+              <citation id="b104-4" pgmap="104">[37 Leg. Int. 30;<footnotemark>1</footnotemark> 14 Phila. 532.]</citation>
+              <parties id="b104-3" pgmap="104">DUNN v. The YOUNG AMERICA.</parties>
+              <decisiondate id="AGA" pgmap="104">Jan. 9, 1879.</decisiondate>
+              <attorneys id="b104-9" pgmap="104">H. G. Ward, for libellant</attorneys>
+              <attorneys id="b104-10" pgmap="104">Henry Flanders, for respondent</attorneys>
+              <footnote label="1">
+                <p id="b104-13" pgmap="104">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b104-11" pgmap="104">BUTLER, District Judge.</author>
+                <p id="AW_" pgmap="104">The owners of the steam tug Young America, George W. Pride and others, through their agent, the master of the Pioneer, contracted with the libellant to tow his ship (1,311 tons burden, and 132 feet long), the Lord Cairns, from the sea, and dock her at Philadelphia. She was brought up by the Pioneer, and left at anchor, opposite Greenwich, on the 12th of April, 1879. The wind was fresh from the northwest, and the tide flood. The ship was in ballast-trim, and lay across the stream, with the Norwegian bark Zorida, a short dis­tance above. Her master called at the office of Mr. Pride, and requested to have his ship taken in. The Pioneer was absent, and the Young America was despatched on the serv­ice. The libellant seems to have entertained some doubt of the capacity of this boat for the work; he referred to the wind, and, as he was leaving (and probably before), requested the aid of a second boat. Mr. Pride failed Captain Taylor, and inquired whether he could perform the service with the Young America, and was answered that he “thought” he could. When the boat reached the ship, a hawser was taken out on the port bow, the-anchor raised, and the tug started forward. Very soon she “slacked up,” and the ship drifted sternways toward the Zorida. Whether she “slacked up” more than once the witnesses do not agree. The weight of the evidence is that she did so twice. On the first occasion her anchors, which were dropped, held her off the bark. On the sec­ond occasion, she struck the bark, and sus­tained the injury for which she now sues.</p>
+                <p id="b104-12" pgmap="104">Is the respondent liable? It was the duty of Mr. Pride and his co-contractors to furnish a tug fully competent to perform the service which they had undertaken, with safety; and, if one was not sufficient, to add another. The responsibility was on them to determine the amount of force needed, and to perform the service with the care and skill required by the circumstances. They are not common carriers, and are not therefore insurers. The libellant must show failure on their part, either as respects the boat furnished, or the management of it. He charges failure in both. Whether the boat was sufficient — in view of the circumstances existing at the time — is open to doubt ' There is a good deal of testimony bearing on the question. The witnesses called by the respondent (most of them employés of Mr. Pride) say she was. Her action on the occasion, as well as the answer of her captain, when appealed to by Mr. Pride (before starting out), might, I think, justify a doubt; and the intelligent gentleman, Captain Gallagher, consulted on this point, as assessor, says (from his personal knowledge, as well as the respondent’s de­scription of her) that she was not sufficient.</p>
+                <p id="b104-16" pgmap="104">As respects her management I think the case is free from doubt She “slacked up” and lost control of the ship twice, after start­ing. It is quite clear that had she not done so the second time, the accident would not have occurred. On the first occasion collision was avoided by means of the ship’s anchors. Might it have been avoided on the second by the same means? If it might, the libellant cannot recover. The several witnesses from the ship say the anchors were dropped im­mediately on the boat slacking up, on this occasion, as they had been on the former, but that the Zorida was now too close to be thus avoided, while those from the boat testify that the ship’s anchors were not let go until after she struck. I feel no hesitation in ac­cepting the statement of the libellant’s wit­nesses respecting this point They are much more likely to know what was done on the ship, than those on the boat are. Some of them say they saw the anchors let down, and others that they not only saw this, but them­selves let them down. The inferences from surrounding circumstances all support this statement. The safety of the ship demanded such action; a seaman would resort to it, under the circumstances, instinctively; and the evidence shows that the master was on the alert. When at Mr. Pride’s office he manifested anxiety respecting the movement of his ship, and testifies that he was “all over” the vessel as it moved. He had, just before, resorted to this means of saving his ship from similar danger. I can entertain no doubt that the anchors were used on the second occasion, as they had been on the first.</p>
+                <p id="b104-17" pgmap="104(52) 105(207)">Thus we are brought to the question: Was the tug justified in “slacking up,” on the second occasion, under the circumstances then existing? The respondent says she was, for two reasons: First, that he was commanded to do so, from the ship; and, second, that the hawser was fouled with the martingale, and likely to break it Unless he has proved one or the other of these allegations, he must be held responsible for the accident. The first is a question of fact, purely; and the weight of the testimony is against the re­spondent. The witnesses from the ship say, not only that he was not ordered to “slack up,” but on the contrary was directed to “go ahead,” both the captain and the mate say­ing they so shouted, and telegraphed with their hands, when they saw he was stopping, and others that they were by, and heard it. One of the respondent’s witnesses testifies to the same effect. And this statement is rea­sonable and probable. No good cause can be' suggested why those on board the ship should desire the tug stopped. If the hawser was fouled, endangering the martingale, it could be righted (as the respondent has clearly shown) from the ship, without interfering with the tug. But the testimony shows that the martingale was in no danger. There was therefore no occasion to interfere with the movements of the tug, while, on the other hand, strong reasons existed for desiring her to go forward, and avoid the danger which must otherwise be encountered.</p>
+                <p id="b105-3" pgmap="105">The remaining allegation involves a ques­tion of fact, — was the hawser fouled? and also one of nautical skill and experience,— supposing the hawser to be fouled (as assert­ed), did this justify the tug in stopping when and where she did? In the view I entertain of the second question, the first becomes un. important That the duty was on the ship to keep the hawser dear, as Mr. Pride and other witnesses for the respondent state, and thus protect its martingale, may be granted. If she failed in this, and sustained injury, she must bear the consequences without com­plaint She could best see and estimate the danger arising from such cause, and was able to remove it without aid from the tug. If she did not see and remove it, and the martingale was broken, and loss sustained thereby, she must bear it No responsibility would attach to the tug under the circum­stances. Her duty was to go forward, re­gardless of such danger to the martingale, unless ordered to do otherwise. It follows that the respondent was not justified in stop­ping when he did, for the cause stated; and especially was he not, in view of the certain danger to which the ship must necessarily be subjected thereby, in consequence of the Zorida’s proximity and the direction of the tide. The accident was the natural and inev­itable consequence of this mistake, which proper intelligence and proper care would have avoided. (This conclusion has the sup­port of the assessor’s judgment, as will be seen by reference to his answers filed here­with.) Whether, therefore, the boat was suf­ficient for the service on which she was sent, or not, the manner in which she was handled, and the service performed, require that the respondent shall be held accountable for the loss.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="104" ORDERLABEL="102" TYPE="page">
+        <fptr FILEID="tiff_00052_1"/>
+        <fptr FILEID="jp2_00052_1"/>
+        <fptr FILEID="alto_00052_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_104.3" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="105" ORDERLABEL="103" TYPE="page">
+        <fptr FILEID="tiff_00053_0"/>
+        <fptr FILEID="jp2_00053_0"/>
+        <fptr FILEID="alto_00053_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_105.5" BETYPE="IDREF" FILEID="alto_00053_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-9" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.13" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGA" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.8" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_104.9" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AW_" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.16" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_104.17" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-3" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.5" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-2" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.4" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-5" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.7" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-4" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.6" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-11" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.15" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-10" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.14" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-13" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.20" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-12" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.18" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_104.19" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-17" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.22" BETYPE="IDREF" FILEID="alto_00052_1"/>
+            <area BEGIN="BL_105.3" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b104-16" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_104.21" BETYPE="IDREF" FILEID="alto_00052_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b105-3" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_105.7" BETYPE="IDREF" FILEID="alto_00053_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

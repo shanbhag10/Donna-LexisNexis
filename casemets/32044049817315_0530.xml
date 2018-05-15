@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0530" publicationstatus="published">
+          <court abbreviation="E.D. Mich." jurisdiction="United States">United States District Court for the Eastern District of Michigan</court>
+          <name abbreviation="In re Jordon">In re JORDON</name>
+          <docketnumber>Case No. 7,529</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1121</citation>
+          <citation category="parallel" type="bluebook">9 N. B. R. (1874) 416</citation>
+          <decisiondate>1851-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00562_0" MIMETYPE="image/tiff" CHECKSUM="559e320bbaaf807527f5527491867baf" CHECKSUMTYPE="MD5" SIZE="44118">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00562_0.tif"/>
+      </file>
+      <file ID="tiff_00562_1" MIMETYPE="image/tiff" CHECKSUM="4d81cbf00fa7e9f491b1c043eee78f04" CHECKSUMTYPE="MD5" SIZE="93528">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00562_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00562_0" MIMETYPE="image/jp2" CHECKSUM="4e7d8bdc78be4a11c2dfe2a31e261fbf" CHECKSUMTYPE="MD5" SIZE="2213040">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00562_0.jp2"/>
+      </file>
+      <file ID="jp2_00562_1" MIMETYPE="image/jp2" CHECKSUM="e1d607f595255bdffbff382285996992" CHECKSUMTYPE="MD5" SIZE="3481691">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00562_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00562_0" MIMETYPE="text/xml" CHECKSUM="0841f5cbe8107916fe171eb8c4d874d2" CHECKSUMTYPE="MD5" SIZE="93490">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00562_0.xml"/>
+      </file>
+      <file ID="alto_00562_1" MIMETYPE="text/xml" CHECKSUM="70fcb7649a9523734f5847d7ad99938d" CHECKSUMTYPE="MD5" SIZE="202845">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00562_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0530" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1122" firstpage="1121">
+              <court pgmap="1123" id="b1123-10">District Court, E. D. Michigan.</court>
+              <docketnumber pgmap="1123" id="b1123-7">Case No. 7,529.</docketnumber>
+              <citation pgmap="1123" id="b1123-9">[9 N. B. R. (1874) 416.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1123" id="b1123-8">In re JORDON.</parties>
+              <footnote label="1">
+                <p pgmap="1123" id="b1123-13">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1124" id="b1124-4">LONGYEAR, District Judge.</author>
+                <p pgmap="1124" id="Af8v">The mort­gage of February 11th, 1873, was to secure the same debt secured by, and it covered all the property covered by, the previous mort­gage. It was clearly in substitution for the previous mortgage. In Re Wynne [Case No. 18,117], Chief Justice Chase held, in a case in point, that upon taking the second mortgage the first ceased to have any validity or effect, and that the mortgagee’s rights as to lien must stand and be determined solely by the second mortgage. In deciding the question he made use of the following language: “It is doubtless true that a mortgage or other con-­ve.vance made as security for a debt evi­denced by a note or bond will operate as security for the same continuing debt, though the evidence of it be changed by renewal ox-­otherwise. Winsor v. McLellan [Id. 17,887]. But in this case it is the security itself which has been changed, and not the evidence of the debt. The deed of December 8, 1866, was executed, it seems, in substitution for That of August, which therefore ceased to have any validity or effect.” This, I be­lieve, is but a simple declaration of settled law, and announces no new doctrine. It governs this casa</p>
+                <p pgmap="1124" id="b1124-5">The only question to be determined, there­fore, is as to Moulton’s rights and disabilities under the mortgage of February 11th, 1873. From the proofs there is no room left in my mind for doubt that the banknxpt was in fact insolvent when this mortgage-.was given, and, of course, that it was a preference to the mortgagee. I am convinced, also, beyond a reasonable doubt, from Moulton’s long and close familiarity with the bankrupt’s affairs and business, and from various specific facts and circumstances developed by the pi-oofs, but too numerous to mention in detail in this opinion, that Moulton had not only reasonable but abundant cause to believe the bankrupt insolvent, or at all events in failing circum­stances, and that it was- such belief, actually entertained by him. that moved him to seek and obtain better security by the taking of •the mortgage. This brings the case clearly ■within sections thirty-six and thirty-nine of the bankrupt act. defining and prohibiting preferences in certain cases. This unlawful preference Moulton has not surrendered to the assignee, but. on the contrary, he is now "before the court in the attitude of insisting -upon its enforcement. The twenty-third sec­tion of the bankrupt act provides that "any person who, after the approval of this act, ■shall have accepted any preference, having reasonable cause to believe that the same was made or given by the debtor contrary to any provision of this act, shall not prove the debt or claim on account of which the preference was made or given, nor shall he receive any dividend therefrom until he shall first have surrendered to the assignee all property, bene­fit or advantage received by him under such preference.”</p>
+                <p pgmap="1124" id="AYft">By this provision Moulton is absolutely pro­hibited from proving his debt in this court against the bankrupt estate, beyond the power of the court to grant him any relief whatever from the effects of the prohibition. The claim is for one entire and indivisible debt, and the prohibition applies to every part of it. The debt not being provable no claim could be maintained on account of it to any portion of the assets, by way of lien or otherwise. And this would be equally the case even if the first mortgage could be -held to be still in existence. Without proof of the debt no lien can be enforced any more than dividends can be received on account of it. Phelps v. Sellick [Case No. 11,079]. This law may op­erate harshly in particular instances, but its commands are imperative and the courts have no discretion in the matter. Moulton has, however, only to blame his own anxiety to get the start of the bankrupt’s other cred­itors instead of sharing with them as to any deficiency of the property covered by his former mortgage, according to the spirit, in­tent and pui-pose of the bankrupt law. When he took the mox-tgage of February 11th, 1873, he did so subject to the chances of his mort­gagor being thrown into bankruptcy within four months thereafter. Those chances have turned against him, and he-must abide the consequences.</p>
+                <p pgmap="1124" id="b1124-8">It results that Moulton’s proof of claim must be rejected, and his application to have his debt or any part thereof paid out of the pi-o-­ceeds of the mortgaged property must be denied; and Moulton must pay the costs of this proceeding, including an attorney's fee of fifteen dollars.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1123" ORDERLABEL="1121" TYPE="page">
+        <fptr FILEID="tiff_00562_0"/>
+        <fptr FILEID="jp2_00562_0"/>
+        <fptr FILEID="alto_00562_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1123.6" BETYPE="IDREF" FILEID="alto_00562_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1124" ORDERLABEL="1122" TYPE="page">
+        <fptr FILEID="tiff_00562_1"/>
+        <fptr FILEID="jp2_00562_1"/>
+        <fptr FILEID="alto_00562_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1124.4" BETYPE="IDREF" FILEID="alto_00562_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1123-13" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1123.17" BETYPE="IDREF" FILEID="alto_00562_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1123-10" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1123.13" BETYPE="IDREF" FILEID="alto_00562_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AYft" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1124.10" BETYPE="IDREF" FILEID="alto_00562_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1123-9" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1123.12" BETYPE="IDREF" FILEID="alto_00562_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1123-8" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1123.11" BETYPE="IDREF" FILEID="alto_00562_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1124-4" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1124.5" BETYPE="IDREF" FILEID="alto_00562_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1124-5" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1124.8" BETYPE="IDREF" FILEID="alto_00562_1"/>
+            <area BEGIN="BL_1124.9" BETYPE="IDREF" FILEID="alto_00562_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1124-8" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1124.11" BETYPE="IDREF" FILEID="alto_00562_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1123-7" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1123.10" BETYPE="IDREF" FILEID="alto_00562_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Af8v" BETYPE="IDREF" FILEID="casebody_0530"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1124.6" BETYPE="IDREF" FILEID="alto_00562_1"/>
+            <area BEGIN="BL_1124.7" BETYPE="IDREF" FILEID="alto_00562_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

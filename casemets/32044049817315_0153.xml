@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0153" publicationstatus="published">
+          <court abbreviation="Ark. Super. Ct." jurisdiction="Arkansas">Superior Court of the Territory of Arkansas</court>
+          <name abbreviation="Jacobs v. Jacobs">JACOBS v. JACOBS</name>
+          <docketnumber>Case No. 7,161a</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 278</citation>
+          <decisiondate>1831-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00140_1" MIMETYPE="image/tiff" CHECKSUM="e3d700fc10d2f671e91ad5853c4dbe57" CHECKSUMTYPE="MD5" SIZE="103398">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00140_1.tif"/>
+      </file>
+      <file ID="tiff_00141_0" MIMETYPE="image/tiff" CHECKSUM="8e0eb4e81294a592520ead8bd792e617" CHECKSUMTYPE="MD5" SIZE="69788">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00141_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00140_1" MIMETYPE="image/jp2" CHECKSUM="30e1387c3cbb6d94018b331aaf7287a6" CHECKSUMTYPE="MD5" SIZE="3671230">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00140_1.jp2"/>
+      </file>
+      <file ID="jp2_00141_0" MIMETYPE="image/jp2" CHECKSUM="9e5555bdfa9f183ed651cc147b87d9c8" CHECKSUMTYPE="MD5" SIZE="3182193">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00141_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00140_1" MIMETYPE="text/xml" CHECKSUM="e25ee55c0e373a1f3fada90e7daa3887" CHECKSUMTYPE="MD5" SIZE="218788">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00140_1.xml"/>
+      </file>
+      <file ID="alto_00141_0" MIMETYPE="text/xml" CHECKSUM="13e239f30e90387c9324994472b3cca8" CHECKSUMTYPE="MD5" SIZE="150729">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00141_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0153" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="279" firstpage="278">
+              <court pgmap="280" id="b280-13">Superior Court, Territory of Arkansas.</court>
+              <docketnumber pgmap="280" id="b280-10">Case No. 7,161a.</docketnumber>
+              <parties pgmap="280" id="b280-11">JACOBS v. JACOBS.</parties>
+              <decisiondate pgmap="280" id="AqyP">Jan., 1831.</decisiondate>
+              <judges pgmap="281" id="b281-5">Before JOHNSON, ESKRIDGE, and BATES, JJ.</judges>
+              <p pgmap="280" id="b280-12">[Hempst. 101.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="280" id="b280-17">1 [Reported by Samuel H. Hempstead, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="281" id="b281-6">ESKRIDGE, J.</author>
+                <p pgmap="281" id="Aci">This was an action for the recovery of money due upon an account brought by Thomas Jacobs [administrator of Keziah Jacobs, deceased] against John Ja­cobs, before a justice of the peace for the county of Lafayette. There was a verdict and judgment before the justice, in favor of the plaintiff, for $78.00, from which the de­fendant appealed to the circuit court, which having dismissed the appeal, the cause has been brought by appeal to this court.</p>
+                <p pgmap="281" id="b281-7">Two questions are presented by the rec­ord: First, whether the circuit court erred in dismissing the appeal; and second, wheth­er the judgment rendered by that court, upon such dismissal, was correct and suit­able. A justice of the peace is required by the statute to keep a docket, and to note in it every step taken in the progress of a cause pending before him, and a transcript from the docket thus kept is made evidence; and it is incompetent for the justice, after he shall have certified a transcript from his docket to the circuit court, to supply any defect that may exist in it, by certificate or otherwise; nor can such defect be sup­plied by the testimony of persons who were present at the trial- before the justice. The transcript, as certified by the justice, must be taken as true, and no extraneous matter can be received by the court to add to or diminish it</p>
+                <p pgmap="281" id="b281-8">The circuit court decided correctly in re­fusing to receive both the certificate of the justice and the affidavits of witnesses that an appeal was prayed for on the day of trial. The fact, whether an appeal was taken on the day of trial, was an important one in the progress of the cause, which ought to have been noted by the justice on his docket. The statute provides, that when an appeal is prayed for on the day of trial, it shall not be necessary to give notice to the adverse party; and, on the other hand, when an ap­peal is not prayed for on that day, a notice of ten days must be given to the opposite party. It not appearing from the transcript of the justice’s docket, as certified to the circuit court, that either an appeal was prayed for on the day of trial, or that ten days, notice, as required, was given, the ap­peal was very properly dismissed by the circuit court. But, however correct the de­cision of the circuit court may have been in dismissing the appeal, the judgment of that court upon the dismission was erroneous, and must be reversed by this court The circuit court, instead of dismissing the ap­peal, and rendering a judgment for costs only, gave a judgment for the money in controversy, as also for costs. This was error, and on this ground the judgment of the Lafayette circuit court must be reversed. Judgment reversed accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="280" ORDERLABEL="278" TYPE="page">
+        <fptr FILEID="tiff_00140_1"/>
+        <fptr FILEID="jp2_00140_1"/>
+        <fptr FILEID="alto_00140_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_280.4" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="281" ORDERLABEL="279" TYPE="page">
+        <fptr FILEID="tiff_00141_0"/>
+        <fptr FILEID="jp2_00141_0"/>
+        <fptr FILEID="alto_00141_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_281.2" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-12" BETYPE="IDREF" FILEID="casebody_0153"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.14" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqyP" BETYPE="IDREF" FILEID="casebody_0153"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.16" BETYPE="IDREF" FILEID="alto_00140_1"/>
+            <area BEGIN="BL_280.17" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-6" BETYPE="IDREF" FILEID="casebody_0153"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.8" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aci" BETYPE="IDREF" FILEID="casebody_0153"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.9" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            <area BEGIN="BL_281.10" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-8" BETYPE="IDREF" FILEID="casebody_0153"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.12" BETYPE="IDREF" FILEID="alto_00141_0"/>
+            <area BEGIN="BL_281.13" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-7" BETYPE="IDREF" FILEID="casebody_0153"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.11" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-11" BETYPE="IDREF" FILEID="casebody_0153"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.13" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-10" BETYPE="IDREF" FILEID="casebody_0153"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.12" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-13" BETYPE="IDREF" FILEID="casebody_0153"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.15" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b281-5" BETYPE="IDREF" FILEID="casebody_0153"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_281.7" BETYPE="IDREF" FILEID="alto_00141_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b280-17" BETYPE="IDREF" FILEID="casebody_0153"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_280.21" BETYPE="IDREF" FILEID="alto_00140_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

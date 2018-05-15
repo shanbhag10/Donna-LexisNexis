@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0262" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="Jenkins v. The Congress">JENKINS v. The CONGRESS</name>
+          <docketnumber>Case No. 7,264</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 455</citation>
+          <citation category="parallel" type="bluebook">2 Betts, D. C. MS. 1</citation>
+          <decisiondate>1841-02-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00229_0" MIMETYPE="image/tiff" CHECKSUM="5e977d22924ed41c9e934d80d145cfba" CHECKSUMTYPE="MD5" SIZE="34770">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00229_0.tif"/>
+      </file>
+      <file ID="tiff_00229_1" MIMETYPE="image/tiff" CHECKSUM="ff20d9cee807c027a021a079b1859143" CHECKSUMTYPE="MD5" SIZE="86152">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00229_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00229_0" MIMETYPE="image/jp2" CHECKSUM="f9f1492d8870c4a52b56660ec49c5176" CHECKSUMTYPE="MD5" SIZE="2483940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00229_0.jp2"/>
+      </file>
+      <file ID="jp2_00229_1" MIMETYPE="image/jp2" CHECKSUM="989d12d5d69890f8728fd9dc9d7ab153" CHECKSUMTYPE="MD5" SIZE="3117291">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00229_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00229_0" MIMETYPE="text/xml" CHECKSUM="2484716984e166b0cd521508d142eeb4" CHECKSUMTYPE="MD5" SIZE="68249">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00229_0.xml"/>
+      </file>
+      <file ID="alto_00229_1" MIMETYPE="text/xml" CHECKSUM="3bdb09c42d320d58b739b3ead58ed1ff" CHECKSUMTYPE="MD5" SIZE="181627">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00229_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0262" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="456" firstpage="455">
+              <court pgmap="457" id="b457-28">District Court, S. D. New York.</court>
+              <docketnumber pgmap="457" id="b457-25">Case No. 7,264.</docketnumber>
+              <citation pgmap="457" id="b457-27">[2 Betts, D. C. MS. 1.]</citation>
+              <parties pgmap="457" id="b457-26">JENKINS v. The CONGRESS.</parties>
+              <decisiondate pgmap="457" id="Azhb">Feb. 4, 1841.</decisiondate>
+              <attorneys pgmap="457" id="b457-34">Mr. Bowdoin, for libellant,</attorneys>
+              <attorneys pgmap="457" id="b457-35">Mr. Shufeldt, for claimant,</attorneys>
+              <opinion type="majority">
+                <author pgmap="458" id="b458-2">BETTS, District Judge.</author>
+                <p pgmap="458" id="A1sx">Although the claims of material men are intrinsically of a maritime character, and as such fall within the cognizance of courts of admiralty, yet the general jurisdiction is so far modified in this respect in our courts, that it is not exercised over domestic vessels, in behalf of resident creditors, except in consonance with the local law. The General Smith, 4 Wheat. [17 U. S.] 438; Peyroux v. Howard, 7 Pet. [32 U. S.] 324; Phillips v. The Thomas Scatter­good [Case No. 11,106]; Davis v. New Brig [Id. 3,643]. The rights of the parties are also measured in such cases by the law of the particular state in which the court sits. The Robert Pulton [Id. 11,890). The pro­visions of the state law applicable to the subject are in the Revised Statutes (part 3, tit'3). “Whenever a debt amounting to $30 or upwards, shall be contracted by the mas­ter, owner, agent or consignee of any ship or vessel, within the state, for such provisions or stores furnished within the state, as may be fit and proper for the use of such vessel at the time when the same were furnished, such debt shall be a lien upon such ship or vessel, her tackle, apparel and furniture; and shall be preferred to all other liens there­on, except mariner’s wages.” Section 1. There is no dispute but that the demand of the libellant falls within the provisions of this act The controversy between the parties rests upon the question whether the privi­lege now exists, and can be enforced by this action. The second section of the same act provides that, “When the ship or vessel shall depart from the port at which she was when such debt was contracted, to some other port within this state, every such debt shall cease to be a lien, at the expiration of twelve days after the day of such departure, and in all cases such liens shall cease immediately after the vessel shall have left the state." The general bearing and intent of this limita­tion is sufficiently manifest. Whether the particular creditors enumerated in the stat­ute are given this privilege because they en­joy the same under the civil law and law maritime, — as was manifestly the design of the first' act in 1817 (1 Rev. Laws, 130, § 11),— or whether, because some of the credits at common law entitle the creditor to retain pos­session of the vessel until his debt is satis­fied, the legislature meant to place the others in the same class, and extend the advan­tages and privileges of a bailment (locatio operis faciendi) for a short term of time be­yond the continuance of the actual posses­sion, the language of the statute is plain and significant to denote that the running out of the limitation is to be an absolute bar to the remedy in rem. And it is further­more manifest that the departure of the ves­sel acts upon the right of the creditor as the surrender of possession does upon that of a bailee, without regard to the consideration of her return later or sooner to the place •where the debt was contracted. The posses­sion of a bailee, once waived or given up, cannot be reclaimed (Story, Bailm. 373), al­though the thing remain continually within his reach; and so this departure of the ves­sel, in the mode pointed out by the statute, severs the lien, and It can never afterwards be reclaimed. “It shall cease immediately (the act declares) after the vessel shall have left the state.” And this necessarily pre­supposes her return within the state, where the law might otherwise affect her. As, in this last clause of the section, the legisla­ture most clearly have reference to a tem­porary departure, and not a final one, the like language in the preceding number must be understood in the same sense. Twelve days after the day of the departure of a vessel from the port where the debt was con­tracted, to some other port within the state, as definitely and absolutely bars the lien against her as does her departure from the state. In so far, then, as the argument aims at an interpretation of the act which shall uphold the lien unless the vessel leaves the port without intent to return, it cannot be sustained.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="457" ORDERLABEL="455" TYPE="page">
+        <fptr FILEID="tiff_00229_0"/>
+        <fptr FILEID="jp2_00229_0"/>
+        <fptr FILEID="alto_00229_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_457.4" BETYPE="IDREF" FILEID="alto_00229_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="458" ORDERLABEL="456" TYPE="page">
+        <fptr FILEID="tiff_00229_1"/>
+        <fptr FILEID="jp2_00229_1"/>
+        <fptr FILEID="alto_00229_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_458.3" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b458-2" BETYPE="IDREF" FILEID="casebody_0262"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.4" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1sx" BETYPE="IDREF" FILEID="casebody_0262"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_458.5" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            <area BEGIN="BL_458.6" BETYPE="IDREF" FILEID="alto_00229_1"/>
+            <area BEGIN="BL_458.7" BETYPE="IDREF" FILEID="alto_00229_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-26" BETYPE="IDREF" FILEID="casebody_0262"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.39" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-28" BETYPE="IDREF" FILEID="casebody_0262"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.41" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-27" BETYPE="IDREF" FILEID="casebody_0262"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.40" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-35" BETYPE="IDREF" FILEID="casebody_0262"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.51" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-34" BETYPE="IDREF" FILEID="casebody_0262"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.48" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b457-25" BETYPE="IDREF" FILEID="casebody_0262"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.38" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Azhb" BETYPE="IDREF" FILEID="casebody_0262"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_457.42" BETYPE="IDREF" FILEID="alto_00229_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,442 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0092" publicationstatus="published">
+          <court abbreviation="E.D.N.Y." jurisdiction="United States">United States District Court for the Eastern District of New York</court>
+          <name abbreviation="The D. W. Vaughan">The D. W. VAUGHAN</name>
+          <docketnumber>Case No. 4,222</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 202</citation>
+          <citation category="parallel" type="bluebook">9 Ben. 26</citation>
+          <decisiondate>1877-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00102_1" MIMETYPE="image/tiff" CHECKSUM="2e3e5d45268d01497273997204b404d3" CHECKSUMTYPE="MD5" SIZE="55630">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00102_1.tif"/>
+      </file>
+      <file ID="tiff_00103_0" MIMETYPE="image/tiff" CHECKSUM="5d3550969470f38a4c590adeca0e4d0e" CHECKSUMTYPE="MD5" SIZE="101898">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00103_0.tif"/>
+      </file>
+      <file ID="tiff_00103_1" MIMETYPE="image/tiff" CHECKSUM="510ccfd9bfc130a07a3c71ff79226baf" CHECKSUMTYPE="MD5" SIZE="43012">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00103_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00102_1" MIMETYPE="image/jp2" CHECKSUM="852751f4efd538df71372477865a182b" CHECKSUMTYPE="MD5" SIZE="2289992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00102_1.jp2"/>
+      </file>
+      <file ID="jp2_00103_0" MIMETYPE="image/jp2" CHECKSUM="6da06c8d19184489b9a8619306f6fe69" CHECKSUMTYPE="MD5" SIZE="3669443">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00103_0.jp2"/>
+      </file>
+      <file ID="jp2_00103_1" MIMETYPE="image/jp2" CHECKSUM="b29937bc1de4bd98d9622be8c1e08301" CHECKSUMTYPE="MD5" SIZE="2287803">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00103_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00102_1" MIMETYPE="text/xml" CHECKSUM="a334a99dc14f3093c93c2c5aa6017158" CHECKSUMTYPE="MD5" SIZE="109515">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00102_1.xml"/>
+      </file>
+      <file ID="alto_00103_0" MIMETYPE="text/xml" CHECKSUM="e0af44b22ff0ea09a763ebbae8b61fed" CHECKSUMTYPE="MD5" SIZE="230295">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00103_0.xml"/>
+      </file>
+      <file ID="alto_00103_1" MIMETYPE="text/xml" CHECKSUM="4a5844a418931ee8109b0f3c870ecadb" CHECKSUMTYPE="MD5" SIZE="89489">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00103_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0092" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="204" firstpage="202">
+              <court id="b204-11" pgmap="204">District Court, E. D. New York.</court>
+              <docketnumber id="Adu" pgmap="204">Case No. 4,222.</docketnumber>
+              <citation id="b204-10" pgmap="204">[9 Ben. 26.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b204-9" pgmap="204">The D. W. VAUGHAN.</parties>
+              <decisiondate id="A88" pgmap="204">Jan., 1877.</decisiondate>
+              <attorneys id="b205-4" pgmap="205">John Chetwood, for the Steamship Co.</attorneys>
+              <attorneys id="b205-5" pgmap="205">D. &amp; T. McMahon, for the schooner.</attorneys>
+              <attorneys id="b205-6" pgmap="205">D. &amp; T. McMahon, for the master and crew.</attorneys>
+              <attorneys id="b205-7" pgmap="205">John J. Allen, for other libellants.</attorneys>
+              <footnote label="1">
+                <p id="b204-17" pgmap="204">1 [Reported by Robert D. Benedict, Esq., and Benj. Lincoln Benedict, Esq., and here reprint­ed by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b205-8" pgmap="205">BENEDICT, District Judge.</author>
+                <p id="AV6" pgmap="205">These three causes have been tried together. The first cause instituted was that of John T. Bragg, master of the steamship Queen, in behalf of himself and the owners of the Queen, to recover of the schooner D. W. Vaughan and her cargo a salvage compensation for services rendered in bringing that schooner into the port of New York in distress.</p>
+                <p id="b205-9" pgmap="205">To this libel the owners of the schooner made answer, admitting that a service had been rendered by the Queen to the Vaughan, but averring that the service was simply towage service and that no salvage service was performed. They also aver an offer to pay a liberal price for the towage service, and a refusal to accept by the owners of the Queen.</p>
+                <p id="b205-10" pgmap="205">The next libel is that of Alvarado Johnson, the master of the same schooner, who seeks to enforce against the vessel commanded by him a lien for moneys advanced by him for the use of the schooner upon the voyage broken up by the disaster. This demand consists of $80 paid for supplies bought for the vessel on commencing the voyage; of $106.40 paid to the seamen for wages earn­ed on the voyage, and for $50 paid by him for pumping the vessel after her arrival at the dock in charge of the salvors.</p>
+                <p id="b205-11" pgmap="205">The third libel is by the same Alvarado Johnson, in behalf of himself and the crew of the schooner, to recover of the schooner and her cargo for salvage services rendered by the master and the crew of the schooner, on the same occasion set forth in the libel of the steamer. The amount of this demand is $1,500.</p>
+                <p id="b205-12" pgmap="205">The schooner and her cargo having been seized by the marshal, under process issued in the first action, was thereafter sold under the order of the court and the proceeds are now in the registry, less certain sums, that, with the assent of all parties, have been paid to the holders of certain demands against the schooner. The proceeds of the schooner and cargo amounted to $2,818.50, of which there remains undisposed of the sum of $1,139.07.</p>
+                <p id="b205-13" pgmap="205">An extended examination of the facts proved by the evidence in support of the de­mand of the steamer for salvage is unneces­sary, as plainly enough a salvage service of great importance was rendered by which the schooner and her cargo was saved from total loss, to compensate which the remnant in court, subject to distribution to the sal-­vors, is no more than sufficient An effort was made to show that a deduction should be made from • what would otherwise be the proper reward to the salvors, because of a refusal on the part of the salvors to accept a fair offer or to make a proper adjustment of their demand without suit, and because of the loss occasioned to the owners of the salved property by reason of the proceedings taken to enforce the salvors’ claim. But I am unable to see any cause for just complaint in this respect The de­mand of the salvors was not exorbitant. They offered to leave it out to a third per­son, and they are not responsible for the incidental losses arising from the seizure and sale of the saved property.</p>
+                <p id="b205-16" pgmap="205">In regard to the claim of the master and crew of the schooner to be paid some $1,500 by way of salvage, because of their refusal to leave their vessel and to go on board the steamship, as was desired, and in working on board the schooner while she was in tow of the steamer, it need only be said that the master and crew did no more than their duty and cannot claim salvage therefor.</p>
+                <p id="b205-17" pgmap="205(318) 206(153)">The claim of the master of a lien upon liis vessel for the amount of certain ad­vances made by him at the outset of the voyage, assuming that such a lien exists, is not entitled to a priority in payment over the claims of the salvors. If by reason of a lien the master had an interest in this vessel, that interest was saved to him by the services of the salvors, and it became subject to a charge in their behalf. But it is contended that certain liens upon the vessel saved by the salvage service, which have been paid out of the proceeds of the saved property, should bear their proper pro­portion of the burden thereof, and that there must be an abatement from the sum to be paid the salvors out of the fund in court to the extent of the proportion of salvage chargeable upon these liens, be­cause the salvors assented to the payment of these liens without deducting anything for salvage, and thereby to that extent waived their right to salvage, and can now obtain from the fund remaining only that portion of their reward chargeable against the interest of the owners of the vessel ves­sel atter deducting the amount of the liens. But the assent of the salvors to the pay­ment, out of the fund in court, of demands against the vessel and her owners, conceded by the owners to be due and which the owners of the schooner consented should be paid out of the fund in court, was no waiver of any part of the claim of the sal-­vors. The demands so paid were due from the owners personally as well as from the schooner, and the payment thereof out of the proceeds of the vessel in court effeded a discharge of the owners from a personal liability to that amount. It was therefore solely in the interest of the owners of the vessel, that part of the proceeds of the ves­sel was applied to the payment of these debts, and it was for them, if they intended ■ever to contend that those debts should be charged with salvage, to see to it that such charge was made before payment By con­senting to the payment of these demands without deduction for salvage, the owners must be deemed to have admitted that such demands were not to be chargeable with any portion of the salvage, and having by the payment in full procured themselves to be relieved from personal liability to the hold­ers of those demands, they cannot be per­mitted now to say as against the salvors that those demands were subject to a de­duction for salvage which not having been made at the time must now be made from the salvors’ reward.</p>
+                <p id="b206-3" pgmap="206">As far as I can gather from the evidence, the master did actually pay $50 in money to persons engaged in pumping the vessel after her arrival in New York, partly at least before the marshal took charge. This $50 may be repaid him out of the fund as part of the expenses of preserving the property. He is not entitled to costs.</p>
+                <p id="b206-4" pgmap="206">There seems also to be another bill of $70 due John C. Baxter &amp; Go., which may be paid to them upon their making proof of the demand and that it is not paid. The remainder of the fund, less the fees of officer's of court, must be distributed to the libellants in the first entitled action.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="204" ORDERLABEL="202" TYPE="page">
+        <fptr FILEID="tiff_00102_1"/>
+        <fptr FILEID="jp2_00102_1"/>
+        <fptr FILEID="alto_00102_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_204.8" BETYPE="IDREF" FILEID="alto_00102_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="205" ORDERLABEL="203" TYPE="page">
+        <fptr FILEID="tiff_00103_0"/>
+        <fptr FILEID="jp2_00103_0"/>
+        <fptr FILEID="alto_00103_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_205.3" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="206" ORDERLABEL="204" TYPE="page">
+        <fptr FILEID="tiff_00103_1"/>
+        <fptr FILEID="jp2_00103_1"/>
+        <fptr FILEID="alto_00103_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_206.8" BETYPE="IDREF" FILEID="alto_00103_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-4" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.10" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-9" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.12" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-9" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.13" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-8" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.10" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-7" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.9" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-6" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.8" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-5" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.7" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-4" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.6" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A88" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.15" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AV6" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.11" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            <area BEGIN="BL_205.12" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-10" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.13" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-11" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.14" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b204-17" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.21" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b206-3" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_206.9" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adu" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_204.11" BETYPE="IDREF" FILEID="alto_00102_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-13" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.17" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            <area BEGIN="BL_205.18" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-12" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.16" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-11" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.15" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-10" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.14" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-17" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.20" BETYPE="IDREF" FILEID="alto_00103_0"/>
+            <area BEGIN="BL_206.5" BETYPE="IDREF" FILEID="alto_00103_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b205-16" BETYPE="IDREF" FILEID="casebody_0092"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_205.19" BETYPE="IDREF" FILEID="alto_00103_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,422 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0042" publicationstatus="published">
+          <court abbreviation="E.D. Va." jurisdiction="United States">United States District Court for the Eastern District of Virginia</court>
+          <name abbreviation="In re Dunn">In re DUNN</name>
+          <docketnumber>Case No. 4,172</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 93</citation>
+          <citation category="parallel" type="bluebook">2 Hughes, 169; 11 N. B. R. 270</citation>
+          <decisiondate>1877</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00048_0" MIMETYPE="image/tiff" CHECKSUM="9bd336e449fbcb80065229f6fb9181e8" CHECKSUMTYPE="MD5" SIZE="58822">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00048_0.tif"/>
+      </file>
+      <file ID="tiff_00048_1" MIMETYPE="image/tiff" CHECKSUM="6fd5b10662b7bb86d937bba492d265b1" CHECKSUMTYPE="MD5" SIZE="109746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00048_1.tif"/>
+      </file>
+      <file ID="tiff_00049_0" MIMETYPE="image/tiff" CHECKSUM="a2553dd3924ac75480d50fc0fca0b895" CHECKSUMTYPE="MD5" SIZE="114422">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00049_0.tif"/>
+      </file>
+      <file ID="tiff_00049_1" MIMETYPE="image/tiff" CHECKSUM="8271d6f11661cbb680b202e528f936a0" CHECKSUMTYPE="MD5" SIZE="67448">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00049_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00048_0" MIMETYPE="image/jp2" CHECKSUM="d6aed36569e1eabd8878cfc82b2fa63a" CHECKSUMTYPE="MD5" SIZE="2746350">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00048_0.jp2"/>
+      </file>
+      <file ID="jp2_00048_1" MIMETYPE="image/jp2" CHECKSUM="d9dbe40fcfc5fdb13517a7ce87a81d44" CHECKSUMTYPE="MD5" SIZE="3725873">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00048_1.jp2"/>
+      </file>
+      <file ID="jp2_00049_0" MIMETYPE="image/jp2" CHECKSUM="9e9dee2bef967960bfc4a676c501ba19" CHECKSUMTYPE="MD5" SIZE="3792510">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00049_0.jp2"/>
+      </file>
+      <file ID="jp2_00049_1" MIMETYPE="image/jp2" CHECKSUM="6105ebf6ff31656992a2f1420f89eeae" CHECKSUMTYPE="MD5" SIZE="2768119">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00049_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00048_0" MIMETYPE="text/xml" CHECKSUM="7dbf052b9896b1ef501fdb510c3023ba" CHECKSUMTYPE="MD5" SIZE="125357">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00048_0.xml"/>
+      </file>
+      <file ID="alto_00048_1" MIMETYPE="text/xml" CHECKSUM="a9e3310eddcb68bdf593c4e128eeb2ae" CHECKSUMTYPE="MD5" SIZE="232025">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00048_1.xml"/>
+      </file>
+      <file ID="alto_00049_0" MIMETYPE="text/xml" CHECKSUM="87baefd19823634b7b145fcfa34267cc" CHECKSUMTYPE="MD5" SIZE="244261">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00049_0.xml"/>
+      </file>
+      <file ID="alto_00049_1" MIMETYPE="text/xml" CHECKSUM="1878ee1417f6a1ca1f7a19a5ba46caf9" CHECKSUMTYPE="MD5" SIZE="142102">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00049_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0042" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="96" firstpage="93">
+              <court id="AjJ" pgmap="95">District Court, E. D. Virginia.</court>
+              <docketnumber id="b95-29" pgmap="95">Case No. 4,172.</docketnumber>
+              <citation id="b95-31" pgmap="95">[2 Hughes, 169;<footnotemark>1</footnotemark> 11 N. B. R. 270.]</citation>
+              <parties id="b95-30" pgmap="95">In re DUNN.</parties>
+              <decisiondate id="ATZ" pgmap="95">1877.</decisiondate>
+              <footnote label="1">
+                <p id="b95-39" pgmap="95">1 [Reported by Hon. Robert W. I-Iughes, Dis­trict Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b95-38" pgmap="95">HUGHES, District Judge.</author>
+                <p id="Alp" pgmap="95(84) 96(160)">The petition of this bankrupt, filed on the 9th day of Novem­ber, 1874, prays that the order for the sale of his real estate, free of liens, heretofore made, should be set aside on the ground that the said real estate had been exempted by this court, August 1st, 1873, as a homestead; and that the judgment liens, for the satisfac­tion of which the sale is ordered, were upon judgments obtained in the county court of Washington county, which were illegal, in­valid, false, and fraudulent The court holds that, inasmuch as some of the alleged judg­ments for large amounts have not been im­peached in the court which rendered them, or in the appellate courts of the state having jurisdiction to correct errors in said judg­ments, and inasmuch as this court is not competent to correct or annul proceedings in the state courts upon appeal or petition, and could not hear the allegations of this petition in any event except upon hill and answer in chancery, it cannot inquire into the allega­tions of the petition or restrain the said sale of real estate for any cause set forth in the same. Ordered, therefore, that the petition be dismissed with costs, with leave to the bankrupt, if and when he shall have taken steps in the proper forum of the state to set aside or reverse said judgments, to apply here for the proper injunction to stay pro­ceedings.</p>
+                <p id="b96-4" pgmap="96">Upon petition for the revision of a subse­quent order in this case, that order of the district court was affirmed by the chief jus­tice (April term, 1877) in the following de­cision:</p>
+                <author id="b96-5" pgmap="96">WAITE, Circuit Justice.</author>
+                <p id="AfoL" pgmap="96">The facts as pre­sented upon this petition are as follows: Wadsworth, Turner &amp; Co., the petitioners, recovered judgment at the March term, 18G0, of the county court of Washington county, Virginia, against Dunn, the bankrupt, for $393.58, with interest from October 5th, 1858, and costs $0.81, subject to a credit, Novem­ber 12th, 1858, of $275. This judgment was a lien upon certain lots in Abingdon, but as the judgment was not docketed in accord­ance with the requirements of the laws of Virginia, subsequent pan-chasers were not chargeable with notice of the lien. At the time of the rendition of this judgment, Dunn resided in Abingdon, but he afterwards re­moved to Prince Edward county, and, while residing there, was, in 1873, adjudicated a bankrupt upon his own petition by the dis­trict court for the eastern district of Vir­ginia. Wadsworth, Turner &amp; Co. are not named as creditors in his schedules, and. although residing in Richmond, did not, as they allege, have any actual knowledge of the proceedings in bankruptcy until late in August, 1875. If the requisite notices under the bankrupt law [of 1807 (14 Stat. 517)] were published, they did not attract their attention. In due course of proceeding an assignee was appointed, who applied to tne bankrupt court for leave to sell the lots in Abingdon, free from ineumbrances. A spe­cial commissioner was appointed to take an account of the liens, who, after full notice of the time and place of hearing, given ac­cording to law, reported two outstanding liens by judgment rendered in 1SGS, one in favor of Greenway's administrator, and the other in favor of Heiskell's trustee. No actual notice of this hearing was given to Wads-­worth, Turner it Co., and they did not appear before the commissioner to present their claims; neither did they except to the report. At a proper time after the filing of the report, the bankrupt court ordered a sale of the property in accordance with the request of the assignee, and it was subsequently sold to one Johnston, who paid one-third the pur­chase-money in hand, and gave two bonds for the residue. This sale was afterwards confirmed by the court, and an order entered that the proceeds be paid to the lien cred­itors as they had been reported by the com­missioner. Johnston was a creditor both of Greenway’s administrator and Heiskell’s trus­tee, for professional services rendered them respectively. Desiring to make his bonds, given for the purchase-money of the property, available in settlement of his claims, he peti­tioned the court to direct the assignee to as­sign the bonds to the lien creditors, which was done, with the consent of the creditors, August 10th, 1875. Pursuant to this order the requisite assignment was made to the cred­itors, and a conveyance of the lots executed to Johnston. August 30th, 1875, Wadsworth, Turner &amp; Co. made proof of their. claim against the estate of the bankrupt, claiming a lien upon the property under their judg­ment, and on the 7th of September filed their petition in the bankrupt court asking that they might be allowed to assert their lien, and that the assignee might be directed to pay the amount due them out of any money still in his hands, or if there should not be sufficient then remaining for that piupose, that the creditors to whom the bonds had been transferred might be required to return such sum as should be required to meet the deficiency. At this time the notes were still in the hands of the lien creditors, no adjustment of the accounts between them and Johnston having actually been made, though there was an agreement for the de­sired application.</p>
+                <p id="b96-7" pgmap="96">Upon the filing of this petition the court directed the assignee to refrain from dis­bursing the money in his hands, and John­ston from paying his bonds until further orders. The several lion creditors answered the petition, and, October 30th, the court ordered as follows:</p>
+                <blockquote id="b96-8" pgmap="96(127) 97(166)">“This cause came on this day again to be heard upon the papers formerly read, and was argued by counsel. Whereupon the court being of the opinion that the laches of Wadsworth, Turner &amp; Co. in not proving their claim in this proceeding, nor asserting their claim before Leonidas Baugh, who was appointed special commissioner to take an account of all liens binding upon the real es­tate of the bankrupt, of the taking of which account the said commissioner gave full no­tice according to law, and the said Wads-­worth, Turner &amp; Co. having also failed to docket their judgment as provided by the laws of Virginia, and thereby failed to make it binding upon subsequent inn-chasers with­out notice, and the said Wadsworth, Turner &amp; Co. haying failed to except to the report of "the said special commissioner for thirty days after its filing in this court; and the said re­port having heen confirmed, and a sale of •certain of the real estate having been made under it and that sale confirmed, and the purchaser of the same having hid for it on the faith that the two debts, one due to the •estate of John C. Greenway, deceased, and the other to AVilliam Iv. Heiskell, deceased, were of the highest dignity, all several months before the said Wadsworth, Turner •&amp; Co. filed their petition herein asserting their claim, therefore this court doth order that the assignee shall out of the proceeds ■of certain real estate sold by him in this cause first pay off the debts due the estates •of John C. Greenway and William K. Heis-­kell, deceased, and after that apply such of •the same as shall remain to the claims of Wadsworth, Turner &amp; Co.”</blockquote>
+                <p id="b97-4" pgmap="97">Th'e object of the present proceeding is to obtain a reversal of this order. For this .purpose a petition for review has been filed under the supervisory jurisdiction of this court, in which, besides stating the case as presented below, new facts and new grounds of relief are urged upon our consideration. No proof, however, has been submitted in ■support of these new allegations.</p>
+                <p id="b97-5" pgmap="97">The evidence submitted below has not been ■sent here. The parties are content to pre­sent the case upon the petition and answer filed there, and the findings of the district judge as embodied in his order. Nothing else can therefore be considered by us.</p>
+                <p id="b97-6" pgmap="97">Thepetitioners had a lien upon the property •sold, but it was a lien of which neither the assignee nor any other person was bound to take notice. A sale by the assignee to a purchaser without notice would pass the ti­■tle free from the incumbrance. Their right In the land was by the sale transferred to the purchase-money, and it could be enforced against the money so long as that remained undisposed of. The petitioners were not en­titled to consideration by the bankrupt court until they proved their judgment, and made known their interest in the property. This they could have done, but failed to do until the fund had been paid to others who had proved their debts and asserted their liens. Those creditors having been more diligent have protected themselves, unless the court is required, upon the showing made, to set aside its orders of distribution, and recall the fund which has been paid over in pursuance there­•of. The case is not different in principle from what it would have been if the pur­■chase-money had been collected in cash and 'then paid over. The creditors had the right to receive the bonds as cash, and the court was not required by law to retain them until maturity, and then collect the money for the .use of the creditors. The single question, therefore, presented for our consideration is, whether those creditors who have received their money in due course of proceeding are bound to restore it to the assignee for the benefit of the petitioners who had failed to present their claim in time to reach the fund while in court. We think they are not. If instead of being lien creditors, they had re­ceived the proceeds of the sale as general creditors on account of dividends duly de­clared and paid, it would hardly be contend­ed that the payment should be recalled for the benefit of a secret lienholder who had failed to present his claim in time to protect himself before the distribution. But in prin­ciple the claim of a lien creditor who secures the benefit of his lien, is not different from that of a general creditor who takes his share of the estate upon a proper order of distribution. So, too, if these junior lienhold-­ers had levied their executions upon the prop­erty before bankruptcy, and received the pro­ceeds of a sale duly made, the court from which the execution issued would not recall the purchase-money for the purpose of apply­ing it to the payment of the prior undocket-­ed judgment of the petitioners, in the ab­sence of proof of actual notice to the junior judgment creditors of the existence of the older lien. By their appearance in the bank­rupt court to assert their lien, these junior creditors have enforced their judgments against the property in the only way it could be done after the adjudication of bankrupt­cy, and it is difficult to see why they should not have the same protection in the bank­ruptcy suit that they would otherwise have had under their execution.</p>
+                <p id="b97-8" pgmap="97(256) 98(150)">There is certainly nothing in the case of the present petitioners to entitle them to spe­cial consideration. Their judgment was ob­tained thirteen years before the bankruptcy of their debtor. It does not appear that dur­ing all that time any attempt whatever was made to collect it, and the petitioners did not think their lien of sufficient importance to give notice of its existence in the manner re­quired by law. Eight years later other judg­ments were entered, which also became liens such as might, if enforced, appropriate the property to the exclusion of their claim. Their debtor went into bankruptcy and his property passed to an assignee without no­tice of their lien, who in due time instituted proceedings for its sale. All the usual pub­licity was given to what was done, and al­though the court in which the suit in bank­ruptcy was pending was held in Richmond, where the petitioners resided and transacted business, no notice was taken of it. and they utterly failed to appear and assert their claim until other and more diligent creditors had by due course of proceeding appropri­ated the fund to their own use. It is true that the bankrupt omitted their names in his schedule of creditors, and for that reason they were not personally served with the no­tices which the law prescribes in such cases, but they knew or ought to have known that they were creditors, and that to protect their lien, which they voluntarily permitted to re­main secret, they must be watchful of all their debtor’s movements in respect to the property covered by it If he had sold and conveyed the property to a bona fide purchas­er their lien would have been lost. The same would have been the case if the .iunior judg­ment creditors had sold the property under their judgments to a purchaser without no­tice. and had applied the purchase-money to their own use. Such is the effect of what has been done. Neither Johnston nor the credit­ors are shown to have had actual notice of the prior judgment and, therefore, Johnston’s title to the land, as well as the creditor’s ti­tle to the money, is complete and cannot be divested in favor of these less diligent peti­tioners. The order of the district court is affirmed, and an order to that effect may be prepared and entered.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="95" ORDERLABEL="93" TYPE="page">
+        <fptr FILEID="tiff_00048_0"/>
+        <fptr FILEID="jp2_00048_0"/>
+        <fptr FILEID="alto_00048_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_95.3" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="96" ORDERLABEL="94" TYPE="page">
+        <fptr FILEID="tiff_00048_1"/>
+        <fptr FILEID="jp2_00048_1"/>
+        <fptr FILEID="alto_00048_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_96.4" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="97" ORDERLABEL="95" TYPE="page">
+        <fptr FILEID="tiff_00049_0"/>
+        <fptr FILEID="jp2_00049_0"/>
+        <fptr FILEID="alto_00049_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_97.3" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="98" ORDERLABEL="96" TYPE="page">
+        <fptr FILEID="tiff_00049_1"/>
+        <fptr FILEID="jp2_00049_1"/>
+        <fptr FILEID="alto_00049_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_98.4" BETYPE="IDREF" FILEID="alto_00049_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.6" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.5" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-6" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.7" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            <area BEGIN="BL_97.8" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AfoL" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.7" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            <area BEGIN="BL_96.8" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            <area BEGIN="BL_96.9" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ATZ" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.44" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b97-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_97.9" BETYPE="IDREF" FILEID="alto_00049_0"/>
+            <area BEGIN="BL_98.1" BETYPE="IDREF" FILEID="alto_00049_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-8" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.11" BETYPE="IDREF" FILEID="alto_00048_1"/>
+            <area BEGIN="BL_97.1" BETYPE="IDREF" FILEID="alto_00049_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-29" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.40" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjJ" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.43" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-4" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.5" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-5" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.6" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b96-7" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_96.10" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-31" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.42" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-30" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.41" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-39" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.53" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b95-38" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.50" BETYPE="IDREF" FILEID="alto_00048_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Alp" BETYPE="IDREF" FILEID="casebody_0042"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_95.51" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            <area BEGIN="BL_95.52" BETYPE="IDREF" FILEID="alto_00048_0"/>
+            <area BEGIN="BL_96.1" BETYPE="IDREF" FILEID="alto_00048_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

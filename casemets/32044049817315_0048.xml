@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0048" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Iola">The IOLA. The SAMPSON</name>
+          <docketnumber>Case No. 7,057</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 84</citation>
+          <citation category="parallel" type="bluebook">11 N. Y. Leg. Obs. 263</citation>
+          <decisiondate>1853</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00043_1" MIMETYPE="image/tiff" CHECKSUM="eb879c8b68401c920171dd175eb751e5" CHECKSUMTYPE="MD5" SIZE="96512">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00043_1.tif"/>
+      </file>
+      <file ID="tiff_00044_0" MIMETYPE="image/tiff" CHECKSUM="e5ac22f55027e2b49604a6e58961259c" CHECKSUMTYPE="MD5" SIZE="112782">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00044_0.tif"/>
+      </file>
+      <file ID="tiff_00044_1" MIMETYPE="image/tiff" CHECKSUM="77bbc551dc3cdfaabaf225e609349a89" CHECKSUMTYPE="MD5" SIZE="114144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00044_1.tif"/>
+      </file>
+      <file ID="tiff_00045_0" MIMETYPE="image/tiff" CHECKSUM="d0bdbd2f74290662cabebf9dad0eef4f" CHECKSUMTYPE="MD5" SIZE="78370">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00045_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00043_1" MIMETYPE="image/jp2" CHECKSUM="2f64043e6c1cb3bf900ca72c63b3350b" CHECKSUMTYPE="MD5" SIZE="3500113">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00043_1.jp2"/>
+      </file>
+      <file ID="jp2_00044_0" MIMETYPE="image/jp2" CHECKSUM="fceea6c7dddada1649ec59ee71d40817" CHECKSUMTYPE="MD5" SIZE="3809499">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00044_0.jp2"/>
+      </file>
+      <file ID="jp2_00044_1" MIMETYPE="image/jp2" CHECKSUM="f403a7344a2460ee636da7ea356bf996" CHECKSUMTYPE="MD5" SIZE="3805032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00044_1.jp2"/>
+      </file>
+      <file ID="jp2_00045_0" MIMETYPE="image/jp2" CHECKSUM="cd6dba9f361c0ce3d712ba944ef65359" CHECKSUMTYPE="MD5" SIZE="3147236">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00045_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00043_1" MIMETYPE="text/xml" CHECKSUM="84b4bc2ec6fc7633bab3f4fbca3ae8f4" CHECKSUMTYPE="MD5" SIZE="204561">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00043_1.xml"/>
+      </file>
+      <file ID="alto_00044_0" MIMETYPE="text/xml" CHECKSUM="74c8c1b0ddcebbce097d5fb2e9d56f6e" CHECKSUMTYPE="MD5" SIZE="239074">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00044_0.xml"/>
+      </file>
+      <file ID="alto_00044_1" MIMETYPE="text/xml" CHECKSUM="61859b095ae4a63b3f13bb8c0252ad2d" CHECKSUMTYPE="MD5" SIZE="244240">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00044_1.xml"/>
+      </file>
+      <file ID="alto_00045_0" MIMETYPE="text/xml" CHECKSUM="020ecddf095ba3a20e552263352c7e9c" CHECKSUMTYPE="MD5" SIZE="166570">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00045_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0048" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="87" firstpage="84">
+              <court pgmap="86" id="b86-12">District Court, S. D. New York.</court>
+              <docketnumber pgmap="86" id="b86-8">Case No. 7,057.</docketnumber>
+              <citation pgmap="86" id="b86-11">[11 N. Y. Leg. Obs. 263.]</citation>
+              <parties pgmap="86" id="b86-9">The IOLA. The SAMPSON.</parties>
+              <decisiondate pgmap="86" id="Aoa">1853.<footnotemark>1</footnotemark>
+              </decisiondate>
+              <attorneys pgmap="86" id="b86-16">George D. Betts and Charles Donohue, for the Sampson.</attorneys>
+              <attorneys pgmap="86" id="b86-18">E. H. Owen, W. Evarts, and W. Q. Mor­ton, for the Iola,</attorneys>
+              <footnote label="1">
+                <p pgmap="86" id="b86-17">1 [Affirmed in Case No. 12,270.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="86" id="b86-19">HALL, District Judge.</author>
+                <p pgmap="86(503) 87(26)" id="AQY">On the 27th day of October, 1851, Isaac O. Phillips exhibited his libel in the case first above entitled, and claimed to recover damages to the amount of $75, alleged to have been sustained by the steam towboat Sampson (of which he was part owner) in a collision with the brig Iola; and also claiming salvage for taking the brig in tow after the collision, and tow­ing her to a place of safety at the Atlantic docks. This libel alleged, in substance, that on the 24th day of October, then current, the British brig Iola sailed from New York, bound to sea,. with a valuable cargo on board, and with a free wind, blowing fresh from a westerly direction; that while the brig was proceeding down the bay, towards Sandy Hook, the Sampson was lying to, off the Hook, waiting for business, and that, while they were so lying to, those on board the steamer discovered the brig approaching them very rapidly; that there was abun­dance of sea-room on each side the steamer, and that, if the brig had kept the course she was pursuing when first discovered, she would have gone clear of the steamer, but that, on approaching near to the steamer, the brig several times changed her course, and so frequently as to make it impossible for those in charge of the steamer to de­termine on which side of said steamer said brig intended to go; that when she had ap­proached very near to the steamer, and so near as to render it impossible for said steamboat to avoid said brig, she again shifted her course, and, although the steam­boat took every step in her power to avoid a collision, she was unable to do it, and the brig, notwithstanding the exertions of those on board the steamer, run into and across the bows of the steamboat, and damaged the steamboat to the amount of seventy-five dollars and upwards. The libel further al­leged that, owing to the unskilful naviga­tion of the brig, and the collision conse­quent thereon, she was cut down to the water’s edge, and was in a leaky and sink­ing condition, and that, if it had not been for the prompt assistance of the steamer, the brig and cargo would, undoubtedly, have been seriously damaged, if not totally lost; that the master and crew were about to abandon the brig, and launched their boat for that purpose; that the master of the steamer, on finding they were about to do so, took active and prompt measures for her rescue; that by his direction the leak was. partially stopped; and that he took com­mand of the brig, and by the use of the steamer towed her to a place of safety. The-­libel charged that the collision was caused solely by carelessness and unskilful man­agement on board the brig, and not by any carelessness or negligence of those on board, the steamer, and claimed to recover for the-­•damages to the steamer occasioned by the collision, and a salvage compensation for saving the brig and cargo, and taking them to a place of safety.</p>
+                <p pgmap="87" id="b87-4">The answer to this libel, filed by the own­ers of the brig, denied that the collision was occasioned by the carelessness or unskilful management of those on board the brig, and alleged that the collision was caused by the carelessness, negligence, and improper con­duct of those on board the steamboat It admitted that the brig was proceeding to sea, and that the steamer was lying to, with abundant sea-room on each side, as alleged in the libel, but denied that the brig changed her course several times, or in any man­ner, except to keep farther off from the steamer. And it expressly alleged that when the brig neared the steamboat the lat­ter suddenly and unexpectedly put her en­gines and wheels in motion, proceeded for­ward in a direction across the track of the brig, and came and continued on towards the brig (notwithstanding she was warned to stop or keep off), until she ran into the brig, and caused the damage in the libel mentioned; that if the steamer had contin­ued to lie to the brig would have passed her without a collision, and that the steamer might easily have avoided the collision, if any proper efforts for that purpose had been made. The answer also contained a full de­nial of all the material allegations in the libel upon which the salvage claim was founded. This answer was filed December 19, 1851.</p>
+                <p pgmap="87" id="b87-5">Before this answer was filed, the claimant and respondents in the first entitled suit had, on different days, from the 13th to the 26th of November, 1851, examined several wit­nesses on their behalf, and they had also, on the 1st day of December, 1851, filed their libel in the suit secondly above entitled, claiming to recover the damages sustained by the brig, in consequence of the collision. In the last-mentioned libel (which was sworn to by the captain of the brig), it was alleged (among other things) that the brig was standing east by south, with the wind fresh from the west-southwest, and the weather clear and fine, and that the steam­er was first discovered from the brig when about four miles distant; that the steamer was apparently lying to, her wheels not be­ing in motion, aDd that she was on the star­board bow; that the brig continued on her course (which is alleged in the libel, and is proved by the captain’s deposition, and the other proofs in the ease, to have been east by south), and running at the rate of about six miles an hour, until she approached within about a quarter of a mile of the steamboat, which was all the while lying still, her wheels not being in motion; that then, in order to give the steamboat a wider berth, and to avoid the possibility of a col­lision, the course of the brig was changed to east, which course, as well as the one the brig had been previously running, would have earned her entirely free and clear of the steamboat if she had remained still, or had not been improperly navigated; that after the course of the brig was changed to east, and within a few minutes after, the steamboat was put in motion, and proceeded in a northerly direction towards and across the track of the brig; that, supposing the steamer might wish to speak, the brig was kept on her course without deviation, and the steamboat continued to approach the brig without slackening her speed or altering her course; that the master of the brig, fearing a collision, gave the steamboat warning to back her wheels and keep off, which warn­ing was disregarded; that the steamboat did not stop her engines or slacken her speed, but continued her course, on seeing which the brig’s helm vas put hard up, and she went immediately off until her sails took by the lee; and that, in spite of the efforts of the brig to escape, the steamer ran with un­abated speed against the brig, striking her with great force and violence, and causing the injuries specially detailed in the libel. The usual and necessary allegations of care­lessness, &amp;c., were made against those man­aging the steamer, and the libel claimed damages to the amount of $3,000.</p>
+                <p pgmap="87" id="b87-7">The answer to this libel, sworn to by Isaac O. Phillips, the libellant in the first suit, was filed June 19, 1852, which, it will be perceiv­ed, was more than six months after the libel was exhibited, and still longer after most of the crew of the brig had been examined as witnesses in the first above entitled suit The respondent, therefore, doubtless knew, not only from the libel which he was an­swering, but also from the depositions al­ready taken, that the owners of the brig based their claim, in the suit brought by them, upon the allegations that the steamer had been put in motion, and had, on going ahead, by the propelling power of her en­gines and wheels, produced the collision. This answer was sworn to at New York, where the crew of the brig had been ex­amined, and near to which port the collision occurred; so that the respondent had every facility for ascertaining the facts, and mak­ing that full and frank disclosure of the causes of the collision which, under such circumstances, courts of admiralty require. The answer is long, and appears to have been drawn with skill, care, and delibera­tion. It takes issue upon many of the ma­terial allegations of the libel, and sets up, on information and belief, many facts and circumstances by way of defence. In re­spect to the causes of collision, and the cir­cumstances attending it, the answer was doubtless well considered, and should have been truthful and precise.</p>
+                <p pgmap="87(30) 88(760)" id="b87-8">In speaking of the movements of the two vessels, the answer (in the third article) avers that the course of tue brig, having been first yawing, was finally changed so as to bear for the steamboat, which was in motion, heading about north, and the brig’s head being continually changed, when near each other, shifted more and more across the steamboat’s bow; that had the brig kept on her course, or, even after having kept off, had then kept her course, she would have entirely cleared the steamboat, but from the conduct of those on board the brig, there being no lookout, and no person attending to such duty, no proper attention was paid to the brig’s heading. Again, the answer (in the fourth article) alleges “that the brig, be­ing headed and directed so as to head for the said steamboat, and endanger her by a col­lision, the wheels of said steamboat were put in motion to clear her, when the brig’s course was again altered, so much as to pay almost half round the compass, bringing her directly under the bows of” the steamboat, then in motion. The answer also admits that about the time of the collision the helm of the brig was put hard up, and that she went immediately off until her sails took by the lee, as alleged by the libellants, and then alleges that the truth is, as the re­spondents are informed and believe, “the master of said brig was incompetent and inexperienced, and when approaching said steamboat, instead of keeping his course, at­tempted to cross the steamboat's bows, and when they came near together, and when it was wholly out of the power of those navi­gating the steamboat to meet such a con­tingency, put his helm hard up, and so ran his vessel, she being under great headway, right across the stern of the said steamboat, striking said steamboat a violent blow on the forward guard and stern;” also, “that the said vessel had the wind dead or nearly dead aft, aud might with ease and safety have gone under the steamboat’s stern, but, from the acts of those on board the brig, it appears they did not know which way she was heading; that as soon as it appeared, from the acts of those on board the brig, that a collision was unavoidable, the wheels of said steamboat, as soon as it could be done, were stopped and reversed, and every effort made to avoid the collision.” In the sixth article of the answer, it is also charged upon the brig, that she “made an attempt to cross the steamboat's bows, and finally put her­self right across the steamboat’s track.” It can hardly be contended that this answer does not admit that the steamboat had been put in motion, heading and moving to the northward, before the wheels were backed (or “stopped and reversed.” in the language of the answer), and in this respect the libel and answer, and the witnesses for the libel-­lants, in the second or cross suit, substanti­ally agree. Nevertheless, the ground taken by the respondents at the trial, and in which they were sustained by the testimony of a part, at least, of their witnesses, was, that neither the steamboat nor the engine was put in motion at all, until they were backed as rapidly as possible, just prior to the col­lision, and for the sole puipose of averting it. The advocate for the libellants in the cross suit having, in the course of his argu­ment, relied upon the statements of the an­swer, the advocate for the respondents asked* that their answer might be amended, if the court should be of the opinion that it con­tained allegations and admissions inconsist­ent with the state of facts sworn to by the respondents’ witnesses. I can see no suffi­cient reason for allowing the answer to be amended in this respect. It was put in after the respondents had the fullest opportunity to ascertain the circumstances attending the collision, and they could not have been igno­rant of the fact that the owners of the brig claimed that the steamer had been put in motion, and had, while unaer headway, ran into the brig. There is no evidence that the statements which they wish to expunge were inserted in consequence of any mistake, or erroneous information, or of a misunder­standing of the information on which such statements were based; and besides, upon the whole evidence in the case, I am satis­fied that these statements, and the corre­sponding testimony of the witnesses pro­duced in behalf of the owners of the brig, are substantially correct.</p>
+                <p pgmap="88(297) 89(43)" id="A8t">It must be conceded that the evidence in the case is conflicting, and, in many respects, entirely irreconcilable. It is, however, proved by. the witnesses on both sides that the Sampson was lying to until the two vessels were within less than half a mile of each other; and the witnesses for both parties agree that her engine was afterwards put in motion, and her position changed, before the collision. The witnesses who were on board the steamer aver that she was backing from the time her engine was first put in motion; that she had a full head of steam on. and continued to back until after the collision occurred; and that she had backed five or six hundred feet before the vessels struck. On the other hand, the witnesses who were on board the brig declare that the steamer was suddenly put in motion aft­er they had approached quite near, and were intending to give her a wide berth; that her motion was forward, and not backward; and that she was going ahead under full steam until the moment of the collision. Some of them declare that they heard the backing bell of the steamer at or about the time of the collision, and that after it oc­curred the steamer backed off.- The testi­mony in respect to the relative positions of the two vessels before the steamer was put in motion, the appearance and extent of the in.iury to the hull of the brig, and the char­acter of the trifling injury sustained by the steamer, are, in my judgment, strongly cor­roborative of the witnesses who were on board the brig, and who state that the steam­er ran forward before the collision occurred. The weight of testimony (independent of the admissions in the answer) being clearly and decided^' with the libellants in the cross suit upon this point, and consistent with that portion of the answer which the respond­ents desire to expunge by an amendment, I cannot order the amendment asked for.</p>
+                <p pgmap="89" id="b89-4">Taking the pleadings and evidence into consideration, I am satisfied that the colli­sion would not have occurred if the steamer had remained at rest; and in my judgment there is a clear preponderance of testimony establishing the fact that the steamer was put in motion, and ran forward across the track of the brig, and thereby caused the collision. I am also inclined to think that the engine was “stopped and reversed,-’ as stated in the answer of the owners of the steamer, but that it was not done until short­ly before the collision, and when its only effect was to diminish the force of a colli­sion, which it was then too late wholly to avert. I cannot believe that the steamer had backed more than five hundred feet, and was still backing with a full head of steam at the moment of the collision; and this is the case attempted to be made in behalf of the steamer. But, if tliej' had proved their case as attempted, it would not have been free from difficulty, for the steamer, being in motion, and having changed its position some five hundred feet in a direc­tion crossing the course of the brig, was prima facie bound to take the necessary measures to avoid a collision; and I can find nothing in the circumstances of the case to excuse her from the discharge of that duty, or which can authorize the conclusion that there was any fault or mismanagement on the part of those navigating the brig, which could have contributed, in the slight­est degree, to the production of a collision. I therefore conclude that the collision was caused by the fault and mismanagement of those in charge of the steamer, and that the owners of the brig are entitled to a decree for the damages sustained by them m con­sequence of the collision. These conclusions render it unnecessary to examine other ques­tions raised in the two cases, and an order will be entered in the suit first above en­titled, dismissing the libel with costs. In the suit secondly above entitled, an order will be entered, declaring that the collision mentioned in the pleadings was caused by the negligence, mismanagement, and fault of those in charge of the Sampson; that the Sampson is therefore liable for the dam­ages which the owners of the Iola sustained thereby; and directing a reference to a com­missioner to ascertain and report the amount of such damages. Upon the coming in and confirmation of that report, the libellants in the second suit will be entitled to a de­cree for the damages reported, and their costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="86" ORDERLABEL="84" TYPE="page">
+        <fptr FILEID="tiff_00043_1"/>
+        <fptr FILEID="jp2_00043_1"/>
+        <fptr FILEID="alto_00043_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_86.4" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="87" ORDERLABEL="85" TYPE="page">
+        <fptr FILEID="tiff_00044_0"/>
+        <fptr FILEID="jp2_00044_0"/>
+        <fptr FILEID="alto_00044_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_87.3" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="88" ORDERLABEL="86" TYPE="page">
+        <fptr FILEID="tiff_00044_1"/>
+        <fptr FILEID="jp2_00044_1"/>
+        <fptr FILEID="alto_00044_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_88.5" BETYPE="IDREF" FILEID="alto_00044_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="89" ORDERLABEL="87" TYPE="page">
+        <fptr FILEID="tiff_00045_0"/>
+        <fptr FILEID="jp2_00045_0"/>
+        <fptr FILEID="alto_00045_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_89.7" BETYPE="IDREF" FILEID="alto_00045_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-7" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.8" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-5" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.6" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            <area BEGIN="BL_87.7" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-4" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.5" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b89-4" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_89.9" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8t" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_88.6" BETYPE="IDREF" FILEID="alto_00044_1"/>
+            <area BEGIN="BL_89.5" BETYPE="IDREF" FILEID="alto_00045_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b87-8" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_87.9" BETYPE="IDREF" FILEID="alto_00044_0"/>
+            <area BEGIN="BL_88.1" BETYPE="IDREF" FILEID="alto_00044_1"/>
+            <area BEGIN="BL_88.2" BETYPE="IDREF" FILEID="alto_00044_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-8" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.10" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-9" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.11" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            <area BEGIN="BL_86.12" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-12" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.14" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-11" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.13" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-16" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.20" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-17" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.21" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQY" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.24" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            <area BEGIN="BL_86.25" BETYPE="IDREF" FILEID="alto_00043_1"/>
+            <area BEGIN="BL_87.1" BETYPE="IDREF" FILEID="alto_00044_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-18" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.22" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b86-19" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.23" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aoa" BETYPE="IDREF" FILEID="casebody_0048"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_86.15" BETYPE="IDREF" FILEID="alto_00043_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

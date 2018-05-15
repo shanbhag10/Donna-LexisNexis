@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0556" publicationstatus="published">
+          <court abbreviation="C.C.D. Pa." jurisdiction="United States">United States Circuit Court for the District of Pennsylvania</court>
+          <name abbreviation="Joy v. Wurtz">JOY et al. v. WURTZ et al.</name>
+          <docketnumber>Case No. 7,555</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1174</citation>
+          <citation category="parallel" type="bluebook">2 Wash. C. C. 266</citation>
+          <decisiondate>1808-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00588_1" MIMETYPE="image/tiff" CHECKSUM="adc6a21a407393b754b46de397728a94" CHECKSUMTYPE="MD5" SIZE="61582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00588_1.tif"/>
+      </file>
+      <file ID="tiff_00589_0" MIMETYPE="image/tiff" CHECKSUM="26f3d966f4b73a0eb0d1952cfad2c37e" CHECKSUMTYPE="MD5" SIZE="80926">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00589_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00588_1" MIMETYPE="image/jp2" CHECKSUM="a2b577cf492c9c4e6499546a600e2546" CHECKSUMTYPE="MD5" SIZE="2552536">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00588_1.jp2"/>
+      </file>
+      <file ID="jp2_00589_0" MIMETYPE="image/jp2" CHECKSUM="5687bf0772d12db5212c41409820f4c0" CHECKSUMTYPE="MD5" SIZE="3056243">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00589_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00588_1" MIMETYPE="text/xml" CHECKSUM="54cf3224ac880af333fe13ab7cd9b074" CHECKSUMTYPE="MD5" SIZE="128920">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00588_1.xml"/>
+      </file>
+      <file ID="alto_00589_0" MIMETYPE="text/xml" CHECKSUM="44883c11f29b8270483f2d33e28ad36e" CHECKSUMTYPE="MD5" SIZE="172813">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00589_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0556" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1175" firstpage="1174">
+              <court pgmap="1176" id="b1176-8">Circuit Court, D. Pennsylvania.</court>
+              <docketnumber pgmap="1176" id="b1176-5">Case No. 7,555.</docketnumber>
+              <citation pgmap="1176" id="b1176-7">[2 Wash. C. C. 266.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1176" id="b1176-6">JOY et al. v. WURTZ et al.</parties>
+              <decisiondate pgmap="1176" id="A8Ln">Oct. Term. 1808.</decisiondate>
+              <judges pgmap="1176" id="Ax3S">(PETERS, District Judge, absent).</judges>
+              <footnote label="1">
+                <p pgmap="1176" id="b1176-14">1 [Originally published from the MSS. of Hon. Bushrod Washington, Associate Justice of the Supreme Court of the United Stat.es, under the supervision of Richard Peters. Jr., Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1176" id="b1176-17">WASHINGTON, Circuit Justice</author>
+                <p pgmap="1176" id="AWfA">I have considered this case with attention, with a view to dis­cover, if I could, any solid ground upon which to relieve the complainants: for it is clear, that the release to William Wurtz was given under a mistaken opinion, that the proceed­ings, then depending against Christopher Wurtz under the commission of bankruptcy, would render the instrument inoperative as to him. But if a misapprehension of the le­gal consequences of a release to one joint debtor, can furnish a sufficient reason for setting it aside, the principle from which such a consequence flows, would be of no other use than to send the releasor, in almost every instance, into a court of equity: for, I think it may safely be affirmed, that it can seldom happen that a creditor, who gives a re­lease to one of two joint co-obligors, without receiving full satisfaction, intends thereby to discharge the other; and whether the misap­prehension is of the legal effects of the re­lease by itself, or as dependent upon some other legal question which is also mistaken, the reason is the same. It is not pretended in this case, that any unfair practices were used by either of the joint debtors in order to procure this release; or that the complain­ants were ignorant of any facts material for them to know; or that a different kind of instrument was intended by the parties, or directed to be drawn, than the one which was actually executed. In such a case, I am avrare of no case in which equity has not followed the law.</p>
+                <p pgmap="1176(127) 1177(260)" id="b1176-18">The strongest cases cited for the complain­ants, are those from Vesey and Atkins: but in them, the court detected the mistake in the bonds, by referring to the nature of the orig­inal contracts, of which they were only the evidence, and by this test, the obligors were considered to be severally bound in equity, because they were so by the original contract of loan. It is upon the same principle, that if a settlement differ from the articles, or an instrument is drawn differently from the agreement of the parties, equity will look at the intention. But the principle of those cases is inapplicable to this, which is purely a question of law, attended by no circum­stance of fraud, and none of mistake, but Such as is common in similar releases, to warrant the interposition of a court of equity. Mistakes of this kind are not unfrequent, arid yet it is worthy of remark, that no instance has been furnished, in which chancery has relieved. There are, besides, circumstances which present this case in an unfavourable point of view for the complainants. It is now twenty years since all the estate of Christopher Wurtz, against whom relief is sought, was assigned to certain persons, in whom the right to dispose of it upon such terms as they might think proper, was com­pletely vested. It is true, that these sales, if any were made, would not conclude Chris­topher Wurtz, at least as to his real estate; but It is, perhaps, impossible at this day to calculate the injury which that defendant has sustained by an act, which, I am bound to say, violated the law of this state, and the rights of the individual. Can the complain­ants restore him to the situation in which he was, at the time the commission of bank­ruptcy was taken out, or at the time when' by the operation of the law, he was dis­charged from the debts due to the complain­ants? Can they furnish a plain and satisfac­tory rule, for estimating and compensating those injuries? And unless this can be done, I am at a loss to discover the principle upon which they can entitle themselves to the as­sistance of a court of equity. The bill must be dismissed with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1176" ORDERLABEL="1174" TYPE="page">
+        <fptr FILEID="tiff_00588_1"/>
+        <fptr FILEID="jp2_00588_1"/>
+        <fptr FILEID="alto_00588_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1176.4" BETYPE="IDREF" FILEID="alto_00588_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1177" ORDERLABEL="1175" TYPE="page">
+        <fptr FILEID="tiff_00589_0"/>
+        <fptr FILEID="jp2_00589_0"/>
+        <fptr FILEID="alto_00589_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1177.3" BETYPE="IDREF" FILEID="alto_00589_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1176-18" BETYPE="IDREF" FILEID="casebody_0556"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1176.26" BETYPE="IDREF" FILEID="alto_00588_1"/>
+            <area BEGIN="BL_1177.1" BETYPE="IDREF" FILEID="alto_00589_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1176-14" BETYPE="IDREF" FILEID="casebody_0556"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1176.18" BETYPE="IDREF" FILEID="alto_00588_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1176-17" BETYPE="IDREF" FILEID="casebody_0556"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1176.21" BETYPE="IDREF" FILEID="alto_00588_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWfA" BETYPE="IDREF" FILEID="casebody_0556"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1176.24" BETYPE="IDREF" FILEID="alto_00588_1"/>
+            <area BEGIN="BL_1176.25" BETYPE="IDREF" FILEID="alto_00588_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1176-8" BETYPE="IDREF" FILEID="casebody_0556"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1176.10" BETYPE="IDREF" FILEID="alto_00588_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1176-7" BETYPE="IDREF" FILEID="casebody_0556"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1176.9" BETYPE="IDREF" FILEID="alto_00588_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1176-6" BETYPE="IDREF" FILEID="casebody_0556"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1176.8" BETYPE="IDREF" FILEID="alto_00588_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1176-5" BETYPE="IDREF" FILEID="casebody_0556"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1176.7" BETYPE="IDREF" FILEID="alto_00588_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ax3S" BETYPE="IDREF" FILEID="casebody_0556"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1176.22" BETYPE="IDREF" FILEID="alto_00588_1"/>
+            <area BEGIN="BL_1176.23" BETYPE="IDREF" FILEID="alto_00588_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8Ln" BETYPE="IDREF" FILEID="casebody_0556"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1176.11" BETYPE="IDREF" FILEID="alto_00588_1"/>
+            <area BEGIN="BL_1176.12" BETYPE="IDREF" FILEID="alto_00588_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

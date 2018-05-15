@@ -1,0 +1,263 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0006" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="In re Independence Ins.">In re INDEPENDENCE INS. CO. Ex parte DERRY MILLS</name>
+          <docketnumber>Case No. 7,015</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 12</citation>
+          <citation category="parallel" type="bluebook">7 Am. Law Rev. (1872) 573</citation>
+          <decisiondate>1855</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:25Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00007_1" MIMETYPE="image/tiff" CHECKSUM="5ab51ef1e9208758aee7f6a132a05d58" CHECKSUMTYPE="MD5" SIZE="88952">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00007_1.tif"/>
+      </file>
+      <file ID="tiff_00008_0" MIMETYPE="image/tiff" CHECKSUM="7b0ab25e59ce30a69018778ea0339a49" CHECKSUMTYPE="MD5" SIZE="77320">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00008_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00007_1" MIMETYPE="image/jp2" CHECKSUM="22208fe415a4abc966dd9f2dbe6589f0" CHECKSUMTYPE="MD5" SIZE="3330178">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00007_1.jp2"/>
+      </file>
+      <file ID="jp2_00008_0" MIMETYPE="image/jp2" CHECKSUM="033a6e106d88b7cec5f42e7f60826e51" CHECKSUMTYPE="MD5" SIZE="3141540">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00008_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00007_1" MIMETYPE="text/xml" CHECKSUM="3fcbf7174e6aef348f228d0629357647" CHECKSUMTYPE="MD5" SIZE="190199">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00007_1.xml"/>
+      </file>
+      <file ID="alto_00008_0" MIMETYPE="text/xml" CHECKSUM="000a30dd602fedc1c8e519bbd6800c7c" CHECKSUMTYPE="MD5" SIZE="167274">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00008_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0006" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="13" firstpage="12">
+              <court pgmap="14" id="b14-14">District Court, D. Massachusetts.</court>
+              <docketnumber pgmap="14" id="b14-10">Case No. 7,015.</docketnumber>
+              <citation pgmap="14" id="b14-13">[7 Am. Law Rev. (1872) 573.]</citation>
+              <parties pgmap="14" id="b14-11">In re INDEPENDENCE INS. CO. Ex parte DERRY MILLS.</parties>
+              <judges pgmap="14" id="b14-18">Before LOWELL, District Judge.</judges>
+              <opinion type="majority">
+                <p pgmap="14" id="A_c">Petition for the allowance of a claim for a return premium. The Derry Mills held three policies issued by the Independence Insur­ance Company, each for one year. They sur­rendered the policies during the year and be­fore thebankraptcy of the company. The poli­cies contained a stipulation that the insured might surrender them at any time, and that thereupon the company should retain the customary short time rates of premium for each month entered upon before the surren­der. It was proved that a tariff of premi­ums known as short time rates was in gen­eral use in Boston, which fixed the amount to be paid for any time short of a year at a certain proportion of the yearly premium, For instance, the charge for one month was twenty per cent of a yearly premium, for two months thirty per cent, and so on up to eleven months, which was ninety-five per cent. Two of these policies had been for eight months and twelve days, and the third for five months and eleven days before they were surrendered. The insured had proved a claim for a return premium reckoned on a basis of simple proportion of time, charging themselves with so much premium as the time their policies had run bore to the whole year.</p>
+                <p pgmap="14(31) 15(123)" id="A1_">The question now was whether this claim should stand in full or be diminished. The judge held that the meaning of the stipnla­tion was that if the insured surrendered his policy during tlie year he should allow the company to retain such premium as should have been payable according to the above-­mentioned tariff, if he had originally insured for the time during which he had actually been insured, counting a month which had been begun as a whole month. Thus, on two of the policies he must allow the short time rate for nine months, and in the other, the rate according to that table, for six months, and that he might move for the difference between the sum thus ascertained • and the amount of premiums originally paid by him in advance. By this calculation it appeared that the debt originally proved by the Derry Mills must be diminished about one-half.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="14" ORDERLABEL="12" TYPE="page">
+        <fptr FILEID="tiff_00007_1"/>
+        <fptr FILEID="jp2_00007_1"/>
+        <fptr FILEID="alto_00007_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_14.7" BETYPE="IDREF" FILEID="alto_00007_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="15" ORDERLABEL="13" TYPE="page">
+        <fptr FILEID="tiff_00008_0"/>
+        <fptr FILEID="jp2_00008_0"/>
+        <fptr FILEID="alto_00008_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_15.3" BETYPE="IDREF" FILEID="alto_00008_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-18" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.20" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1_" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.22" BETYPE="IDREF" FILEID="alto_00007_1"/>
+            <area BEGIN="BL_15.1" BETYPE="IDREF" FILEID="alto_00008_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-11" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.13" BETYPE="IDREF" FILEID="alto_00007_1"/>
+            <area BEGIN="BL_14.14" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-10" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.12" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-13" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.15" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_c" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.21" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b14-14" BETYPE="IDREF" FILEID="casebody_0006"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_14.16" BETYPE="IDREF" FILEID="alto_00007_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

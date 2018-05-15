@@ -1,0 +1,331 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0105" publicationstatus="published">
+          <court abbreviation="D. Conn." jurisdiction="United States">United States District Court for the District of Connecticut</court>
+          <name abbreviation="Ex parte Ives">Ex parte IVES</name>
+          <docketnumber>Case No. 7,114</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 179</citation>
+          <citation category="parallel" type="bluebook">1 Int. Rev. Rec. 145</citation>
+          <decisiondate>1865-04-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00091_0" MIMETYPE="image/tiff" CHECKSUM="fa4a05d0ce80bc6bb42b2ce3de3e074b" CHECKSUMTYPE="MD5" SIZE="103564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00091_0.tif"/>
+      </file>
+      <file ID="tiff_00091_1" MIMETYPE="image/tiff" CHECKSUM="a361e88793081d37338dead0b8561fce" CHECKSUMTYPE="MD5" SIZE="119478">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00091_1.tif"/>
+      </file>
+      <file ID="tiff_00092_0" MIMETYPE="image/tiff" CHECKSUM="20f96d4f4dfe634cfd373b8731212d5a" CHECKSUMTYPE="MD5" SIZE="100014">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00092_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00091_0" MIMETYPE="image/jp2" CHECKSUM="bc1161d021bafebee543f757d3a7384c" CHECKSUMTYPE="MD5" SIZE="3579746">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00091_0.jp2"/>
+      </file>
+      <file ID="jp2_00091_1" MIMETYPE="image/jp2" CHECKSUM="4b6101c02a3d27e24b07ffff2ec4a8f1" CHECKSUMTYPE="MD5" SIZE="3840994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00091_1.jp2"/>
+      </file>
+      <file ID="jp2_00092_0" MIMETYPE="image/jp2" CHECKSUM="5ef3fb4c03b9cf3a7cbd60e631786bb6" CHECKSUMTYPE="MD5" SIZE="3511755">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00092_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00091_0" MIMETYPE="text/xml" CHECKSUM="e8625a77442d379116054e592490e941" CHECKSUMTYPE="MD5" SIZE="225704">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00091_0.xml"/>
+      </file>
+      <file ID="alto_00091_1" MIMETYPE="text/xml" CHECKSUM="a253c9647bb4998511520054625b0f07" CHECKSUMTYPE="MD5" SIZE="247597">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00091_1.xml"/>
+      </file>
+      <file ID="alto_00092_0" MIMETYPE="text/xml" CHECKSUM="318c645534ba4b8057a94425537e1f31" CHECKSUMTYPE="MD5" SIZE="213130">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00092_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0105" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="181" firstpage="179">
+              <court pgmap="181" id="b181-9">District Court, D. Connecticut.</court>
+              <docketnumber pgmap="181" id="b181-6">Case No. 7,114.</docketnumber>
+              <citation pgmap="181" id="b181-8">[1 Int. Rev. Rec. 145.]</citation>
+              <parties pgmap="181" id="b181-7">Ex parte IVES.</parties>
+              <decisiondate pgmap="181" id="A43">April 3, 1865.</decisiondate>
+              <opinion type="majority">
+                <author pgmap="181" id="b181-13">SHIPMAN, District Judge.</author>
+                <p pgmap="181" id="A5i">The assessor above named having applied to the under­signed for an attachment against Lawson C. Ives, on grounds which appear in said ap­plication, and which will be more particular­ly referred to in this opinion hereafter, a summons was issued in conformity to said application, and the said Ives duly appeared before the undersigned in obedience thereto. In due course, the matters involved in said application, and counsel for the United States and said respondent, were heard. The appli­cation to the undersigned to enforce upon the respondent a compliance with the require­ments of the assessor in this case, is found­ed upon the 14th section of the internal rev­enue act. which provides, among other things, that, in case any person who has been sum­moned before the assessor to give testimony or answer interrogatories touching his in­come, shall neglect or refuse to give testi­mony or answer interrogatories as required, it shall be lawful for the assessor, upon af­fidavit proving the fact, to apply to the judge of the district court or a commissioner, au­thorized to perform the duty of such judge at chambers, for an attachment against such person as for a contempt. It shall be the duty of such judge or commissioner to hear such application, and, if satisfactory proof be made, to issue an attachment directed to some proper officer for the arrest of such per­son; and upon his being brought before him, to proceed to a hearing of the case, and upon such hearing the judge or commissioner shall have power to make such orders as he shall deem necessary to enforce obedience to the requirements of said summons, and punish such person for his default or dis­obedience.</p>
+                <p pgmap="181(6) 182(67)" id="b181-14">Passing over the very grave question, whether congress has the power to confer such an extraordinary authority, not on a court, hut on a single magistrate, a power to punish summarily, and with no limit ex­cept his discretion, any person who may fail to comply with the requirements of an­other officer, it is very plain that such a power should not be exercised, except in a case admitting of no doubt.</p>
+                <p pgmap="182" id="b182-3">The case stated by the assessor is, that the respondent is a stockholder in the Williman-­tie Linen Company, a corporation located in the First collection district of this state. That said corporation, in 1863, “earned a large amount of money, which, although not divided to the stockholders of said company, is in the hands of said company, and no part thereof was returned by said Ives as a part of his income.” That said Ives, on being summoned before said assessor, “declined and refused to answer the following inter­rogatories, to wit — the amount of stock own­ed by said Ives in said company, the propor­tion which his- said stock bears to the whole stock of said company, and the amount of earnings of said company undivided as afore­said; which interrogatories were propound­ed for the purpose and with the intention of adding a like proportion of said earnings to the list of said Ives, • as a part of his taxable income for the year 1863, as required by section 117 of the act of June 30, 1864 [13 Stat 227].” The clause of the act relied on by the» assessor, in support of this pro­ceeding, reads as follows: “And the gains and profits of all companies, whether incor­porated or partnership, other than companies specified in this section [117], shall be in­cluded in estimating the annual gains, prof­its, or income of any person entitled to the same, whether divided or otherwise.” There is no allegation in the papers upon which this motion is founded, that the respondent Ives was entitled to any portion of the gains or profits of the Willimantic Linen Company, but this was doubtless an oversight. He is, however, alleged to be a stockholder in said company, and, for the purposes of this case, I will regard that as equivalent to an alle­gation that he was entitled to share in the profits of said company. The answer of the respondent admits that said company have earned some money which has never been divided, but avers that neither he nor any other stockholder is entitled to draw or make ■any use whatever of the same. The answer also avers, that the corporation having the exclusive control of said earnings are using them in enlarging their works, not for the purpose of defrauding the United States of revenue, but in such a manner as will in­crease such revenue hereafter. The answer further alleges that when such expenditure, now in progress, is completed, a stock divi­dend is to be declared to the stockholders.</p>
+                <p pgmap="182(559) 183(446)" id="b182-4">The material question to be determined is whether, under the circumstances, stockhold­ers of the Willimantic Linen Co. are entitled to the undivided earnings referred to, and therefore bound to return, as a part of their private income lists, .sums in proportion to the shares of stock they may own. The answer to this question must depend upon a construction of the clause of the act relied on. In fixing this construction, reference must be had to the object congress had in view, and to the settled principles of law ap­plicable to the relations subsisting between corporations and their stockholders. The object of congress, in the 116th to the 123d sections of the act inclusive, was to raise a revenue out of the gains, or profits, exceed­ing six hundred dollars, coming into the hands of individuals, or to which they might be entitled. Though a portion or all- of such profits might be in debts due to the person assessed, or rights of property, yet his title-­thereto being complete, subject to his own disposal or control, they would be fairly within the meaning of the term “income.” The language of the act, although broad, is still generally explicit and guarded. In the-­very -clause of the 117th section relied on by the assessor in this case, no gains or profits-­of corporations are to be assessed against the stockholders, unless they are entitled to-­the same. The assessor, however, construes the clause as if it read, that each stockhold­er should pay an income tax on the gains of the corporation, of which he should be a stockholder, in proportion to the amount of stock he might own. If this had been the intention of congress, nothing would have-­been more easy and natural than to have-­said so in so many words, though in that case compliance with the law would have-­been very embarrassing to the taxpayer, for it would often be very difficult for an indi­vidual stockholder to determine what the-­profits of a corporation for a year just closed had been. But the framers of the law were-­careful to extend the obligation of persons-­to add to their income list, only to such gains and profits as they might be entitled to. The inquiry arises, to what gains and profits is-­an individual stockholder entitled, in any particular year? The settled rules of -law answer this question. He is entitled to his proportion of such part of the profits as the directors or the trustees deem it wise and prudent to set apart for the stockholders. The balance, the directors have a right to hold as a part of the corporate fund'. In many instances, they would be bound so to hold it Suppose a person holds stock in a corporation for a series of years, and during the first half of the time the company is los­ing money, and incurring debts, while during the latter part of the time it is making gains and profits. The obvious duty of the direct­ors is to discharge the debts of the company, incurred during the first half of the time, by the profits accruing during the latter half. These profits belong to the corporation, and through it to the creditors. The latter, and not the stockholders, are “entitled to the same," both in law and equity. Not only has the stockholder no power to enforce a claim to these profits, but the directors, where the debts exceed the clear value of the corporate funds, have no right to allow the stockholder a dollar from the profits. The very act of incorporation of the Willimantic Linen Company provides that the directors shall be personally liable for the debts of the company, if they declare and pay a dividend under such circumstances. The application of the act must be uniform, and apply as well to the stockholders of insolvent as sol­vent corporations, to those in debt as well as those with a surplus. It is a perfectly well-­known fact in the history of business, that corporations continue to exist for years while they are in point of fact insolvent, notwith­standing they may, during some portion of the time, make large profit. This is one of the vicissitudes of pecuniary transactions. Stockholders may own the stock for a long period of years, and never receive a dollar of income from it. Is it to be supposed that congress intended to compel individuals to pay an income tax upon what they not only never receive, ■ but never can have the power •to collect? Surely a man cannot in any legal sense b^ said to be “entitled” to that which he neither receives nor has a right to receive. As has already been said, the object of the clauses of the law laying income tax was to collect of individuals a portion of their year­ly receipts, whether in actual money or debts •or rights of property which may be turned into money. The law guards those of small means, by excepting six hundred dollars of income from taxation. But if one of such should happen to hold stock in an embar­rassed corporation which was making annual gains and appropriating them to the payment ■of its own debts-, his condition would be dis­mal, indeed, if he were to be taxed on any considerable amount of such income. Nor is it a valid answer to say that the stock thus held is increasing in value; for, in the first place, the object of congress in laying the income tax was not to raise revenue, by tax­ing estates according to their value but to ap­propriate a portion of every one’s net annual receipts and gains. In the second place, anyone acquainted with the history of cor­porations largely indebted is well aware that the market value of the stock often remains for a long time unaffected by a discharge of a portion of its obligations.</p>
+                <p pgmap="183" id="b183-3">It may be said that the answer of the re­spondent in this case impliedly admits that the earnings of the linen company are sur­plus earnings over and above all indebted­ness. This suggestion cannot vary the case. As already remarked, the application of the act must be uniform as to all corporations, whatever their pecuniary condition.- The stockholders of a corporation have-no individ­ual control over the surplus corporate funds, beyond the power to prevent, by the aid of the courts, the appropriation of the funds to objects foreign to the charter. They are not, as individuals, in any legal or com­mercial sense entitled to the surplus funds. No stockholder can, by his individual act, separate his supposed portion of the surplus from his stock, and transfer the title thereof to another, nor sue and recover it from the corporation. This .surplus, for reasons of the highest commercial policy is left to the con­trol of the corporation, as administered by its directors for the time being, acting with­in the bounds of a reasonable discretion sub­ject to .the charter of the corporation itself. This rule is of the highest importance to the community', when such vast interests are committed to the control of these artificial persons. The appropriation of a portion or all of the profits of a corporation for a given year to the repair or enlargement of build­ings, or to some other purpose strictly with­in the corporate powers, may be of vital importance to all concerned, and therefore the law commits the care of the corporate funds to the directors or trustees, or to the stockholders exercising their corporate func­tions, and not to the stockholders, in their individual capacity. The latter cannot there­fore be said to be entitled to gains and prof­its, which the corporation itself has not set apart for division, but has appropriated to other lawful objects. The act of congress in question recognizes the soundness of this well-known law relating to corporations and stockholders, and requires the taxpayer to include no gains or profits of a corporation of which he may be a member, in his income list, unless he is “entitled to the same.” In this view of the case it follows that the re­spondent Ives was not in any sense known to the law entitled to any portion of the undivided earnings of the Willimantic Linen Company, and was not bound to include it in his income return. For these reasons this motion is dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="181" ORDERLABEL="179" TYPE="page">
+        <fptr FILEID="tiff_00091_0"/>
+        <fptr FILEID="jp2_00091_0"/>
+        <fptr FILEID="alto_00091_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_181.4" BETYPE="IDREF" FILEID="alto_00091_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="182" ORDERLABEL="180" TYPE="page">
+        <fptr FILEID="tiff_00091_1"/>
+        <fptr FILEID="jp2_00091_1"/>
+        <fptr FILEID="alto_00091_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_182.4" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="183" ORDERLABEL="181" TYPE="page">
+        <fptr FILEID="tiff_00092_0"/>
+        <fptr FILEID="jp2_00092_0"/>
+        <fptr FILEID="alto_00092_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_183.3" BETYPE="IDREF" FILEID="alto_00092_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b183-3" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_183.5" BETYPE="IDREF" FILEID="alto_00092_0"/>
+            <area BEGIN="BL_183.6" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-6" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.8" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-9" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.11" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-8" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.10" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-7" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.9" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-14" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.19" BETYPE="IDREF" FILEID="alto_00091_0"/>
+            <area BEGIN="BL_182.1" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b181-13" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.16" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A43" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.12" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-4" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.6" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            <area BEGIN="BL_182.7" BETYPE="IDREF" FILEID="alto_00091_1"/>
+            <area BEGIN="BL_183.1" BETYPE="IDREF" FILEID="alto_00092_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5i" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_181.17" BETYPE="IDREF" FILEID="alto_00091_0"/>
+            <area BEGIN="BL_181.18" BETYPE="IDREF" FILEID="alto_00091_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b182-3" BETYPE="IDREF" FILEID="casebody_0105"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_182.5" BETYPE="IDREF" FILEID="alto_00091_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

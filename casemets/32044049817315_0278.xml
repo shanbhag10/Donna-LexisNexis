@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0278" publicationstatus="published">
+          <court abbreviation="D. Me." jurisdiction="United States">United States District Court for the District of Maine</court>
+          <name abbreviation="Jenks v. Lewis">JENKS v. LEWIS et al.</name>
+          <docketnumber>Case No. 7,280</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 539</citation>
+          <citation category="parallel" type="bluebook">1 Ware (51) 43</citation>
+          <decisiondate>1824-11-16</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00271_0" MIMETYPE="image/tiff" CHECKSUM="032cd93edc4ab6cf57b2eca0fab7708c" CHECKSUMTYPE="MD5" SIZE="72252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00271_0.tif"/>
+      </file>
+      <file ID="tiff_00271_1" MIMETYPE="image/tiff" CHECKSUM="61331d023050545c694b9c6361a5d73c" CHECKSUMTYPE="MD5" SIZE="83622">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00271_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00271_0" MIMETYPE="image/jp2" CHECKSUM="9b2115adb72a1a55b00042a8264c6a85" CHECKSUMTYPE="MD5" SIZE="3169979">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00271_0.jp2"/>
+      </file>
+      <file ID="jp2_00271_1" MIMETYPE="image/jp2" CHECKSUM="96ec74e851aa8f90dbcd23e204635137" CHECKSUMTYPE="MD5" SIZE="3155688">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00271_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00271_0" MIMETYPE="text/xml" CHECKSUM="d7b7de8af5d41ba239eeb767f860713b" CHECKSUMTYPE="MD5" SIZE="160193">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00271_0.xml"/>
+      </file>
+      <file ID="alto_00271_1" MIMETYPE="text/xml" CHECKSUM="8adc3ca76da94d86c9194497f357ede4" CHECKSUMTYPE="MD5" SIZE="177616">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00271_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0278" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="540" firstpage="539">
+              <court pgmap="541" id="b541-23">District Court, D. Maine.</court>
+              <docketnumber pgmap="541" id="b541-20">Case No. 7,280.</docketnumber>
+              <citation pgmap="541" id="b541-22">[1 Ware (51) 43.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="541" id="b541-21">JENKS v. LEWIS et al.</parties>
+              <decisiondate pgmap="541" id="Apy">Nov. 16, 1824.</decisiondate>
+              <attorneys pgmap="541" id="b541-29">C. S. Daveis, for libellant.</attorneys>
+              <attorneys pgmap="541" id="b541-30">Fessenden and Deblois, for respondents.</attorneys>
+              <footnote label="1">
+                <p pgmap="541" id="b541-32">1 [Reported by Hon. Ashur Ware, District Judge.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="541" id="b541-31">WARE, District Judge.</author>
+                <p pgmap="541(27) 542(332)" id="A_Es">This is a libel by the cook against the master and mate of the brig Abeona, for combining to oppress and ill-treat the libellant, and various instances of assaults and other ill-usage are specified in the libel, both by the master and the mate. Upon an examination of the witnesses, it ap­pears that every instance of assault com­plained of, was committed either by the master alone, or by the mate alone. No case was proved in which they were jointly concerned; and there is a total failure of direct evidence of any concert, agreement, or understanding between the respondents to harass or ill-treat the libellant; nor does a presumption of any considerable force arise in favor of the fact, from the whole series of torts. Each particular case was preceded by some real or imaginary prov­ocation which was sufficient to account for the assault, if not to justify it, without recurring to any supposed understanding and concert between the officers, with a view to the general oppression or ill-treat' ment of the man. Now it is inconsistent with every principle of correct reasoning, when an adequate cause is shown, to at­tribute an effect to a different cause, which is unsupported by proof. The libel, there­fore, considered as an action for a combina­tion in the nature of a conspiracy, fails for want of proof. The counsel for the libel-­lant then contends that it may be supported as an action for a joint assault. The objec­tion to this is, that the libel, in its original structure, is not framed as for a joint as­sault. Several of the specifications are of assaults when only one of the respondents was on board the vessel, and there can be no pretence for charging this as the tort of the party absent, unless there is proof of a previous concert and understanding be­tween the two, that is, unless the combina­tion is first proved. The allegation of a combination therefore becomes a substan­tive allegation indispensable to the admis­sion of the testimony in support of the greater part of the matter of the libel.</p>
+                <p pgmap="542" id="b542-3">The rules of pleading in the admiralty do not require all the technical precision and accuracy which is necessary in the practice of the courts of common law. But they re­quire that the cause of action should be plainly and explicitly set forth, not in any particular and sacramental formula, but in clear and intelligible language, so that the adverse party may understand what is the precise charge which he is required to an­swer, and mate up an issue directly upon the charge. The evidence must be confined to the matters put in issue by the parties, and the decree must follow the allegations and proofs. The main allegation in this case, and that which gives unity to the libel, is a combina­tion to oppress and ill-treat the libellant. It is the gravamen of the cause, and strictly no evidence is admissible unless it tend to prove this allegation. The libel might be amend­ed so as to assume the form of a libel for a joint assault. But the evidence will not support such a libel. Every instance speci­fied and proved is a separate assault either of the master or mate, and entirely discon­nected, in every view, from all the others. My opinion is, upon the whole, that the present libel cannot be sustained, and must be dismissed, but it is dismissed without costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="541" ORDERLABEL="539" TYPE="page">
+        <fptr FILEID="tiff_00271_0"/>
+        <fptr FILEID="jp2_00271_0"/>
+        <fptr FILEID="alto_00271_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_541.4" BETYPE="IDREF" FILEID="alto_00271_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="542" ORDERLABEL="540" TYPE="page">
+        <fptr FILEID="tiff_00271_1"/>
+        <fptr FILEID="jp2_00271_1"/>
+        <fptr FILEID="alto_00271_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_542.9" BETYPE="IDREF" FILEID="alto_00271_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-22" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.27" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-23" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.28" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-20" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.25" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-21" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.26" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b542-3" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_542.6" BETYPE="IDREF" FILEID="alto_00271_1"/>
+            <area BEGIN="BL_542.7" BETYPE="IDREF" FILEID="alto_00271_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Apy" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.29" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-29" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.35" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-32" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.40" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_Es" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.38" BETYPE="IDREF" FILEID="alto_00271_0"/>
+            <area BEGIN="BL_541.39" BETYPE="IDREF" FILEID="alto_00271_0"/>
+            <area BEGIN="BL_542.4" BETYPE="IDREF" FILEID="alto_00271_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-31" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.37" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b541-30" BETYPE="IDREF" FILEID="casebody_0278"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_541.36" BETYPE="IDREF" FILEID="alto_00271_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

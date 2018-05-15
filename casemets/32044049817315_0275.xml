@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0275" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="Jenks v. Cox">JENKS et al. v. COX</name>
+          <docketnumber>Case No. 7,277</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 537</citation>
+          <decisiondate>1872-01</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00270_0" MIMETYPE="image/tiff" CHECKSUM="1d9269d0945e35e0e2f02a591f06e94c" CHECKSUMTYPE="MD5" SIZE="90116">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00270_0.tif"/>
+      </file>
+      <file ID="tiff_00270_1" MIMETYPE="image/tiff" CHECKSUM="558e7bc1e8b248b7779b9b70b108d7a1" CHECKSUMTYPE="MD5" SIZE="97576">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00270_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00270_0" MIMETYPE="image/jp2" CHECKSUM="a83036dfb21315f20c2ab581a9dd384b" CHECKSUMTYPE="MD5" SIZE="3761625">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00270_0.jp2"/>
+      </file>
+      <file ID="jp2_00270_1" MIMETYPE="image/jp2" CHECKSUM="1583aa98bb4b9e5afd453942bcc6505d" CHECKSUMTYPE="MD5" SIZE="3582715">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00270_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00270_0" MIMETYPE="text/xml" CHECKSUM="08a901297881536f4b8a2d41a76e5aa3" CHECKSUMTYPE="MD5" SIZE="189098">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00270_0.xml"/>
+      </file>
+      <file ID="alto_00270_1" MIMETYPE="text/xml" CHECKSUM="965ce14fcba48a01422d52aadf675b95" CHECKSUMTYPE="MD5" SIZE="219337">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00270_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0275" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="538" firstpage="537">
+              <court pgmap="539" id="b539-6">Circuit Court, D. Massachusetts.</court>
+              <docketnumber pgmap="539" id="b539-3">Case No. 7,277.</docketnumber>
+              <parties pgmap="539" id="b539-4">JENKS et al. v. COX.</parties>
+              <decisiondate pgmap="539" id="AeAL">Jan., 1872.</decisiondate>
+              <attorneys pgmap="539" id="b539-11">T. K. Lothrop, for appellants.</attorneys>
+              <attorneys pgmap="539" id="b539-12">George Marston, for appellee.</attorneys>
+              <p pgmap="539" id="b539-5">[Holmes, 92.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="539" id="b539-15">1 [Reported by Jabez S. Holmes, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="539" id="b539-13">SHEPLEY, Circuit Judge.</author>
+                <p pgmap="539" id="Aprh">The libellant claims for a balance due to him for his one seventy-eighth part or lay in the proceeds of a whaling voyage in the bark Covington, of which the respondents were owners. The libellant was discharged at Honolulu iu No­vember, 1863, after having served faithfully as mariner ‘and boat-steerer from the com­mencement of the whaling voyage in No­vember, 1860, to the time of his discharge. The settlement was made before the consul at Honolulu; and the libellant was paid at consular rates, according to the price of oil then current in Honolulu, with a deduction of two and one-half per cent commission to the consul.</p>
+                <p pgmap="539" id="b539-14">The question raised by the pleadings is, whether the libellant, under the circumstan­ces of the case, is bound by the settlement at Honolulu, at prices and rates assumed by the consul there, or whether he is entitled to a settlement of the voyage at the home poll, and at home prices. It is agreed in the case, that, if he is entitled to recover, he is to recover the sum of four hundred and seventy-eight dollars and fifty cents wages, being the amount of the judgment in the dis­trict court, and interest thereon to be added, that being the difference between the sum actually received by him on the settlement before the consul, and the amount he would have been entitled to receive upon an order upon the owners for his lay of the oil, taken at the time of his discharge, at the home prices.</p>
+                <p pgmap="539" id="b539-18">In whaling voyages, the shipping-articles usually contain a clause, providing, that if any officer or seaman shall be prevented by sickness or death from performing the entire voyage, he shall be entitled to such part of the whole amount of his stipulated share as'the time of his services on board shall be of the whole term of the voyage.</p>
+                <p pgmap="539" id="b539-19">It has also been the usage and uniform practice, where seamen serve but part of the voyage, to ascertain the time they did serve from the shipping-papers or other proper documents, and to settle with them in the same manner as is expressed by the ship­ping-papers in relation to persons leaving the ship in consequence of sickness or death, unless there should exist a special contract or written agreement to the contrary.</p>
+                <p pgmap="539" id="b539-20">Courts of admiralty have adopted the rule provided in the articles for cases of separa­tion by death or sickness, by analogy, and as in itself just and reasonable, as the rule to be applied in other cases of separation from the vessel. But if there are circum­stances showing that the pro rata settlement would not be just and reasonable, or if any other mode was fairly agreed upon at the time the man left the vessel, the pro rata settlement would not be adopted, the object of the court being to carry out the intention of the parties which they have not express­ed. Hathaway v. Jones [Case No. 6,212], It is not important to consider the testimony in the record in relation to the cause for which the seaman desired his discharge. It is immaterial whether he asked for it, as he claims, upon a well-grounded distrust of the seaworthiness of the vessel, or whether, as the respondents aver, he applied to the master to be relieved from his contract for the performance of the voyage, and to be discharged from the vessel solely because of his roving and restless disposition. In answer to an interrogatory as to the cir­cumstances of his discharge, the master, whose testimony was taken in behalf of the respondents, answers, “He was discharged at his own request, by mutual consent." The master testifies in substance that, after advising the seaman to remain in the ship, and still finding him persistent in his desire to leave, he told him to come to the United States consul’s office two days after that, and he would settle with him. The consent to the discharge was absolute and uncondi­tional, and it was necessary that the dis­charge itself should be made before the con­sul.</p>
+                <p pgmap="539(58) 540(42)" id="b539-21">Courts of admiralty will carefully scru­tinize a settlement made with a seaman un­der such circumstances. Where each party acts freely, and the terms upon which the contract of service shall be dissolved are mutually agreed upon, each party under­standing the state of the voyage at the time, and contracting for a given amount, — taking into consideration the pecuniary terms pro­posed, and the probabilities of the future,— the seaman will be held to abide the set­tlement thus made, however disadvantage­ous it may prove, on final settlement of the voyage, to have been to him.</p>
+                <p pgmap="540" id="b540-3">The discharge by consent gave the libel-­lant a right to his lay pro rata of the oil tak­en. The difference between the computa­tions of the consul and the amount due the libellant upon a settlement at home is so great, that the libellant ought not to be de­prived of that to which he was justly en­titled. without positive proof that he has relinquished his claim by a settlement which was just and fair, made with a full under­standing of the matter, and without any du­ress.</p>
+                <p pgmap="540" id="b540-4">The libellant testifies that he went ashore on the day of discharge, and told the master for the second time that he wished an or­der on the owners. “He refused to give it to me. We then went to the American con­sul’s, and I was discharged there; and, while being discharged, I told the American consul, Captain Jenks being present, that I did not think it right or just to pay me off Sandwich Island prices. The oaptain said he should not deviate; and therefore I was paid off Sandwich Island prices.”</p>
+                <p pgmap="540" id="b540-5">The master testifies as follows: “I told him to come to the United States consul’s office two days after that, and I would set­tle with him. At the time appointed he came there and met me; the consul asked him if it was by mutual consent, and he said yes; he asked him if the bill was all right, read him the amount of it, and asked him if it was right, and he said yes. The consul reckoned up his bills for the voyage, and likewise figured his voyage. I gave him the money, and he paid the man off. He signed his clearance for all dues and demands on the ship at that time. That fin­ished the interview, and I let him go.” He also testifies that when Cox received the money he made no objection, made no re­marks, did not say any thing, and utterly denies that Cox ever had any conversation with him at the consul’s office, or anywhere, upon the subject of an order on the owners, or on the subject of the settlement, or the terms of the settlement. He testifies that he doesn’t know that Cox examined or look­ed at the figures of the consul; that he had nothing to say about it; took his money, and went off. The consul asked him if it was right, and he said it was. The master also admits that he discharged ten or twelve other men during the voyage, and paid them by orders, when they asked for them.</p>
+                <p pgmap="540" id="b540-6">It certainly does not seem probable that a settlement was made in the manner describ­ed by the master. It is difficult to believe that the settlement was made on the basis of Honolulu prices, instead of an order on the home port, without any thing being said either to the master or the consul, or by ei­ther of them, to the seaman upon the subject of the basis on which the settlement was-to be made. The account given by the master is so improbable in itself, that it fails to con­vince the court that the libellant’s state­ment is not correct, — that he protested against the payment, and only received it because he could get no other settlement.</p>
+                <p pgmap="540" id="b540-9">There is no pretence that his rights were explained to him by the master or the con­sul, of any offer made to him to give him an order on the owners at the home port. We do not therefore think the settlement was made under such circumstances as would estop the libellant from claiming the bal­ance due him, being the difference between the sum paid him and the pro rata share of his agreed lay at the home prices.</p>
+                <p pgmap="540" id="b540-10">Decree affirmed, with costs. Judgment for libellant, with interest at six per cent</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="539" ORDERLABEL="537" TYPE="page">
+        <fptr FILEID="tiff_00270_0"/>
+        <fptr FILEID="jp2_00270_0"/>
+        <fptr FILEID="alto_00270_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_539.3" BETYPE="IDREF" FILEID="alto_00270_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="540" ORDERLABEL="538" TYPE="page">
+        <fptr FILEID="tiff_00270_1"/>
+        <fptr FILEID="jp2_00270_1"/>
+        <fptr FILEID="alto_00270_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_540.9" BETYPE="IDREF" FILEID="alto_00270_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-4" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.6" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-5" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.7" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-6" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.8" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeAL" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.9" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-3" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.5" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aprh" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.18" BETYPE="IDREF" FILEID="alto_00270_0"/>
+            <area BEGIN="BL_539.19" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-9" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.10" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-3" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.3" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-4" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.4" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-5" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.5" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-6" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.6" BETYPE="IDREF" FILEID="alto_00270_1"/>
+            <area BEGIN="BL_540.7" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b540-10" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_540.11" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-11" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.15" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-12" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.16" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-13" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.17" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-14" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.20" BETYPE="IDREF" FILEID="alto_00270_0"/>
+            <area BEGIN="BL_539.21" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-15" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.22" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-18" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.24" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-19" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.25" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-21" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.27" BETYPE="IDREF" FILEID="alto_00270_0"/>
+            <area BEGIN="BL_540.1" BETYPE="IDREF" FILEID="alto_00270_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b539-20" BETYPE="IDREF" FILEID="casebody_0275"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_539.26" BETYPE="IDREF" FILEID="alto_00270_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

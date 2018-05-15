@@ -1,0 +1,376 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0194" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The James Roy">The JAMES ROY</name>
+          <docketnumber>Case No. 7,201</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 337</citation>
+          <citation category="parallel" type="bluebook">5 Ben. 177; 14 Int. Rev. Rec. 22</citation>
+          <decisiondate>1871-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00170_0" MIMETYPE="image/tiff" CHECKSUM="783a4807c19599abc80d72e89f355227" CHECKSUMTYPE="MD5" SIZE="86354">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00170_0.tif"/>
+      </file>
+      <file ID="tiff_00170_1" MIMETYPE="image/tiff" CHECKSUM="ad64cacac27ddf3377b9032f7a591f22" CHECKSUMTYPE="MD5" SIZE="88824">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00170_1.tif"/>
+      </file>
+      <file ID="tiff_00171_0" MIMETYPE="image/tiff" CHECKSUM="7bf12712ae62ea091b5761b472fa0113" CHECKSUMTYPE="MD5" SIZE="98624">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00171_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00170_0" MIMETYPE="image/jp2" CHECKSUM="45763d10f0a95b12ee42e1e01f811aef" CHECKSUMTYPE="MD5" SIZE="3651557">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00170_0.jp2"/>
+      </file>
+      <file ID="jp2_00170_1" MIMETYPE="image/jp2" CHECKSUM="ed2cabbaab63ddafe0d7bdcc7ad4f66c" CHECKSUMTYPE="MD5" SIZE="3208775">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00170_1.jp2"/>
+      </file>
+      <file ID="jp2_00171_0" MIMETYPE="image/jp2" CHECKSUM="42a7b793385528bc3c660b9bba5d653d" CHECKSUMTYPE="MD5" SIZE="3534551">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00171_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00170_0" MIMETYPE="text/xml" CHECKSUM="1c5120042798224c44b1c299ad7bff8b" CHECKSUMTYPE="MD5" SIZE="190484">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00170_0.xml"/>
+      </file>
+      <file ID="alto_00170_1" MIMETYPE="text/xml" CHECKSUM="92f198193ada049470430e49aca32384" CHECKSUMTYPE="MD5" SIZE="197771">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00170_1.xml"/>
+      </file>
+      <file ID="alto_00171_0" MIMETYPE="text/xml" CHECKSUM="e3bef67f9839c4da3a8ab3faac9a49b4" CHECKSUMTYPE="MD5" SIZE="221518">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00171_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0194" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="339" firstpage="337">
+              <court pgmap="339" id="Avnn">District Court, S. D. New York.</court>
+              <docketnumber pgmap="339" id="b339-22">Case No. 7,201.</docketnumber>
+              <citation pgmap="339" id="AB8R">[5 Ben. 177; <footnotemark>1</footnotemark> 14 Int. Rev. Rec. 22.)</citation>
+              <parties pgmap="339" id="AtyW">The JAMES ROY.</parties>
+              <decisiondate pgmap="339" id="ADq6">June, 1871.</decisiondate>
+              <attorneys pgmap="340" id="b340-5">Beebe, Donohue &amp; Cooke, for libellants.</attorneys>
+              <attorneys pgmap="340" id="b340-6">Benedict &amp; Benedict, for claimants.</attorneys>
+              <footnote label="1">
+                <p pgmap="339" id="b339-28">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="340" id="b340-7">BLATCHFORD, District Judge.</author>
+                <p pgmap="340" id="AkKF">This is a libel filed, by the owners of the steamboat Norwalk, to recover for the damages caused by the sinking of that vessel through a collision which took place between her and a scow in tow of the propeller James -Roy, on the 25th of May, 1869, in the East river, about the middle thereof, just below the Brooklyn slip of the Fulton ferry, about half past ten o’clock in the morning.</p>
+                <p pgmap="340" id="b340-8">The libel was sworn to seven days after the collision, by George W. Wilson, one .of the libellants, who was the master of the Norwalk, and was on board of her at the time of the collision, and saw it, and has been a witness on the trial. The Norwalk was, at the time, bound up the East river, having come from the North river, and was intending to land at the foot of Twenty-­Third street,; East river, to take on pas­sengers for an excursion. The James Roy had in tow one scow, loaded with mud. The scow was on the starboard side of the James Roy, her bow projecting somewhat ahead of the bow .of the James Roy. They were bound from the navy yard, down the East river, to the fiats on the New Jersey shore, below Bedlow’s island. The extreme for­ward starboard comer of the scow struck the starboard side of the Norwalk, from twenty-five to thirty feet aft of the stem of the Norwalk, and made a large hole in her, and she soon sank.</p>
+                <p pgmap="340" id="b340-9">The libel states, that, as the Norwalk was proceeding up the East river, there was, to the east of her, that is up the river, a ship being towed on a hawser, coming down the river in an almost opposite direction, and on a course that would pass to the right of the Norwalk; that, astern of such ship, and still more to the right of the Norwalk, was the James Roy, with her tow, on a course which would, have carried them to the right of such ship; that the James Roy was going at a greater rate of speed than such ship, and overhauled her; that, as the vessel so stood, the ship and the tug towing her would pass on the Norwalk’s right, and the James Roy and her tow still further away on the right; that, in this position, the ship shut the James Roy and her tow out of view from the Norwalk; that the Norwalk proceeded on until the ship permitted a view of the James Roy and her tow, when it was found, by those on the Norwalk, that the James Roy, without warning, without neces­sity and without any means of knowledge on the part of the Norwalk, had changed her course and was coming across the ship’s track astern of her and on to the course of the Norwalk; that, as soon as possible, the. wheels of the Norwalk were stopped and backed, and two whistles blown to the James Roy, indicating that the Norwalk could not go to her own right; that such was the fact; and that the tug came on on such changed course, and ran into’ the Norwalk, sinking her. The libel charges fault on the James' Roy: (1.) In not keeping a proper, lookout; (2.) In not stopping and backing In time; (3.) In changing her course improperly; (4.) In not in time taking steps to avoid the col­lision.</p>
+                <p pgmap="340(244) 341(166)" id="b340-12">The answer alleges, that the James Roy was coming down the river slowly, about astern of a bark (which is the vessel the libel speaks of as a ship); that there was also ahead of the James Roy a lighter going down, and working over towards the Brook­lyn shore; that, as the James Roy came near to the lighter it became necessary to avoid her; that, accordingly, the helm of the James Roy was slightly eased up, and her course was changed just enough to enable her to pass under the stern of the lighter without hitting the lighter; that her helm was then steadied as before; that, about the same time or just before, the bark and the tugtow-­ing her changed theircourse moretothesouth-­ward (that is, towards the Brooklyn shore), and they and the lighter thus passing out from being directly ahead of the James Roy, dis­closed to those on board of her the Norwalk, which had till then been completely hidden by the bark and the lighter; that the Nor-­walk was coming up the river at too rapid a rate, and was without a proper lookout, and did not see the James Roy as soon as she should have done, and no proper effort was made on board of her to change her course or to stop her headway, but, instead of stopping or sheering to the left, as she could and should have done, she kept straight •on until she struck the starboard corner of tlie mud scow; that the Norwalk was seen as soon as she-could be seen from the James Roy, and the engine of the James Roy was ■at once stopped and backed, whereby her' head and that of the scow were swung to' port, in order, if possible, to avoid the Nor-­walk, and ■ she was backed so long before the collision, that, at the time of the blow, ■she and the scow were dead in the water, while the Norwalk was still making rapid progress through it; and that the collision was •occasioned by no fault on the part of the James Roy, but by the fault of the Norwalk: (1.) In running at too great a speed and too close to the bark and the lighter, and to the James Roy and the scow; (2.) In not keep­ing a proper lookout; (3.) In not sheering to port; (4.) In not soon enough stopping and backing.</p>
+                <p pgmap="341" id="b341-3">The case made by the libel is wholly dis-' proved by the evidence. The theory of the libel is, that the James Roy, going at a greater speed than the bark and overhaul­ing her, was upon a course which would have carried her safely between the bark, .and the Brooklyn shore, the Norwalk being between the bark and the New York shore, when the James Roy suddenly changed her course by porting her helm, and crossed the track of the bark, and threw herself in the way of the Norwalk, she being hidden by ■the bark .from being seen by the Norwalk, until she suddenly came out from under the stern of the bark. It is conclusively proved, not only that the James Roy was not going .at a greater speed than the bark, and was not overhauling her, but that the bark, from having been astern of the James Roy, had passed the James Roy, by going faster than the James Roy in the same direction, and by going between the James Roy and the New York shore. It is also proved satisfac­torily, that the James Roy did not change Iier course to any substantial extent. She went down all the way on a starboard helm, inclining her head towards the Brooklyn ■shore, while the bark was passing by on her starboard side. After the bark had got by •so as to'allow of such a movement, the bark and the tug towing the bark were sheered, by starboarding, so as to bring them from "being on the starboard hand of the James Roy to being ahead of her. As the James Roy and the bark and the tug towing the bark were going in the same direction, and the Norwalk was going in an opposite direc­tion, and had come from the North river, .and was nearer to the New York shore than the bark and the tug towing her were, and the James Roy was dropping astern of the bark, and was going slowly, the line of vision between the James Roy and the Nor-­walk was- intercepted by the bark, so that, for some time, neither vessel was seen by the other. While the James Roy was going •down slowly, the Norwalk was going up at a speed of eight or nine miles an hour, double the speed of .the. James Roy. The pleadings of both parties allege, • and the evidence shows, that the removal of the bark out of the way disclosed to each of the vessels — the Norwalk and the James Roy— the view of- the other one. There was noth­ing to' indicate to the James Roy that the Norwalk was approaching from beyond the bark. On the other hand, the pilot of the Norwalk testifies that he saw the steam from the James Roy beyond the bark before he saw the James Roy herself. The James Roy was a high-pressure propeller, discharging her exhaust steam by puffs into the air. The Norwalk was a side-wheel low-pressure boat, condensing her exhaust steam. The James Roy proceeded with proper speed and with due care and caution, not substantially changing her course until the starboard, of the bark, combined with the greater speed of the bark, disclosed to the James . Roy the Norwalk approaching directly towards her. As soon as the James Roy perceived the Nor-­walk, her engine was stopped and reversed. The effect of so doing was such, that, before the collision, the heads of the James Roy and of her tow were swung to port. I am unable to perceive that there was any fault on the part of the James Roy, or that she is in any manner responsible for the col­lision.</p>
+                <p pgmap="341" id="b341-7">On the contrary, the evidence shows that the collision was due to fault on the part of the Norwalk. The river was full of ves­sels ahead of her, and the speed she main­tained in entering among them was too great. She ought to have checked that speed sooner. She kept on, unheeding the puffs of steam she saw from the James Roy be­yond the bark. She did not stop and re­verse as soon as she should have done. She was behind time and was hastening to ful­fill her employment, and hence her reckless speed. When the James Roy came into view from the Norwalk, the Norwalk’s engine was slowed, stopped and reversed; but her speed before was so great, and the James Roy was so close at hand, that her forward motion was not considerably diminished be­fore the collision took place. The libel must be dismissed, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="339" ORDERLABEL="337" TYPE="page">
+        <fptr FILEID="tiff_00170_0"/>
+        <fptr FILEID="jp2_00170_0"/>
+        <fptr FILEID="alto_00170_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_339.2" BETYPE="IDREF" FILEID="alto_00170_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="340" ORDERLABEL="338" TYPE="page">
+        <fptr FILEID="tiff_00170_1"/>
+        <fptr FILEID="jp2_00170_1"/>
+        <fptr FILEID="alto_00170_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_340.4" BETYPE="IDREF" FILEID="alto_00170_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="341" ORDERLABEL="339" TYPE="page">
+        <fptr FILEID="tiff_00171_0"/>
+        <fptr FILEID="jp2_00171_0"/>
+        <fptr FILEID="alto_00171_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_341.11" BETYPE="IDREF" FILEID="alto_00171_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-22" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.28" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AB8R" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.30" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b341-7" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_341.15" BETYPE="IDREF" FILEID="alto_00171_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b341-3" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_341.13" BETYPE="IDREF" FILEID="alto_00171_0"/>
+            <area BEGIN="BL_341.14" BETYPE="IDREF" FILEID="alto_00171_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b339-28" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.35" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADq6" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.32" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avnn" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.31" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-12" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.15" BETYPE="IDREF" FILEID="alto_00170_1"/>
+            <area BEGIN="BL_341.9" BETYPE="IDREF" FILEID="alto_00171_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AkKF" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.10" BETYPE="IDREF" FILEID="alto_00170_1"/>
+            <area BEGIN="BL_340.11" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtyW" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_339.29" BETYPE="IDREF" FILEID="alto_00170_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-6" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.8" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-5" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.7" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-8" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.12" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-9" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.13" BETYPE="IDREF" FILEID="alto_00170_1"/>
+            <area BEGIN="BL_340.14" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b340-7" BETYPE="IDREF" FILEID="casebody_0194"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_340.9" BETYPE="IDREF" FILEID="alto_00170_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

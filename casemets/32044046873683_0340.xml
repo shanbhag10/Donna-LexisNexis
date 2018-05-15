@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0340" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Emma">The EMMA</name>
+          <docketnumber>Case No. 4,462</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 667</citation>
+          <decisiondate>1864-07-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00335_0" MIMETYPE="image/tiff" CHECKSUM="c4f0902c601f8386af5e0920b0a1143e" CHECKSUMTYPE="MD5" SIZE="93436">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00335_0.tif"/>
+      </file>
+      <file ID="tiff_00335_1" MIMETYPE="image/tiff" CHECKSUM="c4f0e1d307467bbf54ef404da2c6a507" CHECKSUMTYPE="MD5" SIZE="76540">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00335_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00335_0" MIMETYPE="image/jp2" CHECKSUM="c0197469db4e1170e090d93ebe5dffdb" CHECKSUMTYPE="MD5" SIZE="3565975">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00335_0.jp2"/>
+      </file>
+      <file ID="jp2_00335_1" MIMETYPE="image/jp2" CHECKSUM="abca6b0ee86a2a6bf2c6a032e5cee0aa" CHECKSUMTYPE="MD5" SIZE="2933389">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00335_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00335_0" MIMETYPE="text/xml" CHECKSUM="9496967311f1f607d8c9eb46bb52a444" CHECKSUMTYPE="MD5" SIZE="203327">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00335_0.xml"/>
+      </file>
+      <file ID="alto_00335_1" MIMETYPE="text/xml" CHECKSUM="fda2fbfa703ace4c4d5f384f7ee9313f" CHECKSUMTYPE="MD5" SIZE="163090">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00335_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0340" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="668" firstpage="667">
+              <court id="b669-15" pgmap="669">District Court, S. D. New York.</court>
+              <docketnumber id="b669-12" pgmap="669">Case No. 4,462.</docketnumber>
+              <parties id="b669-13" pgmap="669">The EMMA.</parties>
+              <decisiondate id="AGdU" pgmap="669">July 8, 1864.</decisiondate>
+              <p id="b669-14" pgmap="669">[Blatchf. Pr. Cas. 607.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p id="b669-20" pgmap="669">1 [Reported by Samuel Blatchford, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b669-19" pgmap="669">BETTS, District Judge.</author>
+                <p id="A6q_" pgmap="669(81) 670(367)">The above-named vessel and cargo having, by the judgment of this court [Case No. 4,401], rendered in the term of October last past, been con­demned as prize of war, and the report, dated December 23, 1803, made to the court by the prize commissioners, under the order of the court, to take evidence and report to the court what public ships of the United States are entitled to share in said prize, showing that the capture was made by the United States steam transport ship Arago, no other vessel co-operating therein, or being within signal distance at the time, and that the captured vessel was of inferior force, and it appearing to the court, by the pro­visions of the act of congress, entitled “An act to regulate prize proceedings and the distribution of prize money, and for other purposes,” approved June 30, 1864, that ves­sels not of the navy, present at the capture of a prize and rendering actual assistance in the capture, may share in the prize, and it appearing to the court, from the report of the said prize commissioners, that the said ship Arago was the sole vessel present at the capture of said prize, ana urai said prize was of inferior force to the Arago, and it being moved by the counsel for the owners of the Arago, and assented to by the United States attorney, that the Arago, under the provisions of the existing law, be admitted to receive her lawful share of the aforesaid prize proceeds, and the court being further moved to refer it to a commissioner of the court, to ascertain and report to the court the per­sons belonging to the Arago entitled to share in the said prize, and the proportions there­of lawfully appertaining to each, it is con­sidered and ordered by the court that it be referred to John A. Osborn, Esq., one of the commissioners holding an appointment as such by the United States circuit court within this district, to inquire and ascer­tain, from the report therein heretofore made by the prize commissioners, and other legal proofs, the names and employments of the several captors on board the Arago, present and engaged in the actual capture of the prize aforesaid, and the relative re­wards and compensations properly allow­able to them severally, and to report the same to the court with all convenient des-­patch. It is further ordered, that such com­missioner have taxed for his service the like costs as are taxable under the fee bill of February 26, 1853 [10 Stat. 161], for sim­ilar services rendered in admiralty causes in courts of the United States.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="669" ORDERLABEL="667" TYPE="page">
+        <fptr FILEID="tiff_00335_0"/>
+        <fptr FILEID="jp2_00335_0"/>
+        <fptr FILEID="alto_00335_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_669.4" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="670" ORDERLABEL="668" TYPE="page">
+        <fptr FILEID="tiff_00335_1"/>
+        <fptr FILEID="jp2_00335_1"/>
+        <fptr FILEID="alto_00335_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_670.5" BETYPE="IDREF" FILEID="alto_00335_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-15" BETYPE="IDREF" FILEID="casebody_0340"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.17" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-14" BETYPE="IDREF" FILEID="casebody_0340"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.16" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AGdU" BETYPE="IDREF" FILEID="casebody_0340"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.18" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-13" BETYPE="IDREF" FILEID="casebody_0340"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.15" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-12" BETYPE="IDREF" FILEID="casebody_0340"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.14" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-20" BETYPE="IDREF" FILEID="casebody_0340"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.25" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-19" BETYPE="IDREF" FILEID="casebody_0340"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.22" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6q_" BETYPE="IDREF" FILEID="casebody_0340"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.23" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            <area BEGIN="BL_669.24" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            <area BEGIN="BL_670.2" BETYPE="IDREF" FILEID="alto_00335_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

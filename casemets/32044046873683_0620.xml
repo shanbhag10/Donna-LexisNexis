@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0620" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Fenwick v. Grimes">FENWICK v. GRIMES</name>
+          <docketnumber>Case No. 4,734</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1144</citation>
+          <citation category="parallel" type="bluebook">5 Cranch, C. C. 603</citation>
+          <decisiondate>1839-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00573_1" MIMETYPE="image/tiff" CHECKSUM="0d8392d38e81329d0774caee126018ad" CHECKSUMTYPE="MD5" SIZE="51852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00573_1.tif"/>
+      </file>
+      <file ID="tiff_00574_0" MIMETYPE="image/tiff" CHECKSUM="ebbef8a1ba5949a0f1d2ef348210ea89" CHECKSUMTYPE="MD5" SIZE="74852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00574_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00573_1" MIMETYPE="image/jp2" CHECKSUM="eb58fc87d9c43f870d31eac2cc15b888" CHECKSUMTYPE="MD5" SIZE="2283831">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00573_1.jp2"/>
+      </file>
+      <file ID="jp2_00574_0" MIMETYPE="image/jp2" CHECKSUM="1603c8e82b1e2ec1f35f987376e0736c" CHECKSUMTYPE="MD5" SIZE="2815811">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00574_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00573_1" MIMETYPE="text/xml" CHECKSUM="00e55bf7e3302d4b2cc0d129a04c1414" CHECKSUMTYPE="MD5" SIZE="103627">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00573_1.xml"/>
+      </file>
+      <file ID="alto_00574_0" MIMETYPE="text/xml" CHECKSUM="58965efb75d84954f9e71a5c295f7340" CHECKSUMTYPE="MD5" SIZE="151780">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00574_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0620" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1145" firstpage="1144">
+              <court id="b1146-18" pgmap="1146">Circuit Court, District of Columbia.</court>
+              <docketnumber id="b1146-15" pgmap="1146">Case No. 4,734.</docketnumber>
+              <citation id="b1146-17" pgmap="1146">[5 Cranch, C. C. 603.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1146-16" pgmap="1146">FENWICK v. GRIMES.</parties>
+              <decisiondate id="AjsD" pgmap="1146">Nov. Term, 1839.</decisiondate>
+              <attorneys id="b1146-29" pgmap="1146">Mr. Key, for the defendant</attorneys>
+              <attorneys id="AD6J" pgmap="1147">Mr. Key, for defendant,</attorneys>
+              <attorneys id="A1NB" pgmap="1147">R. J. Brent, for plaintiffs,</attorneys>
+              <footnote label="1">
+                <p id="b1146-30" pgmap="1146">1 [Reported by Hon. William Cranch, Chief Judge.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p id="b1147-3" pgmap="1147">But</p>
+                <author id="AulZ" pgmap="1147">THE COURT</author>
+                <p id="Atr2" pgmap="1147">(nem. con.) ordered the plea in abatement to be struck out, CRANCH, Chief Judge, observing that the order of pleading was part of the common law, and did not depend upon any rule of this court; and that, by the common law, a plea in bar ■of the action overruled a plea in abatement. That the plea in abatement, not on oath, may be treated as a nullity, and will be ■set aside unless sworn to when offered, or before the rule to plead under the special imparlance has expired. There was a ver­dict for the plaintiff upon the third count, for $150 damages, and a motion in arrest of judgment.</p>
+                <author id="b1147-4" pgmap="1147">CRANCH, Chief Judge.</author>
+                <p id="AWu-" pgmap="1147">This is an action upon the case for deceit. The deceit, in this -count, consists in the defendant’s promise, which, at the time he made it, he did not intend to perform; by which promise the plaintiff was induced to sell the slave for less than her real value. The court had ar­rested the judgment upon the first and sec­ond counts, because in them the alleged deceit was in the non-performance of a prom­ise on the part of the defendant, which the ■court thought would not support an action upon the case for deceit, and that the plain­tiff’s remedy would be an action of assump-­sit. But in this new count, the alleged deceit is not in the non-performance of the promise, but in making the promise, mala fide, with­out intending to perform it; and with the intent fraudulently to obtain the slave at -an under price by abusing the confidence which the plaintiff reposed in him. It sub­stantially alleges that the defendant, fraud­ulently and deceitfully intending to remove the slave from this District, by selling her to a person who, he knew, was a trader in negroes, and whose professed business it was to transport negroes from this District to the ¡southern states; and knowing that the plain­tiff would not sell her but upon the con­sideration of her being kept within this District, and that the plaintiff was willing to dispose of her at an under price, to a master residing in the District, and who would engage that she would not be sold away to southern negro-traders, fraudulent­ly came and represented that he desired to -purchase the slave; and, if sold to him, he would undertake that she should not be removed out of the District of Columbia; and thereupon, falsely, fraudulently, and de­ceitfully declared, protested, and engaged that the said- slave should not be removed •out of the said District, &amp;e., by reason of which false and deceitful representations, the plaintiff was imposed upon, and prevailed with, to sell the said slave at much less than her real value; and relying upon the said representation and promise and en­gagement of the defendant, did sell and de­liver to him the said slave for $400, when her real value was at least $000, and that the defendant did sell her to a southern ne­gro-trader, who took her away out of the District to foreign parts unknown to the plaintiff, &amp;c. It avers that the said repre­sentations, declarations, and promises of the defendant, were utterly false and deceitful, and that at the time he made' them, he fraudulently and- deceitfully intended and designed to remove the said slave, &amp;c. In this consists the deceit, and we think it is sufficiently set out in this count; especially after a general verdict for the plaintiff, by which the jury have found all the material facts therein averred. We are therefore, of opinion that the motion in arrest of judg­ment must be overruled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1146" ORDERLABEL="1144" TYPE="page">
+        <fptr FILEID="tiff_00573_1"/>
+        <fptr FILEID="jp2_00573_1"/>
+        <fptr FILEID="alto_00573_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1146.8" BETYPE="IDREF" FILEID="alto_00573_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1147" ORDERLABEL="1145" TYPE="page">
+        <fptr FILEID="tiff_00574_0"/>
+        <fptr FILEID="jp2_00574_0"/>
+        <fptr FILEID="alto_00574_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1147.10" BETYPE="IDREF" FILEID="alto_00574_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AulZ" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1147.13" BETYPE="IDREF" FILEID="alto_00574_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AjsD" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1146.25" BETYPE="IDREF" FILEID="alto_00573_1"/>
+            <area BEGIN="BL_1146.26" BETYPE="IDREF" FILEID="alto_00573_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1146-16" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1146.22" BETYPE="IDREF" FILEID="alto_00573_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1146-15" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1146.21" BETYPE="IDREF" FILEID="alto_00573_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWu-" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1147.17" BETYPE="IDREF" FILEID="alto_00574_0"/>
+            <area BEGIN="BL_1147.18" BETYPE="IDREF" FILEID="alto_00574_0"/>
+            <area BEGIN="BL_1147.19" BETYPE="IDREF" FILEID="alto_00574_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1147-3" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1147.12" BETYPE="IDREF" FILEID="alto_00574_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1147-4" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1147.16" BETYPE="IDREF" FILEID="alto_00574_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1NB" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1147.6" BETYPE="IDREF" FILEID="alto_00574_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1146-18" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1146.24" BETYPE="IDREF" FILEID="alto_00573_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1146-17" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1146.23" BETYPE="IDREF" FILEID="alto_00573_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Atr2" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1147.14" BETYPE="IDREF" FILEID="alto_00574_0"/>
+            <area BEGIN="BL_1147.15" BETYPE="IDREF" FILEID="alto_00574_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1146-29" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1146.34" BETYPE="IDREF" FILEID="alto_00573_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AD6J" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1147.3" BETYPE="IDREF" FILEID="alto_00574_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1146-30" BETYPE="IDREF" FILEID="casebody_0620"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1146.37" BETYPE="IDREF" FILEID="alto_00573_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,300 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0415" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="Essler v. Worth">ESSLER et al. v. WORTH et al.</name>
+          <docketnumber>Case No. 4,533a</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 792</citation>
+          <citation category="parallel" type="bluebook">22 Betts, D. C. MS. 47</citation>
+          <decisiondate>1846</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00397_1" MIMETYPE="image/tiff" CHECKSUM="2b30bf2f711e7d33f4fe6e93d33f281b" CHECKSUMTYPE="MD5" SIZE="88678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00397_1.tif"/>
+      </file>
+      <file ID="tiff_00398_0" MIMETYPE="image/tiff" CHECKSUM="e2d64febd71827c19336316936377c4e" CHECKSUMTYPE="MD5" SIZE="115648">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00398_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00397_1" MIMETYPE="image/jp2" CHECKSUM="5bec5fd6b98d6990282cb581e8ba30ef" CHECKSUMTYPE="MD5" SIZE="3261989">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00397_1.jp2"/>
+      </file>
+      <file ID="jp2_00398_0" MIMETYPE="image/jp2" CHECKSUM="0698090a6c6a682dd276edd0f8540623" CHECKSUMTYPE="MD5" SIZE="3823984">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00398_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00397_1" MIMETYPE="text/xml" CHECKSUM="61e8e56c2dd1a349ee19a346e8734ea4" CHECKSUMTYPE="MD5" SIZE="182268">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00397_1.xml"/>
+      </file>
+      <file ID="alto_00398_0" MIMETYPE="text/xml" CHECKSUM="b9155c8e06187a4c40b2471b9978fed4" CHECKSUMTYPE="MD5" SIZE="253416">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00398_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0415" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="793" firstpage="792">
+              <court id="b794-9" pgmap="794">District Court, S. D. New York.<footnotemark>1</footnotemark>
+              </court>
+              <docketnumber id="b794-6" pgmap="794">Case No. 4,533a.</docketnumber>
+              <citation id="b794-8" pgmap="794">[22 Betts, D. C. MS. 47.]</citation>
+              <parties id="b794-7" pgmap="794">ESSLER et al. v. WORTH et al.</parties>
+              <footnote label="1">
+                <p id="b794-12" pgmap="794">1 [No date is given in the original manuscript. 22 Betts, D. C. MS., includes cases from Sep­tember, 1853, to January, 1857.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b794-18" pgmap="794">BETTS, District Judge.</author>
+                <p id="A_Xi" pgmap="794">The libellants in­stituted an action in personam against Henry C. Worth, Gideon Fountain, William Andrew and Hiram Watson to recover $3314.16, the amount of charges for materials, labor and supplies .furnished the steamboat Naushon in this port The libel lacks precision and cer­tainty in alleging the facts upon which the action is founded, but no exception being taken to the pleading in that respect, the court will dispose of the case presented for consideration upon an assumption of facts fully as broad as the libel will warrant, or as are claimed on the argument on behalf of the libellants.</p>
+                <p id="b794-19" pgmap="794(260) 795(87)">The libel prayed a warrant of arrest in due form of law according to the course of the court in causes of admiralty and maritime jurisdiction against all the defendants, and that if they cannot be found that their goods and chattels within this district may be at­tached to a sufficient amount to answer the libellants, and that payment may be decreed the libellants for the amount of their debt with interest and costs. Upon filing the libel the libellants obtained from the clerk, with­out mandate of the judge, the ordinary mesne process for the arrest of the persons of the respondents, commanding the marshal to ar­rest them and have their bodies before the court on a day named, to answer the libel; with a clause thereto annexed that “if the said respondents, or any of them, cannot be found in your district, you are hereby com­manded that you attach the boat Naushon her tackle, etc., as the property of the said respondents, to compel their appearance.” The marshal returned the process, with the return endorsed thereon: “Defendants not found. I have attached the steamboat Nau-­shon as the goods and chattels of the within ' named debts.” On filing this return an order was obtained of the proctors for all the re­spondents except Worth that their appear­ance for said respondents be entered, and for a further day to answer. A motion is now made to vacate the attachment and deliver up possession of the steamboat to the re­spondents. The leading reasons assigned for the ’ discharge of the attachment are: 1. That the process is irregular, as being un­authorized by the practice of the court. 2. That Wortii, one of the defendants, has no title to or interest in the vessel attached, and that she cannot be held in custody to compel his appearance. 3. That the defendants hav­ing appeared regularly and filed the stipula­tion required and put in their answer to the libel, the purpose of the attachment has been accomplished and its force expended.</p>
+                <p id="b795-4" pgmap="795">The stress of the case is placed by counsel on both sides upon the last objection, and the judgment of the court is sought upon that to settle what is supposed to be an undeter­mined point of practice, whether an arrest of property under a warrant of foreign attach­ment effects a sequestration of the property seized to answer the final decree of the court; or whether • its effect is limited to coercing the appearance of the debtor owner, and placing him within the control of the court the same as if brought before it by arrest of his body. Without then discussing the ques­tion of irregularity, of process, or that of the ownership of the defendant Worth, I will dispose of the case upon the point of the right of the libellants to hold the steamboat under seizure to answer the debt they may on hear­ing establish against her owners. It seems to be not important now to attempt to ascer­tain precisely the form or operation of a sim­ilar process employed in the civil law against the effects of absent debtors, because from the time it was adopted in admiralty courts, to its recognition by the American tribunals, it seems to have been understood to perform but the single office of constraining the party proceeded against to appear and submit him­self to the jurisdiction of the court in the cause for which it was issued. The like func­tions were attributed by the courts of com­mon law to the writ of distringas or distress infinite, under which, progressing gradually from a nominal amount to embracing all the goods of an absent debtor, the courts com­pelled the party sued to appear, but the prop­erty seized was still not appropriated to the benefit of the creditor. Com. Dig. “Process,” D 7. The writ of foreign attachment allowed against the goods of a foreign merchant found owing money in England charged with having robbed English merchants abroad, who failed obtaining redress there, was not improbably the foundation of the writ of foreign attachment established by the cus­toms of London, and by which the property seized was detained under arrest to satisfy the judgment rendered against the debtor. Such is also the effect of an attachment of property authorized by the laws of several of the states of the Union, as a process by which the action is imitated. But the su­preme court has settled the point in our prac­tice that the admiralty writ of attachment is not borrowed from or in imitation of the foreign attachment under the custom of Lon­don. [Manro v. Almeida] 10 Wheat. [23 U. S.] 490. The supreme court rules of admiralty practice have legislated into'authoritative use this long known process (rule 2), and the rule has also pointed out the terms of the writ, but has not defined its operation. Buie 2 declares: “In suits in personam the mesne process may be by a single process or arrest of the person of the defendant in the nature of a capias, or by a warrant for the arrest of the person of the defendant with a clause therein, that if he cannot be found to attach his goods or chattels to the amount sued for.” In the English practice the attachment pro­cess followed that for the arrest of the de­fendant, and was issued upon the return of the first, that the defendant has absconded or was concealed so that he could not be ar­rested (Clarke, Praxis Adm. tit. 28), and this is so in the Massachusetts district (Dunl. Adm. Pr. 137, 139).</p>
+                <p id="b795-6" pgmap="795">This court decided in 1840 that a foreign at­tachment is not to be regarded a proceeding in rem, arresting the property as initiatory to the commencement of a debt, but as a collat­eral proceeding, and for an object different from that of subjecting the property to the demand. Cole v. The Brandt [Case No. 2,-­978]; Betts’ Adm. Pr. 28, 30, 33. This it ap­pears to me is the light in which the process has been viewed in the admiralty courts of this country and in the English practice. Bouyssoh v. Miller [Case No. 1,709]; Dunl. Adm. Pr., Conk. Pr. 478; 2 Browne, Civ. &amp; Adm. Law, 435. It is, however, not neces­sary to trace back the origin or ancient appli­cation of the writ, or consider the manner in which other courts of admiralty have em­ployed it The decision of the supreme court of the United States in Manro v. Almeida, 10 Wheat [23 U. S.] 476, settles with entire pre­cision that its object and effect is to compel the appearance of the defendant Id. 489, 493, 494. And rule 26 of this court provided that tlie attachment may be dissolved on the party giving a stipulation with sureties to the same effect as in cases of arrest. If the defendant fails to appear, then undoubtedly the arrest of the property will remain under the at­tachment to the final decision of the case, when it may be made to satisfy the decree. Clarke v. New Jersey Steam Nav. Co. [Case No. 2,859]. But tiren I apprehend it will not be condemned to that end by the court, but it must be proceeded against by suit of execu­tion, — when the right of ownership of the de­fendant may be inquired into and determined. Three of the defendants having entered their appearance in the cause, the attachment is practus officio as to them, and their motion to discharge the property, so far as their interest is concerned, must prevail. Rule 26. The plaintiff has, however, a right m retain it as to Worth until his right of property in the steamboat is determined, unless he duly en­ter his appearance also to the action. The real owner is entitled to intervene and contest the possession or interest of Worth in the vessel. Order accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="794" ORDERLABEL="792" TYPE="page">
+        <fptr FILEID="tiff_00397_1"/>
+        <fptr FILEID="jp2_00397_1"/>
+        <fptr FILEID="alto_00397_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_794.4" BETYPE="IDREF" FILEID="alto_00397_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="795" ORDERLABEL="793" TYPE="page">
+        <fptr FILEID="tiff_00398_0"/>
+        <fptr FILEID="jp2_00398_0"/>
+        <fptr FILEID="alto_00398_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_795.3" BETYPE="IDREF" FILEID="alto_00398_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b795-6" BETYPE="IDREF" FILEID="casebody_0415"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_795.7" BETYPE="IDREF" FILEID="alto_00398_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b794-6" BETYPE="IDREF" FILEID="casebody_0415"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_794.9" BETYPE="IDREF" FILEID="alto_00397_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b794-7" BETYPE="IDREF" FILEID="casebody_0415"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_794.10" BETYPE="IDREF" FILEID="alto_00397_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b794-8" BETYPE="IDREF" FILEID="casebody_0415"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_794.11" BETYPE="IDREF" FILEID="alto_00397_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b794-9" BETYPE="IDREF" FILEID="casebody_0415"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_794.12" BETYPE="IDREF" FILEID="alto_00397_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b794-18" BETYPE="IDREF" FILEID="casebody_0415"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_794.20" BETYPE="IDREF" FILEID="alto_00397_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b794-19" BETYPE="IDREF" FILEID="casebody_0415"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_794.23" BETYPE="IDREF" FILEID="alto_00397_1"/>
+            <area BEGIN="BL_795.1" BETYPE="IDREF" FILEID="alto_00398_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_Xi" BETYPE="IDREF" FILEID="casebody_0415"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_794.21" BETYPE="IDREF" FILEID="alto_00397_1"/>
+            <area BEGIN="BL_794.22" BETYPE="IDREF" FILEID="alto_00397_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b794-12" BETYPE="IDREF" FILEID="casebody_0415"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_794.16" BETYPE="IDREF" FILEID="alto_00397_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b795-4" BETYPE="IDREF" FILEID="casebody_0415"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_795.5" BETYPE="IDREF" FILEID="alto_00398_0"/>
+            <area BEGIN="BL_795.6" BETYPE="IDREF" FILEID="alto_00398_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

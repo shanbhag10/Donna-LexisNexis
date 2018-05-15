@@ -1,0 +1,274 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0238" publicationstatus="published">
+          <court abbreviation="S.D. Fla." jurisdiction="United States">United States District Court for the Southern District of Florida</court>
+          <name abbreviation="The Eliza Mallory">The ELIZA MALLORY</name>
+          <docketnumber>Case No. 4,365</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 492</citation>
+          <citation category="parallel" type="bluebook">6 Adm. Rec. 428</citation>
+          <decisiondate>1860-02-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00247_1" MIMETYPE="image/tiff" CHECKSUM="9ed182c69cfb218d6eda0c0d034cb770" CHECKSUMTYPE="MD5" SIZE="99362">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00247_1.tif"/>
+      </file>
+      <file ID="tiff_00248_0" MIMETYPE="image/tiff" CHECKSUM="3caa4ee6b367ad892c6b88cec6210e8e" CHECKSUMTYPE="MD5" SIZE="92660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00248_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00247_1" MIMETYPE="image/jp2" CHECKSUM="b700111cf393067c3561116a15d7ea29" CHECKSUMTYPE="MD5" SIZE="3508994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00247_1.jp2"/>
+      </file>
+      <file ID="jp2_00248_0" MIMETYPE="image/jp2" CHECKSUM="cc56d27741ec34c1fc50c8273d692128" CHECKSUMTYPE="MD5" SIZE="3401310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00248_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00247_1" MIMETYPE="text/xml" CHECKSUM="a12374c5db0b5ea5b1ae98bc6b47ccea" CHECKSUMTYPE="MD5" SIZE="216467">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00247_1.xml"/>
+      </file>
+      <file ID="alto_00248_0" MIMETYPE="text/xml" CHECKSUM="da3839588569d45b5fc712c7dde8d602" CHECKSUMTYPE="MD5" SIZE="202652">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00248_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0238" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="493" firstpage="492">
+              <court id="b494-12" pgmap="494">District Court, S. D. Florida.</court>
+              <docketnumber id="b494-9" pgmap="494">Case No. 4,365.</docketnumber>
+              <citation id="b494-11" pgmap="494">[6 Adm. Rec. 428.]</citation>
+              <parties id="b494-10" pgmap="494">The ELIZA MALLORY.</parties>
+              <decisiondate id="AQ_" pgmap="494">Feb. 2, 1860.</decisiondate>
+              <attorneys id="b494-17" pgmap="494">Winer Bethel, S. J. Douglas, and W. C. Maloney, for libellants.</attorneys>
+              <opinion type="majority">
+                <author id="b494-18" pgmap="494">MARVIN, District Judge.</author>
+                <p id="AVY" pgmap="494(321) 495(58)">This ship, Bar­rett, master, bound from New Orleans to San Bias, on the western coast of Mexico, laden with 4,923 bales of cotton, weighing 180 pounds each, on the morning of the 4th of November last, ran ashore on the eastern coast of Florida, about sixty-five miles north of Cape Florida, where she bilged, filled with water, and became a total wreck. On the 11th the ship was visited by Geiger, master of the wrecking schooner Champion, and a • few days afterwards by several other wreck­ing vessels, and crews, numbering in all 12 vessels, of the aggregate burthen of 981 tons, carrying 145 men. These vessels and crews, were employed various and different lengths of time, from one week to five weeks, in getting out the cargo and bringing it to this port Some of the vessels made four and five trips. The lower hold of the ship was full of water, and the water was several feet deep over the lower deck. All the cotton saved from the lower hold was saved by div­ing, but the diving was attended with much less difficulty than in most other cases, owing to the' smallness of the bales. The loosening of one bale would often loosen others, which would then float to the surface. They saved the entire cargo. The value of the cargo saved has been estimated at $56,445, and the ship’s materials have been sold for $1,826.38. I think the sum of $16,241 is a reasonable salvage on the cargo, and thirty per cent of the value is a reasonable salvage on the materials. It is ordered, adjudged, and de­creed that the libellants have and recover in full compensation for their services in saving the cargo of the said ship Eliza Mal­lory, the sum of $16,241, to be divided among them according to the schedule hereunto an­nexed; and that they also recover the sum of thirty per cent, upon the value of the ma­terials of the said ship, to be paid to the persons saving the same; and also their costs of suit; and that upon the payment thereof, and the costs and expenses of this suit, the marshal restore said cargo and pro­ceeds to the master of said ship.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="494" ORDERLABEL="492" TYPE="page">
+        <fptr FILEID="tiff_00247_1"/>
+        <fptr FILEID="jp2_00247_1"/>
+        <fptr FILEID="alto_00247_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_494.4" BETYPE="IDREF" FILEID="alto_00247_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="495" ORDERLABEL="493" TYPE="page">
+        <fptr FILEID="tiff_00248_0"/>
+        <fptr FILEID="jp2_00248_0"/>
+        <fptr FILEID="alto_00248_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_495.6" BETYPE="IDREF" FILEID="alto_00248_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVY" BETYPE="IDREF" FILEID="casebody_0238"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_494.22" BETYPE="IDREF" FILEID="alto_00247_1"/>
+            <area BEGIN="BL_494.23" BETYPE="IDREF" FILEID="alto_00247_1"/>
+            <area BEGIN="BL_495.4" BETYPE="IDREF" FILEID="alto_00248_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b494-17" BETYPE="IDREF" FILEID="casebody_0238"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_494.20" BETYPE="IDREF" FILEID="alto_00247_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b494-12" BETYPE="IDREF" FILEID="casebody_0238"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_494.14" BETYPE="IDREF" FILEID="alto_00247_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b494-11" BETYPE="IDREF" FILEID="casebody_0238"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_494.13" BETYPE="IDREF" FILEID="alto_00247_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b494-10" BETYPE="IDREF" FILEID="casebody_0238"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_494.12" BETYPE="IDREF" FILEID="alto_00247_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b494-9" BETYPE="IDREF" FILEID="casebody_0238"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_494.11" BETYPE="IDREF" FILEID="alto_00247_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQ_" BETYPE="IDREF" FILEID="casebody_0238"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_494.15" BETYPE="IDREF" FILEID="alto_00247_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b494-18" BETYPE="IDREF" FILEID="casebody_0238"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_494.21" BETYPE="IDREF" FILEID="alto_00247_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

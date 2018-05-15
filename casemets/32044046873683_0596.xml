@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0596" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Fearson v. United States">FEARSON v. UNITED STATES</name>
+          <docketnumber>Case No. 4,712</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1121</citation>
+          <citation category="parallel" type="bluebook">1 Hayw. &amp; H. 48</citation>
+          <decisiondate>1841-12-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00562_0" MIMETYPE="image/tiff" CHECKSUM="eccc4d85aded302fc4a6f73a0ea53e76" CHECKSUMTYPE="MD5" SIZE="47188">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00562_0.tif"/>
+      </file>
+      <file ID="tiff_00562_1" MIMETYPE="image/tiff" CHECKSUM="490827c72f330f5cfbb6a2703f7f5549" CHECKSUMTYPE="MD5" SIZE="83032">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00562_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00562_0" MIMETYPE="image/jp2" CHECKSUM="f08e8067c255ba0c17cf909685d6bfe5" CHECKSUMTYPE="MD5" SIZE="2197916">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00562_0.jp2"/>
+      </file>
+      <file ID="jp2_00562_1" MIMETYPE="image/jp2" CHECKSUM="eb6f480be94f04f06cb32f9dfff85bc8" CHECKSUMTYPE="MD5" SIZE="3098356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00562_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00562_0" MIMETYPE="text/xml" CHECKSUM="8a8c6dc023b29c469d17f3d3e19b768b" CHECKSUMTYPE="MD5" SIZE="85475">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00562_0.xml"/>
+      </file>
+      <file ID="alto_00562_1" MIMETYPE="text/xml" CHECKSUM="b47dd38ad7e72ee3ff7cf6b3e061352b" CHECKSUMTYPE="MD5" SIZE="168497">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00562_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0596" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1122" firstpage="1121">
+              <court id="b1123-11" pgmap="1123">Circuit Court, District of Columbia.</court>
+              <docketnumber id="b1123-8" pgmap="1123">Case No. 4,712.</docketnumber>
+              <citation id="b1123-10" pgmap="1123">[1 Hayw. &amp; H. 48.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1123-9" pgmap="1123">FEARSON v. UNITED STATES.</parties>
+              <decisiondate id="AhIK" pgmap="1123">Dec. 11, 1841.</decisiondate>
+              <attorneys id="b1124-3" pgmap="1124">James Hoban, for. petitioner.</attorneys>
+              <attorneys id="b1124-4" pgmap="1124">F. S. Key, for the United States.</attorneys>
+              <footnote label="1">
+                <p id="b1123-14" pgmap="1123">1 [Reported by John A. Hayward, Esq., and George C. Hazleton, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p id="b1124-5" pgmap="1124">After argument of counsel the judgment of the criminal court was affirmed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1123" ORDERLABEL="1121" TYPE="page">
+        <fptr FILEID="tiff_00562_0"/>
+        <fptr FILEID="jp2_00562_0"/>
+        <fptr FILEID="alto_00562_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1123.7" BETYPE="IDREF" FILEID="alto_00562_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1124" ORDERLABEL="1122" TYPE="page">
+        <fptr FILEID="tiff_00562_1"/>
+        <fptr FILEID="jp2_00562_1"/>
+        <fptr FILEID="alto_00562_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1124.5" BETYPE="IDREF" FILEID="alto_00562_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1123-8" BETYPE="IDREF" FILEID="casebody_0596"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1123.11" BETYPE="IDREF" FILEID="alto_00562_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1123-9" BETYPE="IDREF" FILEID="casebody_0596"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1123.12" BETYPE="IDREF" FILEID="alto_00562_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhIK" BETYPE="IDREF" FILEID="casebody_0596"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1123.15" BETYPE="IDREF" FILEID="alto_00562_0"/>
+            <area BEGIN="BL_1123.16" BETYPE="IDREF" FILEID="alto_00562_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1124-5" BETYPE="IDREF" FILEID="casebody_0596"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1124.8" BETYPE="IDREF" FILEID="alto_00562_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1123-14" BETYPE="IDREF" FILEID="casebody_0596"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1123.20" BETYPE="IDREF" FILEID="alto_00562_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1124-4" BETYPE="IDREF" FILEID="casebody_0596"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1124.7" BETYPE="IDREF" FILEID="alto_00562_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1124-3" BETYPE="IDREF" FILEID="casebody_0596"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1124.6" BETYPE="IDREF" FILEID="alto_00562_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1123-10" BETYPE="IDREF" FILEID="casebody_0596"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1123.13" BETYPE="IDREF" FILEID="alto_00562_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1123-11" BETYPE="IDREF" FILEID="casebody_0596"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1123.14" BETYPE="IDREF" FILEID="alto_00562_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

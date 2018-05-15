@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0300" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="In re Jewell">In re JEWELL et al.</name>
+          <docketnumber>Case No. 7,302</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 579</citation>
+          <citation category="parallel" type="bluebook">19 N. B. R. 383</citation>
+          <decisiondate>1879-06-25</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00291_0" MIMETYPE="image/tiff" CHECKSUM="177eaee44691c71017b38e5115b7ffb8" CHECKSUMTYPE="MD5" SIZE="83620">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00291_0.tif"/>
+      </file>
+      <file ID="tiff_00291_1" MIMETYPE="image/tiff" CHECKSUM="34a1a984f6885f4b8fb6d48f66e5aa6f" CHECKSUMTYPE="MD5" SIZE="70060">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00291_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00291_0" MIMETYPE="image/jp2" CHECKSUM="2ad8b48491dde2432225ddcf5027da3b" CHECKSUMTYPE="MD5" SIZE="3689280">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00291_0.jp2"/>
+      </file>
+      <file ID="jp2_00291_1" MIMETYPE="image/jp2" CHECKSUM="3919c213f4b4e864b065db4980072d79" CHECKSUMTYPE="MD5" SIZE="2815038">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00291_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00291_0" MIMETYPE="text/xml" CHECKSUM="ae3101d3e9ab374b88bac4577fd6ba9a" CHECKSUMTYPE="MD5" SIZE="176816">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00291_0.xml"/>
+      </file>
+      <file ID="alto_00291_1" MIMETYPE="text/xml" CHECKSUM="37b9f83b1d5f7830099b930b5f452938" CHECKSUMTYPE="MD5" SIZE="143378">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00291_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0300" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="580" firstpage="579">
+              <court pgmap="581" id="b581-12">District Court, S. D. New York.</court>
+              <docketnumber pgmap="581" id="b581-9">Case No. 7,302.</docketnumber>
+              <citation pgmap="581" id="b581-11">[19 N. B. R. 383.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="581" id="b581-10">In re JEWELL et al.</parties>
+              <decisiondate pgmap="581" id="A1g4">June 25, 1879.</decisiondate>
+              <attorneys pgmap="581" id="b581-20">Jacob F. Miller, for petitioner.</attorneys>
+              <attorneys pgmap="581" id="b581-21">Chas. W. Marsh, for opposing creditors.</attorneys>
+              <footnote label="1">
+                <p pgmap="581" id="b581-19">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="581" id="b581-22">CHOATE, District Judge.</author>
+                <p pgmap="581(515) 582(140)" id="Aqqg">The bankrupts were lessees of a building for the purpose of carrying on the business of manufacturing lard oil and perfuming lard, under a written lease, which permitted them “to make such alterations to the building requisite to said business, subject nevertheless to the clause here following.” The clause referred to was “and at the expiration of the said term, the said party of the second part will quit and surrender the premises hereby demised in as good state and condition as reasonable use and wear thereof will permit, damages by the elements excepted.” I think the true con­struction of these two clauses is, that if al­terations were made which affected injuri­ously the state and condition of the building as it was before making the alterations, it should, at the expiration of the lease, be re­stored to its former condition in respect to the changes so made. I do not see how other­wise any meaning is given to the words “sub­ject nevertheless to the clause here follow­ing.” The lessor permits any alterations, however injurious, that the lessees may find “requisite to the business.” The parties do not attempt to specify in advance what such alterations shall be, but, to secure the lessor against loss in the working of this license, he expressly provides that notwithstanding such alterations “the premises hereby de­mised,” — that is, the building substantially as it then was — should be surrendered at the expiration of the term in the same state and condition, reasonable use and damage of the elements alone excepted. The construction contended for by the opposing creditors, that the covenant is only to surrender the prem­ises as they may be altered in good state and condition, seems not to me to give full effect to all parts of the instrument, nor consistent with the intent of the parties appearing there­in. The fact that, in anticipation of the ex­piration of the lease, the lessors relet the building to a tenant whose business was such as to make the building, as altered, conven­ient for him, seems not to affect or impair the cause of action which the lessor has against the bankrupts for breach of the cov­enant. The lessees were, as the lessor knew, disabled by their bankruptcy from perform­ing their covenant, and he did not waive any rights by letting the premises to a tenant who happened to want them as they were. It is not for the bankrupts wrho have broken their covenant to say to the lessor in excuse: “You do not need the restoration of the build­ing to its former condition, which we agreed to make, for your present use of it” Nor is it material whether the lessor has got in fact as good a rent for it in its altered condition as he would probably have got for it if re­stored. If this is so, it is his good fortune, and there is no reason why it should inure to the benefit of the former lessees. The ques­tion simply is, how much is the building in­jured by the alterations? j And on this issue I think the opinions of experts familiar with the market value of similar premises, and especially with the rental value of such prop­erty, are competent. The witness Naylor seems to have had sufficient experience to make him a competent witness on the ques­tion of the extent of the damage. Evidence also of the cost of restoring the building to its former condition would be competent. Al­though Mr. Naylor’s experience was as a builder, and not as a repairer of buildings, yet he had such an experience as to the cost of materials and labor that I think he should have been allowed to testify on this point also. Report recommitted, with instructions to give the parties a further hearing.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="581" ORDERLABEL="579" TYPE="page">
+        <fptr FILEID="tiff_00291_0"/>
+        <fptr FILEID="jp2_00291_0"/>
+        <fptr FILEID="alto_00291_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_581.4" BETYPE="IDREF" FILEID="alto_00291_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="582" ORDERLABEL="580" TYPE="page">
+        <fptr FILEID="tiff_00291_1"/>
+        <fptr FILEID="jp2_00291_1"/>
+        <fptr FILEID="alto_00291_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_582.5" BETYPE="IDREF" FILEID="alto_00291_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-19" BETYPE="IDREF" FILEID="casebody_0300"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.21" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqqg" BETYPE="IDREF" FILEID="casebody_0300"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.25" BETYPE="IDREF" FILEID="alto_00291_0"/>
+            <area BEGIN="BL_581.26" BETYPE="IDREF" FILEID="alto_00291_0"/>
+            <area BEGIN="BL_582.2" BETYPE="IDREF" FILEID="alto_00291_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-12" BETYPE="IDREF" FILEID="casebody_0300"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.15" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-11" BETYPE="IDREF" FILEID="casebody_0300"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.14" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-10" BETYPE="IDREF" FILEID="casebody_0300"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.13" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-22" BETYPE="IDREF" FILEID="casebody_0300"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.24" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-20" BETYPE="IDREF" FILEID="casebody_0300"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.22" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-21" BETYPE="IDREF" FILEID="casebody_0300"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.23" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1g4" BETYPE="IDREF" FILEID="casebody_0300"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.16" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b581-9" BETYPE="IDREF" FILEID="casebody_0300"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_581.12" BETYPE="IDREF" FILEID="alto_00291_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

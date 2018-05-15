@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0123" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="Jackson v. Breck">JACKSON et al. v. BRECK et al.</name>
+          <docketnumber>Case No. 7,132</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 212</citation>
+          <citation category="parallel" type="bluebook">11 O. G. 112</citation>
+          <decisiondate>1876-11-29</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00107_1" MIMETYPE="image/tiff" CHECKSUM="81b5a5f3f36ad371dec48434862bff4c" CHECKSUMTYPE="MD5" SIZE="56542">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00107_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00107_1" MIMETYPE="image/jp2" CHECKSUM="deeb63f359b4ea14d5309e1f63c12e57" CHECKSUMTYPE="MD5" SIZE="2504434">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00107_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00107_1" MIMETYPE="text/xml" CHECKSUM="e733b951d126790f03dc31fb3c2d0fcb" CHECKSUMTYPE="MD5" SIZE="109796">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00107_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0123" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="212" firstpage="212">
+              <court pgmap="214" id="b214-8">Circuit Court, D. Massachusetts.</court>
+              <docketnumber pgmap="214" id="b214-5">Case No. 7,132.</docketnumber>
+              <citation pgmap="214" id="b214-7">[11 O. G. 112.]</citation>
+              <parties pgmap="214" id="b214-6">JACKSON et al. v. BRECK et al.</parties>
+              <decisiondate pgmap="214" id="AAp">Nov. 29, 1876.</decisiondate>
+              <opinion type="majority">
+                <author pgmap="214" id="b214-12">SHEPLEY, Circuit Judge.</author>
+                <p pgmap="214" id="AtZu">This cause came on to be heard at the October term of this court, A. D. 1875, upon the pleadings and proofs, and was argued by counsel for the respective parties, and was continued under advisement from term to term to this present term, and now, upon consideration thereof, to wit, November 29, 1876, it is ordered, adjudged, and decreed as follows, viz., that the letters patent referred to in the complainants’ bill, being reissued letters pat­ent of the United States, No. 3,460, granted unto Silas E. and Morgan P. Jackson, May 25, 1869, for “improvement in mowing-ma­chines,” and extended seven years from De­cember 29, 1871, is a good and valid patent; and that the said Silas E. and Morgan P. Jackson were the original and first inventors of the improvement described and claimed therein; and that the said defendants have infringed the second and fourth claims of the said patent, and upon the exclusive rights of the complainants under the same. And it is further ordered, adjudged, and decreed that the complainants recover of the defend­ants the profits which they have received or made, or which have accrued to them from said infringement by the manufacture, use, or sale of the improvement described, and se­cured by said letters patent, at any and all times since May 25, 1869, and also, in addi­tion thereto, the damages which the com­plainants have sustained thereby. And it is further ordered, adjudged, and decreed that it be referred to John G. Stetson, a mas­ter of this court, to take and report to the court an account of the profits which the said defendants have received, or which have arisen or accrued to them from the manufacture, use, or sale of said improve­ment, or from said infringement, and to as­certain and report the damages which the complainants have sustained thereby since the said 25th day of May, 1869. And it is further ordered, adjudged, and decreed that a perpetual injunction be issued against the defendants according to the prayer of the bill. And it is further ordered, adjudged, and decreed that the complainants recover ox the defendants their costs of suit.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="214" ORDERLABEL="212" TYPE="page">
+        <fptr FILEID="tiff_00107_1"/>
+        <fptr FILEID="jp2_00107_1"/>
+        <fptr FILEID="alto_00107_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_214.5" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtZu" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.21" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            <area BEGIN="BL_214.22" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            <area BEGIN="BL_214.23" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-8" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.11" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-6" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.9" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-7" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.10" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AAp" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.12" BETYPE="IDREF" FILEID="alto_00107_1"/>
+            <area BEGIN="BL_214.13" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-5" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.8" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b214-12" BETYPE="IDREF" FILEID="casebody_0123"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_214.20" BETYPE="IDREF" FILEID="alto_00107_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

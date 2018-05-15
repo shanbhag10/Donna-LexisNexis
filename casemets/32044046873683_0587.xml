@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0587" publicationstatus="published">
+          <court abbreviation="C.C.D. La." jurisdiction="United States">United States Circuit Court for the District of Louisiana</court>
+          <name abbreviation="Fawcett v. The Natchez">FAWCETT v. The NATCHEZ</name>
+          <docketnumber>Case No. 4,703</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1108</citation>
+          <citation category="parallel" type="bluebook">3 Woods, 16</citation>
+          <decisiondate>1876-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00555_1" MIMETYPE="image/tiff" CHECKSUM="d7d37efea94198cff8a6f7535e31c297" CHECKSUMTYPE="MD5" SIZE="60158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00555_1.tif"/>
+      </file>
+      <file ID="tiff_00556_0" MIMETYPE="image/tiff" CHECKSUM="f8a1d28c0e8dd4dc9a3439c7feaeacdc" CHECKSUMTYPE="MD5" SIZE="63100">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00556_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00555_1" MIMETYPE="image/jp2" CHECKSUM="6a0d7f7536c28bdcf6660a23ce773496" CHECKSUMTYPE="MD5" SIZE="2699171">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00555_1.jp2"/>
+      </file>
+      <file ID="jp2_00556_0" MIMETYPE="image/jp2" CHECKSUM="f484d6073e8c76023b8a7042686956eb" CHECKSUMTYPE="MD5" SIZE="2569852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00556_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00555_1" MIMETYPE="text/xml" CHECKSUM="842f5823e5e9c77beaa995860c5c9c5e" CHECKSUMTYPE="MD5" SIZE="120967">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00555_1.xml"/>
+      </file>
+      <file ID="alto_00556_0" MIMETYPE="text/xml" CHECKSUM="2fabd8b9e66da83fcb0e7da376eeb788" CHECKSUMTYPE="MD5" SIZE="122806">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00556_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0587" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1109" firstpage="1108">
+              <court id="b1110-27" pgmap="1110">Circuit Court, D. Louisiana.</court>
+              <docketnumber id="b1110-24" pgmap="1110">Case No. 4,703.</docketnumber>
+              <citation id="b1110-26" pgmap="1110">[3 Woods, 16.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1110-25" pgmap="1110">FAWCETT v. The NATCHEZ.</parties>
+              <decisiondate id="AVT-" pgmap="1110">Nov. Term, 1876.</decisiondate>
+              <attorneys id="b1111-3" pgmap="1111">B. Egan; for libelant</attorneys>
+              <attorneys id="b1111-4" pgmap="1111">C. B. Singleton and R. H. Browne, for claimants.</attorneys>
+              <footnote label="1">
+                <p id="b1110-32" pgmap="1110">1 [Reported by Hon. William B. Woods. Cir­cuit Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1111-5" pgmap="1111">WOODS, Circuit Judge.</author>
+                <p id="AEWl" pgmap="1111">The evidence sat­isfies me that if due and usual diligence had been used in mooring the barge and bracing her from the bank, the accident which caused the loss of the barge could not have happened. It appears to be necessary, in order to keep barges moored at the bank from being violently driven on shore by the swell .of passing boats, to brace them off from the bank with spars, and it is the in­variable custom to do this.</p>
+                <p id="b1111-6" pgmap="1111">It appears from the evidence of Charles Walker, one of libelant’s witnesses, that be­fore the Natchez passed up the river the coal-barge had, at the time of the passage of a small stern-wheel steamer, the Bessie Taylor, tripped one of her spars, and while the spar was in that condition the Natchez passed. The effect of the passing of the Natchez was to make a swell and swing the barge against the bank. This evidence is corroborated by the testimony of Charles Walker, also a witness for libelant</p>
+                <p id="b1111-7" pgmap="1111">Small stern-wheel steamers like the Taylor do not make sufficient commotion in the water to disturb the coal barges, if they are properly moored and braced. The bra­cing of the barge must have been defective or the spar would not have tripped and become useless by reason of the passing of the Taylor. Had the barge been skillfully and properly braced, her spars could not have been displaced, and the damage that was caused by the passing of the Natchez could not have occurred.</p>
+                <p id="b1111-8" pgmap="1111">The Mississippi river is a public highway, open and free for the passage of all classes and sizes of water-craft They have the right to follow the usual channels, and it is incumbent on those who have rafts, barges or other water-craft moored to the banks to foresee and provide against accidents liable to result from the swell of passing steamers. Williams v. Wilcox, 8 Adol. &amp; E. 314; Morrison v. Thurman, 17 B. Mon. 249; Sherlock v. Bainbridge, 41 Ind. 35. The Natchez was in the usual channel for ascending steamers. The proximate cause of the injury and damage was the careless­ness and unskillfulness of those in charge of the mooring and bracing of the barge. The steamer was where she had the right to be. She did not transcend her own rights or in­vade those of others, and she cannot be held responsible for the injury. Libel dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1110" ORDERLABEL="1108" TYPE="page">
+        <fptr FILEID="tiff_00555_1"/>
+        <fptr FILEID="jp2_00555_1"/>
+        <fptr FILEID="alto_00555_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1110.5" BETYPE="IDREF" FILEID="alto_00555_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1111" ORDERLABEL="1109" TYPE="page">
+        <fptr FILEID="tiff_00556_0"/>
+        <fptr FILEID="jp2_00556_0"/>
+        <fptr FILEID="alto_00556_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1111.3" BETYPE="IDREF" FILEID="alto_00556_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-8" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.12" BETYPE="IDREF" FILEID="alto_00556_0"/>
+            <area BEGIN="BL_1111.13" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEWl" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.8" BETYPE="IDREF" FILEID="alto_00556_0"/>
+            <area BEGIN="BL_1111.9" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AVT-" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1110.36" BETYPE="IDREF" FILEID="alto_00555_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1110-32" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1110.41" BETYPE="IDREF" FILEID="alto_00555_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-3" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.5" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1110-25" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1110.33" BETYPE="IDREF" FILEID="alto_00555_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1110-24" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1110.32" BETYPE="IDREF" FILEID="alto_00555_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1110-27" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1110.35" BETYPE="IDREF" FILEID="alto_00555_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1110-26" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1110.34" BETYPE="IDREF" FILEID="alto_00555_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-7" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.11" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-6" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.10" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-5" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.7" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-4" BETYPE="IDREF" FILEID="casebody_0587"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.6" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0452" publicationstatus="published">
+          <court abbreviation="E.D. Mich." jurisdiction="United States">United States District Court for the Eastern District of Michigan</court>
+          <name abbreviation="In re Jones">In re JONES</name>
+          <docketnumber>Case No. 7,451</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 936</citation>
+          <citation category="parallel" type="bluebook">9 N. B. R. (1873) 491</citation>
+          <decisiondate>1872</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00469_1" MIMETYPE="image/tiff" CHECKSUM="e205b94afa7796e27d1fdfc9f5b9ac53" CHECKSUMTYPE="MD5" SIZE="82792">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00469_1.tif"/>
+      </file>
+      <file ID="tiff_00470_0" MIMETYPE="image/tiff" CHECKSUM="4d8a16c3b18f64e62550dd585a9667e0" CHECKSUMTYPE="MD5" SIZE="96546">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00470_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00469_1" MIMETYPE="image/jp2" CHECKSUM="d62bd343909a543e7c81a62b97d27c5b" CHECKSUMTYPE="MD5" SIZE="3058826">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00469_1.jp2"/>
+      </file>
+      <file ID="jp2_00470_0" MIMETYPE="image/jp2" CHECKSUM="4142de0f272bc04529828a607f914d4b" CHECKSUMTYPE="MD5" SIZE="3466177">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00470_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00469_1" MIMETYPE="text/xml" CHECKSUM="a8dca0536c7da560d5b01f8d3932dd72" CHECKSUMTYPE="MD5" SIZE="173765">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00469_1.xml"/>
+      </file>
+      <file ID="alto_00470_0" MIMETYPE="text/xml" CHECKSUM="426f4984189187fdad7d7afe04c659cc" CHECKSUMTYPE="MD5" SIZE="207890">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00470_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0452" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="937" firstpage="936">
+              <court pgmap="938" id="AS_U">District Court, E. D. Michigan.</court>
+              <docketnumber pgmap="938" id="b938-5">Case No. 7,451.</docketnumber>
+              <citation pgmap="938" id="AWFI">[9 N. B. R. (1873) 491.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="938" id="ANXO">In re JONES.</parties>
+              <footnote label="1">
+                <p pgmap="938" id="b938-16">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="938" id="b938-13">By HO VEX K. CLARKE, Register:</author>
+                <p pgmap="938" id="b938-14">It is proper that I should state briefly the reason of my hesitation to allow the account as presented.</p>
+                <p pgmap="938(47) 939(379)" id="b938-15">As to the Assignee’s Services. — The whole estate in this case, as realized by the as-­signee, amounts to $1.466 70, namely: Col­lected on accounts, $29 70; for goods sold, $337; for rent, $80, and by suit compromised at $1,000. The whole amount of expenses •are stated in the assignee’s account at $1,-­•319 40, leaving a balance for distribution of $147 30. This result should have some in­fluence in considering the accounts which present it. I know, indeed, how impossible it would he, in some cases, to allow a proper compensation for the services of an assignee, if such allowance were to hie controlled by a commission on the amount which such serv­ices realized for distribution to creditors. 'That, the statute fixes by the commission which it allows upon sums collected and paid out. But the “reasonable compensa­tion” in addition to commissions for which section 17 provides, and which is to be grant­ed in the discretion of the court, I think should be fixed in view of all the circumstan­ces which a prudent and intelligent business man would regard as proper to influence his •action. It is’ difficult to see, for instance, what there was in this estate, whether as shown by the result, or as appears from any •other facts set up to sustain the assignee's account, which would render it judicious to spend fifty-eight days of actual service by the assignee. And, while.I think that as­signees should be paid for the time neces­sarily devoted by them to the execution of their trusts, I think also that they should be held to some responsibility for the exercise of a reasonable judgment, as to the amount of time thus to be devoted. I think the char­ges by the assignee in this case were made under the impression that usage had estab­lished a per diem of five dollars as some­thing in the nature of a statutory fee, rather than as for a compensation in each case for a service actually rendered. I concede the difficulty of prescribing a definite rule by which to settle such charges; and perhaps the greater difficulty of applying any such rule to the great variety of circumstances in •each case. But I think, in this ease, in view •of the whole amount of the estate, as de­veloped by the result, and of what might probably have been known about it, that one hundred and fifty dollars would be an ade­quate compensation for all the services really required.</p>
+                <p pgmap="939" id="b939-3">As to Charges for Professional Services.— The gross amount paid by the assignee, for which he presents vouchers signed by Messrs. Dickinson &amp; Dickinson, is $631 80. Of this $0 SO was paid for traveling expenses, $95 to register, clerk and marshal, $147 25 for fees of witnesses summoned for the trial of the suit which was compromised at the sum of $1,000, leaving the sum of $402 75 for pro­fessional services. The charge of $120 for obtaining the adjudication of bankruptcy is about double what is usually allowed for this service. The services rendered in the suit are ' fully set forth in the affidavit of Mr. ,T. G. Dickinson — they were rendered in a matter possibly within the recollection of the district judge, as the trial referred to in Mr. Dickinson's affidavit was before him sitting in the circuit court, — and therefore as to the proper allowance for these services I refrain from any recommendation.</p>
+                <author pgmap="939" id="b939-6">LONGYEAR, District Judge.</author>
+                <p pgmap="939" id="A3pS">Assignees' Services. — As a convenient mode of getting at a proper allowance for services of as­signees, an allowance by the day has usually been adopted. But this is hardly a fair mode where, as in this case, the time charged for is very large, and the estate very small. So, too, as to the per diem allowed. Five dol­lars is the maximum allowed in this court. It would not be reasonable to allow the high­est compensation in a case like the present where the time charged for is unusually large and the estate is so small that the ex­penses of administration must, in any event, absorb much of the larger portion of it. Here, too, the assignee is himself a creditor, and he must submit to a sacrifice of some­thing of his services for the common good. The opinion of the register, in its reasoning and conclusion in this regard, is approved.</p>
+                <p pgmap="939" id="b939-7">Professional Services. — The usual allow­ance in this court for preparing petition, etc., and obtaining an adjudication when un­contested, is $30. No reason appears why more than that should be allowed in this case except for the extra services in making the necessaiy preliminary investigations, for which $25 additional must be allowed, making these items $73 in all, 'instead of $120, as charged. For services in the chan­cery suit $75 must be allowed instead of $100, as charged. The remaining items for professional services must stand as charged.</p>
+                <p pgmap="939" id="b939-8">One of the chief reproaches brought against the bankrupt law is, that small estates are absorbed in costs and expenses; and it must be understood that when such cases are un­dertaken and prosecuted, charges for serv­ices will be limited to what the court con­siders a bare compensation, whether profes­sional or otherwise.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="938" ORDERLABEL="936" TYPE="page">
+        <fptr FILEID="tiff_00469_1"/>
+        <fptr FILEID="jp2_00469_1"/>
+        <fptr FILEID="alto_00469_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_938.3" BETYPE="IDREF" FILEID="alto_00469_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="939" ORDERLABEL="937" TYPE="page">
+        <fptr FILEID="tiff_00470_0"/>
+        <fptr FILEID="jp2_00470_0"/>
+        <fptr FILEID="alto_00470_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_939.3" BETYPE="IDREF" FILEID="alto_00470_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b939-8" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_939.11" BETYPE="IDREF" FILEID="alto_00470_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b939-3" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_939.5" BETYPE="IDREF" FILEID="alto_00470_0"/>
+            <area BEGIN="BL_939.6" BETYPE="IDREF" FILEID="alto_00470_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3pS" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_939.8" BETYPE="IDREF" FILEID="alto_00470_0"/>
+            <area BEGIN="BL_939.9" BETYPE="IDREF" FILEID="alto_00470_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b938-5" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_938.9" BETYPE="IDREF" FILEID="alto_00469_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b938-16" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_938.20" BETYPE="IDREF" FILEID="alto_00469_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b938-15" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_938.19" BETYPE="IDREF" FILEID="alto_00469_1"/>
+            <area BEGIN="BL_939.1" BETYPE="IDREF" FILEID="alto_00470_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b938-14" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_938.18" BETYPE="IDREF" FILEID="alto_00469_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b938-13" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_938.17" BETYPE="IDREF" FILEID="alto_00469_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AS_U" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_938.12" BETYPE="IDREF" FILEID="alto_00469_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANXO" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_938.10" BETYPE="IDREF" FILEID="alto_00469_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b939-6" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_939.7" BETYPE="IDREF" FILEID="alto_00470_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b939-7" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_939.10" BETYPE="IDREF" FILEID="alto_00470_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWFI" BETYPE="IDREF" FILEID="casebody_0452"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_938.11" BETYPE="IDREF" FILEID="alto_00469_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

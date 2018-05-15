@@ -1,0 +1,309 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0112" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Jack Jewett">The JACK JEWETT</name>
+          <docketnumber>Case No. 7,121</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 188</citation>
+          <citation category="parallel" type="bluebook">2 Ben. 353</citation>
+          <decisiondate>1868-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00095_1" MIMETYPE="image/tiff" CHECKSUM="29c29c8ae5d6c75fb3f0b7867ef58fe7" CHECKSUMTYPE="MD5" SIZE="96622">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00095_1.tif"/>
+      </file>
+      <file ID="tiff_00096_0" MIMETYPE="image/tiff" CHECKSUM="1793824e7df63360606e9f7c8c562a53" CHECKSUMTYPE="MD5" SIZE="55568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00096_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00095_1" MIMETYPE="image/jp2" CHECKSUM="327420481821f43c922bf512ee44edc9" CHECKSUMTYPE="MD5" SIZE="3438169">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00095_1.jp2"/>
+      </file>
+      <file ID="jp2_00096_0" MIMETYPE="image/jp2" CHECKSUM="150c089e03f908f8a34799b61feb0e5b" CHECKSUMTYPE="MD5" SIZE="2364971">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00096_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00095_1" MIMETYPE="text/xml" CHECKSUM="7a97f42f5558be8ec7189de33ca10aad" CHECKSUMTYPE="MD5" SIZE="203685">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00095_1.xml"/>
+      </file>
+      <file ID="alto_00096_0" MIMETYPE="text/xml" CHECKSUM="c1dec3553a8db3ad0e3b8d5fac7851bc" CHECKSUMTYPE="MD5" SIZE="121984">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00096_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0112" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="189" firstpage="188">
+              <court pgmap="190" id="b190-15">District Court, S. D. New York.</court>
+              <docketnumber pgmap="190" id="b190-12">Case No. 7,121.</docketnumber>
+              <citation pgmap="190" id="b190-14">[2 Ben. 353.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="190" id="b190-13">The JACK JEWETT.</parties>
+              <decisiondate pgmap="190" id="AQpD">April, 1868.</decisiondate>
+              <attorneys pgmap="191" id="b191-7">T. C. T. Buckley and J. K. Hill, for peti­tioners.</attorneys>
+              <attorneys pgmap="191" id="b191-8">T. Scudder, for the marshal.</attorneys>
+              <footnote label="1">
+                <p pgmap="190" id="b190-18">1 [Benortcd by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="191" id="AWi">BLATCHFORD, District Judge.</author>
+                <p pgmap="191" id="AHN">The dif­ficulty in the way of granting to the peti­tioners the relief asked is, that the suit is discontinued. The vessel has been released from custody. The marshal was authorized to release her. The only complaint is that he gave her up to the wrong person. The court has no longer any possession of the vessel, or any jurisdiction of the suit, either in rem against the vessel, or in personam against such of the petitioners as were par­ties to it, and has no power to give the re­lief asked. The marshal has not disobeyed any process or order of court, or been guilty of any contempt of court for which he can be attached, and that is not the re­lief asked. If the marshal, while the ves­sel was in his custody, suffered her to be in­jured, or has been guilty.of a breach of duty in permitting the libellant to take posses­sion of her, and in not delivering her back to the custody.of those from whose posses­sion he took her, the parties aggrieved have their remedy against him by a proper action in the proper tribunal. This court cannot administer the relief asked in this sum­mary way on this petition. This suit hav­ing been discontinued on the 10th of March, 18G8, and the vessel discharged from the cus­tody of the marshal by the order of this court, without any special direction to the marshal as to the' person to whom he was to deliver the vessel, there is not, even if the-­marshal was guilty of a breach of duty in delivering her to the libellant, such an ir­regularity, or mistake, or fraud, as would' warrant the court in retaking possession of the vessel, even if it could do so in any case where the suit was regularly discontinued. By the discontinuance of the suit, the lien on the vessel is gone, and for the court now to order the marshal to seize her, when there is no suit pending, and no jurisdiction in the court over any thing or any perso.n in the premises, would seem to be to order the marshal to commit a naked trespass, in re­spect to which the order- of this court would be no protection to him if he were sued therefor. The principle which the circuit court for this district laid down in the cases of The Union [Case No. 14,346] and The White Squall [Id. 17,570], as applicable to the case of a discharge of a vessel on a stipulation for value in a suit in rem, that the court has no power to order back, into the custody of the marshal, a vessel which has, on a stipulation, been fairly discharged from arrest, applies, a fortiori, to a case where she has been properly discharged by the termination of the suit,</p>
+                <p pgmap="191" id="Az4">The prayer of the petition is denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="190" ORDERLABEL="188" TYPE="page">
+        <fptr FILEID="tiff_00095_1"/>
+        <fptr FILEID="jp2_00095_1"/>
+        <fptr FILEID="alto_00095_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_190.4" BETYPE="IDREF" FILEID="alto_00095_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="191" ORDERLABEL="189" TYPE="page">
+        <fptr FILEID="tiff_00096_0"/>
+        <fptr FILEID="jp2_00096_0"/>
+        <fptr FILEID="alto_00096_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_191.3" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AQpD" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.20" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Az4" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.13" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-13" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.17" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-12" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.16" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-15" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.19" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-14" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.18" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b190-18" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_190.23" BETYPE="IDREF" FILEID="alto_00095_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-7" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.8" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHN" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.11" BETYPE="IDREF" FILEID="alto_00096_0"/>
+            <area BEGIN="BL_191.12" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b191-8" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.9" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWi" BETYPE="IDREF" FILEID="casebody_0112"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_191.10" BETYPE="IDREF" FILEID="alto_00096_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

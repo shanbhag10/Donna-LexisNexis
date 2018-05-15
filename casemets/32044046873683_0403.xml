@@ -1,0 +1,324 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0403" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="The Eroe">The EROE</name>
+          <docketnumber>Case No. 4,522</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 775</citation>
+          <citation category="parallel" type="bluebook">17 Blatchf. 16</citation>
+          <decisiondate>1879-08-11</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00389_0" MIMETYPE="image/tiff" CHECKSUM="d5667ae9eab0d4d6ebfc634f0f8e0a60" CHECKSUMTYPE="MD5" SIZE="95310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00389_0.tif"/>
+      </file>
+      <file ID="tiff_00389_1" MIMETYPE="image/tiff" CHECKSUM="54cdf22b13005f1bfd0ce380a1199d38" CHECKSUMTYPE="MD5" SIZE="104602">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00389_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00389_0" MIMETYPE="image/jp2" CHECKSUM="946657ab1a18183aa74a70e17cbc3c6c" CHECKSUMTYPE="MD5" SIZE="3501231">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00389_0.jp2"/>
+      </file>
+      <file ID="jp2_00389_1" MIMETYPE="image/jp2" CHECKSUM="bcd5710b208558df5d820c77564d075f" CHECKSUMTYPE="MD5" SIZE="3609185">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00389_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00389_0" MIMETYPE="text/xml" CHECKSUM="1cb35349aa49d6b29b6c20ec33000b67" CHECKSUMTYPE="MD5" SIZE="208752">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00389_0.xml"/>
+      </file>
+      <file ID="alto_00389_1" MIMETYPE="text/xml" CHECKSUM="6a3f7a21adf292a75ac68d90af095396" CHECKSUMTYPE="MD5" SIZE="224642">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00389_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0403" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="776" firstpage="775">
+              <court id="b777-9" pgmap="777">Circuit Court, S. D. New York.</court>
+              <docketnumber id="b777-6" pgmap="777">Case No. 4,522.</docketnumber>
+              <citation id="b777-8" pgmap="777">[17 Blatchf. 16.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b777-7" pgmap="777">The EROE.</parties>
+              <decisiondate id="AqSm" pgmap="777">Aug. 11, 1879.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys id="b777-18" pgmap="777">Beebe, Wilcox &amp; Hobbs, for libellant</attorneys>
+              <attorneys id="b777-19" pgmap="777">Butler, Stillman &amp; Hubbard, for claimant.</attorneys>
+              <footnote label="1">
+                <p id="b777-15" pgmap="777">1 [Reported by Hon. Samuel Blatchford, Cir­cuit Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="b777-16" pgmap="777">2 [Affirming Case No. 4,521.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b777-20" pgmap="777">BLATCHFORD, Circuit Judge.</author>
+                <p id="AJvk" pgmap="777">The libel claims $300 for damage to 1,503 bags of.al­monds in the shell, the damage being al­leged to have been caused by the improper stowage of the almonds, so that they were injured by oil and wine. The district court found, from the proofs, that the contents of 192 of the bags were, on arrival, injured by contact with petroleum oil, and that the ves­sel was responsible for such damage. On a reference- fb ascertain the amount of such damage, the referee reported that no dam­ages to the libellant were proved. On ex­ceptions to the report by the libellant, the district court sustained the exceptions, and made a decree awarding to the libellant, as damages, $100, with $15 75 interest and $112 57 costs, being $228 32, in all. [Case No. 4,521.] The libellant is satisfied with this decree, and has not appealed. The claimant has appealed. The district court held, that the diminution of the almonds in value was wholly caused by petroleum, and that the proper measure of damage was the difference between the market value of the almonds in the 192 bags, as they arrived, and their sound value. This the court fixed at $100, and it allowed interest thereon from the date of the arrival of the vessel.</p>
+                <p id="b777-21" pgmap="777(283) 778(443)">The claimant insisted, before the district court, that the libellant ought to give credit for a rebate of duties which he had received from the United States government, on the damaged almonds in the 192 bags, on ac­count of petroleum damage; and that the amount of such rebate exceeded $100. The district judge rejected this view, and said, in his decision: “The market price of a mer­chantable commodity must furnish the test of value. To take into consideration the amount of duty paid upon an article, in de­termining its value, is, according to my view, to resort to cost as a test of value. The rate of duty, doubtless, is an element which goes to fix market value, but the amount paid for duties upon any particular article is not tak­en into consideration, in determining the val­ue of that article. The article sells for the same, whether the owner paid or escaped paying the duty. So, in this instance, the damaged almonds were worth the same in the market, whether the libellant paid the whole, or a part, or none, of the duty; and the difference between that value and the market value of sound almonds shows the amount of injury caused by the failure of the ship-owner to perform his contract. Any ad­vantage which the freighter has gained in adjusting the duties, was an advantage to him in his contract with the government, not a benefit to the goods arising from the act of the ship-owner. The ship-owner is no party to the dealings of the freighter with the gov­ernment, and the result of that dealing can­not inure to his benefit: otherwise, the ship­owner might claim to take upon himself the adjustment of the duty, and, if not permit­ted, ho might ask to show, in diminution of his liability, that, if permitted, he would haye obtained a larger rebate. Upon these grounds, I must reject the claim of the re­spondent, that the rebate of duties Obtained by the libellant from the government bb credited to him, in' calculating the damage arising from his negligence.” This decision was made in July, 1877. In January, 1877, in the district court for the southern district of New Tork, the case of The Carlotta [Case No. 2,413] came before me, in Which, in di­recting an interlocutory decree for the libel-­lant, and a reference, in a suit for the breach of a contract of affreightment by a vessel, I said, that, if any sum of money had been re­ceived by the libellant, or by any purchaser of the damaged goods from him, from the government, as a rebate of duties, for loss or damage in respect of any goods as' to which an allowance should be found due for-­loss or damage, he must be charged with such sum. The view thus expressed was brought to the notice of the district judge who decided the present case. He an­nounced his dissent from it, and proceeded to give his own views, as above set forth. In the case of The Carlotta [supra] no allow­ance was, in fact, made for a rebate of du­ties, because, no allowance was made for damage in regard to any goods respecting which a rebate of duties was made. The case of The Carlotta came, on appeal, before Chief Justice Waite, sitting in the circuit court for the southern district of New York, July 31st, 1879 [unreported], but the question raised was not decided, because he concurred with me in not allowing any damage in re­gard to any goods respecting which a rebate of duties was made. It remains, therefore, to decide, in this case, whether, where a re­bate of duties is made in regard to goods re­specting which damage is awarded for breach of a contract of affreightment by a vessel, the vessel can have credit, against the amount of damage, for the amount of the rebate. I think the considerations set forth by the district judge, in this case, present the proper view of the law, and' that the libellant is entitled to a decree for $100, with interest from the date of the arrival of the vessel, with $112 57, his costs in the court be­low, and with his costs in this court.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="777" ORDERLABEL="775" TYPE="page">
+        <fptr FILEID="tiff_00389_0"/>
+        <fptr FILEID="jp2_00389_0"/>
+        <fptr FILEID="alto_00389_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_777.3" BETYPE="IDREF" FILEID="alto_00389_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="778" ORDERLABEL="776" TYPE="page">
+        <fptr FILEID="tiff_00389_1"/>
+        <fptr FILEID="jp2_00389_1"/>
+        <fptr FILEID="alto_00389_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_778.4" BETYPE="IDREF" FILEID="alto_00389_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b777-15" BETYPE="IDREF" FILEID="casebody_0403"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_777.19" BETYPE="IDREF" FILEID="alto_00389_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b777-16" BETYPE="IDREF" FILEID="casebody_0403"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_777.20" BETYPE="IDREF" FILEID="alto_00389_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b777-19" BETYPE="IDREF" FILEID="casebody_0403"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_777.22" BETYPE="IDREF" FILEID="alto_00389_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b777-18" BETYPE="IDREF" FILEID="casebody_0403"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_777.21" BETYPE="IDREF" FILEID="alto_00389_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b777-20" BETYPE="IDREF" FILEID="casebody_0403"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_777.23" BETYPE="IDREF" FILEID="alto_00389_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b777-21" BETYPE="IDREF" FILEID="casebody_0403"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_777.26" BETYPE="IDREF" FILEID="alto_00389_0"/>
+            <area BEGIN="BL_778.1" BETYPE="IDREF" FILEID="alto_00389_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b777-9" BETYPE="IDREF" FILEID="casebody_0403"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_777.12" BETYPE="IDREF" FILEID="alto_00389_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b777-8" BETYPE="IDREF" FILEID="casebody_0403"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_777.11" BETYPE="IDREF" FILEID="alto_00389_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqSm" BETYPE="IDREF" FILEID="casebody_0403"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_777.13" BETYPE="IDREF" FILEID="alto_00389_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJvk" BETYPE="IDREF" FILEID="casebody_0403"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_777.24" BETYPE="IDREF" FILEID="alto_00389_0"/>
+            <area BEGIN="BL_777.25" BETYPE="IDREF" FILEID="alto_00389_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b777-7" BETYPE="IDREF" FILEID="casebody_0403"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_777.10" BETYPE="IDREF" FILEID="alto_00389_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b777-6" BETYPE="IDREF" FILEID="casebody_0403"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_777.9" BETYPE="IDREF" FILEID="alto_00389_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

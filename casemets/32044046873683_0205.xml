@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0205" publicationstatus="published">
+          <court abbreviation="D. Or." jurisdiction="United States">United States District Court for the District of Oregon</court>
+          <name abbreviation="The Eldridge">The ELDRIDGE</name>
+          <docketnumber>Case No. 4,332</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 417</citation>
+          <decisiondate>1866-07-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00210_0" MIMETYPE="image/tiff" CHECKSUM="dc217cc0f82fa6de8ab0ad53624879d1" CHECKSUMTYPE="MD5" SIZE="100414">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00210_0.tif"/>
+      </file>
+      <file ID="tiff_00210_1" MIMETYPE="image/tiff" CHECKSUM="cf4d2c29420e9b7aa7199905302c6d3a" CHECKSUMTYPE="MD5" SIZE="98050">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00210_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00210_0" MIMETYPE="image/jp2" CHECKSUM="865c5630bfbdb0262383ce8a85867448" CHECKSUMTYPE="MD5" SIZE="3534946">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00210_0.jp2"/>
+      </file>
+      <file ID="jp2_00210_1" MIMETYPE="image/jp2" CHECKSUM="b3ceb70fd1280e1621b3c7a5ed3358db" CHECKSUMTYPE="MD5" SIZE="3471987">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00210_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00210_0" MIMETYPE="text/xml" CHECKSUM="8a5c6d9b2a04fe3809a2c62820829e93" CHECKSUMTYPE="MD5" SIZE="212392">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00210_0.xml"/>
+      </file>
+      <file ID="alto_00210_1" MIMETYPE="text/xml" CHECKSUM="d651d87ad868583fa5ae55e119c65bd6" CHECKSUMTYPE="MD5" SIZE="217371">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00210_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0205" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="418" firstpage="417">
+              <court id="b419-14" pgmap="419">District Court, D. Oregon.</court>
+              <docketnumber id="b419-11" pgmap="419">Case No. 4,332.</docketnumber>
+              <parties id="b419-12" pgmap="419">The ELDRIDGE.</parties>
+              <decisiondate id="Ae_e" pgmap="419">July 6, 1866.</decisiondate>
+              <attorneys id="b419-18" pgmap="419">Joseph N. Dolph, for libellant.</attorneys>
+              <attorneys id="b419-19" pgmap="419">Amory H. Holbrook, for claimant</attorneys>
+              <p id="b419-13" pgmap="419">[Deady, 176.]<footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p id="b419-23" pgmap="419">1 [Reported by Hon. Matthew P. Deady, Dis­trict Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b419-20" pgmap="419">DEADY, District Judge.</author>
+                <p id="A3h" pgmap="419">The libel in this cause was filed January 11, 1866, and states that on or about August 24. 1865, the bark Eldridge, with Joseph Williams as master, being on a voyage from the Sandwich Islands to the port of Portland, crossed the bar at the mouth of the Columbia river; that at the date aforesaid, the libellant was a duly commissioned pilot of said bar, under and by virtue of an appointment of the pilot com­missioners of the territory of Washington; and at the time said bark approached the bar, that the libellant then being in the steamtug Raboni, hailed the bark and offered to pilot her over the bar, but the master refused to recognize the libellant as a pilot or permit him to pilot the bark over the bar. On ac­count of this tender of services and refusal, this suit is brought to recover the sum of one hundred dollars, the amount of full pilotage.</p>
+                <p id="b419-21" pgmap="419">The claimant, John McCracken, excepts to the sufficiency of the libel, because it does not aver that the libellant exhibited his war­rant to the master, before offering to pilot the bark.</p>
+                <p id="b419-22" pgmap="419(60) 420(82)">The law under which the libellant seeks to recover, was passed by the legislature of the. territory of Washington, January 26, 1863. The provision upon which this exception is based is contained in section 3 of the act: “Every such branch pilot is authorized and directed, by himself or his deputy, to take charge of any vessel requiring his services, bound in or out of the Columbia river, or Shoalwater bay, but shall first show the mas­ter his warrant.” Section 7 provides that no vessel shall be compelled to take a pilot, but vessels over one hundred tons burthen shall be liable to pay half pilotase, in and out, to the first pilot offering his services, but if the master requires the services of a pilot, in any case, the pilot shall take charge of the vessel, “first exhibiting his authority.”</p>
+                <p id="b420-3" pgmap="420">The libel does not aver that the libellant exhibited his authority — showed the master his warrant, at the time of hailing the bark, and tendering his services as pilot The al­legations of the libel are only to the effect that at the time the libellant was duly au­thorized and qualified to take charge of the bark as pilot, and that the master refused to recognize him as such pilot and receive the tender of his service. Counsel for the libel-­lant cites Com. v. Ricketson, 5 Metc. [Mass.] 426, in support of the libel. In that case the court held that it was not necessary, in estab­lishing the tender of services on the part of the pilot, to even show that he had his war­rant with him at the time. But the statute of Massachusetts only directed the pilot to first show his warrant if required. The pilot act of Oregon [Gen. Laws Or. 707, § 14] agrees with that of Massachusetts in this respect— the pilot not being bound to show his war­rant unless required. But the Washington act is peculiar in this respect, and if con­strued literally, it might often be impossible for a pilot to make sufficient tender of his services, if the master of the vessel desired to prevent him. It would only be necessary to keep away when hailed, so that the pilot could not show his warrant, and the tender of service would be insufficient This would allow the master to take advantage of his own wrong. I think the statute is open to this construction at least, that the pilot ought to be excused from actually exhibiting his warrant, if he was prevented from so doing by the wrongful conduct of the master. It is the duty of a vessel when cm pilot ground, to so conduct herself as to enable the pilot to make a proper tender of his services, in the cases provided for by statute. But the stat­ute cannot be construed out of existence. The master is not bound to require the pro­duction of the warrant, and if he allows the pilot a reasonable opportunity to exhibit it, and the latter fails to do so, I think he must take the consequences of his neglect or omis­sion. The duty of demanding the production of the warrant not being devolved upon the master, his omission to do so is not á waiver on his part of anything. The tender of serv­ice on the part of the pilot, to be sufficient must include the exhibition of his warrant, unless prevented from so doing by the wrong­ful act of the master.</p>
+                <p id="b420-4" pgmap="420">The right of the libellant to recover pilotage in this case, rests upon a sufficient tender of his services as pilot on the occasion in ques­tion. And, unless the libel shows by direct and plain averment that such a tender was made, or a valid reason why it was not made, it is insufficient; it does not show a right to recover. The tender is in the nature of a condition precedent to the right to recover, and the libel must aver performance of it The libellant might have been a qualified pilot, and hailed the bark as alleged; but it does not follow from this that he showed his warrant to the master, and unless he did, these acts were not sufficient to entitle him to pilotage. The exception is sustained.</p>
+                <p id="b420-7" pgmap="420">Decree, that the libel be dismissed, and that the claimant recover his costs and disburse­ments.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="419" ORDERLABEL="417" TYPE="page">
+        <fptr FILEID="tiff_00210_0"/>
+        <fptr FILEID="jp2_00210_0"/>
+        <fptr FILEID="alto_00210_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_419.3" BETYPE="IDREF" FILEID="alto_00210_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="420" ORDERLABEL="418" TYPE="page">
+        <fptr FILEID="tiff_00210_1"/>
+        <fptr FILEID="jp2_00210_1"/>
+        <fptr FILEID="alto_00210_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_420.4" BETYPE="IDREF" FILEID="alto_00210_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ae_e" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.18" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A3h" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.25" BETYPE="IDREF" FILEID="alto_00210_0"/>
+            <area BEGIN="BL_419.26" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b420-4" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.6" BETYPE="IDREF" FILEID="alto_00210_1"/>
+            <area BEGIN="BL_420.7" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b420-3" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.5" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-21" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.27" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-20" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.24" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-23" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.29" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-22" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.28" BETYPE="IDREF" FILEID="alto_00210_0"/>
+            <area BEGIN="BL_420.1" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-11" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.14" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-12" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.15" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-13" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.16" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-14" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.17" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-18" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.22" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b419-19" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_419.23" BETYPE="IDREF" FILEID="alto_00210_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b420-7" BETYPE="IDREF" FILEID="casebody_0205"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_420.8" BETYPE="IDREF" FILEID="alto_00210_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

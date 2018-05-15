@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0121" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Easby v. Fletcher">EASBY v. FLETCHER</name>
+          <docketnumber>Case No. 4,250</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 264</citation>
+          <citation category="parallel" type="bluebook">1 Hayw. &amp; H. 35</citation>
+          <decisiondate>1841-04-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00133_1" MIMETYPE="image/tiff" CHECKSUM="1c3545e7101d9f14f664650be7e19a2e" CHECKSUMTYPE="MD5" SIZE="105532">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00133_1.tif"/>
+      </file>
+      <file ID="tiff_00134_0" MIMETYPE="image/tiff" CHECKSUM="8f2a0ec0062918694c9a39153bfee2f1" CHECKSUMTYPE="MD5" SIZE="62342">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00134_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00133_1" MIMETYPE="image/jp2" CHECKSUM="41fa7cef2cd86e97047d70522e4b2ab1" CHECKSUMTYPE="MD5" SIZE="3645033">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00133_1.jp2"/>
+      </file>
+      <file ID="jp2_00134_0" MIMETYPE="image/jp2" CHECKSUM="97b4d02b44c731f1fa136e8beb839f54" CHECKSUMTYPE="MD5" SIZE="2597521">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00134_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00133_1" MIMETYPE="text/xml" CHECKSUM="e22ab7ca8fdb4d82903f835313c9b7c7" CHECKSUMTYPE="MD5" SIZE="222393">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00133_1.xml"/>
+      </file>
+      <file ID="alto_00134_0" MIMETYPE="text/xml" CHECKSUM="126ee13061a4a35b18c631848be42e76" CHECKSUMTYPE="MD5" SIZE="128156">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00134_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0121" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="265" firstpage="264">
+              <court id="b266-12" pgmap="266">Circuit Court, District of Columbia.</court>
+              <docketnumber id="b266-9" pgmap="266">Case No. 4,250.</docketnumber>
+              <citation id="b266-11" pgmap="266">[1 Hayw. &amp; H. 35.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b266-10" pgmap="266">EASBY v. FLETCHER.</parties>
+              <decisiondate id="AZW" pgmap="266">April 27, 1841.</decisiondate>
+              <attorneys id="b267-6" pgmap="267">Joseph H. Bradley, for petitioner.</attorneys>
+              <attorneys id="b267-7" pgmap="267">Brent &amp; Brent, for respondent.</attorneys>
+              <footnote label="1">
+                <p id="b266-15" pgmap="266">1 [Reported by John A. Hayward, Esq., and George C. Hazleton, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p id="b267-8" pgmap="267">OPINION OF THE COURT. It appears that the respondent, Archibald Fletcher, was, on the 19th day of February, 1838, lawfully bound out by his father as an apprentice to the petitioner, William Easby; the said Arch­ibald being then 19 years and 11 months of age; - and that by the terms of said inden­ture, the time which he had to serve expired the 18th day of January, 1840; and that dur­ing the said time which he had 'to serve as aforesaid, he absconded from his said mas­ter, and absented himself from the service of his said master from the 26th day of March, to the 22d day of May, 1839, and from the 27th day of August, 1839, to the 18th day of January, 1840, making in all 150 working days. The court, therefore, on this 27th day of April, 1841, upon the petition of the said Wil­liam Easby, and upon the appearance of the said Archibald Fletcher, and upon full hear­ing of the parties by their counsel, doth award and order that the said Archibald Fletcher make compensation to the said William Easby, for his loss of the services of the said Archibald Fletcher, by serving him, the said William Easby, as an apprentice, for the term of one hundred and fifty working days, com­mencing on the 3d day of May next. And in case the said Archibald Fletcher should refuse to obey this order, the said William Easby will have leave to apply to this court for an at­tachment of contempt or other process to en­force the same, for which purpose this cause will be continued from term to term until the further order of the court</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="266" ORDERLABEL="264" TYPE="page">
+        <fptr FILEID="tiff_00133_1"/>
+        <fptr FILEID="jp2_00133_1"/>
+        <fptr FILEID="alto_00133_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_266.4" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="267" ORDERLABEL="265" TYPE="page">
+        <fptr FILEID="tiff_00134_0"/>
+        <fptr FILEID="jp2_00134_0"/>
+        <fptr FILEID="alto_00134_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_267.3" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AZW" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.15" BETYPE="IDREF" FILEID="alto_00133_1"/>
+            <area BEGIN="BL_266.16" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-10" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.12" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-8" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.10" BETYPE="IDREF" FILEID="alto_00134_0"/>
+            <area BEGIN="BL_267.11" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-9" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.11" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-11" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.13" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-12" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.14" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b266-15" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_266.19" BETYPE="IDREF" FILEID="alto_00133_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-7" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.9" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b267-6" BETYPE="IDREF" FILEID="casebody_0121"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_267.8" BETYPE="IDREF" FILEID="alto_00134_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

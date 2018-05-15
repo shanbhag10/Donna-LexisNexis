@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0239" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="Jaycox v. Chapman">JAYCOX v. CHAPMAN et al.</name>
+          <docketnumber>Case No. 7,243</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 424</citation>
+          <citation category="parallel" type="bluebook">10 Ben. 517</citation>
+          <decisiondate>1879-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00213_1" MIMETYPE="image/tiff" CHECKSUM="2fec84065819c78b83f7dc976571a3c7" CHECKSUMTYPE="MD5" SIZE="92594">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00213_1.tif"/>
+      </file>
+      <file ID="tiff_00214_0" MIMETYPE="image/tiff" CHECKSUM="8064712115fed3776034cc4b31f18d71" CHECKSUMTYPE="MD5" SIZE="74264">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00214_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00213_1" MIMETYPE="image/jp2" CHECKSUM="2cec0be5cfef505a81dc5c7ff8467ff8" CHECKSUMTYPE="MD5" SIZE="3287338">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00213_1.jp2"/>
+      </file>
+      <file ID="jp2_00214_0" MIMETYPE="image/jp2" CHECKSUM="d8a9f6e8ab5b284f538587ce8ba17dcd" CHECKSUMTYPE="MD5" SIZE="2997972">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00214_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00213_1" MIMETYPE="text/xml" CHECKSUM="a099d81cc0f9a4e4315c85ba48475836" CHECKSUMTYPE="MD5" SIZE="202510">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00213_1.xml"/>
+      </file>
+      <file ID="alto_00214_0" MIMETYPE="text/xml" CHECKSUM="4d99167a288984445d6ad468ceb8e3cd" CHECKSUMTYPE="MD5" SIZE="160115">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00214_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0239" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="425" firstpage="424">
+              <court pgmap="426" id="A6Me">District Court, S. D. New York.</court>
+              <docketnumber pgmap="426" id="b426-3">Case No. 7,243.</docketnumber>
+              <citation pgmap="426" id="Alf">[10 Ben. 517.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="426" id="AtmV">JAYCOX v. CHAPMAN et al.</parties>
+              <decisiondate pgmap="426" id="A8UP">July, 1879.</decisiondate>
+              <attorneys pgmap="426" id="b426-9">E. D. McCarthy, for libelant</attorneys>
+              <attorneys pgmap="426" id="b426-10">W. R. Beebe, for respondents.</attorneys>
+              <footnote label="1">
+                <p pgmap="426" id="b426-13">1 [Reported by Robert D. Benedict. Esq., and Benj. Lincoln Benedict, Esq., and here reprint­ed by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="426" id="b426-11">CHOATE, District Judge.</author>
+                <p pgmap="426" id="AHyd">In this case a de­cree having been rendered against the defend­ant Alonzo R. Chapman and in favor of Sarah E. Chapman, dismissing the libel, as against her, it is now insisted that the stipulators upon a bond given by her upon the release of certain vessels attached under the process of foreign attachment are bound by the terms of their bond to pay the decree against Alonzo R. Chapman. May 28th, 1877, the marshal at­tached the vessels. May 29th, the defend­ant Sarah E. Chapman, filed a claim for the said vessels in the form usual in case of the attachment of vessels by process in rem. She filed, also, a stipulation for costs and a bond, conformably to the requirements of the act of March 3rd, 1847, the condition of the bond being: “That if the above bounden Sarah E. Chapman, claimant, and Francis F. Budd and William E. Chapman, sureties, shall abide by and perform the decree of this court, then this obligation shall be void, otherwise the same shall be and remain in full force and virtue.” The libellant had no­tice of the claim and the bond offered, and the sureties were examined as to their suf­ficiency, and, they having justified, the prop­erty was delivered to the claimant.</p>
+                <p pgmap="426" id="b426-12">It is now insisted that the practice of filing a claim in a suit in personam is irregular and without warrant of any statute or rule of court; that the bond takes the place of the property discharged, and if that was the property, not of Sarah E. Chapman, but of Alonzo R. Chapman, as is now contended by the libellant, the sureties are bound by the bond to pay the decree against him.</p>
+                <p pgmap="426" id="b426-15">It is unnecessary to determine whether the practice which has grown up in such cases is regular or not, because it is very plain that the stipulators cannot be bound on their bond beyond its terms fairly understood. The libellant had notice of the application to bond the property, and made no objection to the method adopted nor challenged the right of Sarah E. Chapman as its owner to bond it. It was understood as well by him as by the sureties who went on the bond that they were becoming bound for Sarah E. Chap­man, and not for Alonzo R. Chapman, and upon the release to her of property against which, as all the parties assumed, there was no claim on the part of the libellant, unless he recovered judgment against her. How­ever irregular the form may have been, the position and obligation of the parties are just the same as if she had presented a petition to the court, setting forth that she was the owner of the property and praying leave to substitute á bond in place of it, and upon no­tice thereof to the libellant and without ob­jection on his part this bond had been given and the property delivered to her. What, then, as applied to this ease, did the stipula-­tors agree to? Clearly, they understood that they became bound only for Sarah E. Chap­man, and not for Alonzo R. Chapman. Their bond was a substitute for and put in place of her property. All parties must have so understood. Such is the reading of the con­dition: “If the said Sarah E. Chapman, claimant, and Budd and Chapman, sureties, shall abide by and perform the decree of the court,” that is, she, as the principal party who is to have or may have something de­creed to be done or performed by her, and they as her sureties for the doing of it. There is no reference here to abiding by and performing anything to be done and per­formed by Alonzo R. Chapman. There is nothing decreed to be done and performed by Sarah E. Chapman. Therefore, there has been no breach of the bond and can be no liability of the sureties thereunder. To give it any other construction would do violence to its language and be inconsistent with what all the parties, including the libellant, must have understood to be the purpose of the bond, namely, the substituting of some­thing in place of her property which was under attachment.</p>
+                <p pgmap="426(83) 427(85)" id="b426-16">It is insisted that, by the evidence taken in the case, it appeared that the vessels thus released were really the property of Alonzo R. Chapman, and not of his wife. If this were so, or libellant had a doubt that it might be so, he should have applied to the court to have this question settled béfore they were delivered up to Sarah E. Chapman, or for such security as the peculiar facts of the case called fox-. Not having done so, he must be deemed to have acquiesced, as against these sureties, in her claim, that they belonged to her. The sureties had no inter­est in that question, and were only called on to become bound for her. The libellant had the opportunity to raise the question when it was proposed to bond the property; but to permit him to raise it now as against the sureties would do gross injustice. No de­cree can be entered against Sarah E. Chap­man or her sureties.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="426" ORDERLABEL="424" TYPE="page">
+        <fptr FILEID="tiff_00213_1"/>
+        <fptr FILEID="jp2_00213_1"/>
+        <fptr FILEID="alto_00213_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_426.3" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="427" ORDERLABEL="425" TYPE="page">
+        <fptr FILEID="tiff_00214_0"/>
+        <fptr FILEID="jp2_00214_0"/>
+        <fptr FILEID="alto_00214_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_427.3" BETYPE="IDREF" FILEID="alto_00214_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-16" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.21" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            <area BEGIN="BL_427.1" BETYPE="IDREF" FILEID="alto_00214_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-15" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.20" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-13" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.19" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-12" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.17" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            <area BEGIN="BL_426.18" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-11" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.14" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-10" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.13" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtmV" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.5" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Alf" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.6" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-3" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.4" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8UP" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.8" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b426-9" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.12" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6Me" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.7" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHyd" BETYPE="IDREF" FILEID="casebody_0239"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_426.15" BETYPE="IDREF" FILEID="alto_00213_1"/>
+            <area BEGIN="BL_426.16" BETYPE="IDREF" FILEID="alto_00213_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

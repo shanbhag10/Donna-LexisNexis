@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0490" publicationstatus="published">
+          <court abbreviation="D. Pa." jurisdiction="United States">United States District Court for the District of Pennsylvania</court>
+          <name abbreviation="Jones v. The Phoenix">JONES v. The PHOENIX</name>
+          <docketnumber>Case No. 7,489</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1006</citation>
+          <citation category="parallel" type="bluebook">1 Pet. Adm. 201</citation>
+          <decisiondate>1800</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00504_1" MIMETYPE="image/tiff" CHECKSUM="3858c5ddf8ffa6a12dd7e568b454b07d" CHECKSUMTYPE="MD5" SIZE="76278">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00504_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00504_1" MIMETYPE="image/jp2" CHECKSUM="6a9752857a56a276972ef4290b7da97c" CHECKSUMTYPE="MD5" SIZE="2977796">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00504_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00504_1" MIMETYPE="text/xml" CHECKSUM="89e64b84c70de36fd0de811876a34554" CHECKSUMTYPE="MD5" SIZE="160106">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00504_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0490" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1006" firstpage="1006">
+              <court pgmap="1008" id="A1nV">District Court, D. Pennsylvania.</court>
+              <docketnumber pgmap="1008" id="b1008-4">Case No. 7,489.</docketnumber>
+              <citation pgmap="1008" id="b1008-6">[1 Pet. Adm. 201.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1008" id="b1008-5">JONES v. The PHOENIX.</parties>
+              <decisiondate pgmap="1008" id="A8QS">1800.</decisiondate>
+              <footnote label="1">
+                <p pgmap="1008" id="b1008-14">1 [Reported by Richard Peters, Jr., Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1008" id="b1008-13">BY THE COURT.</author>
+                <p pgmap="1008" id="AOz">The log-book is, by act of congress, made legal evidence in proof of desertion, but is not incontrovertible and conclusive. It ought not to be admitted to any fact, but that in which the act of con­gress permits it to be evidence. Independent of the plain construction of the act, there are other objections. I have seen attempts to de­ceive by such entries. In one ease it was proved before me, that the captain had made an entry in the log-book, in a blank acci­dentally left by the mate, of a seaman’s de­sertion. On a careful and clear investigation it was proved that the entry was false in point of fact, and calculated to gratify a malicious, personal antipathy. I have gen­erally been averse, as I am in this case, to admitting masters of ships as witnesses, in disputes with mariners. I do not believe, or suspect, that masters of ships are liable to any more or peculiar objections, than any other class of citizens. But it so happens, from their situation, that differences and dis­putes, and consequently strong prejudices, most commonly originate between the master and mariners; and the merchant is govern­ed by the master’s representation. The mas­ter is personally liable for wages, though the seaman may proceed in rem, against the ship, or in personam, against the owner. It is his interest to throw the responsibility off himself. If the vessel is not valuable enough to discharge the lien, or the owner is in bad circumstances, and the master solvent, he must pay the debt. Instances have not been wanting in this court where unjustifiable en-­deavours have been made, by masters, to charge the ship with seaman’s wages. In some cases, where funds had been furnished and misapplied; in others, to secure them­selves. But suppose the master’s testimony given In a proceeding in rem, and a decree on the merits against the demand, the suc­cess of the seamen in a prosecution in per-­sonam thereafter, if their circumstances per­mitted further proceeding, would be hopeless. I would not be understood, so to apply par­ticular instances, as to affect general char­acter or principles, but a practice liable to great abuses, ought to be avoided, and other testimony may be procured. The law re­moves from testimony, persons even remote­ly interested; especially where their testi­mony is not the only proof which can be ob­tained. Having, on the admiralty side of this court, to judge of both competency and credit, I wish to avoid exposing myself to the pain­ful task, of rejecting testimony for want of credit. Although 1 might not be often placed in this predicament, yet such a situation might occur. The line between competency and credit is often imperceptible, and difficult to draw.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1008" ORDERLABEL="1006" TYPE="page">
+        <fptr FILEID="tiff_00504_1"/>
+        <fptr FILEID="jp2_00504_1"/>
+        <fptr FILEID="alto_00504_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1008.4" BETYPE="IDREF" FILEID="alto_00504_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1008-5" BETYPE="IDREF" FILEID="casebody_0490"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1008.7" BETYPE="IDREF" FILEID="alto_00504_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1008-4" BETYPE="IDREF" FILEID="casebody_0490"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1008.6" BETYPE="IDREF" FILEID="alto_00504_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1008-6" BETYPE="IDREF" FILEID="casebody_0490"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1008.8" BETYPE="IDREF" FILEID="alto_00504_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1nV" BETYPE="IDREF" FILEID="casebody_0490"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1008.9" BETYPE="IDREF" FILEID="alto_00504_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1008-14" BETYPE="IDREF" FILEID="casebody_0490"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1008.22" BETYPE="IDREF" FILEID="alto_00504_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1008-13" BETYPE="IDREF" FILEID="casebody_0490"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1008.17" BETYPE="IDREF" FILEID="alto_00504_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8QS" BETYPE="IDREF" FILEID="casebody_0490"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1008.10" BETYPE="IDREF" FILEID="alto_00504_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOz" BETYPE="IDREF" FILEID="casebody_0490"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1008.18" BETYPE="IDREF" FILEID="alto_00504_1"/>
+            <area BEGIN="BL_1008.19" BETYPE="IDREF" FILEID="alto_00504_1"/>
+            <area BEGIN="BL_1008.20" BETYPE="IDREF" FILEID="alto_00504_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

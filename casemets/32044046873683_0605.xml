@@ -1,0 +1,330 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0605" publicationstatus="published">
+          <court abbreviation="N.D. Cal." jurisdiction="United States">United States District Court for the Northern District of California</court>
+          <name abbreviation="Feliz v. United States">FELIZ v. UNITED STATES</name>
+          <docketnumber>Case No. 4,720</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1130</citation>
+          <decisiondate>1855-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00566_1" MIMETYPE="image/tiff" CHECKSUM="92c11bca30a56be2a38d6f0069e4f3da" CHECKSUMTYPE="MD5" SIZE="71468">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00566_1.tif"/>
+      </file>
+      <file ID="tiff_00567_0" MIMETYPE="image/tiff" CHECKSUM="c57d7e11c7cb0d667519fad35a339d26" CHECKSUMTYPE="MD5" SIZE="93780">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00567_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00566_1" MIMETYPE="image/jp2" CHECKSUM="045e2707dd5e7d0d988b7a269d1f9c85" CHECKSUMTYPE="MD5" SIZE="2859885">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00566_1.jp2"/>
+      </file>
+      <file ID="jp2_00567_0" MIMETYPE="image/jp2" CHECKSUM="07d947ea0bdf8cea5475cbed916b601e" CHECKSUMTYPE="MD5" SIZE="3382547">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00567_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00566_1" MIMETYPE="text/xml" CHECKSUM="093a5d6db454b633cdbe4a15ab1be8d6" CHECKSUMTYPE="MD5" SIZE="150146">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00566_1.xml"/>
+      </file>
+      <file ID="alto_00567_0" MIMETYPE="text/xml" CHECKSUM="25f0e26d17e40dcca7a68fef349dd198" CHECKSUMTYPE="MD5" SIZE="197846">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00567_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0605" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1131" firstpage="1130">
+              <court id="b1132-10" pgmap="1132">District Court, N. D. California.</court>
+              <docketnumber id="b1132-7" pgmap="1132">Case No. 4,720.</docketnumber>
+              <parties id="b1132-8" pgmap="1132">FELIZ v. UNITED STATES.</parties>
+              <decisiondate id="Acrs" pgmap="1132">Dec. Term, 1855.</decisiondate>
+              <attorneys id="b1132-17" pgmap="1132">Irving &amp; Rose, for appellant</attorneys>
+              <attorneys id="b1132-18" pgmap="1132">S. W. Inge, U. S. Atty., for appellees.</attorneys>
+              <p id="b1132-9" pgmap="1132">[Hoff. Land Cas. 69.]</p>
+              <opinion type="majority">
+                <author id="b1132-19" pgmap="1132">HOFFMAN, District Judge.</author>
+                <p id="b1132-20" pgmap="1132(295) 1133(45)">The claim in this case was rejected bv the board of commissioners for want of proof of the genuineness of the grant, and because the grant itself contained no de­scription of the land to identify it or en­able a surveyor to determine its locality. On looking at the evidence before the board, we find no proof even of the signature or the governor to the original grant. The expediente from the archives was neither-­produced nor accounted for, but the evi­dence was confined to the point of occupa­tion and cultivation by the grantee. Since-­the appeal has been taken, evidence of the genuineness of the signature of Governor Micheltorena has been offered, and a duly certified copy of the expediente on file in the archives has been offered in evidence and admitted by the district attorney. In. the original grant the signature of the sec­retary is wanting, but though this circum­stance might suggest a doubt as to the-­genuineness of the document, we are not. aware that the signature of the secretary was a legal requisite to grants of this de­scription. The grant was made on the-­ninth of November, 1844. By the testimony of James Black and Jesus Pifia, taken in this court, it appears that the claimant in the spring of 1845 was living on his land, and that in August* of that year he had built a house, and also had a garden, a. corral, and had cattle upon it. This testi­mony is important, not only as showing a. performance of the conditions, but tending-­to dissipate whatever doubts might other­wise have been entertained as to the au­thenticity of the grant. The objection taken by the board to the claim for want of proof as to its genuineness is thus ob­viated by the additional testimony taken in this court, and as no argument has been offered, or suggestion made to the contrary, we presume that no doubt is entertained on the point by the district attorney.</p>
+                <p id="b1133-3" pgmap="1133">The second ground on which the claim was rejected by the board, was the want of a description sufficient to indicate the granted premises. The expediente contain­ing the map referred to in the grant has been produced in this court, as already mentioned. The grant describes the land as the “place called ‘Sanel,’ its boundaries being the ‘Serranías Altas’ and the river.” By the testimony of Jesus Pina,. it appears that the place called “Sanel” is well known; that it is situated on Russian river, and de­rives its name from a tribe of Indians called “Sanel Indians,” who live there and have a ranchería there. The witness, on being shown the map in the expediente, recognizes it as being a map of the place called “Sanel.” James Black testifies that he has known the place called “Sanel” since 1842, and that it was always called by that name. That it is the name of a valley, and that every body in that vicinity knows it by that name, and that it has always been so known since he became acquainted with it. The witness further states that in his opinion a surveyor could, by the aid of the map, locate the land thereon designated as the “Terreno que se solicita,” Without invoking, therefore, the principles decided in the Case of Fremont,<footnotemark>1</footnotemark> we think we are justified under this evidence in concluding that the designation by name in the grant of the tract granted, with its boundaries, and the delineation on the map taken to­gether, indicate with reasonable certainty and precision the locality of the granted land.</p>
+                <p id="b1133-4" pgmap="1133">No doubt as to the performance of the conditions is suggested. The claimant has from the spring of the year succeeding that in which he obtained the grant, up to the present time, continued to reside upon and cultivate his land; and he even appears to have given his name to the place, for in the engraved map of the mining region of Cali­fornia, appended to the deposition of Black, the name “Feliz” appears, and is identified by the witness' as the name of the place occupied by the claimant.</p>
+                <p id="b1133-5" pgmap="1133">No other objections than those already considered are mentioned in the opinion of the board, or are suggested by the dis­trict attorney. We think, therefore, that this claim ought to be confirmed, to the ex­tent of four leagues, if that quantity shall be found within the boundaries delineated on the map; and if the quantity so contain­ed shall be less than four leagues, then that that lesser quantity be confirmed to him.</p>
+                <footnote label="1">
+                  <p id="b1133-6" pgmap="1133">1 [Case No. 15,164.]</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1132" ORDERLABEL="1130" TYPE="page">
+        <fptr FILEID="tiff_00566_1"/>
+        <fptr FILEID="jp2_00566_1"/>
+        <fptr FILEID="alto_00566_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1132.4" BETYPE="IDREF" FILEID="alto_00566_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1133" ORDERLABEL="1131" TYPE="page">
+        <fptr FILEID="tiff_00567_0"/>
+        <fptr FILEID="jp2_00567_0"/>
+        <fptr FILEID="alto_00567_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1133.3" BETYPE="IDREF" FILEID="alto_00567_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Acrs" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1132.14" BETYPE="IDREF" FILEID="alto_00566_1"/>
+            <area BEGIN="BL_1132.15" BETYPE="IDREF" FILEID="alto_00566_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1133-4" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1133.6" BETYPE="IDREF" FILEID="alto_00567_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1132-20" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1132.23" BETYPE="IDREF" FILEID="alto_00566_1"/>
+            <area BEGIN="BL_1133.1" BETYPE="IDREF" FILEID="alto_00567_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1133-3" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1133.5" BETYPE="IDREF" FILEID="alto_00567_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1132-18" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1132.21" BETYPE="IDREF" FILEID="alto_00566_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1132-19" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1132.22" BETYPE="IDREF" FILEID="alto_00566_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1133-5" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1133.7" BETYPE="IDREF" FILEID="alto_00567_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1132-7" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1132.10" BETYPE="IDREF" FILEID="alto_00566_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1132-10" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1132.13" BETYPE="IDREF" FILEID="alto_00566_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1133-6" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1133.8" BETYPE="IDREF" FILEID="alto_00567_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1132-9" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1132.12" BETYPE="IDREF" FILEID="alto_00566_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1132-8" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1132.11" BETYPE="IDREF" FILEID="alto_00566_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1132-17" BETYPE="IDREF" FILEID="casebody_0605"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1132.20" BETYPE="IDREF" FILEID="alto_00566_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

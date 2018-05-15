@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0463" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="In re Everson">In re EVERSON et al.</name>
+          <docketnumber>Case No. 4,580</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 908</citation>
+          <citation category="parallel" type="bluebook">1 MacA. Pat. Cas. 406</citation>
+          <decisiondate>1855-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00455_1" MIMETYPE="image/tiff" CHECKSUM="4b5725a37a1b91ac57bc50c0f3e2aee6" CHECKSUMTYPE="MD5" SIZE="95516">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00455_1.tif"/>
+      </file>
+      <file ID="tiff_00456_0" MIMETYPE="image/tiff" CHECKSUM="228d8d7025780e5fd56434adbecaf953" CHECKSUMTYPE="MD5" SIZE="99102">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00456_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00455_1" MIMETYPE="image/jp2" CHECKSUM="23ee4e410da4ef556b9de0bfb8252ab3" CHECKSUMTYPE="MD5" SIZE="3324691">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00455_1.jp2"/>
+      </file>
+      <file ID="jp2_00456_0" MIMETYPE="image/jp2" CHECKSUM="3d931db76d1e67e041f7588b30d462c8" CHECKSUMTYPE="MD5" SIZE="3546025">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00456_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00455_1" MIMETYPE="text/xml" CHECKSUM="a2746923adc84d5e8ca96e5d9b4308c3" CHECKSUMTYPE="MD5" SIZE="188890">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00455_1.xml"/>
+      </file>
+      <file ID="alto_00456_0" MIMETYPE="text/xml" CHECKSUM="93484c973b2dded3e9d229d7960c13b6" CHECKSUMTYPE="MD5" SIZE="211296">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00456_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0463" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="909" firstpage="908">
+              <court id="b910-13" pgmap="910">Circuit Court, District of Columbia.</court>
+              <docketnumber id="b910-11" pgmap="910">Case No. 4,580.</docketnumber>
+              <citation id="AxWV" pgmap="910">[1 MacA. Pat. Cas. 406.]</citation>
+              <parties id="b910-12" pgmap="910">In re EVERSON et al.</parties>
+              <decisiondate id="AUC" pgmap="910">June, 1855.</decisiondate>
+              <attorneys id="b911-2" pgmap="911">Z. C. Robbins, for appellant</attorneys>
+              <opinion type="majority">
+                <author id="AxbP" pgmap="911">:MORSELL, Circuit Judge.</author>
+                <p id="AG2F" pgmap="911">They state the ■nature of their invention to “consist in an arrangement of transverse shafts, levers, con­necting bars, attaching rods, pumps, and auction pipes upon a section of a sectional dock, in such a manner that a single engine or other motor can be made to pump out any number of sections, whether said sec­tions be arranged dose to each other or at any desired distance from each other, as circumstances may require, in the elevation of large or small vessels.” They say: “What we claim as our invention, and desire to secure by letters patent, is the arrange­ment of parts by which we are enabled by a single first mover to pump the water from either side or both sides of any number of sections of a sectional dock, when arranged at any desired distance from each other, sub­stantially as herein set forth, viz.: By means of the pumps e e f f, and the suction tubes f f, the side shafts D D, and their levers O C and h h, the central shaft E and its levers P and h,' the detachable rods i i, and the actuating adjustable bars G G, or their equivalents, arranged and operat­ing substantially as herein set forth.” The commissioner in his opinion says: “The idea of constructing a floating dock in sec­tions is- by no means new, nor do the appli­cants claim to have originated the idea of dividing each section into two separate com­partments for the purpose of more accurate adjustment. They only claim the contriv­ances and arrangements by which that ad­justment is made, so that all may be moved by a single engine or other motor. The idea of using a single motor for this or analo­gous purposes is not new. (See the rejected application of Clare and Brown, among others.) The question presented is whether there is a patentable novelty in the particu­lar devices and contrivances used in the present case. * * * Nothing more than ordinary skill and ingenuity would be re­quired in that case, and the contrivance- of the applicants is such as any competent me­chanic acquainted with the subject of dock-­building would have been likely to have made.”</p>
+                <p id="b911-5" pgmap="911">The first reason of appeal is because the commissioner overlooked what the appel­lants suppose the gist of their invention con­sists in; that is, that it allows the respective dock sections with which it is combined to be placed either in contact with each other or at any desired distances from each other. The second is because the commissioner’s decision is based upon the ground that in contriving and perfecting their invention they have not exercised extraordinary in­.genuity. Upon due notice having been given to the parties interested of the time and place appointed by me for hearing the appeal, the examiner on the part of the office produced the original papers and evidence in the cause, with said reasons of appeal arid the grounds of the commissioner’s decision in writing; and the appellant by his counsel filed his argument in writing, and submitted the said cause. As to the principle involved in the reasons of appeal relating to the degree of ingenuity to be manifested in the inven­tion, the rule qf patent law, as I understand it, is that in cases where the utility of the. change and the consequences resulting there­from (in case of a machine) are such as to show that the inventive faculty has been exercised, though-in point of fact the change was the result of accident, the requisite test of a sufficient amount of invention may ex­ist. But if, on the other hand, the change consists merely in the employment of an ob­vious substitute, the discovery and applica­tion of which could not have involved the exercise of the inventive faculty in any con­siderable degree, the change will then be treated as merely an unsubstantial, colorable variation, or a double use, and of course not patentable.</p>
+                <p id="b911-8" pgmap="911">In the present instance, I think it appears from the drawings exhibited to the patent, office on other occasions of applications for patents, and shown in this case, that an in­vention for pumping out the sections of a floating-dock with the required adjustments, when in contact with each other, by a single ■ first mover, with appropriate arrangement of parts, is not new in a patentable sense; and although in the present instance there are changes in the arrangement of the parts, so as to effect the same thing when they (the connected dock sections), or any one of the number, are arranged at any desired distance from each other, I take this feature to be incidental to, and not a substantial Change in, the principle; and generally, with respect to the changes relied on, they appear to me to be only additions of well-known agents of the same kind used in analogous cases with like effect I think, therefore, that the decision of the commissioner was correct; and I do hereby affirm the same.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="910" ORDERLABEL="908" TYPE="page">
+        <fptr FILEID="tiff_00455_1"/>
+        <fptr FILEID="jp2_00455_1"/>
+        <fptr FILEID="alto_00455_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_910.5" BETYPE="IDREF" FILEID="alto_00455_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="911" ORDERLABEL="909" TYPE="page">
+        <fptr FILEID="tiff_00456_0"/>
+        <fptr FILEID="jp2_00456_0"/>
+        <fptr FILEID="alto_00456_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_911.2" BETYPE="IDREF" FILEID="alto_00456_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b910-13" BETYPE="IDREF" FILEID="casebody_0463"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_910.16" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b911-8" BETYPE="IDREF" FILEID="casebody_0463"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_911.10" BETYPE="IDREF" FILEID="alto_00456_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b911-5" BETYPE="IDREF" FILEID="casebody_0463"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_911.8" BETYPE="IDREF" FILEID="alto_00456_0"/>
+            <area BEGIN="BL_911.9" BETYPE="IDREF" FILEID="alto_00456_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b911-2" BETYPE="IDREF" FILEID="casebody_0463"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_911.4" BETYPE="IDREF" FILEID="alto_00456_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AG2F" BETYPE="IDREF" FILEID="casebody_0463"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_911.6" BETYPE="IDREF" FILEID="alto_00456_0"/>
+            <area BEGIN="BL_911.7" BETYPE="IDREF" FILEID="alto_00456_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxbP" BETYPE="IDREF" FILEID="casebody_0463"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_911.5" BETYPE="IDREF" FILEID="alto_00456_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxWV" BETYPE="IDREF" FILEID="casebody_0463"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_910.15" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b910-11" BETYPE="IDREF" FILEID="casebody_0463"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_910.13" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b910-12" BETYPE="IDREF" FILEID="casebody_0463"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_910.14" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUC" BETYPE="IDREF" FILEID="casebody_0463"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_910.17" BETYPE="IDREF" FILEID="alto_00455_1"/>
+            <area BEGIN="BL_910.18" BETYPE="IDREF" FILEID="alto_00455_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

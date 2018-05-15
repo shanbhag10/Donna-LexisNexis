@@ -1,0 +1,321 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0230" publicationstatus="published">
+          <court abbreviation="E.D. Pa." jurisdiction="United States">United States District Court for the Eastern District of Pennsylvania</court>
+          <name abbreviation="The Elizabeth Ann">The ELIZABETH ANN</name>
+          <docketnumber>Case No. 4,357</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 476</citation>
+          <citation category="parallel" type="bluebook">18 Leg. Int. 308</citation>
+          <decisiondate>1861-08-07</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00239_1" MIMETYPE="image/tiff" CHECKSUM="60d9ed9dcc1e6381a4a7323f3866fbc6" CHECKSUMTYPE="MD5" SIZE="88624">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00239_1.tif"/>
+      </file>
+      <file ID="tiff_00240_0" MIMETYPE="image/tiff" CHECKSUM="c6281a8746eaa55639ad4627005b571e" CHECKSUMTYPE="MD5" SIZE="95022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00240_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00239_1" MIMETYPE="image/jp2" CHECKSUM="7a1224dc8b2fd913944909ac76f7dd44" CHECKSUMTYPE="MD5" SIZE="3283328">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00239_1.jp2"/>
+      </file>
+      <file ID="jp2_00240_0" MIMETYPE="image/jp2" CHECKSUM="0f1b160b992877a9a43362395cb40dad" CHECKSUMTYPE="MD5" SIZE="3434703">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00240_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00239_1" MIMETYPE="text/xml" CHECKSUM="c7d331dba16f6459b5cbd42acb3b4785" CHECKSUMTYPE="MD5" SIZE="192472">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00239_1.xml"/>
+      </file>
+      <file ID="alto_00240_0" MIMETYPE="text/xml" CHECKSUM="1ef67adee9a9a92585a6512b010b1383" CHECKSUMTYPE="MD5" SIZE="193233">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00240_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0230" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="477" firstpage="476">
+              <court id="b478-21" pgmap="478">District Court, E. D. Pennsylvania.</court>
+              <docketnumber id="b478-18" pgmap="478">Case No. 4,357.</docketnumber>
+              <citation id="b478-20" pgmap="478">[18 Leg. Int. 308.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b478-19" pgmap="478">The ELIZABETH ANN.</parties>
+              <decisiondate id="All" pgmap="478">Aug. 7, 1861.</decisiondate>
+              <attorneys id="b478-24" pgmap="478">Mr. Harrison, for complainants,</attorneys>
+              <footnote label="1">
+                <p id="b478-26" pgmap="478">1 [Beprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p id="b479-3" pgmap="479">"Whereupon</p>
+                <author id="AtYU" pgmap="479">THE COUBT</author>
+                <p id="AOvE" pgmap="479">said: It ap­pears that the laws of the United States may at present be peacefully executed in the small island of Chincoteague, off the coast of Vir­ginia. where these claimants reside. The lighthouse of the United States, which is the principal structure on the island, is main­tained under the flag of the United States by a superintendent appointed by the proper department of their government, who rec­ognizes, and acts under, the authority of that department. The inhabitants of the island are few in number, and from the in­formation received by the court, through the district attorney of the United States, have been loyal during the revolutionary contest in other parts of Virginia. Their insular position, and the fact that the ship channel inside of the island may be commanded by the naval forces of the United States, en­ables the court to make, in their favor, a dis­tinction which, in the present hostile rela­tion of eastern Virginia, might be impossible in the case of a resident of the state on the other side of this channel.</p>
+                <p id="b479-4" pgmap="479">These views take the case of the claimants out of the rule of decision in the late case of The Parkhill [Case No. 10.755a]. The ad­vocate and proctor of the claimants will, therefore, say, whether they are disposed to accept restitution of the captured property without further proceedings. In so doing they will waive all claim,upon the captors, and all complaint of the capture as hav­ing been made without probable cause.</p>
+                <p id="b479-5" pgmap="479">Hr. Harrison thereupon stating, on behalf of the claimants, that they were willing to accept restitution of the property, and that the proceedings be terminated, THE COUBT order that a decree be entered liberating the vessel and her contents from custody, and directing restitution to the claimants.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="478" ORDERLABEL="476" TYPE="page">
+        <fptr FILEID="tiff_00239_1"/>
+        <fptr FILEID="jp2_00239_1"/>
+        <fptr FILEID="alto_00239_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_478.6" BETYPE="IDREF" FILEID="alto_00239_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="479" ORDERLABEL="477" TYPE="page">
+        <fptr FILEID="tiff_00240_0"/>
+        <fptr FILEID="jp2_00240_0"/>
+        <fptr FILEID="alto_00240_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_479.3" BETYPE="IDREF" FILEID="alto_00240_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-20" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.21" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-21" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.22" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-24" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.27" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-26" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.31" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b479-5" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.10" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b479-4" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.9" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-19" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.20" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b478-18" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.19" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="All" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_478.23" BETYPE="IDREF" FILEID="alto_00239_1"/>
+            <area BEGIN="BL_478.24" BETYPE="IDREF" FILEID="alto_00239_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b479-3" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.5" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AOvE" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.7" BETYPE="IDREF" FILEID="alto_00240_0"/>
+            <area BEGIN="BL_479.8" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtYU" BETYPE="IDREF" FILEID="casebody_0230"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_479.6" BETYPE="IDREF" FILEID="alto_00240_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,387 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0029" publicationstatus="published">
+          <court abbreviation="D. Ind." jurisdiction="United States">United States District Court for the District of Indiana</court>
+          <name abbreviation="In re Dunkerson">In re DUNKERSON et al.</name>
+          <docketnumber>Case No. 4,159</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 55</citation>
+          <citation category="parallel" type="bluebook">4 Biss. 323; 12 N. B. R. 391; 1 N. Y. Wkly. Dig. 179</citation>
+          <decisiondate>1869-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00029_0" MIMETYPE="image/tiff" CHECKSUM="140b13455922ae663eabf4a3002372d9" CHECKSUMTYPE="MD5" SIZE="80374">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00029_0.tif"/>
+      </file>
+      <file ID="tiff_00029_1" MIMETYPE="image/tiff" CHECKSUM="72227395e81a04c12eae8d1a40b4a5f9" CHECKSUMTYPE="MD5" SIZE="88992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00029_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00029_0" MIMETYPE="image/jp2" CHECKSUM="1b539d7b8a04db28b9d6e0f7f3fd7e38" CHECKSUMTYPE="MD5" SIZE="3107570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00029_0.jp2"/>
+      </file>
+      <file ID="jp2_00029_1" MIMETYPE="image/jp2" CHECKSUM="778cf8814071d44ffff901a385b2162b" CHECKSUMTYPE="MD5" SIZE="3296787">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00029_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00029_0" MIMETYPE="text/xml" CHECKSUM="3e355fedd289b28b89b449641171ac50" CHECKSUMTYPE="MD5" SIZE="171310">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00029_0.xml"/>
+      </file>
+      <file ID="alto_00029_1" MIMETYPE="text/xml" CHECKSUM="dab747fab4b349f621d8ef6a7fb11903" CHECKSUMTYPE="MD5" SIZE="199479">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00029_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0029" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="56" firstpage="55">
+              <court id="b57-13" pgmap="57">District Court, D. Indiana.</court>
+              <docketnumber id="b57-10" pgmap="57">Case No. 4,159.</docketnumber>
+              <citation id="b57-12" pgmap="57">[4 Biss. 323;<footnotemark>1</footnotemark> 12 N. B. R. 391; 1 N. Y. Wkly. Dig. 179.]</citation>
+              <seealso id="b57-19" pgmap="57">[For prior proceedings, see Cases Nos. 4,-­156-4,158.]</seealso>
+              <parties id="b57-11" pgmap="57">In re DUNKERSON et al.</parties>
+              <decisiondate id="AHT" pgmap="57">April, 1869.</decisiondate>
+              <attorneys id="b57-20" pgmap="57">Asa Iglehart, for Evansville Nat. Bank.</attorneys>
+              <attorneys id="b57-21" pgmap="57">A. G. Robinson, for assignee.</attorneys>
+              <footnote label="1">
+                <p id="b57-26" pgmap="57">1 [Reported by Josiah H. Bissell, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b57-22" pgmap="57">MCDONALD, District Judge.</author>
+                <p id="A2D" pgmap="57">This case comes before me on a certificate of Charles II. Butterfield, Esq., register for the Evans­ville district. His certificate is as follows:</p>
+                <blockquote id="b57-23" pgmap="57">“This question arises upon the distribution of the assets in said matter, and embraces two classes of liabilities. One class embraces pa­per upon which the firm of R. K. Dunkerson &amp; Co. is liable; and the other embraces paper upon which R. K. Dunkerson is liable, not individually, but as a member of the firm of Brown &amp; Dunkerson, which last-mentioned firm was dissolved some years before the bankruptcy.</blockquote>
+                <blockquote id="b57-24" pgmap="57(44) 58(102)">“The Evansville National Bank has proved in this case the following described notes, to wit: One promissory note drawn by Thomas E. Johns, Archie Baugh, and Joe C. Jones, and indorsed by Given, Watts &amp; Co. and Brown &amp; Dunkerson — amount $5.000.30. AI-­so three other notes, each for the sum of $5,-­000, drawn respectively by E. Warfield, Watt 1&lt;\ Johnson, and J. D. Vance, and each in­dorsed by Given, Watts &amp; Co., and by Brown &amp; Dunkerson — said last-mentioned firm being composed, at the time of said indorsements, of William Brown and Robert Iv. Dunkerson, one of the petitioners in this matter. Upon these notes, R. Iv. Dunkerson is the only mem­ber of the firm of R. K. Dunkerson &amp; Co. who .is liable — his liability arising out of his con­nection with the firm of Brown &amp; Dunkerson.</blockquote>
+                <blockquote id="b58-4" pgmap="58">“In the distribution of the assets belong­ing to the firm of R. K. Dunkerson &amp; Co. and the assets belonging to the individual mem­bers of said firm, the assignee insists that the dividend shall be made in the following man­ner, to wit: 1. The individual debts of R. K. Dunkerson shall be paid in full out of his individual assets. 2. The assets belonging to the firm of R. K. Dunkerson &amp; Co. shall be distributed, pro rata, among all the cred­itors of R. K. Dunkerson &amp; Co. who have proved their debts. 3. The individual assets of R. K. Dunkerson, remaining after paying his individual debts in full, shall be distribut­ed pro rata, among all the creditors proving their claims, to whom R. K. Dunkerson was liable at the time of filing his petition in bank­ruptcy either as a member of the firm of R. K. Dunkerson &amp; Co., or of the firm of Brown &amp; Dunkerson.</blockquote>
+                <blockquote id="b58-5" pgmap="58">“To this the Evansville National Bank ob­jects, and insists that, after paying Dunker-­son’s individual debts, the surplus of his in­dividual assets shall be merged in the assets of the firm of R. K. Dunkerson &amp; Co.; and that said bank shall be allowed a dividend upon the amount of the notes above described out of the assets of the firm of R. K. Dunker-­son &amp; Co. after the individual assets of Dunkerson, left after paying his individual debt, shall have merged as aforesaid, the same as upon the amount due said bank from the firm of R. Iv. Dunkerson &amp; Co.”</blockquote>
+                <p id="b58-6" pgmap="58">That when a debtor is jointly liable as a partner and separately liable as an indi­vidual, partnership property must first go •to the payment of the partnership debts and his individual property to the payment of his individual debts, is too well settled to admit argument or to require the citation of au­thority. In the present case it seems that the separate property of Dunkerson far exceeds his separate liabilities; and that the partner­ship property of the bankrupts, Dunkerson &amp; Co., is far less than their partnership lia­bilities. It follows, therefore, that all the in­dividual debts of Dunkerson must be fully paid out of his individual property; and that all the partnership assets of Dunkerson &amp; Co. must be applied, so far as they will go, to pay the partnership debts. This conclu­sion, I think, nobody will dispute. And, if in this I am correct, the only point to be de­cided is, whether the said claim of the Evans­ville National Bank is a debt due by the part­nership firm of Dunkerson &amp; Co. This it clearly is not. It is true that the debt due to the bank is a partnership debt; but it is due by the old firm of Brown &amp; Dunkerson. This firm does not appear to have been de­clared a bankrupt. If it had, no doubt this debt due the bank ought to be paid pro rata out of the assets of that firm. But, so far as the firm of Dunkerson &amp; Co. is concerned, the claim of the. bank, beyond all doubt, is not a partnership debt, and is not entitled to any dividend out of the assets of that firm.</p>
+                <p id="b58-8" pgmap="58">The mode of distribution insisted on by the national bank would, therefore, be plainly improper and unjust</p>
+                <p id="b58-9" pgmap="58">I fully agree with the register in his conclu­sion, that the individual debts of R. Iv. Dun-­kerson must first be paid in full out of his individual assets; that the assets of the bank­rupts, Dunkerson &amp; Co., shall be distributed pro rata among all their creditors who have proved their debts; and that the individual assets of R. Iv. Dunkerson, after first satisfy­ing in full his individual debts, shall be dis­tributed pro rata, among all the creditors who have proved their claims in this case, and to whom R. K. Dunkerson was, at the time of the filing of the petition in this case, liable either as a member of the firm of Dun-­kerson &amp; Co. or of any other firm. And I di­rect that the register make the distribution accordingly. And I further order and ad­judge that the Evansville National Bank pay the costs of this proceeding.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="57" ORDERLABEL="55" TYPE="page">
+        <fptr FILEID="tiff_00029_0"/>
+        <fptr FILEID="jp2_00029_0"/>
+        <fptr FILEID="alto_00029_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_57.5" BETYPE="IDREF" FILEID="alto_00029_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="58" ORDERLABEL="56" TYPE="page">
+        <fptr FILEID="tiff_00029_1"/>
+        <fptr FILEID="jp2_00029_1"/>
+        <fptr FILEID="alto_00029_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_58.5" BETYPE="IDREF" FILEID="alto_00029_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b58-9" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.11" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b58-8" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.10" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-21" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.24" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b58-6" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.8" BETYPE="IDREF" FILEID="alto_00029_1"/>
+            <area BEGIN="BL_58.9" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b58-4" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.6" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b58-5" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_58.7" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AHT" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.16" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-11" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.13" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-10" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.12" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-13" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.15" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-12" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.14" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-19" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.22" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-20" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.23" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A2D" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.26" BETYPE="IDREF" FILEID="alto_00029_0"/>
+            <area BEGIN="BL_57.27" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-22" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.25" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-23" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.28" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-24" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.29" BETYPE="IDREF" FILEID="alto_00029_0"/>
+            <area BEGIN="BL_58.2" BETYPE="IDREF" FILEID="alto_00029_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b57-26" BETYPE="IDREF" FILEID="casebody_0029"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_57.30" BETYPE="IDREF" FILEID="alto_00029_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

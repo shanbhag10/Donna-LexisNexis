@@ -1,0 +1,500 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0071" publicationstatus="published">
+          <court abbreviation="E.D.N.Y." jurisdiction="United States">United States District Court for the Eastern District of New York</court>
+          <name abbreviation="Dustin v. Murray">DUSTIN et al. v. MURRAY</name>
+          <docketnumber>Case No. 4,201</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 144</citation>
+          <citation category="parallel" type="bluebook">5 Ben. 10</citation>
+          <decisiondate>1871-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00073_1" MIMETYPE="image/tiff" CHECKSUM="ed0ccdcec909f208571f0c7f303c6fae" CHECKSUMTYPE="MD5" SIZE="46186">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00073_1.tif"/>
+      </file>
+      <file ID="tiff_00074_0" MIMETYPE="image/tiff" CHECKSUM="1ad81697296e370f4b8b5a061220faef" CHECKSUMTYPE="MD5" SIZE="110756">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00074_0.tif"/>
+      </file>
+      <file ID="tiff_00074_1" MIMETYPE="image/tiff" CHECKSUM="7e0f3c2eb229f4a12c0ba548565b27bc" CHECKSUMTYPE="MD5" SIZE="113384">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00074_1.tif"/>
+      </file>
+      <file ID="tiff_00075_0" MIMETYPE="image/tiff" CHECKSUM="edd0bdd4f9346a9a65b47018a8520ef7" CHECKSUMTYPE="MD5" SIZE="70726">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00075_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00073_1" MIMETYPE="image/jp2" CHECKSUM="b91c49f07262df1ae055f7a3bd30aff4" CHECKSUMTYPE="MD5" SIZE="2165882">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00073_1.jp2"/>
+      </file>
+      <file ID="jp2_00074_0" MIMETYPE="image/jp2" CHECKSUM="68f1edaafebacb13547ae740ecd22adc" CHECKSUMTYPE="MD5" SIZE="3747489">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00074_0.jp2"/>
+      </file>
+      <file ID="jp2_00074_1" MIMETYPE="image/jp2" CHECKSUM="184c5b80634840715ea6d40ddcba4f23" CHECKSUMTYPE="MD5" SIZE="3756200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00074_1.jp2"/>
+      </file>
+      <file ID="jp2_00075_0" MIMETYPE="image/jp2" CHECKSUM="c842e5da2fcac9f0f606cd6cf49ce643" CHECKSUMTYPE="MD5" SIZE="2785651">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00075_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00073_1" MIMETYPE="text/xml" CHECKSUM="0a0f4ddf9ac7b3a3545513bf79ce9987" CHECKSUMTYPE="MD5" SIZE="89031">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00073_1.xml"/>
+      </file>
+      <file ID="alto_00074_0" MIMETYPE="text/xml" CHECKSUM="e35380a71966196334efb56f8d1e402e" CHECKSUMTYPE="MD5" SIZE="249025">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00074_0.xml"/>
+      </file>
+      <file ID="alto_00074_1" MIMETYPE="text/xml" CHECKSUM="0cd92e7bc04213851938eb5d6f5d227e" CHECKSUMTYPE="MD5" SIZE="250532">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00074_1.xml"/>
+      </file>
+      <file ID="alto_00075_0" MIMETYPE="text/xml" CHECKSUM="36941e06d65e856dd0aeb26206b37ae0" CHECKSUMTYPE="MD5" SIZE="152677">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00075_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0071" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="147" firstpage="144">
+              <court id="b146-11" pgmap="146">District Court, E. D. New York.</court>
+              <docketnumber id="b146-8" pgmap="146">Case No. 4,201.</docketnumber>
+              <citation id="b146-10" pgmap="146">[5 Ben. 10.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b146-9" pgmap="146">DUSTIN et al. v. MURRAY.</parties>
+              <decisiondate id="AUo" pgmap="146">Feb., 1871.</decisiondate>
+              <attorneys id="b146-20" pgmap="146">R. D. Benedict and Henry Morris, for-­libellants.</attorneys>
+              <attorneys id="b146-21" pgmap="146">W. W. Goodrich and Warren G. Brown, for respondent</attorneys>
+              <footnote label="1">
+                <p id="b146-23" pgmap="146">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b146-22" pgmap="146">BENEDICT, District Judge.</author>
+                <p id="ALt" pgmap="146(84) 147(136)">This action is brought by a large number of persons, mostly colored seamen, who formed part off the ship’s company of the steamer Algon­quin, to recover of the defendant, as the owner of that vessel, three months’ extra wages, under the provisions of the act of congress, passed February 2S, 1S03. The Algonquin was a vessel of war, fitted out in this port by the defendant, who had an agreement with the Haytian government for her purchase of him, and her delivery by him in Port au Prince. On the 13th day of October, 1S70, a large crew was shipped for her, in New York, by the defendant; and, having been cleared from New York as a merchant vessel, the steamer proceeded to Port au Prince. Upon her arrival there, eight days afterwards, she was transferred, to the Haytian government, and entered the naval service of that government as a ves­sel of war. The libellants continued' on board of her as mariners, firemen, cooks, &amp;e., and served in the Haytian navy for different periods of from two to three months, and were finally dismissed from that service in Port au Prince. They now bring this action to recover the three months’ extra wages, which they insist the act of 1S03 entitles them to recover of the defend­ant.</p>
+                <p id="b147-4" pgmap="147">That seamen have the right to maintain an ! action against the shipowner, to recover as wáges their portion of the three months’ wages, required, by the act of 1803 to be paid by the master'on a discharge in a for­eign port, is not, and cannot now be ques­tioned in this court. Wells v. Meldrun [Case No. 17,402]; Emerson v. Howland [Id. 4,441]; Orne v. Townsend [Id. 10,583]. “Everything due from a ship to a sailor, as incident to his services, may be recovered in a court of admiralty, under the name of wages.” Woodworth v. Fennel [Id. 18,015], j The question here is, whether the case is j brought by the proofs within the scope of I the statute relied on.</p>
+                <p id="b147-5" pgmap="147">At the outset, a controversy has arisen as to what was the voyage for which the sea­men were shipped. The libel avers that' ! the voyage was from New York to Port au ¡ Prince, thence to such ports or places in the ¡ island of San Domingo as the master might j direct, and back to a port of discharge in j New7 York. The answer denies that such i was the voyage, but avers that the seamen I were hired by the respondent to serve on j board said vessel from the port of New ■ York to the port of Port au Prince, and to ¡ no other port or place.</p>
+                <p id="b147-6" pgmap="147">In support of- the answer, the ship’s ar­ticles, deposited with the collector of the port of New7 York, at the time of the departure i of the steamer, as required by law7, are pro- j duced, and the voyage therein contained ! corresponds with the voyage set forth in the answer. But the evidence makes it entirely clear, that no such ship’s articles were ever signed by the crew, and that the articles de­posited wdtli the collector w7ere simply fab­ricated, for the purpose of a formal com­pliance with the statute.</p>
+                <p id="b147-7" pgmap="147">The crew7 signed some document, but it is not produced. It is hardly possible that the agreement with the men could have been for a definite voyage from New York to Port au Prince, there to end, in all contingencies, as claimed in the answer. The expectation was, that the vessel would, upon her ar­rival, be transferred to the Haytian govern­ment, but it was not certainly known that she would be accepted, and if not accepted, the service of the crew would be of absolute necessity to the defendant to bring her home, or navigate her to some other market. For that reason, an agreement with the crew, which -would deprive him of the right to their further service, in case the vessel was not sold, would not have been safe, and it would require strong proof to convince me that it was made.</p>
+                <p id="b147-9" pgmap="147">Neither am I satisfied, that the agreement set forth in the libel is correct. But I take no time to determine what was the actual contract made with the men, not deeming that material to the disposition of this case; for I am of the opinion that the act of 1803, is applicable in a proper case, whatever may have been the agreement with the men at the time of their shipment. I am not aware of any express decision, that the act of 1803, is applicable to a case where the discharge of the seamen takes place at the termina­tion of the voyage agreed on. See, however, Wells v. Meldrun [supra]; The Dawn [Case No. 3,665]. But I do not doubt that the act may properly be held applicable in such a case. No reason suggests itself for exempt­ing such a case from the effects of the stat­ute. The terms of the act are general and applicable to all discharges of American seamen in a foreign port It is expressly applicable to a discharge by consent and nowhere requires that such consent should be first given at the foreign port. A dis­charge according to the agreement in the articles is as much a discharge by consent as any discharge can be. The object of the act is to compel provision for the return to their homes of American seamen left in foreign ports. The same necessity exists for its application, when the voyage agreed on ends, by its terms, in the foreign port, as when the voyage is there ended by con­sent, there given.</p>
+                <p id="b147-10" pgmap="147(180) 148(185)">The subsequent modification of some features of the act also indicates an intention, that the statute should be applicable in such a case. Thus, the 9th section of the act of July 20, 1840 [5 Stat. 395], expressly provides for exacting the three months’ pay, where the contract is fulfilled; while the 15th section of the act of March 1, 1855 [10 Stat. 624], when creating exceptions, omits to except the case of a voyage, terminated by the terms of the articles; and, although it permits the consul to forbear to require payment of the three months’ extra wages, when the master and seamen jointly apply for a discharge without such payment, still it forbids such action, unless under circumstances which will se­cure the United States from all liability to expense on account of the mariner. If it should be said, that this construction of the act would make it exceedingly onerous in all cases of short voyages, terminating in for­eign ports, the answer appears to be that the act is intended to be onerous, and to exclude tlie possibility of an American seaman being left without money in a foreign port, liable to be a charge upon the United States, ex­cept in cases where the consul shall be sat-­islied that no injustice will be done, and no expense entailed upon the United States. Furthermore, the 1st section of the act of 1803, requires of the master of any vessel, bound on a foreign voyage, before he can ob­tain a clearance, a bond, conditioned that ho shall return to the United States all the sea­men upon his articles, except such as shall have died, or absconded, or been discharged in a foreign port with the consent of the con­sul signified in writing — and such a bond given for the return of these libellants is in evidence here. For these reasons my opinion is, that neither the agreement set up in the libel, nor that in the answer contain any features which prevent the libellants from recovering the extra wages, if the other facts of the case are sufficient to bring it within the purview of the act.</p>
+                <p id="b148-4" pgmap="148">The statute compels the payment of three months’ wages, in two contingencies — when the ship shall be sold in a foreign country, and her* company discharged; or, when a seaman shall, with his own consent, be dis­charged in a foreign country. Subsequent statutes modify these contingencies in the event of certain action by the consul, but such modifications do not affect the present case, inasmuch as it is conceded, that the consul took no action in regard to the these men.</p>
+                <p id="b148-5" pgmap="148">Was this vessel sold in Port au Prince, and her company discharged, within the meaning of the act? The sale of the ship in Port au Prince is proven. The contract between the Haytian government and the respondent is in evidence, and its legal effect was to vest the title to the vessel in the Haytian government upon her arrival and acceptance by that gov­ernment, in Port au Prince, and not before. In accordance with that contract, she was sent to Port au Prince by the respondent, and there by him delivered to her new owners. If the ship’s company was then discharged within the meaning of the act, the case of the libellants is complete.</p>
+                <p id="b148-6" pgmap="148">Now, it is certain, that at the time the ves­sel was sold, and the flag changed, the com­pany did not, any of them, leave the ship; on the contrary, they remained on board, under the Haytian flag for some months. This cir­cumstance, which ordinarily would be so con­trolling, demands especial attention here, owing to the fact that the officers of the steamer were not changed at the time of the sale, but the vessel was at once put in serv­ice as a vessel of war, under their command; and doubtless, it would have been impossible to procure for her, at that time and place, any proper crew, if the crew, shipped in New York, had left her on the change of flag. Ac­cordingly, as is apparent from the testimony, the men were considered and treated by the master as enlisted seamen of the Haytian navy, and if they had then desired to leave the ship, would not have been permitted to do so.</p>
+                <p id="b148-8" pgmap="148">A continuance on board the vessel and in the service of a foreign power, under such circumstances, if unwilling and enforced, I should not consider sufficient to prevent the operation of the statute.</p>
+                <p id="b148-9" pgmap="148(481) 149(302)">To compel the men to remain on board and in the service of a foreign state, would be equivalent to a discharge, and, coupled with the fact that the men finally did leave the vessel in the foreign port, would be suffi­cient to entitle the seamen to the extra wages under the statute. Nor could the de­fendant, the ship-owner, be permitted to say that he is not responsible for the action of a foreign power, in compelling the men into their naval service; because, under such cir­cumstances, it would be the duty of the ship­owner to make provision to secure to the seamen an opportunity to leave the ship, if they desired to, before they passed into the power of the foreign government; and not having done so, he would be responsible, as having connived at their detention on board. It becomes important, then, to deter­mine whether the libellants desired to leave the vessel on the change of flag, or volun­tarily entered the service of the Haytian gov­ernment. This aspect of the case has been anticipated, and much testimony has been taken to show, on the one side, that at the time of the change of flag, the seamen pro­tested against being compelled to enter the Haytian service, and demanded to be dis­charged; and, on the other side, to show, not only that the men willingly entered the service at the time of the change of the flag, and voluntarily took upon themselves the character of seamen of the Haytian navy, but also to show that, at the time of their shipment in New York, they expressly agreed to enter that service. I attach no importance to the evidence offered by the respondent, as proving an agreement at the original ship­ment to serve in the Haytian navy, inasmuch as such an agreement made would be ille­gal and void, — see Act April 20, 1818, § 1 [8 Stat. 447],—and the men in nowise pre­vented from claiming their discharge upon the change of flag. This evidence is only important, as tending to throw light upon the action of the crew at the time of the change of flag. It will not be desirable to extend this opinion, by referring at length to all the portions of the testimony which have led me to the conclusion which I have reached upon this, as I view it, the decisive point of the case. It is sufficient to say, that I have duly weighed all the testimony, and, notwith­standing the very positive statements of many, indeed, of most of the libellants, I consider that the weight of the evidence sus­tains the position taken by the defendant, that the libellants voluntarily joined the Hay-­tian naval service, at the time of the trans­fer of the vessel to that government. I do not say that the continuance of all the men in that service, for the time they served, was voluntary, but that their entering the serv­ice was voluntary. The vessel was known in New York to be a vessel of war. That she was such, was apparent to the crew when they went on board. The expected sale to the Haytian government was notori­ous, and common talk on board; the prob­ability that they would be expected to enter the service of that government, in the event of her sale, was known to all; and upon the •evidence, it appears reasonably certain that, when the men shipped, it was with the in­tention of going with the ship into the Hay-­tian service, in case she was sold to that gov­ernment. Nothing is shown to have tran­spired during the voyage out, calculated to cause a change of intention, and I conclude that that intention was not changed, but that the libellants willingly and intelligently en­tered the service of the foreign government to which the ship was sold. It is doubtless true, that very shortly thereafter there was ■dissatisfaction, and that then many of the men claimed their discharge, upon the ground that they had shipped under the American flag, and were not bound to serve under a foreign flag; but the question is, whether, at the time of changing the flag, the crew willingly took service under the new flag, or whether they were coerced into so doing by the officers of the ship. This ■question being determined adversely to the .libellants, it is impossible for them to recover the extra wages, payable according to the act of 1S03, in the case of the sale of a ship and the discharge of her company in a foreign port.</p>
+                <p id="b149-4" pgmap="149">A word only is necessary in reference to the position — that the extra wages are due by reason of the subsequent discharge of the men, by consent, in the foreign port No such position can be maintained, for the reason that when the men were finally discharged from the ship,* no relation then existed be­tween them and the defendant. He ceased to be owner at the time of the change of flag. Besides, the men were not then American seamen. The act of 1803 was intended only to provide for American seamen. Engaging in a foreign service by a seaman would pre-­•elude the possibility of a payment to the American consul at a subsequent discharge from such foreign service, as provided by the act, and such engagement would be a waiver of all right to claim the benefit of the statute. Matthews v. Offly [Case No. 9,290].</p>
+                <p id="b149-5" pgmap="149">The views already expressed also dispose of the claim to a balance of the wages earned by the libellants while in the service of the Hay-­tian government. Supposing it to be true, that the agreement was that, in case of sale, the passage of the men home should be paid, ■or that they should serve the defendant for a period of six months, and then be returned to the United States, nevertheless, if, as I have .found, the libellants voluntarily entered the service of the Haytian government, that ter­minated the liability of the respondent for future wages. As to the wages up to that time, it is conceded that they have been paid.</p>
+                <p id="b149-7" pgmap="149">The result, therefore, is, that the libel must be dismissed, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="146" ORDERLABEL="144" TYPE="page">
+        <fptr FILEID="tiff_00073_1"/>
+        <fptr FILEID="jp2_00073_1"/>
+        <fptr FILEID="alto_00073_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_146.4" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="147" ORDERLABEL="145" TYPE="page">
+        <fptr FILEID="tiff_00074_0"/>
+        <fptr FILEID="jp2_00074_0"/>
+        <fptr FILEID="alto_00074_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_147.3" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="148" ORDERLABEL="146" TYPE="page">
+        <fptr FILEID="tiff_00074_1"/>
+        <fptr FILEID="jp2_00074_1"/>
+        <fptr FILEID="alto_00074_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_148.4" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="149" ORDERLABEL="147" TYPE="page">
+        <fptr FILEID="tiff_00075_0"/>
+        <fptr FILEID="jp2_00075_0"/>
+        <fptr FILEID="alto_00075_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_149.4" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-11" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.14" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-10" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.13" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALt" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.27" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            <area BEGIN="BL_146.28" BETYPE="IDREF" FILEID="alto_00073_1"/>
+            <area BEGIN="BL_147.1" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-23" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.29" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-9" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.10" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            <area BEGIN="BL_149.2" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.6" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.5" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-6" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.7" BETYPE="IDREF" FILEID="alto_00074_1"/>
+            <area BEGIN="BL_148.8" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-22" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.26" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b148-8" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_148.9" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-20" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.24" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-21" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.25" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.6" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.7" BETYPE="IDREF" FILEID="alto_00075_0"/>
+            <area BEGIN="BL_149.8" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b149-7" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_149.9" BETYPE="IDREF" FILEID="alto_00075_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-9" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.11" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-6" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.7" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-7" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.8" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            <area BEGIN="BL_147.9" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-9" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.12" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b146-8" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.11" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-5" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.6" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-10" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.12" BETYPE="IDREF" FILEID="alto_00074_0"/>
+            <area BEGIN="BL_148.1" BETYPE="IDREF" FILEID="alto_00074_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUo" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_146.15" BETYPE="IDREF" FILEID="alto_00073_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b147-4" BETYPE="IDREF" FILEID="casebody_0071"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_147.5" BETYPE="IDREF" FILEID="alto_00074_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

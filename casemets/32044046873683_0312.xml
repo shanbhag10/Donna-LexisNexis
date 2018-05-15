@@ -1,0 +1,521 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0312" publicationstatus="published">
+          <court abbreviation="D. Me." jurisdiction="United States">United States District Court for the District of Maine</court>
+          <name abbreviation="The Emblem">The EMBLEM</name>
+          <docketnumber>Case No. 4,434</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 611</citation>
+          <citation category="parallel" type="bluebook">2 Ware (Dav. 61) 68</citation>
+          <decisiondate>1840-07-27</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00307_0" MIMETYPE="image/tiff" CHECKSUM="bd0e34a02d7482ab20b3292450472a1d" CHECKSUMTYPE="MD5" SIZE="16846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00307_0.tif"/>
+      </file>
+      <file ID="tiff_00307_1" MIMETYPE="image/tiff" CHECKSUM="eb9eb92bb5cba5ca749369f8f01b67e7" CHECKSUMTYPE="MD5" SIZE="87434">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00307_1.tif"/>
+      </file>
+      <file ID="tiff_00308_0" MIMETYPE="image/tiff" CHECKSUM="174476388393c86038cf9c33f093a35c" CHECKSUMTYPE="MD5" SIZE="114194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00308_0.tif"/>
+      </file>
+      <file ID="tiff_00308_1" MIMETYPE="image/tiff" CHECKSUM="8714615e45d7096de72a49d374cd3aa3" CHECKSUMTYPE="MD5" SIZE="107088">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00308_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00307_0" MIMETYPE="image/jp2" CHECKSUM="6e1c14c269387b4d38705b6a9954e36d" CHECKSUMTYPE="MD5" SIZE="1607862">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00307_0.jp2"/>
+      </file>
+      <file ID="jp2_00307_1" MIMETYPE="image/jp2" CHECKSUM="7fb4ff7026be8f8b8c8fd28c222a2541" CHECKSUMTYPE="MD5" SIZE="3131994">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00307_1.jp2"/>
+      </file>
+      <file ID="jp2_00308_0" MIMETYPE="image/jp2" CHECKSUM="f4214354ec92f19884be0cbe89e42cd5" CHECKSUMTYPE="MD5" SIZE="4045042">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00308_0.jp2"/>
+      </file>
+      <file ID="jp2_00308_1" MIMETYPE="image/jp2" CHECKSUM="1eace5ab0854ae58829353a9012e0598" CHECKSUMTYPE="MD5" SIZE="3701227">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00308_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00307_0" MIMETYPE="text/xml" CHECKSUM="1da384445e48ff59dfced259f4981b1b" CHECKSUMTYPE="MD5" SIZE="28296">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00307_0.xml"/>
+      </file>
+      <file ID="alto_00307_1" MIMETYPE="text/xml" CHECKSUM="47755de0e41248227177c24be638ae15" CHECKSUMTYPE="MD5" SIZE="189203">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00307_1.xml"/>
+      </file>
+      <file ID="alto_00308_0" MIMETYPE="text/xml" CHECKSUM="f4f8bcb5124e8b8fafbe81f346c342a6" CHECKSUMTYPE="MD5" SIZE="259117">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00308_0.xml"/>
+      </file>
+      <file ID="alto_00308_1" MIMETYPE="text/xml" CHECKSUM="9a387b0e6b8b3da1b40e607da320a5df" CHECKSUMTYPE="MD5" SIZE="232575">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00308_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0312" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="614" firstpage="611">
+              <court id="AJY" pgmap="613">District Court, D. Maine.</court>
+              <docketnumber id="b613-14" pgmap="613">Case No. 4,434.</docketnumber>
+              <citation id="b613-16" pgmap="613">[2 Ware (Dav. 61) 68.] <footnotemark>2</footnotemark>
+              </citation>
+              <parties id="b613-15" pgmap="613">The EMBLEM.</parties>
+              <decisiondate id="A_33" pgmap="613">July 27, 1840.</decisiondate>
+              <attorneys id="b614-4" pgmap="614">Mr. Haines, for libellant</attorneys>
+              <attorneys id="b614-5" pgmap="614">Longfellow &amp; Fessenden, for claimants.</attorneys>
+              <footnote label="2">
+                <p id="b613-21" pgmap="613">2 [Reported by Edward H. Daveis, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b614-6" pgmap="614">WARE, District Judge.'</author>
+                <p id="AnqJ" pgmap="614">This is a case of. salvage of no extraordinary merit, if the time employed, and the labor and risk, in­curred in the service be alone taken into con- ■ sideration. It is not pretended that, in sav­ing the property, the salvors were occupied more than four or five hours, nor that the service was attended with any peculiar haz­ard. But there are other circumstances in the case, which will incline the court to look upon it with a more favorable eye. It was connected with the saving of several lives ■ which, but for the timely aid of these salvors . must inevitably have been sacrificed. Now a court of admiralty has no authority to al­low a reward merely for the saving of life. That, as is observed by Lord Stowell. “must be left to the bounty of individuals. But when it is connected with the preservation of property, then the court can take notice of it, and it is always willing to Join that to the , animus displayed in the first instance.” The Aid, 1 Hagg. Adm. 83. See, also, The Two : Catherines [Case No. 14,28S]. The rate of salvage rests entirely on the discretion of the court, but it is a judicial discretion, gov­erned by fixed and certain principles. The ‘ first principle is, that it shall be liberal, and not confined to a mere quantum meruit for the service actually performed, but such as will operate as an inducement to men of daring and adventurous courage, to engage in these perilous enterprises. It would be sur­prising, when courts are thus liberal in re­munerating hardy enterprise, displayed in the saving of property, if they were entirely deaf to its merits, where the same dangers are braved in saving life. But this is a charge which cannot justly be imputed to courts-of admiralty. It has been stated by high authority, that stopping, for the pur­pose of saving the lives of shipwrecked per­sons, is a meritorious duty, and is not such a deviation as will discharge underwriters. The Boston [Case No. 1,673]. Now, though the court is not authorized to grant a reward directly, for the discharge of this common duty of humánity, yet when it has incidental­ly led to the saving of property, it will not exclude it wholly from its consideration, in determining the amoi nt of salvage upon the property.</p>
+                <p id="b614-8" pgmap="614(383) 615(86)">The motive, for the deviation in this case, seems to have been the saving of life. When the survivors upon the wreck were safely lodged in the salvor’s vessel, she continued on her course, and it was not until after the wind lulled, and the danger of entering upon the wreck was diminished, that Capt. Hatch returned to ascertain what property could be saved; so that the acquiring any reward for themselves appears to have been, in the minds of the salvors, an after or secondary consideration. I am clearly of the opinion, that in this case, looking at the risk, time, and labor of the service only, the remu­neration ought to be liberal, and that the humanity of the salvors, although it can­not be the object of a direct reward, in the way of salvage, is not to be forgotten in determining the rate of salvage upou the property. Not that the court has the au­thority to take one man’s property and ap­propriate it, as a reward for saving an­other man’s life; but that the general prin­ciples of humanity and of enlarged policy, applicable to these cases, where all, who are interested in adventures upon the high seas, are liable to become in turn the salvors and the saved, require that the circumstance of the preservation of life ought not to be wholly kept out of sight, in measuring the reward. Sure I am, that no one, .who has once been exposed to the horrors which these persons suffered, will ever object to the prin­ciple. But, in the present case, there are some circumstances which, I am free to say, have struck my mind with considerable sur­prise. They are, that this vessel should have • lain, for four days, in one of the most fre­quented parts of the American seas, with ves­sels continually passing her, some of them almost within hailing distance, and when they were in full view of this unhappy com­pany, who were lying thus lashed and dying upon the wreck, and no one came to their relief until more than half of their number were released from their sufferings, by death, and consigned to a watery grave. It is i. fact, which would seem to be incredible, if it did not rest upon indubitable and unsus­pected proof. If this fact is to be takeq as a just measure of the humanity of the per­sons who frequent those seas, I know not but it may be the part, not only of humanity, but of worldly wisdonj, to let them under­stand that sometimes even in godliness there is gain, and to tempt them by the allurements .of. pecuniary profit, if they can be led by no other, to acts of humanity and mercy.</p>
+                <p id="b615-3" pgmap="615">The counsel for the claimants have fairly allowed full credit to the humanity of Capt. Hatch and his crew, standing as it does in such striking contrast with that of others in the neighborhood of those seas. They have not contended against a reasonable allowance of salvage, upon the particular circumstances of the case. The principal question, which has been discussed, is, whether any salvage ■can. upon the principles of law, be allowed upon the bills of exchange and drafts, which were saved in the same trunk which con­tained the specie. The argument for the claimant is, that a bill of exchange is not property, in any proper sense of the word, but merely the evidence of a debt, and that if lost, the debt is not cancelled, but the cred­itor can recover it, upon the original con­sideration for which the bill was given; and therefore, if saved from a shipwrecked ves­sel, it is no more subject to salvage than a deed of real estate, or any other muniment of title, which may be useful to the owners, but is of no value in the hands of any other person. On the other side it is argued, that although a bill of exchange is not strictly property, it is a security, and although the loss of the security does not cancel the debt, it renders the recovery of it difficult, and may, from the inability of the creditor to procure sufficient proof, render a recovery im­possible, and thus by the saving of .the se­curity, the salvors have rendered an essen­tial benefit to the owner, capable of being valued in money. For this benefit, it is con­tended, they are entitled to a remuneration. The fact which gives force to this argument, is, that the whole set of each of the bills was saved, all being found together in the trunk of Mr. Leland, the supercargo.</p>
+                <p id="b615-4" pgmap="615">That the owners of these bills have derived some benefit from the rescue of them from destruction, cannot be denied. It has fur­nished them with the proof that no bill, of any of the sets, is now outstanding in circu­lation, in the hands of a bona fide holder, and has thus removed one of the difficulties they would have to encounter, in a suit for the debt, upon the original consideration, and if the finding and saving of property in this way furnished the ground of a personal ac­tion against the owner, quasi ex contractu, I see no insuperable obstacle to a decree against the owners of a suitable remunera­tion to the salvors. But, by the common law, the finder of property which has been casually lost has no legal claim against the owner to anything in the nature of a re­ward or compensation for finding. All that he can pretend to is the repayment of the actual expenses he has incurred in preserv­ing it, and upon the payment of this, the owner is entitled to receive his property free from all other charge. Kent. Comm. 256. The finder of a check or promissory note or other chose in action acquires no property in the note and has no right to demand the payment of it; and if a promiser pays it, after notice that it came into the possession of the holder by finding, he would not be protected against a demand by the owner. McLaughlin v. Waite, 5 Wend. 404. A.na ia this rule, the common agrees with the civil law. The finder, of what belongs to another, acquires no property in the thing found, un­less the owner had renounced his property in it, and left it derelict as bona vacantia, but he was bound to restore it to the owner. Dig. 6,1, 67; Pothier, Traité de la Proprieté, No. 66.</p>
+                <p id="b615-7" pgmap="615(386) 616(119)">This is the law if the thing is lost on the land. But the maritime law, from considera­tions of public policy, has established a dif­ferent rule for goods which are lost at sea. A person who preserves goods which are lost, or in danger of being lost, by the for­tunes of the sea, is entitled to a reward for that service. But what is the nature of this right? Is it a personal claim, or right of action, to recover the reward against the owner of the thing saved, or is it merely a right to proceed against the thing itself to obtain his satisfaction? This is a material question which arises in the consideration of this case. That the salvor has a perfect right to proceed against the goods saved, admits of no doubt. By saving them he ac­quires a sort of proprietary interest in the goods, a jus in re, and a complete possessory right, against all persons claiming an inter­est in them, to retain them until his com­pensation is paid, or until he can proceed to enforce his right against them by due course of law. And it is the familiar practice of courts of admiralty, in all the maritime courts of Europe, to give him a remedy by process in rem. The goods, upon filing a li­bel by the salvor, are taken into the custody of the court, and ordered to be sold for the payment of the salvage. The right of domin­ion, or the absolute property, in the mean time, remains in the original owner. But he is under no obligation to assert his right, by intervening with a claim. He may aban­don his property if he pleases, and if he does so, and declines to make himself a party to the suit, no decree can be made against him. In certain cases, it is true, the admi­ralty has jurisdiction, in cases of salvage, to proceed in personam. If the owner wish­es to receive his goods, before proceedings at law are instituted and the salvor deliv­ers them to him, a personal libel may be maintained for the salvage. Such were the cases of The Trelawney and The Hope. 3 C. Rob. Adm. 215, 216; 4 C. Rob. Adm. 223. But this is solely on the ground of his pos­session of the property. All the authorities speak of the right of the salvor as attaching to the thing, and not as the foundation of any personal claim against the owner, inde­pendent of the goods saved. The customs of the sea, as we have them collected in all the old maritime codes, treat the salvor’s claim in the same way as a right against the property saved, and the usual mode of compensating the service is by the allowance of a certain portion of the goods saved or of their value. The service is nowhere spoken of as constituting the ground of a personal claim against the owners.</p>
+                <p id="b616-4" pgmap="616">Upon these principles, admitting that the salvors have performed a meritorious and valuable service to the owners of these bills, by rescuing them from destruction, it is dif­ficult to see in what mode the court can give them a remedy. It can only act on the thing and pronounce the bills subject to salvage, and it can execute its decree only by an or­der of sale. If they are sold, what right would be transferred to the purchaser? Could he recover from the persons whose names are on the bills the sums for which they wore drawn? The difficulties, it ap­pears to me, would be insuperable. Suppose the title deeds of an estate were saved from a wrecked vessel, it would not be pretended that the possession of the deeds carried with it any title to the land, or any interest in it Or, suppose the paper saved were a will, and it were pronounced subject to salvage, would a sale, under a decree of a court of admi­ralty, transfer to the purchaser any interest in the legacies? Or, if the papers saved were settlements, receipts, or acquittances, these papers might be of great value to the owner, but would be of ¿o use to any one else. If any salvage is due on such articles, it can only be recovered in a personal suit against the owners. But the saving of property, from the perils of the sea, creates no per­sonal obligation against the owner, independ­ent of his interest in the property saved.</p>
+                <p id="b616-5" pgmap="616">■ But it is contended for the libellant, that the papers having been saved and brought into court, the court may prescribe the terms upon which they may be redelivered to the , owner, and may hold them impounded until I the condition be performed. When goods are brought into the custody of the law by process in rem, a claimant cannot, it is true, recover the possession of them but by an order of the court. But when he is entitled to the possession, the court is bound to pass the order. The authority of the court to re­tain the possession is founded on that of the libellant, and the foundation of his right is a supposed lien upon them, for the payment of salvage. But if they are not subject to salvage, then his right fails. The case falls under the rule of the common law, and the owner is entitled to receive them upon the payment of the actual expenses which the finder has incurred in preserving them, and | j ! it will be the duty of the court to order them to be restored to the owner upon proper proof' of his title.</p>
+                <p id="Ancs" pgmap="616">My opinion is, that nothing can be allowed upon the bills of exchange and drafts; but I think that there are peculiar reasons for al­lowing a liberal salvage on the property saved. And I allow it the moré willingly,, as, from the evidence now befox-e the court, it appears that the specie belongs to the same persons who are entitled to the bills. As .the salvors have performed a meritorious serv­ice, in rescuing from destruction the evidence of property, for which, upon the principles of the maritime law, no remuneration can be allowed, this fact may be justly remem­bered, in the allowance of salvage on those articles which are legally subject to that burden. The whole amount of the property saved will not probably exceed six hundred dollars. I shall allow three hundred and eighty dollars for salvage, and charge the expenses upon the residue. This will be di­vided in the proportion of two-fifths to the owners of the salvor ship, and three-fifths to the master and crew; to be divided into-­thirteen shares:</p>
+                <blockquote id="b616-8" pgmap="616">Four shares to Capt. Hatch, the master.</blockquote>
+                <blockquote id="b616-9" pgmap="616">Two shares to Lewis West, the mate.</blockquote>
+                <blockquote id="b616-10" pgmap="616">One share to James Cole, mariner.</blockquote>
+                <blockquote id="b616-11" pgmap="616">One share to Charles Dennison, “</blockquote>
+                <blockquote id="b616-12" pgmap="616">One share to George Morris, “</blockquote>
+                <blockquote id="b616-13" pgmap="616">One share to Daniel Nash, “</blockquote>
+                <blockquote id="b616-14" pgmap="616">One share to Stephen Chase, “</blockquote>
+                <blockquote id="b616-15" pgmap="616">One share to Wm. Robinson, “</blockquote>
+                <blockquote id="b616-16" pgmap="616">One share to Isaac Johnson, steward.</blockquote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="613" ORDERLABEL="611" TYPE="page">
+        <fptr FILEID="tiff_00307_0"/>
+        <fptr FILEID="jp2_00307_0"/>
+        <fptr FILEID="alto_00307_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_613.3" BETYPE="IDREF" FILEID="alto_00307_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="614" ORDERLABEL="612" TYPE="page">
+        <fptr FILEID="tiff_00307_1"/>
+        <fptr FILEID="jp2_00307_1"/>
+        <fptr FILEID="alto_00307_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_614.4" BETYPE="IDREF" FILEID="alto_00307_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="615" ORDERLABEL="613" TYPE="page">
+        <fptr FILEID="tiff_00308_0"/>
+        <fptr FILEID="jp2_00308_0"/>
+        <fptr FILEID="alto_00308_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_615.3" BETYPE="IDREF" FILEID="alto_00308_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="616" ORDERLABEL="614" TYPE="page">
+        <fptr FILEID="tiff_00308_1"/>
+        <fptr FILEID="jp2_00308_1"/>
+        <fptr FILEID="alto_00308_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_616.4" BETYPE="IDREF" FILEID="alto_00308_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b615-4" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_615.6" BETYPE="IDREF" FILEID="alto_00308_0"/>
+            <area BEGIN="BL_615.7" BETYPE="IDREF" FILEID="alto_00308_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b615-7" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_615.8" BETYPE="IDREF" FILEID="alto_00308_0"/>
+            <area BEGIN="BL_616.1" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ancs" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.8" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b615-3" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_615.5" BETYPE="IDREF" FILEID="alto_00308_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-6" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.7" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b613-21" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_613.38" BETYPE="IDREF" FILEID="alto_00307_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-12" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.13" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b613-14" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_613.29" BETYPE="IDREF" FILEID="alto_00307_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b613-15" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_613.30" BETYPE="IDREF" FILEID="alto_00307_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b613-16" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_613.31" BETYPE="IDREF" FILEID="alto_00307_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJY" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_613.32" BETYPE="IDREF" FILEID="alto_00307_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-15" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.16" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-14" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.15" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-11" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.12" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-8" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.9" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-13" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.14" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-10" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.11" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-16" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.17" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-5" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.6" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-4" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.5" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-9" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.10" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AnqJ" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.8" BETYPE="IDREF" FILEID="alto_00307_1"/>
+            <area BEGIN="BL_614.9" BETYPE="IDREF" FILEID="alto_00307_1"/>
+            <area BEGIN="BL_614.10" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-8" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.11" BETYPE="IDREF" FILEID="alto_00307_1"/>
+            <area BEGIN="BL_615.1" BETYPE="IDREF" FILEID="alto_00308_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-5" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.6" BETYPE="IDREF" FILEID="alto_00308_1"/>
+            <area BEGIN="BL_616.7" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-4" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.5" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_33" BETYPE="IDREF" FILEID="casebody_0312"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_613.33" BETYPE="IDREF" FILEID="alto_00307_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

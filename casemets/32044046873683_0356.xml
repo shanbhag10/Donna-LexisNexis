@@ -1,0 +1,368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0356" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="The Empress">The EMPRESS</name>
+          <docketnumber>Case No. 4,478</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 695</citation>
+          <decisiondate>1863-07-17</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00349_0" MIMETYPE="image/tiff" CHECKSUM="bc056b026ebac57b210a3a758055287d" CHECKSUMTYPE="MD5" SIZE="89978">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00349_0.tif"/>
+      </file>
+      <file ID="tiff_00349_1" MIMETYPE="image/tiff" CHECKSUM="367b23a776c67d7e65f37f9fc33c9379" CHECKSUMTYPE="MD5" SIZE="95176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00349_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00349_0" MIMETYPE="image/jp2" CHECKSUM="b253388e22ba089b497e00e949f78238" CHECKSUMTYPE="MD5" SIZE="3347409">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00349_0.jp2"/>
+      </file>
+      <file ID="jp2_00349_1" MIMETYPE="image/jp2" CHECKSUM="50862710a7f5520323095225caae9f77" CHECKSUMTYPE="MD5" SIZE="3491121">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00349_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00349_0" MIMETYPE="text/xml" CHECKSUM="b59f470ed9a6bccf3541feb36231e81f" CHECKSUMTYPE="MD5" SIZE="191474">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00349_0.xml"/>
+      </file>
+      <file ID="alto_00349_1" MIMETYPE="text/xml" CHECKSUM="b5e015d1351a5b559fadb5a60c0a64d4" CHECKSUMTYPE="MD5" SIZE="211368">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00349_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0356" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="696" firstpage="695">
+              <court id="b697-15" pgmap="697">Circuit Court, S. D. New York.</court>
+              <docketnumber id="b697-12" pgmap="697">Case No. 4,478.</docketnumber>
+              <parties id="b697-13" pgmap="697">The EMPRESS.</parties>
+              <decisiondate id="Aj3q" pgmap="697">July 17, 1863.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <p id="b697-14" pgmap="697">[Blatchf. Pr. Cas. 659.]<footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p id="b697-21" pgmap="697">1 [Reported by Samuel Blatehford, Esq.]</p>
+              </footnote>
+              <footnote label="2">
+                <p id="b697-22" pgmap="697">2 [Reversing Case No. 4,477.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b698-6" pgmap="698">' NELSON, Circuit Justice.</author>
+                <p id="AuXz" pgmap="698">This vessel aud cargo were captured on the morning of the 28th of November, 1S61, by the sloop-of-­war Vincennes, at the mouth of the Missis­sippi river, off the Southeast Pass, some three miles from the Belize. The vessel was under a charter-party, entered into by the master, at Bio Janeiro, on the 5th of September, 1S61, to ship a cargo of coffee to "New Orleans or Mobile, as may be or­dered by the charterers, and if the vessel, on arrival, be warned off by a blockading squadron, to proceed either to New York, Baltimore, or Philadelphia, which second place is likewise to be named by the chartcr-­eis previous to the departure of the vessel from Bio de Janeiro. If warned off New Orleans or Mobile, the master to deliver at the port of discharge the order from the ■officer warning him off,” &amp;c.</p>
+                <p id="b698-7" pgmap="698">On the 14th of September, 1861, the master was instructed by the charterers to proceed to New Orleans with his cargo, (6,185 bags of coffee,) and should the port be open upon his arrival, the bill of lading indorsed would advise him to whom to deliver the cargo, •but should the port be blockaded, he would be warned off, and would then proceed direct to New York.</p>
+                <p id="b698-8" pgmap="698">The vessel belonged to a British subject residing in Hull, England, and had sailed from that port in May, 1801, with a cargo of coal and cast-iron buildings for Bio Janeiro. On discharging her cargo, she was put up for freight by the master, which led to the charter above referred to. The cargo on board belongs to the charterers, William Moore &amp; Co., British «and Brazilian subjects.</p>
+                <p id="b698-9" pgmap="698">The only question in the case is, whether or not the vessel and cargo are subject to condemnation for attempting to break the blockade of the port of New Orleans. Upon a perusal of the testimony in praeparatorio and the documentary proofs, I am satisfied that there was no such intent on the part of the master or of the owners of the cargo; but that, on the contrary, their purpose was to ascertain, at the mouth of the Mississippi river, by personal inquiry, whether or not the port of New Orleans was actually block­aded. This was, 1 think, the bona fide in­tention of the parties. There was no dis­guise of the purpose, as it was avowed in the charter-party, and in the written instructions from the owners of the cargo, and repeated­ly by the master himself; and the only question is, whether the master was justi­fied, under the circumstances disclosed in the case, in making such inquiry.</p>
+                <p id="b698-12" pgmap="698">It is quite apparent that these parties adopted that construction of the proclama­tion of the president announcing an intent to set on foot a blockade of the southern ports, which is indicated by its terms — that ,a vessel sailing for a. port in a state of blockade would be entitled to a warning from one of the blockading vessels before a forfeiture would be enforced; and that, act­ing upon such construction, and the conse­quent directions found in the charter-­party, and the instructions from the charter­ers, the master persevered in the purpose of making the inquiry, although, at the same time, he had good reason for the belief that the port was in a state of actual blockade. This interpretation of the proclamation was overruled by a majority of the supreme court in the case of the Hiawatha [2 Black (67 U. S.) 635], and must be regarded, there­fore, as affording no justification to either vessel or cargo.</p>
+                <p id="b698-13" pgmap="698">But, although the terms of the proclama­tion furnish no justification for the act, yet I think they are entitled to consideration when we are inquiring into the intent with which the master was sailing for the block­aded port. These terms may have honestly misled him; and the fact that the vessel was found at a place which would, under other circumstances, be suspicious, may, in view of those terms, be consistent with her entire innocence.</p>
+                <p id="b698-14" pgmap="698">There was no official notice of the blockade of the port of New Orleans given by this government to the British or the Brazilian government. There is no evidence in this case at what time it was established. The case must stand upon a blockade de facto, as it respects foreign neutral traders at the belligerent port No doubt a general noto­riety prevailed at Bio Janeiro, at the time of the sailing of the vessel from that place, that the mouths of the Mississippi were block­aded; and the master of the vessel was advised, in the course of the voyage, by a vessel which he hailed, that he would be stopped at the Belize. There are, undoubt­edly, cases which hold, as a general rule, that, even in- the case of a blockade de facto, the inquiry must not be made at the blockaded port, if it be reasonably practi­cable to ascertain the fact by inquiry at a neutral port. There are, however, excep­tions to this rule, and, under all the circum­stances and proofs in the case, I am in­clined 'to think that the present is one of them.</p>
+                <p id="b698-15" pgmap="698">The decree of the court below is reversed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="697" ORDERLABEL="695" TYPE="page">
+        <fptr FILEID="tiff_00349_0"/>
+        <fptr FILEID="jp2_00349_0"/>
+        <fptr FILEID="alto_00349_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_697.4" BETYPE="IDREF" FILEID="alto_00349_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="698" ORDERLABEL="696" TYPE="page">
+        <fptr FILEID="tiff_00349_1"/>
+        <fptr FILEID="jp2_00349_1"/>
+        <fptr FILEID="alto_00349_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_698.4" BETYPE="IDREF" FILEID="alto_00349_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b697-21" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_697.24" BETYPE="IDREF" FILEID="alto_00349_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b697-22" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_697.25" BETYPE="IDREF" FILEID="alto_00349_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b698-13" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_698.16" BETYPE="IDREF" FILEID="alto_00349_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b698-12" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_698.15" BETYPE="IDREF" FILEID="alto_00349_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AuXz" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_698.9" BETYPE="IDREF" FILEID="alto_00349_1"/>
+            <area BEGIN="BL_698.10" BETYPE="IDREF" FILEID="alto_00349_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b698-9" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_698.13" BETYPE="IDREF" FILEID="alto_00349_1"/>
+            <area BEGIN="BL_698.14" BETYPE="IDREF" FILEID="alto_00349_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b698-8" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_698.12" BETYPE="IDREF" FILEID="alto_00349_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b698-7" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_698.11" BETYPE="IDREF" FILEID="alto_00349_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b698-6" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_698.8" BETYPE="IDREF" FILEID="alto_00349_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aj3q" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_697.18" BETYPE="IDREF" FILEID="alto_00349_0"/>
+            <area BEGIN="BL_697.19" BETYPE="IDREF" FILEID="alto_00349_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b698-15" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_698.18" BETYPE="IDREF" FILEID="alto_00349_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b697-12" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_697.14" BETYPE="IDREF" FILEID="alto_00349_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b697-13" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_697.15" BETYPE="IDREF" FILEID="alto_00349_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b697-14" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_697.16" BETYPE="IDREF" FILEID="alto_00349_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b697-15" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_697.17" BETYPE="IDREF" FILEID="alto_00349_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b698-14" BETYPE="IDREF" FILEID="casebody_0356"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_698.17" BETYPE="IDREF" FILEID="alto_00349_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

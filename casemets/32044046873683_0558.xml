@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0558" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="In re Farnum">In re FARNUM et al.</name>
+          <docketnumber>Case No. 4,674</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1057</citation>
+          <citation category="parallel" type="bluebook">6 Law Rep. 21</citation>
+          <decisiondate>1843-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00530_0" MIMETYPE="image/tiff" CHECKSUM="1ce558ef4549961f0bdf660c26717f2f" CHECKSUMTYPE="MD5" SIZE="63470">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00530_0.tif"/>
+      </file>
+      <file ID="tiff_00530_1" MIMETYPE="image/tiff" CHECKSUM="4a5cd771557fdda12d2b55b67a6953e4" CHECKSUMTYPE="MD5" SIZE="117508">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00530_1.tif"/>
+      </file>
+      <file ID="tiff_00531_0" MIMETYPE="image/tiff" CHECKSUM="e41a651fbbe7f00ba0c2d74cc49a122b" CHECKSUMTYPE="MD5" SIZE="72046">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00531_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00530_0" MIMETYPE="image/jp2" CHECKSUM="36ea5930e605682538f048510a882c1e" CHECKSUMTYPE="MD5" SIZE="2714547">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00530_0.jp2"/>
+      </file>
+      <file ID="jp2_00530_1" MIMETYPE="image/jp2" CHECKSUM="9af1b645402ce0a1f03880c1144e4098" CHECKSUMTYPE="MD5" SIZE="3823598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00530_1.jp2"/>
+      </file>
+      <file ID="jp2_00531_0" MIMETYPE="image/jp2" CHECKSUM="9c9ff89014d9a323cb836b5a0fd4d0c0" CHECKSUMTYPE="MD5" SIZE="2806909">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00531_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00530_0" MIMETYPE="text/xml" CHECKSUM="af0767936da130dd75c0b697ea8e19a3" CHECKSUMTYPE="MD5" SIZE="131519">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00530_0.xml"/>
+      </file>
+      <file ID="alto_00530_1" MIMETYPE="text/xml" CHECKSUM="2f11b96232cd312304ab3006e92a00a6" CHECKSUMTYPE="MD5" SIZE="253796">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00530_1.xml"/>
+      </file>
+      <file ID="alto_00531_0" MIMETYPE="text/xml" CHECKSUM="385b14a6d399aa500d10531b551418fa" CHECKSUMTYPE="MD5" SIZE="137921">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00531_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0558" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1059" firstpage="1057">
+              <court id="b1059-13" pgmap="1059">District Court, D. Massachusetts.</court>
+              <docketnumber id="b1059-10" pgmap="1059">Case No. 4,674.</docketnumber>
+              <citation id="b1059-12" pgmap="1059">[6 Law Rep. 21.]</citation>
+              <parties id="b1059-11" pgmap="1059">In re FARNUM et al.</parties>
+              <decisiondate id="AzS" pgmap="1059">March, 1843.</decisiondate>
+              <opinion type="majority">
+                <author id="b1059-21" pgmap="1059">SPRAGUE, District Judge.</author>
+                <p id="A4Y" pgmap="1059">Peter Farnum was a partner in five different firms. One of them consisted of Peter Farnum, Luther Wright and Gladius B. Long, under the style of the. Blackstone Woolen Company. All the members of that firm have, upon their own applications, been declared bank­rupt. The Blackstone Bank hold a bill of exchange, drawn by the Blackstone Woolen Company and indorsed by Peter Farnum, and the question is, whether they can prove their debt both against the joint estate of the firm, and the separate estate of Farnum, or must be put to their election. There are many other creditors holding similar securi­ties, and presenting the same question.</p>
+                <p id="b1059-22" pgmap="1059(185) 1060(160)">The English rule, it is admitted on all hands, excludes such double proof; and al­though it is not binding as authority here, yet, in a question concerning the rights and rem­edies on commercial paper, the rule adopted by able and enlightened judicial tribunals, in a country so highly commercial, would be adopted as a safe guide unless good reasons be presented for departing from it. The his­tory of this rule is not a little singular. It commences with Ex parte Rowlandson, 3 P. Wms. 405, before Lord Talbot, in 1735, and ends with Ex parte Moult, before Lord Brougham, in 1832, Mont &amp; B. 28. The first case and those also of Ex parte Parminter; in 1736, Abington, in 1737, and Ex parte Bond, in 1743,1 Atk. 98, and Ex parte Banks; Id. 106, were all cases of joint and several bonds. In the first case Lord Talbot “at first inclined to think that the petitioner being a joint and separate creditor ought to be at liberty to come under each of the commis­sions, provided he received but a single satis­faction, but the next day his lordship held that at law when A. and B. are bound jointly and severally to J. S., if J. S. sues A. and B. severally, he cannot sue them jointly, and on the contrary if he sue them jointly he can­not sue them severally, but the one action may be pleaded in abatement of the other, so by the same reason the petitioner in the present case ought to be put to his election under which of the two commissions he would come.” And on page 408 he expressly distinguishes it from a former case deter­mined by Lord King in 1732, in which a creditor was allowed to prove against a firm, and also against one of the members on his separate bond for the same debt, and again relies on the rule at law which precludes a party from proceeding jointly and severally on the same bond at the same time.</p>
+                <p id="b1060-3" pgmap="1060">In Ex parte Moult, George Geddes was a member of two firms, one of which was the drawer and the other the acceptors of a bill of exchange; and the creditor claimed to prove against both estates. It was decid­ed, that although double remedies would ex­ist at law, they shall not be allowed in bankruptcy; and this is in accordance with many preceding cases, all of which are there referred to and examined. Ex parte Moult was much discussed, and a strong effort was made to overthrow the rule. It first came before the court of review (Mont. Bankr. Cas. 321), and the four judges of that court were equally divided, two of them being op­posed to the rule, as founded neither in law nor justice; and the lord chancellor finally decided solely on the ground that the rule, although arbitrary, having been acted upon for a length of time, had become the law of the court, whatever may have been its origin. Here we see, that the decision in Ex parte Kowlandson, founded avowedly on the course of proceedings at law, which prevents a cred­itor maintaining a joint and several suit at the same time on the same bond, has led to the establishment of an arbitrary rule, confessedly in violation of law when applied to double mercantile securities. It is not necessary to examine all the cases, and see by what steps this result has been reached —they will be found collected in Ex parte Moult.</p>
+                <p id="b1060-4" pgmap="1060">I have not been able to discover any sound principle upon which this result rests. In­deed, it has been generally admitted, even by those who have enforced the rule, that it is as little consonant with justice as with the rules of law. Lord Eldon, in Ex parte Bevan, 10 Ves. 107, says, “The principle seems obvious; yet in bankruptcy, for some reason not very intelligible, it has been said the creditor shall not have the benefit of the caution he has used. I never could see why a creditor, having both a joint and several security, should not go against both estates.” Mr. Eden, in his treatise on Bank­ruptcy (chapter 11, § 4), says, “This doctrine, by refusing a creditor the benefit of the cau­tion he has used in obtaining a joint and several security, has been justly reprobated, and is founded upon no sound principle or analogy whatever.” And this is repeated in the same language in the last edition of his work, published In 1832, under his title of Lord Henley, p. 181. Eminent counsel, who have been called upon to sustain the rule, have shrunk from defending it on principle. Mr. Wigram, in Ex parte Moult Mont. Bankr. Cas. 333, commences his argument by saying. “The rule is established by decision, and as the court has always treated it as a rule founded on convenience, and not upon prin­ciple, it must be considered as an arbitrary rule which this court is bound implicitly to follow.” The chief judge, in delivering his opinion against the double proof, in the court of review, in Ex parte Moult Id. 334, says, “it is not denied that the case urged by the respondents, (for both proofs) is most in ac­cordance with legal doctrines and rights; but it was said that the rule established by prac­tice in bankruptcy is too firmly settled to be now shaken.” And he does not attempt to defend the rule on principle. Sir A. Pell, in giving his opinion in the same case (page 337), says: “Does the rule correspond with the law? It is admitted it does not. Is it consonant with justice? It is almost admit­ted it is not We are therefore called upon to give our assent to an arbitrary doctrine, not founded on law or justice.” Again (page 340), “I cannot, as a common lawyer, under­stand the principle of this arbitrary rule.” Sir Edward Sugden, in his argument before the lord chancellor, in Ex parte Moult, Mont. &amp; B. 35, attempts to give the reason of the rule. He says, “Originally the rule might have seemed strange, because at law both estates, upon a joint and several security, might have been taken on execution. Why not so (it might have been argued) in bank­ruptcy? The reason is, that the fund of the debtor is no longer open to the diligence of the creditor. All litigation ceases, and the assets are to be distributed equitably among the creditors. The joint fund to those who have looked to it for security or satisfaction, and the separate to the creditors who have trusted the individual partner.” The fund is no longer open to the diligence of the cred­itor. Be it so. But this creditor, while the race of diligence continued, acquired rights to come on the joint estate by one contract, and on the separate estate by another, both of them valid, and why should either of these vested rights be taken away because the fund is not now open to future diligence? Further, it is said, “The joint fund is to be distributed to those who have looked to it for security, and the sepárate to the creditors who have trusted the individual partner.”</p>
+                <p id="b1060-7" pgmap="1060(38) 1061(190)">This reason has also been strenuously urged at the bar in the present case, and it is insisted that the exclusion of the bank from both funds is a necessary corollary from the rule which appropriates the joint funds primarily to joint debts, and the sep­arate funds to separate debts. But the an­swer is obvious. This creditor looked to the joint fund for security and satisfaction, and he also trusted the individual partner. With­out' two distinct contracts, giving him a right to come upon both funds he would never have parted with his property. If the joint fund is to pay joint debts, here is a joint debt. Can you exclude A? It is ad­mitted that you cannot. You must allow, the creditor to come against the joint estate, if he so elects. Neither can you exclude him from the separate estate, if he elect against that The joint creditors cannot say, you shall not participate with us, because you have a separate security; nor the sepa­rate creditors exclude him because he has a joint security. Then certainly neither class is wronged by his participating with them, and how are they injured by his par­ticipating also with the others? The reason is unsatisfactory, and if Sir Edward Sugden could not defend it on principle, we may well conclude that it is indefensible.</p>
+                <p id="b1061-3" pgmap="1061">I think it apparent that Sir Edward Sug-­den was not himself entirely satisfied with the reasons for the rule, for he subsequently, page 36, says, “It is argued that all learned judges, and Sir S. Bomilly disapproved of the rule which compels a creditor, having a joint and several security, to elect upon which of them he will prove, and to abandon the other. If, notwithstanding that strong expression of disapprobation, the rule exists, the expression of disapprobation confirms the rule. It is like the canon of descents, which excludes the half blood: the rule is disap­proved, but it must prevail till altered by legislation. The rule, it is true, deprives a creditor of part of his common law right, if bankruptcy happen.” It is urged by the learned counsel for the assignee, in the pres­ent case, that our bankrupt law was made with reference to the English rule, and ren­ders it obligatory. Our statute departs so widely from the English that, its constitu­tionality has been questioned on that ground. It established a system in most respects en­tirely new, and there it nothing in the stat­ute to indicate that it was intended to render English decisions obligatory in its adminis­tration. In England the rule excluding proof against the joint and separate estates has been long established. Existing contracts have been made under its operation, and with reference to it In this country it is otherwise. Existing contracts have been made under, and with reference to, the rule of law which gives to a party holding two valid obligations the benefit of both. This right, founded both in law and justice, I do not think myself bound or authorized to set aside on account of an arbitrary rule, justly reprobated by the most eminent judges and jurists in England, and never recognised in this country.</p>
+                <p id="b1061-4" pgmap="1061">Where a dividend has been paid on one estate the amount thereof would be deducted, and a dividend only, on the balance allowed' from the other. But here dividends on both' estates are simultaneous, and the creditor is entitled to prove against both for the whole.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1059" ORDERLABEL="1057" TYPE="page">
+        <fptr FILEID="tiff_00530_0"/>
+        <fptr FILEID="jp2_00530_0"/>
+        <fptr FILEID="alto_00530_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1059.6" BETYPE="IDREF" FILEID="alto_00530_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1060" ORDERLABEL="1058" TYPE="page">
+        <fptr FILEID="tiff_00530_1"/>
+        <fptr FILEID="jp2_00530_1"/>
+        <fptr FILEID="alto_00530_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1060.4" BETYPE="IDREF" FILEID="alto_00530_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1061" ORDERLABEL="1059" TYPE="page">
+        <fptr FILEID="tiff_00531_0"/>
+        <fptr FILEID="jp2_00531_0"/>
+        <fptr FILEID="alto_00531_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1061.3" BETYPE="IDREF" FILEID="alto_00531_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-10" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.13" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-11" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.14" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzS" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.17" BETYPE="IDREF" FILEID="alto_00530_0"/>
+            <area BEGIN="BL_1059.18" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-13" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.16" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4Y" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.28" BETYPE="IDREF" FILEID="alto_00530_0"/>
+            <area BEGIN="BL_1059.29" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1061-3" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1061.5" BETYPE="IDREF" FILEID="alto_00531_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-22" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.30" BETYPE="IDREF" FILEID="alto_00530_0"/>
+            <area BEGIN="BL_1060.1" BETYPE="IDREF" FILEID="alto_00530_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-21" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.27" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1060-7" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1060.8" BETYPE="IDREF" FILEID="alto_00530_1"/>
+            <area BEGIN="BL_1061.1" BETYPE="IDREF" FILEID="alto_00531_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1060-4" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1060.6" BETYPE="IDREF" FILEID="alto_00530_1"/>
+            <area BEGIN="BL_1060.7" BETYPE="IDREF" FILEID="alto_00530_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1059-12" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1059.15" BETYPE="IDREF" FILEID="alto_00530_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1060-3" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1060.5" BETYPE="IDREF" FILEID="alto_00530_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1061-4" BETYPE="IDREF" FILEID="casebody_0558"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1061.6" BETYPE="IDREF" FILEID="alto_00531_0"/>
+            <area BEGIN="BL_1061.7" BETYPE="IDREF" FILEID="alto_00531_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0171" publicationstatus="published">
+          <court abbreviation="D. Pa." jurisdiction="United States">United States District Court for the District of Pennsylvania</court>
+          <name abbreviation="Edwards v. The Susan">EDWARDS v. The SUSAN</name>
+          <docketnumber>Case No. 4,299</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 355</citation>
+          <citation category="parallel" type="bluebook">1 Pet. Adm. 165</citation>
+          <decisiondate>1795</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00179_0" MIMETYPE="image/tiff" CHECKSUM="d6ba7b8b5e21449636380de4fabcb055" CHECKSUMTYPE="MD5" SIZE="95956">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00179_0.tif"/>
+      </file>
+      <file ID="tiff_00179_1" MIMETYPE="image/tiff" CHECKSUM="8ebb52a271eb3fe5e2a5f6a0d779960f" CHECKSUMTYPE="MD5" SIZE="94030">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00179_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00179_0" MIMETYPE="image/jp2" CHECKSUM="bdb8d6ef9a91e68f4b02afcb2753c8c5" CHECKSUMTYPE="MD5" SIZE="3489133">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00179_0.jp2"/>
+      </file>
+      <file ID="jp2_00179_1" MIMETYPE="image/jp2" CHECKSUM="eced6eaa457b47ed42a396ae11a161e2" CHECKSUMTYPE="MD5" SIZE="3342204">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00179_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00179_0" MIMETYPE="text/xml" CHECKSUM="78ea7f62507855c57ae6f934efd1466c" CHECKSUMTYPE="MD5" SIZE="206400">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00179_0.xml"/>
+      </file>
+      <file ID="alto_00179_1" MIMETYPE="text/xml" CHECKSUM="250dcb5f987565a544252ded0e79b1bf" CHECKSUMTYPE="MD5" SIZE="198091">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00179_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0171" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="356" firstpage="355">
+              <court id="b357-11" pgmap="357">District Court, D. Pennsylvania.</court>
+              <docketnumber id="b357-8" pgmap="357">Case No. 4,299.</docketnumber>
+              <citation id="b357-10" pgmap="357">[1 Pet. Adm. 165.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b357-9" pgmap="357">EDWARDS v. The SUSAN.</parties>
+              <decisiondate id="A-b" pgmap="357">1795.</decisiondate>
+              <footnote label="1">
+                <p id="b357-18" pgmap="357">1 [Reported by Richard Peters, Jr., Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b358-5" pgmap="358">COURT.</author>
+                <p id="Akq-" pgmap="358">It has been a frequent subject of dispute, in this court, sometimes origi­nating in animosity and desire to delay, possibly provoked by some improper con­duct of the mariners, but most commonly as it affected costs, at what time a suit can legally be commenced, for wages due at the expiration of the voyage. The controversy always turned upon the construction of the 6th section of the “Act for the government and regulation of seamen.” 1 Laws U. S. p. 137 [1 Stat. 133]. I confess, that it has appeared to me unwarrantable, to contend that the ten days should run from the time of the discharge of the cargo. All laws should receive a construction according to justice, and the principles on which they are predicated. “Qui haeret in littera, haeret in cortice.” The end of the voyage is clearly, in my opinion, the period when the wages, according to the contract, are due. The discharge of the cargo or ballast, is coupled with the end of the voyage in the law, not as part of the contract, or to fix the time, from whence the ten days are to be computed, but because it is a necessary step to enable the merchant to demand his freight; and the wages ought not to be paid, until this is recoverable, it being the fund, out of which the wages are payable. There cannot be two periods, from which one term of ten days must run. This would be ab­surd and impossible. It cannot be from the end of the voyage, “and” the discharge of the cargo, which must, of course, be after the end of the voyage. An obscurity in'­terms is therefore involved, which fully jus­tifies a discretionary interpretation. A rea­sonable time for the collection of freight should be given. The merchant should also have the opportunity afforded of examining the whole cargo, to see whether embezzle­ment, or damage chargeable on wages, has occurred. In most cases, ten days after the end of the voyage are sufficient to unlade and collect freight. But it sometimes hap­pens, that where the cargo consists of a great variety of packages, or articles, be­longing to a great number of owners, the custom house officers cannot grant permits, within that time. When a number of dry-­good ships, added to others, cause a press of business at the custom house, I have per­ceived the impracticability of delivering the permits, in the time in which, on common occasions, they are issued. Under the lati­tude given in the words of the section, I have considered myself authorized to enquire into, and decide according to circumstances peculiar to the case. To allow an unrea­sonable time for discharge, would be as unjust, as it respects the mariner, as it would be- to compel the merchant, prema­turely * to pay. Coals, salt, &amp;c. are fre­quently retained on board, for a long time; and “ballast” is not always discharged. On the contrary, it sometimes remains on board for more than one voyage. Exercising there­fore a discretion, according to circumstances, I have given more or less time, as the evi­dence justified me. To fix on the time of discharge would be difficult, uncertain, and often unjust It depends on the in­dustry, the inclination, or the interest of the owner, whether the discharge be accelerated, or unreasonably retarded. I have allowed, at the least, ten days from the end of the voyage; and at the most, fifteen working days to unlade. The latter period is given, in the collection law. for this purpose; after the time in which the master is bound to report Although it has been contended that ten days even after this period, should be allowed, I have not thought it just to extend the interpretation, to a length ap­pearing so unreasonable. It is too great a hardship on seamen, and very injurious to commerce, to delay the payment of wages, and thereby reduce the mariner to distress, as well as prevent his employment in other service. Or, if he is forced by neces­sity to enter into other employment, it may be at the price of abandoning, or selling for a trifle, the earnings of a precedent voyage. The law was enacted to do justice, and not to impose unnecessary hardships by granting unreasonable indulgences. Although all the freight may not be collected within the ten or fifteen days, it can scarcely ever happen that a sufficient sum is not received, in that time, to discharge the demands of the crew.</p>
+                <p id="b358-8" pgmap="358">In the case before me, 1 allow fifteen work­ing days, from the end of the voyage: that is, from the day on which the vessel was made fast to the wharf, and ready to dis­charge.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="357" ORDERLABEL="355" TYPE="page">
+        <fptr FILEID="tiff_00179_0"/>
+        <fptr FILEID="jp2_00179_0"/>
+        <fptr FILEID="alto_00179_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_357.4" BETYPE="IDREF" FILEID="alto_00179_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="358" ORDERLABEL="356" TYPE="page">
+        <fptr FILEID="tiff_00179_1"/>
+        <fptr FILEID="jp2_00179_1"/>
+        <fptr FILEID="alto_00179_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_358.4" BETYPE="IDREF" FILEID="alto_00179_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Akq-" BETYPE="IDREF" FILEID="casebody_0171"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.7" BETYPE="IDREF" FILEID="alto_00179_1"/>
+            <area BEGIN="BL_358.8" BETYPE="IDREF" FILEID="alto_00179_1"/>
+            <area BEGIN="BL_358.9" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-b" BETYPE="IDREF" FILEID="casebody_0171"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_357.14" BETYPE="IDREF" FILEID="alto_00179_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-8" BETYPE="IDREF" FILEID="casebody_0171"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.10" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b357-18" BETYPE="IDREF" FILEID="casebody_0171"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_357.21" BETYPE="IDREF" FILEID="alto_00179_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b357-11" BETYPE="IDREF" FILEID="casebody_0171"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_357.13" BETYPE="IDREF" FILEID="alto_00179_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b357-10" BETYPE="IDREF" FILEID="casebody_0171"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_357.12" BETYPE="IDREF" FILEID="alto_00179_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b357-9" BETYPE="IDREF" FILEID="casebody_0171"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_357.11" BETYPE="IDREF" FILEID="alto_00179_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b357-8" BETYPE="IDREF" FILEID="casebody_0171"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_357.10" BETYPE="IDREF" FILEID="alto_00179_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b358-5" BETYPE="IDREF" FILEID="casebody_0171"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_358.6" BETYPE="IDREF" FILEID="alto_00179_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

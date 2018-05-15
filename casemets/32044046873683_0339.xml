@@ -1,0 +1,343 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0339" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Emma">The EMMA</name>
+          <docketnumber>Case No. 4,461</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 666</citation>
+          <decisiondate>1863-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00334_1" MIMETYPE="image/tiff" CHECKSUM="6803b1ac87c7a724b115b403251b852b" CHECKSUMTYPE="MD5" SIZE="43832">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00334_1.tif"/>
+      </file>
+      <file ID="tiff_00335_0" MIMETYPE="image/tiff" CHECKSUM="c4f0902c601f8386af5e0920b0a1143e" CHECKSUMTYPE="MD5" SIZE="93436">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00335_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00334_1" MIMETYPE="image/jp2" CHECKSUM="05a63cab472ea240ec354d68973888ed" CHECKSUMTYPE="MD5" SIZE="2516995">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00334_1.jp2"/>
+      </file>
+      <file ID="jp2_00335_0" MIMETYPE="image/jp2" CHECKSUM="c0197469db4e1170e090d93ebe5dffdb" CHECKSUMTYPE="MD5" SIZE="3565975">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00335_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00334_1" MIMETYPE="text/xml" CHECKSUM="dd1f9d366c5451cb82585576f863f794" CHECKSUMTYPE="MD5" SIZE="89030">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00334_1.xml"/>
+      </file>
+      <file ID="alto_00335_0" MIMETYPE="text/xml" CHECKSUM="9496967311f1f607d8c9eb46bb52a444" CHECKSUMTYPE="MD5" SIZE="203327">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00335_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0339" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="667" firstpage="666">
+              <court id="ASRq" pgmap="668">District Court, S. D. New York.</court>
+              <docketnumber id="b668-21" pgmap="668">Case No. 4,461.</docketnumber>
+              <parties id="b668-22" pgmap="668">The EMMA.</parties>
+              <decisiondate id="AqQ" pgmap="668">Oct., 1863.</decisiondate>
+              <p id="b668-23" pgmap="668">[Blatchf. Pr. Cas. 561.]<footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p id="b668-33" pgmap="668">1 [Reported by Samuel Blatchford, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b668-32" pgmap="668">BETTS, District Judge.</author>
+                <p id="AbKn" pgmap="668(11) 669(177)">This vessel and cargo were captured at sea by the steamer .Arapo, employed as a transport in the serv­ice of the United States, hut not a commis­sioned ship-of-war, July 24, 18C3, and were sent into this port, where the prize was li-­belled in this court, for condemnation. Such ratification of the arrest of the prize was equivalent to an original seizure by authority of the government, and the affirmance of the capture by the United States is authenticated by instituting this suit thereon. 2 Wheat [15 U. S.] Append, notes, p. 7. The monition and attachment issued in the suit were duly returned in court August 18, 1803, with the usual proclamation. Thomas Sterling Beg-­bie, of London, appeared, on such return, and filed his claim as owner of the vessel and cargo named in the libel, without exception of form to the regularity of the action. The cause was submitted by the United States attorney to the decision of the court, during the present term, upon the proofs produced ■ therein, no party appearing in defence to the action and issue on the pleadings.</p>
+                <p id="b669-3" pgmap="669">The master of the vessel testifies, on his examination in preparatorio, that he took pos­session of the Emma at Glasgow, Scotland; that he declined to answer who put her into his possession; that she was captured in the Gulf Stream, off the coast of North Carolina, he supposes, for blockade running; that he, the witness, made no resistance to the cap­ture, but exerted himself to escape from it; that part of the crew came on board the Emma in Glasgow, and part in Nassau, Ber­muda; that the voyage was from the Ber­mudas, and was to have ended there; that the cargo on board at the time of capture was turpentine, resin, tobacco, and cotton, put on board at Wilmington. North Carolina, about the middle of July, 18fi3; that he sailed from Glasgow to Nassau, and from Nassau to Wil­mington; that he, the witness, declined to answer who owned the vessel; that the owner lived in England; that he, the witness, does not know the owner of the cargo; that he has no papers of any kind in his possession in relation to the vessel or cargo; that the ves­sel was captured near the coast of North Caro­lina, July 24, .near 11 o’clock a. m.; that she had regular papers on board when she left Wilmington; that he burned them all on be­ing chased, and when upon the point of being captured, to prevent their falling into the hands of the captors; that he knew that Wilmington was blockaded when he entered the port; that he evaded the blockade in going in, and was captured soon after leaving, on his way out; that he had known all about the war for many months; that his vessel entered the harbor of Wilmington covertly and se­cretly, whilst that port was under blockade, and sailed from it as before stated by him; and that he loses £1,000 in consequence of the capture, which was to have been his re­muneration had he succeeded in completing his voyage.</p>
+                <p id="b669-4" pgmap="669">The first mate concurs, in general, in the facts stated by the master. He says that he heard the latter say that he had destroyed the ship’s papers, but he, the witness, did not see it done; and that the Emma had succeed­ed in running the blockade of Wilmington four several times.</p>
+                <p id="b669-7" pgmap="669">The second officer of the vessel gives no testimony contradictory to the evidence oi his fellow officers. He asserts no fact respect­ing this voyage, criminating the conduct of the vessel or of the parties prosecuting it. He says that he knows that the vessel had run the blockade of the same port at another time.</p>
+                <p id="b669-8" pgmap="669">The steward of the vessel, on his examina­tion, deposed to the same effect with the first and second officers of the vessel. To the 12th and 24th interrogatories he says: “She (the vessel) had run the blockade from Nassau and Bermuda into Wilmington, four times.” To the 21st interrogatory he says: “I knew all about the blockade, and so did the cap­tain.”</p>
+                <p id="b669-9" pgmap="669">No papers were captured with the vessel and produced in court with the prize and the witnesses taken on board.</p>
+                <p id="b669-10" pgmap="669">This recapitulation of the proof demon­strates that the case is one of premeditated violation of public law, and that the vessel and cargo are plainly subject to judgment of condemnation. and forfeiture. A decree will be entered accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="668" ORDERLABEL="666" TYPE="page">
+        <fptr FILEID="tiff_00334_1"/>
+        <fptr FILEID="jp2_00334_1"/>
+        <fptr FILEID="alto_00334_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_668.4" BETYPE="IDREF" FILEID="alto_00334_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="669" ORDERLABEL="667" TYPE="page">
+        <fptr FILEID="tiff_00335_0"/>
+        <fptr FILEID="jp2_00335_0"/>
+        <fptr FILEID="alto_00335_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_669.4" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b668-33" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_668.41" BETYPE="IDREF" FILEID="alto_00334_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-10" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.12" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-9" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.11" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b668-32" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_668.38" BETYPE="IDREF" FILEID="alto_00334_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b668-23" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_668.29" BETYPE="IDREF" FILEID="alto_00334_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b668-22" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_668.28" BETYPE="IDREF" FILEID="alto_00334_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b668-21" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_668.27" BETYPE="IDREF" FILEID="alto_00334_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-8" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.10" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASRq" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_668.30" BETYPE="IDREF" FILEID="alto_00334_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-7" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.9" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqQ" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_668.31" BETYPE="IDREF" FILEID="alto_00334_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-3" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.6" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b669-4" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_669.7" BETYPE="IDREF" FILEID="alto_00335_0"/>
+            <area BEGIN="BL_669.8" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AbKn" BETYPE="IDREF" FILEID="casebody_0339"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_668.39" BETYPE="IDREF" FILEID="alto_00334_1"/>
+            <area BEGIN="BL_668.40" BETYPE="IDREF" FILEID="alto_00334_1"/>
+            <area BEGIN="BL_669.2" BETYPE="IDREF" FILEID="alto_00335_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

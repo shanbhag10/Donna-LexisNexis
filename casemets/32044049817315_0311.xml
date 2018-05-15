@@ -1,0 +1,346 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0311" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The J. F. Farlan">The J. F. FARLAN</name>
+          <docketnumber>Case No. 7,313</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 612</citation>
+          <citation category="parallel" type="bluebook">3 Ben. 206</citation>
+          <decisiondate>1869-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00307_1" MIMETYPE="image/tiff" CHECKSUM="cd6f1c63ecdace4202d21080e76001c5" CHECKSUMTYPE="MD5" SIZE="45214">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00307_1.tif"/>
+      </file>
+      <file ID="tiff_00308_0" MIMETYPE="image/tiff" CHECKSUM="38a1f66a0d715015c03c55582c94986c" CHECKSUMTYPE="MD5" SIZE="94568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00308_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00307_1" MIMETYPE="image/jp2" CHECKSUM="558f6758bd0a1707b17722be392c9a12" CHECKSUMTYPE="MD5" SIZE="2228787">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00307_1.jp2"/>
+      </file>
+      <file ID="jp2_00308_0" MIMETYPE="image/jp2" CHECKSUM="dd96e4de4002b8a85f8e4fcdef83a342" CHECKSUMTYPE="MD5" SIZE="3491216">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00308_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00307_1" MIMETYPE="text/xml" CHECKSUM="bad7066c00f21a217e0c6b0c0d827b05" CHECKSUMTYPE="MD5" SIZE="96064">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00307_1.xml"/>
+      </file>
+      <file ID="alto_00308_0" MIMETYPE="text/xml" CHECKSUM="07a7e1fd46b253cbe0b1d81be99e521b" CHECKSUMTYPE="MD5" SIZE="209706">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00308_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0311" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="613" firstpage="612">
+              <court pgmap="614" id="b614-17">District Court, S. D. New York.</court>
+              <docketnumber pgmap="614" id="AhP">Case No. 7,313.</docketnumber>
+              <citation pgmap="614" id="b614-16">[3 Ben. 206.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="614" id="b614-15">The J. F. FARLAN.</parties>
+              <decisiondate pgmap="614" id="Ayk7">April, 1869.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys pgmap="615" id="b615-3">J. E. Parsons, for libellants.</attorneys>
+              <attorneys pgmap="615" id="b615-4">E. H. Owen, for claimants.</attorneys>
+              <footnote label="1">
+                <p pgmap="614" id="b614-24">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <footnote label="2">
+                <p pgmap="614" id="b614-25">2 [Affirmed in Case Xo. 7,314.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="615" id="b615-5">BLATCHFORD, District Judge.</author>
+                <p pgmap="615" id="Avmn">I regard it as determined, by the decision of the cir­cuit court for this district, in the case of The Morning Star [Case No. 9,818], that the rule applicable to claims for services ren­dered to vessels by incorporated companies, such as the libellants are, is to award a rea­sonable. and liberal compensation for the use, in the particular service, of the appa­ratus employed, and for the skill with which it is handled — in other words, a reasonable and liberal compensation for the work and labor and the materials used — but that noth­ing can be.awarded as a salvage compensa­tion, on the principles which govern the ad­miralty in awarding compensation for ad­mitted salvage services, it being necessary to exclude all considerations of personal sac­rifice or gallantry in encountering peril in rendering the service, and it being the fact, that the persons engaged in the service, and representing the corporation, are employed to render the sendee, at fixed wages, de­pending in no manner on the success of the service, and do not share in the compensa­tion, as such, received for the service.</p>
+                <p pgmap="615" id="b615-6">In this case, the libellants were not em­ployed to send a vessel to take off the schooner, but learning, through a telegraph­ic despatch from their agent at Sandy Hook, that the schooner was ashore on the Romer Shoal, they sent down the Rescue to see if assistance was needed. The Rescue reached the schooner between 11 a. m. and noon. The schooner was pulled off from the shoal by a quarter before 1 o'clock p. m. The whole sendee, therefore, so far as the schooner was concerned, occupied less than two hours of time. It was effective, and rendered with skill and judgment, but it was not attended with any extraordinary hazard or peril.</p>
+                <p pgmap="615" id="b615-7">The sum of $3.000. as a proper compensa­tion for this service, is sought to be main­tained by the testimony of four witnesses for the libellants. One of them. Pierce, is the master of one of the wrecking schooners of the libellants. Another, Low, is a divers’ attendant, in the employ of the libellants. Another, Samuels, was formerly president of the libellamts, and is now president of the Atlantic Submarine Company, a corporation of a kindred character with the libellants. The fourth, Perry, is the general agent of the libellants. Pierce says that, under the circumstances, as the schooner was situated, he does not think $3.000 is out of the way; but. when asked how he makes up that sum, he says he does so because they might have been four or five days getting the schooner off. and that, if they got her off sooner, so much the' better. Low fixes the sum of $3.000, in view of the number of vessels and force of men which the libellants keep up. Samuels fixes that sum, in view of the fact that the vessels and men of the libellants are often unemployed for a time, that their force of sixty men have high wages and constant pay, and that they keep on hand for their business a large amount of ma­terial. Perry fixes that sum on the idea that the libellants keep up their stock and men. which may have to lie for a month doing nothing. It is hardly necessary to say, that the basis of compensation assumed by the witnesses Low, Samuels and Perry, is whol­ly inadmissible in law. It amounts to this, that this schooner is to pay, not for the service rendered to her. not for the work and labor and materials used in such serv­ice. not for the skill with which the appa­ratus used in pulling her off from the shoal was employed, but for the fact that other vessels do not ground on the Romer Shoal, and, therefore, do not require to be hauled off from it by the libellants, and that the weather is not always stormy, and that wrecks are an exception and not a rule. The universal rule of trade is, that the price or value of an article is enhanced when the supply is not equal to the demand. But this rule is sought to be reversed in this case, and the price is sought to be enhanced, because the supply is greater than the de­mand. The proposition need only be stated to carry with it its own refutation. As the basis on which these witnesses for the libel-­lants fix this sum of $3,000 wholly fails, their evidence must be wholly disregarded. So, too, the idea of the witness. Pierce, that the schooner must pay the $3,OUO, because the libellants might have been four or five days in earning the $3,000, is equally inad­missible.</p>
+                <p pgmap="615" id="b615-10">It is shown that the master of the schoon­er offered to the libellants $400 for the serv­ice, and that they refused it. Two witnesses for the claimants, who have been in the tow-boating business, with steam-tugs, for many years, and are familiar with cases similar to the case of this schooner, testify that $300 would be a reasonable price for this service. Under the .circumstances, I award to the libellants $400, without costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="614" ORDERLABEL="612" TYPE="page">
+        <fptr FILEID="tiff_00307_1"/>
+        <fptr FILEID="jp2_00307_1"/>
+        <fptr FILEID="alto_00307_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_614.17" BETYPE="IDREF" FILEID="alto_00307_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="615" ORDERLABEL="613" TYPE="page">
+        <fptr FILEID="tiff_00308_0"/>
+        <fptr FILEID="jp2_00308_0"/>
+        <fptr FILEID="alto_00308_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_615.4" BETYPE="IDREF" FILEID="alto_00308_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b615-7" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_615.11" BETYPE="IDREF" FILEID="alto_00308_0"/>
+            <area BEGIN="BL_615.12" BETYPE="IDREF" FILEID="alto_00308_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b615-5" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_615.7" BETYPE="IDREF" FILEID="alto_00308_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b615-4" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_615.6" BETYPE="IDREF" FILEID="alto_00308_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhP" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.18" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b615-6" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_615.10" BETYPE="IDREF" FILEID="alto_00308_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b615-3" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_615.5" BETYPE="IDREF" FILEID="alto_00308_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-24" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.29" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-25" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.30" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Avmn" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_615.8" BETYPE="IDREF" FILEID="alto_00308_0"/>
+            <area BEGIN="BL_615.9" BETYPE="IDREF" FILEID="alto_00308_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-15" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.19" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-17" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.21" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ayk7" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.22" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b614-16" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_614.20" BETYPE="IDREF" FILEID="alto_00307_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b615-10" BETYPE="IDREF" FILEID="casebody_0311"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_615.14" BETYPE="IDREF" FILEID="alto_00308_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

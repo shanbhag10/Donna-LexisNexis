@@ -1,0 +1,399 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0320" publicationstatus="published">
+          <court abbreviation="E.D. La." jurisdiction="United States">United States District Court for the Eastern District of Louisiana</court>
+          <name abbreviation="Emerson v. The Pandora">EMERSON et al. v. The PANDORA</name>
+          <docketnumber>Case No. 4,442</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 638</citation>
+          <citation category="parallel" type="bluebook">1 Newb. 438</citation>
+          <decisiondate>1853-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00320_1" MIMETYPE="image/tiff" CHECKSUM="1975e3335affadc6322330ef4e894703" CHECKSUMTYPE="MD5" SIZE="86778">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00320_1.tif"/>
+      </file>
+      <file ID="tiff_00321_0" MIMETYPE="image/tiff" CHECKSUM="dbfcf9ffb7152a15a85b230062183544" CHECKSUMTYPE="MD5" SIZE="109144">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00321_0.tif"/>
+      </file>
+      <file ID="tiff_00321_1" MIMETYPE="image/tiff" CHECKSUM="8ac7f4da4eff80420356f59537303844" CHECKSUMTYPE="MD5" SIZE="63456">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00321_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00320_1" MIMETYPE="image/jp2" CHECKSUM="3b7e597cd8254995ff3b952dc2d02538" CHECKSUMTYPE="MD5" SIZE="3545803">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00320_1.jp2"/>
+      </file>
+      <file ID="jp2_00321_0" MIMETYPE="image/jp2" CHECKSUM="4868fb187b93f915d46b7441366e0d15" CHECKSUMTYPE="MD5" SIZE="3811964">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00321_0.jp2"/>
+      </file>
+      <file ID="jp2_00321_1" MIMETYPE="image/jp2" CHECKSUM="cd9d0da6773975fc6ba95225b3219545" CHECKSUMTYPE="MD5" SIZE="2631619">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00321_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00320_1" MIMETYPE="text/xml" CHECKSUM="01b7cb57dd148f47704d70b1a6428ac9" CHECKSUMTYPE="MD5" SIZE="190193">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00320_1.xml"/>
+      </file>
+      <file ID="alto_00321_0" MIMETYPE="text/xml" CHECKSUM="0151d5acd592d6d171c4e58d9ca27053" CHECKSUMTYPE="MD5" SIZE="244247">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00321_0.xml"/>
+      </file>
+      <file ID="alto_00321_1" MIMETYPE="text/xml" CHECKSUM="a68f4e2d4bc478a9251305de81d9da86" CHECKSUMTYPE="MD5" SIZE="132843">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00321_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0320" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="640" firstpage="638">
+              <court id="b640-9" pgmap="640">District Court, E. D. Louisiana.</court>
+              <docketnumber id="b640-6" pgmap="640">Case No. 4,442.</docketnumber>
+              <citation id="b640-8" pgmap="640">[1 Newb. 438.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b640-7" pgmap="640">EMERSON et al. v. The PANDORA.</parties>
+              <decisiondate id="A10B" pgmap="640">May, 1853.</decisiondate>
+              <attorneys id="b640-19" pgmap="640">Mr. Durell, for libelants.</attorneys>
+              <attorneys id="b640-20" pgmap="640">Mr. Bright, for respondent.</attorneys>
+              <footnote label="1">
+                <p id="b640-14" pgmap="640">1 [Reported by John S. Newberry, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b640-21" pgmap="640">MeCALEB, District Judge. ,</author>
+                <p id="AUr" pgmap="640(417) 641(178)">The libelants in this case claim a compensation for salvage services rendered in saving from loss by fire the bark Pandora, of Liverpool, on the 26th of December last. The vessel had on board a cargo of cotton, and was lying in this port,, moored at the wharf, when she was discov­ered to be on fire. By order of the proper authorities of the city, she was towed across the river, near to the opposite shore. The-­libel states, that at about 11 o’clock, a. m., the said bark being on firé fore and aft, with-­main and mizzen-mast burned oft and in the water, was abandoned, together with her cargo, by her master, Captain Wemyss, to the libelant, for the purpose of saving, if possible, some part thereof: that the libelant thereupon consented to render such assist­ance as was in his power, and immediately took possession of the bark and proceeded to-­scuttle her; but, finding it impossible to sink her, in consequence of the rapid progress of the flames, he engaged the services of other men, and with them continued to watch her, and to throw water upon the flames until they were extinguished, and the hull of the vessel and a portion of the cargo, to wit:— bales of cotton, finally saved in a damaged condition. The libel further alleges, that at the request of the master of the bark, and for the purpose of saving expense, the libel-­ant consented that the bark and cargo thus saved, through his exertions, should be sold, he at the same time reserving his lien upon the proceeds: that the sale accordingly took place, and the proceeds thereof amounted to the sum of $1,525. He further avers, that in consequence of the great'risk and expense he incurred in saving the bark and cargo, he is entitled to receive a compensation of sev­enty-five per cent.; but that tne owners,, through their agents, refuse to pay the same, or any part thereof. The respondent, as-­owner of the bark, denies tuac the vessel was ever indebted to the libelants, and avers that they are not entitled to any compensation in the nature of salvage. An intervening libel has been filed on behalf of the owners of the tow-boat F. M. Streek, which was employed by the city authorities to tow the burning vessel to the opposite side of the river. The interveners, also, deny that the services al­leged in the libel were performed by the-­libelants. An intervening libel has also been filed on behalf of Bell, a stevedore, who discharged the cargo brought by the bark to this port, and also put on board 550 bales of the cargo with which she was loaded at the time she took fire, on the 9th of December; for it appears that the vessel was twice cn fire during the same month. The intervener alleges that he assisted in putting out the first fire which occurred on the bark, and in discharging the cargo. He also avers, that subsequently to the first fire, and previous to that of the 20th December, he stowed on board the bark 1,240 bales of cotton. For these services, rendered at different times, his accounts, amounting in the aggregate to the sum of $924.89, were approved by the master. He also contests the right of the libelants to claim salvage. An intervening libel has also been filed on behalf of David Maxwell &amp; Co., for supplies furnished the bark from the 2d of November until the 20th of December, inclusive.</p>
+                <p id="b641-3" pgmap="641">This claim for supplies, as well as that of the stevedore, for loading and discharging the bark previous to the fire of the 20th of December, must be asserted against any rem­nant in the registry after the other claims have been satisfied. The claim of the libel-­ants for a salvage compensation is resisted upon the ground that Emerson, and those employed under his orders, acted merely as watchmen, to prevent whatever might be saved from the bark from being stolen after it was landed. But evidence does not jus­tify the court in regarding them in the light of watchmen merely. Without detailing at length Llie facts contained in che depositions, I will extract such only as may be necessary to show the nature of their services and the circumstances under which they were ren­dered.</p>
+                <p id="b641-4" pgmap="641">James Titus states, that when he saw the bark, at 9 or 10 o’clock on the morning of the 20th of December, she was a mile or mile and a half below Algiers. She was burning then, abaft the foremast She was at anchor, about forty feet from the shore. He does not know the fact, but she might have been aground. The master of the bark was pointed out to witness, standing on the forecastle; and there was a city fireman on the bowsprit, cutting away the headstays, which, after being cut away, swung in and caught fire. This was all that was done till the master came ashore. There were sev­eral boats around picking up and carrying away what they could. When the master came ashore the libelant Emerson spoke to him about giving up the vessel. The master replied that he did not know how that would do, but that he could not save any­thing more. After speaking to several of his friends here and there, the master returned to Emerson and told him to save what he could, and to look to the things saved for his pay; also to keep a look out on the things ashore, and see that no one stole them. These were things that had drifted from the ship, such as spars, rigging, tack­ling, &amp;e., which had burned away and float­ed ashore, and were lying along the bank. The master of the bark then said he was sick, and left and went to the city. The person pointed out to the witness as the mate went away with the master. Emerson and the witness then went to Algiers to get tools for the purpose of scuttling the bark. They commenced by cutting a hole in her, for­ward, but persons ashore calling out that the foremast was falling, they abandoned the forward, and went to the larboard quar­ter, where they cut a hole; but the vessel burned so fast that the hole rose above the water, the vessel lightening all the while. There was great danger attending theii-­work, their clothes catching fire several times. There were four of them at work in the boat, alongside the bark, at the same time. The port warden, Mr. Clark, now hailed Emerson and witness to come ashore, as they could do nothing more. They then went ashore, and Emerson determined to let the fire burn low enough to permit him to-­put men there to put it out with buckets. It was nearly dark. Emerson employed some men to watch the things ashore and also the ship, to prevent theft This was all that was done on that day.</p>
+                <p id="b641-7" pgmap="641">The next day, quite early in the morning, the witness went down again and found Emerson there with men employed in wet­ting the sides of the bark to stop her burn­ing and sinking. The planks and timbers along the edge of the vessel were burning, and they put water on to prevent her from sinking. She was burnt nearly to the cop­per, and was about a foot or eighteen inches only above the water. The witness was again there Tuesday morning. The vessel was still burning, and Emerson and -his men were working with their buckets and watch­ing the goods on shore. This they continued to do until the purchasers of the bark came forward and took possession, they employ­ing the same men to work on until they could get a tow-boat to bring her across to this side. The witness was present at the sale of the bark and the rigging, &amp;c. There were two separate sales. The materials saved by the F. M. Streek were sold before the hull and separately. The witness was paid ten dollars for his services. This testi­mony is corroborated by that of Bishop, Crane, Foster and Robinson, and it is suf­ficient to show that the services rendered by the libelants were salvage services for which a liberal compensation should be al­lowed. They were three days at work, and though perhaps there was no great danger incurred, their exertions were incessant and finally successful.</p>
+                <p id="b641-8" pgmap="641(34) 642(107)">The claim of the F. M. Streek must be asserted against the proceeds of that por­tion of the rigging which was actually saved by her. So far as it relates to her services rendered in towing the bark across the river, she would be entitled to a reasonable compensation as towage. But I cannot re­gard her in the light of a salvor. She did not actually save the hull of the bark and her cargo; for she abandoned them before they were finally rescued by the salvors. As no specific claim has been asserted against the proceeds of that portion of the rigging brought away by her from the burn­ing vessel, no allowance can be made in this decree. On the proceeds of the bark and cargo I am of opinion she has no lien except for towage.</p>
+                <p id="b642-3" pgmap="642">As the exertions of the libelants may be considered as in all respects meritorious, they should, as I have already intimated, be liberally rewarded. The value of the property saved is small, and it is certain that it was entirely through their persever­ing efforts that it was finally rescued from the flames. The bark and her cargo were to all intents and purposes abandoned by the master, to the salvors (though such an abandonment may not be what is properly and technically termed a derelict in the maritime law), and I do not think that un­der all the circumstances a moiety would be an extravagant compensation.</p>
+                <p id="b642-4" pgmap="642">The proceeds of the bark and cargo amount to the sum of $1,525. From this sum the costs and expenses of court must be first deducted. Of the balance, one moiety will be paid to the salvors, Emerson and his associates; ■ a reasonable compensa­tion for towage (the amount to be shown by evidence) will be allowed the F. M. Streck; the claim for supplies will next be satisfied, and the residue, if any will be paid to the stevedore.</p>
+                <p id="b642-5" pgmap="642">The case will now be referred to the com­missioner in admiralty, who will distribute the proceeds in accordance with this decree.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="640" ORDERLABEL="638" TYPE="page">
+        <fptr FILEID="tiff_00320_1"/>
+        <fptr FILEID="jp2_00320_1"/>
+        <fptr FILEID="alto_00320_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_640.5" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="641" ORDERLABEL="639" TYPE="page">
+        <fptr FILEID="tiff_00321_0"/>
+        <fptr FILEID="jp2_00321_0"/>
+        <fptr FILEID="alto_00321_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_641.3" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="642" ORDERLABEL="640" TYPE="page">
+        <fptr FILEID="tiff_00321_1"/>
+        <fptr FILEID="jp2_00321_1"/>
+        <fptr FILEID="alto_00321_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_642.4" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-3" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.5" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-7" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.8" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-8" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.11" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-9" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.12" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-6" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.9" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-7" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.10" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-8" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.9" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            <area BEGIN="BL_642.1" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-5" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.7" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-14" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.19" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-4" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.6" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A10B" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.13" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-19" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.22" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AUr" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.25" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            <area BEGIN="BL_640.26" BETYPE="IDREF" FILEID="alto_00320_1"/>
+            <area BEGIN="BL_641.1" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-3" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.5" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-21" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.24" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b640-20" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_640.23" BETYPE="IDREF" FILEID="alto_00320_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b641-4" BETYPE="IDREF" FILEID="casebody_0320"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_641.6" BETYPE="IDREF" FILEID="alto_00321_0"/>
+            <area BEGIN="BL_641.7" BETYPE="IDREF" FILEID="alto_00321_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

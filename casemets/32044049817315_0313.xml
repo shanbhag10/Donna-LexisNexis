@@ -1,0 +1,442 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0313" publicationstatus="published">
+          <court abbreviation="E.D.N.Y." jurisdiction="United States">United States District Court for the Eastern District of New York</court>
+          <name abbreviation="The J. F. Spencer">The J. F. SPENCER</name>
+          <docketnumber>Case No. 7,315</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 614</citation>
+          <citation category="parallel" type="bluebook">3 Ben. 337</citation>
+          <decisiondate>1869-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00308_1" MIMETYPE="image/tiff" CHECKSUM="7f4afaa45f114f5945040df9ff46481a" CHECKSUMTYPE="MD5" SIZE="69176">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00308_1.tif"/>
+      </file>
+      <file ID="tiff_00309_0" MIMETYPE="image/tiff" CHECKSUM="d0743871e12df79cb38be79176effde9" CHECKSUMTYPE="MD5" SIZE="107638">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00309_0.tif"/>
+      </file>
+      <file ID="tiff_00309_1" MIMETYPE="image/tiff" CHECKSUM="96e2d143cdf751fb06c95da5803f0c14" CHECKSUMTYPE="MD5" SIZE="91348">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00309_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00308_1" MIMETYPE="image/jp2" CHECKSUM="a964ae166e9236a01beeb38c2a37c970" CHECKSUMTYPE="MD5" SIZE="2880421">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00308_1.jp2"/>
+      </file>
+      <file ID="jp2_00309_0" MIMETYPE="image/jp2" CHECKSUM="8b5f71e97e75185a43d72b3b086030e9" CHECKSUMTYPE="MD5" SIZE="3767858">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00309_0.jp2"/>
+      </file>
+      <file ID="jp2_00309_1" MIMETYPE="image/jp2" CHECKSUM="7dc125d7cadba092dbd6495e91973697" CHECKSUMTYPE="MD5" SIZE="3409496">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00309_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00308_1" MIMETYPE="text/xml" CHECKSUM="d96820d0343583421623f8c6b87c07d7" CHECKSUMTYPE="MD5" SIZE="146281">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00308_1.xml"/>
+      </file>
+      <file ID="alto_00309_0" MIMETYPE="text/xml" CHECKSUM="603934c061dce5b9851fdf756b714186" CHECKSUMTYPE="MD5" SIZE="242521">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00309_0.xml"/>
+      </file>
+      <file ID="alto_00309_1" MIMETYPE="text/xml" CHECKSUM="dcf0b46ee7f83db315a60aae5de0a205" CHECKSUMTYPE="MD5" SIZE="205728">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00309_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0313" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="616" firstpage="614">
+              <court pgmap="616" id="b616-27">District Court. E. D. New York.</court>
+              <docketnumber pgmap="616" id="b616-24">Case No. 7,315.</docketnumber>
+              <citation pgmap="616" id="b616-26">[3 Ben. 337.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="616" id="b616-25">The J. F. SPENCER.</parties>
+              <decisiondate pgmap="616" id="AqME">June, 1869.</decisiondate>
+              <attorneys pgmap="617" id="b617-2">F. A. Wilcox, for libellants.</attorneys>
+              <attorneys pgmap="617" id="b617-3">Benedict &amp; Benedict, for claimant</attorneys>
+              <footnote label="1">
+                <p pgmap="616" id="b616-34">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="617" id="b617-4">BENEDICT, District Judge.</author>
+                <p pgmap="617" id="A5C">These are two actions against a foreign vessel, to en­force alleged liens for supplies furnished to her in this port</p>
+                <p pgmap="617" id="b617-5">The circumstances under which the ad­vances were made are not in dispute, and they are such as, according to the maritime law, create a lien upon the vessel.</p>
+                <p pgmap="617" id="b617-6">The defence, in both cases, is, that the ves­sel has. been discharged of the lien, by rea­son of her subsequent condemnation and sale as unseawor'thy, and the lien thereby trans­ferred to the proceeds of that sale.</p>
+                <p pgmap="617" id="b617-7">It appears, from the evidence, that, in point of fact, the vessel was condemned and sold at St. Thomas, subsequent to the furnishing of the supplies.</p>
+                <p pgmap="617" id="b617-8">The proceedings and sale at St. Thomas are, however, challenged by the libellant, and it is insisted that the evidence shows a state of facts which require the court to declare those proceedings void and of no effect, for the reason that the vessel was not in such distress as to warrant her condemnation and sale.</p>
+                <p pgmap="617" id="b617-9">I propose to notice first a question of evi­dence, which arose upon the trial, in re­gard to the admissibility in evidence of cer­tain documents, certified by the British con­sul at St. Thomas to be true copies of the official documents on file in his office, per­taining to the condemnation and sale of the vessel, such as the demand for a survey, the reports of the surveyors, the estimates for repairs, and the report of the sale of the vessel at auction.</p>
+                <p pgmap="617" id="b617-10">Were this a proceeding at common law, those copies coaid not be received in evi­dence for any purpose. If they were copies of documents on file in the office of the Amer­ican consul, they would be admissible under the act of January 8th, 1869 [15 Stat. 266], Being from the office of the British consul, they are not made evidence by any statute. Nevertheless, I am of the opinion that they are admissible in a coun of admiralty. Courts of admiralty are not bound by all the rules of evidence which are applied in the courts of common law, and they may, where justice requires it, take notice of mat­ters not strictly proved. Thus, Dr. Lushing-­ton says, in the case of The Peerless, 1 Lush., 41: “This court has, both in prize matters and in civil suits, been accustomed to receive evidence which would not have been admitted in other courts. .For instance, affidavits sworn almost in every way, before justices of the peace, commissioners in chan­cery, &amp;c., even evidence not on oath, as where, according to the custom of some of the states in the north of Europe, the original evidence was not taken on oath, but the per­son giving it undertook to make oath after-­wards, if required. So, from the necessity of the case, all parties interested were, con­trary to the laws of other courts at the time, admitted to give evidence in cases of colli­sion, salvage, and others.”</p>
+                <p pgmap="617" id="A6KQ">The present case seems to be a proper one in which to relax somewhat the strict rules of evidence in favor of these documents, for it is to be noticed that many of the ma­terial facts which they tend to prove are shown by other evidence to have taken place; that is to say, it appears by other evidence that the vessel was examined, and was re­ported on, and was condemned, and was sold at public auction at the time and place mentioned.</p>
+                <p pgmap="617" id="b617-14">The copies have been proved by deposition, for a considerable period of time, and the opposite party is not, therefore, taken by surprise, but has had abundant opportunity of examination, and no suggestion is made that the papers have been falsified. The papers themselves, when examined, have all the appearances of being true copies. There is nothing 'unusual or suspicious in their contents, and they are certified by the con­sul to be copies of his records. There seems to me, therefore, no necessity to compel the parties to go to the expense of a commission to prove the papers, in order to make them admissible in evidence. How much weight should be given to the various portions of these papers is another question.</p>
+                <p pgmap="617" id="b617-15">Passing then to the main issue of the case, namely, whether the claimant has made it appear that the necessities of the vessel were such as to justify her sale by the mas­ter at St. Thomas; I am constrained to say that the proofs adduced do not satisfy me that there was any such necessity as to jus­tify the condemnation of the vessel. The fact that the only witness produced to prove the necessity is the party who bought the ves­sel, and is the claimant here, and that he took part as a surveyor in the proceedings which resulted in the condemnation; that he was also connected in business with the parties to -whom the master consigned the vessel in St. Thomas, and that one of these parties made the bids for him at the auction, are sufficient to raise a serious doubt as to the good faith of the proceedings, which is reduced almost to a certainty by the evi­dence in the case in regard to the. condition of the vessel when sold, and the further fact, that one of the ship-masters, who was upon the first survey, says that he signed his report in blank, and refused to be on the subsequent surveys, “because he didn’t like the looks of things.”</p>
+                <p pgmap="617" id="b617-16">In such a state of the proofs, it must be held that the sale has not been sustained. The result, therefore, is, that the libellant, in one case, is entitled to a decree, with an or­der of reference to ascertain the amount.</p>
+                <p pgmap="617(36) 618(23)" id="b617-17">An examination of the account sued for in the other case, however, discloses certain items which cannot be recovered, no lien, arising therefor by the maritime law. It may be referred to the commissioner to ascer­tain and report for so much of the account unpaid as shall appear to be entitled to a lien by the maritime law.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="616" ORDERLABEL="614" TYPE="page">
+        <fptr FILEID="tiff_00308_1"/>
+        <fptr FILEID="jp2_00308_1"/>
+        <fptr FILEID="alto_00308_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_616.24" BETYPE="IDREF" FILEID="alto_00308_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="617" ORDERLABEL="615" TYPE="page">
+        <fptr FILEID="tiff_00309_0"/>
+        <fptr FILEID="jp2_00309_0"/>
+        <fptr FILEID="alto_00309_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_617.2" BETYPE="IDREF" FILEID="alto_00309_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="618" ORDERLABEL="616" TYPE="page">
+        <fptr FILEID="tiff_00309_1"/>
+        <fptr FILEID="jp2_00309_1"/>
+        <fptr FILEID="alto_00309_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_618.26" BETYPE="IDREF" FILEID="alto_00309_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-3" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.4" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-10" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.13" BETYPE="IDREF" FILEID="alto_00309_0"/>
+            <area BEGIN="BL_617.14" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-14" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.17" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-17" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.20" BETYPE="IDREF" FILEID="alto_00309_0"/>
+            <area BEGIN="BL_618.2" BETYPE="IDREF" FILEID="alto_00309_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-2" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.3" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-7" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.10" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AqME" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.32" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6KQ" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.16" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A5C" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.6" BETYPE="IDREF" FILEID="alto_00309_0"/>
+            <area BEGIN="BL_617.7" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-27" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.31" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-26" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.30" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-25" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.29" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-24" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.28" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b616-34" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_616.39" BETYPE="IDREF" FILEID="alto_00308_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-6" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.9" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-5" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.8" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-4" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.5" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-9" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.12" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-8" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.11" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-15" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.18" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b617-16" BETYPE="IDREF" FILEID="casebody_0313"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_617.19" BETYPE="IDREF" FILEID="alto_00309_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

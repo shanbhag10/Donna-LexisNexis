@@ -1,0 +1,446 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0528" publicationstatus="published">
+          <court abbreviation="C.C.D. Pa." jurisdiction="United States">United States Circuit Court for the District of Pennsylvania</court>
+          <name abbreviation="Jordan v. Wilkins">JORDAN v. WILKINS</name>
+          <docketnumber>Case No. 7,527</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1113</citation>
+          <citation category="parallel" type="bluebook">3 Wash. C. C. 110</citation>
+          <decisiondate>1811-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00558_0" MIMETYPE="image/tiff" CHECKSUM="79f17c8dec475d56afe441dcdebde374" CHECKSUMTYPE="MD5" SIZE="35304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00558_0.tif"/>
+      </file>
+      <file ID="tiff_00558_1" MIMETYPE="image/tiff" CHECKSUM="99ff73caa7ffcdc24fbdb7addf2295c0" CHECKSUMTYPE="MD5" SIZE="111682">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00558_1.tif"/>
+      </file>
+      <file ID="tiff_00559_0" MIMETYPE="image/tiff" CHECKSUM="5c802516c0b9cdd1845ba92a3e1a5393" CHECKSUMTYPE="MD5" SIZE="75410">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00559_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00558_0" MIMETYPE="image/jp2" CHECKSUM="0736eb3eda87b5f9c1cd36bca9fa34e3" CHECKSUMTYPE="MD5" SIZE="1840283">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00558_0.jp2"/>
+      </file>
+      <file ID="jp2_00558_1" MIMETYPE="image/jp2" CHECKSUM="f48ba536a21a8cb3ac3d93e1a376f9c4" CHECKSUMTYPE="MD5" SIZE="3829651">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00558_1.jp2"/>
+      </file>
+      <file ID="jp2_00559_0" MIMETYPE="image/jp2" CHECKSUM="a1e78a5c8cadb10faec09371a24bc723" CHECKSUMTYPE="MD5" SIZE="2922514">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00559_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00558_0" MIMETYPE="text/xml" CHECKSUM="aa2278e1c3d30486bb5870cca88f319d" CHECKSUMTYPE="MD5" SIZE="67284">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00558_0.xml"/>
+      </file>
+      <file ID="alto_00558_1" MIMETYPE="text/xml" CHECKSUM="053f1c6e641bf3a7cadc4a560601d00d" CHECKSUMTYPE="MD5" SIZE="246644">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00558_1.xml"/>
+      </file>
+      <file ID="alto_00559_0" MIMETYPE="text/xml" CHECKSUM="86a59c12b3a1aa79e3bd2be03937ba7d" CHECKSUMTYPE="MD5" SIZE="159247">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00559_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0528" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1115" firstpage="1113">
+              <court pgmap="1115" id="b1115-5">Circuit Court, D. Pennsylvania.</court>
+              <docketnumber pgmap="1115" id="b1115-2">Case No. 7,527.</docketnumber>
+              <citation pgmap="1115" id="Ag0Q">[3 Wash. C. C. 110.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1115" id="b1115-3">JORDAN v. WILKINS.</parties>
+              <decisiondate pgmap="1115" id="As03">Oct. Term, 1811.</decisiondate>
+              <judges pgmap="1115" id="b1115-16">Before WASHINGTON, Circuit Justice, and PETERS, District Judge.</judges>
+              <footnote label="1">
+                <p pgmap="1115" id="b1115-11">1 [Originally published from the MSS. of Hon. Bushrod Washington, Associate .lustice of the Supreme Court of the United States, under the supervisión of Richard Peters, Jr., Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1115" id="b1115-17">WASHINGTON, Circuit Justice.</author>
+                <p pgmap="1115(209) 1116(62)" id="AMmM">The prin­ciple laid down in the case from 5 Burrows, 2611, is, that one co-obligor or co-contractor, cannot be charged singly, if, in due time, he takes advantage of the plaintiff’s omission to sue the others, who are also bound, by giving to him a better writ; which, by a plea in abatement he must do. But, if he fail to protect himself by such a plea, he cannot turn the plaintiff round, at the trial, by prov­ing that another is jointly bound with him, and he is himself bound, severally, as well as jointly. This principle is certainly correct, in every case where the plaintiff gives notice to the defendant, of the nature of his de­mand, so as to put it in his power to plead in abatement. In actions on bonds, or spe­cial actions on the case, the declaration gives notice, and the rule is strictly applicable. But in actions of general indebitatus assump-­sit, which this is, how is it possible for the defendant to know, whether the plaintiff means at the trial to give evidence of a joint or several debt, or both; and, in this state of ignorance, how can he plead in abatement? Upon the face of the declara­tion, the claim is for a debt due from the de­fendant alone; and to permit the plaintiff to give evidence of a debt due from him and another, would be subversive of the rule, which declares that he shall not be made re sponsible singly, unless he has waived the privilege which the law allows him, of plead­ing in abatement.</p>
+                <p pgmap="1116" id="b1116-3">We understand it to be the constant and established practice of this state, in actions of this sort, for the plaintiff to furnish the defendant, before he pleads, with a copy of the account which he means to offer at the trial. Where this is done, the defendant has notice as fully as if it had appeared on the face of the declaration; and we see no rea son, why he may not shape his pleading, as if the declaration had been special, and plead in abatement. In this case, the ac­count delivered by the plaintiff to the defend ant, contains no item of a debt against John and Charles Wilkins; and, therefore, the de­fendant could not have known that such evi dence would be offered at the trial, so as to put it in his power to plead in abatement.</p>
+                <p pgmap="1116" id="b1116-4">It is very clear, that the defendant cannot plead in bar to a part, and in abatement to other parts of the action. And it is equally clear, that if the plaintiff joins in the same declaration, inconsistent counts, such aa against the defendant singly, and against him as partner with some others, he must, avail himself of this, by demurring to the declaration; because, if he would take ad­vantage of his partner not being joined in the counts where he is sued for a partner­ship debt, he cannot plead in abatement, and also in bar to the other counts. But whether, if these inconsistent demands appear in the account rendered to him by the plaintiff, he can demur to a declaration correct on the face of it, may be a question. If he cannot the defendant ought, in some way or other, to be protected against the necessity of meet­ing such inconsistent demands at the trial.</p>
+                <author pgmap="1116" id="b1116-5">PETERS, District Judge,</author>
+                <p pgmap="1116" id="AL9o">was of opinion, that the account might be admitted; and the court being divided, the account went to the jury, to which the defendant’s counsel took an exception.</p>
+                <p pgmap="1116" id="b1116-6">The defendant then offered as an offset, a receipt by Charles Wilkins, of a certain sum of money, which Charles had paid to the plaintiff, on account of the defendant; kav ing first proved, that this sum was paid by Charles WTilkins to the plaintiff.</p>
+                <author pgmap="1116" id="b1116-7">BY THE COURT.</author>
+                <p pgmap="1116" id="Auns">This receipt is offered as evidence that the money paid by Charles Wilkins to the plaintiff, was paid for the account of the defendant. This would have been better proved by Charles Wilkins him­self, who is alive, and might have been ex­amined. The receipt, therefore, cannot be given in evidence.</p>
+                <p pgmap="1116" id="b1116-8">The defendant then offered an account of money paid to the plaintiff, by John and Charles Wilkins, which was objected to.</p>
+                <p pgmap="1116" id="b1116-10">BY TEtE COURT. This was said, by the defendant’s counsel, to be precisely like the case which has, by a division of the court, been decided against the defendant. That since the plaintiff has been permitted to give in evidence a demand against John and Charles Wilkins, John, the defendant, ought to be at liberty to offset demands of John and Charles Wilkins against him. This has the appearance of fairness, particularly, as Charles will have to contribute to any judg­ment which may be recovered against John, for a debt of John and Charles. But still it is inconsistent with legal principles, for the defendant to offset a debt, which is due not to him alone, but to him and another. Were it to be allowed, the admission of it as an offset, would be no bar, in an action to be brought by John and Charles against the plaintiff; although one partner is bound sin­gly, to pay the whole of the partnership debt, unless he Compels the plaintiff, by a proper plea, to join his partner with him, yet he is not entitled to the whole of a debt due to the partnership; and if he sue singly for a partnership debt, he may be defeated at the trial on the general issue, for he knew who were his partners.</p>
+                <p pgmap="1116" id="b1116-11">In summing up, it was contended, by the defendant, that the articles of the 15th De­cember, 1803, constituted a partnership; that they were to share in loss in effect, since there can be no profit, but what remains after the losses are deducted; and that at all events, the advertisement at Natchez, was sufficient to bind them, as partners, to third persons. If so, then the defendant may be made liable for all the debts contracted by the plaintiff or his other partners; and it would be unreasonable for the plaintiff to recover even a separate demand, much less, those demands ■ which were on partnership ac­count, until 'the partnership accounts are set­tled, and a balance struck. As to the arti­cles of dissolution, this is not binding on third persons; and the plaintiff, if he would avail himself of it, should have brought his action on this agreement, it being under seal. Case cited, 4 Term R. 670.</p>
+                <p pgmap="1116(137) 1117(440)" id="b1116-12">WASHINGTON, Circuit Justice (charging jury). To decide this cause correctly, it is necessary for the jury to have a very dis­tinct conception of the nature of the connex-­ion formed between the parties to the agree­ment on the 15th December, 1803. Each party was to carry on trade upon his own capital, credit, and responsibility. Neither was to be answerable in any manner, for the engagements of the others, nor were the whole to be answerable for the engagements of any one. There was to be a participa­tion of profits, but not of losses. Thus, if the plaintiff had, on the business separately carried on by him, sustained a loss of 5,000 dollars, and the defendant, on his separate business, had made a profit of 10,000 dollars, upon the principle of co-partnership, the loss of the plaintiff would be borne by the profit fund of the defendant, and not be left singly on the shoulders of the plaintiff; and only the remainder, viz. 5,000 dollars, would be divided. But in this case, the plaintiff would have to bear the whole loss of the 5,000 dol­lars, and would share with the other mem­bers of this association, in the 10,000 dollars made by the defendant Purchases made by one of these parties, or moneys borrowed, ei­ther from another of the parties, or from a stranger, to enable him to carry on his sep­arate store, was a private debt between those persons; as much so as if they never ha.d formed a connexion of any kind. This was most unquestionably the case, as between the parties to that contract; and it could never be allowed to one of the parties, to repel the claim of another, who, by money lent or goods sold, had become his creditor, by saying it was a partnership debt, in the face of their agreement, which declared, that each party was to be severally bound for his own engagements. Indeed, we are not pre­pared to admit, that a stranger, who had dealt with one of these parties, with full knowledge of the articles, and of the true nature of the connexion between them, could charge the other partners. The advertise­ment published at Natchez, might possibly produce this effect; but as to that, we give no opinion, otherwise than by saying, that if it would bind all the parties for the en­gagements of one, to third persons, it would have no such effect, as between the parties themselves; who, notwithstanding any thing stated in that notice, knew very well the real nature of their connexion. If any pos­sible doubt could exist, upon the articles of the 15th December, 1803, there can be none under those of the 19th September, 1804, which even destroy the community of prof­it, as to the business carried on separately by the parties, and contain an express stip­ulation, that each party shall be responsible for his own engagements. This, to be sure, would not affect the rights of third persons; but we hold it conclusive between these par­ties. The word copartnership, mentioned once or twice in this agreement, is of no consequence; it cannot alter the nature of things, and constitute a partnership, where, from the essence of the connexion, there was none. This paper not being the foundation of the plaintiff’s action, may well be resorted to, to explain the nature of the connexion between these parties.</p>
+                <p pgmap="1117" id="b1117-4">It is said, that it is hard to charge the de­fendant with the separate demands of the plaintiff, and yet leave him exposed to the claims of strangers, who have sued, and may yet sue him, as a copartner, for the debts contracted by the plaintiff. This is true, but it is not in this action that the defendant can be relieved. Although in the store trans­actions of these parties, they acted separate­ly, and not as partners, yet. by the express terms of the agreement of the 19th Septem­ber, 1804, they all agreed to share in profit and loss, as to purchases made at Natchez, by Steitz. Of course, should it appear to the jury, that any of the items in the plaintiff’s account, arise on these transactions of Steitz, as, for example, if any of the bills drawn on the plaintiff, and now charged by him to the defendant, were drawn to enable Steitz to make the purchases, in the profit and loss of which all the parties were to participate, the jury will exclude such items from the plaintiff’s account.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1115" ORDERLABEL="1113" TYPE="page">
+        <fptr FILEID="tiff_00558_0"/>
+        <fptr FILEID="jp2_00558_0"/>
+        <fptr FILEID="alto_00558_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1115.2" BETYPE="IDREF" FILEID="alto_00558_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1116" ORDERLABEL="1114" TYPE="page">
+        <fptr FILEID="tiff_00558_1"/>
+        <fptr FILEID="jp2_00558_1"/>
+        <fptr FILEID="alto_00558_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1116.14" BETYPE="IDREF" FILEID="alto_00558_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1117" ORDERLABEL="1115" TYPE="page">
+        <fptr FILEID="tiff_00559_0"/>
+        <fptr FILEID="jp2_00559_0"/>
+        <fptr FILEID="alto_00559_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1117.4" BETYPE="IDREF" FILEID="alto_00559_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1117-4" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1117.6" BETYPE="IDREF" FILEID="alto_00559_0"/>
+            <area BEGIN="BL_1117.7" BETYPE="IDREF" FILEID="alto_00559_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1116-10" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1116.15" BETYPE="IDREF" FILEID="alto_00558_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="As03" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1115.7" BETYPE="IDREF" FILEID="alto_00558_0"/>
+            <area BEGIN="BL_1115.8" BETYPE="IDREF" FILEID="alto_00558_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMmM" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1115.21" BETYPE="IDREF" FILEID="alto_00558_0"/>
+            <area BEGIN="BL_1115.22" BETYPE="IDREF" FILEID="alto_00558_0"/>
+            <area BEGIN="BL_1116.1" BETYPE="IDREF" FILEID="alto_00558_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1116-12" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1116.17" BETYPE="IDREF" FILEID="alto_00558_1"/>
+            <area BEGIN="BL_1117.2" BETYPE="IDREF" FILEID="alto_00559_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1116-11" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1116.16" BETYPE="IDREF" FILEID="alto_00558_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1116-7" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1116.9" BETYPE="IDREF" FILEID="alto_00558_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1116-3" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1116.3" BETYPE="IDREF" FILEID="alto_00558_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1115-2" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1115.3" BETYPE="IDREF" FILEID="alto_00558_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1115-3" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1115.4" BETYPE="IDREF" FILEID="alto_00558_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AL9o" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1116.6" BETYPE="IDREF" FILEID="alto_00558_1"/>
+            <area BEGIN="BL_1116.7" BETYPE="IDREF" FILEID="alto_00558_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1115-16" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1115.19" BETYPE="IDREF" FILEID="alto_00558_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1115-17" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1115.20" BETYPE="IDREF" FILEID="alto_00558_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1116-5" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1116.5" BETYPE="IDREF" FILEID="alto_00558_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1116-4" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1116.4" BETYPE="IDREF" FILEID="alto_00558_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1115-11" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1115.15" BETYPE="IDREF" FILEID="alto_00558_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1116-8" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1116.12" BETYPE="IDREF" FILEID="alto_00558_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1116-6" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1116.8" BETYPE="IDREF" FILEID="alto_00558_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Auns" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1116.10" BETYPE="IDREF" FILEID="alto_00558_1"/>
+            <area BEGIN="BL_1116.11" BETYPE="IDREF" FILEID="alto_00558_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ag0Q" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1115.5" BETYPE="IDREF" FILEID="alto_00558_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1115-5" BETYPE="IDREF" FILEID="casebody_0528"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1115.6" BETYPE="IDREF" FILEID="alto_00558_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

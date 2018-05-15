@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0053" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="The Iris">The IRIS</name>
+          <docketnumber>Case No. 7,062</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 90</citation>
+          <citation category="parallel" type="bluebook">1 Lowell, 520</citation>
+          <decisiondate>1870</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00046_1" MIMETYPE="image/tiff" CHECKSUM="5fe88b1e7a1c0b5175e586b694cb526b" CHECKSUMTYPE="MD5" SIZE="62992">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00046_1.tif"/>
+      </file>
+      <file ID="tiff_00047_0" MIMETYPE="image/tiff" CHECKSUM="4f5230bf510deb3aa00e91f6c32a0804" CHECKSUMTYPE="MD5" SIZE="108252">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00047_0.tif"/>
+      </file>
+      <file ID="tiff_00047_1" MIMETYPE="image/tiff" CHECKSUM="5cbf1749e53d43d9a19e6ec40f018533" CHECKSUMTYPE="MD5" SIZE="94312">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00047_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00046_1" MIMETYPE="image/jp2" CHECKSUM="ca04e1caddc83cc180c03f1f7c085e0e" CHECKSUMTYPE="MD5" SIZE="2606171">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00046_1.jp2"/>
+      </file>
+      <file ID="jp2_00047_0" MIMETYPE="image/jp2" CHECKSUM="22511917608896f7df36b59824eb7fdf" CHECKSUMTYPE="MD5" SIZE="3745719">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00047_0.jp2"/>
+      </file>
+      <file ID="jp2_00047_1" MIMETYPE="image/jp2" CHECKSUM="356b36fe75c43e39c015ed4b4189aca8" CHECKSUMTYPE="MD5" SIZE="3496678">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00047_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00046_1" MIMETYPE="text/xml" CHECKSUM="026aa6212f3ed7fbb959491be8886e70" CHECKSUMTYPE="MD5" SIZE="139673">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00046_1.xml"/>
+      </file>
+      <file ID="alto_00047_0" MIMETYPE="text/xml" CHECKSUM="30c2c687e891eaa59c36f552e924ac28" CHECKSUMTYPE="MD5" SIZE="247177">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00047_0.xml"/>
+      </file>
+      <file ID="alto_00047_1" MIMETYPE="text/xml" CHECKSUM="38f6493d69424770c962e9d94e742539" CHECKSUMTYPE="MD5" SIZE="197512">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00047_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0053" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="92" firstpage="90">
+              <court pgmap="92" id="b92-13">District Court, D. Massachusetts.</court>
+              <docketnumber pgmap="92" id="b92-10">Case No. 7,062.</docketnumber>
+              <citation pgmap="92" id="b92-12">[1 Lowell, 520.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="92" id="b92-11">The IRIS.</parties>
+              <decisiondate pgmap="92" id="AG2">1870.</decisiondate>
+              <attorneys pgmap="92" id="b92-18">H. C. Hutchins and J. A. Gillis, for libel-­lant.</attorneys>
+              <attorneys pgmap="92" id="b92-19">T. K. Lothrop and I. Lincoln. Jr., for claim­ant.</attorneys>
+              <footnote label="1">
+                <p pgmap="92" id="b92-21">1 [Reported by Hon. John Lowell. LL. D., District Judge, and hero reprinted by permis­sion.)</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="92" id="b92-20">LOWELL, District Judge.</author>
+                <p pgmap="92(39) 93(235)" id="AEk">The evidence is not quite as full and minute as in a case of more pecuniary importance it might be expected to be. Taking it as it stands, I find the facts to be that the pilot of the steamer ported his helm some time before the collision without knowing that the schooner was near; but that he did this in order to keep the usual course, that is, to follow a bend of the channel which here sweeps to the right, avoiding a shoal. The schooner was outsailing the steamer and her heavy tow and passing between her and the shore on the starboard hand, which brings the case within the seventeenth sailing rule, that every vessel overtaking another shall keep out of her way, a rule which modifies the otherwise universal rule fifteen, requir­ing steamers to avoid sailing vessels. The reason given by the master of the schooner for not keeping out of the way is that the steamer ported her helm and brought the li-­bellant’s barge into contact with his ves­sel. This is true; but it also seems to be proved that the change was a proper one, and one that the schooner might have an­ticipated; and that it was made so long be­fore the collision that the schooner lmd am­ple time to conform to it. Her master says he could not luff because there was a lighter on his bow, between him and the shore; but on this point he fails of support by any other witness, and I .consider the weight of the evidence to be that he might and should have luffed.</p>
+                <p pgmap="93" id="b93-3">Then the question is, was the steamer to blame in changing her course when and to the extent she did? Might not a less change have been enough to clear the shoal, and was she bound to see the schooner? The general rule undoubtedly is. that when one vessel is to take the burden of avoiding an­other, the latter is to keep her course. But how far a vessel is bound to keep a lookout aft, or to take measures to know whether another is coming up behind her. has not often been a subject of judicial decision. I should say that if a vessel is making a great change of course, such as going about or the like in a narrow channel, especially if the change is taken suddenly or without obvious necessity, prudence would require that others should not be put in jeopardy, but the time and manner of the change should be adapted as far as possible to meet the necessities of other vessels; but here was a change which was necessary, and which was not so sudden or so great that any danger to vessels on the starboard could naturally be expected; and I am not pre­pared to say that any other or different course would or ought to have been taken if the pilot had known that the schooner was in the act of passing. The preponderance of the evidence is that this precise change' was proper and necessary, and that it was one which would not have endangered the schooner unless she'had been either too near or not sufficiently vigilant.</p>
+                <p pgmap="93" id="b93-4">So far as lights or lookout on the barge are concerned, it seems that each vessel was in full view from the other, and that there was nothing necessary or useful to be done on board the barge, except to hail the schoon­er, which the master of the barge swears he did. When barges are towed in the way these were, that is, by being firmly lashed to a steamer, it is not usual to steer the barges, because they move with the steamer. 1 must therefore hold the schooner to blame for not keeping out of the way of the barge.</p>
+                <p pgmap="93(465) 94(82)" id="b93-7">It is urged, however, that there can be no recovery in this case, because the allegations of the libel do not correspond with the proofs. It is true that the libel does not aver that the steamer changed her course; but it does aver that the schooner kept hers, and thus brought on the collision. The an­swer, not denying that the schooner kept her course, sets up the change on the part of the other vessel. I find that both are true; that the steamer did change her course and that the schooner did not, but that the change was justifiable under the circum­stances, and that it did not relieve the schooner from the obligation of keeping out of the way. It turns out then that the li­bel which imputes fault to the schooner in not changing her course is sustained. I doubt whether, even under the strict rule adopted of late by the privy council in Eng­land, as shown by the cases of The Ann. Lush. 53, and The North American, Swab. 33S, there could be said to be a variance be­tween the allegations and the proofs. But our practice is somewhat less stringent. The object to be attained is that the de­fendant should know what he is called upon to meet, and in arriving at this object, we allow in the first place great latitude of amendment, and in the next we inquire whether there is in fact surprise in the par­ticular case rather than whether on theory there might be presumed to be such. It has been settled by the highest authority that there is no technical rule of variance in our admiralty practice. Dupont de Nemours v. Vance, 19 How. [60 U. S.] 172; The Clement [Case No. 2,879]. In the former of these cases a libellant, proceeding for the non-de­livery of his goods on a contract of affreight­ment, was permitted to recover a general average contribution for' their having been jettisoned; in the other, the owners of a brig who alleged that a schooner caused the collision by changing her course, recovered damages on proof that the schooner kept her course when she should have changed it. Both these cases show a much wider departure than is found in the case at bar. Here there can have been no surprise, be­cause the change of course of the steamer is set up in the answer, and the reason for it is given by one of the claimant’s witnesses. It is true that at the trial evidence of the necessity and propriety of the change when offered i&gt;y the libellant in reply to the claim­ant's case was objected to, but the objec­tion was not put on the ground of surprise. but because It was not strictly in reply. Tbe case then comes to tbis. One party al­leges that tbe other should have changed and did not; and tbe other that the first should not have changed and did. I find the facts alleged by each to be true, but the explanations of the one to be sufficient and those of the other to be insufficient. There is no rule of pleading which requires me to dismiss the libel under such circumstances.</p>
+                <p pgmap="94" id="b94-4">Decree for the libellant for $1000.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="92" ORDERLABEL="90" TYPE="page">
+        <fptr FILEID="tiff_00046_1"/>
+        <fptr FILEID="jp2_00046_1"/>
+        <fptr FILEID="alto_00046_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_92.6" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="93" ORDERLABEL="91" TYPE="page">
+        <fptr FILEID="tiff_00047_0"/>
+        <fptr FILEID="jp2_00047_0"/>
+        <fptr FILEID="alto_00047_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_93.3" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="94" ORDERLABEL="92" TYPE="page">
+        <fptr FILEID="tiff_00047_1"/>
+        <fptr FILEID="jp2_00047_1"/>
+        <fptr FILEID="alto_00047_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_94.4" BETYPE="IDREF" FILEID="alto_00047_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b94-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_94.5" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-12" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.15" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEk" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.25" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            <area BEGIN="BL_92.26" BETYPE="IDREF" FILEID="alto_00046_1"/>
+            <area BEGIN="BL_93.1" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-20" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.24" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-21" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.27" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-13" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.16" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AG2" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.17" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-11" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.14" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-10" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.13" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-3" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.5" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-4" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.6" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            <area BEGIN="BL_93.7" BETYPE="IDREF" FILEID="alto_00047_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b93-7" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_93.8" BETYPE="IDREF" FILEID="alto_00047_0"/>
+            <area BEGIN="BL_94.1" BETYPE="IDREF" FILEID="alto_00047_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-19" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.23" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b92-18" BETYPE="IDREF" FILEID="casebody_0053"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_92.22" BETYPE="IDREF" FILEID="alto_00046_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

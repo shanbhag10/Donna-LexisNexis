@@ -1,0 +1,322 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0395" publicationstatus="published">
+          <court abbreviation="E.D. Pa." jurisdiction="United States">United States District Court for the Eastern District of Pennsylvania</court>
+          <name abbreviation="Johnson v. The M’Donough">JOHNSON v. The M’DONOUGH</name>
+          <docketnumber>Case No. 7,395</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 768</citation>
+          <decisiondate>1829-10-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00385_1" MIMETYPE="image/tiff" CHECKSUM="d13299ce06c2845ad97b9dcbc66108a5" CHECKSUMTYPE="MD5" SIZE="45198">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00385_1.tif"/>
+      </file>
+      <file ID="tiff_00386_0" MIMETYPE="image/tiff" CHECKSUM="741b779c61afa91af5772c7add3c9368" CHECKSUMTYPE="MD5" SIZE="110608">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00386_0.tif"/>
+      </file>
+      <file ID="tiff_00386_1" MIMETYPE="image/tiff" CHECKSUM="f0c9ca80c888cd3ec131eb5b9e707d0f" CHECKSUMTYPE="MD5" SIZE="91102">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00386_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00385_1" MIMETYPE="image/jp2" CHECKSUM="50e57d930430cbaf1c1b1016afb11880" CHECKSUMTYPE="MD5" SIZE="2147560">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00385_1.jp2"/>
+      </file>
+      <file ID="jp2_00386_0" MIMETYPE="image/jp2" CHECKSUM="45dd565e9f7f79ed73971166c68f0247" CHECKSUMTYPE="MD5" SIZE="3771938">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00386_0.jp2"/>
+      </file>
+      <file ID="jp2_00386_1" MIMETYPE="image/jp2" CHECKSUM="fca96ad7b1ddfa62d293824872c2ce6e" CHECKSUMTYPE="MD5" SIZE="3492582">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00386_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00385_1" MIMETYPE="text/xml" CHECKSUM="7b49aac93ed9df4c8fe167fee566bb49" CHECKSUMTYPE="MD5" SIZE="90920">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00385_1.xml"/>
+      </file>
+      <file ID="alto_00386_0" MIMETYPE="text/xml" CHECKSUM="55ddc34336e78ddf634f1d3c50882550" CHECKSUMTYPE="MD5" SIZE="258544">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00386_0.xml"/>
+      </file>
+      <file ID="alto_00386_1" MIMETYPE="text/xml" CHECKSUM="82d7ca702fadc805b7d683635a118036" CHECKSUMTYPE="MD5" SIZE="199057">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00386_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0395" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="770" firstpage="768">
+              <court pgmap="770" id="ADx">District Court, E. D. Pennsylvania.</court>
+              <docketnumber pgmap="770" id="b770-9">Case No. 7,395.</docketnumber>
+              <parties pgmap="770" id="AduX">JOHNSON v. The M’DONOUGH.</parties>
+              <decisiondate pgmap="770" id="Aqkd">Oct. 2, 1829.</decisiondate>
+              <p pgmap="770" id="AoYc">[Gilp. 101.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="770" id="b770-18">1 [Reported by Henry D. Gilpin, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="770" id="b770-23">HOPKINSON, District Judge.</author>
+                <p pgmap="770(333) 771(152)" id="Agd">The facts of this case appear by the evidence to be these. On the 3d December, 1828, the schooner M’Donough was put at the wharf of Joseph Johnson, the petitioner, by her own­er James Coulter, and remained there until the 15th April, 1829, when she was removed to another wharf by Israel Coulter the broth­er of James. This removal was made with­out the consent or knowledge of Johnson, and at dinner time, when the persons usually about the wharf were absent. Johnson, on being informed of the removal, immediately complained of it to James Coulter, who had before assured him that the vessel should not be removed, until the wharfage was paid. James Coulter replied to his com­plaint, that Israel Coulter had no right to take her away, and that he would have her brought back. She was brought back on the 2d June, 1829. On the 21st May, 1829, a writ of fieri facias, issued on a judgment against John and James Coulter, at the suit of the United States, was delivered to the marshal, who proceeded with it to the schooner, then lying at the wharf to which she had been removed; he went on board the schooner, and, as he says, executed his writ by a levy on her. The schooner was at this time stripped of her rigging, which had been done after her removal from Johnson’s wharf; she was entirely shut up, and had nobody on board of her. The marshal put no person in charge of her, but left her as he found her, though he says a Mr. Burton told him he had a person to watch other vessels, who should also take charge of this schoon­er. Whether Mr. Burton performed this promise or not, the marshal never inquired, nor do we know. From other facts in the case we should infer that he did not. The marshal made no further proceeding on his writ, in consequence of his being inform-­e&lt;] that Coulter had sold her before the writ issued, but he further says, that he did not abandon his levy. Did he, how­ever, preserve his possession? I think he did not. On the 2d June, nearly two weeks after this proceeding under the fieri facias, the schooner was brought back to Johnson’s wharf, without any prevention or objection on the part of the marshal, or of any person he may have supposed had charge of her. She was afterwards sold by the marshal at Johnson’s wharf; the pro­ceeds of the sale are now in court; and Jo­seph Johnson claims to be paid out of them for his wharfage from December, 182S, to April, 3829; that which was due for the sec­ond lying at his wharf being satisfied. On the other hand the United States claim the whole of the proceeds towards the satisfac­tion of their judgment.</p>
+                <p pgmap="771" id="b771-3">It was long since decided in this court by Judge Peters, that wharfage is allowed out of proceeds, as the wharfinger might detain the ship until payment; in other words, that a wharfinger has a lien on the vessel for his wharfage. Judge Story, in the case of Ex parte Lewis [Case No. S.310], has recognized and affirmed this principle. In this case it has not been questioned, but it has been in­sisted by the district attorney that the lien was lost, by the loss of the possession of the schooner. It is certainly true that when the possession of a chattel is voluntarily given up, or other security is taken for the debt, the lien is abandoned. But this act, like ev­ery other, must be coupled with the will and intention of the party. Can I be said to part with an article which is wrongfully taken from me, without my knowledge or consent? And if I afterwards regain my possession, without any wrong to another, am I not re­stored to my original rights? Whether I may retake the possession by my own au­thority is another question, and even that seems to have been allowed in the case of Rosse v. Bramsteed, 2 Rolle, 438, provided it be done on fresh pursuit. I admit that the consent to the change of possession may be given, and will be as effectual after as before the removal; and further that such consent may be inferred from the conduct of the par­ty, as well as by direct evidence. If, in this case. Joseph Johnson had made no complaint of the taking away of the schooner, until she was levied upon, it would have warranted a belief that he acquiesced in it; but, on the contrary, he made immediate complaint, and received a promise from James Coulter, not of the payment of the wharfage, but of the return of the vessel to his wharf. What more could he do to repel the presumption of his assent to the act. or to show that he held to the body of the schooner as the security for his debt, and looked to no other? He could not take forcible possession of her; nor do I know of any legal process, by which he could have had her restored to him. If a possession is gained wrongfully or fraudu­lently it gives no lien; so if it be given for a special purpose, it cannot be applied to an­other. The same equity requires that if the possession be lost wrongfully or fraudulent­ly, and be afterwards regained without fraud or wrong, the lien shall be in force. In the case of Spring v. South Carolina Ins. Co., 8 Wheat. [21 U. S.] 268, it is expressly said by the court, that an insurance broker is en­titled to a lien on the policy for premiums paid for his principal: and though he parts with the possession, if the policy afterwards comes into his hands again, his lien is re­vived and will be protected, unless the man­ner of his parting with it had manifested an intention in him altogether to abandon such lien. The parting with possession was vol­untary. In the case of U. S. v. Barney [Case No. 14,525], Judge Winchester says, a lien is a tie. hold, or security upon goods or other things which a man has in his cus­tody, till he is paid what is due on them. From this definition, he adds, it is apparent that there can be no lien where the property is annihilated, or the possession parted with voluntarily and without fraud. He quotes Chapman v. Derby, 2 Vern. 117, and Ex parte Ockenden, 1 Atk. 234. In Montagu on Liens tpage 19). it is said if an innkeeper suffer the horse of his customer to be taken away, and the horse is, on some future oc­casion, brought to the inn, the lien does not revive. In the same book and page it is said, that if an insurance broker parts with the possession of a policy upon which he has a lien, and afterwards, upon hearing reports not favourable to the circumstances of his principal, he obtains from him the policy un­der pretence of receiving the average, it has been decided that his lien revives. This is going very far indeed beyond the decision in the case of Spring v. South Carolina Ins. Co. [supra], and beyond what is necessary for our case. In the case of Levy v. Barnard, 2 Moore. 34, it is said: “It seems that if a broker part with a policy, his lien revives upon its being returned to him.’’</p>
+                <p pgmap="771(172) 772(177)" id="b771-6">Such is the uniform doctrine of the deci­sions upon this point, and no case has been produced or found on my examination, in which a wrongful or fraudulent disposses­sion of the article would so destroy the lien, as that it would not revive on a subsequent honest regaining of the possession. The loss of the possession in this case was certainly not by the consent or intention of Joseph Johnson; nor did he, by any subsequent agreement or act, acquiesce in it. The only circumstance relied on to prove his assent is the length of time; but what could he do, In that period, to show his dissent, more than he did? It was returned to him without any wrong or fraud on his part; and by the same person who had taken it away, and probably for the very purpose of making it liable to his claim. I am therefore of opin­ion he is entitled to the payment of the wharfage due to him. out of the proceeds of the sale of the schooner. It is proper to add, that there is much uncertainty and ob­scurity about this levy; or, at least, about any actual possession of the property by the marshal, or what his intentions were in re­spect to it, after he was informed that Coul­ter had sold it. He suspended all further proceedings, and seems to have had no cus­tody or care of it afterwards; until he ac­tually sold it at Joseph Johnson’s wharf. If the marshal had taken a clear possession of the vessel, and thereby divested Coulter of the possession; and the latter had after-­wards fraudulently and wrongfully taken her end returned her to Johnson’s wharf, in vin lation of the right and possession obtained in her by the marshal, it would have pre­sented a different question, on which I give no opinion. The case of Spring v. South Carolina Ins. Co., 8 Wheat. [21 U. S.] 268, will be found to bear, even on such a case, favourably to the claim of wharfage.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="770" ORDERLABEL="768" TYPE="page">
+        <fptr FILEID="tiff_00385_1"/>
+        <fptr FILEID="jp2_00385_1"/>
+        <fptr FILEID="alto_00385_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_770.7" BETYPE="IDREF" FILEID="alto_00385_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="771" ORDERLABEL="769" TYPE="page">
+        <fptr FILEID="tiff_00386_0"/>
+        <fptr FILEID="jp2_00386_0"/>
+        <fptr FILEID="alto_00386_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_771.3" BETYPE="IDREF" FILEID="alto_00386_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="772" ORDERLABEL="770" TYPE="page">
+        <fptr FILEID="tiff_00386_1"/>
+        <fptr FILEID="jp2_00386_1"/>
+        <fptr FILEID="alto_00386_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_772.4" BETYPE="IDREF" FILEID="alto_00386_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b771-3" BETYPE="IDREF" FILEID="casebody_0395"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_771.5" BETYPE="IDREF" FILEID="alto_00386_0"/>
+            <area BEGIN="BL_771.6" BETYPE="IDREF" FILEID="alto_00386_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AoYc" BETYPE="IDREF" FILEID="casebody_0395"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_770.15" BETYPE="IDREF" FILEID="alto_00385_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Agd" BETYPE="IDREF" FILEID="casebody_0395"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_770.29" BETYPE="IDREF" FILEID="alto_00385_1"/>
+            <area BEGIN="BL_770.30" BETYPE="IDREF" FILEID="alto_00385_1"/>
+            <area BEGIN="BL_771.1" BETYPE="IDREF" FILEID="alto_00386_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b770-9" BETYPE="IDREF" FILEID="casebody_0395"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_770.13" BETYPE="IDREF" FILEID="alto_00385_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b770-23" BETYPE="IDREF" FILEID="casebody_0395"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_770.28" BETYPE="IDREF" FILEID="alto_00385_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AduX" BETYPE="IDREF" FILEID="casebody_0395"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_770.14" BETYPE="IDREF" FILEID="alto_00385_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqkd" BETYPE="IDREF" FILEID="casebody_0395"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_770.17" BETYPE="IDREF" FILEID="alto_00385_1"/>
+            <area BEGIN="BL_770.18" BETYPE="IDREF" FILEID="alto_00385_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b771-6" BETYPE="IDREF" FILEID="casebody_0395"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_771.8" BETYPE="IDREF" FILEID="alto_00386_0"/>
+            <area BEGIN="BL_772.1" BETYPE="IDREF" FILEID="alto_00386_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADx" BETYPE="IDREF" FILEID="casebody_0395"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_770.16" BETYPE="IDREF" FILEID="alto_00385_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b770-18" BETYPE="IDREF" FILEID="casebody_0395"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_770.25" BETYPE="IDREF" FILEID="alto_00385_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

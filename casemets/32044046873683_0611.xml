@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0611" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Fendall v. Billy">FENDALL v. BILLY</name>
+          <docketnumber>Case No. 4,725</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1135</citation>
+          <citation category="parallel" type="bluebook">1 Cranch, C. C. 87</citation>
+          <decisiondate>1802-04</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00569_0" MIMETYPE="image/tiff" CHECKSUM="a324974e9cb1054c58dac420496a57a1" CHECKSUMTYPE="MD5" SIZE="66740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00569_0.tif"/>
+      </file>
+      <file ID="tiff_00569_1" MIMETYPE="image/tiff" CHECKSUM="669a630e0d6cd46cb69ba08e8383d642" CHECKSUMTYPE="MD5" SIZE="70836">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00569_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00569_0" MIMETYPE="image/jp2" CHECKSUM="078900fbbe5c081a1aa9f446cf924ac6" CHECKSUMTYPE="MD5" SIZE="2660594">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00569_0.jp2"/>
+      </file>
+      <file ID="jp2_00569_1" MIMETYPE="image/jp2" CHECKSUM="d32d484c261e26c58d4a5a369ffc10af" CHECKSUMTYPE="MD5" SIZE="2864071">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00569_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00569_0" MIMETYPE="text/xml" CHECKSUM="4636a344961ba54f5f03f14419a1e8bb" CHECKSUMTYPE="MD5" SIZE="138513">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00569_0.xml"/>
+      </file>
+      <file ID="alto_00569_1" MIMETYPE="text/xml" CHECKSUM="36a74bef446e4a64bfd7472fbb617232" CHECKSUMTYPE="MD5" SIZE="152074">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00569_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0611" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1136" firstpage="1135">
+              <court id="A26" pgmap="1137">Circuit Court, District of Columbia.</court>
+              <docketnumber id="b1137-13" pgmap="1137">Case No. 4,725.</docketnumber>
+              <citation id="b1137-15" pgmap="1137">[1 Cranch, C. C. 87.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1137-14" pgmap="1137">FENDALL v. BILLY.</parties>
+              <decisiondate id="ASUb" pgmap="1137">April Term, 1802.</decisiondate>
+              <attorneys id="b1138-6" pgmap="1138">E. J. Lee, for plaintiff,</attorneys>
+              <attorneys id="A-M" pgmap="1138">Mr. Jones, for defendant,</attorneys>
+              <footnote label="1">
+                <p id="b1137-18" pgmap="1137">1 [Reported by Hon. William Cranch, Chief Judge.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1138-10" pgmap="1138">THE COURT</author>
+                <p id="Aox8" pgmap="1138">refused to let the leger go in evidence to the jury, it not being proved that the entries therein were the first en­tries. The journal also was refused for the same reason.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1137" ORDERLABEL="1135" TYPE="page">
+        <fptr FILEID="tiff_00569_0"/>
+        <fptr FILEID="jp2_00569_0"/>
+        <fptr FILEID="alto_00569_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1137.5" BETYPE="IDREF" FILEID="alto_00569_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1138" ORDERLABEL="1136" TYPE="page">
+        <fptr FILEID="tiff_00569_1"/>
+        <fptr FILEID="jp2_00569_1"/>
+        <fptr FILEID="alto_00569_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1138.4" BETYPE="IDREF" FILEID="alto_00569_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1138-10" BETYPE="IDREF" FILEID="casebody_0611"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1138.17" BETYPE="IDREF" FILEID="alto_00569_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1137-14" BETYPE="IDREF" FILEID="casebody_0611"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.18" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1138-6" BETYPE="IDREF" FILEID="casebody_0611"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1138.9" BETYPE="IDREF" FILEID="alto_00569_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A26" BETYPE="IDREF" FILEID="casebody_0611"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.20" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A-M" BETYPE="IDREF" FILEID="casebody_0611"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1138.12" BETYPE="IDREF" FILEID="alto_00569_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1137-18" BETYPE="IDREF" FILEID="casebody_0611"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.25" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1137-15" BETYPE="IDREF" FILEID="casebody_0611"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.19" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1137-13" BETYPE="IDREF" FILEID="casebody_0611"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.17" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASUb" BETYPE="IDREF" FILEID="casebody_0611"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1137.21" BETYPE="IDREF" FILEID="alto_00569_0"/>
+            <area BEGIN="BL_1137.22" BETYPE="IDREF" FILEID="alto_00569_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aox8" BETYPE="IDREF" FILEID="casebody_0611"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1138.18" BETYPE="IDREF" FILEID="alto_00569_1"/>
+            <area BEGIN="BL_1138.19" BETYPE="IDREF" FILEID="alto_00569_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

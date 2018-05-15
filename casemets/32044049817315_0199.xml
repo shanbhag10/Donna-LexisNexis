@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0199" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Jane Campbell">The JANE CAMPBELL</name>
+          <docketnumber>Case No. 7,206</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 344</citation>
+          <decisiondate>1862-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00173_1" MIMETYPE="image/tiff" CHECKSUM="fe628f4518d64941f342fc919a3076a8" CHECKSUMTYPE="MD5" SIZE="88848">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00173_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00173_1" MIMETYPE="image/jp2" CHECKSUM="dcebd185d376dd696dbb88aa925b0c9e" CHECKSUMTYPE="MD5" SIZE="3364216">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00173_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00173_1" MIMETYPE="text/xml" CHECKSUM="8ccb2751706dc91e45087ed2bfb90da3" CHECKSUMTYPE="MD5" SIZE="185323">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00173_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0199" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="344" firstpage="344">
+              <court pgmap="346" id="AtUs">District Court, S. D. New York.</court>
+              <docketnumber pgmap="346" id="b346-4">Case No. 7,206.</docketnumber>
+              <parties pgmap="346" id="Aop">The JANE CAMPBELL.</parties>
+              <decisiondate pgmap="346" id="AzAR">March, 1862.</decisiondate>
+              <p pgmap="346" id="Ajr">[Blatchf. Pr. Cas. 130.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="346" id="b346-11">1 [Reported by Samuel Blatchford, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="346" id="b346-10">BETTS, District Judge.</author>
+                <p pgmap="346" id="ASP">On the decision of this case upon the preparatory proofs [Case No. 7,205], an order was granted by the court, at the instance of the advocates for the libel-­lants, that they have leave to put in further proofs, “such further proof being limited to evidence tending to show that the voyage in question in. this suit was set on foot and prosecuted by the claimant with intent, on his part, to violate the blockade in question in said suit” The district attorney presented in court, and examined orally, under oath, Thomas E. Corsen, John G. Williams, and William R. Hinman, neither of which wit­nesses, on his direct or cross-examination, testified to any fact within his knowledge, or to any declaration or admission of the claim­ant, tending to prove any culpable act or guilty knowledge of the claimant in respect to the alleged attempt to violate the blockade inquired about. The testimony of the wit­nesses was directed to the impeachment or disparagement of the testimony of Captain Harris, .of the schooner, given on his ex­amination in preparatorio. Two observations must be applied to the attempt: (1) The im­peachment of the witness is not by positive evidence against his general integrity of char­acter for truthfulness or individually, but by testimony which is claimed as evincing, by implication or inference, that he had acted as master of an American vessel, and that he must, therefore, have sworn falsely in as­serting that he was a British subject at the time his testimony was given, because, as such, he could not be legally a master of an American vessel.</p>
+                <p pgmap="346" id="b346-14">The testimony of the one witness to the circumstance of Harris having been in com­mand of an American vessel is destitute of certainty or dearness as to time and manner; nor is the fact necessarily incompatible with; his sworn assertion, that he was a British subject, so as to require the conclusion that his statement was wilfully false, and de­structive to his credibility as a witness in this suit. I perceive nothing in the further proofs that calls for or justifies a rejection of the conclusion adopted by the court on the first hearing of the cause on the merits; and the application on the part of the libellants to re­call or vary that decision is denied.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="346" ORDERLABEL="344" TYPE="page">
+        <fptr FILEID="tiff_00173_1"/>
+        <fptr FILEID="jp2_00173_1"/>
+        <fptr FILEID="alto_00173_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_346.4" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-10" BETYPE="IDREF" FILEID="casebody_0199"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.21" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzAR" BETYPE="IDREF" FILEID="casebody_0199"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.11" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-14" BETYPE="IDREF" FILEID="casebody_0199"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.26" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-4" BETYPE="IDREF" FILEID="casebody_0199"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.7" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtUs" BETYPE="IDREF" FILEID="casebody_0199"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.10" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ajr" BETYPE="IDREF" FILEID="casebody_0199"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.9" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ASP" BETYPE="IDREF" FILEID="casebody_0199"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.22" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            <area BEGIN="BL_346.23" BETYPE="IDREF" FILEID="alto_00173_1"/>
+            <area BEGIN="BL_346.24" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b346-11" BETYPE="IDREF" FILEID="casebody_0199"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.25" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aop" BETYPE="IDREF" FILEID="casebody_0199"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_346.8" BETYPE="IDREF" FILEID="alto_00173_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

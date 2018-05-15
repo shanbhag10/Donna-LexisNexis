@@ -1,0 +1,308 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0584" publicationstatus="published">
+          <court abbreviation="D. Cal." jurisdiction="United States">United States District Court for the District of California</court>
+          <name abbreviation="The Favorite">The FAVORITE</name>
+          <docketnumber>Case No. 4,700</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1107</citation>
+          <citation category="parallel" type="bluebook">5 Sawy. 226</citation>
+          <decisiondate>1878-08-13</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00555_0" MIMETYPE="image/tiff" CHECKSUM="c0d253033dee0945d171ee74a5214a91" CHECKSUMTYPE="MD5" SIZE="100828">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00555_0.tif"/>
+      </file>
+      <file ID="tiff_00555_1" MIMETYPE="image/tiff" CHECKSUM="d7d37efea94198cff8a6f7535e31c297" CHECKSUMTYPE="MD5" SIZE="60158">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00555_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00555_0" MIMETYPE="image/jp2" CHECKSUM="41f7b94311d512a61d33acd0e167ca1c" CHECKSUMTYPE="MD5" SIZE="3567577">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00555_0.jp2"/>
+      </file>
+      <file ID="jp2_00555_1" MIMETYPE="image/jp2" CHECKSUM="6a0d7f7536c28bdcf6660a23ce773496" CHECKSUMTYPE="MD5" SIZE="2699171">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00555_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00555_0" MIMETYPE="text/xml" CHECKSUM="d224045e003754c8e5847734810dbd6a" CHECKSUMTYPE="MD5" SIZE="216826">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00555_0.xml"/>
+      </file>
+      <file ID="alto_00555_1" MIMETYPE="text/xml" CHECKSUM="842f5823e5e9c77beaa995860c5c9c5e" CHECKSUMTYPE="MD5" SIZE="120967">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00555_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0584" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1108" firstpage="1107">
+              <court id="b1109-8" pgmap="1109">District Court, D. California.</court>
+              <docketnumber id="b1109-5" pgmap="1109">Case No. 4,700.</docketnumber>
+              <citation id="b1109-7" pgmap="1109">[5 Sawy. 226.]</citation>
+              <parties id="b1109-6" pgmap="1109">The FAVORITE.</parties>
+              <decisiondate id="AtDK" pgmap="1109">Aug. 13, 1878.</decisiondate>
+              <attorneys id="b1109-12" pgmap="1109">McAllisters &amp; Bergin, for libellants.</attorneys>
+              <attorneys id="AIeP" pgmap="1109">Milton Andros, for claimants.</attorneys>
+              <opinion type="majority">
+                <author id="b1109-14" pgmap="1109">HOFFMAN, District Judge.</author>
+                <p id="Apb2" pgmap="1109">On the ■seventh of August, 1876, as the steam tug Favorite was engaged in towing the schoon­er Corsair from the old slip at Oakland wharf to this city, the schooner came into collision with a vessel moored on the north­erly side of the wharf not far from its westerly end. It is plain from the proofs that.the accident was caused, by the negli­gence or unskillfulness of the persons in charge of the tug, or of those in charge of the schooner, or by the fault of both. The service was performed in the middle of the day in clear weather, and under the ordi­nary conditions of wind and tide. The general course of the vessels, in order to reach their destination, was parallel or nearly parallel to the wharf, but no obstacle whatever ex­isted to their laying this course at any dis­tance to the northward of the wharf neces­sary to render a collision with it or with vessels moored along side of it, impossible. The occurrence of the collision is therefore proof of inexcusable mismanagement, and the fault must, prima facie, be attributed to the tug, as she furnished the motion power for both vessels, and the movements of the tow were controlled by her. The duty of the latter was merely to keep in the wake of the tug, and it appears to be the under­standing of persons in the business that the tow is under the orders of the tug, or as one of the witnesses expressed himself, that the property is in charge of the master of the tug.</p>
+                <p id="b1109-17" pgmap="1109(412) 1110(98)">It appears that when the vessels were approaching the end of the wharf, and at a distance from it, probably not far from One hundred feet, the schooner sheered to port, and before the sheer could be checked or “broken,” the collision occurred. On the part of the tug it is contended that the tow was in fault in not seasonably putting her helm to port, and thus breaking the sheer. It is even suggested that the helm of the tow was to starboard. But this suggestion or conjecture is positively repelled by the mate and second mate of the schooner, the former of whom was stationed on her fore­castle, ' and the latter at the wheel. They both testify that when the schooner sheered, her helm was put promptly to port, and a signal was made to the tug to do the like. I see no reason for discrediting these wit­nesses and it is a familiar rule that the testimony of witnesses as to what they did, or saw occur, on board their own vessel is entitled to more weight than the evidence of persons of equal credibility as to what they saw from another vessel. Moreover, the claimant’s witnesses do not pretend to have observed the position of the schooner’s helm. They merely suppose or “conclude” it must have been to starboard,- for the reason that 'otherwise the accident would not have occurred. The master of the tug admits that the hawser by which he was towing was from fifty to sixty fathoms in length. He also states that at the time of the col­lision the tug "was about one hundred and fifty feet from the English vessel against which the schooner struck. Captain Siner, a witness for the claimants, and a guest on board the tug, states that at the time the order to port the helm of the tug was given, and .which was but a few moments before the collision, the tug was 'about one hundred feet from the inner vessel at the wharf. When the tug ported her helm, her captain gave the same order to the tow,­but Captain Siner states that “It would not have made any difference if the schooner had put her helm hard a port when the captain sung out.” Captain Ross, the master of the -tug, -is very emphatic in his descrip­tion of the steering of the schooner. He states- that she sheered first to starboard and then to port, sometimes at an angle of thirty degrees to forty-five degrees. That she “steered widely,” and was “sheering to starboard and port all the way down.” He considered it “rough steering,” and that he noticed it “shortly after he started.” He was at first inclined to attribute this to the schooner’s taking bottom, when on sounding the next day he found sixteen feet of water, he “concluded” that the schooner’s helm must have been to starboard instead of port. We have seen that this conclusion is dis­proved by the evidence of the schooner’s officers.</p>
+                <p id="b1110-3" pgmap="1110">The foregoing summary of the facts of the case indicates unmistakably the solution of the question to be decided. The tug with a tow line fifty to sixty fathoms in length pursues a course not more, and probably considerably less, than half a hawser’s length from the line of the wharf. This she does without the slightest necessity and with ample sea room to the northward to permit her to insure beyond peradveuture the safety of the vessel in her charge. She per­sists in this course notwithstanding that she is apprised, that the tow is steering widely and sheering from side to side. She even omits to order the tow to port her helm until so late, that as Captain Siner says, obedience to the order “would have made no difference” in the results. The experts who have been examined differ somewhat as to proper length of hawser to be used in such a service as the one in question. But they very generally concur in the ob­vious and rational conclusion that if, under similar circumstances, they should find that the tow was steering badly they would haul off from ■ the wharf to at least the length of the tow line, *so as to render a collision with it impossible. In not having done so I consider the tug was clearly in fault</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1109" ORDERLABEL="1107" TYPE="page">
+        <fptr FILEID="tiff_00555_0"/>
+        <fptr FILEID="jp2_00555_0"/>
+        <fptr FILEID="alto_00555_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1109.3" BETYPE="IDREF" FILEID="alto_00555_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1110" ORDERLABEL="1108" TYPE="page">
+        <fptr FILEID="tiff_00555_1"/>
+        <fptr FILEID="jp2_00555_1"/>
+        <fptr FILEID="alto_00555_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1110.5" BETYPE="IDREF" FILEID="alto_00555_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1109-17" BETYPE="IDREF" FILEID="casebody_0584"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1109.22" BETYPE="IDREF" FILEID="alto_00555_0"/>
+            <area BEGIN="BL_1110.2" BETYPE="IDREF" FILEID="alto_00555_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1109-14" BETYPE="IDREF" FILEID="casebody_0584"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1109.18" BETYPE="IDREF" FILEID="alto_00555_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1110-3" BETYPE="IDREF" FILEID="casebody_0584"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1110.6" BETYPE="IDREF" FILEID="alto_00555_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1109-12" BETYPE="IDREF" FILEID="casebody_0584"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1109.16" BETYPE="IDREF" FILEID="alto_00555_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIeP" BETYPE="IDREF" FILEID="casebody_0584"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1109.17" BETYPE="IDREF" FILEID="alto_00555_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1109-8" BETYPE="IDREF" FILEID="casebody_0584"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1109.11" BETYPE="IDREF" FILEID="alto_00555_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Apb2" BETYPE="IDREF" FILEID="casebody_0584"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1109.19" BETYPE="IDREF" FILEID="alto_00555_0"/>
+            <area BEGIN="BL_1109.20" BETYPE="IDREF" FILEID="alto_00555_0"/>
+            <area BEGIN="BL_1109.21" BETYPE="IDREF" FILEID="alto_00555_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtDK" BETYPE="IDREF" FILEID="casebody_0584"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1109.12" BETYPE="IDREF" FILEID="alto_00555_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1109-5" BETYPE="IDREF" FILEID="casebody_0584"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1109.8" BETYPE="IDREF" FILEID="alto_00555_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1109-6" BETYPE="IDREF" FILEID="casebody_0584"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1109.9" BETYPE="IDREF" FILEID="alto_00555_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1109-7" BETYPE="IDREF" FILEID="casebody_0584"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1109.10" BETYPE="IDREF" FILEID="alto_00555_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0464" publicationstatus="published">
+          <court abbreviation="C.C.N.D. Ga." jurisdiction="United States">United States Circuit Court for the Northern District of Georgia</court>
+          <name abbreviation="Jones v. Gray">JONES v. GRAY</name>
+          <docketnumber>Case No. 7,463</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 956</citation>
+          <citation category="parallel" type="bluebook">3 Woods, 494</citation>
+          <decisiondate>1876-09</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00479_1" MIMETYPE="image/tiff" CHECKSUM="675995e68aa86e00720c96ea03c574a8" CHECKSUMTYPE="MD5" SIZE="89170">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00479_1.tif"/>
+      </file>
+      <file ID="tiff_00480_0" MIMETYPE="image/tiff" CHECKSUM="e3469ce811d94176f74283877a1d17d3" CHECKSUMTYPE="MD5" SIZE="25196">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00480_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00479_1" MIMETYPE="image/jp2" CHECKSUM="21c01ba6b2e9d7d780caae8fec3fd11b" CHECKSUMTYPE="MD5" SIZE="3328596">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00479_1.jp2"/>
+      </file>
+      <file ID="jp2_00480_0" MIMETYPE="image/jp2" CHECKSUM="4ddaa0b17290e9de1877daa3318d58a9" CHECKSUMTYPE="MD5" SIZE="1807637">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00480_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00479_1" MIMETYPE="text/xml" CHECKSUM="aba0d90f434375a11746c0b0a2aa7aa1" CHECKSUMTYPE="MD5" SIZE="197217">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00479_1.xml"/>
+      </file>
+      <file ID="alto_00480_0" MIMETYPE="text/xml" CHECKSUM="6c1398392b0b8152e4953ef33466e1ed" CHECKSUMTYPE="MD5" SIZE="50821">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00480_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0464" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="957" firstpage="956">
+              <court pgmap="958" id="b958-19">Circuit Court, N. D. Georgia.</court>
+              <docketnumber pgmap="958" id="b958-16">Case No. 7,463.</docketnumber>
+              <citation pgmap="958" id="b958-18">[3 Woods, 494.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="958" id="b958-17">JONES v. GRAY.</parties>
+              <decisiondate pgmap="958" id="ACQD">Sept., 1876.</decisiondate>
+              <attorneys pgmap="958" id="b958-24">John T. Glenn, for petitioner.</attorneys>
+              <attorneys pgmap="958" id="b958-25">E. N. Broyles, for objecting creditor.</attorneys>
+              <footnote label="1">
+                <p pgmap="958" id="b958-27">1 [Reported by Hon. William B. Woods. Cir­cuit Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="958" id="b958-26">WOODS, Circuit Judge.</author>
+                <p pgmap="958(329) 959(52)" id="AEIZ">The quesrion pre­sented by this petition is. whether the bank­rupt is entitled to the exemptions allowed by the Code of Georgia, as the head of a family. The bankrupt, at the date of his bankruptcy, was, and now is. an unmarried man. residing in Athens. Georgia, but not keeping house there. He has a mother and an unmarried sister, twenty years of age, who are board­ing with a married sister of the bankrupt, in Augusta, Georgia. The mother and un­married sister have no means of support, and the bankrupt, since the year 1S72, has sup­ported them by his contributions, but it does not appear that they are unable to maintain themeselves by labor. Under this state of facts, can the bankrupt be called the “head of a family”? We think not. The supreme court of Georgia has given a very liberal con­struction to the phrase, “head of a family.” In Marsh v. Lazenby, 41 Ga. 153. it was held that “an unmarried man, whose indigent mother and sisters live with him, and are supported by him. is the ‘head of a family,’ in the sense in which the term is used by the constitution of the state, and is entitled to a homestead.” But this definition, liberal as it is, does not include the case of the bankrupt, for the mother and sister of the bankrupt do not live with him. He, a single man, without family of his own. lives in one town, and supports, by his contributions, his mother and unmarried sister, who live in an­other town, and are inmates of the family of a married sister of the bankrupt. To call a man, so situated, the “head, of a family.” is. in my opinion, unwarrantably extending the meaning of the phrase. The bankrupt and his mother and unmarried sister do not con­stitute a family: the bankrupt cannot, there­fore. be the head of a family, for “a family is a collective body of persons, who live in one house, and under one head or manager.” "Webst. Diet. I agree in opinion with the district court, that the bankrupt is not the head of a family, and is not, therefore, enti­tled to the exemptions allowed the head of a family.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="958" ORDERLABEL="956" TYPE="page">
+        <fptr FILEID="tiff_00479_1"/>
+        <fptr FILEID="jp2_00479_1"/>
+        <fptr FILEID="alto_00479_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_958.17" BETYPE="IDREF" FILEID="alto_00479_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="959" ORDERLABEL="957" TYPE="page">
+        <fptr FILEID="tiff_00480_0"/>
+        <fptr FILEID="jp2_00480_0"/>
+        <fptr FILEID="alto_00480_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_959.3" BETYPE="IDREF" FILEID="alto_00480_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACQD" BETYPE="IDREF" FILEID="casebody_0464"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_958.22" BETYPE="IDREF" FILEID="alto_00479_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b958-19" BETYPE="IDREF" FILEID="casebody_0464"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_958.21" BETYPE="IDREF" FILEID="alto_00479_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b958-18" BETYPE="IDREF" FILEID="casebody_0464"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_958.20" BETYPE="IDREF" FILEID="alto_00479_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b958-26" BETYPE="IDREF" FILEID="casebody_0464"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_958.29" BETYPE="IDREF" FILEID="alto_00479_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b958-17" BETYPE="IDREF" FILEID="casebody_0464"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_958.19" BETYPE="IDREF" FILEID="alto_00479_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b958-16" BETYPE="IDREF" FILEID="casebody_0464"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_958.18" BETYPE="IDREF" FILEID="alto_00479_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEIZ" BETYPE="IDREF" FILEID="casebody_0464"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_958.30" BETYPE="IDREF" FILEID="alto_00479_1"/>
+            <area BEGIN="BL_958.31" BETYPE="IDREF" FILEID="alto_00479_1"/>
+            <area BEGIN="BL_959.1" BETYPE="IDREF" FILEID="alto_00480_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b958-27" BETYPE="IDREF" FILEID="casebody_0464"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_958.32" BETYPE="IDREF" FILEID="alto_00479_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b958-24" BETYPE="IDREF" FILEID="casebody_0464"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_958.27" BETYPE="IDREF" FILEID="alto_00479_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b958-25" BETYPE="IDREF" FILEID="casebody_0464"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_958.28" BETYPE="IDREF" FILEID="alto_00479_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

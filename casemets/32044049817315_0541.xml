@@ -1,0 +1,287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0541" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Joseph H. Toone">The JOSEPH H. TOONE</name>
+          <docketnumber>Case No. 7,540</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1143</citation>
+          <decisiondate>1862-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00573_0" MIMETYPE="image/tiff" CHECKSUM="0982dd8b3228a764b7f4d31cea771c03" CHECKSUMTYPE="MD5" SIZE="95418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00573_0.tif"/>
+      </file>
+      <file ID="tiff_00573_1" MIMETYPE="image/tiff" CHECKSUM="52c4cce9482c836684ecf0473c219e4a" CHECKSUMTYPE="MD5" SIZE="85438">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00573_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00573_0" MIMETYPE="image/jp2" CHECKSUM="022791405a9196d3b4fc77b67161985f" CHECKSUMTYPE="MD5" SIZE="3442925">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00573_0.jp2"/>
+      </file>
+      <file ID="jp2_00573_1" MIMETYPE="image/jp2" CHECKSUM="ff31fc1e45bc4c398f7ed911dc98dd9c" CHECKSUMTYPE="MD5" SIZE="3300879">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00573_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00573_0" MIMETYPE="text/xml" CHECKSUM="9e6bb56e8eb9c88dbdf92d8c644970f0" CHECKSUMTYPE="MD5" SIZE="213978">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00573_0.xml"/>
+      </file>
+      <file ID="alto_00573_1" MIMETYPE="text/xml" CHECKSUM="2607d6ee2436a26f312f168a20ad6d87" CHECKSUMTYPE="MD5" SIZE="189034">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00573_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0541" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1144" firstpage="1143">
+              <court pgmap="1145" id="b1145-11">District Court, S. D. New York.</court>
+              <docketnumber pgmap="1145" id="b1145-8">Case No. 7,540.</docketnumber>
+              <parties pgmap="1145" id="b1145-9">The JOSEPH H. TOONE.</parties>
+              <decisiondate pgmap="1145" id="ANSq">March, 1862.</decisiondate>
+              <p pgmap="1145" id="b1145-10">[Blatchf. Pr. Cas. 124.] <footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p pgmap="1145" id="b1145-20">1 [Reported by Samuel Blatchford, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1145" id="b1145-18">BETTS, District Judge.</author>
+                <p pgmap="1145" id="Aq92">The schooner Jo­seph H. Toone and her cargo were seized in the Gulf of Mexico, on the 1st of October last, by the United States steam ship-of-war South Carolina, as prize of war, and sent, with a prize crew, into the port of New York, and there libelled by the United States November 19, 1861. Proofs in preparatorio were regu­larly taken, and, on the 31st of December thereafter, William H. Aymer intervened, as a British subject, and claimed the vessel as owner, and alleged that various torts and wrongs were committed on him personally by the captured vessel. Delays were incur­red in bringing the suit to hearing, from term to term, until the owner of the cargo applied to the court for leave to intervene for that, and put in his claim to the libel, and served a copy of his proposed claim upon the district attorney, with notice of a motion to the court to be allowed to file it by his attorney. He represents himself to be a Spanish subject, and a resident of Havana, and alleges that the cargo was Spanish property, shipped by him from one neutral port to another. The district attorney objects to the clause pro­posed to be inserted in the claim by the claim­ant, denying that the vessel violated or at­tempted to violate a blockaded port; and al­so to his invoking the test oath of the owner of the vessel, made to his claim of ownership, and the schedules annexed thereto.</p>
+                <p pgmap="1145(84) 1146(295)" id="b1145-19">The application before the court is not one to change the ordinary method of proceeding by libel and claim into formal issues upon pleas and allegations. This would strictly be allowable only after a first hearing on the preparatory proofs, and for the purpose of bringing further proofs into the case. Wheat Mar. Oapt. 2S3. The privilege now sought is for the owner of the cargo to make a general defence to the allegations of the libel. The special clause proposed to be made part of the claim, to that end, adds nothing to the rights of defence which enure to him on the most general appearance and oppo­sition to the grounds of confiscation charged in the libel. The particular terms of the de-­fence to be offered to the prosecution need not be specified in the answer or claim- filed in opposition to a prize libel, all the evidence to obtain a decree-of condemnation being, in the first instance, to be produced by the captors. The construction of the claim of­fered on the part of the owner of the cargo is, therefore, quite immaterial. The suit is only to be litigated on the case made by the libellants; and it is only when that case affords grounds for conviction of the proper­ty seized, and is so pronounced by the court, that it becomes necessary for the claimant to show a defence through pleadings or proofs. There is no legal relevancy in the invocation of papers set forth in the claim, proposed to be put in by the claimant of the cargo, because that relief is not attainable through pleading, but is granted only on motion, and at the discretion of the court. Prize Rules, 30-33. There being no neces­sity for, or pertinency in, the clause prayed by the claimant to be inserted in his claim, but it being needful that he should interpose in the suit, and contest the demand of the libellants, and no unreasonable delay being shown in his so doing, -it is ordered by the court that the claimant of the cargo captured be allowed to file forthwith his claim thereto in the suit, omitting therefrom, as inappro­priate, the third clause of the same, objected to by the district attorney.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1145" ORDERLABEL="1143" TYPE="page">
+        <fptr FILEID="tiff_00573_0"/>
+        <fptr FILEID="jp2_00573_0"/>
+        <fptr FILEID="alto_00573_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1145.3" BETYPE="IDREF" FILEID="alto_00573_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1146" ORDERLABEL="1144" TYPE="page">
+        <fptr FILEID="tiff_00573_1"/>
+        <fptr FILEID="jp2_00573_1"/>
+        <fptr FILEID="alto_00573_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1146.5" BETYPE="IDREF" FILEID="alto_00573_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1145-11" BETYPE="IDREF" FILEID="casebody_0541"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1145.12" BETYPE="IDREF" FILEID="alto_00573_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1145-10" BETYPE="IDREF" FILEID="casebody_0541"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1145.11" BETYPE="IDREF" FILEID="alto_00573_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aq92" BETYPE="IDREF" FILEID="casebody_0541"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1145.19" BETYPE="IDREF" FILEID="alto_00573_0"/>
+            <area BEGIN="BL_1145.20" BETYPE="IDREF" FILEID="alto_00573_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1145-19" BETYPE="IDREF" FILEID="casebody_0541"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1145.21" BETYPE="IDREF" FILEID="alto_00573_0"/>
+            <area BEGIN="BL_1146.2" BETYPE="IDREF" FILEID="alto_00573_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1145-18" BETYPE="IDREF" FILEID="casebody_0541"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1145.18" BETYPE="IDREF" FILEID="alto_00573_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1145-9" BETYPE="IDREF" FILEID="casebody_0541"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1145.10" BETYPE="IDREF" FILEID="alto_00573_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1145-8" BETYPE="IDREF" FILEID="casebody_0541"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1145.9" BETYPE="IDREF" FILEID="alto_00573_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1145-20" BETYPE="IDREF" FILEID="casebody_0541"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1145.22" BETYPE="IDREF" FILEID="alto_00573_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANSq" BETYPE="IDREF" FILEID="casebody_0541"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1145.13" BETYPE="IDREF" FILEID="alto_00573_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

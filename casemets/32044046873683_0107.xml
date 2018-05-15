@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0107" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="Ex parte Eames">Ex parte EAMES</name>
+          <docketnumber>Case No. 4,237</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 236</citation>
+          <citation category="parallel" type="bluebook">2 Story, 322; 1 N. Y. Leg. Obs. 212; 5 Law Rep. 117</citation>
+          <decisiondate>1842-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00119_1" MIMETYPE="image/tiff" CHECKSUM="57d4031046e88c45e73493e6eb528706" CHECKSUMTYPE="MD5" SIZE="18700">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00119_1.tif"/>
+      </file>
+      <file ID="tiff_00120_0" MIMETYPE="image/tiff" CHECKSUM="dcad8aba39ff762ceda65eee57f0b83e" CHECKSUMTYPE="MD5" SIZE="82136">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00120_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00119_1" MIMETYPE="image/jp2" CHECKSUM="df8e3e324b30085665869ecfa61b519b" CHECKSUMTYPE="MD5" SIZE="1417650">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00119_1.jp2"/>
+      </file>
+      <file ID="jp2_00120_0" MIMETYPE="image/jp2" CHECKSUM="a6456f0631a85ddd0386bfc8818c383c" CHECKSUMTYPE="MD5" SIZE="3143632">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00120_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00119_1" MIMETYPE="text/xml" CHECKSUM="504c4169ebd1d05df2f8f3c9fcd34456" CHECKSUMTYPE="MD5" SIZE="29550">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00119_1.xml"/>
+      </file>
+      <file ID="alto_00120_0" MIMETYPE="text/xml" CHECKSUM="d28b8465a9a11407f16830c8871a42bf" CHECKSUMTYPE="MD5" SIZE="177892">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00120_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0107" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="237" firstpage="236">
+              <court id="b238-9" pgmap="238">Circuit Court, D. Massachusetts.</court>
+              <docketnumber id="b238-6" pgmap="238">Case No. 4,237.</docketnumber>
+              <citation id="b238-8" pgmap="238">[2 Story, 322;<footnotemark>1</footnotemark> 1 N. Y. Leg. Obs. 212; 5 Law Rep. 117.]</citation>
+              <parties id="b238-7" pgmap="238">Ex parte EAMES.</parties>
+              <decisiondate id="AMqc" pgmap="238">May Term, 1842.</decisiondate>
+              <attorneys id="b239-4" pgmap="239">Mr. Dehon, for petitioner.</attorneys>
+              <footnote label="1">
+                <p id="b238-17" pgmap="238">1 [Reported by William W. Story, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b239-5" pgmap="239">STORY, Circuit Justice.</author>
+                <p id="Asr" pgmap="239">The question for the decision of this court is, whether by law an injunction can be issued against Ayers, the assignee of Barnes, under the insolvent act of Massachusetts, as prayed for in the petition of Eames; and this involves the sim­ple consideration, whether the bankrupt act of the United States of 1841, c. 9, when it came into operation in February last, sus-­Xjended the operation of the insolvent act of Massachusetts, as to persons within the pur­view of the bankrupt act, who might after­ward become insolvents. If it did, then the injunction ought to be granted; if it did not, then it should be refused.</p>
+                <p id="b239-6" pgmap="239">My opinion is, that, as soon as the bankrupt act went into operation in February last, it, ipso facto, suspended all action upon future cases, arising under the state insolvent laws, where the insolvent persons were within the purview of the bankrupt act I say future cases, because very different considerations would, or might apply, where proceedings un-­deranystate insolventlawswere commenced, and were in progress before the bankrupt act went into operation. It appears to me, that j both systems cannot be in operation or ap­ply at the same time to the same persons; and where the state and national legislation upon the same subject, and the same persons, come in conflict, the national laws must pre­vail, and suspend the operation of the state laws. This, as far as I know, has been the uniform doctrine, maintained in all the courts of the United States. i</p>
+                <p id="b239-7" pgmap="239">Indeed, I consider this whole matter in ef­fect disposed of by the reasoning of the su­preme court in the ease of Sturges v. Crown­inshield, 4 Wheat. [17 U. S.] 122. Mr. Jus­tice Washington and myself were of opinion in that case, that the power to pass a bank­rupt law was exclusively vested in congress by the constitution of the United States; and that no state could pass a bankrupt law, or an insolvent law, having the effect of a bank­rupt law, where it discharged the debtor from the obligation of his prior contracts.<footnotemark>2</footnotemark> Mr. Justice Todd was absent from indisposition, and therefore did not sit in the cause. The other four members of the court (constituting a majority,) concurred in the decision, which was pronounced by Mr. Chief Justice Mar­shall. But all the court wore agreed, that when congress did pass a bankrupt act, it was supreme, and that the state laws must yield to it, and could no longer operate upon persons or cases within the purview of such act. The enactment of such an act suspend­ed the state laws on the same subject, and created a disability in the states to ex­ercise powers of the like nature. Sturges v. Crowninshield, 4 Wheat. [17 U. S.] 196. The court went further; and asserted that the bankrupt act of 1800, c. 19? had that very operation, except so far as the 01st section of the act modified or allowed the exercise of the power by the states. Sturges v. Crownin­shield, 4 Wheat. [17 U. S.] 201, 202. The case of Ogden v. Saunders, 12 Wheat. [25 U. S.] 213, 264, 269, 273, 276, 278, 296, 311, 314, fully recognized, and has always been understood to confirm and settle, the same principle. It seems to me, therefore, that nothing remains, upon which an argument can be founded, that the insolvent laws of Massachusetts are not as to persons and cases, within the pro­visions of the bankrupt act, completely sus­pended. Bach system is to act upon the same subject-matter, upon the same property, upon the same rights, and upon the same persons— creditors, as well as debtors. Both cannot go on together, without direct and positive col­lision; and the moment that the bankrupt act does or may operate upon the person or the case, that moment it virtually supersedes all state legislation.</p>
+                <p id="b239-10" pgmap="239">I shall, therefore, direct it to be certified to the district court, that in this case, by law, an injunction can be issued against the said Ayers, as prayed for in the said petition of i Barnes.</p>
+                <footnote label="2">
+                  <p id="b239-8" pgmap="239">2 See Mr. Justice Washington’s opinion in Ogden v. Saunders, 12 Wheat. [25 U. S.] 203, 204.</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="238" ORDERLABEL="236" TYPE="page">
+        <fptr FILEID="tiff_00119_1"/>
+        <fptr FILEID="jp2_00119_1"/>
+        <fptr FILEID="alto_00119_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_238.7" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="239" ORDERLABEL="237" TYPE="page">
+        <fptr FILEID="tiff_00120_0"/>
+        <fptr FILEID="jp2_00120_0"/>
+        <fptr FILEID="alto_00120_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_239.3" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.9" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.10" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            <area BEGIN="BL_239.11" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-4" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.5" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-5" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.6" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-8" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.12" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b239-10" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.13" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-17" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.22" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Asr" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_239.7" BETYPE="IDREF" FILEID="alto_00120_0"/>
+            <area BEGIN="BL_239.8" BETYPE="IDREF" FILEID="alto_00120_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-9" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.12" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-8" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.11" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMqc" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.13" BETYPE="IDREF" FILEID="alto_00119_1"/>
+            <area BEGIN="BL_238.14" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-7" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.10" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b238-6" BETYPE="IDREF" FILEID="casebody_0107"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_238.9" BETYPE="IDREF" FILEID="alto_00119_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

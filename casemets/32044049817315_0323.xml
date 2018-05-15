@@ -1,0 +1,323 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0323" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The J. L. Hasbrouck">The J. L. HASBROUCK</name>
+          <docketnumber>Case No. 7,325</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 640</citation>
+          <citation category="parallel" type="bluebook">6 Ben. 272</citation>
+          <decisiondate>1872-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00321_1" MIMETYPE="image/tiff" CHECKSUM="f815b65a4b0eb774588c47ab3cd8e1f8" CHECKSUMTYPE="MD5" SIZE="55748">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00321_1.tif"/>
+      </file>
+      <file ID="tiff_00322_0" MIMETYPE="image/tiff" CHECKSUM="7393ed39d410b4abf527eec0d86e109f" CHECKSUMTYPE="MD5" SIZE="58550">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00322_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00321_1" MIMETYPE="image/jp2" CHECKSUM="06676636f998f03538918177c6de735a" CHECKSUMTYPE="MD5" SIZE="2452017">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00321_1.jp2"/>
+      </file>
+      <file ID="jp2_00322_0" MIMETYPE="image/jp2" CHECKSUM="8c1d5745d12e3b16354a329a54a274b8" CHECKSUMTYPE="MD5" SIZE="2617564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00322_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00321_1" MIMETYPE="text/xml" CHECKSUM="a7057d7080f594bdaf1cb82038c537b7" CHECKSUMTYPE="MD5" SIZE="120499">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00321_1.xml"/>
+      </file>
+      <file ID="alto_00322_0" MIMETYPE="text/xml" CHECKSUM="2c88e8825680a4f3389fb74d722785a3" CHECKSUMTYPE="MD5" SIZE="128598">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00322_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0323" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="641" firstpage="640">
+              <court pgmap="642" id="b642-17">District Court, S. D. New York.</court>
+              <docketnumber pgmap="642" id="b642-14">Case No. 7,325.</docketnumber>
+              <citation pgmap="642" id="b642-16">[6 Ben. 272.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="642" id="b642-15">The J. L. HASBROUCK.</parties>
+              <decisiondate pgmap="642" id="AN_">Dec., 1872.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys pgmap="643" id="b643-3">O. Donohue, for libellants.</attorneys>
+              <attorneys pgmap="643" id="b643-4">R. D. Benedict, for claimants.</attorneys>
+              <footnote label="1">
+                <p pgmap="642" id="b642-21">1 [Reported by Robert D. Benedict, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <footnote label="2">
+                <p pgmap="642" id="b642-22">2 [Affirmed in Case No. 7,326.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="643" id="b643-5">BLATCHFORD, District Judge.</author>
+                <p pgmap="643" id="AJR">It was proved on the trial, that the dock at Fort Montgomery is about 300 feet long in the line, of the river, and runs out about 70 feet into the river; that, at low water, there is, at the dock, seven or eight feet depth of water; that, at its north end, the dock is out even with -the edge- of the flats, thus leaving 70 feet of flats between the outer edge of the flats and the land; and that, at the south end of the dock, the flats are some­times bare. From this evidence, taken in connection with the other evidence given at the trial, it is quite apparent, that the bestowment by the propeller on the canal-­boat of proper attention, when the latter was cast off, would have enabled the boat and her cargo to be put on the flats, so as to have prevented her sinking, as she did, out in deep water. The sinking of the car­go in déep water, and its consequent total loss, occasioned, therefore, such damages as there were to the cargo beyond the damage it had sustained, when the fault of the pro­peller was committed in casting the boat off, and leaving her without care or atten­tion.</p>
+                <p pgmap="643" id="b643-7">As to the damage which the cargo had sustained at that time, the commissioner reports all of it as undamaged, except 800 bushels of wheat, and that he reports as damaged to the extent of $1 37 per bushel, its undamaged value having been $1 62 per bushel. As to the quantity of wheat dam­aged at the time, the only testimony on either side, which specifies any number of bushels as damaged, is that of Atkins, mas­ter and part owner of the canal-boat, and who was on her at the time of the disaster. He gives the data from which he makes out that 800 bushels only were -damaged, and no witness testifies that, from his data, his calculation was incorrect No error in his data is pointed out, to my satisfaction, and his calculation therefrom is not so mani­festly incorrect that the court can, without evidence, set it aside. I do not mean, by saying this, to suggest that it appears to be incorrect at all. I am' not satisfied, how­ever, that the 800 bushels of wheat are shown to have been worth anything at the time the boat was cast off. The weight of the evidence is that they were worth noth­ing. The sum of $200 must, therefore, be deducted from the report, and the damages must stand at $12,867 01, and the exceptions on both sides must, in all other respects, be overruled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="642" ORDERLABEL="640" TYPE="page">
+        <fptr FILEID="tiff_00321_1"/>
+        <fptr FILEID="jp2_00321_1"/>
+        <fptr FILEID="alto_00321_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_642.4" BETYPE="IDREF" FILEID="alto_00321_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="643" ORDERLABEL="641" TYPE="page">
+        <fptr FILEID="tiff_00322_0"/>
+        <fptr FILEID="jp2_00322_0"/>
+        <fptr FILEID="alto_00322_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_643.4" BETYPE="IDREF" FILEID="alto_00322_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-17" BETYPE="IDREF" FILEID="casebody_0323"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.21" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-16" BETYPE="IDREF" FILEID="casebody_0323"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.20" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-15" BETYPE="IDREF" FILEID="casebody_0323"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.19" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-14" BETYPE="IDREF" FILEID="casebody_0323"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.18" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-22" BETYPE="IDREF" FILEID="casebody_0323"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.28" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b643-3" BETYPE="IDREF" FILEID="casebody_0323"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_643.5" BETYPE="IDREF" FILEID="alto_00322_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b643-4" BETYPE="IDREF" FILEID="casebody_0323"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_643.6" BETYPE="IDREF" FILEID="alto_00322_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJR" BETYPE="IDREF" FILEID="casebody_0323"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_643.8" BETYPE="IDREF" FILEID="alto_00322_0"/>
+            <area BEGIN="BL_643.9" BETYPE="IDREF" FILEID="alto_00322_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b643-7" BETYPE="IDREF" FILEID="casebody_0323"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_643.11" BETYPE="IDREF" FILEID="alto_00322_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AN_" BETYPE="IDREF" FILEID="casebody_0323"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.22" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b642-21" BETYPE="IDREF" FILEID="casebody_0323"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_642.27" BETYPE="IDREF" FILEID="alto_00321_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b643-5" BETYPE="IDREF" FILEID="casebody_0323"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_643.7" BETYPE="IDREF" FILEID="alto_00322_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

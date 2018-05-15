@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0468" publicationstatus="published">
+          <court abbreviation="C.C.D. Ind." jurisdiction="United States">United States Circuit Court for the District of Indiana</court>
+          <name abbreviation="Jones v. Hays">JONES et al. v. HAYS</name>
+          <docketnumber>Case No. 7,467</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 978</citation>
+          <citation category="parallel" type="bluebook">4 McLean, 521</citation>
+          <decisiondate>1849-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00490_1" MIMETYPE="image/tiff" CHECKSUM="a508b94786d9ee617b55810e0b72bd98" CHECKSUMTYPE="MD5" SIZE="94356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00490_1.tif"/>
+      </file>
+      <file ID="tiff_00491_0" MIMETYPE="image/tiff" CHECKSUM="de8af2aeb8a32d91c75f30fa57e516ea" CHECKSUMTYPE="MD5" SIZE="108724">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00491_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00490_1" MIMETYPE="image/jp2" CHECKSUM="39f332191a89cb9ed4670bad9ea04894" CHECKSUMTYPE="MD5" SIZE="3445457">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00490_1.jp2"/>
+      </file>
+      <file ID="jp2_00491_0" MIMETYPE="image/jp2" CHECKSUM="e7fd74b05a934e1809395f024648deec" CHECKSUMTYPE="MD5" SIZE="3773432">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00491_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00490_1" MIMETYPE="text/xml" CHECKSUM="0e73b119c9f0df16d94fdaf1dc631727" CHECKSUMTYPE="MD5" SIZE="197048">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00490_1.xml"/>
+      </file>
+      <file ID="alto_00491_0" MIMETYPE="text/xml" CHECKSUM="06eeb9bfca76460c6e515d7afa8e09f5" CHECKSUMTYPE="MD5" SIZE="234251">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00491_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0468" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="979" firstpage="978">
+              <court pgmap="980" id="b980-11">Circuit Court, D. Indiana.</court>
+              <docketnumber pgmap="980" id="b980-8">Case No. 7,467.</docketnumber>
+              <citation pgmap="980" id="b980-10">[4 McLean, 521.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="980" id="b980-9">JONES et al. v. HAYS.</parties>
+              <decisiondate pgmap="980" id="As9">May Term, 1849.</decisiondate>
+              <attorneys pgmap="980" id="b980-17">Mr. Sullivan, for plaintiffs.</attorneys>
+              <attorneys pgmap="980" id="b980-18">Mr. Marshall, for defendant.</attorneys>
+              <footnote label="1">
+                <p pgmap="980" id="b980-20">1 [Reported by Hon. John McLean, Circuit Justice.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p pgmap="980(36) 981(75)" id="b980-19">OPINION OF THE COURT. This action is brought against defendant as the indorser of a promissory note to the plaintiffs [Jones and Hardy], given by William Stewart to the defendant, promising to pay Hays, or order, twelve hundred and nineteen dollars, eight months after date, which note, before it be­came due, the payee indorsed to the plaintiffs .and one Moses Stewart, since dead. At the maturity of the note, demand of payment was made and due notice of the non-payment given to the defendant. The plaintiffs in their declaration set out the substance of the act of Pennsylvania, where the note was given and assigned, showing that it was negotiable.</p>
+                <p pgmap="981" id="b981-3">In the defense, several pleas were filed, and among others, the fifth plea alleged that by the sixth section of the act of the general as­sembly of Pennsylvania, suit should be brought on the promissory note specified, within such time as is appointed, for com­mencing or suing actions upon the case by the act of 11th &amp; 12th of Anne, which re­quired suit to be brought in six years, and that he did not promise within that time. The sixth plea set up the same act. To these pleas the defendant demurred. It was not necessary to set out in the declaration or plea the statute of limitations of Pennsylvania. This may be necessary in the state courts, but the judges of the courts of the United States take notice, without pleading or proof of the laws of the respective states. The rule is well settled that the statute of limitations is the law of the forum; and of course, must be the statute of the state where the suit is brought.</p>
+                <p pgmap="981" id="b981-4">The fourth plea stated that the plaintiff and one Moses Atwood, in his life time, implead-­ed the maker of the note, William Stewart, by foreign attachment, under which the sheriff attached twenty-five tons of iron, the property of Stewart, when it was agreed by the plaintiffs and defendant Stewart, that twenty tons of iron, of the value of fourteen hundred dollars, should be receiv­ed in full satisfaction of the said debt, in­terest and costs, and the same was de­livered by said Stewart, and accepted by said plaintiffs, and their deceased partner, in full satisfaction and discharge of said debt, interest and costs, and wa&lt;&lt; so indorsed by said sheriff and made a part of his return and a part of the record of said cause in the cir­cuit court at Madison, in Indiana, and said cause was dismissed; which judgment of dis­missal and return of said sheriff and pro­ceedings remain of record, etc. To this plea the plaintiff replies that the foreign attach­ment mentioned in said plea and commenced by plaintiffs and said Atwood, against the .goods and chattels, etc., of the said Stewart, was commenced and carried on to its termina­tion in Jefferson county circuit court by said defendant, in the name of said plaintiffs, at the request of said defendant and for his in­demnification as indorser of said note and for his benefit, and was commenced and carried ■on by the permission of said plaintiffs at de­fendant’s request, for the purposes aforesaid, and for no other purposes whatever; and this they are ready to verify. To this replication the defendant demurs. The replication does not answer the plea, and is therefore bad. The plea alleges an accord and satisfaction to the plaintiffs; which the plaintiffs answer by saying the suit was carried on, etc., for the benefit of the defendant Hays, the indorser to the plaintiffs, and for his indemnity and for no other purpose. The truth of the plea af­forded the best possible indemnity of the de­fendant as indorser — the payment of the debt. The demurrer is, therefore, sustained.</p>
+                <p pgmap="981" id="b981-7">The seventh plea is to the third count in the declaration, that the defendant did not within six years next before the commencement of this suit, undertake and promise, etc. To this plea the plaintiffs reply that the said under­takings and promises of said defendant were made by the indorsement and delivery to said plaintiffs of the said promissory note and in the state of Pennsylvania, and that by the laws of that state the note was negotiable. That demand of payment on the note when due was made, protest and notice. To this replication the defendant demurred. If the note be negotiable in Indiana, the statute of limitations does not run against it, such pa­per being excepted by the statute. But the statute could only begin to run against the plaintiffs from the time of demand, and no­tice. Prior to that the defendant was not lia­ble to be called on or prosecuted for the •amount of the note. As before remarked, the statute of Indiana must govern and not the statute of Pennsylvania. The replication is no answer to the plea of the statute. A resi­dence out of the United States is an exception in the statute, but not a residence in any other state of the Union. The plaintiffs must take issue on the plea or set up a new promise. The demurrer is sustained. Leave being given to amend the pleadings, etc., the par­ties put the cause before the jury on the mer­its. And it appearing from the statement of Mr. Stevens and the memorandum in writing, that the iron, on the discontinuance of the attachment, Mr. Stevens being of counsel in that case, was not received in payment, but that it was agreed to be sent to St Louis, to a house named by the plaintiffs, and sold, and the proceeds applied to the payment of the note the iron was so forwarded, but the article fell in the market, and the proceeds of the sale were less than was anticipated.</p>
+                <p pgmap="981" id="b981-8">THE COURT instructed the jury that the house in St. Louis, being selected by the plain­tiffs, was thereby constituted their agent for the sale of the iron, and that a sale being made would entitle the defendant to a credit on the note. The jury found for the plaintiffs, on which verdict Judgment was entered.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="980" ORDERLABEL="978" TYPE="page">
+        <fptr FILEID="tiff_00490_1"/>
+        <fptr FILEID="jp2_00490_1"/>
+        <fptr FILEID="alto_00490_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_980.4" BETYPE="IDREF" FILEID="alto_00490_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="981" ORDERLABEL="979" TYPE="page">
+        <fptr FILEID="tiff_00491_0"/>
+        <fptr FILEID="jp2_00491_0"/>
+        <fptr FILEID="alto_00491_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_981.3" BETYPE="IDREF" FILEID="alto_00491_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b981-7" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_981.8" BETYPE="IDREF" FILEID="alto_00491_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b981-3" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_981.4" BETYPE="IDREF" FILEID="alto_00491_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b981-4" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_981.5" BETYPE="IDREF" FILEID="alto_00491_0"/>
+            <area BEGIN="BL_981.6" BETYPE="IDREF" FILEID="alto_00491_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b980-20" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_980.23" BETYPE="IDREF" FILEID="alto_00490_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b981-8" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_981.9" BETYPE="IDREF" FILEID="alto_00491_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="As9" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_980.14" BETYPE="IDREF" FILEID="alto_00490_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b980-17" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_980.20" BETYPE="IDREF" FILEID="alto_00490_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b980-10" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_980.12" BETYPE="IDREF" FILEID="alto_00490_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b980-11" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_980.13" BETYPE="IDREF" FILEID="alto_00490_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b980-8" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_980.10" BETYPE="IDREF" FILEID="alto_00490_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b980-9" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_980.11" BETYPE="IDREF" FILEID="alto_00490_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b980-18" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_980.21" BETYPE="IDREF" FILEID="alto_00490_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b980-19" BETYPE="IDREF" FILEID="casebody_0468"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_980.22" BETYPE="IDREF" FILEID="alto_00490_1"/>
+            <area BEGIN="BL_981.1" BETYPE="IDREF" FILEID="alto_00491_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

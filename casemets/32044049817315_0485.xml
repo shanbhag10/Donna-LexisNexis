@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0485" publicationstatus="published">
+          <court abbreviation="C.C.D. Ind." jurisdiction="United States">United States Circuit Court for the District of Indiana</court>
+          <name abbreviation="Jones v. Newsom">JONES et al. v. NEWSOM et al.</name>
+          <docketnumber>Case No. 7,484</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 996</citation>
+          <citation category="parallel" type="bluebook">7 Biss. 321</citation>
+          <decisiondate>1876-12</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00499_1" MIMETYPE="image/tiff" CHECKSUM="28ee2b97ddec6359f080fe7e9b13fcff" CHECKSUMTYPE="MD5" SIZE="49356">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00499_1.tif"/>
+      </file>
+      <file ID="tiff_00500_0" MIMETYPE="image/tiff" CHECKSUM="ca0c9ddb101997a32185387a8fa84f3f" CHECKSUMTYPE="MD5" SIZE="84418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00500_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00499_1" MIMETYPE="image/jp2" CHECKSUM="4ad76e4a2657d92d918b383f8fe1b743" CHECKSUMTYPE="MD5" SIZE="2283052">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00499_1.jp2"/>
+      </file>
+      <file ID="jp2_00500_0" MIMETYPE="image/jp2" CHECKSUM="2067b93030ae65fe8d046fe5601faba4" CHECKSUMTYPE="MD5" SIZE="3240159">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00500_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00499_1" MIMETYPE="text/xml" CHECKSUM="75f2233b8e1b208d1773ea9eb418eded" CHECKSUMTYPE="MD5" SIZE="98277">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00499_1.xml"/>
+      </file>
+      <file ID="alto_00500_0" MIMETYPE="text/xml" CHECKSUM="20814758efad079684e93791c2ae129e" CHECKSUMTYPE="MD5" SIZE="185281">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00500_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0485" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="997" firstpage="996">
+              <court pgmap="998" id="b998-11">Circuit Court, D. Indiana.</court>
+              <docketnumber pgmap="998" id="b998-8">Case No. 7,484.</docketnumber>
+              <citation pgmap="998" id="b998-10">[7 Biss. 321.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="998" id="b998-9">JONES et al. v. NEWSOM et al.</parties>
+              <decisiondate pgmap="998" id="AWCY">Dec., 1876.</decisiondate>
+              <attorneys pgmap="998" id="b998-18">Baker, Hord &amp; Hendricks and Herod &amp; Winter, for complainants.</attorneys>
+              <attorneys pgmap="998" id="b998-19">H. W. Harrington and McDonald &amp; Butler, for intervening creditors.</attorneys>
+              <footnote label="1">
+                <p pgmap="998" id="b998-16">1 [Reported by Josinh H. Bissell, Esq., and bore reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="998" id="b998-20">GRESHAM, District Judge.</author>
+                <p pgmap="998" id="AR8i">William Mc-­Ewen took the assets in question, clothed with a trust. In equity they belonged to the creditors of McEwen &amp; Jones. William McEwen was the trustee of these creditors, and upon a proper application a court of equity would have compelled him to ac­count to them for the trust property. The individual creditors of a surviving partner who has possession of the firm assets have no claim on those assets as against the firm creditors.</p>
+                <p pgmap="998" id="b998-21">The fact that the creditors of McEwen &amp; Jones failed to assert their right to these assets from the time of the virtual dissolu­tion of that firm in March, 1870, until the bankruptcy of McEwen &amp; Sons in Septem­ber, 1871, cannot be said to amount to laches on their part. There is nothing in the evi­dence showing that McEwen &amp; Sons ever paid a cent for these assets or claimed any title to them.</p>
+                <p pgmap="998(12) 999(93)" id="b998-22">The adjudication of bankruptcy against William McEwen &amp; Sons operated upou the firm and the individual members of it, and transferred into the hands of the law their individual and partnership) assets to be dis­tributed to their individual and partnership creditors. Jones was not a party to that adjudication. As already stated, the assets of McEwen &amp; Jones passed into the hands of McEwen, charged with the payment of the debts of that firm. A portion of those assets reached the hands of McEwen’s as­signees in bankruptcy. That portion is per­fectly identified, and the assignees have kept a distinct account of it.</p>
+                <p pgmap="999" id="b999-3">The assignees of William McEwen or of McEwen &amp; Sons acquired no title under the deed of assignment to the assets which thus found their way into their possession. Amsinck v. Bean, 22 Wall. [89 U. S.] 395; Holland v. Fuller, 13 Ind. 195. Part of the debts of McEwen &amp; Jones are still unpaid, and those unpaid creditors, or Jones as sur­viving partner, in their behalf, have a right to the assets in controversy. Exceptions overruled.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="998" ORDERLABEL="996" TYPE="page">
+        <fptr FILEID="tiff_00499_1"/>
+        <fptr FILEID="jp2_00499_1"/>
+        <fptr FILEID="alto_00499_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_998.4" BETYPE="IDREF" FILEID="alto_00499_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="999" ORDERLABEL="997" TYPE="page">
+        <fptr FILEID="tiff_00500_0"/>
+        <fptr FILEID="jp2_00500_0"/>
+        <fptr FILEID="alto_00500_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_999.4" BETYPE="IDREF" FILEID="alto_00500_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b998-11" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_998.14" BETYPE="IDREF" FILEID="alto_00499_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b998-10" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_998.13" BETYPE="IDREF" FILEID="alto_00499_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b998-20" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_998.23" BETYPE="IDREF" FILEID="alto_00499_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b998-22" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_998.27" BETYPE="IDREF" FILEID="alto_00499_1"/>
+            <area BEGIN="BL_999.2" BETYPE="IDREF" FILEID="alto_00500_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b998-16" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_998.20" BETYPE="IDREF" FILEID="alto_00499_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b998-19" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_998.22" BETYPE="IDREF" FILEID="alto_00499_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b998-18" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_998.21" BETYPE="IDREF" FILEID="alto_00499_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b998-9" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_998.12" BETYPE="IDREF" FILEID="alto_00499_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b998-8" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_998.11" BETYPE="IDREF" FILEID="alto_00499_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AR8i" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_998.24" BETYPE="IDREF" FILEID="alto_00499_1"/>
+            <area BEGIN="BL_998.25" BETYPE="IDREF" FILEID="alto_00499_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b999-3" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_999.5" BETYPE="IDREF" FILEID="alto_00500_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AWCY" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_998.15" BETYPE="IDREF" FILEID="alto_00499_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b998-21" BETYPE="IDREF" FILEID="casebody_0485"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_998.26" BETYPE="IDREF" FILEID="alto_00499_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

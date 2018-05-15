@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0588" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="Ex parte Faxon">Ex parte FAXON. In re LAURIE et al.</name>
+          <docketnumber>Case No. 4,704</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1109</citation>
+          <citation category="parallel" type="bluebook">1 Lowell 404; 4 N. B. R. 32</citation>
+          <decisiondate>1869</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00556_0" MIMETYPE="image/tiff" CHECKSUM="f8a1d28c0e8dd4dc9a3439c7feaeacdc" CHECKSUMTYPE="MD5" SIZE="63100">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00556_0.tif"/>
+      </file>
+      <file ID="tiff_00556_1" MIMETYPE="image/tiff" CHECKSUM="e0b2018e0f39100ac215ed53f955ab05" CHECKSUMTYPE="MD5" SIZE="72606">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00556_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00556_0" MIMETYPE="image/jp2" CHECKSUM="f484d6073e8c76023b8a7042686956eb" CHECKSUMTYPE="MD5" SIZE="2569852">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00556_0.jp2"/>
+      </file>
+      <file ID="jp2_00556_1" MIMETYPE="image/jp2" CHECKSUM="aec9f6e0b5a08ebcd7734baad3792633" CHECKSUMTYPE="MD5" SIZE="3015495">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00556_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00556_0" MIMETYPE="text/xml" CHECKSUM="2fabd8b9e66da83fcb0e7da376eeb788" CHECKSUMTYPE="MD5" SIZE="122806">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00556_0.xml"/>
+      </file>
+      <file ID="alto_00556_1" MIMETYPE="text/xml" CHECKSUM="6fab5be333966eb2cdc4e6bb776496c5" CHECKSUMTYPE="MD5" SIZE="155471">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00556_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0588" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1110" firstpage="1109">
+              <court id="AFh2" pgmap="1111">District Court, D. Massachusetts.</court>
+              <docketnumber id="b1111-11" pgmap="1111">Case No. 4,704.</docketnumber>
+              <citation id="b1111-14" pgmap="1111">[1 Lowell 404;<footnotemark>1</footnotemark> 4 N. B. R. 32 (Quarto, 7).]</citation>
+              <parties id="b1111-12" pgmap="1111">Ex parte FAXON. In re LAURIE et al.</parties>
+              <decisiondate id="A6r5" pgmap="1111">1869.</decisiondate>
+              <attorneys id="b1111-20" pgmap="1111">E. Avery &amp; G. M. Hobbs, for petitioners.</attorneys>
+              <attorneys id="b1111-21" pgmap="1111">B. F. Brooks, for assignees.</attorneys>
+              <footnote label="1">
+                <p id="b1111-23" pgmap="1111">1 [Reported by Hon. John Lowell, LL. D., District Judge, and here reprinted by permis­sion.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1111-22" pgmap="1111">LOWELL, District Judge.</author>
+                <p id="AvkT" pgmap="1111(18) 1112(195)">An assignee in bankruptcy, unless restrained by the terms of the lease itself, may adopt or reject a term, as he finds most beneficial for the creditors, .and may take a reasonable time to decide the question. If he takes the lease he makes himself liable, on behalf of the estate, for the rent, including at least that of the current quarter, and this; he must consider in determining whether to adopt the lease. The petitioners would have done more wisely, perhaps, to insist on this at the time, but I see no ground for saying they have waived any of their rights. In theory of law, the assignees have been in possession ever since the petition was filed, and not only from the date of the adjudica­tion, which is merely a finding that the pe­tition is well founded. If the quarter-day had come round pending the petition, the bankrupt would have been authorized, if he found it necessary for the. best interests of his creditors, to pay the rent in order to save an ejectment. I have more than once permitted this to be done. And the assign­ees, by the course they have taken, affirm this to be a case in which such a course was prudent and proper.</p>
+                <p id="b1112-3" pgmap="1112">The only reported case which I have seen is very short, and gives no reasons or argu­ments, but the decision agrees with my opin­ion. There , the assignees were required to pay rent from the date of the petition. In re Merrifield [Case No. 9,465]. I do not know that any question was raised in that case, to distinguish the date of the petition from that of the adjudication; but if an as-­signee is to pay only for his own occupancy, he must be charged from the date of the assignment. There is no argument which will make him liable from the adjudication that does not apply to the date of the peti­tion, which is the true beginning of the pro­ceedings, and the controlling date in all these matters. Petition granted.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1111" ORDERLABEL="1109" TYPE="page">
+        <fptr FILEID="tiff_00556_0"/>
+        <fptr FILEID="jp2_00556_0"/>
+        <fptr FILEID="alto_00556_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1111.3" BETYPE="IDREF" FILEID="alto_00556_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1112" ORDERLABEL="1110" TYPE="page">
+        <fptr FILEID="tiff_00556_1"/>
+        <fptr FILEID="jp2_00556_1"/>
+        <fptr FILEID="alto_00556_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1112.4" BETYPE="IDREF" FILEID="alto_00556_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-14" BETYPE="IDREF" FILEID="casebody_0588"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.18" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-12" BETYPE="IDREF" FILEID="casebody_0588"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.16" BETYPE="IDREF" FILEID="alto_00556_0"/>
+            <area BEGIN="BL_1111.17" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-11" BETYPE="IDREF" FILEID="casebody_0588"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.15" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1112-3" BETYPE="IDREF" FILEID="casebody_0588"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1112.5" BETYPE="IDREF" FILEID="alto_00556_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-22" BETYPE="IDREF" FILEID="casebody_0588"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.29" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFh2" BETYPE="IDREF" FILEID="casebody_0588"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.19" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-23" BETYPE="IDREF" FILEID="casebody_0588"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.32" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-21" BETYPE="IDREF" FILEID="casebody_0588"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.28" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AvkT" BETYPE="IDREF" FILEID="casebody_0588"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.30" BETYPE="IDREF" FILEID="alto_00556_0"/>
+            <area BEGIN="BL_1111.31" BETYPE="IDREF" FILEID="alto_00556_0"/>
+            <area BEGIN="BL_1112.1" BETYPE="IDREF" FILEID="alto_00556_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1111-20" BETYPE="IDREF" FILEID="casebody_0588"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.27" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6r5" BETYPE="IDREF" FILEID="casebody_0588"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1111.20" BETYPE="IDREF" FILEID="alto_00556_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

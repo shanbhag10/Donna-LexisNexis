@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0476" publicationstatus="published">
+          <court abbreviation="S.D. Miss." jurisdiction="United States">United States District Court for the Southern District of Mississippi</court>
+          <name abbreviation="Jones v. Leach">JONES v. LEACH et al.</name>
+          <docketnumber>Case No. 7,475</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 987</citation>
+          <citation category="parallel" type="bluebook">1 N. B. R. 595</citation>
+          <decisiondate>1868</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00495_0" MIMETYPE="image/tiff" CHECKSUM="bb2da9d8f2cb94e0fba5583f3810a949" CHECKSUMTYPE="MD5" SIZE="88102">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00495_0.tif"/>
+      </file>
+      <file ID="tiff_00495_1" MIMETYPE="image/tiff" CHECKSUM="57491633f6a41e04c23b3deb34d2fa07" CHECKSUMTYPE="MD5" SIZE="95100">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00495_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00495_0" MIMETYPE="image/jp2" CHECKSUM="dd62312c761805ea3a9ccf374221e365" CHECKSUMTYPE="MD5" SIZE="3362133">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00495_0.jp2"/>
+      </file>
+      <file ID="jp2_00495_1" MIMETYPE="image/jp2" CHECKSUM="56c61d4d9d06c373b32d9c4010927529" CHECKSUMTYPE="MD5" SIZE="3539580">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00495_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00495_0" MIMETYPE="text/xml" CHECKSUM="d3d35e21aed7cc674d87061dc920b198" CHECKSUMTYPE="MD5" SIZE="191162">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00495_0.xml"/>
+      </file>
+      <file ID="alto_00495_1" MIMETYPE="text/xml" CHECKSUM="9000242f43312ccd2650ab86bce33d6a" CHECKSUMTYPE="MD5" SIZE="203305">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00495_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0476" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="988" firstpage="987">
+              <court pgmap="989" id="AXc">District Court, S. D. Mississippi.</court>
+              <docketnumber pgmap="989" id="b989-11">Case No. 7,475.</docketnumber>
+              <citation pgmap="989" id="b989-13">[1 N. B. R. 595 (Quarto. 165).] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="989" id="b989-12">JONES v. LEACH et al.</parties>
+              <decisiondate pgmap="989" id="ACBu">1868.</decisiondate>
+              <attorneys pgmap="989" id="b989-20">Shannon &amp; Gallagher, for complainant.</attorneys>
+              <attorneys pgmap="989" id="b989-21">S. A. D. Steele, for defendants.</attorneys>
+              <footnote label="1">
+                <p pgmap="989" id="b989-15">1 [Reprinted by permission.)</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="989" id="b989-22">HILL, District Judge.</author>
+                <p pgmap="989" id="AaRv">The questions in this case arise upon the demurrer of defend­ants to the bill of complainant. The bill alleges that complainant, on the 30th of March. 1868, filed his petition in this court to be adjudged a bankrupt, and that in a short time after-­wards the defendant, Eakens, sheriff of Laud-­erdale county, was about to seize the property surrendered, for the payment of taxes, and the satisfaction of sundry executions then in his hands as sheriff, and would proceed to sell the same, unless restrained by the injunction of the court; that in his opinion the amount of taxes claimed were more than he was lia­ble to pay, and prays that the sheriff be re­strained from interfering with said property, and that the estate of complainant be disposed of as directed by the bankrupt act [of 1867 (14 Stat 517)]. The defendants, by their de­murrer, admit these statements to be true, but insist that the taxes due, and the judg­ments heretofore rendered, and the executions in the hands of the sheriff, constitute a lien upon the estate of complainant, and that this court has no power to interfere with the same.</p>
+                <p pgmap="989(184) 990(31)" id="b989-23">Two questions are presented: First. Has the complainant, (there not having been time for the appointment of an assignee) the right to file this bill, or interfere on behalf of the general creditors? By the act, the bankrupt is required to render all needful aid to pre­serve and collect the estate for the benefit of the creditors. By a general rule adopted by this court, the petitioner is made the custodian of the property surrendered, until an assignee shall have been appointed, and he is held amenable to the court for any negligence in relation thereto. .It is impossible, under the rules and orders of this court, that an as-­signee, other than a provisional one, can be appointed in less than about fifteen days after the filing of the petition, and frequently a much longer time elapses before an appoint­ment is made. Creditors may be absent, and know nothing of the condition of the property; therefore the petitioner is not only authorized, but it is his duty to apply for such remedy as may be necessary to protect the estate. Be­sides, he lias an interest in it; lie may not ob­tain a discharge; in that event the property becomes his, subject to such liability as may have attached to it.</p>
+                <p pgmap="990" id="b990-4">The next question is, did the sheriff, after the commencement of proceedings in bank­ruptcy, have a right to seize the property of the complainant surrendered, sell it, and ap­ply the proceeds to the payment of the taxes and executions in his hands? AVe are not in­formed by the bill whether the judgments were enrolled, or not, or whether the execu­tions were in the hands of the sheriff before the commencement of the proceedings in bankruptcy; upon the existence of one or other of these facts, a lien on any property for satisfaction would depend; but admitting that one or both did exist, the question re­mains, whether or not the sheriff had a right to make the seizure after the proceedings in bankruptcy had commenced. In the case of Pennington v. Lowenstein [Case No. 10,038], decided at Oxford a short time since, the court held that, when the levy was made be­fore the commencement of bankruptcy pro­ceedings, the possession and legal title being in the sheriff for the purpose of satisfying the process in his hands, lie, as trustee, might go on and sell the property, unless enjoined from so doing. In such cases an injunction would not be granted, without a statement showing that a sale under such circumstan­ces would be injurious to the general cred­itors, or to some one having a prior lien. When a levy has not been made before bank­ruptcy, no title to any specific property passes out of the bankrupt; only a general lien re­mained, which was liable to be defeated, and could only be rendered available by the aid of the court. The title to the property is held in abeyance by the proceedings in bank­ruptcy, and so soon as the assignee is appoint­ed, it vests in him from the filing of the pe­tition. The title, however, passes to him, sub­ject to any lien, or incumbrance, which may then be upon it, which lien in such case can only be enforced through the agency of the bankrupt court.</p>
+                <p pgmap="990" id="b990-5">Section 20 of the bankrupt act provides that “when a creditor has a mortgage or pledge of real or personal property of the bankrupt, or a lien thereon for securing the payment of a debt owing to him from the bankrupt, he shall be admitted as a creditor only for the balance of the debt, after deducting the value of such property, to be ascertained by agree­ment between him and the assignee, or by a sale thereof, to be made in such manner as the court shall direct.” This clearly gives the court jurisdiction of the subject matter, es­pecially when taken in connection with the first and twenty-fifth sections. The first sec­tion confers full and ample powers on this court over the bankrupt, his estate, and all persons and questions connected therewith, providing for the presentation and enforce­ment of the rights of all parties as they ex­isted at the date of the bankruptcy; the ob­ject being to adjust and enforce all their con­flicting interests in as summary and as short a time as may be. This power is absolutely necessary to attain the object of the law, as, between the creditors, none can complain so long as his interests are protected. The pow­er of congress to establish “a uniform system of bankruptcy” throughout the United States, and. as a necessary consequence, all the juris­diction and power to accomplish its object and purpose, is expressly granted by the con­stitution. It is difficult to conceive any mo­tive in this court to assume jurisdiction under this law which does not belong to it, and is not necessary to the proper administration of the law, but it would be unfaithful to refuse the exercise of constitutional and necessary powers merely because it draws with it a heavy amount of labor. The bill not showing on its face that a lien had attached in favor of these judgment creditors when the petition was filed, the demurrer would, for this rea­son, be overruled; but on the supposition that such lien did exist, either by the enrolment of the judgment or the executions being in the hands of the sheriff, it does not appear from the bill that they had been levied at the time complainant filed his petition in bankruptcy. The commencement of proceed­ings in bankruptcy transferred to this court the jurisdiction over the bankrupt, his estate, and all parties and questions connected there­with, and operated as a supersedeas of the process in- the hands of the sheriff, and an injunction against all other proceedings than such as might thereupon be had under the au­thority of this court, until the question- of bankruptcy shall have been<footnotemark>1</footnotemark> disposed of. Such being the case, the demurrer will be overruled, and the defendants allowed fifteen days in which to answer.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="989" ORDERLABEL="987" TYPE="page">
+        <fptr FILEID="tiff_00495_0"/>
+        <fptr FILEID="jp2_00495_0"/>
+        <fptr FILEID="alto_00495_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_989.11" BETYPE="IDREF" FILEID="alto_00495_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="990" ORDERLABEL="988" TYPE="page">
+        <fptr FILEID="tiff_00495_1"/>
+        <fptr FILEID="jp2_00495_1"/>
+        <fptr FILEID="alto_00495_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_990.4" BETYPE="IDREF" FILEID="alto_00495_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AaRv" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.28" BETYPE="IDREF" FILEID="alto_00495_0"/>
+            <area BEGIN="BL_989.29" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-15" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.21" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-13" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.15" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-12" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.14" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-11" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.13" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b990-4" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_990.5" BETYPE="IDREF" FILEID="alto_00495_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b990-5" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_990.6" BETYPE="IDREF" FILEID="alto_00495_1"/>
+            <area BEGIN="BL_990.7" BETYPE="IDREF" FILEID="alto_00495_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-21" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.26" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-23" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.30" BETYPE="IDREF" FILEID="alto_00495_0"/>
+            <area BEGIN="BL_990.1" BETYPE="IDREF" FILEID="alto_00495_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-20" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.25" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACBu" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.17" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b989-22" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.27" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AXc" BETYPE="IDREF" FILEID="casebody_0476"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_989.16" BETYPE="IDREF" FILEID="alto_00495_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

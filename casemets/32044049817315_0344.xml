@@ -1,0 +1,453 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0344" publicationstatus="published">
+          <court abbreviation="E.D.N.Y." jurisdiction="United States">United States District Court for the Eastern District of New York</court>
+          <name abbreviation="The John G. Paint">The JOHN G. PAINT</name>
+          <docketnumber>Case No. 7,346</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 678</citation>
+          <citation category="parallel" type="bluebook">2 Ben. 174</citation>
+          <decisiondate>1868-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:28Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00340_1" MIMETYPE="image/tiff" CHECKSUM="c62ff8323d8a644e11e9db0f3ff7b6bd" CHECKSUMTYPE="MD5" SIZE="94482">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00340_1.tif"/>
+      </file>
+      <file ID="tiff_00341_0" MIMETYPE="image/tiff" CHECKSUM="23345c1fbeb24b6fadd8c65fe3f4f648" CHECKSUMTYPE="MD5" SIZE="86440">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00341_0.tif"/>
+      </file>
+      <file ID="tiff_00341_1" MIMETYPE="image/tiff" CHECKSUM="d90661541aa4242cc4e563839220519b" CHECKSUMTYPE="MD5" SIZE="75662">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00341_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00340_1" MIMETYPE="image/jp2" CHECKSUM="0c3d44e74f8c6a555f2601a8e0e3f467" CHECKSUMTYPE="MD5" SIZE="3460631">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00340_1.jp2"/>
+      </file>
+      <file ID="jp2_00341_0" MIMETYPE="image/jp2" CHECKSUM="e19e72275871d5be06bb0d5817976163" CHECKSUMTYPE="MD5" SIZE="3191874">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00341_0.jp2"/>
+      </file>
+      <file ID="jp2_00341_1" MIMETYPE="image/jp2" CHECKSUM="a150ce874c0e36246bd6ba308b4bd3a7" CHECKSUMTYPE="MD5" SIZE="3021940">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00341_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00340_1" MIMETYPE="text/xml" CHECKSUM="9c7d870ff00ecf388d32929a7bbe634b" CHECKSUMTYPE="MD5" SIZE="197047">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00340_1.xml"/>
+      </file>
+      <file ID="alto_00341_0" MIMETYPE="text/xml" CHECKSUM="9c9bc9aecaf1838ed37fdd8aca2b5b35" CHECKSUMTYPE="MD5" SIZE="197124">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00341_0.xml"/>
+      </file>
+      <file ID="alto_00341_1" MIMETYPE="text/xml" CHECKSUM="e48b55547e441ffb9ce2517274bef752" CHECKSUMTYPE="MD5" SIZE="170177">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00341_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0344" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="680" firstpage="678">
+              <court pgmap="680" id="Aqqv">District Court, E. D. New York.</court>
+              <docketnumber pgmap="680" id="b680-9">Case No. 7,346.</docketnumber>
+              <citation pgmap="680" id="AxPl">[2 Ben. 174.) <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="680" id="AN8o">The JOHN G. PAINT.</parties>
+              <decisiondate pgmap="680" id="AIr">Feb., 1868.</decisiondate>
+              <attorneys pgmap="681" id="b681-10">Scudder &amp; Carter and D. D. Lord, for libel- , lants.</attorneys>
+              <attorneys pgmap="681" id="b681-11">Owen, Gray &amp; Owen, for claimants.</attorneys>
+              <footnote label="1">
+                <p pgmap="680" id="b680-15">1 [Reported by Robert D. Benedict, Esq.; and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="681" id="b681-12">BENEDICT, District Judge.</author>
+                <p pgmap="681" id="ALxV">The facts in this case, which can hardly be said to be in dispute, disclose a clear case of meritorious services rendered to a vessel disabled at sea by the loss of her rudder, consisting of lying by her, and from time to time towing her, for the space of six days.</p>
+                <p pgmap="681" id="b681-13">It is quite evident that it was, in a great degree, owing to the salvors that the bark was not abandoned at sea, and their efforts resulted in the safe arrival of the bark at her port of destination. The only circumstance at all detracting from the merit of the salv-­ors is, that after Absecom was made, and when the wind was fair, and both vessels might well have proceeded to New York, the bark was directed to cast off the hawser and come to anchor, which she did, and was thus compelled to pass a night in a position of some danger from passing vessels, and when, in case of a blow, she might have gone ashore. This circumstance was claimed to amount to an abandonment of the bark by the salvors, and it was insisted that all claim to salvage was forfeited thereby.</p>
+                <p pgmap="681" id="b681-14">Upon a careful consideration of the evi­dence, I am satisfied that there was no inten­tion on the part of the salvors of abandoning the bark, but, on the contrary, that they di­rected her to anchor with the intention of standing by her during the night, and taking her into New York in the morning; and would have done so, had not the master of the bark in the morning, and with the brig in sight bearing down for him, hastened to em­ploy a tow-boat to take him in.</p>
+                <p pgmap="681" id="b681-16">Nevertheless, it was a mistake not to have proceeded during the night, instead of an-­chóring; occasioned, it would seem, by a doubt as to his precise locality on the part of the mate of the bark, upon whom the respon­sibility had then devolved, the master having been disabled by a broken leg. This mistake caused some additional peril to the bark dur­ing the night, which better seamanship on the part of the brig would have avoided. No harm resulted from the mistake beyond the delay; and yet it detracts from the merit of the salvors, as the position of the bark called upon the mate to make every effort to bring her into port without delay, and he could with diligence have satisfied himself as to his real locality, about which no doubt was en­tertained on board the bark, and could with­out danger have proceeded during the night.</p>
+                <p pgmap="681" id="b681-17">The same law which gives to the salvors a reward exceeding any value of the labor be­stowed, exacts of them all diligence, and is careful to mark any relaxation of that anx­ious solicitude for the safety of a vessel in distress, the encouragement of which is the object of all salvage rewards.</p>
+                <p pgmap="681" id="b681-18">All the other circumstances of the case fa­vor a liberal reward to the salvors. They fell in with the brig in mid-ocean, themselves bound to Boston, the brig to New York. She was in distress, and at the captain’s request the salvors took on board their vessel from' the bark the captain’s wife, three children, a servant girl, and a sick man, and agreed to stand by her and assist her into port. Had they refused their services, the master of the bark, as he was situated, would doubtless have concluded that he would be justified in abandoning his vessel.</p>
+                <p pgmap="681" id="b681-19">During the six days following the salvors kept by the bark, part of the time towing her. and at times not wholly without danger. In the performance of this service, two haw­sers belonging to the brig were lost, as was also her anchor, and her master had his leg and two oí his fingers broken by the towing hawser — a circumstance "which, while it in­creased the responsibility of the' mate, in case of bad weather or accident, would have great­ly increased the risk of the brig and her car­go. In addition to the loss of anchor and hawser, the brig was put to the expense of insurance from New York to Boston. No oth­er loss was sustained by the brig. During most of the time the wind was fair and the weather fine. The value of the bark and her cargo, not including the duties upon her car­go. appears to have been between $70,000 and $S0,000. No tender of any sum as salvage was made, but a valid claim to the extent of $3,000 was conceded, upon the argument by the claimant of the bark.</p>
+                <p pgmap="681(21) 682(51)" id="b681-20">The libellants claim twenty-five per cent. Upon considering all the circumstances, I shall award twenty per cent, of the net value of the bark, eargo, and freight, less $3,500, deducted by reason of the failure to proceed when off Abseeom. Let a reference be had to ascertain the value of the bark, cargo, and freight, and the question of apportioning the salvage among the salvors await the coming in of the report.</p>
+                <p pgmap="682" id="b682-4">The amount of the salvage having been fixed at $8.954.06, the court, in appropriating it, rendered the following opinion:</p>
+                <p pgmap="682" id="b682-5">BENEDICT, District Judge. In disposing of the question of apportionment, I think it necessary only to say that in fixing the amount to be awarded to the owners of the salving ship. I have considered them entitled .•to a liberal share, from the circumstance that the hazard to their vessel was increased by the injury which the master sustained in ef­fecting the salvage, substantially disabling him, and leaving their vessel under the com­mand of a mate.</p>
+                <p pgmap="682" id="b682-6">To the master I have also awarded a liberal portion from the fact that he had a leg and two fingers broken in effecting ’ the salvage, which confined him to the hospital for a con­siderable period, and from which he has not yet entirely recovered.</p>
+                <p pgmap="682" id="b682-7">The chief-mate was by reason of the injury to the master compelled to assume an in­creased responsibility, which he is entitled to have considered in determining his portion; but I award him less than I should have oth­erwise done, because of his mistake in direct­ing the distressed vessel to anchor in a dan­gerous place, instead of proceeding with her at once into port — -which mistake entailed a considerable expense, and would not. in my opinion, have occurred, had the mate been more solicitous for the safety of the dis­tressed vessel.</p>
+                <p pgmap="682" id="b682-8">The salvage will be accordingly apportioned as follows: Out of the gross salvage, let the costs be paid, and to the owners of the salv­ing vessel the sum shown to have been ex­pended by them, or necessarily disbursed by reason of the salvage service — to wit, the sum of $1,597.97. Let the net salvage remaining be divided equally, and one-half, to wit, the sum of $3,604.25. be paid to the owners as their portion of the salvage. Let one-half the remainder, to wit, the sum of $1.802.12, be paid to the master of the salving vessel. Out of the balance remaining, let the mate and second mate have an equal portion, to wit, $375 each. And let the remainder, to wit. $1,052. be divided equally among the seamen of the salving vessel.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="680" ORDERLABEL="678" TYPE="page">
+        <fptr FILEID="tiff_00340_1"/>
+        <fptr FILEID="jp2_00340_1"/>
+        <fptr FILEID="alto_00340_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_680.4" BETYPE="IDREF" FILEID="alto_00340_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="681" ORDERLABEL="679" TYPE="page">
+        <fptr FILEID="tiff_00341_0"/>
+        <fptr FILEID="jp2_00341_0"/>
+        <fptr FILEID="alto_00341_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_681.3" BETYPE="IDREF" FILEID="alto_00341_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="682" ORDERLABEL="680" TYPE="page">
+        <fptr FILEID="tiff_00341_1"/>
+        <fptr FILEID="jp2_00341_1"/>
+        <fptr FILEID="alto_00341_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_682.4" BETYPE="IDREF" FILEID="alto_00341_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-12" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.13" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b682-8" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_682.9" BETYPE="IDREF" FILEID="alto_00341_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aqqv" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_680.14" BETYPE="IDREF" FILEID="alto_00340_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b680-9" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_680.11" BETYPE="IDREF" FILEID="alto_00340_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-17" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.20" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIr" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_680.15" BETYPE="IDREF" FILEID="alto_00340_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b682-5" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_682.6" BETYPE="IDREF" FILEID="alto_00341_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b682-4" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_682.5" BETYPE="IDREF" FILEID="alto_00341_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b682-7" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_682.8" BETYPE="IDREF" FILEID="alto_00341_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-13" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.16" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b680-15" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_680.18" BETYPE="IDREF" FILEID="alto_00340_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-10" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.11" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-11" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.12" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-16" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.19" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-14" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.17" BETYPE="IDREF" FILEID="alto_00341_0"/>
+            <area BEGIN="BL_681.18" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b682-6" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_682.7" BETYPE="IDREF" FILEID="alto_00341_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AxPl" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_680.13" BETYPE="IDREF" FILEID="alto_00340_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-18" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.21" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-19" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.22" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AN8o" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_680.12" BETYPE="IDREF" FILEID="alto_00340_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b681-20" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.23" BETYPE="IDREF" FILEID="alto_00341_0"/>
+            <area BEGIN="BL_682.1" BETYPE="IDREF" FILEID="alto_00341_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ALxV" BETYPE="IDREF" FILEID="casebody_0344"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_681.14" BETYPE="IDREF" FILEID="alto_00341_0"/>
+            <area BEGIN="BL_681.15" BETYPE="IDREF" FILEID="alto_00341_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

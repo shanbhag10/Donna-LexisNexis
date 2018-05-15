@@ -1,0 +1,354 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0013" publicationstatus="published">
+          <court abbreviation="C.C.D. Ind." jurisdiction="United States">United States Circuit Court for the District of Indiana</court>
+          <name abbreviation="Indiana v. Miller">INDIANA v. MILLER et al.</name>
+          <docketnumber>Case No. 7,022</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 25</citation>
+          <citation category="parallel" type="bluebook">3 McLean, 151</citation>
+          <decisiondate>1843-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:25Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00014_0" MIMETYPE="image/tiff" CHECKSUM="14b17642033922e80855b81b65946f73" CHECKSUMTYPE="MD5" SIZE="91062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00014_0.tif"/>
+      </file>
+      <file ID="tiff_00014_1" MIMETYPE="image/tiff" CHECKSUM="bea2d90652cb579ee20c45a4a13e17de" CHECKSUMTYPE="MD5" SIZE="112076">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00014_1.tif"/>
+      </file>
+      <file ID="tiff_00015_0" MIMETYPE="image/tiff" CHECKSUM="df6cc751505f6300ee48878fa3981136" CHECKSUMTYPE="MD5" SIZE="49306">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00015_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00014_0" MIMETYPE="image/jp2" CHECKSUM="3d52bd7553c7a38602133c5e85d7d00c" CHECKSUMTYPE="MD5" SIZE="3895120">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00014_0.jp2"/>
+      </file>
+      <file ID="jp2_00014_1" MIMETYPE="image/jp2" CHECKSUM="d05f719719e26c6e7546a98c1fae06e8" CHECKSUMTYPE="MD5" SIZE="3766655">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00014_1.jp2"/>
+      </file>
+      <file ID="jp2_00015_0" MIMETYPE="image/jp2" CHECKSUM="4a8259d337d12a0a03f27e984fc96c23" CHECKSUMTYPE="MD5" SIZE="2461025">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00015_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00014_0" MIMETYPE="text/xml" CHECKSUM="bab0d085838fc4e20216d3ce526b7392" CHECKSUMTYPE="MD5" SIZE="189452">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00014_0.xml"/>
+      </file>
+      <file ID="alto_00014_1" MIMETYPE="text/xml" CHECKSUM="3cb04badfe7ecf1fbc7807e124dadf74" CHECKSUMTYPE="MD5" SIZE="245899">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00014_1.xml"/>
+      </file>
+      <file ID="alto_00015_0" MIMETYPE="text/xml" CHECKSUM="ccb5c14604e2aae4ac44b625004f297e" CHECKSUMTYPE="MD5" SIZE="104505">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00015_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0013" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="27" firstpage="25">
+              <court pgmap="27" id="AT3">Circuit Court, D. Indiana.</court>
+              <docketnumber pgmap="27" id="b27-10">Case No. 7,022.</docketnumber>
+              <citation pgmap="27" id="AsY">[3 McLean, 151.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="27" id="AtY">INDIANA v. MILLER et al.</parties>
+              <decisiondate pgmap="27" id="ACj">May Term, 1843.</decisiondate>
+              <attorneys pgmap="27" id="b27-18">Mr. Stevens, for plaintiff.</attorneys>
+              <attorneys pgmap="27" id="b27-19">Air. Lane, for defendants.</attorneys>
+              <footnote label="1">
+                <p pgmap="27" id="b27-21">1 [Reported by Hon. John McLean, Circuit Justice.]</p>
+              </footnote>
+              <opinion type="majority">
+                <p pgmap="27(31) 28(142)" id="b27-20">OPINION OF THE COURT. This action is brought by the state of Indiana, to re­cover possession of a certain tract of land, which is claimed under certain acts of con­gress. The action -having been brought in the state court, has,' by consent, been trans­ferred to this court. The defendants hold the land under a patent, dated in 1S31. They claimed the. land under a pre-emp­tion right, by virtue of the act of the 29th May, 1830 |4 Stat. 420]. The facts of the case being agreed, the questions of law are submitted to the court. As the legal title is vested in the defendants, the plaintiff can only recover by showing that it holds a prior grant, or that the patent has been fraudu­lently obtained by defendants, or that it has been issued without the authority of law. The plaintiff contends that the tract in con­troversy contained a salt spring, and was conveyed to the state as such, long before the patent was issued to the defendants.</p>
+                <p pgmap="28" id="b28-3">In the 2d section of the act of the 18th May, 1796 [1 Stat. 465], it is provided, that “every surveyor shall note in his field book, the true situations of all mines, salt licks, salt springs, and mill seats, which shall come to his knowledge; all water courses over the line he runs shall pass, and also the quality of the lands.” This field book was required to be copied and transmitted to the officers, who may superintend the sales of the land. By the 6th section of the act of the 26th of March, 1804 [2 Stat. 279], it is de­clared that, “the several salt springs in the said territory, together with as many con­tiguous sections to each as shall be deemed necessary by the president of the United States, shall be reserved for the future dis­posal of the United States: and any grant which may hereafter be made for a tract of land, containing a salt spring, which had been discovered previous to the purchase of such tract from the United States, shall be considered as fraudulent and null.” By the act of the 29th February, 1808 [Id. 470], lands heretofore reserved were authorised to be sold, except section numbered sixteen, and the salt springs, and the lands reserved for the use of the same. Congress, by re­serving salt springs, could only have intend­ed to include those that were valuable, for the purpose of making salt. This is evident from the reservation of as many contiguous sections as the president should deem nec­essary. It seems that on the north-east quarter of section. 25, the tract in contro­versy, the surveyor indorsed, “there is an extraordinary salt spring, said to be supe­rior to any other in the territory.” Symmes, the register, swears that this land was al­ways reserved. Findlay states that it was reserved; that it was marked on the plat, “U. S.” The act of 24th February, 1815 [6 Stat. 150], authorises “Ferine to enter at private sale the north-east quarter of the above section; if, on inquiry, the register and receiver shall be satisfied that it does not contain any salt spring or springs, valu­able for the purpose of making salt.”</p>
+                <p pgmap="28" id="b28-4">By the act of the 19th of April, 1816 [3 Stat. 290], in the 6th section, it is provided, “that all salt springs within the said terri­tory of Indiana, and the lands reserved for the use of the same, together with such oth­er lands as may, by the president of the United States, be deemed necessary and proper for working the said salt springs, not exceeding in the whole, the quantity con­tained in thirty-six entire sections, shall be granted to the said state of Indiana for the use of the people of the said state, the same to be used under such terms, conditions and regulations, as the legislature of the said state shall direct: provided, the said legis­lature shall never sell nor lease the same for a longer period than ten years at any one time.” Under this legislative grant, the state claims the lands in controversy. But as this grant conveys, by a general descrip­tion, the state must show that the land claimed by it, comes within the description. It appears that the salt lick or spring in question, was found of no value for the manufacture of salt. After some few at­tempts to make salt, it was found that the water was not of sufficient strength to make it of any value for this purpose. It was re­sorted to by animals, which drank the wa­ter, and this created an impression that it was a valuable salt spring. A distinction is made between a “salt lick” and a “salt spring,” by defendants’ counsel, and it is in­sisted that the terms convey different mean­ings. That a lick is formed where salt wa­ter appears on the surface of the ground; but that a spring is a fountain of water. These terms seem to be used in the acts of congress, as synonymous. A “salt lick” is so called, in the Western country, from the fact that deer and other wild animals resort to it, and lick or drink the brackish water. And in this respect no distinction is per­ceived between a “lick,” as frequently used, and a “salt spring.”</p>
+                <p pgmap="28(187) 29(218)" id="b28-7">Although this salt lick or spring was noted by the surveyor, yet it was not entered as a reserve on the books of the general land office, or on the books of the register’s office in Cincinnati. And it appears, that in 1820. tile commissioner of the general land office instructed the register of the land office at Cincinnati, that the existing law authorised him to sell the land in .question at the next public sale. And by the act of the 12th of February, 1S31 [4 Stat. 441], the president of the United States was authorised to offer, at public sale, the three remaining quarters of section twenty-five, the other quarter sec­tion having been entered by Perine, under the act of 1S15, as above stated. On the-­10th of August, 1836. E. A. Brown, commis­sioner of the general land office, certified a list of the lands selected under the sixth sec­tion of the act of the J.9th of April, 1816, which, by that act, were granted to the state, as having been reserved from sale on account of salt springs. This list includes the quantity of thirty-sis sections, which was the limitation of the grant, and among them the tract in controversy was not includ­ed. Under a general law of the state of In­diana, in relation to lands on which salt springs were situated, a lease for the prem­ises in question was executed. But the les­see never entered into the possession. On the 3d of February, 1S32, a joint resolution of the legislature of Indiana was passed, in which facts, in relation to the land in contro­versy, were stated through misapprehension, and the governor was requested to corre­spond on the subject with the commissioner •of the general land office. The application of the legislature was rejected by congress. But on the 3d of July, 1832 [4 Stat. 55S], con­gress authorised the state to sell the lands granted to it by the act of 1816. This was done in pursuance of a memorial of the In­diana legislature, dated the 23d of January, 1829, in which they represented that a town­ship had been reserved for making salt, which had been conveyed to the state by the act of 1816, and that all attempts to make salt had proved abortive, and they prayed for an act to authorise the state to sell the lands, etc.</p>
+                <p pgmap="29" id="b29-4">From the foregoing facts and acts of con­gress, it clearly appears that the land in controversy never vested in the state. It was not entered as a reserve on the records at Washington, or at Cincinnati. The state received, under the act of 1S16, thirty-six eu-­tire sections, which were all it was entitled to under that act; and the land now claimed was not included in the above. The eommis-­sioner of the general land office certified that •the state had received all the lands within it, which had been reserved for salt springs. All of which land, it appears, under the act of congress, the state has sold. We are, therefore, clearly of opinion, that the sale of the land to the patentee was authorised by law, and, consequently, that the patent is valid. No ground is perceived, on which the claim of the state can be sustained. Judg­ment for the defendants.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="27" ORDERLABEL="25" TYPE="page">
+        <fptr FILEID="tiff_00014_0"/>
+        <fptr FILEID="jp2_00014_0"/>
+        <fptr FILEID="alto_00014_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_27.3" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="28" ORDERLABEL="26" TYPE="page">
+        <fptr FILEID="tiff_00014_1"/>
+        <fptr FILEID="jp2_00014_1"/>
+        <fptr FILEID="alto_00014_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_28.4" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="29" ORDERLABEL="27" TYPE="page">
+        <fptr FILEID="tiff_00015_0"/>
+        <fptr FILEID="jp2_00015_0"/>
+        <fptr FILEID="alto_00015_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_29.11" BETYPE="IDREF" FILEID="alto_00015_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-10" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.12" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-19" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.23" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-18" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.22" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AT3" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.15" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACj" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.16" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AsY" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.14" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-20" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.24" BETYPE="IDREF" FILEID="alto_00014_0"/>
+            <area BEGIN="BL_28.1" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b27-21" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.25" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AtY" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_27.13" BETYPE="IDREF" FILEID="alto_00014_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-7" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.8" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            <area BEGIN="BL_29.9" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.6" BETYPE="IDREF" FILEID="alto_00014_1"/>
+            <area BEGIN="BL_28.7" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b28-3" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_28.5" BETYPE="IDREF" FILEID="alto_00014_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b29-4" BETYPE="IDREF" FILEID="casebody_0013"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_29.13" BETYPE="IDREF" FILEID="alto_00015_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

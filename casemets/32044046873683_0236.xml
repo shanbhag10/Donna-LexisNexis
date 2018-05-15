@@ -1,0 +1,431 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0236" publicationstatus="published">
+          <court abbreviation="D. Mass." jurisdiction="United States">United States District Court for the District of Massachusetts</court>
+          <name abbreviation="The Eliza Jane">The ELIZA JANE</name>
+          <docketnumber>Case No. 4,363</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 488</citation>
+          <citation category="parallel" type="bluebook">1 Spr. 152</citation>
+          <decisiondate>1847-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00245_1" MIMETYPE="image/tiff" CHECKSUM="d977948eae6da0640777fcd2f2034e7e" CHECKSUMTYPE="MD5" SIZE="59172">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00245_1.tif"/>
+      </file>
+      <file ID="tiff_00246_0" MIMETYPE="image/tiff" CHECKSUM="12a6baac39fd3c8a6e16262f0fd7f400" CHECKSUMTYPE="MD5" SIZE="112202">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00246_0.tif"/>
+      </file>
+      <file ID="tiff_00246_1" MIMETYPE="image/tiff" CHECKSUM="c22f8319122e6cbfd8625355e2d2792e" CHECKSUMTYPE="MD5" SIZE="110598">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00246_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00245_1" MIMETYPE="image/jp2" CHECKSUM="7a357de813b39490749584eb8877f2a8" CHECKSUMTYPE="MD5" SIZE="2592886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00245_1.jp2"/>
+      </file>
+      <file ID="jp2_00246_0" MIMETYPE="image/jp2" CHECKSUM="d1e8e9ae2664268a8ae01ebca875eb13" CHECKSUMTYPE="MD5" SIZE="3814008">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00246_0.jp2"/>
+      </file>
+      <file ID="jp2_00246_1" MIMETYPE="image/jp2" CHECKSUM="2eae1665119bff78b7794d51541ce1fb" CHECKSUMTYPE="MD5" SIZE="3791875">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00246_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00245_1" MIMETYPE="text/xml" CHECKSUM="81e9fb07b1ee4722ed5cda9ca67e5319" CHECKSUMTYPE="MD5" SIZE="118631">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00245_1.xml"/>
+      </file>
+      <file ID="alto_00246_0" MIMETYPE="text/xml" CHECKSUM="1b09afa72ef524295b1d74dbc49f98c8" CHECKSUMTYPE="MD5" SIZE="234624">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00246_0.xml"/>
+      </file>
+      <file ID="alto_00246_1" MIMETYPE="text/xml" CHECKSUM="9522426f2081c4992a48115a89f1ee7f" CHECKSUMTYPE="MD5" SIZE="234308">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00246_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0236" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="490" firstpage="488">
+              <court id="b490-20" pgmap="490">District Court, D. Massachusetts.</court>
+              <docketnumber id="b490-17" pgmap="490">Case No. 4,363.</docketnumber>
+              <citation id="AlQf" pgmap="490">[1 Spr. 152.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b490-18" pgmap="490">The ELIZA JANE.</parties>
+              <decisiondate id="A054" pgmap="490">June, 1847.</decisiondate>
+              <attorneys id="b491-3" pgmap="491">L. H. Chandler and S. C. Maine, for li-­bellant.</attorneys>
+              <attorneys id="b491-4" pgmap="491">C. T. &amp; T. H. Russell, for claimant.</attorneys>
+              <footnote label="1">
+                <p id="b490-31" pgmap="490">1 [Reported by F. E. Parker, Esq., assisted by Charles Francis Adams, Jr., Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b491-5" pgmap="491">SPRAGUE, District Judge. •</author>
+                <p id="AhGj" pgmap="491">There are two •classes of supplies sued for, — those furnished in Boston, and those furnished at St John. And it is insisted, that no lien ever existed for either. I will first consider those fur­nished in Boston.</p>
+                <p id="b491-6" pgmap="491">The only ground upon which it is urged that no lien originally arose is, that the li-­bellant was consignee of the vessel. Is this sufficient to repel the lien which would other­wise attach? This was a foreign vessel, in need of repairs and supplies, to enable her to proceed on her voyage. The libellant fur­nished them at the request of the master, and was not paid therefor. These facts, by the general maritime law, were sufficient to create a lien; that is, a tacit hypothecation, following as a legal consequence of those facts. There need be no express stipulation for such hypothecation; credit must, indeed, be given to the vessel, but it need not be proved that there was any special agreement to that effect. Where such supplies are ob­tained, on credit, it is presumed that credit was given to the vessel, as well as the own­ers, unless there is something in the circum­stances of the case to repel such presump­tion. These resulting, or tacit, hypotheca-­tions, are founded upon justice and policy. It is consonant to natural equity, that one who has transferred property to another, up-­en a promise of payment therefor, should, as against the purchaser, hold security upon the property, until payment is made; tnat he should not be deemed to have relinquish­ed all claim to it, until he shall have re­ceived the consideration for which it was agreed to make the transfer. This is strict­ly true as to repairs, which are incorporated into, and enhance the value of, the vessel. The lien is necessarily upon the whole, but is limited, in amount, to that portion which has become a part of the vessel.</p>
+                <p id="b491-7" pgmap="491">It is consonant with the soundest princi­ples of policy that liens should be given, not only for repairs, but for all necessary sup­plies; and that such liens should tacitly, and by implication, result from the giving credit for such supplies. It is for the benefit of the furnisher, as it gives him better security. It is for the benefit of the owner of the ves­sel, as he makes his purchases upon better terms; for it is the known law of trade, the higher the security, the lower the price, or the better the conditions upon which credit is given. One of the inconveniences arising from giving a mortgage, or any instrument •of express hypothecation, is, that it may create suspicion of the owner’s pecuniary ■ability, or cast a shade upon his general cred­it. This is sometimes felt as a serious evil, and a seller often hesitates to demand ex­press security, although It would have a material influence upon his conditions of sale. These tacit and resulting liens, are subject to no such inconvenience; not being demanded by the creditor, but following only as a legal consequence of the credit, they in­dicate no distrust, and create no suspicion. These liens, so accruing, existed under the Roman law, and are recognized and enforced in the jurisprudence of our own country, and by that of every maritime nation, except­ing England; and there these liens, although highly just and salutary, have been ignored, and their enforcement prevented, because the admiralty, the only jurisdiction which could enforce them, has been stricken down by its enemies, the courts of common law, wielding the power of prohibition, against which the courts of admiralty have no defence. This enmity and warfare of the common law judges, arose mainly from their desire to monopolize all judicial authority. “Est boni judiéis ampliare jurisdictionem,” was a cur­rent maxim of the day. The better reading, however, is justitiam, instead of jurisdic-­tionem. But the English common law judges of former days, acted toward other tribunals under the worst reading of this maxim, and the cause of justice and sound jurisprudence suffered accordingly. But the admiralty and maritime jurisdiction given by the constitu­tion of the United States, is that legitimate jurisdiction known and recognized by the general maritime world, and not that juris­diction as it has been maimed and crippled, and almost crushed, by the common law courts of England. Such being the tacit hypothecations under our law, the question is, whether the libellant’s having been the consignee of this vessel, prevented any lien from arising for the repairs and supplies, which he furnished. There seems to be no good reason for its having that effect. If, indeed, the consignee have funds, which ought to be applied to the necessities of the vessel, or if he knows that the master has such funds, he has no right to furnish her upon credit; or, if from his mode of dealing with the owner, or other circumstances, it appears that the credit was given solely to the owners, and not to the vessel, then the lien would be repelled; but there is no evi­dence, or reasonable ground of presumption, that the libellant had funds of the owner, or that the master had such, or that the credit given was personal merely.</p>
+                <p id="b491-10" pgmap="491">I am not aware of any authority directly in point In Davis v. Child [Case No. 3,G28], the doctrine that material men have an ac­cruing lien upon foreign vessels, is laid down without exception.</p>
+                <p id="b491-11" pgmap="491">The most analogous case to the one at is­sue, is that where a consignee secures him­self- for supplies furnished by him, by taking a bottomry bond. The question has arisen in this form several times, in the courts of admiralty and common law, in this country and England.</p>
+                <p id="b492-2" pgmap="492">In the case of The Hero, 2 Dod. 139, Lord Stowell held, that though the taking of bot-­tomry bonds by the agent, or consignee, of a ship, was a practice not to be encouraged; yet, that cases might arise in which an agent would be justified in so doing. In this coun­try, some of the earlier cases took the ground, that a master could not hypothecate to an agent (Liebart v. The Emperor [Case No. 8,340]; Reade v. Commercial Ins. Co., 3 Johns. 352); but the later decisions have not sustained this position; and the law now seems to be generally conceded to be as stated by Lord Stowell (The Lavinia v. Bar­clay [Case No. 8,125]; Abb. Shipp. 159, note; 3 Kent, Comm. 172; The Oriental, 3 W. Rob. Adm. 243; The Boyal Stuart, 33 Eng. Law &amp; Eq. 602). So, a bottomry bond has been sustained in favor of the owner of the cargo, who was on board the vessel, at the time the necessity arose, and furnished supplies; the court ruling that the owner of the cargo in that position, was under no peculiar obliga­tion to advance the necessary supplies, with­out the usual security and compensation. Ross v. The Active [Case No. 12,070].</p>
+                <p id="b492-3" pgmap="492">The present case, however, is not one of hypothecation by bottomry bond, and the great objection urged against a consignee’s being permitted to take an instrument carrying maritime interest, does not apply to a result­ing lien upon the ship. Against bottomry bonds it is urged, that a consignee holds a fiduciary relation toward the owner, and that allow­ing him to take such security, might tempt him to violate his duty, and take advantage of the necessities of the ship, in order to ob­tain heavy maritime interest. As the or­dinary maritime lien carries with it no such ifiterest, this objection has no application to it.</p>
+                <p id="b492-4" pgmap="492">The arguments in favor of allowing such a lien to the consignee, are stronger than those in favor of allowing it to the master of a vessel. The consignee does not stand in equally confidential relations toward the owner; neither does he derive the same ad­vantage from the supplies when furnished; yet a lien has repeatedly been sustained in this country, and in this court, in favor of the master, for supplies furnished his ship, under proper circumstances. The New Jer­sey [Case No. 5,233]; The Packet [Id. 10,654); Ex parte Clark [Id. 2,796]. I see no suffi­cient reason, why a consignee, without funds of the owner in his hands, should be made an exception to a rule so general, as that al­lowing a lien to foreign furnishers or lenders. Upon the principles of maritime law, and the analogies of decided cases, I am of opinion that a consignee, in a foreign port, furnish­ing supplies to a vessel, without having funds of his principal in his hands, is not deprived by his character of consignee, of the ordinary maritime lien of material men.</p>
+                <p id="b492-7" pgmap="492">The second class of supplies was furnished by the libellant, through his agent at St John, while the vessel was there, in her home-­port It has been held by the supreme court of the United States, and must be deemed the settled law of this country, that these maritime liens do not arise, when the ves­sel is in a place, or state, where the owners-­reside. The General Smith, 4 Wheat. [17 U. S.] 438; Davis v. Child [Case No. 3.628]. A vessel, however, in a port of a state to which she does not belong, is not deemed to be in her home port, but so far foreign, that these tacit hypothecations attach to her. It is the residence of the owners, and not that of the furnisher, that is to be looked to, in determin­ing whether the vessel is a domestic one, so-­as to exclude the lien. In this case, the own­ers lived at St John. The vessel was there-­when the supplies were furnished; and by the maritime law, as understood in this coun­try, no tacit hypothecation arose, and it is-­not contended that the local law gave any lien. This class of supplies, therefore, must be disallowed. It is contended for the claim­ant, that if a lien ever existed for the sup­plies furnished at Boston, it has been lost by neglect A part of them were furnished in January, and the residue in September, 1846. This vessel was in Boston in July of that year, — six months after the first supplies. There had been abundant time for the libel-­lant to have demanded payment of the own­ers, at St. John, and for the latter to have-­transmitted funds in discharge of this debt; and the libellant well knowing this, and that the vessel was in Boston, should have en­forced his lien in July, if he meant to rely upon it. The omission to do so was a want of reasonable diligence, and the lien cannot now be set up against the claimant, who is a bona fide purchaser, without notice.</p>
+                <p id="ANjg" pgmap="492">The claim for the supplies furnished in Sep­tember, stands on different ground. It does not appear, that from that time, until the fil­ing of this libel, this vessel was within the reach of the libellants, or that they have been guilty of any neglect in asserting their right. It has not, therefore, been lost, for want of reasonable diligence in pursuing it The-­transfer under which the present claimant holds the vessel,- was made in October, 1846,. and within one month after the supplies in September. The purchaser could easily have ascertained whether this lien existed; and if he omitted that precaution, it cannot defeat the claim which the libellant has in no man­ner relinquished or forfeited. The Eastern-­Star [Case No. 4,254]; The Chusan [Id. 2,717].</p>
+                <p id="b492-9" pgmap="492">Decree for the libellant for the amount of the supplies furnished in September, 1846.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="490" ORDERLABEL="488" TYPE="page">
+        <fptr FILEID="tiff_00245_1"/>
+        <fptr FILEID="jp2_00245_1"/>
+        <fptr FILEID="alto_00245_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_490.3" BETYPE="IDREF" FILEID="alto_00245_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="491" ORDERLABEL="489" TYPE="page">
+        <fptr FILEID="tiff_00246_0"/>
+        <fptr FILEID="jp2_00246_0"/>
+        <fptr FILEID="alto_00246_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_491.3" BETYPE="IDREF" FILEID="alto_00246_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="492" ORDERLABEL="490" TYPE="page">
+        <fptr FILEID="tiff_00246_1"/>
+        <fptr FILEID="jp2_00246_1"/>
+        <fptr FILEID="alto_00246_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_492.3" BETYPE="IDREF" FILEID="alto_00246_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b492-9" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.10" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AhGj" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.8" BETYPE="IDREF" FILEID="alto_00246_0"/>
+            <area BEGIN="BL_491.9" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ANjg" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.9" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b492-2" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.4" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AlQf" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_490.24" BETYPE="IDREF" FILEID="alto_00245_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-10" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.13" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-11" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.14" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b492-7" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.8" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A054" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_490.26" BETYPE="IDREF" FILEID="alto_00245_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b490-31" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_490.36" BETYPE="IDREF" FILEID="alto_00245_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b490-17" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_490.22" BETYPE="IDREF" FILEID="alto_00245_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b490-20" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_490.25" BETYPE="IDREF" FILEID="alto_00245_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b492-3" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.5" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b490-18" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_490.23" BETYPE="IDREF" FILEID="alto_00245_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b492-4" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_492.6" BETYPE="IDREF" FILEID="alto_00246_1"/>
+            <area BEGIN="BL_492.7" BETYPE="IDREF" FILEID="alto_00246_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-3" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.5" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-6" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.10" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-7" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.11" BETYPE="IDREF" FILEID="alto_00246_0"/>
+            <area BEGIN="BL_491.12" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-4" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.6" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b491-5" BETYPE="IDREF" FILEID="casebody_0236"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_491.7" BETYPE="IDREF" FILEID="alto_00246_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

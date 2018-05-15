@@ -1,0 +1,310 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0243" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Ella Warley">The ELLA WARLEY</name>
+          <docketnumber>Case No. 4,370</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 504</citation>
+          <decisiondate>1862-08</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00253_1" MIMETYPE="image/tiff" CHECKSUM="a6edc3dbd04803310708e9e3d0e0f633" CHECKSUMTYPE="MD5" SIZE="94102">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00253_1.tif"/>
+      </file>
+      <file ID="tiff_00254_0" MIMETYPE="image/tiff" CHECKSUM="8db44d3aab263e8660ae0e6c063588ba" CHECKSUMTYPE="MD5" SIZE="88156">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00254_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00253_1" MIMETYPE="image/jp2" CHECKSUM="ac3b5990ebd4eb82b88aa7a5a153bd10" CHECKSUMTYPE="MD5" SIZE="3340785">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00253_1.jp2"/>
+      </file>
+      <file ID="jp2_00254_0" MIMETYPE="image/jp2" CHECKSUM="5719ba2cb619abb8c2be037adc5f0d18" CHECKSUMTYPE="MD5" SIZE="3279292">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00254_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00253_1" MIMETYPE="text/xml" CHECKSUM="6085a20a9aab81b5120a30bcb44963d8" CHECKSUMTYPE="MD5" SIZE="195873">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00253_1.xml"/>
+      </file>
+      <file ID="alto_00254_0" MIMETYPE="text/xml" CHECKSUM="f1842dee7daf6cf05d141265f9c7bf69" CHECKSUMTYPE="MD5" SIZE="186749">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00254_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0243" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="505" firstpage="504">
+              <court id="b506-7" pgmap="506">District Court, S. D. New York.</court>
+              <docketnumber id="b506-4" pgmap="506">Case No. 4,370.</docketnumber>
+              <parties id="b506-5" pgmap="506">The ELLA WARLEY.</parties>
+              <decisiondate id="Adb0" pgmap="506">Aug., 1862.</decisiondate>
+              <p id="b506-6" pgmap="506">[Blatchf. Pr. Cas. 204.]<footnotemark>1</footnotemark>
+              </p>
+              <footnote label="1">
+                <p id="b506-14" pgmap="506">1 [Reported by Samuel Blatchford, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b506-12" pgmap="506">BETTS, District Judge.</author>
+                <p id="Aze-" pgmap="506">This case em­braces the exceptions raised in the last case to the authority of the court to order an ap­praisal of prize property, and its transfer to the libellants. The decision of that point is, accordingly, controlled by the previous case of The Memphis [Case No. 9,412].</p>
+                <p id="b506-13" pgmap="506">A further question is made and discussed, relating to the powers of the court to act upon the final disposal of the property other­wise than by means of a judgment of for­feiture, and a sale thereof by execution. It Is insisted that the claimants are entitled to have the value of the property tested and ascertained by the form of a judicial and public sale. The prerogative right of the captors to take the property seized to their own use is modified only insubserviency to the modem law of war, that, in case a judi­cial confiscation of it is not secured, the cap­tors are responsible over for its value to the lawful proprietor. That responsibility may be secured to the claimant by bail, in court, for its worth, or other equivalent protection to such contingent right. The usage of this court is, to place the value in deposit in the registry of the court, or in the United States treasury, subject to the authority of the court, to be restored and paid to the claimant in case of the acquittal of the prop­erty, in place of relying upon individual undertakings or responsibilities therefor. The court is not convinced of the greater propriety or certainty of resorting to an auction sale of property as a means of as­certaining its reasonable value, particularly when both parties stand in court alike as­serting a legal ownership to it That .meth­od may approach nearer to the worth of an article which possesses no steady mercan­tile value, and is subject to sudden fluctua­tions, under speculative excitements or emer­gencies, the condition of a state of peace or war, in general trade or local transac­tions, producing, at times, sudden alterations in the demand and supply. We have wit­nessed such changes in the progress of the present war; but the fitful state of the mar­ket at any of these periods would measure but imperfectly the worth of the commodi­ty, as an article of trade and merchandise. Particularly, the salableness at auction may readily, by dishonest collusions, be augment­ed or depressed, so as to take from such a sale all just evidence of the transaction be­ing one between vendor and purchaser, cal­culated to determine the value of the arti­cle between them. It appears to me that, in such a condition of things, the general judg­ment would confide in the honest valuation-­of discreet individuals, well acquainted with the subject, rather than the result of palpi­tating excitement at a public sale, in fixing the price which should be paid to the claim­ant, provided the government should be proved not to be the lawful owner of the property. There is high authority in sup­port of the expediency of an auction sale to effect that end (The Euphrates [Case No. 4,546); The Diana [Id. 3,876], and this pref­erence, it is understood, is concurred in by the practice of the prize court in Pennsyl­vania. But all the decisions must rest on the same principle, — that it is competent to the government, through the agency of the courts, to take immediate possession and use of captured property, on guaranteeing, by bail or deposit, at its worth, the restoration of its value to its lawful claimants. It is, therefore, a question of expediency, address­ed to the sound discretion of the court, wheth­er that value shall be ascertained by auc­tion sale, or by the appraisal of individual appraisers. In many instances, as where the prize cannot be brought into port, or the public necessities compel its instant appro­priation or arrest, an appraisal affords the only method of fixing its value. That course has been repeatedly adopted by this court during the war, and I perceive no reasons for directing a public sale to that end, when an appraisal is feasible.</p>
+                <p id="b506-16" pgmap="506(34) 507(21)">The method, therefore, of guaranteeing the interests of the claimants, through the pledge, by deposit, of a sum fixed by a sworn apprais­al, I regard as superior to one by bail or col­lateral security only, and to be preferred to ■an auction sale, as a criterion of the worth ■of the property taken.</p>
+                <p id="b507-4" pgmap="507">The order prayed for by the district attor­ney is, therefore, granted.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="506" ORDERLABEL="504" TYPE="page">
+        <fptr FILEID="tiff_00253_1"/>
+        <fptr FILEID="jp2_00253_1"/>
+        <fptr FILEID="alto_00253_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_506.4" BETYPE="IDREF" FILEID="alto_00253_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="507" ORDERLABEL="505" TYPE="page">
+        <fptr FILEID="tiff_00254_0"/>
+        <fptr FILEID="jp2_00254_0"/>
+        <fptr FILEID="alto_00254_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_507.4" BETYPE="IDREF" FILEID="alto_00254_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-4" BETYPE="IDREF" FILEID="casebody_0243"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.6" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-16" BETYPE="IDREF" FILEID="casebody_0243"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.21" BETYPE="IDREF" FILEID="alto_00253_1"/>
+            <area BEGIN="BL_507.2" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b507-4" BETYPE="IDREF" FILEID="casebody_0243"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_507.6" BETYPE="IDREF" FILEID="alto_00254_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-14" BETYPE="IDREF" FILEID="casebody_0243"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.20" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-7" BETYPE="IDREF" FILEID="casebody_0243"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.9" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-12" BETYPE="IDREF" FILEID="casebody_0243"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.15" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-5" BETYPE="IDREF" FILEID="casebody_0243"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.7" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Aze-" BETYPE="IDREF" FILEID="casebody_0243"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.16" BETYPE="IDREF" FILEID="alto_00253_1"/>
+            <area BEGIN="BL_506.17" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-13" BETYPE="IDREF" FILEID="casebody_0243"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.18" BETYPE="IDREF" FILEID="alto_00253_1"/>
+            <area BEGIN="BL_506.19" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Adb0" BETYPE="IDREF" FILEID="casebody_0243"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.10" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b506-6" BETYPE="IDREF" FILEID="casebody_0243"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_506.8" BETYPE="IDREF" FILEID="alto_00253_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0197" publicationstatus="published">
+          <court abbreviation="D. Me." jurisdiction="United States">United States District Court for the District of Maine</court>
+          <name abbreviation="The E. K. Dresser">The E. K. DRESSER</name>
+          <docketnumber>Case No. 4,324</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 398</citation>
+          <citation category="parallel" type="bluebook">2 Hask. 349</citation>
+          <decisiondate>1879-05</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00200_1" MIMETYPE="image/tiff" CHECKSUM="0b46eafdf41ef238c5edf7a414bdda7d" CHECKSUMTYPE="MD5" SIZE="72418">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00200_1.tif"/>
+      </file>
+      <file ID="tiff_00201_0" MIMETYPE="image/tiff" CHECKSUM="8b85e5c971f274ebce0130bc34cde964" CHECKSUMTYPE="MD5" SIZE="110846">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00201_0.tif"/>
+      </file>
+      <file ID="tiff_00201_1" MIMETYPE="image/tiff" CHECKSUM="1c1b485879cd3a8d34470b74ed474c51" CHECKSUMTYPE="MD5" SIZE="102888">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00201_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00200_1" MIMETYPE="image/jp2" CHECKSUM="79d9f19cb49f51d659528f1fcbce23a3" CHECKSUMTYPE="MD5" SIZE="2956302">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00200_1.jp2"/>
+      </file>
+      <file ID="jp2_00201_0" MIMETYPE="image/jp2" CHECKSUM="a5de4a65e94f6bbd5f9a3bf8376d32dd" CHECKSUMTYPE="MD5" SIZE="3790211">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00201_0.jp2"/>
+      </file>
+      <file ID="jp2_00201_1" MIMETYPE="image/jp2" CHECKSUM="131e9483f6819cb1213dcd819768b2e5" CHECKSUMTYPE="MD5" SIZE="3609234">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00201_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00200_1" MIMETYPE="text/xml" CHECKSUM="e067a66481e1a7ba28664a5a5bf832fa" CHECKSUMTYPE="MD5" SIZE="154411">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00200_1.xml"/>
+      </file>
+      <file ID="alto_00201_0" MIMETYPE="text/xml" CHECKSUM="c51700dc06f1792cd5d395719cdda6ef" CHECKSUMTYPE="MD5" SIZE="251765">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00201_0.xml"/>
+      </file>
+      <file ID="alto_00201_1" MIMETYPE="text/xml" CHECKSUM="607b628d80044fca39608f36fdff1688" CHECKSUMTYPE="MD5" SIZE="221847">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00201_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0197" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="400" firstpage="398">
+              <court id="b400-17" pgmap="400">District Court, D. Maine.</court>
+              <docketnumber id="b400-15" pgmap="400">Case No. 4,324.</docketnumber>
+              <citation id="AbKg" pgmap="400">[2 Hask. 349.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b400-16" pgmap="400">The E. K. DRESSER.</parties>
+              <decisiondate id="A6NX" pgmap="400">May, 1879.</decisiondate>
+              <attorneys id="b400-21" pgmap="400">George F. Talbot, Dist. Atty., for libellant</attorneys>
+              <attorneys id="b400-22" pgmap="400">William L. Putnam, for claimants.</attorneys>
+              <footnote label="1">
+                <p id="b400-24" pgmap="400">1 [Reported by Thomas Hawes Haskell, Esq.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b400-23" pgmap="400">FOX. District Judge.</author>
+                <p id="As-_" pgmap="400(13) 401(166)">I am clearly of opin­ion that there has not been any penalty incurred by a violation of section 50 of the act of 1790. This section declares “that no goods, wares or merchandise brought in any ship or vessel, from any foreign port or place, shall be unladen or delivered from such ship or vessel, within the United States, but in open day, &amp;e., nor at any time without a permit from the collector and naval officer, if any, for such unlading or delivery; and if any such goods, &amp;c., shall be unladen or delivered from any such ship or vessel, contrary to the direction afore­said, the master or person having the charge or command of such ship or vessel, and every other person who shall knowingly be concerned or aiding them in removing, storing or otherwise receiving the said goods, &amp;c., shall forfeit and pay severally, the sum of $400 for each offense, and shall be disabled from holding any office of trust or profit under the United States for a term not exceeding seven years.”</p>
+                <p id="b401-4" pgmap="401">■ To bring the cause within this section, it must appear that the goods were brought from a foreign port or place, and that they were unladen without a permit'</p>
+                <p id="b401-5" pgmap="401">Is a fishing vessel which follows the busi­ness of fishing solely on the*high seas, sail­ing from and returning to this port, not hav­ing made a harbor throughout the voyage, within the provisions of this section ? Can she, legally speaking, be said to come from a foreign port' or place as understood in this section, when she returns from such a voyage?</p>
+                <p id="b401-6" pgmap="401">This question, in my opinion, is fully and ■satisfactorily answered by the opinion of ■Story, J., in The Eliza [Case No. 4,346]. In that case, the boat ieft Boston with the •object of putting certain goods on board a vessel, which it was understood she would fall in with off Boston harbor; and she was accordingly seized for an alleged violation •of section 1, of chapter 129, of the act of 1812 [2 Stat. 778], which provided, that if a vessel, owned in whole or in part by a •citizen of the United States, shall depart from any port of the United States, “for any foreign port or place,” without giving bonds, -&amp;e., the vessel and cargo shall be forfeited.</p>
+                <p id="b401-7" pgmap="401">Judge Story, in his opinion on page 7, says: “It is urged that the being bound to the high seas without the jurisdictional limits of the United States is being bound to ‘a foreign place’ within the meaning of the statute. I consider this construction entirely unten­able on principle and authority. It is clear to my mind, that a foreign port or place in the statute means a port or a place exclu­sively within the sovereignty of a foreign nation. Such has been the construction of the same words in section 3, c. 8, of the act of 1S28, by the supreme court of the United States. Such has been the uniform construction in the district and circuit courts ■of this circuit, in eases where words of simi­lar import have been drawn into contro­versy, and I shall therefore content myself with a bare expression of my opinion on this point, without entering into the rea­sons which cogently press it upon me.”</p>
+                <p id="b401-9" pgmap="401">The ocean is the great common highway of all nations, and is foreign to none; no nation has any sole and exclusive jurisdic­tion over it, and a vessel, pursuing her voy­age upon the high seas, cannot be said to have been within or subject to any foreign jurisdiction. The course and terminus of the voyage — the port from which she sails and to which she returns, describes and con­trols the description and character of the voyage which she has pursued.</p>
+                <p id="b401-10" pgmap="401">Does it in any manner change the legal effect that, in the present case, this vessel in the course of her fishing voyage touched at Port Mulgrave, N. S., for wood and water ? Does the fact that for this purpose and for this alone she went within a'for­eign jurisdiction with this salt in her hold, not as cargo, but as part of her necessary outfit, constitute that port a foreign port or place from which the salt has been brought, so as to incur liability to a penalty if landed without a permit? In my view, her touch­ing at Port Mulgrave, in the manner and for the purpose she did, is entirely imma­terial, and cannot affect the question. It was strictly a port of call for the very ne­cessaries of life, wood and water, and not for purposes of trade and commerce. This salt in any legal sense cannot be said to have been brought from Port Mulgrave; it was never owned there; it was not bought there, or there taken on board; and, for the purposes of commerce, was never in reality within the jurisdiction of Nova Scotia. Its connec­tion with the vessel commenced when it was taken on board at Portland, and it accom­panied and remained with her until it was actually used for curing the fish on her re­turn. The voyage, so far as this article is in question, began and terminated at Port­land; that was the place from whence it was taken, and the only place from which it was taken on the voyage, as I consider.</p>
+                <p id="b401-11" pgmap="401">The fact, that this salt was on board the vessel whilst she was thus casually and from necessity in a provincial port, cannot, as I think, justify a construction that it was, within the meaning of this section, brought from a foreign port, any more than it would, in case the vessel, whilst running through the Straits of Causo, had been by the wind or tide set so near the shore, as for a time to be sailing in the waters of Cape Breton or Nova Scotia. Could it with any reason be urged, in such a case, that a permit was req­uisite because the vessel, with the salt on board, had thus sailed in provincial waters, or had even been compelled to anchor for a time within a short distance of the shore? No one, I think, would insist that a permit was requisite in such a case, and yet the fact would be that the vessel and salt had been within a foreign jurisdiction.</p>
+                <p id="b401-12" pgmap="401(7) 402(145)">I suxipose that invariably fishing vessels in the Bay of Chaleur are obliged to touch for wood and water at some place on the shores of the bay, or in that vicinity; yet, I believe that this is the first case in which the gov­ernment has thought fit to contend before the courts, that thereby such vessel had been to a foreign place, so as to require a permit for landing anything-then on board, or her cargo which had been caught on the voyage, because, in my view, if a permit was necessary for landing the salt for the reason that it was brought from Port Mulgrave, for a like reason, a similar permit was required for the fish which were then and there on board, for the salt and fish were there at the same time in the vessel at Port Mulgrave, ar­riving at and departing from there together.</p>
+                <p id="b402-4" pgmap="402">In common parlance, this vessel would not be described as having come from Port Mul-­grave. She was from a fishing cruise, per­formed on the ocean, beginning and termi­nating at Portland. Her touching at Port Mulgrave, it must be remembered, was not for the purposes of trade; the salt was not taken there for any such object; but she was in that port only for the moment, and for the very necessaries of life. It would never be said that a vessel from Cuba, with a cargo of sugars, touching at Holmes’ Hole for orders only, had brought her cargo of sugars from Holmes’ Hole; but all would admit that they were brought from Cuba; and so also, Port Mulgrave could never be understood or described as the place from which this vessel brought this salt, which was on board both when she passed within and without the jurisdiction of Nova Scotia. If she had gone there for the purpose of trade, with a cargo on board to dispose of, had there entered at the custom house and endeavored to sell her cargo, and, for want of a market, had been obliged to return with her outward cargo, it might be claimed that such cargo was brought from such foreign port; but the reason fails entirely, when the vessel does not make the port for trade, but from necessity, neither entering nor clearing at the custom house, remaining only long enough to relieve such necessity, and having no cargo on board in the usual and ordinary acceptation of the word. label dismissed.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="400" ORDERLABEL="398" TYPE="page">
+        <fptr FILEID="tiff_00200_1"/>
+        <fptr FILEID="jp2_00200_1"/>
+        <fptr FILEID="alto_00200_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.5" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="401" ORDERLABEL="399" TYPE="page">
+        <fptr FILEID="tiff_00201_0"/>
+        <fptr FILEID="jp2_00201_0"/>
+        <fptr FILEID="alto_00201_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.3" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="402" ORDERLABEL="400" TYPE="page">
+        <fptr FILEID="tiff_00201_1"/>
+        <fptr FILEID="jp2_00201_1"/>
+        <fptr FILEID="alto_00201_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_402.4" BETYPE="IDREF" FILEID="alto_00201_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-23" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.31" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-22" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.30" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-5" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.6" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b402-4" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_402.5" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-11" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.12" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-10" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.11" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-12" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.13" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            <area BEGIN="BL_402.1" BETYPE="IDREF" FILEID="alto_00201_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-16" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.22" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-17" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.24" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-21" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.29" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-15" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.21" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6NX" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.25" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-4" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.5" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-7" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.8" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            <area BEGIN="BL_401.9" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-6" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.7" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b401-9" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_401.10" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-24" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.34" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AbKg" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.23" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="As-_" BETYPE="IDREF" FILEID="casebody_0197"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.32" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            <area BEGIN="BL_400.33" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            <area BEGIN="BL_401.1" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

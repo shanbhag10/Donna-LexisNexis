@@ -1,0 +1,256 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0225" publicationstatus="published">
+          <court abbreviation="C.C.D. Mich." jurisdiction="United States">United States Circuit Court for the District of Michigan</court>
+          <name abbreviation="Jasper v. Porter">JASPER et al. v. PORTER et al.</name>
+          <docketnumber>Case No. 7,229</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 376</citation>
+          <citation category="parallel" type="bluebook">2 McLean, 579</citation>
+          <decisiondate>1841-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00189_1" MIMETYPE="image/tiff" CHECKSUM="3f1dc30778d966b1a09e2e3439128b69" CHECKSUMTYPE="MD5" SIZE="60118">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00189_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00189_1" MIMETYPE="image/jp2" CHECKSUM="f76135f189d6db4a662c15eb8716695d" CHECKSUMTYPE="MD5" SIZE="2712886">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00189_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00189_1" MIMETYPE="text/xml" CHECKSUM="d3969f348ff3f45e60a58a31da98cc4e" CHECKSUMTYPE="MD5" SIZE="129993">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00189_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0225" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="376" firstpage="376">
+              <court pgmap="378" id="ArL">Circuit Court, D. Michigan.</court>
+              <docketnumber pgmap="378" id="b378-8">Case No. 7,229.</docketnumber>
+              <citation pgmap="378" id="Agm5">[2 McLean, 579.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="378" id="AdL">JASPER et al. v. PORTER et al.</parties>
+              <decisiondate pgmap="378" id="AMoZ">Oct Term, 1841.</decisiondate>
+              <footnote label="1">
+                <p pgmap="378" id="b378-19">1 [Reported by' Hou. John McLean, Circuit Justice.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="378" id="b378-18">OPINION OP THE COURT.</author>
+                <p pgmap="378" id="A4k">In this case an objection being made to the admission of certain depositions, on the ground that it did not appear that the officer, taking the same, was authorized to do so. The courts of the United States are presumed to know the laws of the several states. It is, therefore, un­necessary to set them out in a plea, as for­eign laws; but the court will notice them without plea, and can determine whether the person taking the depositions, under the laws of the state, comes within- the act of con­gress, which authorizes depositions to be taken. The court .will receive the certificate of such person, as prima facie evidence of his right to take the depositions, without the certificate of the clerk and seál of court, or any other evidence of his official character. Under the 61st rule, all objections to the form of taking depositions are waived, unless indorsed on the depositions before the cause, in which they were taken, shall be called for trial.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="378" ORDERLABEL="376" TYPE="page">
+        <fptr FILEID="tiff_00189_1"/>
+        <fptr FILEID="jp2_00189_1"/>
+        <fptr FILEID="alto_00189_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_378.3" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ArL" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.13" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-19" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.28" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AdL" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.11" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-8" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.10" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMoZ" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.14" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Agm5" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.12" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b378-18" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.24" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A4k" BETYPE="IDREF" FILEID="casebody_0225"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_378.25" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            <area BEGIN="BL_378.26" BETYPE="IDREF" FILEID="alto_00189_1"/>
+            <area BEGIN="BL_378.27" BETYPE="IDREF" FILEID="alto_00189_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

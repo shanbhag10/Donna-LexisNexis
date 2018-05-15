@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0564" publicationstatus="published">
+          <court abbreviation="D.N.J." jurisdiction="United States">United States District Court for the District of New Jersey</court>
+          <name abbreviation="In re Farrell">In re FARRELL</name>
+          <docketnumber>Case No. 4,680</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1078</citation>
+          <citation category="parallel" type="bluebook">5 N. B. R. 125</citation>
+          <decisiondate>1871-06-20</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:35Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00540_1" MIMETYPE="image/tiff" CHECKSUM="2dbc36174d56d0af4f6324498235a73a" CHECKSUMTYPE="MD5" SIZE="92858">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00540_1.tif"/>
+      </file>
+      <file ID="tiff_00541_0" MIMETYPE="image/tiff" CHECKSUM="f9a466438fc654bc7fd3b15f403d3425" CHECKSUMTYPE="MD5" SIZE="91858">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00541_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00540_1" MIMETYPE="image/jp2" CHECKSUM="75f20d5ff053853cc76c148abb5d95dd" CHECKSUMTYPE="MD5" SIZE="3371740">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00540_1.jp2"/>
+      </file>
+      <file ID="jp2_00541_0" MIMETYPE="image/jp2" CHECKSUM="ab98ae1d79e2e7a088fa0a19362f482d" CHECKSUMTYPE="MD5" SIZE="3345609">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00541_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00540_1" MIMETYPE="text/xml" CHECKSUM="ffab96837d4d13683df5a9fff8050773" CHECKSUMTYPE="MD5" SIZE="206863">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00540_1.xml"/>
+      </file>
+      <file ID="alto_00541_0" MIMETYPE="text/xml" CHECKSUM="d6602a1c5d8f837092f663524ee56ce8" CHECKSUMTYPE="MD5" SIZE="192966">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00541_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0564" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1079" firstpage="1078">
+              <court id="b1080-9" pgmap="1080">District Court, D. New Jersey.</court>
+              <docketnumber id="b1080-6" pgmap="1080">Case No. 4,680.</docketnumber>
+              <citation id="b1080-8" pgmap="1080">[5 N. B. R. 125.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1080-7" pgmap="1080">In re FARRELL.</parties>
+              <decisiondate id="AFO" pgmap="1080">June 20, 1871.</decisiondate>
+              <footnote label="1">
+                <p id="b1080-18" pgmap="1080">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1080-16" pgmap="1080">NIXON, District Judge.</author>
+                <p id="AIo" pgmap="1080">This is an appli­cation to vacate the adjudication of bank­ruptcy made in the case, and to strike the pe­tition from the files of the court. The-­grounds alleged in support of the application are, that J. W. Farrell had filed his petition in this court on the tenth of February, eighteen hundred and sixty-eight, for a discharge from his debts under the bankrupt law; that the-­case regularly proceeded until the seven­teenth of November and the twenty-second of December, eighteen hundred and sixty-nine, on which date specifications were filed op­posing his- final discharge upon various grounds; that on the twenty-eighth day of December, eighteen hundred and sixty-nine, after argument by counsel, the court gave a decision denying the bankrupt’s right to a discharge, and refusing to grant the same; and that this refusal is a bar to any new ap­plication by the bankrupt debtor for the ben­efit of the act.</p>
+                <p id="b1080-17" pgmap="1080">The counsel for the bankrupt resists the ap­plication, for the reason that the court did not refuse the discharge for any matters of substance affecting the conduct of the bank­rupt, but upon a mere matter of form, arising from his neglect to apply for his final dis­charge within the time limited by the law; and that he ought not to be precluded from filing a second petition when his discharge has been refused, upon any ground except those specifically defined in the twenty-ninth section of the bankrupt act [of 1867 (14 Stat. 517)]._</p>
+                <p id="b1081-2" pgmap="1081">It appears that in the former proceedings Farrell was adjudged a bankrupt on the sev­enteenth day of February, eighteen hundred and sixty-eight; that no assets came to the hands of the assignee, and that the bankrupt filed an application for a discharge from his debts on the third of May, eighteen hundred and sixty-nine; more than one year after the adjudication. Ten specifications were filed by the opposing creditor against the bank­rupt’s discharge, all of which, except the last two, are mentioned in the twenty-ninth sec­tion as valid reasons for withholding a dis­charge. The ninth and tenth had reference only to the time within which he was per­mitted to make his application; and his hon- or, the late Judge Field, declined to hear any argument upon the other specifications as a useless waste of time, holding that the proper construction of the first clause of the twen­ty-ninth section required the bankrupt to ap­ply for his discharge within one year of the date of adjudication, in all cases where there were debts proved, or no assets had come to the hands of the assignee.</p>
+                <p id="b1081-3" pgmap="1081">The case then presents the question wheth­er a bankrupt, after his discharge has been refused for any cause, may again apply to the court for the benefit of the bankrupt law? This question can be best answered by considering the nature and character of these bankruptcy proceedings. They have been held to be, and are, in the nature of a suit in which the bankrupt appears as plain­tiff and the creditors are defendants; the plaintiff asking the court for a judgment against all and each of the defendants, dis­charging him from his indebtedness to them. The defendants have their day in court, are ■entitled to be heard at all stages of the pro­ceedings; and when- the bankrupt files his application for a discharge from the pay­ment of his debts, any single creditor may make opposition thereto, by entering his ap­pearance and putting on file specifications against the discharge. These reasons may be for some unlawful or fraudulent act com­mitted by the bankrupt himself, antecedent to, or during the course of, the proceeding, such, for instance, as are enumerated in the twenty-ninth section as proper grounds for withholding a discharge, or they may be for some irregularity in the proceedings, or want of diligence on the part of the bankrupt, or want of jurisdiction on the part of the court.</p>
+                <p id="b1081-4" pgmap="1081">The ground for refusing the discharge in the present case, was that the bankrupt did not apply for it within one year after the date of adjudication of bankruptcy, as the twenty-ninth section, fairly interpreted, de­mands. It did not involve the merits of the issue between the bankrupt and his creditors; but it was simply a question of statutory construction as to whether the court had the power of making a decision upon the merits, after such a delay on the part of the bank­rupt in bringing the matter before it. This question was raised by the creditor in the ninth and tenth specificátions, and it was rightly held that the court had no such pow­er, the result being in principle the same as where the plaintiff, in a suit at law, is non-­prossed for not bringing on his case for trial at the next term after the issue joined. He has the costs of the first proceedings to pay, but is allowed to commence again and to continue until he reaches a judgment up­on the merits of his case.</p>
+                <p id="b1081-7" pgmap="1081">The counsel for the petitioner contends that such a construction of the statute is a hardship to the creditor, as it subjects him to the trouble and expense of resisting a discharge a second time upon the new ap­plication. But the same objection exists to a non-suit at law, or to a dismissal of a bill in equity, upon technical grounds-­He may ordinarily avoid such hardship by waiving all specifications that do not touch, the merits of the question of discharge, and may have the judgment of the court solely upon the merits. If he does not choose to rely upon these he ought not to complain if the court allows such new proceedings as may be requisite to reach its judgment upon the real issue between the bankrupt and his creditors. In the. present case, pro­ceedings de novo are necessary, and the application to dismiss the petition must be refused.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1080" ORDERLABEL="1078" TYPE="page">
+        <fptr FILEID="tiff_00540_1"/>
+        <fptr FILEID="jp2_00540_1"/>
+        <fptr FILEID="alto_00540_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1080.5" BETYPE="IDREF" FILEID="alto_00540_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1081" ORDERLABEL="1079" TYPE="page">
+        <fptr FILEID="tiff_00541_0"/>
+        <fptr FILEID="jp2_00541_0"/>
+        <fptr FILEID="alto_00541_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1081.2" BETYPE="IDREF" FILEID="alto_00541_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AIo" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1080.19" BETYPE="IDREF" FILEID="alto_00540_1"/>
+            <area BEGIN="BL_1080.20" BETYPE="IDREF" FILEID="alto_00540_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1081-4" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1081.6" BETYPE="IDREF" FILEID="alto_00541_0"/>
+            <area BEGIN="BL_1081.7" BETYPE="IDREF" FILEID="alto_00541_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1081-3" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1081.5" BETYPE="IDREF" FILEID="alto_00541_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1080-6" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1080.8" BETYPE="IDREF" FILEID="alto_00540_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1080-7" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1080.9" BETYPE="IDREF" FILEID="alto_00540_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1080-8" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1080.10" BETYPE="IDREF" FILEID="alto_00540_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1080-9" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1080.11" BETYPE="IDREF" FILEID="alto_00540_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1081-7" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1081.8" BETYPE="IDREF" FILEID="alto_00541_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AFO" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1080.12" BETYPE="IDREF" FILEID="alto_00540_1"/>
+            <area BEGIN="BL_1080.13" BETYPE="IDREF" FILEID="alto_00540_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1080-16" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1080.18" BETYPE="IDREF" FILEID="alto_00540_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1080-17" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1080.21" BETYPE="IDREF" FILEID="alto_00540_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1081-2" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1081.4" BETYPE="IDREF" FILEID="alto_00541_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1080-18" BETYPE="IDREF" FILEID="casebody_0564"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1080.22" BETYPE="IDREF" FILEID="alto_00540_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

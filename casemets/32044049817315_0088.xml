@@ -1,0 +1,353 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0088" publicationstatus="published">
+          <court abbreviation="C.C.D. Kan." jurisdiction="United States">United States Circuit Court for the District of Kansas</court>
+          <name abbreviation="Isaacs v. Price">ISAACS et al. v. PRICE</name>
+          <docketnumber>Case No. 7,097</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 154</citation>
+          <citation category="parallel" type="bluebook">2 Dill. 347</citation>
+          <decisiondate>1872</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:26Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00078_1" MIMETYPE="image/tiff" CHECKSUM="bad198b597e31c50fc96042f1e0fdb43" CHECKSUMTYPE="MD5" SIZE="84310">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00078_1.tif"/>
+      </file>
+      <file ID="tiff_00079_0" MIMETYPE="image/tiff" CHECKSUM="d268d6cc7a7105fbd99ba3bc2c5ae57d" CHECKSUMTYPE="MD5" SIZE="43870">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00079_0.tif"/>
+      </file>
+      <file ID="tiff_00079_1" MIMETYPE="image/tiff" CHECKSUM="755fec9a3ecafb859fef2f20fba3947c" CHECKSUMTYPE="MD5" SIZE="99876">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00079_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00078_1" MIMETYPE="image/jp2" CHECKSUM="a6362c51582f83251ea52ab78269af98" CHECKSUMTYPE="MD5" SIZE="3031268">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00078_1.jp2"/>
+      </file>
+      <file ID="jp2_00079_0" MIMETYPE="image/jp2" CHECKSUM="ee07c71e64e39f1597f17ecedf9897a0" CHECKSUMTYPE="MD5" SIZE="1968333">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00079_0.jp2"/>
+      </file>
+      <file ID="jp2_00079_1" MIMETYPE="image/jp2" CHECKSUM="30a62299f5f76e4e95ceb191d67a6256" CHECKSUMTYPE="MD5" SIZE="3557570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00079_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00078_1" MIMETYPE="text/xml" CHECKSUM="6fe0a5af151aa62ded0a673b8c644ad2" CHECKSUMTYPE="MD5" SIZE="171941">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00078_1.xml"/>
+      </file>
+      <file ID="alto_00079_0" MIMETYPE="text/xml" CHECKSUM="0edc6a624efceb1a7d3becdaa75e5d56" CHECKSUMTYPE="MD5" SIZE="85388">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00079_0.xml"/>
+      </file>
+      <file ID="alto_00079_1" MIMETYPE="text/xml" CHECKSUM="08ef8a16bf9a2cb75304bce1de0cbfb0" CHECKSUMTYPE="MD5" SIZE="215844">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00079_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0088" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="156" firstpage="154">
+              <court pgmap="156" id="b156-10">Circuit Court, D. Kansas.</court>
+              <docketnumber pgmap="156" id="b156-7">Case No. 7,097.</docketnumber>
+              <citation pgmap="156" id="b156-9">[2 Dill. 347.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="156" id="b156-8">ISAACS et al. v. PRICE.</parties>
+              <decisiondate pgmap="156" id="AF7N">1872.</decisiondate>
+              <attorneys pgmap="157" id="b157-7">H. M. Herman, for plaintiffs.</attorneys>
+              <attorneys pgmap="157" id="b157-8">Nathan Price and A. H. Horton, for de­fendant.</attorneys>
+              <footnote label="1">
+                <p pgmap="156" id="b156-18">1 [Reported by Hon. John F. Dillon. Circuit Judge, and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="157" id="b157-9">DILLON, Circuit Judge.</author>
+                <p pgmap="157" id="AJkJ">If this action is-­to be deemed as having been commenced in August, 1867, when the original petition was filed, and the first summons was served in. the manner above stated, it is admitted that the same is not barred. On the other hand, if the suit is to be considered as commenced only when the second summons was served, to-wit, June 6th, 1870, then it is conceded by the plaintiff that this action is within the-­operation of the limitation statutes of the state. The record shows that on the 17th day of August, 1867, the petition was filed and the summons was issued. The original Sum­mons was in due form, and contained all the indorsements. The marshal made service of the summons, and returned that fact to the-­court, and a judgment by default was enter­ed at the return term, reciting that the de­fendant had been duly served. Two years afterward the defendant appeared, and the court, on the marshal’s amended return, showing that the copy of the summons which had been left at the residence of the defendant did not contain a copy of the in-­dorsement of the amount for which judg­ment would be taken if the defendant fail­ed to appear, set aside the judgment, ,on the ground, as the record of its action states, that no service of the summons was ever-­made, and no appearance to the action had.</p>
+                <p pgmap="157(95) 158(546)" id="b157-10">The justice of the plaintiffs’ demand not being questioned, and there being no claim that the defendant did not receive the copy of the summons before the return term, nor any claim that the judgment was taken for too much, it is plain that the order setting aside the judgment was not well considered;, but it was set aside upon the ground, not that ño service was ever made, but upon the technical one that the copy of the sum­mons left for the defendant omitted the in-­dorsement of the amount claimed by the plaintiffs to be due them. When this action of the court was had the plaintiffs issued a new summons, June 6th, 1870, which was served, and the defendant appeared and pleaded the statute of limitations; and as above remarked, his plea is available to him if the suit is to be deemed commenced June 6th, 1870, but not if it is to be regarded as having all the time been pending since its original institution. In my opinion the ac­tion is to be regarded as having been pend­ing from the time the petition was originally filed and the summons served in 1867. The judgment rendered upon the first return of service was not void, but in every respect regular upon the face of the record. The defendant afterwards appeared in court and asked to have the judgment set aside, and his demand was granted. This did not de­feat the plaintiffs’ right, or put an end to their action. After this action on the part of the defendant no new summons was nec­essary, and the court should only have set aside the judgment on a plea to the merits being filed. The issuing of a new summons on the same petition, or the same as amend­ed, did not make a new suit, nor was it the commencement of a new action. The action which was tried at the last term is the same action which was commenced in August, 1867, and not a new one. For the purpose of preventing the statute of limitation from running the service of the first summons was sufficient. It apprised the defendant that the plaintiffs had brought an action against him, and where it was pending. A distinction is to be made between a case where there is no service whatever, and one which is simply defective or irregular. In the first case the court acquires no jurisdic­tion and its judgment is void; in the other case if the court to which the process is re­turnable adjudges the service to be sufficient and renders judgment therein such judgment is not void, but only subject to be set aside' by the court which gave it, upon seasonable and proper application, or reversed upon ap­peal. The error in the argument.of the de­fendant is that it proceeds upon the ground that the judgment rendered upon the service made upon him was wholly void. It is true the record which set it aside recited that no service of summons was made upon the de­fendant and that it was void, but this ac­tion of the court is to be construed with ref­erence to the application upon which it was based, and that showed and admitted that service had been made, but claimed that such service, owing to the absence of the indorsement on the copy, was not sufficient. It is not entirely clear to my mind that the omission to give all the indorsements is such an irregularity as would be ground for re­versal on appeal; but if so, the judgment was valid while it remained in force, and when it was set aside the action was still pending, and it remained a pending action until it was tried at the last term.</p>
+                <p pgmap="158" id="b158-4">The defendant’s case is not within the pur­pose of the limitation enactment, which is to protect persons from stale claims. But here the plaintiffs brought suit in time upon a demand confessedly just and unpaid. If the defendant had appeared at the return term he would have had no defense on the merits, and no defense under the statute of limitations. He neglects to appear at court, waits until the statute period for the recov­ery of such claims has fully elapsed, and then applies to the court and suggests the defective service, made over two years be­fore, and asks to have the judgment set aside. This being done, he asks the benefit of the statute of limitations, which had not elapsed when the suit was commenced. This position overlooks the philosophy or reason on which such legislation rests, which is the neglect or laches of the plaintiff to prosecute his suit. But whatever neglect there is in'this case is clearly the defend­ant’s. Besides there never has been any failure of the plaintiffs to recover upon “the merits” of their Claim upon which action was brought “within due time,” and there­fore the plaintiffs are within the equitable or just provision of the legislation made for such cases. Rev. St. 186S, p. 634, § 23, quot­ed in the statement of the case.</p>
+                <p pgmap="158" id="b158-5">Motion for new trial lenied, and judg­ment for plaintiffs. Judgment accordingly.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="156" ORDERLABEL="154" TYPE="page">
+        <fptr FILEID="tiff_00078_1"/>
+        <fptr FILEID="jp2_00078_1"/>
+        <fptr FILEID="alto_00078_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_156.4" BETYPE="IDREF" FILEID="alto_00078_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="157" ORDERLABEL="155" TYPE="page">
+        <fptr FILEID="tiff_00079_0"/>
+        <fptr FILEID="jp2_00079_0"/>
+        <fptr FILEID="alto_00079_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_157.3" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="158" ORDERLABEL="156" TYPE="page">
+        <fptr FILEID="tiff_00079_1"/>
+        <fptr FILEID="jp2_00079_1"/>
+        <fptr FILEID="alto_00079_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_158.7" BETYPE="IDREF" FILEID="alto_00079_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-4" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.8" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-18" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.21" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-10" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.12" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-8" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.9" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-9" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.10" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-9" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.11" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-8" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.10" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b156-7" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.9" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-7" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.8" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJkJ" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.11" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            <area BEGIN="BL_157.12" BETYPE="IDREF" FILEID="alto_00079_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AF7N" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_156.13" BETYPE="IDREF" FILEID="alto_00078_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b157-10" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_157.13" BETYPE="IDREF" FILEID="alto_00079_0"/>
+            <area BEGIN="BL_158.4" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b158-5" BETYPE="IDREF" FILEID="casebody_0088"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_158.9" BETYPE="IDREF" FILEID="alto_00079_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

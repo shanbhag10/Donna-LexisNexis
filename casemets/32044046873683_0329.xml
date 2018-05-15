@@ -1,0 +1,332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0329" publicationstatus="published">
+          <court abbreviation="S.D.N.Y." jurisdiction="United States">United States District Court for the Southern District of New York</court>
+          <name abbreviation="The Emilie">The EMILIE</name>
+          <docketnumber>Case No. 4,451</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 652</citation>
+          <citation category="parallel" type="bluebook">4 Ben. 235</citation>
+          <decisiondate>1870-06</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:34Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00327_1" MIMETYPE="image/tiff" CHECKSUM="7d2071f2dbe6f0204cdf472e1895b669" CHECKSUMTYPE="MD5" SIZE="82912">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00327_1.tif"/>
+      </file>
+      <file ID="tiff_00328_0" MIMETYPE="image/tiff" CHECKSUM="6a9996458922264b767003f5b901c8a8" CHECKSUMTYPE="MD5" SIZE="82786">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00328_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00327_1" MIMETYPE="image/jp2" CHECKSUM="b7ceb2f8a63db616ff2a2e946463b32c" CHECKSUMTYPE="MD5" SIZE="3226254">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00327_1.jp2"/>
+      </file>
+      <file ID="jp2_00328_0" MIMETYPE="image/jp2" CHECKSUM="3eaa534b15529047e8e36c676b2300fa" CHECKSUMTYPE="MD5" SIZE="3194330">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00328_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00327_1" MIMETYPE="text/xml" CHECKSUM="5572cc1e9668a8245ac095f49e2c712b" CHECKSUMTYPE="MD5" SIZE="197696">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00327_1.xml"/>
+      </file>
+      <file ID="alto_00328_0" MIMETYPE="text/xml" CHECKSUM="f0b69d493a8a4e0bcc23dbc046e9ebc6" CHECKSUMTYPE="MD5" SIZE="188634">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00328_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0329" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="653" firstpage="652">
+              <court id="b654-12" pgmap="654">District Court, S. D. New York.</court>
+              <docketnumber id="b654-9" pgmap="654">Case No. 4,451.</docketnumber>
+              <citation id="b654-11" pgmap="654">[4 Ben. 235.]<footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b654-10" pgmap="654">The EMILIE.</parties>
+              <decisiondate id="A1m" pgmap="654">June, 1870.</decisiondate>
+              <attorneys id="b654-19" pgmap="654">C. Donohue for libellant.</attorneys>
+              <attorneys id="b654-20" pgmap="654">W. Q. Mor ton, for claimants.</attorneys>
+              <footnote label="1">
+                <p id="b654-22" pgmap="654">1 [Reported by Robert D. Benedict, Esq., and here reprinted liy permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b654-21" pgmap="654">BLATCHF OltD, District Judge.</author>
+                <p id="AeV" pgmap="654(10) 655(482)">The com­missioner allnved to the libellant, as part of. his damages, “demurrage, eight days, at $50 per day, $400.” This was allowed for the detention of the libellant’s vessel, a pilot boat, while the repairs of the damages sus­tained by her, through her collision with the Bmilie, were being made. I think the claim­ants’ exceptions fairly raise the exception that this allowance was, on the evidence, excessive. I adhere to the rule laid down by me in the case of The Transit [Case No. 14.13S], that, in the case of a pilot boat, the detention allowed for must be for the •detention of the vessel alone, assuming her to be in a fit condition for use as a vessel in the business of a pilot boat, and that nothing can be allowed to the libellant, as •owner of the vessel, for the worth of the time of the pilots on board of the vessel, or •of his own time as a pilot, during the de­tention; that this allowance can include only the value of the use of the pilot boat as a vessel — what, without pilots, or crew, or ■stores being furnished with her. she could have been chartered for to others, to use as a pilot boat; and that, only in the ab­sence of evidence as to the market value of the charter of such a pilot boat, can resort be had to the judgment of persons ac­quainted with the piloting business, as to the value of the time of the vessel, based upon the employment she was in when in­jured, its character and constancy, and its then recent results in the way of earnings. In the present ease, the evidence is, that the libellant’s boat was actually under charter, at the time, to the company of pilots on board of her, for one quarter of her gross ■earnings, the libellant taking the risk of what they would be. The commissioner al­lowed $50 per day, for the value of the use •of the vessel. But. the evidence on the part of the libellant, especially the testimony, of the pilot Henderson, shows, that that amount includes a full allowance for the loss of time of the pilots on board of the vessel. Henderson puts the value of the use of the pilot boat at about $15 per day. -On the evidence, that is all that can be allowed. This is irrespective of the testi­mony put in on the part of the claimants, as to the earnings of the libellant’s pilot boat, during the two months prior to the collision. But, if that were to be consid­ered, it would lead to the same result. It shows, that the boat’s one quarter of the gross earnings for July and August, 1866, (the collision having taken place early in September. 1SGG.) was $973 80, which, for .sixty-two days, would be $15 70 per day.</p>
+                <p id="b655-4" pgmap="655">I think, on the evidence, that an allowance for six days was as much as was warranted.</p>
+                <p id="b655-5" pgmap="655">I therefore allow for six days, at $15 per •day, being a total of $90.</p>
+                <p id="b655-6" pgmap="655">I deduct from the amount reported as damages $310. Bet a decree be entered for the libellant for $550 SO, with interest from February 1st, 18G9, the date of the report.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="654" ORDERLABEL="652" TYPE="page">
+        <fptr FILEID="tiff_00327_1"/>
+        <fptr FILEID="jp2_00327_1"/>
+        <fptr FILEID="alto_00327_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_654.5" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="655" ORDERLABEL="653" TYPE="page">
+        <fptr FILEID="tiff_00328_0"/>
+        <fptr FILEID="jp2_00328_0"/>
+        <fptr FILEID="alto_00328_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_655.3" BETYPE="IDREF" FILEID="alto_00328_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-9" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.11" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-11" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.13" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-10" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.12" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-12" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.14" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-4" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.5" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-22" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.26" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-20" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.22" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-21" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.23" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-6" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.7" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A1m" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.15" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b654-19" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.21" BETYPE="IDREF" FILEID="alto_00327_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AeV" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_654.24" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            <area BEGIN="BL_654.25" BETYPE="IDREF" FILEID="alto_00327_1"/>
+            <area BEGIN="BL_655.1" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b655-5" BETYPE="IDREF" FILEID="casebody_0329"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_655.6" BETYPE="IDREF" FILEID="alto_00328_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

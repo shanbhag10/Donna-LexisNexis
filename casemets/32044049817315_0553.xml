@@ -1,0 +1,705 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0553" publicationstatus="published">
+          <court abbreviation="C.C.D. Mass." jurisdiction="United States">United States Circuit Court for the District of Massachusetts</court>
+          <name abbreviation="Joy v. Allen">JOY v. ALLEN et al.</name>
+          <docketnumber>Case No. 7,552</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1163</citation>
+          <citation category="parallel" type="bluebook">2 Woodb. &amp; M. 303</citation>
+          <decisiondate>1846-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:30Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00583_0" MIMETYPE="image/tiff" CHECKSUM="d077f8f1bca14e5218fc696f190a5d23" CHECKSUMTYPE="MD5" SIZE="13428">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00583_0.tif"/>
+      </file>
+      <file ID="tiff_00583_1" MIMETYPE="image/tiff" CHECKSUM="52e78228cf400c2cedcc3c031965f859" CHECKSUMTYPE="MD5" SIZE="68060">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00583_1.tif"/>
+      </file>
+      <file ID="tiff_00584_0" MIMETYPE="image/tiff" CHECKSUM="cfef6f573d014432614a1f4bd1f5706d" CHECKSUMTYPE="MD5" SIZE="109974">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00584_0.tif"/>
+      </file>
+      <file ID="tiff_00584_1" MIMETYPE="image/tiff" CHECKSUM="0ccd7eb08730589ef7b80527f10509e6" CHECKSUMTYPE="MD5" SIZE="114664">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00584_1.tif"/>
+      </file>
+      <file ID="tiff_00585_0" MIMETYPE="image/tiff" CHECKSUM="c5aa836b353c430155f0252a263e8688" CHECKSUMTYPE="MD5" SIZE="120332">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00585_0.tif"/>
+      </file>
+      <file ID="tiff_00585_1" MIMETYPE="image/tiff" CHECKSUM="297fb0e8199c41a8f0d49bc871324e3c" CHECKSUMTYPE="MD5" SIZE="113016">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00585_1.tif"/>
+      </file>
+      <file ID="tiff_00586_0" MIMETYPE="image/tiff" CHECKSUM="f174380df560feb00a2d3f35b974323e" CHECKSUMTYPE="MD5" SIZE="113022">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00586_0.tif"/>
+      </file>
+      <file ID="tiff_00586_1" MIMETYPE="image/tiff" CHECKSUM="b015dd931ee95136799b6bc0532c0717" CHECKSUMTYPE="MD5" SIZE="113660">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00586_1.tif"/>
+      </file>
+      <file ID="tiff_00587_0" MIMETYPE="image/tiff" CHECKSUM="9e7581dcc440e90735af3032c6e3258b" CHECKSUMTYPE="MD5" SIZE="111194">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00587_0.tif"/>
+      </file>
+      <file ID="tiff_00587_1" MIMETYPE="image/tiff" CHECKSUM="e2832cbdc55bf647d96759f46fc19ca9" CHECKSUMTYPE="MD5" SIZE="38472">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00587_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00583_0" MIMETYPE="image/jp2" CHECKSUM="a4ab664715d8b0e99d1685721fcc46f5" CHECKSUMTYPE="MD5" SIZE="1369340">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00583_0.jp2"/>
+      </file>
+      <file ID="jp2_00583_1" MIMETYPE="image/jp2" CHECKSUM="951dd27162a02736a91bc956b5303057" CHECKSUMTYPE="MD5" SIZE="2668808">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00583_1.jp2"/>
+      </file>
+      <file ID="jp2_00584_0" MIMETYPE="image/jp2" CHECKSUM="48710e6125479dc9a0cdda5cafa72eb8" CHECKSUMTYPE="MD5" SIZE="3771304">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00584_0.jp2"/>
+      </file>
+      <file ID="jp2_00584_1" MIMETYPE="image/jp2" CHECKSUM="b3cec8005ab6fcf085d116102064eeaa" CHECKSUMTYPE="MD5" SIZE="3844391">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00584_1.jp2"/>
+      </file>
+      <file ID="jp2_00585_0" MIMETYPE="image/jp2" CHECKSUM="192d478538a0d572a087ef5891fe9839" CHECKSUMTYPE="MD5" SIZE="3863259">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00585_0.jp2"/>
+      </file>
+      <file ID="jp2_00585_1" MIMETYPE="image/jp2" CHECKSUM="f76d5f3b3a1d7c6e86bb219844613345" CHECKSUMTYPE="MD5" SIZE="3832633">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00585_1.jp2"/>
+      </file>
+      <file ID="jp2_00586_0" MIMETYPE="image/jp2" CHECKSUM="49234d765a7492cb747ba3f909c0aea9" CHECKSUMTYPE="MD5" SIZE="3793553">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00586_0.jp2"/>
+      </file>
+      <file ID="jp2_00586_1" MIMETYPE="image/jp2" CHECKSUM="78289974d042e5f680aa7c5923118f00" CHECKSUMTYPE="MD5" SIZE="3864334">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00586_1.jp2"/>
+      </file>
+      <file ID="jp2_00587_0" MIMETYPE="image/jp2" CHECKSUM="c26bff0fc49446f4e2ac5003848dc9c3" CHECKSUMTYPE="MD5" SIZE="3798616">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00587_0.jp2"/>
+      </file>
+      <file ID="jp2_00587_1" MIMETYPE="image/jp2" CHECKSUM="6f9e70878d2bd53b617c442d70803cd9" CHECKSUMTYPE="MD5" SIZE="2108526">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00587_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00583_0" MIMETYPE="text/xml" CHECKSUM="ea27d407fa767043283c3f30e717d0b6" CHECKSUMTYPE="MD5" SIZE="18462">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00583_0.xml"/>
+      </file>
+      <file ID="alto_00583_1" MIMETYPE="text/xml" CHECKSUM="e8f9f64c55fe34d10131d1a015c87f6b" CHECKSUMTYPE="MD5" SIZE="153434">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00583_1.xml"/>
+      </file>
+      <file ID="alto_00584_0" MIMETYPE="text/xml" CHECKSUM="a8a9198635323d6e405eeed1cb2ec097" CHECKSUMTYPE="MD5" SIZE="253471">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00584_0.xml"/>
+      </file>
+      <file ID="alto_00584_1" MIMETYPE="text/xml" CHECKSUM="d0c55609ed39a9da177ad873fc1515bd" CHECKSUMTYPE="MD5" SIZE="262225">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00584_1.xml"/>
+      </file>
+      <file ID="alto_00585_0" MIMETYPE="text/xml" CHECKSUM="aa97395ba0800b87a6f9a74e0ed31d31" CHECKSUMTYPE="MD5" SIZE="273302">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00585_0.xml"/>
+      </file>
+      <file ID="alto_00585_1" MIMETYPE="text/xml" CHECKSUM="82f3a337082981990a51de63bd06515e" CHECKSUMTYPE="MD5" SIZE="262929">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00585_1.xml"/>
+      </file>
+      <file ID="alto_00586_0" MIMETYPE="text/xml" CHECKSUM="50f8a091db38de4b772cf1e86546b4ed" CHECKSUMTYPE="MD5" SIZE="250971">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00586_0.xml"/>
+      </file>
+      <file ID="alto_00586_1" MIMETYPE="text/xml" CHECKSUM="9b9a31023b3cd7ac58045230d2c67943" CHECKSUMTYPE="MD5" SIZE="257489">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00586_1.xml"/>
+      </file>
+      <file ID="alto_00587_0" MIMETYPE="text/xml" CHECKSUM="d470a131c5b14230b8a395aa254c2c02" CHECKSUMTYPE="MD5" SIZE="254783">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00587_0.xml"/>
+      </file>
+      <file ID="alto_00587_1" MIMETYPE="text/xml" CHECKSUM="26ce097fe58c4859d37425b46f9240fc" CHECKSUMTYPE="MD5" SIZE="80391">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00587_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0553" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1172" firstpage="1163">
+              <court pgmap="1165" id="b1165-8">Circuit Court, D. Massachusetts.</court>
+              <docketnumber pgmap="1165" id="b1165-5">Case No. 7,552.</docketnumber>
+              <citation pgmap="1165" id="b1165-7">[2 Woodb. &amp; M. 303.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="1165" id="b1165-6">JOY v. ALLEN et al.</parties>
+              <decisiondate pgmap="1165" id="ADnp">Oct. Term, 1846.<footnotemark>2</footnotemark>
+              </decisiondate>
+              <attorneys pgmap="1166" id="b1166-4">Mr. Crowninshield, for libellant.</attorneys>
+              <attorneys pgmap="1166" id="b1166-5">T. Coffin, for respondents.</attorneys>
+              <footnote label="1">
+                <p pgmap="1165" id="b1165-21">1 [Reported by Charles L. Woodbury, Esq., and George Minot, Esq.]</p>
+              </footnote>
+              <footnote label="2">
+                <p pgmap="1165" id="b1165-22">2 [Affirming Case No. 7,235.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="1166" id="b1166-6">WOODBURY, Circuit Justice.</author>
+                <p pgmap="1166" id="Ac8t">The right of seamen to wages, as a general principle, after freight has been earned and the voy­age ended, and to recover the same of the owners, or the master when their agent, or of the vessel in rem when not lost, is well defined and clearly regulated by many ad­judged cases, as well as by elementary prin­ciples. But the rules on this subject, in the case of whaling voyages, where usually the wages are not a fixed sum per month, or a quantum meruit, but a portion or share in the earnings, and controlled by specific pro­visions in the shipping articles, are less uni­form and distinct. In this particular case it is agreed, that the share of the libellant was to be one twenty-eighth of the eatch-­ings. This was under the general stipula­tion in the shipping articles, that he went on the voyage “at such share of the net pro­ceeds, or of the actual products of the voy­age, to be paid pursuant to this agreement of the custom and usage in the port of New-­Bedford.” Further, in respect to the time when the payment was to be made, it is agreed that it was according to the true meaning of the stipulation, that each sea­man, when there had “been no plunderage, embezzlement, or other unlawful acts com­mitted on the said vessel's cargo or stores, shall be entitled to the payment of his share of the net proceeds of the voyage, &amp;c. as soon after the return of the said ship to New Bedford, as the oil or other products of the voyage can be sold, and the settle­ment adjusted by the owners of said ship.” According to another stipulation, no officer or seaman shall “be entitled to any payment on account of his interest in the said voy­age, until the said vessel shall have return­ed to the said port, and her cargo have been delivered.” Without much doubt, after all these events have happened, the amount due to any seaman in a whaling voyage, may be sued for in assumpsit, on the special con­tract. See act of congress, 19th of Tune, 1813, in 3 Stat 2; 3 Es. Ca. 141; Macom­ber v. Thompson [Case No. 8,919]; 5 C. Rob. Adm. 8; Curt. Merch. Seam. 60. And it is not objected here, that a libel cannot be instituted for the same in a court of admiralty, because it is a claim in the nature of wages, though not eo nomine for them; nor the vessel itself liable for them, as in other cases in admiralty. Dunl. Adm. Prac. 61; 3 Pick. 439; Harden v. Gordon [Case No. 6,047]. Nor has it been objected here to the jurisdiction of the court, that it is a suit to settle a joint partnership concern, as this may not be such a partnership, technically, however it may be in equity as to the pro­ceeds. The Sydney Cove, 2 Dod. 12; Coffin v. Jenkins [Case No. 2,948]. In England, however, recently, in the case of The Riby Grove, 2 W. Rob. Adm. 52, the court of ad­miralty declined jurisdiction in a claim by a seaman, to enforce such a whaling con­tract as this. It is a case of a special con­tract certainly, though as a partnership, it may be proper to regard it as an imperfect one, if any. Abb. Shipp. 442; The Crusader [Case No. 3,456]; 1 Valin, Comm. 676. Such is the case, when the master divides the profits with the owners in a common voy­age. 17 Mass. 197; 2 H. Bl. 235; 4 Greenl. 264. I shall, therefore, not press exceptions of this kind, when apparently waived by the parties.</p>
+                <p pgmap="1167" id="b1167-3">The first objection, in respect to the right to recover all which is claimed is, that an embezzlement was committed of a portion of the cargo, and hence, under, a stipulation in the articles, it should bar a recovery. But though under these stipulations it seems clear that none of the crew or officers, guilty of “embezzlement,” or “plunderage,” could recover, yet if the embezzlement or fraudu­lent loss of the cargo has been, by some misbehavior of the captain alone, as is un­derstood to be the case here, it would be harsh to make the crew responsible to other shareholders for his misconduct, or to be in­surers against it. Thus, if some of the sea­men are absent when an embezzlement hap­pens, they are not answerable for it. Sul­livan v. Ingraham [Case No. 13,595]; Fred­erick v. The Fanny [Id. 5,077.]</p>
+                <p pgmap="1167" id="b1167-4">The next objection is, that the vessel has never returned within the meaning of the articles, so as to render the owners at all liable. But, if the vessel is condemned abroad, or lost at sea, or captured or sold, and a part of the cargo was saved, or re­gained, it would seem just to let the seamen have a share, though the vessel never re­turned, in specie, to this country. Shep­pard v. Taylor, 5 Pet. [30 U. S.] 675. Such is the rule, in substance, in common cases of wages, or in a loss at sea, where freight is before earned. 2 Dod. 502-501. Such cases constitute equitable exceptions. Much more should they here, where the voyage was broken up by the respondents’ ship be­coming unseaworthy, or by the wrongful acts of their master and agent.</p>
+                <p pgmap="1167" id="b1167-5">In the next place, the owners except, that they are not responsible for any oil, or its proceeds, not actually received by them, nor gone to their benefit. It is true, that the written stipulations indicate expressly that nothing can be recovered as wages in such a case, except what was “the net proceeds,” or “actual products of the voyage.” Such a provision is very natural and proper, where the owners and mariners embark together in a fishing adventure, full of danger and loss, speculative and doubtful in some degree as to its results, but holding out a prospect of gain at times very large, and much be­yond the ordinary rate of seamen's wages, as well as of mercantile profits. In such a case, each party, if claiming and entitled to those large gains when made, must of course submit to smaller ones, and less profit or wages, when the gains happen to be small from losses or other causes. But the libel-­lant insists, that the owners are liable, on account of the oil sold abroad and lost there by the embezzlement of the captain, as well as for the proceeds of that which reached this country. Whether this position can be sustained or not, must depend on the special contract in the shipping articles, made be­tween these parties, the nature of their re­spective interests, and their several duties and liabilities to each other.</p>
+                <p pgmap="1167" id="b1167-6">It is a matter of some surprise, that when the whaling business has been pursued so long and extensively as in this country, the adjudged cases should be so few that go to fix the rights and relations of all con­cerned. But it may be considered as set­tled, that the seamen, in such cases, are not to be treated as jointly interested in the ship or cargo, with the owners, in the common acceptation of such an interest. Abb. Shipp, pt. 5, c. 1 (New Ed.) 715; 4 Es. Ca. 182; 4 Maule &amp; S. 248; 1 Camp. 329; 3 Pick. 435; 4 Pick. 234 ; 23 Pick. 492; 17 Mass. 206; The Crusader [supra]; The Sydney Cove, 2 Dod. 12. Yet it is certain, that they are jointly interested in the proceeds or products of the cargo, leaving the technical title in it till sold to be in the managing part of the concern, the owners of the vessel. 23 Pick. 492. What is the true nature of the inter­ests, then, in the cargo on the face of the transaction? The owners seem to be a species of trustees for the seamen in com­mon with themselves. It is a sort of joint stock operation, under directors, and be­tween whom and the other shareholders the net products of the trust are to be divided in certain agreed shares. It is, then, a doubtful question, under these views of the contract and undertaking in this voyage, whether the owners, can be considered chargeable, and be made to account for a share in any oil in this case, which never came into their possession, and from which they never realized any proceeds, but which was embezzled and sold by the master. Their liability for that, it seems to me, must depend on the care and diligence they were bound to use, and did use under general principles applicable to trustees and agents, and the nature of this kind of business.</p>
+                <p pgmap="1167(221) 1168(888)" id="b1167-7">It is only by analogy to some act of con­gress. and by reference to the specific con­tract in this case and others like it, and by resemblances between this and other trans­actions in some degree similar, that any just result can be reached in the present case. There is no act of congress which seems to bear on this question. That of June 19, 1813. as to those engaged in “the bank or cod fishery,” is limited to them. 3 Stat. 2. And nothing is prescribed about what shall and what shall not be chargeable in their account, or what the owners may be answerable for in it at common law or in admiralty. If we go from that to the lia­bility of owners in freighting vessels for the cargo, when embezzled, and if there they would be answerable for robbery, or barratry in the master, or theft by the crew, the ground for the liability of owners there as common carriers, does not seem to exist here. Their relations here to the cargo, as carriers of what in part belongs to other shareholders in equity, and in part to themselves, but the legal title to all being in themselves alone, seems to create a responsibility entirely dif­ferent. The interests in it, the dangers of the public policy concerning it, are all different. To hold the owners to be insurers of the ■cargo against all events, when they were act­ing only as trustees or agents for those in­terested in the cargo, partly themselves and partly others, could not be supported either by precedentsor the nature of the business. Thus, though owners, when common carriers, wheth­er by land or water, are liable in case of loss by robbery or embezzlement, on account of the danger of collusion and fraud in any other course, it is not so even there in case of loss by perils of the sea or public enemies, where no such danger of collusion exists. Abb. Shipp. 2S6, 291. So here, it does not exist in case of embezzlement or fraud, as the property carried by the owners is technic­ally their own, and in equity belongs to them and the crew and officers in charge of it; and it is not received by them as com­mon carriers from and for strangers. So far ■as it is property, the title to which is in themselves, they are of course bound by law to no diligence, except what they please to exercise over their own property; but so far ■as thejr hold it in trust for others, and carry what others have a claim to, as cestui que trusts, they are responsible to those others to the extent that trustees are generally. If likened in this respect to directors over joint stock property, • such as banks, manu-­factories, &amp;e., in which they are shareholders, they are from their position liable for reason­able diligence and care, but nothing more. So, if they are considered as a species of special co-partners in the cargo, though in managing it the seamen are regarded as dor­mant, was it ever heard that an acting part­ner was liable to a dormant one for any thing but ordinary diligence? or, for a loss sus­tained by the wrongful acts of agents? They must, to be sure, carry the cargo with ordi­nary diligence, so- far as others may possess some interest in the proceeds of it. But they .are not compensated so as to justify requiring from them more care than that, and their relation to the cargo does not render it neces­sary to exact greater diligence than that, their own interests in it being so large as usually to furnish a sufficient guarantee for the use •of all reasonable vigilance. The owners sup­ply the vessel and provisions, and usually re­ceive therefor one half or two thirds of the voyage, according to. the express agreement in the shipping articles, or the usage of the port, when not otherwise provided for. Did they, then, use ordinary vigilance here, as to the property lost or misused, or plundered by "the master, and in the selection or prosecution ■of him? Nothing appears in evidence to the ■contrary. They had an ample motive to use it, being such large proprietors of the cargo, ■as well as owning all the vessel. The master, for aught which is shown, had been experien­ced in this business, and up to that time con­sidered trustworthy. He never returned to this country so as to be prosecuted for his misbehavior, and damages recovered of him for all interested. Such a suit at Tahiti could hardly be expected, or elsewhere near. No insurance is shown on the cargo, either for themselves or all concerned, though a letter is put in about a resort to the offices for some indenmity; and, for aught which appears, nothing could be or has been received from the offices, by way of insurance on the cargo, and could not have been, unless the offices choose to insure against barratry, and after some cargo was known to be on board. I have no doubt that if the owners should neg­lect to prosecute for barratry or robbery on the cargo, or sell it to persons apparently irresponsible, or be negligent in storing it before sold and after arriving here, they would either be liable to suits at common law by the seamen, or be made to account in a libel like this for the loss sustained. But I know of no duty on them to insure for them­selves or the seamen, even if able to, and that they should be held answerable when in all these subjects they have exercised ordinary diligence, and which, from their own large in­terest in the cargo, it is presumed they will and do exercise, till the contrary appears; or that they should be held answerable for oil destroyed by shipwreck or fire, or wrongful or tortious acts of the master or others, does not seem to accord with their peculiar re­lations to such property, and the peculiar terms of the shipping articles between them and the seamen. Any loss, so sustained, falls on them also at first more heavily than on the seamen, and not, as in cases of ordinary freights, on others, the owners of the cargo, or their insurers. The officers and men too. are, in this view, in a case like this, inter­ested to prevent loss in any way. as they are deeply interested in the cargo and its pro­ceeds.</p>
+                <p pgmap="1168" id="b1168-5">• The whole of this whaling business depends so much on the special contract of the par­ties, that congress appears to have regarded the vessel not liable at all for the share due to the seamen instead of wages, in similar fisheries and contracts, without a particular law. and then renders the vessel liable during only six months after the sale of the fish, but makes no provision whatever as to the whale fisheries. They left them to their special con­tracts. 2 Stat. 2. The conclusion is then forc­ed on my mind, that the owners, being under strong inducements to use due diligence to re­cover more of the cargo than actually came to their hands, and the evidence in the case fail­ing to show any neglect to use such diligence; they ought, therefore, in law as well as jus­tice, to be held to account for no more than in truth reached their custody or possession. See The Riby Grove, 2 W. Rob. Adm. 64.</p>
+                <p pgmap="1168(60) 1169(919)" id="b1168-6">In fixing the responsibility of the owners, in a case like this, for the embezzlement and loss of the cargo, by the misbehavior of the mas­ter or crew, the contract and nature of the case being peculiar, it would be useful to look to some further analogies bearing on the spe­cial character of this voyage and the fiduciary relation in wliicli tlie owners stood to the crew and the cargo, and see if they do not fortify the conclusions I have formed. It is undoubt­ed, as before suggested, that if they were com­mon carriers for others for hire, they would not be excused from liability to others, own­ing the cargo, for embezzlement and losses by the master and crew, though exercising ordi­nary diligence. Story, Bailm. § 528; Abb. Shipp, pt. 3, c. 3, § 3; Jones, Bailm. 107; 3 Es. Ca. 127; 4 Day, 287; 3 Day, 389; 6 Johns. 170; 8 Johns. 213; 4 Burrows, 2298. The law on this point, however severe in ap­pearance, has been long and well settled on .grounds of public policy, and should not be now changed, except by legislation. 10 Johns. 1; Story, Bailm. §§ 488, 489; 9 Wend. 114; The Maria, 4 C. Rob. Adm. 348, 349; 1 Durn. &amp; E. [Term R.] 27. In such case they are insurers as to all, not excepted. But here it is equally undoubted, that they were not com­mon carriers. They did not hold themselves ■out for freight for hire to any persons offering to employ them. Their vessel was, in sub­stance, dedicated or chartered for a special private purpose, in which they and the crew were mutually interested; and they were to •carry only their own property and that of the crew, of the special hind, taken or caught on the voyage. Their business in carrying, then, was not common and open to the world; nor was it for hire from others, but to benefit merely themselves and the crew by bringing home their earnings, for the mutual advan­tage of all of them. See cases distinguishing what carriers are not common oneq, Story, Bailm. §§ 457, 495; 2 Kent, Comm. 40, 597; 2 Bos. &amp; P. 417; 4 Taunt. 787; 1 Wend. 272; 6 Taunt. 877; 1 Salk. 249; 1 Bell, Comm. 467, § 399; Caton v. Rumney, 13 Wend. 387. See further, Story, Bailm. § 501; 11 Mass. 99; 19 Johns. 235; 15 Johns. 370; 2 Wend. 327; 9 La. 33, 34. What then was their position as bailees, by analogy, if not that of common carriers? It seems to me to have been that •of depositaries, with some interest in the thing •deposited belonging to the depositary. The catchings were to be deposited in the vessel, and the owners were to take into their charge, in connection with the officers and crew of the vessel, the whale and oil, as caught and prepared, and bring it to this country. All on board were interested in its safety, and the ■diligence required by law in such cases may be even less than ordinary. . Story, Bailm. § 63. At all events, it would be no more than ■owners generally, or depositaries in such busi­ness, usually exercise in relation to their prop­erty. 14 Serg. &amp; R. 275; 2 Adol. &amp; E. 256; 2 Kent, Comm. 40, 561; 4 Nev. &amp; M. 256; Story, Bailm. §§ 62, 63, 67, 79; Jones, Bailm. 151. If stolen or embezzled by others, it is "the loss not of the depositary if using ordi­nary diligence, but the loss of those making the deposit. See same cases, and Foster v. Essex Bank, 17 Mass. 479; 1 Dane, Abr. c. 17, art 11, § 3. And the case is not altered when the depositary, as here, may be regarded as jointly interested in the property. Jones, Bailm. 82,83; Story, Bailm. § 62. The civil and French laws are similar in this respect, as to depositaries. See 17 Mas. 479, 499 ; 4 Bur­rows, 2298; 2 Bl. Comm. 452. See Coggs v. Bernard, 2 Ld. Raym. 909-914; 2 Show. 172, 184; 4 Coke, 84; Cro. Eliz. 815; Willes, 118. But if by analogy they are not common car­riers, or depositaries, with an interest in what was deposited, they may, so far as carrying the oil for others be regarded in this instance as private carriers for hire, to be paid out of, or by their share in, the oil, as their hire. That comes nearest, probably, to the naked truth. Story, Bailm. § 457. In such a ca­pacity they are liable for only ordinary dili­gence.’ Story, Bailm. § 457; 2 Bos. &amp; P. 417; 6 Cow. 173; 11 Mass. 99; 8 Car. &amp; P. 207-­211; 2 Moody &amp; R. 80; 1 Moody &amp; B. 38. And theft, or injury by force, committed on the property, in such a case, they are not responsible for, unless failing to use ordinary diligence. See same cases, and Jones, Bailm. 97, 98. But one plausible answer has been urged to objections like these, and, on its face, till the proper principles are applied to this peculiar kind of business and contract, seems to have much force. It is, that the master was the agent of the owners; and as the whole cargo is shown to have been in the pos­session of the master, it must be deemed in law to have come into the possession of the owners, and they, ought, therefore, to account for the whole. It must be conceded, that, for many purposes, the master of a vessel is to be regarded as the agent of the owners. 9 Johns. 227; 2 Selw. 582; Abb. Shipp. 791, note; 6 Mass. 300; U. S. v. Hamilton [Case No. 15,290]; Bray v. The Atalanta [Id. 1,819].</p>
+                <p pgmap="1169(249) 1170(379)" id="b1169-5">In all cases, generally, of a loss of cargo by embezzlement, sale, or destruction of it by the master or crew, the owners of the vessel will be held responsible to the owners of the cargo; “because all persons employed in the naviga­tion of a vessel are the direct servants of the owners of the ship, in different grades of au­thority.” Jordan v. White, 4 Mart. [N. S.] 339; Merch. Mag. June, 1846, p. 550. But this, of course, must mean other owners of the cargo than the officers and crew, or the own­ers of the vessel, as it would be the worst policy imaginable to make them answerable to the officers and men for their own misbe­havior; and it would be absurd, no less than useless, if the owners themselves are the tech­nical owners of the cargo, to make them lia­ble for it to themselves. Independent of this, in cases generally the master is not the agent of the owners, in any wrongful acts by him, unless in law or fact he was authorized by them to do those wrongful acts, or placed in a position so as to make them liable for such acts to strangers. He, of course, is not their agent in selling and embezzling their own property, so that they cannot recover of him for such wrongful acts; and hence, when they are bound to others by such wrongful acts of his, it must be, because they adopted them, or put him in a position where they are answerable to others for him, whether acting wrong or right But that must be to others who are third persons or strangers, and can­not be to such as their own cestui que trusts, joint stockholders, or co-partners in real inter­est, and when ordinary care was used by the owners in selecting the master or agent To illustrate this fully, their liability for him does not extend beyond acts done within the compass of his employment, and he never is empowered to sell the cargo; it is not within the compass of his employment unless ex­pressly authorized, except, in case of extreme necessity, to pay for repairs. 2 Browne, Civ. &amp; Adm. Law, 134, 139. Where he is ex­pressly or impliedly empowered to sell the ves­sel. may be seen in other cases. None of them are shown to be like the present case. Abb. Shipp. 93; 6 Mass. 422; 1 Pick. 389; 6 Cow. 173; 9 Johns. 325. So they may be liable for him ex delicto, no less than ex con-­tractu; for acts done in executing his agency, which acts, from neglect or want of skill, in­jure others. McManus v. Crickett, 1 East, 106. But beyond that, I see no reason for making them responsible for his wilful and intentional wrongs, whatever may be the doc­trine of some few foreign courts, or foreign jurists as to this. See cases in The Rebecca [Case No. 11,619], Nothing is proved here to make them liable for him as an agent, under these views, nor is his conduct in condemning this vessel, and disposing 'of that and the cargo, as hereafter explained more fully, shown to have been justified by any facts, bringing the acts within those general prin­ciples, which sometimes allow such acts from the necessities of the case, or the policy of the law. His behavior, therefore, was a wrong to the owners as well as the seamen inter­ested in the cargo; and no exigency is proved, which made it rightful in him as an agent, or requires them to be responsible for his con­duct in doing it, to the persons suffering and interested only in common with themselves.</p>
+                <p pgmap="1170" id="b1170-4">If there had been an exigency shown for a sale, in this case, of the cargo, perhaps it would be just to regard such sale as the sale by the owners, and to hold them to account for it, as much as to account for the others made at home. For though the vessel has never arrived home, and hence the owners are not strictly liable, within the words of the shipping articles, till she does; yet if she was condemned and sold abroad correctly by their agent, it does not, as before suggested, lie in their mouths to object that she has not yet returned; and by parity of reason­ing, if their agent correctly sold some of the cargo abroad, and received the proceeds of it. they are not to be heard to say, these proceeds have not come to their hands. The George [Case No. 5.329]; Cloutman v. Tuni­son [Id. 2.907]; Pitman v. Hooper [Id. 11,-­185]; U. S. v. Winn [Id. 16,740]; The Sara­toga. [Id. 12.355]: 2 Hagg. Adm. 171. What­ever is legally and properly done and received by an agent, is to be regarded as legally and properly done by the principal. But the evi­dence required as to the legality and pro­priety of the conduct of the agent on this subject, so as to bind the owners, is here entirely wanting.</p>
+                <p pgmap="1170(511) 1171(53)" id="b1170-6">So far as any evidence exists, it is almost all the other way. Beside this answer to the claim to hold them responsible to the crew for the captain’s acts on this subject, he was in another view of the transaction as fully the agent of the crew as of the owners. To be sure, he was not selected by them direct­ly, and answerable to them directly; but he was selected by and answerable to their trastees, the owners acting as well in the behalf of the seamen as to their interests in the cargo as in behalf of the owners. This connection and relation are useful to pre­vent what the shipping articles call “plun-­derage,” and make the seamen vigilant as to any neglect or misbehavior of the master, of robbery by others, and to give sea­sonable information of them to consignees abroad and the managing owners at home. It seems to make the business more lucrative for all, when all are partners in the profits, and have imperative reasons for attention. But on the other construction, the seamen would be indifferent to all this, and might be tempted to unite in depredations on the very property in whose proceeds they are jointly interested, but for which, if lost or embezzled, the owners of the vessel are, by this other construction, to be held responsi­ble, and the crew not to be in some degree common" sufferers. It is a matter of regret, that evidence and admissions here are not more distinct as to the nature of the em­bezzlement, barratry or loss by the captain, being chiefly derived from his own accounts sent home to the owners. But it seems con­ceded to have amounted to some wrongful and fraudulent act, which prevented him from ever returning to this country. The definition of barratry is fraud and deceit by the master, committed on the owners of the vessel or cargo. 8 East, 126; [Swan v. Union Ins. Co. of Maryland] 3 Wheat. [16 U. S.] 170, note; 14 Mass. 1; 13 Johns. 451. Such was it here, so far as explained. It may be by running away with the property, or smug­gling, so as to forfeit vessel or cargo, or any other fraudulent destruction or loss of them; though it must not be mere neglect. 3 Wheat. [16 U. S.] 171, note: 1 Strange, 581; Cowp. 143: 4 Durn. &amp; E. [Term R.] 33; 1 Durn. &amp; E. [Term R.] 330; 2 Ld. Raym. 1349. If they insured here, it was not probably against barratry. 8 Mass. 308; 13 Johns. 451. Insurers are not liable for barratry, unless it is specially insured against. 7 Durn. &amp; E. [Term R.] 505; 1 Durn. &amp; E. [Term R.] 323; 2 Strange, 1171; 3 Durn. &amp; E. [Term R.] 278. The own­ers can insure against it if they please, and offices deem it good policy to take such an insurance. Patapsco Ins. Co. v. Coulter, 3 Pet. [28 U. S.] 232; 2 Barn. &amp; Ald. 82; Grim v. Phoenix Ins. Co.. 13 Johns. 4551. But here they could hardly be expected to be liable for or to insure against frauds and losses of property, to be committed by part owners in equity. There was quite as much reason for the seamen to insure as to the cargo, as the owners.</p>
+                <p pgmap="1171" id="b1171-4">Seamen cannot insure their wages in com­mon cases of freighting voyages, as it might prevent so much exertion to save the vessel and earn freight. The Juliana, 2 Dod. 509; McQuirk v. The Penelope [Case No. 8,925]; 1 Hagg. Adm. 289; 3 Dod. 201. But after they are earned, and especially if invested in a cargo on board, the objection would not seem to apply. And though then, it would not answer to allow them to insure against embezzlement or barratry generally, I see no reason why seamen may not in a voyage like this, insure their own share, after some cargo is taken, and against the barratry of the captain or embezzlement by him or other seamen. But however this may be, a neglect 'or inability in law thus to insure, furnishes no reason why the loss must not fall on themselves rather than the owners, as the latter are here only private carriers, and not obliged to insure, and liable only for ordi­nary diligence, and presumed to exercise it here in respect to a cargo where the title was nominally all in themselves, and held in trust for themselves no less than others. If they are liable, it would seem also more proper to subject them in a special action on the case or on the contract, and not by charging them with the net proceeds of what they never received at home; and when the gist -of the complaint is misfeasance, in em­ploying an unfaithful captain, rather than actual receipts by them of further proceeds, than they proposed to account for. There are some conflicting analogies and cases on this point. I admit, and it is not without some hesitancy I have come to the conclu­sion, that this exception, thus set up, grow­ing out of the general agency of the master for the owners, ought not to prevail to make the owners liable for his misconduct abroad in relation to this cargo, without further evi­dence than has been offered in the present case. But it need not be a matter of sur­prise. that most questions in litigation have to be disposed of doubtingly. and resort be had often to general reasoning and analogies, to get any thing like certainty on the one side or the other. Because if precedents ex­isted in point, the counsel could seldom ad­vise parties to contest questions; and much less would they do it. if positive statute or well settled principles applied directly in point to the matter controverted. The most that courts can do, when not able to find such precedents, or statutes or principles to guide them, and which have been overlooked by counsel, or disregarded by parties, is to grope their way to what seems most just and truthful and right by the aid of collateral illustrations, indirect analogies, precedents bearing on the question, but not running on all fours, and inferential reasoning from oth­er settled rules. And after all that, the re­sult may be only an approximation to what is correct, having the balance of legal prob­abilities in its favor, rather than being clear or undoubted. It is fortunate sometimes to be thus far fortified. It may be strong enough to form a new landmark in the law. a new and authoritative rule or guide; or it may only throw some new light on a diffi­cult question, and furnish scaffolding to aid others to mount higher.</p>
+                <p pgmap="1171(433) 1172(118)" id="b1171-6">I am, however, more strengthened in the conclusion to exonerate the owners of the vessel for the master’s embezzlement in this case and on this evidence, from another cir­cumstance, about to be explained. It relates to the long delay, which has been indulged in by the plaintiff in prosecuting this whole claim, and which, it will be seen, bears spe­cially and unfavorably on that part of it for oil sold abroad by the master’s misbehavior, as. during that delay, he has become both insolvent and dead. This is a consideration separate from the statute of limitations pleaded as a defence against the whole claim, and which I shall consider hereafter. When there is no technical bar by statute, and no delay, which has changed the condition of the parties by sale, or settlements of the property at home, there may still be such a delay as to produce changes greatly affecting the property abroad. In respect to any oil, not actually received in this country by the owners, there may be an injury by so long delay to call on them as to that oil, lost or improperly disposed of by the master abroad, as ought to exonerate them entirely from ac­countability for it, though otherwise liable. Thus applying a .like rule in an admiralty case as in equity, the libellant not appearing ever to have apprized the respondents, that he should hold them accountable for the par­ticular oil lost abroad by the unfaithfulness of their captain, and never having prosecuted them for the same here till the captain was dead, and a remedy over on him by the re­spondents probably worthless: it would not answer-to justify a long neglect of that char­acter and tendency, and of such injurious re­sults, without further explanations than have yet been given in this case. The action of congress in making vessels engaged in the bank and cod fisheries liable for only six months after the sale of the fish, to pay the share of a seaman, shows by analogy that they ought to be prompt, and more especial­ly in anj- doubtful claim to oil lost abroad, and should not lay by till death and insol­vency. and loss of papers, and changes of re­sponsibility. may have made the claim en­tirely destitute of equity. If sustained at all. it may be only on the sharp points of the law. apices juris. A court of admiralty, however, in cases within its jurisdiction, pro­ceeds on ■ equitable rather than strict legal principles, and is hence called “the chancery for the soa." The Juliana, 2 Dod. 521; [The Orleans v. The Phoebus] 11 Pet. [36 U. S.] 175; [The Virgin v. Uyfhins], 8 Pet. [33 U. S.] 538; Hardin v. Gordon [Case No. 6,047]; Andrews v. Essex Fire &amp; Marine Ins. Co. [Id. 374]; 1 Hagg. Adm. 176, 357. On this cause of exemption, see a case in equity, Mason v. Crosby [Case No. 9,234]. For this and the ground- before mentioned, I think the respondents in this admiralty proceeding should, in the first instance, be charged with only the share or “lay” of the plaintiff in the one twenty-eighth of the net proceeds of the oil, which reached the hands of the owners in this country.</p>
+                <p pgmap="1172" id="b1172-4">The statute of limitations, as operating on this amount, and indeed the whole claim, is next to be considered. The length of time which inteiposed between the sales of the oil here and the time this libel was filed, and which has been set out in the answer of the respondents in the nature of a bar by the statute of limitations, is very unusual. 1 have no doubt that this statute should pre­vail in proper cases, when a party chooses to rely on it, in admiralty as well as in com­mon law proceedings; and, if not as a tech­nical bar, yet as an equitable defence, show­ing unreasonable neglect by the complaining party. Willard v.. Dorr [Case No. 17,679]; Brown v. Jones [Id. 2,017]. The statute of 4th of Ann expressly reaches cases in ad­miralty for seamen’s wages. Doug. 1, note; 2 Browne, Civ. &amp; Adm. Daw, 187. It is a little singular in this case, that the libellant, not pretended to be wealthy, and impatient as seamen generally are for their dues, and having so large a demand against responsi­ble persons, should have slept over it so long and so soundly, if it was deemed valid or had not been seasonably settled. But it may have happened because he expected a claim was still pending by the owners against the insurance offices, which might, if successful, increase the trust fund, in which he was interested; or it may be that he did not wish to encounter the defence there in­timated and now pleaded against his recov­ery, but abandoned at the hearing that he had deserted from the vessel. It is certain that Colter, the master, in one of the letters put into the case, charges him with having left the vessel without leave; and the libel-­lant might hesitate in pushing his claim for some time, under such a charge to be con­tested, in expectation of Colter’s death, who seems to have become very intemperate, and who died about two years since, and could not now be a witness against Mm. But there is no pretence of actual payment to him since the demand which he made in May, 1839. Nor is there any evidence of a change in the position of the owners here, during this delay, by a division of the pro­ceeds among them, and the loss of any rem­edy over if some are now made liable, and thus raising strong equities to bar a recovery on either of those accounts.</p>
+                <p pgmap="1172" id="A6p">My impression then is, that the claim for what actually reached the owners ought not to be. barred by the delay to enforce it, un­less it has been such, as at law would make the statute of limitations available against it. How this is, depends on the time, when the right of action commenced. The right to some share in the proceeds commenced whenever there were any catchings, contin­gent on there being enough in the end to yield a net balance after deducting proper expenses, and on their reaching the owners so as to be sold and the products ascertained. That contingency having probably been fix­ed by the arrival of the oil here, the liability of the owners, if then fixed by it as a debt,, was one not payable at once, in presentí, but payable after the sales, and readiness to make a final adjustment. This readiness did not exist in October, 1839, when the two let­ters before referred to were written; and if there be some doubt, whether they are to be construed as acknowledgments of something due to the libellant or not, which being with- • in six years of filing and serving the libel would take the case out of the statute, as the law then stood, there is no substantial doubt, that they showed a want of readiness then, as provided for in the shipping articles, to make a final adjustment of the proceeds of the voyage. They were an admission by the respondents, that the legal time for such an adjustment, under the contract and the facts of the case, had.not arrived. Hence no action could be maintained against them till after October 10,1839; and the statute, it is well settled, does not begin to run till an action can be sustained. See Aug. Dim. 45, 60, and cases there cited; Pothier, by Evans, 404; 2 Story, Eq. Jur. § 1531. Six years did not elapse from that time to the filing of the bill. It follows then, that six years not hav­ing expired since the right to sue accrued, and also not, since the claim was recognised or acknowledged by Allen and his agent as unpaid and soon to be adjusted, there is no technical bar to a recovery here, by means of the statute of limitations.</p>
+                <p pgmap="1172" id="b1172-7">The judgment below is, therefore, in most respects affirmed. If the counsel do not agree in making up the proper sum to be paid un­der this opinion, I will refer it to an auditor to make the proper computations and allow­ances, and report the amount due.</p>
+                <p pgmap="1172(118) 1173(504)" id="b1172-8">And it may be useful now to submit a few remarks in relation to one or two of these allowances under the peculiar circumstances of this case. Thus in respect to any char­ges and deductions, proper in this case for the freight of the oil home after the con­demnation of the ship, I should, as a general principle, think it was a part of the duty of the owners to carry the cargo, after taken, to this country; and that the expenses of doing it are chargeable to them, rather than to the cargo. If the vessel becomes not seaworthy on the voyage by perils of the seas, as is supposed to have been the case here, the owners must, by analogy to other eases, on shifting the cargo, not receive freight on it, (or, in other words, have their share or proportion of the eatehings,) unless they are at the expense of carrying it to the place of its original destination, so as to •earn their freight, or what is a substitute for it. In that way only can they equitably ■or legally earn their share in the net pro­ceeds of the cargo. But it may be, that by the shipping articles, or usages of the whale fisheries, which the - articles recognize ex­pressly as binding, this rule would apply only where the vessel was not seaworthy at the time of leaving home. This last is not pretended to be the case here, and is seldom likely to be, as the owners of the vessel, on account of their large interest in the cargo, no less than the vessel, are deeply inter­ested to have her seaworthy, and could not indemnify themselves by insurance, if she was not seaworthy when sailing from this ■country. The articles of contract and the usage may therefore control what otherwise would seem proper, and make this misfor­tune, so far as regards the freight of the oil home, fall as a general charge on all the ■cargo, and all those interested in it. If they do, the allowance must be made, other­wise not. If they do, it will be another •circumstance in the usages of this business, strengthening the opinion as to the .ioint stock or co-partnersliip nature of it in equity; and hence exonerating the owners as to all •oil, not received by them nor applied to their use, if exercising ordinary diligence. Again, if any of the cargo, sold abroad, ap­pears to have been sold and applied under ■one of those necessities, to make repairs or •obtain supplies for the vessel, which impart to the master an authority to hypothecate or sell the cargo, the owners ought to be an­swerable for the share of the libellant in what has thus clearly and rightfully gone to their benefit. But if the evidence and papers prove nothing as to such a sale and •application under such a necessity, and noth­ing has yet been seen in them or pointed out which renders this probable, then, as before suggested, nothing can be charged to the owners on this ground. The answer ■and evidence might have been fuller as to this, and as to the barratry and embezzle­ment by the captain. But the accounts ren­dered by him show great misconduct and peculation; making sales of some oil in the first account, which still brought or left him in debt to the owners for more than the whole proceeds of the sale, and in the other •accounts showing sales, which left him in debt for oil several thousand dollars, and for both oil and the vessel, after many un-­allowable charges, in debt to the amount of nearly $9000.</p>
+                <p pgmap="1173" id="b1173-4">This may be placed in a different light on further attention being directed to it by the counsel for the libellant. But if it cannot be, nothing must be added for any of the .sales made by the captain abroad, as no necessity is shown, and it is necessity alone that can justify the exercise of such a strong, and in some degree dangerous power. The authorities are full to this effect. Thus the master cannot pledge the freight to raise money for himself. Keith v. Murdoch [Case No. 7,652], Yet he can bind owners for supplies necessary and suitable in kind. The Rhode Island [Id. 11,743]; 4 Barn. &amp; Aid. 352; [Wainwright v. Crawford] 4 Dali. [4 U. S.] 226; Ross v. The Active [Case No. 12,070]; Keith v. Murdoch [supra]. And so for necessary repairs. 6 Mass. 163; 11 Mass. 34; [Wainwright v. Crawford] 4 Dall. [4 U. S.] 226; 1 Starkie, 27; 2 Starkie, 428. But he must not hypothecate or sell, if furnished with means, or can draw, &amp;c., as then it is not necessary. 1 Abb. Shipp. 123; [The Aurora] 1 Wheat. [14 U. S.] 96; Patton v. The Randolph [Case No. 10,837], And though he can sell the cargo, if necessary, for repairs abroad (3 C. Rob. Adm. 240; Abb. Shipp. 176, 245; 17 Mass. 478; 18 Johns. 20S; 1 Johns. 106; 11 Johns. 293; Willings v. Consequa [Case No. 17,767]; 2 Pick. 249; The Fortitude [Case No. 4,953]; 2 Browne. Civ. &amp; Adm. Law. 153; Pope v. Nickerson [Case No. 11,274]), yet there must be strong necessity, and this shown by those justify­ing the sale (Tunno v. The Mary [Id. 14,237]; Boreal v. Golden Rose [Id. 1,658]; Sloan v. The A. E. I. [Id. 12,946]; Liebart v. The Emperor [Id. 8,340]; Canizares v. Santissi­ma Trinidad [Id. 2,383]; 6 Bing. 262; bb. Shipp. 244, note, 107; Scull v. Briddle [Case No. 12,569]; 1 Bing. 243, 445; The Tilton [Case No. 14,054]; 8 Taunt. 735; The Triton, <footnotemark>3</footnotemark> Brod. &amp; B. 151). And the laws of Oleron and of Wisbuy, and the code of Louis 14th, did not allow a sale in any case by the mas­ter, without express authority of the owners.</p>
+                <p pgmap="1173(204) 1174(36)" id="b1173-6">If the master in this case was specially empowered by the owners to sell oil abroad, whenever deemed profitable by him. that would present a different justification and perhaps a new ground for the liability of the owner; unless, in such case, by the agreement or usage of the business, the own­ers were to account for only suc-h sales abroad as actually were settled for with them by the captain. Nothing has been shown as to this, and nothing probably ex­ists; and without such an authority given expressly, the master is not agent of the owners to sell (2 Browne, Civ. &amp; Adm. Law, 134); and can only sell in the emergency be­fore described. There may have been, in fac.t, some payments made to seamen abroad with this oil, beyond the other means fur­nished; and if so, and if it is the usage to allow the master to make such payments, some claim may perhaps be upheld for some allowance to the libellant for his share in that. But this point was not raised at the hearing, and no evidence is offered about it, except some statements in the accounts ren­dered by the master. If the parties do not agree on this, the auditor can report the facts hearing on it, before the final decree is made up. The judgment below is to be affirmed, but with the deductions from its amount I have indicated.</p>
+                <footnote label="3">
+                  <p pgmap="1173" id="b1173-7">3 [Case No. 14,181.]</p>
+                </footnote>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1165" ORDERLABEL="1163" TYPE="page">
+        <fptr FILEID="tiff_00583_0"/>
+        <fptr FILEID="jp2_00583_0"/>
+        <fptr FILEID="alto_00583_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1165.4" BETYPE="IDREF" FILEID="alto_00583_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1166" ORDERLABEL="1164" TYPE="page">
+        <fptr FILEID="tiff_00583_1"/>
+        <fptr FILEID="jp2_00583_1"/>
+        <fptr FILEID="alto_00583_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1166.4" BETYPE="IDREF" FILEID="alto_00583_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1167" ORDERLABEL="1165" TYPE="page">
+        <fptr FILEID="tiff_00584_0"/>
+        <fptr FILEID="jp2_00584_0"/>
+        <fptr FILEID="alto_00584_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1167.2" BETYPE="IDREF" FILEID="alto_00584_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1168" ORDERLABEL="1166" TYPE="page">
+        <fptr FILEID="tiff_00584_1"/>
+        <fptr FILEID="jp2_00584_1"/>
+        <fptr FILEID="alto_00584_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1168.5" BETYPE="IDREF" FILEID="alto_00584_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1169" ORDERLABEL="1167" TYPE="page">
+        <fptr FILEID="tiff_00585_0"/>
+        <fptr FILEID="jp2_00585_0"/>
+        <fptr FILEID="alto_00585_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1169.4" BETYPE="IDREF" FILEID="alto_00585_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1170" ORDERLABEL="1168" TYPE="page">
+        <fptr FILEID="tiff_00585_1"/>
+        <fptr FILEID="jp2_00585_1"/>
+        <fptr FILEID="alto_00585_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1170.4" BETYPE="IDREF" FILEID="alto_00585_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1171" ORDERLABEL="1169" TYPE="page">
+        <fptr FILEID="tiff_00586_0"/>
+        <fptr FILEID="jp2_00586_0"/>
+        <fptr FILEID="alto_00586_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1171.3" BETYPE="IDREF" FILEID="alto_00586_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1172" ORDERLABEL="1170" TYPE="page">
+        <fptr FILEID="tiff_00586_1"/>
+        <fptr FILEID="jp2_00586_1"/>
+        <fptr FILEID="alto_00586_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1172.4" BETYPE="IDREF" FILEID="alto_00586_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1173" ORDERLABEL="1171" TYPE="page">
+        <fptr FILEID="tiff_00587_0"/>
+        <fptr FILEID="jp2_00587_0"/>
+        <fptr FILEID="alto_00587_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1173.3" BETYPE="IDREF" FILEID="alto_00587_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1174" ORDERLABEL="1172" TYPE="page">
+        <fptr FILEID="tiff_00587_1"/>
+        <fptr FILEID="jp2_00587_1"/>
+        <fptr FILEID="alto_00587_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1174.19" BETYPE="IDREF" FILEID="alto_00587_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1168-5" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1168.6" BETYPE="IDREF" FILEID="alto_00584_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1171-4" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1171.5" BETYPE="IDREF" FILEID="alto_00586_0"/>
+            <area BEGIN="BL_1171.6" BETYPE="IDREF" FILEID="alto_00586_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ADnp" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1165.12" BETYPE="IDREF" FILEID="alto_00583_0"/>
+            <area BEGIN="BL_1165.13" BETYPE="IDREF" FILEID="alto_00583_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Ac8t" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1166.8" BETYPE="IDREF" FILEID="alto_00583_1"/>
+            <area BEGIN="BL_1166.9" BETYPE="IDREF" FILEID="alto_00583_1"/>
+            <area BEGIN="BL_1166.10" BETYPE="IDREF" FILEID="alto_00583_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A6p" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1172.6" BETYPE="IDREF" FILEID="alto_00586_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1166-6" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1166.7" BETYPE="IDREF" FILEID="alto_00583_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1167-3" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1167.4" BETYPE="IDREF" FILEID="alto_00584_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1170-4" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1170.5" BETYPE="IDREF" FILEID="alto_00585_1"/>
+            <area BEGIN="BL_1170.6" BETYPE="IDREF" FILEID="alto_00585_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1170-6" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1170.7" BETYPE="IDREF" FILEID="alto_00585_1"/>
+            <area BEGIN="BL_1171.1" BETYPE="IDREF" FILEID="alto_00586_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1172-7" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1172.7" BETYPE="IDREF" FILEID="alto_00586_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1173-6" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1173.7" BETYPE="IDREF" FILEID="alto_00587_0"/>
+            <area BEGIN="BL_1174.2" BETYPE="IDREF" FILEID="alto_00587_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1172-4" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1172.5" BETYPE="IDREF" FILEID="alto_00586_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1172-8" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1172.8" BETYPE="IDREF" FILEID="alto_00586_1"/>
+            <area BEGIN="BL_1173.1" BETYPE="IDREF" FILEID="alto_00587_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1173-4" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1173.5" BETYPE="IDREF" FILEID="alto_00587_0"/>
+            <area BEGIN="BL_1173.6" BETYPE="IDREF" FILEID="alto_00587_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1165-7" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1165.10" BETYPE="IDREF" FILEID="alto_00583_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1165-8" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1165.11" BETYPE="IDREF" FILEID="alto_00583_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1165-21" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1165.27" BETYPE="IDREF" FILEID="alto_00583_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1165-22" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1165.28" BETYPE="IDREF" FILEID="alto_00583_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1173-7" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1173.8" BETYPE="IDREF" FILEID="alto_00587_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1169-5" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1169.6" BETYPE="IDREF" FILEID="alto_00585_0"/>
+            <area BEGIN="BL_1170.1" BETYPE="IDREF" FILEID="alto_00585_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1166-4" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1166.5" BETYPE="IDREF" FILEID="alto_00583_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1166-5" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1166.6" BETYPE="IDREF" FILEID="alto_00583_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1168-6" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1168.7" BETYPE="IDREF" FILEID="alto_00584_1"/>
+            <area BEGIN="BL_1169.1" BETYPE="IDREF" FILEID="alto_00585_0"/>
+            <area BEGIN="BL_1169.2" BETYPE="IDREF" FILEID="alto_00585_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1167-5" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1167.6" BETYPE="IDREF" FILEID="alto_00584_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1167-4" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1167.5" BETYPE="IDREF" FILEID="alto_00584_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1167-7" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1167.8" BETYPE="IDREF" FILEID="alto_00584_0"/>
+            <area BEGIN="BL_1168.1" BETYPE="IDREF" FILEID="alto_00584_1"/>
+            <area BEGIN="BL_1168.2" BETYPE="IDREF" FILEID="alto_00584_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1167-6" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1167.7" BETYPE="IDREF" FILEID="alto_00584_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1165-6" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1165.9" BETYPE="IDREF" FILEID="alto_00583_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1165-5" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1165.8" BETYPE="IDREF" FILEID="alto_00583_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1171-6" BETYPE="IDREF" FILEID="casebody_0553"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1171.8" BETYPE="IDREF" FILEID="alto_00586_0"/>
+            <area BEGIN="BL_1172.1" BETYPE="IDREF" FILEID="alto_00586_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

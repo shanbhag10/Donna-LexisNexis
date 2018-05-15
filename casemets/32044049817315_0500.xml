@@ -1,0 +1,474 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0500" publicationstatus="published">
+          <court abbreviation="C.C.D.C." jurisdiction="United States">United States Circuit Court of the District of Columbia</court>
+          <name abbreviation="Jones v. United States">JONES et al. v. UNITED STATES</name>
+          <docketnumber>Case No. 7,499</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 1035</citation>
+          <citation category="parallel" type="bluebook">5 Cranch, C. C. 647</citation>
+          <decisiondate>1840-03</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:29Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00519_0" MIMETYPE="image/tiff" CHECKSUM="7066803c9b44ce556c7154c8867d4689" CHECKSUMTYPE="MD5" SIZE="27380">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00519_0.tif"/>
+      </file>
+      <file ID="tiff_00519_1" MIMETYPE="image/tiff" CHECKSUM="695ddd5b7a87d452191261e11bee6220" CHECKSUMTYPE="MD5" SIZE="25568">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00519_1.tif"/>
+      </file>
+      <file ID="tiff_00520_0" MIMETYPE="image/tiff" CHECKSUM="61207ec150fc7ebb8188e265df6ced87" CHECKSUMTYPE="MD5" SIZE="114106">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00520_0.tif"/>
+      </file>
+      <file ID="tiff_00520_1" MIMETYPE="image/tiff" CHECKSUM="5a47cfb5283b4c0446c20ad75cb626a9" CHECKSUMTYPE="MD5" SIZE="114828">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00520_1.tif"/>
+      </file>
+      <file ID="tiff_00521_0" MIMETYPE="image/tiff" CHECKSUM="c0081a4f088ec81baca7080226bf15f7" CHECKSUMTYPE="MD5" SIZE="62062">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00521_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00519_0" MIMETYPE="image/jp2" CHECKSUM="42b1672734779a30a11e92fcaa04edb0" CHECKSUMTYPE="MD5" SIZE="1743197">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00519_0.jp2"/>
+      </file>
+      <file ID="jp2_00519_1" MIMETYPE="image/jp2" CHECKSUM="2a0ee2f15e34340d07c26f493b6bc45d" CHECKSUMTYPE="MD5" SIZE="1573339">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00519_1.jp2"/>
+      </file>
+      <file ID="jp2_00520_0" MIMETYPE="image/jp2" CHECKSUM="3496c29ab0a30e5cae5d511540802288" CHECKSUMTYPE="MD5" SIZE="3850564">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00520_0.jp2"/>
+      </file>
+      <file ID="jp2_00520_1" MIMETYPE="image/jp2" CHECKSUM="a2d88829d80627e7b136bf1fe103509a" CHECKSUMTYPE="MD5" SIZE="3851873">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00520_1.jp2"/>
+      </file>
+      <file ID="jp2_00521_0" MIMETYPE="image/jp2" CHECKSUM="7eaa7384f38f2bd2558924a4b252a771" CHECKSUMTYPE="MD5" SIZE="2678526">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00521_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00519_0" MIMETYPE="text/xml" CHECKSUM="7e8707cf5c1ecbddae61e950f40a945d" CHECKSUMTYPE="MD5" SIZE="49153">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00519_0.xml"/>
+      </file>
+      <file ID="alto_00519_1" MIMETYPE="text/xml" CHECKSUM="cc8d74a4dc6d46953b043f2354d3eb58" CHECKSUMTYPE="MD5" SIZE="43180">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00519_1.xml"/>
+      </file>
+      <file ID="alto_00520_0" MIMETYPE="text/xml" CHECKSUM="695b93904dde2b7a2646976490f5ae19" CHECKSUMTYPE="MD5" SIZE="243706">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00520_0.xml"/>
+      </file>
+      <file ID="alto_00520_1" MIMETYPE="text/xml" CHECKSUM="65b876f2938871416e99fec03b64c52d" CHECKSUMTYPE="MD5" SIZE="251453">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00520_1.xml"/>
+      </file>
+      <file ID="alto_00521_0" MIMETYPE="text/xml" CHECKSUM="16938d9ae56a9e01adb44d89c7393ac5" CHECKSUMTYPE="MD5" SIZE="129000">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00521_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0500" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1039" firstpage="1035">
+              <court pgmap="1037" id="b1037-16">Circuit Court, District of Columbia.</court>
+              <docketnumber pgmap="1037" id="b1037-13">Case No. 7,499.</docketnumber>
+              <citation pgmap="1037" id="b1037-15">[5 Cranch, C. C. 647.] 1</citation>
+              <parties pgmap="1037" id="b1037-14">JONES et al. v. UNITED STATES.</parties>
+              <decisiondate pgmap="1037" id="AEc4">March Term, 1840.</decisiondate>
+              <judges pgmap="1038" id="AJQzz">after reciting the counts of the indictment (THRUSTON, Cir­cuit Judge, absent).</judges>
+              <attorneys pgmap="1038" id="b1038-3">Mr. R. J. Brent and Mr. Hoban, for ap­pellants.</attorneys>
+              <attorneys pgmap="1038" id="b1038-7">Mr. Key and Mr. Addison, contrá.</attorneys>
+              <opinion type="majority">
+                <author pgmap="1038" id="b1038-9">CRANCH, Chief Judge,</author>
+                <p pgmap="1038" id="b1038-10">At the trial of the defendants Lucretia Clarke and Harriet Jones (the other defend­ant, William H. Brewster, not having been taken), the judge, at the prayer of the dis­trict attorney of the United States, instruct­ed the jury,</p>
+                <p pgmap="1038(98) 1039(291)" id="b1038-11">1. “That if the jury believe the testimony in the foregoing statement, and also be­lieve, from the evidence, that the represen­tations of the prisoners to Williams were, in part, the inducement with Williams to buy the woman, then the traversers are guilty,” meaning no doubt, guilty upon this indictment. The statement of testimony re­ferred to, does not appear among the pa­pers submitted to the court, nor is there any transcript of the record. We ought not to be called upon to decide cases in error, until the record is fully made up and present­ed to the court. But however the statement of the testimony may be, it is not sufficient, in any case, for the jury to find testi­mony. They must not only believe the tes­timony to be true, but they must find the facts which the testimony is intended to prove. The jury ought not to find the de­fendants guilty, unless they should, from the evidence, find all the facts necessary to constitute the offence charged. Whatever may have been the statement of the testi­mony, therefore, we think the instruction was wrong. We think it wrong, also, be­cause the indictment does not charge these defendants with any offence under the peni­tentiary act. No person is guilty under that statute, unless he has “obtained" something by his false pretence. This indictment does not charge these defendants with having obtained any thing by their false pretence; and, therefore, they are not 'guilty upon it. The indictment may be, and perhaps is, a good indictment against Brewster, who is alone charged with having obtained the fruit of the cheat. If it should be said, as I understand it to have been said in argu­ment, that if three join in making a false pretence, and one of them obtains the mon­ey. &amp;e., all may be said to have obtained it; the answer is, that then the indictment should have averred that they all obtained it; not that one only obtained it, as stated in this indictment. If these defendants did every thing charged against them .in the indictment, and nothing more, they cannot be guilty, because it does not charge them with the offence described in the statute, which punishes those only who obtain the fruit of the fraud.</p>
+                <p pgmap="1039" id="b1039-4">2. The judge refused to instruct the jury “1st. That in order to convict the prisoners” (that is, these two defendants, Lucretia and Harriet) “the jury must believe, from the evidence, that they received the money and check charged in the indictment to have been obtained by false pretences;” and “2d. That in order to receive the same, they must be present when it was given.” If a person, under the statute, could “obtain” the money, Ac., without personally receiving it into his own hands, the judge correctly refused the instruction. A person who participates in the fraud, and who obtains the benefit of the money, &amp;c., may well be said to obtain the money within the meaning and mischief of the statute. We think there was no error in refusing this instruction.</p>
+                <p pgmap="1039" id="b1039-5">3. The judge, also, refused to give the fol­lowing instruction: “That if the jury believe, from the evidence, that the specific twenty bank-notes, charged, in the third count of the indictment, as obtained by the prisoners, by the false pretences in the said count alleged, were never in the possession of the said par­ty, whose property and money they are char­ged to be, then the prisoner's are entitled to an acquittal.” We think the judge did not err in refusing this instruction. 1. Because that count does not charge that these defend­ants obtained those bank-notes. 2. Because the bank-notes are not averred to be the goods, or chattels, or money, or property, or bank-notes of the said Thomas Williams. It is true that this count charges that Wil­liams gave the bank-notes to Brewster, in payment for Lucretia; but it does not direct­ly aver that they were the property of wil-­liams, or were ever in his actual possession. If it had averred that they were the bank­notes of Williams, we doubt whether it would have been necessary to prove them to have .been in his actual possession; although in Walsh’s Case, 2 Russ. Crimes, 113, 117, all the English judges decided that the notes which the prisoner had received upon the prosecutor’s check, could not be called the prosecutor’s notes, because he never had pos­session of them. Upon this point, however, we do not think it necessary to give an opin­ion.</p>
+                <p pgmap="1039" id="b1039-7">4. The judge also refused to give the fol­lowing instruction: “That all the precedent declarations and doings of the said Jones, Brewster, and. Clarke, in the said evidence in this case averred, are merged in the sub­sequent bill of sale and warranty of Brew­ster, and that the prisoners, upon this charge, are entitled to an aequittal.” The evi--­dence referred to does not appear in this case, and therefore this court cannot say that the judge erred in refusing this instruction, for it is a matter of evidence to be left to the jury, who will draw their own inferences from that and all the other evidence in the cause. The prayer is not predicated upon any supposed finding of the jury; and, for that reason, also, was properly refused.</p>
+                <p pgmap="1039(227) 1040(15)" id="b1039-8">5. The judge also refused to give the fol­lowing instruction: “That if the jury believe, from the evidence aforesaid, that after the conversations and doings of the prisoners, and previous to the consummation of the bargain between Williams and Brewster, the said Williams received from the said Brew­ster alone, the bill of sale given in evidence, then there is no evidence that the said Wil­liams gave credit to the assertions of the prisoners, and they are entitled to an acquit­tal.” The evidence referred to is not before this court, and, therefore, we cannot say that the judges erred in refusing the instruction. But if the false pretences and the subsequent purchase were proved to the satisfaction of the jury, they might in the absence of all contradictory evidence, infer that the pur-, chase was made upon the faith of such pre-­tences. The taking of a warranty, if proved, is a fact also for the consideration of the jury; and the inferences therefrom are to be made, or not, by the jury, according to the preponderance of the evidence upon their minds; and when there is evidence on both sides, the court cannot say there is no evi­dence on one side, but should leave the mat­ter to the jury. Upon such evidence the court cannot say that the prisoners were en­titled to an acquittal. We think the judge did not err in refusing this instruction.</p>
+                <p pgmap="1040" id="b1040-4">6. The judge also refused to give the fol­lowing instruction: “That if the jury believe, from the evidence aforesaid, that the check was given to Brewster by Williams, in the absence of the prisoners, they are entitled to an acquittal, notwithstanding said Brewster may have obtained said check, through the previous countenance and management of the prisoners.” This prayer supposes, that if the prisoners were not present when Williams gave the check to Brewster, they were enti­tled to an acquittal, although they should have participated in the proceeds of the check; and whatever other evidence . there might have been. If these defendants had been charged, in the indictment, with having obtained the check jointly with Brewster, we should not have supposed it necessary to charge or to prove that the three were all present at the time of its being given by Wil­liams to Brewster. We think it would have been sufficient to prove that these defendants obtained their share of it, or of its proceeds, through Brewster. But these defendants are not charged with obtaining any part of the check or its proceeds; and the evidence re­ferred to in the prayer, is not before this •court. The prayer, therefore, appears to us to be irrelevant; and for that reason, as well as because, if relevant, it ought not to have been granted, we think the judge did not err in refusing it.</p>
+                <p pgmap="1040(816) 1041(279)" id="b1040-5">7. The judge also refused the following in­struction: “That the mere exhibition of Bet­ty Clarke to the said Williams accompanied with the assertion that she was a slave and willing to be sold, is no false pretence, but only a lie; even if the jury should believe she was, at the time, free.” This prayer is not predicated on any supposed finding of the jury. It is therefore abstract; and does not, upon its face, appear to be applicable to the cause on trial. But under the penitentiary act, upon which this indictment was framed, the false assertion by the defendants, by which it is supposed they obtained the mon­ey, the notes or the check, is, we think, a false pretence within the meaning of that statute. At common law, indeed, the obtain­ing money by a mere lie, which common pru­dence could guard against, is not an indicta­ble offence. Rex v. Wheatly, 2 Burrows, 1127; but that doctrine was not extended to cases under the English statute of 30 Geo. II. e. 24, against obtaining money. &amp;e. -“by false pretences.” Young v. King, 3 Term R. 98, 100, 102, 103, &amp;c. In that case the coun­sel for the defendants, in page 100, contended that the generality of the words “false pre-­tences,” does not extend the law to cases against which common caution may guard. But Lord Chief Justice Kenyon, in page 102. says, “Undoubtedly this indictment being founded on the statute of 30 Geo. II. c. 24, is different from a common-law indictment. When it passed, it was considered to extend to every case where a party had obtained money by falsely representing himself to be in a situation in which he was not; or any occurrence that had not happened; to which persons of ordinary caution might give cred­it. The statute of 33 Hen. VIII. c. 1, re­quires a false seal or token to be used, in order to bring the person imposed upon into the confidence of the other; but that being found to be insufficient, the statute of 30 Geo. II. c. 24, introduced another offence, de­scribing .it in terms extremely general. It seems difficult to draw the line, and to say to what cases this statute shall extend; and therefore we must see whether each particu­lar case, as it arises, comes within it. In the present case, four men came to the prose­cutor, representing a case as about to take place; that William Lewis should go a cer­tain distance within a limited time; that they had betted upon the event, and that they would probably win. He was, perhaps, too credulous, and gave confidence to them, and advanced his money; and afterwards the whole story proved to be an absolute fiction. Then the defendants, morally speaking, have been guilty of an offence. I admit that there are certain irregularities which are not the subject of criminal law; but when the crim­inal law happens to be auxiliary to the law of morality, I do not feel an inclination to explain it away. Now this offence is within the words of the act; for the defendants have, by false pretences, fraudulently con­trived to obtain money from the prosecutor; and I see no reason why it should not be held to be within the meaning of the statute.” In p. 103, Ashhurst, J., said “As to the first objection; cases which happened before the passing of the 30 Geo. II. c. 24, do not apply to this; for that statute created an offence which did not exist before, and I think it includes the present. The legislature saw that all men were not equally prudent; and this statute was passed to protect the weaker part of mankind. The -words are very gen­eral; ‘all persons who knowingly, by false pretences, shall obtain from any person money, goods, &amp;c. with intent to cheat or .de­fraud,’ &amp;e. and we have no power to restrain their operation." Buller, J., in page 104, is full to the same effect He said, “The stat­ute clearly extends to cases which were not the subject of indictment at common law. The ingredients of this offence are the ob­taining money by false pretences, and with an intent to defraud. Barely asking for a sum of money is not sufficient; but some pretence must be used, and that pretence false; and the intent is necessary to consti­tute the crime. If the intent be made out, and the false pretence used in order to effect it, it brings the case within this statute;” and he cites a case in which the pretence was a bare lie, and the whole story a fiction; and in which the prisoner was convicted and condemned under the statute. It is true that those statutes were not extended in practice to the state of Maryland, and were never in force in this county; but they were known to every lawyer in that state and in this county; and there can be no doubt that con­gress had them in view when they passed the penitentiary law for this district. It uses the same general terms, “false pretences,” without any definition or explanation. The words of the statute are, “That every per­son, duly convicted of obtaining, by false pre-., fences, any goods or chattels, money, bank­note, promissory note, or other instrument in writing, for the payment or delivery of money or other valuable thing, shall be sen­tenced to suffer imprisonment and labor for a ■period not less than one year, nor more than five years.” It does not, like the English statute of 30 Geo. II. c. 24, expressly re­quire that it should be done, “with intent to cheat or defraud any person or persons, of the same,” but as the penitentiary act seems to consider the offence of obtaining money by false pretences as an offence already well known; and as it was, and could be, only known as the offence created by the English statute- of 30 Geo. II. c. 24, it seems reason­able that such an intent ought to be consid­ered as constituting an essential ingredient in the offence named ih the penitentiary law. We are, therefore, of opinion that the judge did not err in refusing to instruct the jury that the exhibition of Letty Clarke to the said Williams, accompanied by the false assertion that she was a slave, and willing to be sold, was not a false pretence.</p>
+                <p pgmap="1041" id="b1041-3">8. The judge also refused to instruct the jury, “that Letty Clarke’s own statements, as against her, were not competent proof of her freedom.” If the word “proof means evi­dence only, as we suppose it was intended to mean, the instruction was correctly refused; her voluntary confessions were competent evi­dence of that fact, as against her, in this cause.</p>
+                <p pgmap="1041" id="b1041-4">9. The judge was therefore right also in refusing to instruct the jury, “that there was no evidence of the freedom of the said Letty Clarke.”</p>
+                <p pgmap="1041" id="b1041-5">10. And also in refusing to instruct the jury, “that the United States had failed to prove the false pretence alleged, by sufficient proof.” Judgment reversed; and ordered to be arrested.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1037" ORDERLABEL="1035" TYPE="page">
+        <fptr FILEID="tiff_00519_0"/>
+        <fptr FILEID="jp2_00519_0"/>
+        <fptr FILEID="alto_00519_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1037.4" BETYPE="IDREF" FILEID="alto_00519_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1038" ORDERLABEL="1036" TYPE="page">
+        <fptr FILEID="tiff_00519_1"/>
+        <fptr FILEID="jp2_00519_1"/>
+        <fptr FILEID="alto_00519_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1038.7" BETYPE="IDREF" FILEID="alto_00519_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1039" ORDERLABEL="1037" TYPE="page">
+        <fptr FILEID="tiff_00520_0"/>
+        <fptr FILEID="jp2_00520_0"/>
+        <fptr FILEID="alto_00520_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1039.3" BETYPE="IDREF" FILEID="alto_00520_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1040" ORDERLABEL="1038" TYPE="page">
+        <fptr FILEID="tiff_00520_1"/>
+        <fptr FILEID="jp2_00520_1"/>
+        <fptr FILEID="alto_00520_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1040.4" BETYPE="IDREF" FILEID="alto_00520_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1041" ORDERLABEL="1039" TYPE="page">
+        <fptr FILEID="tiff_00521_0"/>
+        <fptr FILEID="jp2_00521_0"/>
+        <fptr FILEID="alto_00521_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1041.4" BETYPE="IDREF" FILEID="alto_00521_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1037-15" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1037.27" BETYPE="IDREF" FILEID="alto_00519_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1037-16" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1037.28" BETYPE="IDREF" FILEID="alto_00519_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1041-4" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1041.6" BETYPE="IDREF" FILEID="alto_00521_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1041-5" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1041.7" BETYPE="IDREF" FILEID="alto_00521_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1037-13" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1037.25" BETYPE="IDREF" FILEID="alto_00519_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1038-10" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1038.13" BETYPE="IDREF" FILEID="alto_00519_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1039-4" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1039.5" BETYPE="IDREF" FILEID="alto_00520_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1038-11" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1038.14" BETYPE="IDREF" FILEID="alto_00519_1"/>
+            <area BEGIN="BL_1039.1" BETYPE="IDREF" FILEID="alto_00520_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1040-4" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1040.5" BETYPE="IDREF" FILEID="alto_00520_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1040-5" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1040.6" BETYPE="IDREF" FILEID="alto_00520_1"/>
+            <area BEGIN="BL_1040.7" BETYPE="IDREF" FILEID="alto_00520_1"/>
+            <area BEGIN="BL_1041.2" BETYPE="IDREF" FILEID="alto_00521_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1039-8" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1039.9" BETYPE="IDREF" FILEID="alto_00520_0"/>
+            <area BEGIN="BL_1040.1" BETYPE="IDREF" FILEID="alto_00520_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AJQzz" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1038.11" BETYPE="IDREF" FILEID="alto_00519_1"/>
+            <area BEGIN="BL_1038.12" BETYPE="IDREF" FILEID="alto_00519_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1038-9" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1038.10" BETYPE="IDREF" FILEID="alto_00519_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1037-14" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1037.26" BETYPE="IDREF" FILEID="alto_00519_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1041-3" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1041.5" BETYPE="IDREF" FILEID="alto_00521_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1038-7" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1038.8" BETYPE="IDREF" FILEID="alto_00519_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1039-5" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1039.6" BETYPE="IDREF" FILEID="alto_00520_0"/>
+            <area BEGIN="BL_1039.7" BETYPE="IDREF" FILEID="alto_00520_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AEc4" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1037.29" BETYPE="IDREF" FILEID="alto_00519_0"/>
+            <area BEGIN="BL_1037.30" BETYPE="IDREF" FILEID="alto_00519_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1039-7" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1039.8" BETYPE="IDREF" FILEID="alto_00520_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1038-3" BETYPE="IDREF" FILEID="casebody_0500"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1038.3" BETYPE="IDREF" FILEID="alto_00519_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

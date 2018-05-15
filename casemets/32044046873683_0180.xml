@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0180" publicationstatus="published">
+          <court abbreviation="C.C.D. Mich." jurisdiction="United States">United States Circuit Court for the District of Michigan</court>
+          <name abbreviation="Egberts v. Dibble">EGBERTS v. DIBBLE</name>
+          <docketnumber>Case No. 4,307</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 371</citation>
+          <citation category="parallel" type="bluebook">3 McLean, 86</citation>
+          <decisiondate>1842-10</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:33Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00187_0" MIMETYPE="image/tiff" CHECKSUM="cb4655e896c35d026de0059d2949dbd5" CHECKSUMTYPE="MD5" SIZE="80570">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00187_0.tif"/>
+      </file>
+      <file ID="tiff_00187_1" MIMETYPE="image/tiff" CHECKSUM="a15245a7e3d4da27c0115509af72d28b" CHECKSUMTYPE="MD5" SIZE="71856">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00187_1.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00187_0" MIMETYPE="image/jp2" CHECKSUM="c058652650f79d981ac34ae4ef6f5851" CHECKSUMTYPE="MD5" SIZE="3129695">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00187_0.jp2"/>
+      </file>
+      <file ID="jp2_00187_1" MIMETYPE="image/jp2" CHECKSUM="63fbae3505987eca0ac9763985bed6dc" CHECKSUMTYPE="MD5" SIZE="2850126">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00187_1.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00187_0" MIMETYPE="text/xml" CHECKSUM="ba25903bb1c8b68ee2dad4c21f91fced" CHECKSUMTYPE="MD5" SIZE="177808">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00187_0.xml"/>
+      </file>
+      <file ID="alto_00187_1" MIMETYPE="text/xml" CHECKSUM="97a251c15d45bf1f91fe12f779b79fa9" CHECKSUMTYPE="MD5" SIZE="150172">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00187_1.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0180" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="372" firstpage="371">
+              <court id="b373-11" pgmap="373">Circuit Court, D. Michigan.</court>
+              <docketnumber id="b373-8" pgmap="373">Case No. 4,307.</docketnumber>
+              <citation id="b373-10" pgmap="373">[3 McLean, 86.) <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b373-9" pgmap="373">EGBERTS v. DIBBLE.</parties>
+              <decisiondate id="APz" pgmap="373">Oct. Term, 1842.</decisiondate>
+              <attorneys id="b373-15" pgmap="373">Mr. Ten Eyck, for plaintiff.</attorneys>
+              <attorneys id="b373-16" pgmap="373">Mr. Talbott, for defendant.</attorneys>
+              <footnote label="1">
+                <p id="b373-18" pgmap="373">1 [Reported by Hon. John McLean, Circuit Justice.)</p>
+              </footnote>
+              <opinion type="majority">
+                <p id="b373-17" pgmap="373(251) 374(100)">OPINION OF THE COURT. This is an action of debt, brought on a judgment of the supreme court of the state of New York. The defendant filed three pleas. 1. Nul tiel rec­ord. 2. Statute of limitations. 3. That plain­tiffs were not citizens of New York. The plaintiffs took issue on the first and third pleas; and as to the second plea, say, that they ought not to be barred from a recovery, because they say, that at the time the action accrued to them, they were in parts beyond seas, to wit, in the state of New York, and that in May, 1841, they came from said parts beyond the seas into the state and district of Michigan, and which coming was the first time they came to the district of Michigan after the accruing of the said cause of action ;v and that they commenced this suit within eight years after they came from beyond sea into this state and district, after the accru­ing of said cause of action, &amp;c. The defend­ant replied that plaintiffs ought not to main­tain their action, because the plaintiffs and defendant were, at the date of the recovery, residents of New York, and did then and there reside, continually, for eight years, next succeeding the day of the date of said recov­ery. Absque hoc, that the'. said plaintiffs were in parts beyond seas, &amp;c. traversing the replication of the plaintiffs. The plaintiffs sur-rejoined, denying that they and defend­ant resided continuously in New York for eight years, next succeeding the date of said recovery, without re-affirming what is stated in the replication. To this sur-rejoinder de­fendant demurred, specially. 1. Because the sur-rejoinder does not tender an issue mate­rial out of or upon the traverse, but puts in issue the matter of inducement. 2. That the sur-rejoinder does not re-affirm what the de­fendant has in his traverse by his rejoinder denied. 3. Because the said sur-rejoinder is a negative pregnant, and that it departs from and abandons the matter set up in the repli­cation, &amp;c.</p>
+                <p id="b374-3" pgmap="374">The plaintiffs insist that the defendant sets up in his rejoinder a substantive distinct ract, and that they were right in taking issue upon that fact, and that if the sur-rejoinder is de­fective, the plaintiffs are entitled to judg­ment, because the defendant’s rejoinder is bad. A demurrer applies to the first defect in pleading, although as in this case, the de­murrer be filed to the sur-rejoinder. The re­joinder of the defendant is bad. In this case, the suit being brought in the state of Michi­gan, the statute of limitations of New York cannot be pleaded, but the statute of Michi­gan. The act of limitations is the law of the forum. . In Le Roy v. Crowninshield [Case No. 8,269], it is said, “a plea of the statute of limitations of the state where the contract was made, is no bar to a suit brought in a foreign tribunal to enforce that contract; but a statute of limitations of the state where the suit is brought must be pleaded.” The stat­ute of Michigan does not apply to persons beyond seas, which has been construed by the state courts, beyond the limits of the state. To avoid the plea of the statute, the plaintiffs state that they resided in the state of New York;- that until 1811 they never came into the state of Michigan. To this the defendant rejoins that they both resided in the state of New York eight years, con­tinuously from the time of the recovery, &amp;e. Here the defendant sets up new and substan­tive matter as inducement to the traverse, which is not alleged by the plaintiffs, and is entirely different matter from that of the trav­erse. The inducement must be an answer to that of the opposite party’s allegation, and must be sufficient to defeat that allega­tion. The traverse is but an inference from the inducement Now the facts stated as inducement do not go to deny the plaintiffs’ action. They are no answer to it, and can authorise no inference against the plaintiffs’ right. The view of the pleader seems to have been to rely upon the statute of limi­tations of New York, and not the statute of •Michigan. The matter of the rejoinder be­ing defective, judgment must be entered for the plaintiffs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="373" ORDERLABEL="371" TYPE="page">
+        <fptr FILEID="tiff_00187_0"/>
+        <fptr FILEID="jp2_00187_0"/>
+        <fptr FILEID="alto_00187_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_373.6" BETYPE="IDREF" FILEID="alto_00187_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="374" ORDERLABEL="372" TYPE="page">
+        <fptr FILEID="tiff_00187_1"/>
+        <fptr FILEID="jp2_00187_1"/>
+        <fptr FILEID="alto_00187_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_374.8" BETYPE="IDREF" FILEID="alto_00187_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-9" BETYPE="IDREF" FILEID="casebody_0180"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.11" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-8" BETYPE="IDREF" FILEID="casebody_0180"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.10" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-18" BETYPE="IDREF" FILEID="casebody_0180"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.22" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-16" BETYPE="IDREF" FILEID="casebody_0180"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.20" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b374-3" BETYPE="IDREF" FILEID="casebody_0180"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_374.9" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-11" BETYPE="IDREF" FILEID="casebody_0180"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.13" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-10" BETYPE="IDREF" FILEID="casebody_0180"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.12" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-15" BETYPE="IDREF" FILEID="casebody_0180"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.19" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b373-17" BETYPE="IDREF" FILEID="casebody_0180"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.21" BETYPE="IDREF" FILEID="alto_00187_0"/>
+            <area BEGIN="BL_374.5" BETYPE="IDREF" FILEID="alto_00187_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="APz" BETYPE="IDREF" FILEID="casebody_0180"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_373.14" BETYPE="IDREF" FILEID="alto_00187_0"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

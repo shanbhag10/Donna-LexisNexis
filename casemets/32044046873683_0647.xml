@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044046873683_0647" publicationstatus="published">
+          <court abbreviation="C.C.S.D.N.Y." jurisdiction="United States">United States Circuit Court for the Southern District of New York</court>
+          <name abbreviation="Fiedler v. Maxwell">FIEDLER v. MAXWELL</name>
+          <docketnumber>Case No. 4,760</docketnumber>
+          <citation category="official" type="bluebook">8 F. Cas. 1194</citation>
+          <citation category="parallel" type="bluebook">2 Blatchf. 552</citation>
+          <decisiondate>1853-02</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-12T19:40:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-26T10:42:09Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-26T10:56:36Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00598_1" MIMETYPE="image/tiff" CHECKSUM="db782116b8c8da05159a9ff30a9dbc59" CHECKSUMTYPE="MD5" SIZE="61248">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00598_1.tif"/>
+      </file>
+      <file ID="tiff_00599_0" MIMETYPE="image/tiff" CHECKSUM="e6c1839fa0e50a1109b0fa1d94f4523f" CHECKSUMTYPE="MD5" SIZE="26298">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00599_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00598_1" MIMETYPE="image/jp2" CHECKSUM="f90e338b001cb32245e6315c0e9f6909" CHECKSUMTYPE="MD5" SIZE="2580519">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00598_1.jp2"/>
+      </file>
+      <file ID="jp2_00599_0" MIMETYPE="image/jp2" CHECKSUM="60a019f16100adfb10ba492d302df958" CHECKSUMTYPE="MD5" SIZE="2987319">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044046873683_00599_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00598_1" MIMETYPE="text/xml" CHECKSUM="840bf336655baea46fc64d88af320c1f" CHECKSUMTYPE="MD5" SIZE="127258">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00598_1.xml"/>
+      </file>
+      <file ID="alto_00599_0" MIMETYPE="text/xml" CHECKSUM="94a5c1a500ad52d8a9adc81e608dd15c" CHECKSUMTYPE="MD5" SIZE="41384">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044046873683_redacted_ALTO_00599_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0647" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="1195" firstpage="1194">
+              <court id="b1196-7" pgmap="1196">Circuit Court, S. D. New York.</court>
+              <docketnumber id="b1196-4" pgmap="1196">Case No. 4,760.</docketnumber>
+              <citation id="b1196-6" pgmap="1196">[2 Blatchf. 552.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties id="b1196-5" pgmap="1196">FIEDLER v. MAXWELL.</parties>
+              <decisiondate id="Af4h" pgmap="1196">Feb. 1853.</decisiondate>
+              <attorneys id="b1196-16" pgmap="1196">John S. MeCulloh, for plaintiff.</attorneys>
+              <attorneys id="b1196-17" pgmap="1196">J. Prescott Hall, Dist Atty., for defendant.</attorneys>
+              <footnote label="1">
+                <p id="b1196-13" pgmap="1196">1 [Reported by Samuel Blatchford, Esq., and here reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author id="b1196-18" pgmap="1196">BETTS, District Judge.</author>
+                <p id="AzeZ" pgmap="1196">This case em­braces several questions which have been passed upon by this court The law thus settled must .be considered as the law gov­erning the subject, until it is changed by the supreme court or by congress. The plaintiff was entitled to enter his goods at the specie value of the Austrian florin, on payment of the legal duties chargeable upon that amount. Grant v. Maxwell [Case No. 5,699], The defendant, therefore, had no authority in law to impose duties on any other valu­ation.</p>
+                <p id="b1196-19" pgmap="1196">It is exceedingly doubtful whether, if these goods had been subject to duty on a paper valuation, the collector could have also im­posed a penal duty because of a difference of more than 10 per cent, between silver and paper currency. This could hardly, in any reasonable acceptation, be considered an ex­cess of appraised value over the value de­clared in the entry; because, the invoice accompanies the entry, and the transcription of the summation of its charges into the entry does not, without the presentation of the invoice, constitute the proceeding known to the law or in practice as an entry made. Under such circumstances, when the valua­tion insisted upon by the government and that claimed by the importer are both of them on the face of the invoice, placing the latter alone upon the scrip called the, entry, could not, except under the severest inter­pretation of the language of the act, subject the goods to a penal duty.</p>
+                <p id="b1196-20" pgmap="1196">Be that as it may, it is clear, upon the main point, that the plaintiff was entitled to enter his importations at their specie value in the Austrian market.</p>
+                <p id="b1196-21" pgmap="1196(24) 1197(148)">The only point not covered by previous decisions of this court relates to the form of the action. There are two cases decided by the supreme court (Conard v. Pacific Ins. Co., 6 Pet [31 U. S.] 262, and Tracy v. Swartwout 10 Pet [35 U. S.] 80), which recognize it as a clear principle of law, that an importer can maintain trespass or trover against a United States officer for the de­tention of his goods on the ground that they are subject to a lien on behalf of the government if no such lien is given by law. A collector of the customs cannot. defend himself against such an action by showing that he. acted under the instructions of the secretary of the treasury in enforcing the payment of duties or obtaining due security therefor. If his acts are not warranted by law, the owner of the goods can assert his right by an action of trover, and will be en­titled to full remuneration for the injury done him.</p>
+                <p id="b1197-5" pgmap="1197">Judgment must be rendered for. the plain­tiff upon the verdict, according to the stipu­lation in the case, with costs.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="1196" ORDERLABEL="1194" TYPE="page">
+        <fptr FILEID="tiff_00598_1"/>
+        <fptr FILEID="jp2_00598_1"/>
+        <fptr FILEID="alto_00598_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1196.4" BETYPE="IDREF" FILEID="alto_00598_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="1197" ORDERLABEL="1195" TYPE="page">
+        <fptr FILEID="tiff_00599_0"/>
+        <fptr FILEID="jp2_00599_0"/>
+        <fptr FILEID="alto_00599_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_1197.4" BETYPE="IDREF" FILEID="alto_00599_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1196-4" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.7" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1196-5" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.8" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1196-6" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.9" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1196-7" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.10" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1197-5" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1197.6" BETYPE="IDREF" FILEID="alto_00599_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1196-20" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.24" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1196-18" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.20" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AzeZ" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.21" BETYPE="IDREF" FILEID="alto_00598_1"/>
+            <area BEGIN="BL_1196.22" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="Af4h" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.11" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1196-19" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.23" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1196-21" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.25" BETYPE="IDREF" FILEID="alto_00598_1"/>
+            <area BEGIN="BL_1197.1" BETYPE="IDREF" FILEID="alto_00599_0"/>
+            <area BEGIN="BL_1197.2" BETYPE="IDREF" FILEID="alto_00599_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1196-13" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.17" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1196-16" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.18" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b1196-17" BETYPE="IDREF" FILEID="casebody_0647"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_1196.19" BETYPE="IDREF" FILEID="alto_00598_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>

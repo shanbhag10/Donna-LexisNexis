@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.loc.gov/METS/">
+  <dmdSec ID="case">
+    <mdWrap MDTYPE="OTHER" OTHERMDTYPE="HLS-CASELAW-CASEXML">
+      <xmlData>
+        <case xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case:v1" caseid="32044049817315_0235" publicationstatus="published">
+          <court abbreviation="N.D.N.Y." jurisdiction="United States">United States District Court for the Northern District of New York</court>
+          <name abbreviation="In re Jaycox">In re JAYCOX et al.</name>
+          <docketnumber>Case No. 7,239</docketnumber>
+          <citation category="official" type="bluebook">13 F. Cas. 398</citation>
+          <citation category="parallel" type="bluebook">7 N. B. R. (1873) 140</citation>
+          <decisiondate>1875</decisiondate>
+        </case>
+      </xmlData>
+    </mdWrap>
+  </dmdSec>
+  <amdSec ID="amd0001">
+    <digiprovMD ID="digi001">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>scn0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>capture</eventType>
+            <eventDateTime>2016-12-10T00:25:06Z</eventDateTime>
+            <eventDetail>Scan date noting when printed source volume was converted to digital images used as sources for transcription.</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>HLSL</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Harvard Law School Library</agentName>
+            <agentType>organization</agentType>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi002">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>ocr0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>transcription</eventType>
+            <eventDateTime>2017-04-04T14:09:46Z</eventDateTime>
+            <eventDetail>Transcription event</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>dsrs</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata DSRS, ABBYY FineReader</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 10</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi003">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>crt0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>METScreation</eventType>
+            <eventDateTime>2017-04-25T05:27:33Z</eventDateTime>
+            <eventDetail>Creation of digital artifact described by this METS file</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redrli</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+    <digiprovMD ID="digi004">
+      <mdWrap MDTYPE="PREMIS">
+        <xmlData>
+          <event xmlns="info:lc/xmlns/premis-v2">
+            <eventIdentifier>
+              <eventIdentifierType>Local</eventIdentifierType>
+              <eventIdentifierValue>red0001</eventIdentifierValue>
+            </eventIdentifier>
+            <eventType>redaction</eventType>
+            <eventDateTime>2017-04-25T05:41:27Z</eventDateTime>
+            <eventDetail>Redaction step</eventDetail>
+          </event>
+          <agent xmlns="info:lc/xmlns/premis-v2">
+            <agentIdentifier>
+              <agentIdentifierType>Local</agentIdentifierType>
+              <agentIdentifierValue>redravel-redactor</agentIdentifierValue>
+            </agentIdentifier>
+            <agentName>Innodata R.E.D. Workbench/RLI tool</agentName>
+            <agentType>software</agentType>
+            <agentNote>Version 20170308.post165</agentNote>
+          </agent>
+        </xmlData>
+      </mdWrap>
+    </digiprovMD>
+  </amdSec>
+  <fileSec>
+    <fileGrp USE="tiff">
+      <file ID="tiff_00200_1" MIMETYPE="image/tiff" CHECKSUM="509962a5c764281162ec4fe9d31a2203" CHECKSUMTYPE="MD5" SIZE="91200">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00200_1.tif"/>
+      </file>
+      <file ID="tiff_00201_0" MIMETYPE="image/tiff" CHECKSUM="f29cbdfa6671d2d9b6ccd3688ce22e71" CHECKSUMTYPE="MD5" SIZE="83696">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00201_0.tif"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="jp2">
+      <file ID="jp2_00200_1" MIMETYPE="image/jp2" CHECKSUM="0d687cedef6703f8b4ee781ccea8f258" CHECKSUMTYPE="MD5" SIZE="3317743">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00200_1.jp2"/>
+      </file>
+      <file ID="jp2_00201_0" MIMETYPE="image/jp2" CHECKSUM="d4e9cf3d05ae5d2660b465999ac56daf" CHECKSUMTYPE="MD5" SIZE="3123031">
+        <FLocat LOCTYPE="URL" xlink:href="../images/32044049817315_00201_0.jp2"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="alto">
+      <file ID="alto_00200_1" MIMETYPE="text/xml" CHECKSUM="552daac4d8a62b90340fc371395aa223" CHECKSUMTYPE="MD5" SIZE="198660">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00200_1.xml"/>
+      </file>
+      <file ID="alto_00201_0" MIMETYPE="text/xml" CHECKSUM="ef0f6194ea4790ee8744c9b8b4d60995" CHECKSUMTYPE="MD5" SIZE="178757">
+        <FLocat LOCTYPE="URL" xlink:href="../alto/32044049817315_redacted_ALTO_00201_0.xml"/>
+      </file>
+    </fileGrp>
+    <fileGrp USE="casebody">
+      <file ID="casebody_0235" MIMETYPE="text/xml">
+        <FContent>
+          <xmlData>
+            <casebody xmlns="http://nrs.harvard.edu/urn-3:HLS.Libr.US_Case_Law.Schema.Case_Body:v1" lastpage="399" firstpage="398">
+              <court pgmap="400" id="ACFJ">District Court, N. D. New York.</court>
+              <docketnumber pgmap="400" id="b400-7">Case No. 7,239.</docketnumber>
+              <citation pgmap="400" id="AMW">[7 N. B. R. (1873) 140.] <footnotemark>1</footnotemark>
+              </citation>
+              <parties pgmap="400" id="A_L">In re JAYCOX et al.</parties>
+              <footnote label="1">
+                <p pgmap="400" id="b400-12">1 [Reprinted by permission.]</p>
+              </footnote>
+              <opinion type="majority">
+                <author pgmap="400" id="b400-16">HALL, District Judge.</author>
+                <p pgmap="400(429) 401(375)" id="A8A">The attorneys and counsel who prepared and filed the petition of Jaycox &amp; Green for their adjudication as voluntary bankrupts, having applied by peti­tion for an order directing the assignee to pay their charges for such services, and for other services rendered as the attorneys and counsel of the bankrupts up to the time of the approval of the choice of the assignee herein, it was referred to register Gott to take proof in regard to said claim and peti­tion, (after due notice to the assignee,) and to report the facts, and what compensation the petitioners were entitled to for services ren­dered before the filing of the petition and schedules, and what after such filing down to the appointment of assignee, and what rights they had for payment against the estate in bankruptcy; — and he was directed to annex to his report an account in detail of the serv­ices rendered, and to report his opinion upon the facts and the law of the ease. This or­der of reference has been but partially and very unsatisfactorily executed. The assign-­ee, though served with notice of the hear­ing, wholly neglected to appear upon the ref­erence, and the only testimony taken was that of the two claimants, in which they stated their- services in general terms and their opinion of the value of such services. No account in detail of the services rendered is returned, but the account returned con­sists of one item of seven hundred and fifty dollars for services rendered in “consulting concerning the proceedings in bankruptcy,” preparation of the petition and schedules and filing the same and attending upon the ad­judication of bankruptcy; with a reference to the testimony given by the claimants, which, though general in its terms, gives some further details; — and another item of two hundred and fifty dollars for services after the adjudication, and up to the confir­mation of the assignee, with a similar refer­ence to the testimony of the claimants. The estate was a large one, and it is perhaps pos­sible that the sums charged are no more than a just compensation for the services render­ed; but, before any such sums should be al­lowed, more satisfactory evidence should be given of the character and extent of the serv­ices and the amount proper to be allowed therefor; and the assignee should see that only the amount that the parties are entitled to claim should, in any form, be charged up­on the estate. The register reports that he had supposed that such services were not a charge against the estate in the hands of the assignee, but that Case of Comstock [Case No. 3,074], seemed to decide the matter in favor of the validity of claims for such serv­ices, and that he supposed he was bound by such decision until it was overruled; and he therefore reported that the assignee should pay the petitioners the amount they claimed. The register’s report must be overruled. In respect to the services rendered prior to the adjudication in bankruptcy, the petitioners are general creditors of the bankrupt, and must prove their debt in the usual form, and take their dividend in concurrence with the other creditors of the bankrupt In re Hirschberg [Id. 6,530]; In re Evans [Id. 4,­552]; In re Rosenfeld [Id. 12,057]; In re New York Mail Steamship Co. [Id. 10,211]; In re Bigelow [Id. 1,397]. In respect to the other charge the proof is unsatisfactory and in­sufficient. In order to justify an order that the assignee pay such claim, it must be clear­ly shown that the alleged services were prop­erly and necessarily rendered for the pur­pose of benefiting or preserving the estate of the bankrupts, in the interest of the general creditors, and not in the interest of any cred­itor or class of creditors. It was the duty of the bankrupts to see that their property was preserved until the appointment of an as-­signee, and if it was necessary that other persons should render similar services, and the petitioners actually rendered valuable service in respect to the bankrupt’s property, and to the advantage of the general creditors, the extent and value and necessity of such services . should be clearly established. There is no satisfactory proof upon which the court can fix and allow any spec’" :-.um for such services, and the petition oí xiunt, Green &amp; Weaver is therefore dismissed, but without prejudice to any proof of claim which they may hereafter make in the usual form, or to any application for payment for any services necessarily rendered in protect­ing the estate of the bankrupts. In re Bige­low [supra]; Bump, Bankr. (5th Ed.) 428; 1 and 2 Am. &amp; Eng. Bankr. Dig.</p>
+              </opinion>
+            </casebody>
+          </xmlData>
+        </FContent>
+      </file>
+    </fileGrp>
+  </fileSec>
+  <structMap TYPE="physical">
+    <div TYPE="volume">
+      <div ORDER="400" ORDERLABEL="398" TYPE="page">
+        <fptr FILEID="tiff_00200_1"/>
+        <fptr FILEID="jp2_00200_1"/>
+        <fptr FILEID="alto_00200_1"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_400.4" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+      <div ORDER="401" ORDERLABEL="399" TYPE="page">
+        <fptr FILEID="tiff_00201_0"/>
+        <fptr FILEID="jp2_00201_0"/>
+        <fptr FILEID="alto_00201_0"/>
+        <div TYPE="pagelabel">
+          <fptr>
+            <seq>
+              <area BEGIN="BL_401.3" BETYPE="IDREF" FILEID="alto_00201_0"/>
+            </seq>
+          </fptr>
+        </div>
+      </div>
+    </div>
+  </structMap>
+  <structMap TYPE="xref">
+    <div TYPE="blocks">
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="AMW" BETYPE="IDREF" FILEID="casebody_0235"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.11" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A_L" BETYPE="IDREF" FILEID="casebody_0235"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.10" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="A8A" BETYPE="IDREF" FILEID="casebody_0235"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.20" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            <area BEGIN="BL_400.21" BETYPE="IDREF" FILEID="alto_00200_1"/>
+            <area BEGIN="BL_401.1" BETYPE="IDREF" FILEID="alto_00201_0"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-7" BETYPE="IDREF" FILEID="casebody_0235"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.9" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-16" BETYPE="IDREF" FILEID="casebody_0235"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.19" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="b400-12" BETYPE="IDREF" FILEID="casebody_0235"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.16" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+      <div TYPE="element">
+        <fptr>
+          <area BEGIN="ACFJ" BETYPE="IDREF" FILEID="casebody_0235"/>
+        </fptr>
+        <fptr>
+          <seq>
+            <area BEGIN="BL_400.12" BETYPE="IDREF" FILEID="alto_00200_1"/>
+          </seq>
+        </fptr>
+      </div>
+    </div>
+  </structMap>
+</mets>
